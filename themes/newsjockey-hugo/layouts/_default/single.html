@@ -1,0 +1,97 @@
+{{ define "main" }}
+<!-- Individual article page component -->
+<div class="container mx-auto px-4 py-8">
+  <div class="max-w-4xl mx-auto">
+    <!-- Breadcrumb navigation -->
+    <div class="text-sm mb-6">
+      <a href="/" class="text-primary hover:underline">Home</a>
+      <span class="text-gray-500 mx-2"> / </span>
+      <span class="text-gray-500">Article</span>
+    </div>
+
+    <!-- Article header -->
+    <div class="mb-8">
+      <h1
+        class="text-4xl md:text-5xl font-bold text-base-content leading-tight mb-6"
+      >
+        {{ .Title }}
+      </h1>
+
+      <!-- Article meta -->
+      <div class="border-b border-gray-200 pb-6 mb-8">
+        <div class="flex items-center text-sm mb-4">
+          <span class="text-primary font-semibold"> {{ .Site.Title }} </span>
+          <span class="text-gray-400 mx-2"> • </span>
+          <span class="text-base-content opacity-70">
+            {{ .Date.Format "January 2, 2006" }}
+          </span>
+        </div>
+
+        <!-- Source link -->
+        {{ if .Params.source_link }}
+        <a
+          href="{{ .Params.source_link }}"
+          target="_blank"
+          class="inline-flex items-center text-primary hover:text-primary-focus underline font-medium"
+        >
+          Read Original Article →
+        </a>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Article image -->
+    {{ if .Params.enclosure }}
+    <div class="mb-8">
+      <img
+        src="{{ .Params.enclosure }}"
+        alt="{{ .Title }}"
+        class="w-full h-96 object-cover rounded-lg shadow-lg mb-8"
+      />
+    </div>
+    {{ end }}
+
+    <!-- Article summary -->
+    {{ if .Params.summary }}
+    <div class="bg-base-200 p-6 rounded-lg mb-8">
+      <h2 class="text-2xl font-bold text-base-content mb-4">Summary</h2>
+      <div
+        class="text-lg leading-relaxed mb-8 prose prose-lg max-w-none"
+        style="color: var(--base-content)"
+      >
+        {{ .Params.summary | safeHTML }}
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Article content -->
+    <div class="mb-12">
+      <h2 class="text-2xl font-bold text-base-content mb-6">Full Article</h2>
+      <div
+        class="prose prose-lg max-w-none leading-relaxed"
+        style="color: var(--base-content)"
+      >
+        <div class="space-y-4">
+          {{ .Content | replaceRE "\\n\\n" "</p><p class='mb-4'>" | replaceRE "^" "<p class='mb-4'>" | replaceRE "$" "</p>" | safeHTML }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Article metadata -->
+    {{ if or .Params.article_id .Params.feed_item_id }}
+    <div class="bg-base-200 p-4 rounded-lg mb-8 text-sm text-gray-600">
+      {{ if .Params.article_id }}
+      <p>Article ID: {{ .Params.article_id }}</p>
+      {{ end }} {{ if .Params.feed_item_id }}
+      <p>Feed Item ID: {{ .Params.feed_item_id }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Back to home button -->
+    <div class="text-center">
+      <a href="/" class="btn btn-outline btn-lg">← Back to Home</a>
+    </div>
+  </div>
+</div>
+{{ end }}

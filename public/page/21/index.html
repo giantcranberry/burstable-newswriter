@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building Texas Show News</title>
+    
+    
+    <meta name="description" content="Latest news and updates from Building Texas Show">
+    <meta name="keywords" content="news, breaking news, current events, analysis, journalism">
+    <meta name="author" content="Building Texas Show">
+    
+    
+    <meta property="og:title" content="Building Texas Show News">
+    <meta property="og:description" content="Latest news and updates from Building Texas Show">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:1313/">
+    
+    
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Building Texas Show News">
+    <meta name="twitter:description" content="Latest news and updates from Building Texas Show">
+    
+    
+    <link rel="canonical" href="http://localhost:1313/">
+    
+    
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    
+    <style>
+         
+        :root {
+          --primary: #3b82f6;
+          --primary-content: #ffffff;
+          --secondary: #64748b;
+          --accent: #f59e0b;
+          --neutral: #1f2937;
+          --base-100: #ffffff;
+          --base-200: #f8fafc;
+          --base-300: #e2e8f0;
+          --base-content: #1f2937;
+        }
+
+         
+        [data-theme="light"] {
+          --primary: #3b82f6;
+          --primary-content: #ffffff;
+          --secondary: #64748b;
+          --accent: #f59e0b;
+          --neutral: #1f2937;
+          --base-100: #ffffff;
+          --base-200: #f8fafc;
+          --base-300: #e2e8f0;
+          --base-content: #1f2937;
+          background-color: #ffffff;
+          color: #1f2937;
+        }
+
+         
+        [data-theme="dark"] {
+          --primary: #60a5fa;
+          --primary-content: #1e293b;
+          --secondary: #94a3b8;
+          --accent: #fbbf24;
+          --neutral: #f1f5f9;
+          --base-100: #1e293b;
+          --base-200: #334155;
+          --base-300: #475569;
+          --base-content: #d1d5db;
+          background-color: #1e293b;
+          color: #d1d5db;
+        }
+
+        html, body {
+          background-color: inherit;
+          color: inherit;
+        }
+
+        .nav-hover:hover {
+          background-color: var(--primary) !important;
+          color: var(--primary-content) !important;
+        }
+
+        .dropdown-content {
+          background-color: var(--base-100) !important;
+          border: 1px solid var(--base-300) !important;
+        }
+
+        .dropdown-item:hover {
+          background-color: var(--primary) !important;
+          color: var(--primary-content) !important;
+        }
+
+        .group:hover .group-hover\:block {
+          display: block !important;
+        }
+    </style>
+    
+    
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const currentTheme = html.getAttribute('data-theme');
+            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+        }
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+        });
+    </script>
+</head>
+<body class="min-h-screen bg-base-100">
+    
+<div class="sticky top-0 z-50">
+  <div
+    class="navbar bg-base-100 shadow-lg px-4 flex justify-between items-center w-full"
+  >
+    
+    <div class="flex items-center">
+      <span class="text-3xl">📰</span>
+      <span class="text-2xl font-bold text-primary ml-2"
+        >Building Texas Show News</span
+      >
+    </div>
+
+    
+    <div class="hidden lg:flex items-center space-x-2">
+      <a
+        href="/"
+        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
+        >Home</a
+      >
+
+      <div class="relative group">
+        <a
+          href="#"
+          tabindex="0"
+          role="button"
+          class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content cursor-pointer"
+        >
+          Categories ▼
+        </a>
+        <div
+          class="dropdown-content absolute top-full left-0 mt-1 w-48 bg-base-100 rounded-lg shadow-lg border border-base-300 py-2 z-50 hidden group-hover:block"
+        >
+          <a
+            href="/posts/"
+            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
+            >All Articles</a
+          >
+          <a
+            href="#"
+            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
+            >Technology</a
+          >
+          <a
+            href="#"
+            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
+            >Business</a
+          >
+          <a
+            href="#"
+            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
+            >Sports</a
+          >
+          <a
+            href="#"
+            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
+            >Health</a
+          >
+          <a
+            href="#"
+            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
+            >Science</a
+          >
+        </div>
+      </div>
+
+      <a
+        href="#"
+        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
+        >About</a
+      >
+      <a
+        href="#"
+        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
+        >Contact</a
+      >
+    </div>
+
+    
+    <div class="flex gap-2">
+      <button
+        onclick="toggleTheme()"
+        class="btn btn-ghost btn-circle transition-all duration-200"
+        title="Toggle theme"
+      >
+        <span id="theme-icon">🌙</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  
+  function updateThemeIcon() {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+    const icon = document.getElementById("theme-icon");
+    if (icon) {
+      icon.textContent = currentTheme === "light" ? "🌙" : "☀️";
+    }
+  }
+
+  
+  document.addEventListener("DOMContentLoaded", updateThemeIcon);
+
+  
+  const originalToggleTheme = window.toggleTheme;
+  window.toggleTheme = function () {
+    originalToggleTheme();
+    updateThemeIcon();
+  };
+</script>
+
+    
+    <main>
+        
+
+
+
+
+
+<div class="bg-base-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8 grid grid-cols-1 lg:grid-cols-4 gap-8">
+        
+        <div class="lg:col-span-3">
+            <div class="flex justify-between items-center mb-8">
+                <h2 class="text-3xl font-bold">Latest News</h2>
+            </div>
+            
+            
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+                
+                <a href="http://localhost:1313/posts/2025-06-15-hro-today-forum-north-america-2025-to-spotlight-future-of-workplace-strategies-in-texas/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/banners/awards-1.jpg" 
+                                 alt="HRO Today Forum North America 2025 to Spotlight Future of Workplace Strategies in Texas" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">HRO Today Forum North America 2025 to Spotlight Future of Workplace Strategies in Texas</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>SharedXpertise Media, publishers of <i>HRO Today</i> digital magazine, <i>HRO Today EMEA and APAC</i>, hosts the 2025 HRO Today Forum North America at the JW …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-alliance-resource-partners-navigates-market-challenges-with-strategic-adaptability/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/reportable/newsimage/b855a50c5ceb3afb62bf77fb79750e39.jpg" 
+                                 alt="Alliance Resource Partners Navigates Market Challenges with Strategic Adaptability" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Alliance Resource Partners Navigates Market Challenges with Strategic Adaptability</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>Alliance Resource Partners, L.P. (ARLP) reported a resilient 1Q25 despite lower coal sales volumes and pricing, with total revenues decreasing by …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-neutra-life-sciences-expands-clinical-research-footprint-in-texas-through-strategic-joint-ventures/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/banners/health-wellness-3.jpg" 
+                                 alt="Neutra Life Sciences Expands Clinical Research Footprint in Texas Through Strategic Joint Ventures" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Neutra Life Sciences Expands Clinical Research Footprint in Texas Through Strategic Joint Ventures</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>Neutra Corp's subsidiary, Neutra Life Sciences, has experienced significant growth by securing Joint Venture Partnerships with private practices and …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-dfw-car-toy-museum-showcases-rare-1966-citro%C3%ABn-2cv-van-highlighting-automotive-innovation/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/banners/events-2.jpg" 
+                                 alt="DFW Car &amp; Toy Museum Showcases Rare 1966 Citroën 2CV Van, Highlighting Automotive Innovation" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">DFW Car &amp; Toy Museum Showcases Rare 1966 Citroën 2CV Van, Highlighting Automotive Innovation</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>The DFW Car & Toy Museum in Fort Worth, TX, is showcasing a rare 1966 Citroën 2CV van from the Ron Sturgeon Collection, highlighting its historical …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-1979-cl%C3%A9net-series-i-roadster-joins-dfw-car-and-toy-museum-collection/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/banners/lifestyle-culture-2.jpg" 
+                                 alt="1979 Clénet Series I Roadster Joins DFW Car and Toy Museum Collection" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">1979 Clénet Series I Roadster Joins DFW Car and Toy Museum Collection</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>The DFW Car & Toy Museum in Fort Worth, TX is showcasing the rare 1979 Clénet Series I Roadster from the Ron Sturgeon Collection, a limited edition …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-aristocrat-group-corp-strengthens-board-with-appointment-of-christopher-byrd/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/banners/leadership-management-1.jpg" 
+                                 alt="Aristocrat Group Corp. Strengthens Board with Appointment of Christopher Byrd" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Aristocrat Group Corp. Strengthens Board with Appointment of Christopher Byrd</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>Aristocrat Group Corp. appoints Attorney Christopher Byrd, JD, MBA, CPA, to its Board of Directors, leveraging his extensive legal and financial …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-ncs-multistage-holdings-reports-record-quarterly-revenue-signaling-strong-growth-in-texas-and-beyond/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/reportable/newsimage/664f0eb3c0b9fc8633292240036d7e88.png" 
+                                 alt="NCS Multistage Holdings Reports Record Quarterly Revenue, Signaling Strong Growth in Texas and Beyond" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">NCS Multistage Holdings Reports Record Quarterly Revenue, Signaling Strong Growth in Texas and Beyond</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>Stonegate Capital Partners updates their coverage on NCS Multistage Holdings, Inc. (NASDAQ: NCSM), reporting a 14% year-over-year increase in total …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-massimo-group-strengthens-market-position-with-strategic-expansions-and-innovations/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" 
+                                 alt="Massimo Group Strengthens Market Position with Strategic Expansions and Innovations" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Massimo Group Strengthens Market Position with Strategic Expansions and Innovations</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>Massimo (NASDAQ: MAMO) is enhancing its position in the powersports industry through strategic moves like expanding its partnership with Rural King, …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="http://localhost:1313/posts/2025-06-15-foreign-affairs-auto-elevates-luxury-european-vehicle-maintenance-in-south-florida/" class="block no-underline">
+                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
+                        <div class="relative">
+                            <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" 
+                                 alt="Foreign Affairs Auto Elevates Luxury European Vehicle Maintenance in South Florida" 
+                                 class="w-full h-48 object-cover rounded-t-xl">
+                        </div>
+                        <div class="flex flex-col justify-between h-full">
+                            <div class="card-body p-6">
+                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Foreign Affairs Auto Elevates Luxury European Vehicle Maintenance in South Florida</h3>
+                                
+                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
+                                    <p>Foreign Affairs Auto in West Palm Beach, FL, offers round-the-clock European car repair services for luxury brands like BMW, Mercedes-Benz, and …</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                
+            </div>
+            
+            
+            
+            <div class="flex flex-col justify-center py-8">
+                <div class="text-center mb-4">
+                    <p class="text-sm text-base-content opacity-70">
+                        Showing 21 of 27 pages
+                    </p>
+                </div>
+                <div class="join flex justify-center items-center gap-4">
+                    
+                    <a href="/page/20/" class="btn btn-outline">« Previous</a>
+                    
+                    
+                    <div class="flex gap-2 items-center">
+                        
+                        
+                        <a href="/" class="btn btn-outline">1</a>
+                        
+                        
+                        
+                        <a href="/page/2/" class="btn btn-outline">2</a>
+                        
+                        
+                        
+                        <a href="/page/3/" class="btn btn-outline">3</a>
+                        
+                        
+                        
+                        <a href="/page/4/" class="btn btn-outline">4</a>
+                        
+                        
+                        
+                        <a href="/page/5/" class="btn btn-outline">5</a>
+                        
+                        
+                        
+                        <a href="/page/6/" class="btn btn-outline">6</a>
+                        
+                        
+                        
+                        <a href="/page/7/" class="btn btn-outline">7</a>
+                        
+                        
+                        
+                        <a href="/page/8/" class="btn btn-outline">8</a>
+                        
+                        
+                        
+                        <a href="/page/9/" class="btn btn-outline">9</a>
+                        
+                        
+                        
+                        <a href="/page/10/" class="btn btn-outline">10</a>
+                        
+                        
+                        
+                        <a href="/page/11/" class="btn btn-outline">11</a>
+                        
+                        
+                        
+                        <a href="/page/12/" class="btn btn-outline">12</a>
+                        
+                        
+                        
+                        <a href="/page/13/" class="btn btn-outline">13</a>
+                        
+                        
+                        
+                        <a href="/page/14/" class="btn btn-outline">14</a>
+                        
+                        
+                        
+                        <a href="/page/15/" class="btn btn-outline">15</a>
+                        
+                        
+                        
+                        <a href="/page/16/" class="btn btn-outline">16</a>
+                        
+                        
+                        
+                        <a href="/page/17/" class="btn btn-outline">17</a>
+                        
+                        
+                        
+                        <a href="/page/18/" class="btn btn-outline">18</a>
+                        
+                        
+                        
+                        <a href="/page/19/" class="btn btn-outline">19</a>
+                        
+                        
+                        
+                        <a href="/page/20/" class="btn btn-outline">20</a>
+                        
+                        
+                        
+                        <span class="btn btn-primary">21</span>
+                        
+                        
+                        
+                        <a href="/page/22/" class="btn btn-outline">22</a>
+                        
+                        
+                        
+                        <a href="/page/23/" class="btn btn-outline">23</a>
+                        
+                        
+                        
+                        <a href="/page/24/" class="btn btn-outline">24</a>
+                        
+                        
+                        
+                        <a href="/page/25/" class="btn btn-outline">25</a>
+                        
+                        
+                        
+                        <a href="/page/26/" class="btn btn-outline">26</a>
+                        
+                        
+                        
+                        <a href="/page/27/" class="btn btn-outline">27</a>
+                        
+                        
+                    </div>
+                    
+                    
+                    <a href="/page/22/" class="btn btn-outline">Next »</a>
+                    
+                </div>
+            </div>
+            
+            
+        </div>
+        
+        
+        <div class="lg:col-span-1">
+            
+<div class="lg:sticky lg:top-24">
+  <h2 class="text-2xl font-bold mb-6">Trending Stories</h2>
+  <div class="space-y-2">
+     
+    <div
+      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
+    >
+      <div class="flex gap-3 items-start">
+        <div>
+          <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="YETI Holdings Strengthens Investor Relations with New Vice President Appointment" class="w-20 h-16 object-cover rounded-lg">
+        </div>
+        <div class="flex-1">
+          <a href="http://localhost:1313/posts/2025-06-18-yeti-holdings-strengthens-investor-relations-with-new-vice-president-appointment/" class="no-underline">
+            <h3
+              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
+            >
+              YETI Holdings Strengthens Investor Relations with New Vice President Appointment
+            </h3>
+          </a>
+          <div class="flex items-center">
+            <span class="badge badge-outline badge-xs">NEWS</span>
+            <span class="text-xs text-gray-500 ml-2"
+              >2025-06-18</span
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div
+      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
+    >
+      <div class="flex gap-3 items-start">
+        <div>
+          <img src="https://cdn.newsramp.app/banners/startup-news-3.jpg" alt="Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem" class="w-20 h-16 object-cover rounded-lg">
+        </div>
+        <div class="flex-1">
+          <a href="http://localhost:1313/posts/2025-06-18-das-greenhaus-strengthens-leadership-team-to-boost-kendall-countys-entrepreneurial-ecosystem/" class="no-underline">
+            <h3
+              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
+            >
+              Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem
+            </h3>
+          </a>
+          <div class="flex items-center">
+            <span class="badge badge-outline badge-xs">NEWS</span>
+            <span class="text-xs text-gray-500 ml-2"
+              >2025-06-18</span
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div
+      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
+    >
+      <div class="flex gap-3 items-start">
+        <div>
+          <img src="https://cdn.newsramp.app/reportable/newsimage/98521815a2c4c4b374aee6db5a4f09e0.png" alt="Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases" class="w-20 h-16 object-cover rounded-lg">
+        </div>
+        <div class="flex-1">
+          <a href="http://localhost:1313/posts/2025-06-18-bio-path-holdings-advances-rnai-therapeutics-with-promising-treatments-for-cancer-and-metabolic-diseases/" class="no-underline">
+            <h3
+              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
+            >
+              Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases
+            </h3>
+          </a>
+          <div class="flex items-center">
+            <span class="badge badge-outline badge-xs">NEWS</span>
+            <span class="text-xs text-gray-500 ml-2"
+              >2025-06-18</span
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div
+      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
+    >
+      <div class="flex gap-3 items-start">
+        <div>
+          <img src="https://cdn.newsramp.app/genai/images/256/18/9c4b606dda91b11c0d590a295ea12f2c.png" alt="Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas" class="w-20 h-16 object-cover rounded-lg">
+        </div>
+        <div class="flex-1">
+          <a href="http://localhost:1313/posts/2025-06-18-salon-and-spa-galleria-empowers-tenants-with-free-marketing-workshops-in-texas/" class="no-underline">
+            <h3
+              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
+            >
+              Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas
+            </h3>
+          </a>
+          <div class="flex items-center">
+            <span class="badge badge-outline badge-xs">NEWS</span>
+            <span class="text-xs text-gray-500 ml-2"
+              >2025-06-18</span
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div
+      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
+    >
+      <div class="flex gap-3 items-start">
+        <div>
+          <img src="https://cdn.newsramp.app/genai/images/256/18/6ae6d87b3bb1101560ae573200530d8e.png" alt="Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health" class="w-20 h-16 object-cover rounded-lg">
+        </div>
+        <div class="flex-1">
+          <a href="http://localhost:1313/posts/2025-06-18-brisa-therapeutics-highlights-the-healing-power-of-texas-deserts-on-mental-health/" class="no-underline">
+            <h3
+              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
+            >
+              Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health
+            </h3>
+          </a>
+          <div class="flex items-center">
+            <span class="badge badge-outline badge-xs">NEWS</span>
+            <span class="text-xs text-gray-500 ml-2"
+              >2025-06-18</span
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </main>
+    
+    
+<footer class="bg-neutral text-neutral-content">
+  <div class="container mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <div class="mb-8 lg:mb-0">
+        <div class="flex items-center mb-4">
+          <span class="text-2xl">📰</span>
+          <span class="text-xl font-bold ml-2">Building Texas Show News</span>
+        </div>
+        <p class="text-gray-400 max-w-xs">
+          Latest news and updates from Building Texas Show
+        </p>
+      </div>
+
+      <div>
+        <h3 class="footer-title text-white mb-4">Quick Links</h3>
+        <ul class="space-y-2">
+          <li>
+            <a
+              href="/"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >Home</a
+            >
+          </li>
+          <li>
+            <a
+              href="/posts/"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >Articles</a
+            >
+          </li>
+          <li>
+            <a
+              href="#"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >About</a
+            >
+          </li>
+          <li>
+            <a
+              href="#"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >Contact</a
+            >
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="footer-title text-white mb-4">Categories</h3>
+        <ul class="space-y-2">
+          <li>
+            <a
+              href="#"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >Technology</a
+            >
+          </li>
+          <li>
+            <a
+              href="#"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >Business</a
+            >
+          </li>
+          <li>
+            <a
+              href="#"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >Sports</a
+            >
+          </li>
+          <li>
+            <a
+              href="#"
+              class="link link-hover hover:text-primary transition-colors duration-200"
+              >Health</a
+            >
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="footer-title text-white mb-4">Follow Us</h3>
+        <div class="flex gap-2">
+          <a href="#" class="btn btn-outline btn-sm">Twitter</a>
+          <a href="#" class="btn btn-outline btn-sm">Facebook</a>
+          <a href="#" class="btn btn-outline btn-sm">LinkedIn</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-t border-gray-700 pt-8 mt-8">
+      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+        <p class="text-gray-400">
+          © 2025 Building Texas Show News. All rights reserved.
+        </p>
+        <div class="flex gap-4">
+          <a href="#" class="link link-hover text-gray-400">Privacy Policy</a>
+          <a href="#" class="link link-hover text-gray-400">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

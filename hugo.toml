@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Building Texas Show News'
+theme = 'newsjockey-hugo'
+
+[params]
+  description = "Latest news and updates from Building Texas Show"
+  author = "Building Texas Show"
+  
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Articles"
+    url = "/posts/"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

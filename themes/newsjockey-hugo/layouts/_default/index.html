@@ -1,0 +1,275 @@
+{{ define "main" }}
+<!-- Main content area with teal background -->
+<div class="min-h-screen py-8">
+  <div class="container mx-auto px-4">
+    <!-- News grid -->
+    <div class="max-w-6xl mx-auto">
+      <div class="content-card p-6 mb-8">
+        <div class="flex justify-between items-center">
+          <h2 class="text-3xl font-bold text-gray-800">Latest News</h2>
+        </div>
+      </div>
+
+      {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") 28 }}
+      {{ if $paginator.Pages }}
+      <!-- Featured story for this page -->
+      {{ $featured := index $paginator.Pages 0 }} {{ if $featured }}
+      <div class="mb-8">
+        <div class="card bg-base-100 shadow-xl rounded-xl overflow-hidden">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-0">
+            <div class="relative">
+              <img src="{{ $featured.Params.enclosure | default
+              "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&h=400&fit=crop"
+              }}" alt="{{ $featured.Title }}" class="w-full h-64 lg:h-full
+              object-cover">
+              <span class="badge badge-primary badge-lg absolute top-4 left-4"
+                >FEATURED</span
+              >
+            </div>
+            <div class="p-6 flex flex-col justify-center">
+              <a href="{{ $featured.Permalink }}" class="no-underline">
+                <h1
+                  class="text-2xl lg:text-3xl font-bold text-base-content leading-tight mb-4 hover:text-primary transition-colors duration-200"
+                >
+                  {{ $featured.Title }}
+                </h1>
+              </a>
+              {{ if $featured.Params.summary }}
+              <div
+                class="text-base text-base-content opacity-80 mb-4 leading-relaxed [&>p]:mb-3"
+              >
+                {{ $featured.Params.summary | safeHTML | truncate 200 }}
+              </div>
+              {{ else }}
+              <p
+                class="text-base text-base-content opacity-80 mb-4 leading-relaxed"
+              >
+                {{ $featured.Summary | truncate 200 }}
+              </p>
+              {{ end }}
+              <div class="flex items-center justify-between">
+                <div
+                  class="flex items-center text-sm text-base-content opacity-60"
+                >
+                  {{ if $featured.Params.source_link }}
+                  <a
+                    href="{{ $featured.Params.source_link }}"
+                    target="_blank"
+                    class="text-primary hover:underline"
+                    >Source</a
+                  >
+                  <span class="mx-2">•</span>
+                  {{ end }}
+                  <span>{{ $featured.Date.Format "January 2, 2006" }}</span>
+                </div>
+                <a
+                  href="{{ $featured.Permalink }}"
+                  class="btn btn-primary btn-sm"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+
+      <!-- Regular news grid (skip first item as it's featured) -->
+      {{ $remainingPages := after 1 $paginator.Pages }} {{ if $remainingPages }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+        {{ range $remainingPages }} {{ if .Title }}
+        <div class="flex">
+          <a href="{{ .Permalink }}" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="{{ .Params.enclosure | default
+                "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop"
+                }}" alt="{{ .Title | default "News Article" }}" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  {{ .Title }}
+                </h3>
+                <div class="flex-1 mb-4">
+                  {{ if .Params.summary }}
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    {{ .Params.summary | safeHTML | truncate 150 }}
+                  </div>
+                  {{ else if .Summary }}
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80"
+                  >
+                    {{ .Summary | truncate 150 }}
+                  </div>
+                  {{ else }}
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80"
+                  >
+                    Read more about this article...
+                  </div>
+                  {{ end }}
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  {{ .Date.Format "January 2, 2006" }}
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        {{ end }} {{ end }}
+      </div>
+      {{ end }}
+
+      <!-- Enhanced Pagination -->
+      {{ if gt $paginator.TotalPages 1 }}
+      <div class="content-card p-6">
+        <div class="flex flex-col justify-center">
+          <div class="text-center mb-6">
+            <p class="text-sm text-gray-600">
+              Showing {{ len $paginator.Pages }} of {{
+              $paginator.TotalNumberOfElements }} articles (Page {{
+              $paginator.PageNumber }} of {{ $paginator.TotalPages }})
+            </p>
+          </div>
+          <div class="flex justify-center items-center gap-2">
+            <!-- Previous Button -->
+            {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="btn btn-outline btn-sm">
+              <svg
+                class="w-4 h-4 mr-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
+                ></path>
+              </svg>
+              Previous
+            </a>
+            {{ else }}
+            <button
+              disabled
+              class="btn btn-outline btn-sm opacity-50 cursor-not-allowed"
+            >
+              <svg
+                class="w-4 h-4 mr-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
+                ></path>
+              </svg>
+              Previous
+            </button>
+            {{ end }}
+
+            <!-- Page Numbers -->
+            <div class="flex gap-1 mx-4">
+              <!-- First page -->
+              {{ if gt $paginator.PageNumber 3 }}
+              <a
+                href="{{ $paginator.First.URL }}"
+                class="btn btn-outline btn-sm"
+                >1</a
+              >
+              {{ if gt $paginator.PageNumber 4 }}
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+              {{ end }} {{ end }}
+
+              <!-- Previous page -->
+              {{ if $paginator.HasPrev }}
+              <a href="{{ $paginator.Prev.URL }}" class="btn btn-outline btn-sm"
+                >{{ sub $paginator.PageNumber 1 }}</a
+              >
+              {{ end }}
+
+              <!-- Current page -->
+              <span class="btn btn-primary btn-sm"
+                >{{ $paginator.PageNumber }}</span
+              >
+
+              <!-- Next page -->
+              {{ if $paginator.HasNext }}
+              <a href="{{ $paginator.Next.URL }}" class="btn btn-outline btn-sm"
+                >{{ add $paginator.PageNumber 1 }}</a
+              >
+              {{ end }}
+
+              <!-- Last page -->
+              {{ if lt $paginator.PageNumber (sub $paginator.TotalPages 2) }} {{
+              if lt $paginator.PageNumber (sub $paginator.TotalPages 3) }}
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+              {{ end }}
+              <a href="{{ $paginator.Last.URL }}" class="btn btn-outline btn-sm"
+                >{{ $paginator.TotalPages }}</a
+              >
+              {{ end }}
+            </div>
+
+            <!-- Next Button -->
+            {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="btn btn-outline btn-sm">
+              Next
+              <svg
+                class="w-4 h-4 ml-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                ></path>
+              </svg>
+            </a>
+            {{ else }}
+            <button
+              disabled
+              class="btn btn-outline btn-sm opacity-50 cursor-not-allowed"
+            >
+              Next
+              <svg
+                class="w-4 h-4 ml-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                ></path>
+              </svg>
+            </button>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }} {{ else }}
+      <div class="content-card p-6">
+        <div class="text-center text-gray-500 py-20">No articles found.</div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

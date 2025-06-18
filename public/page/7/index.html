@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1315&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building Texas Show News</title>
+    
+    
+    <meta name="description" content="Latest news and updates from Building Texas Show">
+    <meta name="keywords" content="news, breaking news, current events, analysis, journalism">
+    <meta name="author" content="Building Texas Show">
+    
+    
+    <meta property="og:title" content="Building Texas Show News">
+    <meta property="og:description" content="Latest news and updates from Building Texas Show">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:1315/">
+    
+    
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Building Texas Show News">
+    <meta name="twitter:description" content="Latest news and updates from Building Texas Show">
+    
+    
+    <link rel="canonical" href="http://localhost:1315/">
+    
+    
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    
+    <style>
+         
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
+         
+        :root {
+          --primary: #0f766e;  
+          --primary-content: #ffffff;
+          --secondary: #64748b;
+          --accent: #dc2626;  
+          --neutral: #0f766e;  
+          --base-100: #ffffff;
+          --base-200: #f8fafc;
+          --base-300: #e2e8f0;
+          --base-content: #1f2937;
+          --teal-600: #0d9488;
+          --teal-700: #0f766e;
+          --teal-800: #115e59;
+        }
+
+         
+        [data-theme="light"] {
+          --primary: #0f766e;
+          --primary-content: #ffffff;
+          --secondary: #64748b;
+          --accent: #dc2626;
+          --neutral: #0f766e;
+          --base-100: #ffffff;
+          --base-200: #f8fafc;
+          --base-300: #e2e8f0;
+          --base-content: #1f2937;
+          background-color: #ffffff;
+          color: #1f2937;
+        }
+
+         
+        html, body {
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          background-color: inherit;
+          color: inherit;
+          line-height: 1.6;
+        }
+
+         
+        main {
+          background-color: #a5f3fc;
+          color: #1f2937;
+          min-height: calc(100vh - 200px);
+        }
+
+         
+        .content-card {
+          background: rgba(255, 255, 255, 0.95);
+          color: #1f2937;
+          border-radius: 8px;
+          box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+         
+        h1, h2, h3, h4, h5, h6 {
+          font-weight: 600;
+          line-height: 1.3;
+        }
+
+         
+        .btn-primary {
+          background-color: #0f766e;
+          border-color: #0f766e;
+          color: white;
+        }
+
+        .btn-primary:hover {
+          background-color: #0d9488;
+          border-color: #0d9488;
+        }
+
+         
+        a {
+          color: #0f766e;
+          text-decoration: none;
+        }
+
+        a:hover {
+          color: #0d9488;
+        }
+
+         
+        .nav-hover:hover {
+          background-color: var(--primary) !important;
+          color: var(--primary-content) !important;
+        }
+
+        .dropdown-content {
+          background-color: var(--base-100) !important;
+          border: 1px solid var(--base-300) !important;
+        }
+
+        .dropdown-item:hover {
+          background-color: var(--primary) !important;
+          color: var(--primary-content) !important;
+        }
+
+        .group:hover .group-hover\:block {
+          display: block !important;
+        }
+    </style>
+    
+</head>
+<body class="min-h-screen bg-base-100">
+    
+<div class="bg-white border-b border-gray-200">
+  <div class="container mx-auto px-4 py-4">
+    <div class="flex items-center justify-between">
+      
+      <a href="/" class="flex items-center">
+        <img
+          src="https://newswriter.ai/logo.svg"
+          alt="Newswriter.ai"
+          class="h-8 w-auto"
+        />
+        <span class="text-sm text-gray-500 ml-3"
+          >Let AI Write Your Press Release</span
+        >
+      </a>
+
+      
+      <div class="relative">
+        <div class="dropdown dropdown-end">
+          <div tabindex="0" role="button" class="btn btn-primary">
+            Write My Press Release
+            <svg
+              class="w-4 h-4 ml-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M19 9l-7 7-7-7"
+              ></path>
+            </svg>
+          </div>
+          <ul
+            tabindex="0"
+            class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
+          >
+            <li><a href="#" class="text-sm">Write New Press Release</a></li>
+            <li><a href="#" class="text-sm">Improve Existing Release</a></li>
+            <li><a href="#" class="text-sm">View Examples</a></li>
+            <li><a href="#" class="text-sm">Pricing</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+    <main>
+        
+
+<div class="min-h-screen py-8">
+  <div class="container mx-auto px-4">
+    
+    <div class="max-w-6xl mx-auto">
+      <div class="content-card p-6 mb-8">
+        <div class="flex justify-between items-center">
+          <h2 class="text-3xl font-bold text-gray-800">Latest News</h2>
+        </div>
+      </div>
+
+      
+      
+      
+       
+      <div class="mb-8">
+        <div class="card bg-base-100 shadow-xl rounded-xl overflow-hidden">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-0">
+            <div class="relative">
+              <img src="https://cdn.newsramp.app/banners/startup-news-3.jpg" alt="Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem" class="w-full h-64 lg:h-full
+              object-cover">
+              <span class="badge badge-primary badge-lg absolute top-4 left-4"
+                >FEATURED</span
+              >
+            </div>
+            <div class="p-6 flex flex-col justify-center">
+              <a href="http://localhost:1315/posts/2025-06-18-das-greenhaus-strengthens-leadership-team-to-boost-kendall-countys-entrepreneurial-ecosystem/" class="no-underline">
+                <h1
+                  class="text-2xl lg:text-3xl font-bold text-base-content leading-tight mb-4 hover:text-primary transition-colors duration-200"
+                >
+                  Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem
+                </h1>
+              </a>
+              
+              <div
+                class="text-base text-base-content opacity-80 mb-4 leading-relaxed [&>p]:mb-3"
+              >
+                <p>Das GreenHaus, a Boerne, Texas-based 501(c)(3) public-private non-profit, has announced Samantha Morganroth as its new Program Manager, a role she officially assumed in May 2025. Morganroth, a Trinity …</p>
+              </div>
+              
+              <div class="flex items-center justify-between">
+                <div
+                  class="flex items-center text-sm text-base-content opacity-60"
+                >
+                  
+                  <a
+                    href="https://newsworthy.ai/news/202506041538/das-greenhaus-announces-new-program-manager"
+                    target="_blank"
+                    class="text-primary hover:underline"
+                    >Source</a
+                  >
+                  <span class="mx-2">•</span>
+                  
+                  <span>June 18, 2025</span>
+                </div>
+                <a
+                  href="http://localhost:1315/posts/2025-06-18-das-greenhaus-strengthens-leadership-team-to-boost-kendall-countys-entrepreneurial-ecosystem/"
+                  class="btn btn-primary btn-sm"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+
+      
+       
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+         
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-18-bio-path-holdings-advances-rnai-therapeutics-with-promising-treatments-for-cancer-and-metabolic-diseases/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/98521815a2c4c4b374aee6db5a4f09e0.png" alt="Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Bio-Path Holdings, Inc., a clinical-stage biotechnology company, is making strides in the development of RNA interference (RNAi) therapeutics with its …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 18, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-18-salon-and-spa-galleria-empowers-tenants-with-free-marketing-workshops-in-texas/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/genai/images/256/18/9c4b606dda91b11c0d590a295ea12f2c.png" alt="Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Salon and Spa Galleria, a leading provider of <a href='https://www.salonandspagalleria.com/salon-suites/' rel='nofollow'>salon suites</a> for independent beauty and wellness professionals, is taking significant steps to ensure …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 18, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-18-brisa-therapeutics-highlights-the-healing-power-of-texas-deserts-on-mental-health/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/genai/images/256/18/6ae6d87b3bb1101560ae573200530d8e.png" alt="Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>In a recent episode of the Heart of the Big Bend podcast, hosted by Chris Ruggia on KVLF/KALP Radio Alpine, Toni and Jacque from Brisa Therapeutics …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 18, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-18-cingulate-incs-ctx-1301-poised-to-transform-adhd-treatment-landscape/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/c3885a8d9ef373d4dfce66fe01baf167.png" alt="Cingulate Inc.&#39;s CTx-1301 Poised to Transform ADHD Treatment Landscape" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Cingulate Inc.&#39;s CTx-1301 Poised to Transform ADHD Treatment Landscape
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Cingulate Inc. (NASDAQ: CING) has caught the attention of investors and the healthcare sector with its innovative approach to ADHD treatment through …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 18, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-haltom-city-faces-economic-challenges-as-business-closures-and-population-decline-persist/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0510826_204221.png" alt="Haltom City Faces Economic Challenges as Business Closures and Population Decline Persist" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Haltom City Faces Economic Challenges as Business Closures and Population Decline Persist
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Haltom City employee Jayson Steele reported on new businesses coming to Haltom City, including the closure of Sam's Dollar Store and Big Lots. The …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-sippi-kutz-barbershop-opens-in-fort-worth-offering-diverse-hair-services/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0512535_206335.jpeg" alt="Sippi Kutz Barbershop Opens in Fort Worth, Offering Diverse Hair Services" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Sippi Kutz Barbershop Opens in Fort Worth, Offering Diverse Hair Services
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Marlon Johnson, a talented barber with over 20 years of experience, has opened Sippi Kutz Barbershop in Fort Worth, Texas. Located in Suite #500 of …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-canter-power-systems-expands-texas-footprint-with-acquisition-of-grasten-power-technologies/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="Canter Power Systems Expands Texas Footprint with Acquisition of Grasten Power Technologies" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Canter Power Systems Expands Texas Footprint with Acquisition of Grasten Power Technologies
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Canter Power Systems, a Generac Power Pro Premier dealer, has acquired Grasten Power Technologies, a premier installer and service provider of home …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-rapidfire-safety-security-expands-st-louis-presence-with-kane-fire-protection-acquisition/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/pr-karma/newsimage/6f78fa3fb53d02099f308229bac39feb.jpg" alt="RapidFire Safety &amp; Security Expands St. Louis Presence with Kane Fire Protection Acquisition" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  RapidFire Safety &amp; Security Expands St. Louis Presence with Kane Fire Protection Acquisition
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>RapidFire Safety & Security announced the acquisition of Kane Fire Protection in the St. Louis metropolitan area, expanding their service offerings …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-military-spouse-leadership-development-program-opens-applications-for-2025-cohort/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/education-3.jpg" alt="Military Spouse Leadership Development Program Opens Applications for 2025 Cohort" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Military Spouse Leadership Development Program Opens Applications for 2025 Cohort
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Military Spouse Advocacy Network (MSAN) announces the opening of applications for the 2025 cohort of the Military Spouse Leadership Development …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-bubbles-creationz-a-new-chapter-in-fort-worths-beauty-scene/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/startup-news-2.jpg" alt="Bubbles Creationz: A New Chapter in Fort Worth&#39;s Beauty Scene" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Bubbles Creationz: A New Chapter in Fort Worth&#39;s Beauty Scene
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Cosmetologist Sarah Sibley opens Bubbles Creationz salon in Fort Worth, specializing in braids and locs. Sibley aims to boost client confidence and …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-rapidfire-safety-security-expands-texas-presence-with-acquisition-of-all-source-fire-protection/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/pr-karma/newsimage/a1deb01e899d9285179e11b34ba40a32.jpg" alt="RapidFire Safety &amp; Security Expands Texas Presence with Acquisition of All Source Fire Protection" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  RapidFire Safety &amp; Security Expands Texas Presence with Acquisition of All Source Fire Protection
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>RapidFire Safety & Security announces the acquisition of All Source Fire Protection, expanding service offerings with security services, extinguisher, …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-tarrant-events-center-sets-new-standard-for-birthday-celebrations-in-fort-worth/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/events-1.jpg" alt="Tarrant Events Center Sets New Standard for Birthday Celebrations in Fort Worth" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Tarrant Events Center Sets New Standard for Birthday Celebrations in Fort Worth
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>The Tarrant Events Center in Haltom City, TX, is gaining recognition as one of the top affordable rental venues for birthday celebrations. Marketing …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-third-coast-bancshares-reports-strong-financial-growth-in-q4-2024/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/895969df6392badb1a95569299f0b34c.png" alt="Third Coast Bancshares Reports Strong Financial Growth in Q4 2024" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Third Coast Bancshares Reports Strong Financial Growth in Q4 2024
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Stonegate Capital Partners updates their coverage on Third Coast Bancshares, Inc., reporting a net income of $13.7M for 4Q24, with a basic and diluted …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-r-matthew-stewart-honored-by-marquis-whos-who-for-legal-excellence-and-community-service/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/legal-2.jpg" alt="R. Matthew Stewart Honored by Marquis Who&#39;s Who for Legal Excellence and Community Service" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  R. Matthew Stewart Honored by Marquis Who&#39;s Who for Legal Excellence and Community Service
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Attorney R. Matthew Stewart has been recognized by Marquis Who's Who for his exceptional career in the legal field, serving as a partner at Kraft & …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-laredo-orthodontics-launches-foreversmile-a-lifetime-retainer-assurance-program/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Laredo Orthodontics Launches FOREVERSMILE, A Lifetime Retainer Assurance Program" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Laredo Orthodontics Launches FOREVERSMILE, A Lifetime Retainer Assurance Program
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Laredo Orthodontics introduces FOREVERSMILE, a lifetime retainer assurance program to safeguard patients' smiles post-treatment. Dr. Catalina Zambrano …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-centre-for-neuro-skills-achieves-bhcoe-accreditation-enhancing-brain-injury-rehabilitation-in-texas/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/news-direct/newsimage/63997d21e331b9d64caab3f00d44b411.png" alt="Centre for Neuro Skills Achieves BHCOE Accreditation, Enhancing Brain Injury Rehabilitation in Texas" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Centre for Neuro Skills Achieves BHCOE Accreditation, Enhancing Brain Injury Rehabilitation in Texas
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Centre for Neuro Skills (CNS) has been accredited by the Behavioral Health Center of Excellence for their commitment to excellence in applied behavior …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-sloane-scullys-debut-novel-all-over-again-sheds-light-on-sapphic-romance-in-post-war-texas/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/books-publishing-1.jpg" alt="Sloane Scully&#39;s Debut Novel &#39;All Over Again&#39; Sheds Light on Sapphic Romance in Post-War Texas" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Sloane Scully&#39;s Debut Novel &#39;All Over Again&#39; Sheds Light on Sapphic Romance in Post-War Texas
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>All Over Again, the debut novel by Sloane Scully, is a sapphic romance set in post-war 1940s Texas. The story follows the love between prizefighter …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-splash-beverage-group-and-western-son-vodka-announce-strategic-merger-to-enhance-market-presence/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Splash Beverage Group and Western Son Vodka Announce Strategic Merger to Enhance Market Presence" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Splash Beverage Group and Western Son Vodka Announce Strategic Merger to Enhance Market Presence
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Splash Beverage Group, Inc. has signed an updated Letter of Intent to acquire Western Son Vodka through a stock-for-equity transaction, effectively …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-isabella-bank-corporation-reports-strong-fourth-quarter-performance-in-2024/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/dfa9471bc15de55a97886dc2518ac5e3.png" alt="Isabella Bank Corporation Reports Strong Fourth Quarter Performance in 2024" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Isabella Bank Corporation Reports Strong Fourth Quarter Performance in 2024
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Stonegate Capital Partners updates their coverage on Isabella Bank Corporation (OTCQX: ISBA), highlighting the bank's strong financial performance, …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-alliance-resource-partners-faces-challenges-but-maintains-strong-liquidity-amid-industry-pressures/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/6954865e92a9541f677adf0429e5b519.jpg" alt="Alliance Resource Partners Faces Challenges but Maintains Strong Liquidity Amid Industry Pressures" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Alliance Resource Partners Faces Challenges but Maintains Strong Liquidity Amid Industry Pressures
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Alliance Resource Partners, L.P. (ARLP) experienced a challenging 4Q24 with lower coal sales pricing and higher operating expenses, resulting in a …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-rapidfire-safety-security-expands-texas-footprint-with-acquisition-of-advanced-security-contractors/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/pr-karma/newsimage/5fa19520856722e6fc699bd7954f6191.jpg" alt="RapidFire Safety &amp; Security Expands Texas Footprint with Acquisition of Advanced Security Contractors" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  RapidFire Safety &amp; Security Expands Texas Footprint with Acquisition of Advanced Security Contractors
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>RapidFire Safety & Security has acquired Advanced Security Contractors, Inc. in El Paso, Texas, expanding their service area and offerings. ASC …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-grace-vargas-opens-gracies-hair-beyond-in-fort-worth-offering-affordable-beauty-services/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Grace Vargas Opens Gracie&#39;s Hair &amp; Beyond in Fort Worth, Offering Affordable Beauty Services" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Grace Vargas Opens Gracie&#39;s Hair &amp; Beyond in Fort Worth, Offering Affordable Beauty Services
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Grace Vargas, a licensed cosmetologist, has opened a new salon called Gracie's Hair & Beyond in Fort Worth, Texas. She offers a wide range of beauty …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-us-global-mail-introduces-mail-on-demand-service-transforming-mail-management-in-texas-and-beyond/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/technology-3.jpg" alt="US Global Mail Introduces &#39;Mail on Demand&#39; Service, Transforming Mail Management in Texas and Beyond" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  US Global Mail Introduces &#39;Mail on Demand&#39; Service, Transforming Mail Management in Texas and Beyond
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>US Global Mail announces the launch of 'Mail on Demand,' a virtual mailbox service that provides real-time mail scanning and instant notifications. …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-empowered-essence-salon-opens-in-georgetown-offering-personalized-hair-care-and-empowerment/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-1.jpg" alt="Empowered Essence Salon Opens in Georgetown, Offering Personalized Hair Care and Empowerment" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Empowered Essence Salon Opens in Georgetown, Offering Personalized Hair Care and Empowerment
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Kristinia, the visionary behind Empowered Essence, brings 15 years of hairstyling expertise to Hill Country Salon Suites in Georgetown, TX. Her focus …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-burcon-nutrascience-advances-plant-based-protein-strategy-with-strategic-partnerships-and-market-expansion/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/4e65f6a6f4ac448f4e42df941e434d37.png" alt="Burcon Nutrascience Advances Plant-Based Protein Strategy with Strategic Partnerships and Market Expansion" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Burcon Nutrascience Advances Plant-Based Protein Strategy with Strategic Partnerships and Market Expansion
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p><strong>Burcon Nutrascience Corporation (TSX: BU)</strong> made significant progress in the third quarter of 2025, ramping up commercial production of its canola …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-gladstone-commercial-corporation-reports-strong-q4-2024-performance-with-strategic-industrial-expansion/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/32bbff56c7928ccced19e0988addea11.jpg" alt="Gladstone Commercial Corporation Reports Strong Q4 2024 Performance with Strategic Industrial Expansion" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Gladstone Commercial Corporation Reports Strong Q4 2024 Performance with Strategic Industrial Expansion
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Gladstone Commercial Corporation (NasdaqGS: GOOD) receives an update from Stonegate Capital Partners, reporting revenue, FFO per share, and AFFO per …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-16-forum-energy-technologies-showcases-strategic-adaptability-in-q4-financial-results/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/a76c7eea29752b83edcf2ea57327201f.jpg" alt="Forum Energy Technologies Showcases Strategic Adaptability in Q4 Financial Results" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Forum Energy Technologies Showcases Strategic Adaptability in Q4 Financial Results
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Stonegate Capital Partners updates their coverage on Forum Energy Technologies, Inc. (NYSE: FET), reporting revenue, adj EBITDA, and adj net income …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 16, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+         
+      </div>
+      
+
+      
+      
+      <div class="content-card p-6">
+        <div class="flex flex-col justify-center">
+          <div class="text-center mb-6">
+            <p class="text-sm text-gray-600">
+              Showing 28 of 351 articles (Page 7 of 13)
+            </p>
+          </div>
+          <div class="flex justify-center items-center gap-2">
+            
+            
+            <a href="/page/6/" class="btn btn-outline btn-sm">
+              <svg
+                class="w-4 h-4 mr-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
+                ></path>
+              </svg>
+              Previous
+            </a>
+            
+
+            
+            <div class="flex gap-1 mx-4">
+              
+              
+              <a
+                href="/"
+                class="btn btn-outline btn-sm"
+                >1</a
+              >
+              
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+               
+
+              
+              
+              <a href="/page/6/" class="btn btn-outline btn-sm"
+                >6</a
+              >
+              
+
+              
+              <span class="btn btn-primary btn-sm"
+                >7</span
+              >
+
+              
+              
+              <a href="/page/8/" class="btn btn-outline btn-sm"
+                >8</a
+              >
+              
+
+              
+               
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+              
+              <a href="/page/13/" class="btn btn-outline btn-sm"
+                >13</a
+              >
+              
+            </div>
+
+            
+            
+            <a href="/page/8/" class="btn btn-outline btn-sm">
+              Next
+              <svg
+                class="w-4 h-4 ml-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                ></path>
+              </svg>
+            </a>
+            
+          </div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>
+
+    </main>
+    
+    
+<footer class="bg-teal-700 text-white">
+  <div class="container mx-auto px-4 py-6">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="flex items-center gap-4">
+        <p class="text-sm">
+          Newswriter.ai © 2025 All Rights Reserved
+        </p>
+        <a href="#" class="text-sm hover:text-teal-200 transition-colors"
+          >Privacy Policy</a
+        >
+        <a href="#" class="text-sm hover:text-teal-200 transition-colors"
+          >Terms of Service</a
+        >
+      </div>
+
+      
+      <div class="flex items-center">
+        <div
+          class="bg-white text-black px-3 py-1 rounded flex items-center gap-2"
+        >
+          <div class="border-2 border-black rounded px-2 py-1">
+            <span class="font-bold text-xs">AI<br />TS</span>
+          </div>
+          <div class="text-xs">
+            <div class="font-semibold">Verified Tool on</div>
+            <div class="font-bold">AI Tech Suite</div>
+          </div>
+          <div class="text-lg">✓</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

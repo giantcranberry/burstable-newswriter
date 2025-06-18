@@ -1,0 +1,35 @@
+<!-- Trending stories sidebar with DaisyUI cards -->
+<div class="lg:sticky lg:top-24">
+  <h2 class="text-2xl font-bold mb-6">Trending Stories</h2>
+  <div class="space-y-2">
+    {{ $recent := first 5 (where .Site.RegularPages "Type" "posts") }} {{ range
+    $recent }}
+    <div
+      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
+    >
+      <div class="flex gap-3 items-start">
+        <div>
+          <img src="{{ .Params.enclosure | default
+          "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&h=200&fit=crop"
+          }}" alt="{{ .Title }}" class="w-20 h-16 object-cover rounded-lg">
+        </div>
+        <div class="flex-1">
+          <a href="{{ .Permalink }}" class="no-underline">
+            <h3
+              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
+            >
+              {{ .Title }}
+            </h3>
+          </a>
+          <div class="flex items-center">
+            <span class="badge badge-outline badge-xs">NEWS</span>
+            <span class="text-xs text-gray-500 ml-2"
+              >{{ .Date.Format "2006-01-02" }}</span
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1315&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building Texas Show News</title>
+    
+    
+    <meta name="description" content="Latest news and updates from Building Texas Show">
+    <meta name="keywords" content="news, breaking news, current events, analysis, journalism">
+    <meta name="author" content="Building Texas Show">
+    
+    
+    <meta property="og:title" content="Building Texas Show News">
+    <meta property="og:description" content="Latest news and updates from Building Texas Show">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:1315/">
+    
+    
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Building Texas Show News">
+    <meta name="twitter:description" content="Latest news and updates from Building Texas Show">
+    
+    
+    <link rel="canonical" href="http://localhost:1315/">
+    
+    
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    
+    <style>
+         
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
+         
+        :root {
+          --primary: #0f766e;  
+          --primary-content: #ffffff;
+          --secondary: #64748b;
+          --accent: #dc2626;  
+          --neutral: #0f766e;  
+          --base-100: #ffffff;
+          --base-200: #f8fafc;
+          --base-300: #e2e8f0;
+          --base-content: #1f2937;
+          --teal-600: #0d9488;
+          --teal-700: #0f766e;
+          --teal-800: #115e59;
+        }
+
+         
+        [data-theme="light"] {
+          --primary: #0f766e;
+          --primary-content: #ffffff;
+          --secondary: #64748b;
+          --accent: #dc2626;
+          --neutral: #0f766e;
+          --base-100: #ffffff;
+          --base-200: #f8fafc;
+          --base-300: #e2e8f0;
+          --base-content: #1f2937;
+          background-color: #ffffff;
+          color: #1f2937;
+        }
+
+         
+        html, body {
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          background-color: inherit;
+          color: inherit;
+          line-height: 1.6;
+        }
+
+         
+        main {
+          background-color: #a5f3fc;
+          color: #1f2937;
+          min-height: calc(100vh - 200px);
+        }
+
+         
+        .content-card {
+          background: rgba(255, 255, 255, 0.95);
+          color: #1f2937;
+          border-radius: 8px;
+          box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+         
+        h1, h2, h3, h4, h5, h6 {
+          font-weight: 600;
+          line-height: 1.3;
+        }
+
+         
+        .btn-primary {
+          background-color: #0f766e;
+          border-color: #0f766e;
+          color: white;
+        }
+
+        .btn-primary:hover {
+          background-color: #0d9488;
+          border-color: #0d9488;
+        }
+
+         
+        a {
+          color: #0f766e;
+          text-decoration: none;
+        }
+
+        a:hover {
+          color: #0d9488;
+        }
+
+         
+        .nav-hover:hover {
+          background-color: var(--primary) !important;
+          color: var(--primary-content) !important;
+        }
+
+        .dropdown-content {
+          background-color: var(--base-100) !important;
+          border: 1px solid var(--base-300) !important;
+        }
+
+        .dropdown-item:hover {
+          background-color: var(--primary) !important;
+          color: var(--primary-content) !important;
+        }
+
+        .group:hover .group-hover\:block {
+          display: block !important;
+        }
+    </style>
+    
+</head>
+<body class="min-h-screen bg-base-100">
+    
+<div class="bg-white border-b border-gray-200">
+  <div class="container mx-auto px-4 py-4">
+    <div class="flex items-center justify-between">
+      
+      <a href="/" class="flex items-center">
+        <img
+          src="https://newswriter.ai/logo.svg"
+          alt="Newswriter.ai"
+          class="h-8 w-auto"
+        />
+        <span class="text-sm text-gray-500 ml-3"
+          >Let AI Write Your Press Release</span
+        >
+      </a>
+
+      
+      <div class="relative">
+        <div class="dropdown dropdown-end">
+          <div tabindex="0" role="button" class="btn btn-primary">
+            Write My Press Release
+            <svg
+              class="w-4 h-4 ml-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M19 9l-7 7-7-7"
+              ></path>
+            </svg>
+          </div>
+          <ul
+            tabindex="0"
+            class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
+          >
+            <li><a href="#" class="text-sm">Write New Press Release</a></li>
+            <li><a href="#" class="text-sm">Improve Existing Release</a></li>
+            <li><a href="#" class="text-sm">View Examples</a></li>
+            <li><a href="#" class="text-sm">Pricing</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+    <main>
+        
+
+<div class="min-h-screen py-8">
+  <div class="container mx-auto px-4">
+    
+    <div class="max-w-6xl mx-auto">
+      <div class="content-card p-6 mb-8">
+        <div class="flex justify-between items-center">
+          <h2 class="text-3xl font-bold text-gray-800">Latest News</h2>
+        </div>
+      </div>
+
+      
+      
+      
+       
+      <div class="mb-8">
+        <div class="card bg-base-100 shadow-xl rounded-xl overflow-hidden">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-0">
+            <div class="relative">
+              <img src="https://cdn.newsramp.app/banners/technology-1.jpg" alt="Massimo Group Revolutionizes Powersports Purchasing with Fully Digital Retail Platform" class="w-full h-64 lg:h-full
+              object-cover">
+              <span class="badge badge-primary badge-lg absolute top-4 left-4"
+                >FEATURED</span
+              >
+            </div>
+            <div class="p-6 flex flex-col justify-center">
+              <a href="http://localhost:1315/posts/2025-06-15-massimo-group-revolutionizes-powersports-purchasing-with-fully-digital-retail-platform/" class="no-underline">
+                <h1
+                  class="text-2xl lg:text-3xl font-bold text-base-content leading-tight mb-4 hover:text-primary transition-colors duration-200"
+                >
+                  Massimo Group Revolutionizes Powersports Purchasing with Fully Digital Retail Platform
+                </h1>
+              </a>
+              
+              <div
+                class="text-base text-base-content opacity-80 mb-4 leading-relaxed [&>p]:mb-3"
+              >
+                <p><strong>Massimo Group (NASDAQ: MAMO)</strong> is launching a digital retail platform to simplify purchasing UTVs, ATVs, and mini-bikes, aiming to expand its sales footprint and drive revenue growth. This move allows …</p>
+              </div>
+              
+              <div class="flex items-center justify-between">
+                <div
+                  class="flex items-center text-sm text-base-content opacity-60"
+                >
+                  
+                  <a
+                    href="https://rss.investorbrandnetwork.com/iw/investornewsbreaks-innovation-in-motion-massimo-group-nasdaq-mamo-launches-fully-digital-retail-platform/"
+                    target="_blank"
+                    class="text-primary hover:underline"
+                    >Source</a
+                  >
+                  <span class="mx-2">•</span>
+                  
+                  <span>June 15, 2025</span>
+                </div>
+                <a
+                  href="http://localhost:1315/posts/2025-06-15-massimo-group-revolutionizes-powersports-purchasing-with-fully-digital-retail-platform/"
+                  class="btn btn-primary btn-sm"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+
+      
+       
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+         
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-sugar-land-meditation-center-offers-unique-retreat-for-youth-amid-rising-stress-and-anxiety/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/events-1.jpg" alt="Sugar Land Meditation Center Offers Unique Retreat for Youth Amid Rising Stress and Anxiety" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Sugar Land Meditation Center Offers Unique Retreat for Youth Amid Rising Stress and Anxiety
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Discover the transformative journey at Universal Door Meditation Center in Sugar Land led by Zen Master Thich Dieu Thien. Participants are invited to …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-innovative-educational-programs-for-military-spouses-launched-by-msan-and-university-of-notre-dame/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-1.jpg" alt="Innovative Educational Programs for Military Spouses Launched by MSAN and University of Notre Dame" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Innovative Educational Programs for Military Spouses Launched by MSAN and University of Notre Dame
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>The Military Spouse Advocacy Network (MSAN) and the Leadership Institute for Military Spouses (LIMS) have partnered with the University of Notre Dame …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-mccann-systems-expands-team-with-11-new-hires-to-strengthen-av-integration-services-in-texas/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/events-3.jpg" alt="McCann Systems Expands Team with 11 New Hires to Strengthen AV Integration Services in Texas" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  McCann Systems Expands Team with 11 New Hires to Strengthen AV Integration Services in Texas
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>McCann Systems, a leader in audiovisual integration, has bolstered its team with the addition of 11 skilled professionals, signaling its commitment to …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-kiolbassa-smoked-meats-announces-strategic-leadership-transition-to-foster-growth/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Kiolbassa Smoked Meats Announces Strategic Leadership Transition to Foster Growth" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Kiolbassa Smoked Meats Announces Strategic Leadership Transition to Foster Growth
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Kiolbassa Smoked Meats, a San Antonio-based leader in premium smoked sausages, has announced a significant leadership transition set to take effect on …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-texas-welcomes-a-new-era-in-luxury-automotive-care-with-specialized-mercedes-benz-service-center/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Texas Welcomes a New Era in Luxury Automotive Care with Specialized Mercedes-Benz Service Center" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Texas Welcomes a New Era in Luxury Automotive Care with Specialized Mercedes-Benz Service Center
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Car Garage Expert, a renowned automotive service provider in the UAE, has launched a specialized <a href='https://cargarageexpert.com/mercedes-repair-dubai/'>Mercedes Benz service center</a> in Dubai. This new …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-vivakor-expands-crude-oil-operations-in-texas-bolstering-us-energy-sector/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/technology-1.jpg" alt="Vivakor Expands Crude Oil Operations in Texas, Bolstering U.S. Energy Sector" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Vivakor Expands Crude Oil Operations in Texas, Bolstering U.S. Energy Sector
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Vivakor (NASDAQ: VIVK), an integrated energy services provider, is making significant strides in the Permian and Eagle Ford Basins by expanding its …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-summit-restoration-expands-its-reach-to-texas-setting-new-standards-in-the-restoration-industry/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-3.jpg" alt="Summit Restoration Expands Its Reach to Texas, Setting New Standards in the Restoration Industry" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Summit Restoration Expands Its Reach to Texas, Setting New Standards in the Restoration Industry
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Summit Restoration, a Florida-based company specializing in water, mold, and roof damage restoration, is making headlines as it expands its operations …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-houston-texans-and-american-heart-association-empower-youth-coaches-with-lifesaving-cpr-skills/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/newmediawire/newsimage/f79c4541287ec2916c38b150290a8801.jpg" alt="Houston Texans and American Heart Association Empower Youth Coaches with Lifesaving CPR Skills" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Houston Texans and American Heart Association Empower Youth Coaches with Lifesaving CPR Skills
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>The American Heart Association, in collaboration with the Houston Texans, recently trained nearly 100 youth sports coaches from the Texans Showcase …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-texas-law-firm-expands-efforts-to-combat-preventable-birth-injuries/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/news-direct/newsimage/2ec1a3d83e33f8d41bb7fbfe0626842c.jpg" alt="Texas Law Firm Expands Efforts to Combat Preventable Birth Injuries" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Texas Law Firm Expands Efforts to Combat Preventable Birth Injuries
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Every year, thousands of families in the United States face the devastating consequences of <a href='https://sandovalpllc.com/birth-injury-lawyers/'>preventable birth injuries</a>, with approximately 28,000 …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-texas-strengthens-oil-and-gas-industry-with-new-legislation/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg" alt="Texas Strengthens Oil and Gas Industry with New Legislation" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Texas Strengthens Oil and Gas Industry with New Legislation
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Governor Greg Abbott of Texas has recently enacted measures aimed at promoting economic growth and supporting the natural gas and oil industry within …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-texas-welcomes-mindfulness-coach-rashmi-kumar-shah-and-her-groundbreaking-childrens-book-i-found-my-piece/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/books-publishing-3.jpg" alt="Texas Welcomes Mindfulness Coach Rashmi Kumar Shah and Her Groundbreaking Children&#39;s Book &#39;I Found My Piece&#39;" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Texas Welcomes Mindfulness Coach Rashmi Kumar Shah and Her Groundbreaking Children&#39;s Book &#39;I Found My Piece&#39;
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Rashmi Kumar Shah, a local author, recently captivated children and their families at the Hendersonville Pride family zone with her interactive …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-hooker-furniture-corporation-navigates-economic-challenges-with-strategic-cost-reductions-and-inventory-management/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/f2379175c523171c2691ed1f90f5d2be.png" alt="Hooker Furniture Corporation Navigates Economic Challenges with Strategic Cost Reductions and Inventory Management" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Hooker Furniture Corporation Navigates Economic Challenges with Strategic Cost Reductions and Inventory Management
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Hooker Furniture Corporation (NASDAQ: HOFT) has recently been under the spotlight as Stonegate Capital Partners updated their coverage on the company. …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-massimo-group-drives-innovation-in-texas-powersports-industry/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Massimo Group Drives Innovation in Texas&#39; Powersports Industry" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Massimo Group Drives Innovation in Texas&#39; Powersports Industry
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Massimo Group (NASDAQ: MAMO), a leading manufacturer in the powersports and recreational watercraft industries, is strategically positioning itself to …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1315/posts/2025-06-15-massimo-group-leads-texas-based-innovation-in-the-booming-powersports-industry/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/technology-3.jpg" alt="Massimo Group Leads Texas-Based Innovation in the Booming Powersports Industry" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Massimo Group Leads Texas-Based Innovation in the Booming Powersports Industry
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Massimo Group (NASDAQ: MAMO), a leading manufacturer in the powersports and recreational watercraft industries, is strategically positioning itself to …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 15, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+         
+      </div>
+      
+
+      
+      
+      <div class="content-card p-6">
+        <div class="flex flex-col justify-center">
+          <div class="text-center mb-6">
+            <p class="text-sm text-gray-600">
+              Showing 15 of 351 articles (Page 13 of 13)
+            </p>
+          </div>
+          <div class="flex justify-center items-center gap-2">
+            
+            
+            <a href="/page/12/" class="btn btn-outline btn-sm">
+              <svg
+                class="w-4 h-4 mr-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
+                ></path>
+              </svg>
+              Previous
+            </a>
+            
+
+            
+            <div class="flex gap-1 mx-4">
+              
+              
+              <a
+                href="/"
+                class="btn btn-outline btn-sm"
+                >1</a
+              >
+              
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+               
+
+              
+              
+              <a href="/page/12/" class="btn btn-outline btn-sm"
+                >12</a
+              >
+              
+
+              
+              <span class="btn btn-primary btn-sm"
+                >13</span
+              >
+
+              
+              
+
+              
+              
+            </div>
+
+            
+            
+            <button
+              disabled
+              class="btn btn-outline btn-sm opacity-50 cursor-not-allowed"
+            >
+              Next
+              <svg
+                class="w-4 h-4 ml-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                ></path>
+              </svg>
+            </button>
+            
+          </div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>
+
+    </main>
+    
+    
+<footer class="bg-teal-700 text-white">
+  <div class="container mx-auto px-4 py-6">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="flex items-center gap-4">
+        <p class="text-sm">
+          Newswriter.ai © 2025 All Rights Reserved
+        </p>
+        <a href="#" class="text-sm hover:text-teal-200 transition-colors"
+          >Privacy Policy</a
+        >
+        <a href="#" class="text-sm hover:text-teal-200 transition-colors"
+          >Terms of Service</a
+        >
+      </div>
+
+      
+      <div class="flex items-center">
+        <div
+          class="bg-white text-black px-3 py-1 rounded flex items-center gap-2"
+        >
+          <div class="border-2 border-black rounded px-2 py-1">
+            <span class="font-bold text-xs">AI<br />TS</span>
+          </div>
+          <div class="text-xs">
+            <div class="font-semibold">Verified Tool on</div>
+            <div class="font-bold">AI Tech Suite</div>
+          </div>
+          <div class="text-lg">✓</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

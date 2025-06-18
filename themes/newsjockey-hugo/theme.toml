@@ -1,0 +1,12 @@
+name = "NewsJockey Hugo"
+license = "MIT"
+licenselink = "https://github.com/yourname/newsjockey-hugo/blob/main/LICENSE"
+description = "A professional news website theme for Hugo based on DaisyUI"
+homepage = "https://github.com/yourname/newsjockey-hugo"
+tags = ["news", "blog", "responsive", "daisyui", "tailwind"]
+features = ["responsive", "dark-mode", "pagination", "seo"]
+min_version = "0.100.0"
+
+[author]
+  name = "Your Name"
+  homepage = "https://yourwebsite.com"
