@@ -6,7 +6,6 @@ summary = "<p>Nightfood Holdings (OTCQB: NGTF) has announced the appointment of 
 description = "Nightfood Holdings appoints new leaders to accelerate hospitality innovation, backed by McKinsey research on executive effectiveness. Learn more about their strategic growth plans."
 source_link = "https://rss.investorbrandnetwork.com/tmw/nightfood-holdings-inc-ngtf-taps-proven-leaders-to-accelerate-hospitality-innovation/"
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
-featured = true
 article_id = 84647
 feed_item_id = 15275
 +++
