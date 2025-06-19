@@ -8,6 +8,8 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84725
 feed_item_id = 15035
+qrcode = https://cdn.newsramp.app/ibn/qrcode/256/3/icy67By.webp
+source = InvestorBrandNetwork (IBN)
 +++
 
 <p>SolarBank Corporation has announced the development of a 6.9 megawatt (MW) community solar project in Brooklyn, Nova Scotia, a pioneering initiative under Canada's first Community Solar Program. This project is poised to generate sufficient clean energy to power around 900 homes, aligning with Nova Scotia's ambitious targets of 80% renewable energy by 2030 and net-zero emissions by 2035.</p><p>Owned by AI Renewable Fund, which has secured two of the three contracts awarded under the Community Solar Program to date, the Brooklyn solar project will see SolarBank acting as both developer and builder. Drawing on its vast experience in community solar development in the United States, SolarBank is set to commence construction in Spring 2026, with the project expected to be completed by Summer 2026. The total development cost is estimated at $13.9 million.</p><p>This initiative not only highlights SolarBank's dedication to renewable energy solutions but also emphasizes the critical role of community solar programs in promoting environmental sustainability. By delivering clean, renewable energy to hundreds of households, the project represents a concrete advancement in combating climate change and moving towards a sustainable economy. Moreover, it exemplifies the potential for collaboration between the public and private sectors in achieving renewable energy objectives and encouraging sustainable development.</p>
