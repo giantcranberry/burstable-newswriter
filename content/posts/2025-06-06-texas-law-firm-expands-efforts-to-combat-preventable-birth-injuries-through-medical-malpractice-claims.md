@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/sandoval-law-firm-stands-with-texas-f
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/2ec1a3d83e33f8d41bb7fbfe0626842c.jpg"
 article_id = 84129
 feed_item_id = 15327
+url = "2025-06-06-texas-law-firm-expands-efforts-to-combat-preventable-birth-injuries-through-medical-malpractice-claims"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/6/gaind5tM.webp"
 source = "News Direct"
 +++

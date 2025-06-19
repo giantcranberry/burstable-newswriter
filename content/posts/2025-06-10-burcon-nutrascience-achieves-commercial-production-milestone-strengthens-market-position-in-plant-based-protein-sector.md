@@ -8,6 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-cove
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/79283b18a5f738700795287943312c8d.png"
 article_id = 84572
 feed_item_id = 15432
+url = "2025-06-10-burcon-nutrascience-achieves-commercial-production-milestone-strengthens-market-position-in-plant-based-protein-sector"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/10/hint96bw.webp"
 source = "Reportable"
 +++

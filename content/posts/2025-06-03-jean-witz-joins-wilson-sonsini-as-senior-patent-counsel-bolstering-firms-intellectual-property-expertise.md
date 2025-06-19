@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702082/jean-witz-joins-wilson-sons
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 84227
 feed_item_id = 15045
+url = "2025-06-03-jean-witz-joins-wilson-sonsini-as-senior-patent-counsel-bolstering-firms-intellectual-property-expertise"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/lambuyAE.webp"
 source = "citybiz"
 +++

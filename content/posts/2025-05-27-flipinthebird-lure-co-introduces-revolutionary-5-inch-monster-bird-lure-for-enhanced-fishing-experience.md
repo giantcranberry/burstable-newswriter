@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523149/49er-super-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84371
 feed_item_id = 14607
+url = "2025-05-27-flipinthebird-lure-co-introduces-revolutionary-5-inch-monster-bird-lure-for-enhanced-fishing-experience"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/numbkp19.webp"
 source = "24-7 Press Release"
 +++

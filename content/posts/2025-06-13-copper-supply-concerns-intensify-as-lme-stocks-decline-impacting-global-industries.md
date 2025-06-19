@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/dwindling-lme-copper-sup
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84040
 feed_item_id = 15623
+url = "2025-06-13-copper-supply-concerns-intensify-as-lme-stocks-decline-impacting-global-industries"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/dave3PQ2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523322/automotive-
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 84774
 feed_item_id = 14788
+url = "2025-05-30-california-smog-and-auto-repair-businesses-gain-access-to-specialized-legal-strategies-for-bar-license-challenges"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/chipLEDE.webp"
 source = "24-7 Press Release"
 +++

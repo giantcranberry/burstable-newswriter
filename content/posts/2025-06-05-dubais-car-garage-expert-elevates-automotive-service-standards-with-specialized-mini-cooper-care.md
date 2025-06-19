@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-dubais-trusted-name
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84649
 feed_item_id = 15273
+url = "2025-06-05-dubais-car-garage-expert-elevates-automotive-service-standards-with-specialized-mini-cooper-care"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/vastx_CY.webp"
 source = "News Direct"
 +++

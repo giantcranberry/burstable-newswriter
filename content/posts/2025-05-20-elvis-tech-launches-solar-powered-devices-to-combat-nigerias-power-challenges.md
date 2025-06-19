@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/laptop-power-without-limits-elvis-tec
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84869
 feed_item_id = 14383
+url = "2025-05-20-elvis-tech-launches-solar-powered-devices-to-combat-nigerias-power-challenges"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/20/cornxIHr.webp"
 source = "News Direct"
 +++

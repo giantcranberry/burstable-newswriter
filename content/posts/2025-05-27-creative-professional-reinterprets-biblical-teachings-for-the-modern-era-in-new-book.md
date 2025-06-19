@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523165/70s-playboy
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 84803
 feed_item_id = 14609
+url = "2025-05-27-creative-professional-reinterprets-biblical-teachings-for-the-modern-era-in-new-book"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/knot25Rd.webp"
 source = "24-7 Press Release"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-adageis-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84893
 feed_item_id = 14256
+url = "2025-05-15-adageis-proactive-care-platform-transforms-value-based-care-for-medical-practices"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/swimEyjz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

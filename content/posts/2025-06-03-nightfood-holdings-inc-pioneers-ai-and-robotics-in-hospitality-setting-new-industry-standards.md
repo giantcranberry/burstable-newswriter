@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/nightfood-holdings-inc-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84229
 feed_item_id = 15036
+url = "2025-06-03-nightfood-holdings-inc-pioneers-ai-and-robotics-in-hospitality-setting-new-industry-standards"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/zeroiIC_.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

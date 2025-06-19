@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523173/save-fry-oi
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-2.jpg"
 article_id = 84802
 feed_item_id = 14608
+url = "2025-05-27-save-fry-oil-launches-restaurant-talk-podcast-to-empower-foodservice-professionals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/pinko5x3.webp"
 source = "24-7 Press Release"
 +++

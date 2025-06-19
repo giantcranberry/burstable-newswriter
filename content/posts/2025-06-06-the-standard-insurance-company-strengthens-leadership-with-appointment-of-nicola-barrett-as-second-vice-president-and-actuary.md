@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703682/the-standard-appoints-nicol
 enclosure = "https://cdn.newsramp.app/banners/insurance-2.jpg"
 article_id = 84628
 feed_item_id = 15316
+url = "2025-06-06-the-standard-insurance-company-strengthens-leadership-with-appointment-of-nicola-barrett-as-second-vice-president-and-actuary"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/joltcjlP.webp"
 source = "citybiz"
 +++

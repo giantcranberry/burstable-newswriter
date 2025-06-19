@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-vivako
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84248
 feed_item_id = 14987
+url = "2025-06-03-vivakor-expands-crude-oil-operations-in-key-us-basins-to-meet-growing-energy-demands"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/lush_1sP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523472/quick-drip-
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 84217
 feed_item_id = 15079
+url = "2025-06-04-quick-drip-iv-lounge-sponsors-luxury-hair-spa-grand-opening-highlighting-wellness-and-beauty-synergy"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/knot8yZr.webp"
 source = "24-7 Press Release"
 +++

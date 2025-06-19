@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701863/smartbear-appoint-kelly-wen
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84242
 feed_item_id = 15000
+url = "2025-06-03-smartbear-strengthens-leadership-team-to-drive-ai-innovation-in-software-development"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/pearWdTw.webp"
 source = "citybiz"
 +++

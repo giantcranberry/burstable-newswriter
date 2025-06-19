@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-platinum-grou
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84130
 feed_item_id = 15326
+url = "2025-06-06-platinum-group-metals-ltd-strategically-advances-in-palladium-market-with-waterberg-project-and-lion-battery-technologies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/lossgA5Q.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

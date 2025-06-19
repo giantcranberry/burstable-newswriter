@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523615/akshay-harl
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84127
 feed_item_id = 15340
+url = "2025-06-09-akshay-d-harlalka-honored-by-marquis-whos-who-for-pioneering-contributions-to-precision-engineering"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/9/dualVAdQ.webp"
 source = "24-7 Press Release"
 +++

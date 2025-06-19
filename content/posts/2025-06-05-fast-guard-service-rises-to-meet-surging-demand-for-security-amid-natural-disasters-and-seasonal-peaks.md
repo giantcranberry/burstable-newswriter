@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523525/fast-guard-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84174
 feed_item_id = 15184
+url = "2025-06-05-fast-guard-service-rises-to-meet-surging-demand-for-security-amid-natural-disasters-and-seasonal-peaks"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/5/beanGnuV.webp"
 source = "24-7 Press Release"
 +++

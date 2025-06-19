@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522953/critter-sto
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 84871
 feed_item_id = 14360
+url = "2025-05-20-critter-stop-revolutionizes-pest-control-in-allen-texas-with-community-centric-approach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/20/harp5H32.webp"
 source = "24-7 Press Release"
 +++

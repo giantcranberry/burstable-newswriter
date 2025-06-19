@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-fusion
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84357
 feed_item_id = 14645
+url = "2025-05-27-fusion-fuel-green-plc-expands-energy-services-footprint-with-50-million-uk-acquisition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/paveFn0O.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702440/guidehouse-appoints-jon-ste
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84205
 feed_item_id = 15109
+url = "2025-06-04-guidehouse-strengthens-ai-and-data-capabilities-with-new-partner-jon-steinert"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/openWBhg.webp"
 source = "citybiz"
 +++

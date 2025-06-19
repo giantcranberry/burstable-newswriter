@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522990/yurinox-wor
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84854
 feed_item_id = 14432
+url = "2025-05-21-yurinox-workwear-introduces-advanced-high-visibility-and-water-repellent-gear-for-hurricane-season"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/21/mild7MGT.webp"
 source = "24-7 Press Release"
 +++

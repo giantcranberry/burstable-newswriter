@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/innovative-designs-delivers-rec
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/c13658f45894443e6b013f7927395a5f.png"
 article_id = 84400
 feed_item_id = 15708
+url = "2025-06-17-innovative-designs-inc-reports-stellar-financial-growth-driven-by-demand-for-insultex-technology"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/17/tallPhuR.webp"
 source = "NewMediaWire"
 +++

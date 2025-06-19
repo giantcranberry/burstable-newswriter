@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/valluxy-launches-premium-home-sauna-s
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 84866
 feed_item_id = 14387
+url = "2025-05-20-valluxy-revolutionizes-home-wellness-with-innovative-sauna-collection"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/20/pendTiKN.webp"
 source = "News Direct"
 +++

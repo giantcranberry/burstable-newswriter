@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523716/bayuk-pratt
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 84551
 feed_item_id = 15472
+url = "2025-06-11-bayuk-pratt-law-firm-achieves-prestigious-band-1-ranking-by-chambers-and-partners"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/11/fondXGf6.webp"
 source = "24-7 Press Release"
 +++

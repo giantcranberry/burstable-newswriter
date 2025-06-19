@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703084/inrule-technology-appoints-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84672
 feed_item_id = 15204
+url = "2025-06-05-inrule-technology-strengthens-ai-leadership-with-appointment-of-jeff-prosise-as-chief-artificial-intelligence-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/gulfpY7_.webp"
 source = "citybiz"
 +++

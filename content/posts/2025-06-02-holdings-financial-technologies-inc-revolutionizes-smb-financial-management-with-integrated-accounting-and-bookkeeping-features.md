@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/holdings-introduces-comprehensive-smb-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/4feea921631a0a33357245c1a615f589.jpg"
 article_id = 84281
 feed_item_id = 14884
+url = "2025-06-02-holdings-financial-technologies-inc-revolutionizes-smb-financial-management-with-integrated-accounting-and-bookkeeping-features"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/archMgcM.webp"
 source = "Press Services"
 +++

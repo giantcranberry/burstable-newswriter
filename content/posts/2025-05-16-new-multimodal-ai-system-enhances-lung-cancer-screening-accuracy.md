@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/new-multimodal-ai-system
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84889
 feed_item_id = 14275
+url = "2025-05-16-new-multimodal-ai-system-enhances-lung-cancer-screening-accuracy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/jolt4CPk.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

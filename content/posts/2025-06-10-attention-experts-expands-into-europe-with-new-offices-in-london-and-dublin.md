@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/attention-experts-expands-internation
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 84582
 feed_item_id = 15414
+url = "2025-06-10-attention-experts-expands-into-europe-with-new-offices-in-london-and-dublin"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/jazzyr9C.webp"
 source = "News Direct"
 +++

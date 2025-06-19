@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523530/americas-si
 enclosure = "https://cdn.newsramp.app/banners/education-3.jpg"
 article_id = 84158
 feed_item_id = 15242
+url = "2025-06-05-us-dependency-on-imported-fasteners-poses-national-security-and-economic-risks"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/5/pendyUtL.webp"
 source = "24-7 Press Release"
 +++

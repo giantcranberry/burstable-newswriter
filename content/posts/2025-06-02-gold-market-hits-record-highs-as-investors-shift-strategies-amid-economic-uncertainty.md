@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/next-gold-powerhouse-eme
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84292
 feed_item_id = 14847
+url = "2025-06-02-gold-market-hits-record-highs-as-investors-shift-strategies-amid-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/rendLLo3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

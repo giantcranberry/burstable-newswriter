@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702042/james-west-joins-turbinehub
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84233
 feed_item_id = 15027
+url = "2025-06-03-turbinehub-strengthens-leadership-with-appointment-of-james-west-to-spearhead-financial-market-strategy"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/riceoJ1D.webp"
 source = "citybiz"
 +++

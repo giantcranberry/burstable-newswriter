@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523199/joseph-mari
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 84351
 feed_item_id = 14662
+url = "2025-05-28-joseph-marino-achieves-prestigious-mcmea-designation-elevating-truman-mox-incs-national-profile"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/meanBEHd.webp"
 source = "24-7 Press Release"
 +++

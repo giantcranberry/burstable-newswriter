@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-massim
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84199
 feed_item_id = 15124
+url = "2025-06-04-massimo-group-embraces-nearshoring-to-strengthen-supply-chain-and-sustainability-efforts"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/quipBGYG.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

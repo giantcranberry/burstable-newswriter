@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/vivakor-inc-nasdaq-vivk-l
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84339
 feed_item_id = 14697
+url = "2025-05-28-vivakor-inc-redefines-sustainability-in-the-oil-and-gas-industry-with-record-financial-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/barn0JNP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701734/oceans-equity-appoints-scot
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84253
 feed_item_id = 14973
+url = "2025-06-03-scott-bartnick-joins-oceans-equity-as-managing-partner-to-drive-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/silkRcTy.webp"
 source = "citybiz"
 +++

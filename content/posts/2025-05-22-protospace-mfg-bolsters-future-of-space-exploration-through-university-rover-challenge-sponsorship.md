@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/protospace-mfg-celebrates-10-ye
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84830
 feed_item_id = 14512
+url = "2025-05-22-protospace-mfg-bolsters-future-of-space-exploration-through-university-rover-challenge-sponsorship"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/22/pink2Cw2.webp"
 source = "NewMediaWire"
 +++

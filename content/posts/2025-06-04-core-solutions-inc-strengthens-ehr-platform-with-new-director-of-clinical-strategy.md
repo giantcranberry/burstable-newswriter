@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702463/core-solutions-appoints-dr-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84206
 feed_item_id = 15108
+url = "2025-06-04-core-solutions-inc-strengthens-ehr-platform-with-new-director-of-clinical-strategy"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/neon0ePG.webp"
 source = "citybiz"
 +++

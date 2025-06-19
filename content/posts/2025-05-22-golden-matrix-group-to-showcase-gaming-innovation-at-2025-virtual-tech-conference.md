@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-matrix-group-gmgi-to-par
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84828
 feed_item_id = 14514
+url = "2025-05-22-golden-matrix-group-to-showcase-gaming-innovation-at-2025-virtual-tech-conference"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/22/goldpOCZ.webp"
 source = "NewMediaWire"
 +++

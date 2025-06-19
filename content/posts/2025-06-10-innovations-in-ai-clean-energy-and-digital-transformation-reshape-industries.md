@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/leaders-in-the-news-bbai-syta-fcel-lt
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84098
 feed_item_id = 15433
+url = "2025-06-10-innovations-in-ai-clean-energy-and-digital-transformation-reshape-industries"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/riceuwvL.webp"
 source = "News Direct"
 +++

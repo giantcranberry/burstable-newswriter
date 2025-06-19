@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-mullen
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84865
 feed_item_id = 14397
+url = "2025-05-20-mullen-automotive-inc-reports-significant-revenue-growth-and-strategic-advances-in-the-ev-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/hintuHJN.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

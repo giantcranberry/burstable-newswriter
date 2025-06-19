@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701685/theoria-medical-expands-ind
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d7dd7140d9b7d40e7401e563bc8eb829.png"
 article_id = 84741
 feed_item_id = 14957
+url = "2025-06-03-theoria-medical-strengthens-leadership-team-to-transform-post-acute-and-senior-living-care"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/roamh31r.webp"
 source = "citybiz"
 +++

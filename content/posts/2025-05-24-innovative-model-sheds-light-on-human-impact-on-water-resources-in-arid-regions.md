@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523133/new-model-t
 enclosure = "https://cdn.newsramp.app/banners/science-3.jpg"
 article_id = 84377
 feed_item_id = 14588
+url = "2025-05-24-innovative-model-sheds-light-on-human-impact-on-water-resources-in-arid-regions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/24/hintr7XX.webp"
 source = "24-7 Press Release"
 +++

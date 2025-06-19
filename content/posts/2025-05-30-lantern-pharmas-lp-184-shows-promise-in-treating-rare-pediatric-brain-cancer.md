@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-lantern
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84306
 feed_item_id = 14794
+url = "2025-05-30-lantern-pharmas-lp-184-shows-promise-in-treating-rare-pediatric-brain-cancer"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/yogahH9I.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

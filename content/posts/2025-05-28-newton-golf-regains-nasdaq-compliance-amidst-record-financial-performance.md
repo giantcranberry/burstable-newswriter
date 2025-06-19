@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/banners/sports-2.jpg"
 article_id = 84344
 feed_item_id = 14680
+url = "2025-05-28-newton-golf-regains-nasdaq-compliance-amidst-record-financial-performance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/ulna8Ct7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

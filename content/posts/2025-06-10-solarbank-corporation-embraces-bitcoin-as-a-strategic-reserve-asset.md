@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84089
 feed_item_id = 15451
+url = "2025-06-10-solarbank-corporation-embraces-bitcoin-as-a-strategic-reserve-asset"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/pondcMfo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

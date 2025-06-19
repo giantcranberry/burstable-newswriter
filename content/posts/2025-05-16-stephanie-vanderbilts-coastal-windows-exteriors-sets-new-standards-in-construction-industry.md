@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522839/stephanie-v
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 84892
 feed_item_id = 14259
+url = "2025-05-16-stephanie-vanderbilts-coastal-windows-exteriors-sets-new-standards-in-construction-industry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/16/gleepeWP.webp"
 source = "24-7 Press Release"
 +++

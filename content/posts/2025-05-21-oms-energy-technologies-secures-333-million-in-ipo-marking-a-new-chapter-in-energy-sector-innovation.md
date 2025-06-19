@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-oms-ener
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84849
 feed_item_id = 14449
+url = "2025-05-21-oms-energy-technologies-secures-333-million-in-ipo-marking-a-new-chapter-in-energy-sector-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/walliUWI.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

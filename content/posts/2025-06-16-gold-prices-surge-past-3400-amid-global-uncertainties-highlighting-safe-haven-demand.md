@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/escalating-geopolitical-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/5dbe109b1105bbc591e9efe8a04d3b7e.png"
 article_id = 84026
 feed_item_id = 15665
+url = "2025-06-16-gold-prices-surge-past-3400-amid-global-uncertainties-highlighting-safe-haven-demand"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/harp6Iaw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-snap-i
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84072
 feed_item_id = 15516
+url = "2025-06-11-snap-inc-unveils-next-generation-ar-glasses-and-major-snap-os-upgrades-at-augmented-world-expo-2025"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/mendZRGC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

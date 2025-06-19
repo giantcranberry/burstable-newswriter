@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522919/koch-securi
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84879
 feed_item_id = 14299
+url = "2025-05-18-koch-security-group-launches-advanced-drone-surveillance-service-to-enhance-client-safety"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/18/herb3kDb.webp"
 source = "24-7 Press Release"
 +++

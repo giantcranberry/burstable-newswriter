@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/korean-researchers-develo
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84763
 feed_item_id = 14854
+url = "2025-06-02-south-korean-researchers-develop-ai-model-to-predict-immunotherapy-responses-in-cancer-patients"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/openg6Uw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

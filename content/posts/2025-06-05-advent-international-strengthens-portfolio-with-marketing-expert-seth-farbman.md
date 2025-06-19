@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703141/advent-international-appoin
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 84663
 feed_item_id = 15233
+url = "2025-06-05-advent-international-strengthens-portfolio-with-marketing-expert-seth-farbman"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/envyBm2w.webp"
 source = "citybiz"
 +++

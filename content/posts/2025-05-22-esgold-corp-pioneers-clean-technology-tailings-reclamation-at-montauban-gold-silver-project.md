@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/esgold-corp-cse-esau-otc
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84836
 feed_item_id = 14481
+url = "2025-05-22-esgold-corp-pioneers-clean-technology-tailings-reclamation-at-montauban-gold-silver-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/22/filoNyHP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

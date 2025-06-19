@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701648/grant-thornton-appoints-ric
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84262
 feed_item_id = 14950
+url = "2025-06-03-grant-thornton-appoints-rick-surett-as-new-cfo-to-spearhead-financial-strategy-amid-global-expansion"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/pinkDlJi.webp"
 source = "citybiz"
 +++

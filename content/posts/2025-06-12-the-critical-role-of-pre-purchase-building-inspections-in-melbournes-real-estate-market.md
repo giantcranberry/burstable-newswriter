@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/essential-steps-for-conducting-a-build
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/b043873b8e7eba96c34d5498a1408d94.jpg"
 article_id = 84056
 feed_item_id = 15564
+url = "2025-06-12-the-critical-role-of-pre-purchase-building-inspections-in-melbournes-real-estate-market"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/12/poemoHMz.webp"
 source = "Press Services"
 +++

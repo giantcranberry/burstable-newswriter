@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/an-overview-of-hydrogen-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84301
 feed_item_id = 14810
+url = "2025-05-30-hydrogen-fuel-cell-electric-vehicles-a-sustainable-future-amid-challenges"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/flaxC4Xz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

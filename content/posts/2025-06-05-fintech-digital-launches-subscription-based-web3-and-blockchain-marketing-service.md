@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/fintech-digital-launches-
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 84653
 feed_item_id = 15257
+url = "2025-06-05-fintech-digital-launches-subscription-based-web3-and-blockchain-marketing-service"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/joltYUlT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523329/junk-destro
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84771
 feed_item_id = 14791
+url = "2025-05-30-junk-destroyers-expands-eco-conscious-junk-removal-services-across-chicagoland"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/paleIFQo.webp"
 source = "24-7 Press Release"
 +++

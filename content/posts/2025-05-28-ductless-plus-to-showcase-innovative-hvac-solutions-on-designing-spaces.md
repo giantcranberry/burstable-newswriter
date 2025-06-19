@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523230/ductless-pl
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84352
 feed_item_id = 14663
+url = "2025-05-28-ductless-plus-to-showcase-innovative-hvac-solutions-on-designing-spaces"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/xeno19zv.webp"
 source = "24-7 Press Release"
 +++

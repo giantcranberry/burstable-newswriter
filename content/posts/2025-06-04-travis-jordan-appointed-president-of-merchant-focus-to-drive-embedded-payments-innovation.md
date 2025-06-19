@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702745/merchant-focus-appoints-tra
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84680
 feed_item_id = 15163
+url = "2025-06-04-travis-jordan-appointed-president-of-merchant-focus-to-drive-embedded-payments-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/zealFjpl.webp"
 source = "citybiz"
 +++

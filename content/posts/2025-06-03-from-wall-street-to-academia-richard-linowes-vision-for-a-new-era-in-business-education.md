@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523403/marquis-who
 enclosure = "https://cdn.newsramp.app/banners/media-3.jpg"
 article_id = 84272
 feed_item_id = 14915
+url = "2025-06-03-from-wall-street-to-academia-richard-linowes-vision-for-a-new-era-in-business-education"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/neon6jus.webp"
 source = "24-7 Press Release"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703087/vestian-appoints-jason-wuch
 enclosure = "https://cdn.newsramp.app/banners/real-estate-1.jpg"
 article_id = 84673
 feed_item_id = 15203
+url = "2025-06-05-vestian-strengthens-retail-advisory-services-with-jason-wuchiski-as-national-lead"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/mend5ZdT.webp"
 source = "citybiz"
 +++

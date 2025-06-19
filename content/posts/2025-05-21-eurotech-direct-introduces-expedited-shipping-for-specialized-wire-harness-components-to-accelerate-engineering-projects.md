@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523027/eurotech-di
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84851
 feed_item_id = 14439
+url = "2025-05-21-eurotech-direct-introduces-expedited-shipping-for-specialized-wire-harness-components-to-accelerate-engineering-projects"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/21/riftYnCW.webp"
 source = "24-7 Press Release"
 +++

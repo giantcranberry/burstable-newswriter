@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/nmtc-funded-350-projects-more-than-61
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84198
 feed_item_id = 15130
+url = "2025-06-04-nmtcs-2025-progress-report-highlights-significant-economic-impact-across-the-us"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/4/archqhjj.webp"
 source = "News Direct"
 +++

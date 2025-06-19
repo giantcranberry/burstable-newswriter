@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/new-innovation-allows-so
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84477
 feed_item_id = 15610
+url = "2025-06-13-georgia-tech-breakthrough-paves-way-for-more-accessible-solid-state-batteries"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/filoTWym.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

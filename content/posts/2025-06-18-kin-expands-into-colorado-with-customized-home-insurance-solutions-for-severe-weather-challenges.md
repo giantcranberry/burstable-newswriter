@@ -9,6 +9,7 @@ enclosure = "https://cdn.newsramp.app/genai/images/256/18/55ff7392581496506d30d7
 featured = true
 article_id = 84446
 feed_item_id = 15832
+url = "2025-06-18-kin-expands-into-colorado-with-customized-home-insurance-solutions-for-severe-weather-challenges"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/plumhbrC.webp"
 source = "citybiz"
 +++

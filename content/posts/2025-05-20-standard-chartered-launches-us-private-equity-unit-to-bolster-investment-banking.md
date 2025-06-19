@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/stanchart-creates-privat
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84859
 feed_item_id = 14413
+url = "2025-05-20-standard-chartered-launches-us-private-equity-unit-to-bolster-investment-banking"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/cornLbKk.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

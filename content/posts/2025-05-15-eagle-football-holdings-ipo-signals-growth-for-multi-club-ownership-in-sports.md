@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investorknewsbreaks-brera
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84899
 feed_item_id = 14234
+url = "2025-05-15-eagle-football-holdings-ipo-signals-growth-for-multi-club-ownership-in-sports"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/wamcf_QH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

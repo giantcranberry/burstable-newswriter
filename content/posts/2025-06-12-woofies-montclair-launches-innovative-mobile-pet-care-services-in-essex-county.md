@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/705801/woofies-montclair-debuts-pr
 enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
 article_id = 84511
 feed_item_id = 15546
+url = "2025-06-12-woofies-montclair-launches-innovative-mobile-pet-care-services-in-essex-county"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/envyCux4.webp"
 source = "citybiz"
 +++

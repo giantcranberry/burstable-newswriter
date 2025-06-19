@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-onar-h
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84569
 feed_item_id = 15441
+url = "2025-06-10-onar-holding-corp-strengthens-board-with-appointment-of-healthcare-veteran-howard-palefsky"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/bendxUUp.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

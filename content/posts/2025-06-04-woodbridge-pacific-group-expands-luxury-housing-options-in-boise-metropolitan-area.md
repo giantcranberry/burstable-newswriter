@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523518/idaho-homeb
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 84676
 feed_item_id = 15175
+url = "2025-06-04-woodbridge-pacific-group-expands-luxury-housing-options-in-boise-metropolitan-area"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/lime_PvB.webp"
 source = "24-7 Press Release"
 +++

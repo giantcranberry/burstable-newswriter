@@ -8,6 +8,7 @@ source_link = "https://evertise.net/homewatch-caregivers-of-houston-galleria-ran
 enclosure = "https://cdn.newsramp.app/evertise-ai-pr/newsimage/c12fd0a3ac95335e55467c067110dac4.png"
 article_id = 84276
 feed_item_id = 14896
+url = "2025-06-02-homewatch-caregivers-of-houston-galleria-ranked-top-home-care-provider-nationwide"
 qrcode = "https://cdn.newsramp.app/evertise-ai-pr/qrcode/256/2/hushGGij.webp"
 source = "Evertise Digital"
 +++

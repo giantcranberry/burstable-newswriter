@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/sbc-medical-s-first-quarter-mar
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84867
 feed_item_id = 14386
+url = "2025-05-20-sbc-medical-group-holdings-inc-reports-strong-q1-growth-amid-strategic-expansion"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/20/kissXVEd.webp"
 source = "NewMediaWire"
 +++

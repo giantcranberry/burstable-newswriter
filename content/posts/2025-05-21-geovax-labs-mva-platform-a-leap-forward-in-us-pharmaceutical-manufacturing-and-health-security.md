@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/geovax-applauds-equip-a-pharma-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84850
 feed_item_id = 14448
+url = "2025-05-21-geovax-labs-mva-platform-a-leap-forward-in-us-pharmaceutical-manufacturing-and-health-security"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/21/pinekFFN.webp"
 source = "NewMediaWire"
 +++

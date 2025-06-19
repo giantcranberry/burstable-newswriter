@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/change-of-era-triggers-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84133
 feed_item_id = 15323
+url = "2025-06-06-catholic-university-of-america-launches-ai-degree-programs-to-prepare-students-for-the-future"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/barn7nyu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

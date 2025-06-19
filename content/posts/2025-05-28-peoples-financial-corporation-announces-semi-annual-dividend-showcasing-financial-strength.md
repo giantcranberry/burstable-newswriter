@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/peoples-financial-corporation-announc
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84337
 feed_item_id = 14706
+url = "2025-05-28-peoples-financial-corporation-announces-semi-annual-dividend-showcasing-financial-strength"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/archZLPr.webp"
 source = "News Direct"
 +++

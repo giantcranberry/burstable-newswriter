@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523856/lees-famous
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/f82f436257ce2a91de36c99df3329de4.png"
 article_id = 84023
 feed_item_id = 15679
+url = "2025-06-16-lees-famous-recipe-chicken-aims-for-third-consecutive-win-in-usa-todays-10best-readers-choice-awards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/16/chefaImw.webp"
 source = "24-7 Press Release"
 +++

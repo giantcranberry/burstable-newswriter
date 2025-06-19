@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-p
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84361
 feed_item_id = 14635
+url = "2025-05-27-skyx-platforms-corp-joins-russell-2000-and-3000-indexes-marking-a-milestone-in-smart-home-technology"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/ableRQCW.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

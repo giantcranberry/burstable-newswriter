@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523317/forbes-busi
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84313
 feed_item_id = 14781
+url = "2025-05-30-summit-restoration-ceo-raymond-tahhan-joins-forbes-business-council-elevating-industry-leadership"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/oxenaoOK.webp"
 source = "24-7 Press Release"
 +++

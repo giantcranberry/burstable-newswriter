@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-enhances-vehicle-lo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84903
 feed_item_id = 14222
+url = "2025-05-15-dubais-car-garage-expert-revolutionizes-vehicle-maintenance-with-ultrasonic-fuel-injector-cleaning"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/15/glowP3I8.webp"
 source = "News Direct"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/699274/accomplice-co-leads-11m-ser
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84268
 feed_item_id = 14932
+url = "2025-06-03-true-markets-secures-11-million-in-series-a-funding-to-revolutionize-retail-crypto-trading"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/pinebCQt.webp"
 source = "citybiz"
 +++

@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/achieve-new-heights-in-focus-with-trum
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/ecdda369f84b33abab0c33c121756022.jpg"
 article_id = 84280
 feed_item_id = 14883
+url = "2025-06-02-trumpdrive-energy-redefines-the-energy-drink-market-with-cognitive-enhancement-focus"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/odormaZ9.webp"
 source = "Press Services"
 +++

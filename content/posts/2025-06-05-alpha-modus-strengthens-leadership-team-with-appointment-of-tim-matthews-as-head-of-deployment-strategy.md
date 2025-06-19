@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703198/alpha-modus-appoints-tim-ma
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84162
 feed_item_id = 15227
+url = "2025-06-05-alpha-modus-strengthens-leadership-team-with-appointment-of-tim-matthews-as-head-of-deployment-strategy"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/neonJbIe.webp"
 source = "citybiz"
 +++

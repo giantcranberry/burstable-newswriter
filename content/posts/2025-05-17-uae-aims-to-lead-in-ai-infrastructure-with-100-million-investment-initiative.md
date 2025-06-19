@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522921/powering-th
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 84880
 feed_item_id = 14298
+url = "2025-05-17-uae-aims-to-lead-in-ai-infrastructure-with-100-million-investment-initiative"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/17/loft9IGI.webp"
 source = "24-7 Press Release"
 +++

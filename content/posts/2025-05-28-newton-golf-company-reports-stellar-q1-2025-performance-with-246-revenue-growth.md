@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/newton-golf-company-inc-n
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84340
 feed_item_id = 14694
+url = "2025-05-28-newton-golf-company-reports-stellar-q1-2025-performance-with-246-revenue-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/filoQMMx.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

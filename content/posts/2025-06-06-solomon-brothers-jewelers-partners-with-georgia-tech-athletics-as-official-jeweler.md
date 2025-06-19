@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523560/solomon-bro
 enclosure = "https://cdn.newsramp.app/banners/sports-2.jpg"
 article_id = 84145
 feed_item_id = 15284
+url = "2025-06-06-solomon-brothers-jewelers-partners-with-georgia-tech-athletics-as-official-jeweler"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/6/barnDyt0.webp"
 source = "24-7 Press Release"
 +++

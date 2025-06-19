@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-why-vi
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84069
 feed_item_id = 15519
+url = "2025-06-11-vivakor-inc-pioneers-sustainable-solutions-in-the-energy-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/diveSr3M.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

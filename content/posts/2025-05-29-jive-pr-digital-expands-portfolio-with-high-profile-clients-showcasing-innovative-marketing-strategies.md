@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/jive-pr-digital-accelerates-growth-wi
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 84322
 feed_item_id = 14746
+url = "2025-05-29-jive-pr-digital-expands-portfolio-with-high-profile-clients-showcasing-innovative-marketing-strategies"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/29/tall54aN.webp"
 source = "News Direct"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523655/one-of-the-
 enclosure = "https://cdn.newsramp.app/banners/non-profit-2.jpg"
 article_id = 84591
 feed_item_id = 15401
+url = "2025-06-10-innovative-damages-house-model-to-transform-truck-accident-litigation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/fineeehW.webp"
 source = "24-7 Press Release"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702766/rothschild-co-hires-ralph-l
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84179
 feed_item_id = 15170
+url = "2025-06-04-rothschild-co-strengthens-north-american-advisory-team-with-strategic-hire"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/pondd5d1.webp"
 source = "citybiz"
 +++

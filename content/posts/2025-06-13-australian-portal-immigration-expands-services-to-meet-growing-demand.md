@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/australian-portal-immigration-announc
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/f1676c255388bc5fdd7dbeb3de51c27a.png"
 article_id = 84037
 feed_item_id = 15631
+url = "2025-06-13-australian-portal-immigration-expands-services-to-meet-growing-demand"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/13/epicduQJ.webp"
 source = "News Direct"
 +++

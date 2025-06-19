@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522939/a-small-cha
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84855
 feed_item_id = 14429
+url = "2025-05-21-roumo-introduces-dual-rest-lc99-footrest-a-leap-forward-in-workspace-ergonomics"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/21/navys4vO.webp"
 source = "24-7 Press Release"
 +++

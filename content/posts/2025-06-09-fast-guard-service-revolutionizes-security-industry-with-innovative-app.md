@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523526/fast-guard-
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84126
 feed_item_id = 15339
+url = "2025-06-09-fast-guard-service-revolutionizes-security-industry-with-innovative-app"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/9/ovalByVU.webp"
 source = "24-7 Press Release"
 +++

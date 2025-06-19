@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702391/electronic-merchant-systems
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84701
 feed_item_id = 15097
+url = "2025-06-04-randy-hayashi-promoted-to-coo-at-electronic-merchant-systems-to-drive-operational-excellence-and-ai-integration"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/larkPaYh.webp"
 source = "citybiz"
 +++

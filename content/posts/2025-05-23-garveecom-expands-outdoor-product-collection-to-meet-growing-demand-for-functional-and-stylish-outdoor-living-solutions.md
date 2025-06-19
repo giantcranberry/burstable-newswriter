@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523088/garveecom-o
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 84821
 feed_item_id = 14537
+url = "2025-05-23-garveecom-expands-outdoor-product-collection-to-meet-growing-demand-for-functional-and-stylish-outdoor-living-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/odorplSP.webp"
 source = "24-7 Press Release"
 +++

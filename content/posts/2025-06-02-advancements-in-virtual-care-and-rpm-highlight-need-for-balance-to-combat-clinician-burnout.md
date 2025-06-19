@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/700175/qa-with-kent-dicks-ceo-of-l
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84284
 feed_item_id = 14864
+url = "2025-06-02-advancements-in-virtual-care-and-rpm-highlight-need-for-balance-to-combat-clinician-burnout"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/2/sagefT4N.webp"
 source = "citybiz"
 +++

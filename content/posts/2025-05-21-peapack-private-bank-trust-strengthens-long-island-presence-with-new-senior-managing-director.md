@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/tim-juliano-joins-peapack-priva
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84844
 feed_item_id = 14464
+url = "2025-05-21-peapack-private-bank-trust-strengthens-long-island-presence-with-new-senior-managing-director"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/21/cool8w97.webp"
 source = "NewMediaWire"
 +++

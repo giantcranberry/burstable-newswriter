@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523758/law-offices
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 84506
 feed_item_id = 15557
+url = "2025-06-12-whistleblower-secures-15-million-settlement-in-ppp-loan-fraud-case"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/blurkP0g.webp"
 source = "24-7 Press Release"
 +++

@@ -8,6 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/098275cb162675f8d0424668ac9fbe82.jpg"
 article_id = 84902
 feed_item_id = 14224
+url = "2025-05-15-surf-air-mobility-inc-advances-regional-air-travel-with-strategic-and-technological-innovations"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/15/takew69j.webp"
 source = "Reportable"
 +++

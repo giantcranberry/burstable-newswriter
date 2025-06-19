@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523062/bick-law-ll
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84294
 feed_item_id = 14831
+url = "2025-06-02-bick-law-llp-enhances-legal-expertise-with-addition-of-former-doj-attorney-tyler-alexander"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/2/wall0Awh.webp"
 source = "24-7 Press Release"
 +++

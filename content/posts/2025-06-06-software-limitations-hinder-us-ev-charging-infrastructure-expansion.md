@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703220/qa-with-olga-haygood-ceo-of
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84634
 feed_item_id = 15306
+url = "2025-06-06-software-limitations-hinder-us-ev-charging-infrastructure-expansion"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/riceXue3.webp"
 source = "citybiz"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522790/he-bin-touq
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84915
 feed_item_id = 14201
+url = "2025-05-15-uae-champions-technological-innovation-in-tourism-at-world-tourism-forum-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/camcVsJ5.webp"
 source = "24-7 Press Release"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523321/dusty-cars-
 enclosure = "https://cdn.newsramp.app/banners/travel-2.jpg"
 article_id = 84773
 feed_item_id = 14787
+url = "2025-05-30-dusty-cars-launches-comprehensive-consignment-service-for-vintage-luxury-vehicles-in-east-bay"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/lilyndai.webp"
 source = "24-7 Press Release"
 +++

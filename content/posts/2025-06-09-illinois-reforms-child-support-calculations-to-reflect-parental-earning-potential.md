@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523572/illinois-cl
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 84616
 feed_item_id = 15344
+url = "2025-06-09-illinois-reforms-child-support-calculations-to-reflect-parental-earning-potential"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/9/bossi4Br.webp"
 source = "24-7 Press Release"
 +++

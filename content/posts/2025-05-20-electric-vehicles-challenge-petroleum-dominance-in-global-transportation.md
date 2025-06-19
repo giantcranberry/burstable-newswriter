@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/how-the-adoption-of-evs-
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84858
 feed_item_id = 14415
+url = "2025-05-20-electric-vehicles-challenge-petroleum-dominance-in-global-transportation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/frogmto5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

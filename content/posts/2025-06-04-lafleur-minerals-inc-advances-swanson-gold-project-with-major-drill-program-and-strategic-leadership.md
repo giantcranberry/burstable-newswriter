@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-lafleur
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84189
 feed_item_id = 15146
+url = "2025-06-04-lafleur-minerals-inc-advances-swanson-gold-project-with-major-drill-program-and-strategic-leadership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/hint6xzw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

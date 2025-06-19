@@ -8,6 +8,7 @@ source_link = "https://newsworthy.ai/news/202506041538/das-greenhaus-announces-n
 enclosure = "https://cdn.newsramp.app/banners/startup-news-3.jpg"
 article_id = 84681
 feed_item_id = 15150
+url = "2025-06-04-das-greenhaus-strengthens-leadership-team-to-boost-entrepreneurial-growth-in-kendall-county"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/4/poemkLUG.webp"
 source = "Newsworthy.ai"
 +++

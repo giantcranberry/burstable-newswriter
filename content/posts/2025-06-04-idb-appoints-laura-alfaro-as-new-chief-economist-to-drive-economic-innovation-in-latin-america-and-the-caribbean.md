@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702592/laura-alfaro-joins-the-inte
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84184
 feed_item_id = 15159
+url = "2025-06-04-idb-appoints-laura-alfaro-as-new-chief-economist-to-drive-economic-innovation-in-latin-america-and-the-caribbean"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/envyV3cD.webp"
 source = "citybiz"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523563/bzbgear-unv
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84645
 feed_item_id = 15282
+url = "2025-06-06-bzbgear-unveils-rebranding-initiative-signaling-growth-and-innovation-in-pro-av-and-broadcasting"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/6/mask0Lts.webp"
 source = "24-7 Press Release"
 +++

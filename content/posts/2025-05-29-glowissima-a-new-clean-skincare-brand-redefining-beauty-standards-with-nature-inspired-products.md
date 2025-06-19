@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/cynthia-bailey-and-dana-hill-robinson
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/d1bd390df72dfdf7fe7a47b62a187ea1.jpg"
 article_id = 84329
 feed_item_id = 14722
+url = "2025-05-29-glowissima-a-new-clean-skincare-brand-redefining-beauty-standards-with-nature-inspired-products"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/29/roamU7CA.webp"
 source = "News Direct"
 +++

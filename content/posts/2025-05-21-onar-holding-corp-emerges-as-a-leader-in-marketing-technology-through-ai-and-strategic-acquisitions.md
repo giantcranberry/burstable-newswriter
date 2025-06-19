@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/onar-holding-corp-onar-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84841
 feed_item_id = 14467
+url = "2025-05-21-onar-holding-corp-emerges-as-a-leader-in-marketing-technology-through-ai-and-strategic-acquisitions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/jazzThZs.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

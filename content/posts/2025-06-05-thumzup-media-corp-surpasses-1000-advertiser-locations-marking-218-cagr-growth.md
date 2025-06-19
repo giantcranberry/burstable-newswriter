@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-thumzu
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84155
 feed_item_id = 15245
+url = "2025-06-05-thumzup-media-corp-surpasses-1000-advertiser-locations-marking-218-cagr-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/airyOc6f.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

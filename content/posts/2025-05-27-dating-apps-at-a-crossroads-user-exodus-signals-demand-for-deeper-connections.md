@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/why-millions-are-turning
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84797
 feed_item_id = 14641
+url = "2025-05-27-dating-apps-at-a-crossroads-user-exodus-signals-demand-for-deeper-connections"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/wolfBkE5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

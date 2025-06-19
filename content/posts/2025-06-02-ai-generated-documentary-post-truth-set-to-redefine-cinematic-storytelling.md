@@ -8,6 +8,7 @@ source_link = "https://evertise.net/ai-makes-history-post-truth-releases-officia
 enclosure = "https://cdn.newsramp.app/evertise-ai-pr/newsimage/ab92e59b524f7a7f290866cbdb8e1838.jpg"
 article_id = 84277
 feed_item_id = 14895
+url = "2025-06-02-ai-generated-documentary-post-truth-set-to-redefine-cinematic-storytelling"
 qrcode = "https://cdn.newsramp.app/evertise-ai-pr/qrcode/256/2/quizFXv_.webp"
 source = "Evertise Digital"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/nutriband-inc-nasdaq-ntr
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84183
 feed_item_id = 15165
+url = "2025-06-04-nutriband-incs-aversa-technology-a-game-changer-in-the-fight-against-drug-abuse"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/meancYvW.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

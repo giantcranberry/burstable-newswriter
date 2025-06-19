@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522796/stevendougl
 enclosure = "https://cdn.newsramp.app/banners/human-resources-3.jpg"
 article_id = 84911
 feed_item_id = 14204
+url = "2025-05-15-stevendouglas-expands-nationally-strengthening-its-position-in-executive-search-and-technology-staffing"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/noteWkrK.webp"
 source = "24-7 Press Release"
 +++

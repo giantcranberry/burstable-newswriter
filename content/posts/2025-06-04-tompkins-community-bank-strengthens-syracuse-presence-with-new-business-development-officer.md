@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702235/tompkins-community-bank-app
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84222
 feed_item_id = 15060
+url = "2025-06-04-tompkins-community-bank-strengthens-syracuse-presence-with-new-business-development-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/filo4Gje.webp"
 source = "citybiz"
 +++

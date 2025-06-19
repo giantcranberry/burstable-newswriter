@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523058/adicora-swi
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 84824
 feed_item_id = 14527
+url = "2025-05-22-moda-velocity-2025-blends-fashion-and-automotive-elegance-with-cosmic-cowgirl-collection"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/22/airyuduJ.webp"
 source = "24-7 Press Release"
 +++

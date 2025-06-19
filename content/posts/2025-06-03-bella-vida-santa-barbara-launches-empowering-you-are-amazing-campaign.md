@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523376/bella-vida-
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 84273
 feed_item_id = 14914
+url = "2025-06-03-bella-vida-santa-barbara-launches-empowering-you-are-amazing-campaign"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/xenoHB2N.webp"
 source = "24-7 Press Release"
 +++

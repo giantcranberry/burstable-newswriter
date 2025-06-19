@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/the-un-calls-for-urgent
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84364
 feed_item_id = 14621
+url = "2025-05-27-un-explores-regulation-of-ai-in-military-technologies-amid-global-concerns"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/taroFIxC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703240/chambers-usa-2025-highly-ra
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 84655
 feed_item_id = 15256
+url = "2025-06-05-potter-anderson-corroon-llp-recognized-among-top-legal-firms-in-chambers-usa-2025"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/jolteXIQ.webp"
 source = "citybiz"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523883/collectionp
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/04570d275900fda4ff41fc420de0416c.png"
 article_id = 84014
 feed_item_id = 15698
+url = "2025-06-17-collectionpro-services-llc-revolutionizes-healthcare-revenue-recovery-with-no-risk-model"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/17/swimUnl9.webp"
 source = "24-7 Press Release"
 +++

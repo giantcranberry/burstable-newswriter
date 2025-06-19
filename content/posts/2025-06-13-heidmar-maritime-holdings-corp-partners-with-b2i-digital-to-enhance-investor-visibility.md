@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/heidmar-maritime-holdings-corp-
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84470
 feed_item_id = 15613
+url = "2025-06-13-heidmar-maritime-holdings-corp-partners-with-b2i-digital-to-enhance-investor-visibility"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/13/irisrZ4f.webp"
 source = "NewMediaWire"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701711/bill-appoints-rohini-jain-a
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84258
 feed_item_id = 14960
+url = "2025-06-03-bill-strengthens-leadership-team-with-appointment-of-rohini-jain-as-cfo-to-drive-fintech-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/deepDGWU.webp"
 source = "citybiz"
 +++

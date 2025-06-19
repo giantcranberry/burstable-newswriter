@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/ainewsbreaks-adageis-emp
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 84677
 feed_item_id = 15173
+url = "2025-06-04-adageis-revolutionizes-healthcare-with-ai-driven-proactive-care-platform"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/mossFZPf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-tesla
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84526
 feed_item_id = 15513
+url = "2025-06-11-tesla-announces-tentative-june-debut-for-robotaxi-service-in-austin"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/herb65jP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

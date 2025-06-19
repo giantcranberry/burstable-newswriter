@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/rangeford-investment-announces-contin
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/7c713fd79f12372214cd0e30d736927d.png"
 article_id = 84414
 feed_item_id = 15660
+url = "2025-06-16-rangeford-investment-reinvents-wealth-management-with-ai-and-global-expansion"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/16/gulfkMxB.webp"
 source = "News Direct"
 +++

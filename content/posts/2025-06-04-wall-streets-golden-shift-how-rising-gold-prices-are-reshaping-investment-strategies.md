@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/wall-street-targets-brea
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84201
 feed_item_id = 15120
+url = "2025-06-04-wall-streets-golden-shift-how-rising-gold-prices-are-reshaping-investment-strategies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/sagehG1n.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

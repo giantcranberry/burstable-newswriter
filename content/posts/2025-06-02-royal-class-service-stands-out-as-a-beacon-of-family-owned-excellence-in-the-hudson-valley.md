@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/royal-class-service-named-top-family-o
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/6eea502d370b80609031d795b85dccc7.jpg"
 article_id = 84279
 feed_item_id = 14889
+url = "2025-06-02-royal-class-service-stands-out-as-a-beacon-of-family-owned-excellence-in-the-hudson-valley"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/odortqNq.webp"
 source = "Press Services"
 +++

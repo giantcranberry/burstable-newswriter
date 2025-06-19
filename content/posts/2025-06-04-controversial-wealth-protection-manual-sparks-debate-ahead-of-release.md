@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523482/class-warfa
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 84715
 feed_item_id = 15063
+url = "2025-06-04-controversial-wealth-protection-manual-sparks-debate-ahead-of-release"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/rice0tyT.webp"
 source = "24-7 Press Release"
 +++

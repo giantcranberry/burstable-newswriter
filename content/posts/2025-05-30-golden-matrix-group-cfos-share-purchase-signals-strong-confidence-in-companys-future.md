@@ -8,6 +8,7 @@ source_link = "https://meridianbet.reportablenews.com/pr/gmgi-insider-buying-gro
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/3245a1eef4640511269c03b6c9b1b883.png"
 article_id = 84304
 feed_item_id = 14798
+url = "2025-05-30-golden-matrix-group-cfos-share-purchase-signals-strong-confidence-in-companys-future"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/30/leanpycO.webp"
 source = "Reportable"
 +++

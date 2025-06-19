@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/better-trucks-checkpoint-earns-last-m
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/06566e579a033f2e2c94af5aab6e4c9a.jpg"
 article_id = 84082
 feed_item_id = 15485
+url = "2025-06-11-better-trucks-checkpoint-technology-wins-last-mile-innovation-of-the-year-at-supplytech-breakthrough-awards"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/diveaseN.webp"
 source = "News Direct"
 +++

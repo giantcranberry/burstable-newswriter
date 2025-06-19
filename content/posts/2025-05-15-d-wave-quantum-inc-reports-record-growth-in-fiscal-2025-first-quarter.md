@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/d-wave-quantum-inc-nyse-
 enclosure = "https://cdn.newsramp.app/ibn/newsimage/05fe86883e897ca298c3890528fc3996.png"
 article_id = 84894
 feed_item_id = 14254
+url = "2025-05-15-d-wave-quantum-inc-reports-record-growth-in-fiscal-2025-first-quarter"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/cheftXVt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

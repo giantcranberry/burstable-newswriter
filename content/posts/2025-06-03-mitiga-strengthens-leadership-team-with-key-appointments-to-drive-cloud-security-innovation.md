@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702039/mitiga-appoints-john-vecchi
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84231
 feed_item_id = 15033
+url = "2025-06-03-mitiga-strengthens-leadership-team-with-key-appointments-to-drive-cloud-security-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/epiccPqR.webp"
 source = "citybiz"
 +++

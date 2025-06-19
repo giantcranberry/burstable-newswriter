@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702484/robert-e-jones-joins-the-cu
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84697
 feed_item_id = 15118
+url = "2025-06-04-culinary-institute-of-america-appoints-robert-e-jones-as-vice-president-to-spearhead-strategic-partnerships-and-industry-leadership"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/swimtOW7.webp"
 source = "citybiz"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703694/2modern-appoints-nicole-and
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84136
 feed_item_id = 15313
+url = "2025-06-06-2modern-appoints-nicole-andrew-as-chief-marketing-officer-to-drive-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/urgeHC9Y.webp"
 source = "citybiz"
 +++

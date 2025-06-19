@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-beelin
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84325
 feed_item_id = 14736
+url = "2025-05-29-beeline-holdings-introduces-ai-sales-agent-to-revolutionize-mortgage-lead-conversion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/navyNmwZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

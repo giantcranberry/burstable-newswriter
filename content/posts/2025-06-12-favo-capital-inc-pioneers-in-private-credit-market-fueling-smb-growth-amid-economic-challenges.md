@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/favo-capital-inc-favo-emp
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84049
 feed_item_id = 15589
+url = "2025-06-12-favo-capital-inc-pioneers-in-private-credit-market-fueling-smb-growth-amid-economic-challenges"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/12/gulf1hQ9.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702604/j-s-held-appoints-james-e-m
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84194
 feed_item_id = 15135
+url = "2025-06-04-js-held-strengthens-ip-leadership-with-appointment-of-james-e-malackowski-as-chief-intellectual-property-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/bold72tV.webp"
 source = "citybiz"
 +++

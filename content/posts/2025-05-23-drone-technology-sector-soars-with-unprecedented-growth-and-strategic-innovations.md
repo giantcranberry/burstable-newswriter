@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/targeting-the-skies-4-drone-stocks-wi
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84817
 feed_item_id = 14549
+url = "2025-05-23-drone-technology-sector-soars-with-unprecedented-growth-and-strategic-innovations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/23/mark8FBh.webp"
 source = "News Direct"
 +++

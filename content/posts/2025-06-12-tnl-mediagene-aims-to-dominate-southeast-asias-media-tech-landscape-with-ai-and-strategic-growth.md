@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/how-tnl-mediagene-is-leveraging
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84055
 feed_item_id = 15566
+url = "2025-06-12-tnl-mediagene-aims-to-dominate-southeast-asias-media-tech-landscape-with-ai-and-strategic-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/12/pearA8Z7.webp"
 source = "NewMediaWire"
 +++

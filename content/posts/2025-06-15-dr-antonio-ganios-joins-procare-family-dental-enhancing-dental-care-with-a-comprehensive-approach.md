@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523841/dr-antonio-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/d03ca40ea9b59a1dc0355c3ab4b75f1e.png"
 article_id = 84030
 feed_item_id = 15648
+url = "2025-06-15-dr-antonio-ganios-joins-procare-family-dental-enhancing-dental-care-with-a-comprehensive-approach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/15/jazzBG2w.webp"
 source = "24-7 Press Release"
 +++

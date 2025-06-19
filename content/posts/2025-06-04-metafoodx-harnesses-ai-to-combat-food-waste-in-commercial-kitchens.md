@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701974/qa-with-fengmin-gong-ceo-of
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-2.jpg"
 article_id = 84200
 feed_item_id = 15123
+url = "2025-06-04-metafoodx-harnesses-ai-to-combat-food-waste-in-commercial-kitchens"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/lambhdh2.webp"
 source = "citybiz"
 +++

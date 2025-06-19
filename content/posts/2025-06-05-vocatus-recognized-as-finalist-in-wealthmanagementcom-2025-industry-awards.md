@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/vocatus-is-named-a-finalist-in-the-we
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84164
 feed_item_id = 15215
+url = "2025-06-05-vocatus-recognized-as-finalist-in-wealthmanagementcom-2025-industry-awards"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/warpuRRg.webp"
 source = "News Direct"
 +++

@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/moi-moi-fine-jewellery-redefines-a-cl
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/4c010b096dcb269fef4fd64508ea4163.jpg"
 article_id = 84794
 feed_item_id = 14669
+url = "2025-05-28-moi-moi-fine-jewellery-unveils-the-bezel-collection-a-modern-take-on-ancient-techniques"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/urgetyOk.webp"
 source = "News Direct"
 +++

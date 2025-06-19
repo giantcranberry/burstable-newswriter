@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/sustain-southern-californ
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84187
 feed_item_id = 15156
+url = "2025-06-04-sustain-socal-to-host-12th-driving-mobility-event-focusing-on-sustainable-transportation-innovations"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/meanQOtT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

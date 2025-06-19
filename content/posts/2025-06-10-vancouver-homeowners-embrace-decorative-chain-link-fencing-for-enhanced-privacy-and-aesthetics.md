@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523651/chain-link-
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 84110
 feed_item_id = 15400
+url = "2025-06-10-vancouver-homeowners-embrace-decorative-chain-link-fencing-for-enhanced-privacy-and-aesthetics"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/veilusvR.webp"
 source = "24-7 Press Release"
 +++

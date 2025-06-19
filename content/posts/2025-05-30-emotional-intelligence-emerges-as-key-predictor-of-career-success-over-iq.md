@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523283/emotional-i
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84309
 feed_item_id = 14783
+url = "2025-05-30-emotional-intelligence-emerges-as-key-predictor-of-career-success-over-iq"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/waitlhII.webp"
 source = "24-7 Press Release"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702547/mike-addeo-joins-evercore-a
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84196
 feed_item_id = 15133
+url = "2025-06-04-evercore-strengthens-private-capital-advisory-with-mike-addeo-appointment"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/rift9jHF.webp"
 source = "citybiz"
 +++

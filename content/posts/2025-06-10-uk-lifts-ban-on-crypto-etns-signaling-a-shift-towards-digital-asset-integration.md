@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/uk-to-lift-ban-on-crypto
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84100
 feed_item_id = 15423
+url = "2025-06-10-uk-lifts-ban-on-crypto-etns-signaling-a-shift-towards-digital-asset-integration"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/iconYjb3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

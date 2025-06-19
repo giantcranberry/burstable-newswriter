@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84528
 feed_item_id = 15514
+url = "2025-06-11-solarbank-pioneers-integration-of-renewable-energy-revenue-with-bitcoin-investment"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/lunaW2LK.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

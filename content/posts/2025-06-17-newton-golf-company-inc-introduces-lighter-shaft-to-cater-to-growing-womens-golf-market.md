@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/newton-golf-company-inc-n
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/de7301061788422f256fd6d7bb86c8fa.png"
 article_id = 83999
 feed_item_id = 15785
+url = "2025-06-17-newton-golf-company-inc-introduces-lighter-shaft-to-cater-to-growing-womens-golf-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/barnZutN.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

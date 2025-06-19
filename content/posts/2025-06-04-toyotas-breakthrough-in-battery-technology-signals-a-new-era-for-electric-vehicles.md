@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/toyotas-new-battery-coul
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84202
 feed_item_id = 15122
+url = "2025-06-04-toyotas-breakthrough-in-battery-technology-signals-a-new-era-for-electric-vehicles"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/kite6NgX.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

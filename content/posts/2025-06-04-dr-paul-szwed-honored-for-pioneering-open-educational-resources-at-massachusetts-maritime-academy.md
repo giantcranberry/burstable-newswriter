@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702503/massachusetts-maritime-acad
 enclosure = "https://cdn.newsramp.app/banners/education-1.jpg"
 article_id = 84699
 feed_item_id = 15115
+url = "2025-06-04-dr-paul-szwed-honored-for-pioneering-open-educational-resources-at-massachusetts-maritime-academy"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/nukejtpn.webp"
 source = "citybiz"
 +++

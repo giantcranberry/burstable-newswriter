@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523390/knutsoncase
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 84296
 feed_item_id = 14829
+url = "2025-06-02-mankato-law-firm-secures-1-million-settlement-in-fatal-semi-truck-collision-case"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/2/hintPH1T.webp"
 source = "24-7 Press Release"
 +++

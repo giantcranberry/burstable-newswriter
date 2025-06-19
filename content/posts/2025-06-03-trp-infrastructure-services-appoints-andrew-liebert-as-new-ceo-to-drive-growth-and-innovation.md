@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701846/trp-infrastructure-services
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84241
 feed_item_id = 15001
+url = "2025-06-03-trp-infrastructure-services-appoints-andrew-liebert-as-new-ceo-to-drive-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/opennQuR.webp"
 source = "citybiz"
 +++

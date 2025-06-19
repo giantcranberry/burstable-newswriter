@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701617/matrix-partners-joins-7m-pr
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 84212
 feed_item_id = 15090
+url = "2025-06-04-donut-labs-secures-7-million-in-pre-seed-funding-to-revolutionize-crypto-transactions-with-agentic-browser"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/lushY0gR.webp"
 source = "citybiz"
 +++

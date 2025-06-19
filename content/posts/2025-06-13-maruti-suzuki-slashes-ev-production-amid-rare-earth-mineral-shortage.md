@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/ongoing-rare-earths-shor
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84042
 feed_item_id = 15622
+url = "2025-06-13-maruti-suzuki-slashes-ev-production-amid-rare-earth-mineral-shortage"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/gainqj8L.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

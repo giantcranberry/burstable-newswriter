@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/massimo-group-nasdaq-mamo
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84895
 feed_item_id = 14251
+url = "2025-05-15-massimo-group-capitalizes-on-surging-powersports-industry-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/bakeEXln.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

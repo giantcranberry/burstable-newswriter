@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701651/northern-trust-appoints-kat
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84259
 feed_item_id = 14954
+url = "2025-06-03-northern-trust-strengthens-ocio-strategy-with-appointment-of-industry-veteran-katherine-mccabe"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/diveaHEH.webp"
 source = "citybiz"
 +++

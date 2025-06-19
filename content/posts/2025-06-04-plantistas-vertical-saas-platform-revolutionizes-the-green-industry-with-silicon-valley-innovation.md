@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702054/qa-with-ashley-wright-ceo-a
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84683
 feed_item_id = 15149
+url = "2025-06-04-plantistas-vertical-saas-platform-revolutionizes-the-green-industry-with-silicon-valley-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/mintT7it.webp"
 source = "citybiz"
 +++

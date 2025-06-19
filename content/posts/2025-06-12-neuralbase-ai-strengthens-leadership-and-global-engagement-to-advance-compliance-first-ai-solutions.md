@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-announces-global-mar
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84502
 feed_item_id = 15559
+url = "2025-06-12-neuralbase-ai-strengthens-leadership-and-global-engagement-to-advance-compliance-first-ai-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/12/ricenuz4.webp"
 source = "NewMediaWire"
 +++

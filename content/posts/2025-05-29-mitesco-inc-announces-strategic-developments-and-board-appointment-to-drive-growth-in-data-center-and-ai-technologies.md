@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/mitesco-expands-board-updates-o
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84775
 feed_item_id = 14775
+url = "2025-05-29-mitesco-inc-announces-strategic-developments-and-board-appointment-to-drive-growth-in-data-center-and-ai-technologies"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/29/yawnJqJT.webp"
 source = "NewMediaWire"
 +++

@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/kite-hill-founder-and-ceo-tiffany-gua
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 84789
 feed_item_id = 14698
+url = "2025-05-28-ais-transformative-role-in-communications-to-be-explored-at-upcoming-conference"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/roamNeTd.webp"
 source = "News Direct"
 +++

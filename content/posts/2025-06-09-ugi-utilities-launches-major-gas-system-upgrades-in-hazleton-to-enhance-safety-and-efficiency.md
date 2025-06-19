@@ -8,6 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/more-ugi-system-upgrades-in-haz
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f1bf63e4569c12c1f8469ca74bfae483.jpg"
 article_id = 84604
 feed_item_id = 15372
+url = "2025-06-09-ugi-utilities-launches-major-gas-system-upgrades-in-hazleton-to-enhance-safety-and-efficiency"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/9/zero661d.webp"
 source = "Reportable"
 +++

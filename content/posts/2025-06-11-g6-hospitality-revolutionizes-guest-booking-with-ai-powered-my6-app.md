@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/g6-hospitality-unveils-ai-powered-upg
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84083
 feed_item_id = 15483
+url = "2025-06-11-g6-hospitality-revolutionizes-guest-booking-with-ai-powered-my6-app"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/fileR272.webp"
 source = "News Direct"
 +++

@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/paperchase-enhances-hospitality-reven
 enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
 article_id = 84805
 feed_item_id = 14599
+url = "2025-05-26-paperchase-revolutionizes-hospitality-industry-financial-management-with-strategic-revenue-optimization"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/26/hike_9lA.webp"
 source = "News Direct"
 +++

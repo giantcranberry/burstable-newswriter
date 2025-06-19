@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523791/award-winni
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 84479
 feed_item_id = 15603
+url = "2025-06-13-candy-marx-launches-the-solar-shift-a-new-era-of-ethical-fashion-and-holistic-wellness"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/13/boldmmTL.webp"
 source = "24-7 Press Release"
 +++

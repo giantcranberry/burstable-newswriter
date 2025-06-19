@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-launches-rapid-road
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 84792
 feed_item_id = 14670
+url = "2025-05-28-dubai-introduces-247-roadside-assistance-to-enhance-driver-safety-and-convenience"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/mendzbRx.webp"
 source = "News Direct"
 +++

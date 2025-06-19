@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/amsterdam-to-host-10th-gl
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84723
 feed_item_id = 15037
+url = "2025-06-03-10th-global-genai-hyperautomation-in-finance-summit-to-shape-future-of-financial-services"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/lunaROvW.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

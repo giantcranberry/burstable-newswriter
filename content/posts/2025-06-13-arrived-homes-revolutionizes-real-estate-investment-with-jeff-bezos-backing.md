@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/this-bezos-backed-startup-lets-
 enclosure = "https://cdn.newsramp.app/banners/startup-news-1.jpg"
 article_id = 84461
 feed_item_id = 15625
+url = "2025-06-13-arrived-homes-revolutionizes-real-estate-investment-with-jeff-bezos-backing"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/13/ellaAI_2.webp"
 source = "NewMediaWire"
 +++

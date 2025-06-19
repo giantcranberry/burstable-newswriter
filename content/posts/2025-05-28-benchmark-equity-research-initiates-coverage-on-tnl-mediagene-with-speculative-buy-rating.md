@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/tnl-mediagene-getting-noticed-o
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84348
 feed_item_id = 14674
+url = "2025-05-28-benchmark-equity-research-initiates-coverage-on-tnl-mediagene-with-speculative-buy-rating"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/28/noon6Igo.webp"
 source = "NewMediaWire"
 +++

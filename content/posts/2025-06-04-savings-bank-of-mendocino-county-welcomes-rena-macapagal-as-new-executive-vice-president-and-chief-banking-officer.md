@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702349/savings-bank-of-mendocino-c
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84214
 feed_item_id = 15083
+url = "2025-06-04-savings-bank-of-mendocino-county-welcomes-rena-macapagal-as-new-executive-vice-president-and-chief-banking-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/smog4E0n.webp"
 source = "citybiz"
 +++

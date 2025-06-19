@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-nicola-mining
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 84290
 feed_item_id = 14849
+url = "2025-06-02-nicola-mining-inc-sets-june-2025-for-mill-restart-unveils-eight-year-production-strategy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/yogaRMhh.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

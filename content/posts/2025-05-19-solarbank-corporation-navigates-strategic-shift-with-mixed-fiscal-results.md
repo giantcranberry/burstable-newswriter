@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-solarb
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84877
 feed_item_id = 14304
+url = "2025-05-19-solarbank-corporation-navigates-strategic-shift-with-mixed-fiscal-results"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/19/riftD2_3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

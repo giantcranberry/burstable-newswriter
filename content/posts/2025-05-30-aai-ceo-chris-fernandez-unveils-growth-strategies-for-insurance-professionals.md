@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523296/marquis-who
 enclosure = "https://cdn.newsramp.app/banners/insurance-3.jpg"
 article_id = 84311
 feed_item_id = 14779
+url = "2025-05-30-aai-ceo-chris-fernandez-unveils-growth-strategies-for-insurance-professionals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/file4ran.webp"
 source = "24-7 Press Release"
 +++

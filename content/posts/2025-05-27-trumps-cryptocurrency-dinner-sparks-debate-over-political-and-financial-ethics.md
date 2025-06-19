@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/trumps-crypto-dinner-spa
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 84796
 feed_item_id = 14640
+url = "2025-05-27-trumps-cryptocurrency-dinner-sparks-debate-over-political-and-financial-ethics"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/bossKei7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

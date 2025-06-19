@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523209/the-great-g
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84295
 feed_item_id = 14833
+url = "2025-06-02-the-great-greek-mediterranean-grill-introduces-affordable-dining-options-to-cater-to-diverse-customer-needs"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/2/healrFXz.webp"
 source = "24-7 Press Release"
 +++

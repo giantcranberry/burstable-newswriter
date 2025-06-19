@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702385/green-impact-exchange-appoi
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84208
 feed_item_id = 15104
+url = "2025-06-04-green-impact-exchange-appoints-paul-bauccio-as-coo-to-spearhead-sustainability-economy-initiatives"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/irisgVEn.webp"
 source = "citybiz"
 +++

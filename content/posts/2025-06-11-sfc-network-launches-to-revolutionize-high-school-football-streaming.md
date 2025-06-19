@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/super-football-conference-and-acceler
 enclosure = "https://cdn.newsramp.app/banners/sports-2.jpg"
 article_id = 84077
 feed_item_id = 15503
+url = "2025-06-11-sfc-network-launches-to-revolutionize-high-school-football-streaming"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/mielOfdm.webp"
 source = "News Direct"
 +++

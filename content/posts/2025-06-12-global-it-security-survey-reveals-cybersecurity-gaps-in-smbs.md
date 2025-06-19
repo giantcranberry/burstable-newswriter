@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/705735/qa-with-maxime-trottier-chi
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/42f275edee564df13942f8de80f43720.jpg"
 article_id = 84532
 feed_item_id = 15526
+url = "2025-06-12-global-it-security-survey-reveals-cybersecurity-gaps-in-smbs"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/swimn5sb.webp"
 source = "citybiz"
 +++

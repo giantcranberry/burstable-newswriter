@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/us-senate-passes-the-gen
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84811
 feed_item_id = 14561
+url = "2025-05-23-senate-approves-genius-act-paving-the-way-for-comprehensive-cryptocurrency-regulation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/23/fastlZXx.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

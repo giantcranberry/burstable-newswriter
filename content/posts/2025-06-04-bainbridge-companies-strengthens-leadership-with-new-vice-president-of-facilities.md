@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702220/bainbridge-companies-appoin
 enclosure = "https://cdn.newsramp.app/banners/real-estate-2.jpg"
 article_id = 84223
 feed_item_id = 15059
+url = "2025-06-04-bainbridge-companies-strengthens-leadership-with-new-vice-president-of-facilities"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/numbd80k.webp"
 source = "citybiz"
 +++

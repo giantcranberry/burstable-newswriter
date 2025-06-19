@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-beeline-ho
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84190
 feed_item_id = 15143
+url = "2025-06-04-beeline-holdings-introduces-blockchain-based-equity-solution-for-homeowners"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/openVJ6K.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

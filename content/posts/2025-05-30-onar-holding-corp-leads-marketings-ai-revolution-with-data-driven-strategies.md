@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/onar-holding-corp-otcqb
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84303
 feed_item_id = 14805
+url = "2025-05-30-onar-holding-corp-leads-marketings-ai-revolution-with-data-driven-strategies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/quayFLE0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

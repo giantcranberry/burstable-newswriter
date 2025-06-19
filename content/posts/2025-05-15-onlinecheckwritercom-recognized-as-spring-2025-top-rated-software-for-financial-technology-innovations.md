@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522789/spring-2025
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84914
 feed_item_id = 14200
+url = "2025-05-15-onlinecheckwritercom-recognized-as-spring-2025-top-rated-software-for-financial-technology-innovations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/bendDKZH.webp"
 source = "24-7 Press Release"
 +++

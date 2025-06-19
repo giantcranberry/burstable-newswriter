@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/tim-jensen-co-owner-and-chief-b
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 84556
 feed_item_id = 15461
+url = "2025-06-10-aristocrat-group-corporation-strengthens-board-with-appointment-of-veteran-brand-strategist-tim-jensen"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/10/iconBoLx.webp"
 source = "NewMediaWire"
 +++

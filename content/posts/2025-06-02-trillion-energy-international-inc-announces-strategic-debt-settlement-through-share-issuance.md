@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-trillio
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84751
 feed_item_id = 14910
+url = "2025-06-02-trillion-energy-international-inc-announces-strategic-debt-settlement-through-share-issuance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/notebQqp.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

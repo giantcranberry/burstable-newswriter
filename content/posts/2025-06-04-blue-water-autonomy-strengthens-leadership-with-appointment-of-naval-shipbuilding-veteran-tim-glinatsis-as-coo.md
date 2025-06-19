@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702795/blue-water-autonomy-appoint
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84180
 feed_item_id = 15168
+url = "2025-06-04-blue-water-autonomy-strengthens-leadership-with-appointment-of-naval-shipbuilding-veteran-tim-glinatsis-as-coo"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/icy5gkm.webp"
 source = "citybiz"
 +++

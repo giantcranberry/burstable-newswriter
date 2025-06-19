@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/youspi-consulting-gmbh-launches-strat
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/1f2734681d3b543014eee70a1640295d.jpg"
 article_id = 84374
 feed_item_id = 14592
+url = "2025-05-24-youspi-consulting-gmbh-introduces-castle-of-lost-magic-workshop-to-transform-business-strategy-with-human-centered-design"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/24/hikeQpkY.webp"
 source = "News Direct"
 +++

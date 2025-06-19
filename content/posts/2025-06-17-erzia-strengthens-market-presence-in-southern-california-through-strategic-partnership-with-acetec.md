@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523863/erzia-appoi
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/8b41c7a8006e340d0a2f4d244c698d71.png"
 article_id = 84015
 feed_item_id = 15699
+url = "2025-06-17-erzia-strengthens-market-presence-in-southern-california-through-strategic-partnership-with-acetec"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/17/veilF7R6.webp"
 source = "24-7 Press Release"
 +++

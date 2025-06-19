@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523086/my-private-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84819
 feed_item_id = 14544
+url = "2025-05-23-my-private-mentors-revolutionizes-career-development-with-external-executive-guidance"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/yogau52l.webp"
 source = "24-7 Press Release"
 +++

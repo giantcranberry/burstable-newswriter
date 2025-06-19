@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/brilla-media-ventures-and-creator-spo
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/736b154ad89d3ed5ca4ae80a1cbc9cd2.png"
 article_id = 84449
 feed_item_id = 15676
+url = "2025-06-16-vibra-stream-a-new-era-for-hispanic-sports-engagement-through-live-streaming"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/16/urge_Jzm.webp"
 source = "News Direct"
 +++

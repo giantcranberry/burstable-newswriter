@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/innovative-medtech-to-acquire-t
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84275
 feed_item_id = 14898
+url = "2025-06-02-innovative-medtech-ventures-into-ai-driven-entertainment-with-ticketbash-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/2/heal0nh2.webp"
 source = "NewMediaWire"
 +++

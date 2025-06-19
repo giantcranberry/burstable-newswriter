@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/platinum-group-metals-lt
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/e7fd49e0a24b1800bebef1cc3616a36a.png"
 article_id = 84021
 feed_item_id = 15681
+url = "2025-06-16-platinum-group-metals-ltd-capitalizes-on-surging-platinum-and-palladium-prices"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/riceMB5O.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701721/coursera-appoints-patrick-s
 enclosure = "https://cdn.newsramp.app/banners/education-3.jpg"
 article_id = 84256
 feed_item_id = 14963
+url = "2025-06-03-coursera-appoints-patrick-supanc-as-chief-product-officer-to-drive-innovation-in-online-education"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/quipcQEz.webp"
 source = "citybiz"
 +++

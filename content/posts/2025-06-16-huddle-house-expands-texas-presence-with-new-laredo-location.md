@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523853/huddle-hous
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/17d1fa22c63abdbbcbe96750eb0e908d.png"
 article_id = 84022
 feed_item_id = 15678
+url = "2025-06-16-huddle-house-expands-texas-presence-with-new-laredo-location"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/16/fondIVtC.webp"
 source = "24-7 Press Release"
 +++

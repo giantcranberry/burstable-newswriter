@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/gop-senators-change-tax
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84095
 feed_item_id = 15436
+url = "2025-06-10-senate-gop-ties-federal-broadband-funding-to-ai-regulation-in-revised-tax-bill"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/envyrHG9.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

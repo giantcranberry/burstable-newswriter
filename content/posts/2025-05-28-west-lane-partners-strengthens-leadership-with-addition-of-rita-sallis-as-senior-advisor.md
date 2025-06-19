@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/west-lane-partners-welcomes-rita-sall
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84341
 feed_item_id = 14693
+url = "2025-05-28-west-lane-partners-strengthens-leadership-with-addition-of-rita-sallis-as-senior-advisor"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/jokeAJ64.webp"
 source = "News Direct"
 +++

@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/vendi360-by-primi-digital-redefines-w
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 84331
 feed_item_id = 14719
+url = "2025-05-29-primi-digital-launches-vendi360-a-game-changer-in-smart-vending-technology"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/29/kiss7C3a.webp"
 source = "News Direct"
 +++

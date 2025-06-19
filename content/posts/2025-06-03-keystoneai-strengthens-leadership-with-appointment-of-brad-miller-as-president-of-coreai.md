@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701702/brad-miller-joins-keystone-
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d75ce82951a8d42fc316f439def0822e.png"
 article_id = 84257
 feed_item_id = 14962
+url = "2025-06-03-keystoneai-strengthens-leadership-with-appointment-of-brad-miller-as-president-of-coreai"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/diveM26S.webp"
 source = "citybiz"
 +++

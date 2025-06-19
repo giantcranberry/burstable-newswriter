@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523727/garveecom-p
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 84059
 feed_item_id = 15552
+url = "2025-06-12-garveecom-launches-2025-eco-friendly-air-conditioning-lineup-with-r-454b-refrigerant"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/deep_xfD.webp"
 source = "24-7 Press Release"
 +++

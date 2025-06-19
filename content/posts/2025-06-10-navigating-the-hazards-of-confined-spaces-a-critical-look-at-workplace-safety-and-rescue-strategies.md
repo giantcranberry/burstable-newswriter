@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523625/article-she
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84107
 feed_item_id = 15405
+url = "2025-06-10-navigating-the-hazards-of-confined-spaces-a-critical-look-at-workplace-safety-and-rescue-strategies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/pondadKQ.webp"
 source = "24-7 Press Release"
 +++

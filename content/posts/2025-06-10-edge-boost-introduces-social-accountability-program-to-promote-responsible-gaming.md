@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/edge-boost-launches-social-accountabi
 enclosure = "https://cdn.newsramp.app/banners/gambling-betting-2.jpg"
 article_id = 84103
 feed_item_id = 15419
+url = "2025-06-10-edge-boost-introduces-social-accountability-program-to-promote-responsible-gaming"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/iconQoUq.webp"
 source = "News Direct"
 +++

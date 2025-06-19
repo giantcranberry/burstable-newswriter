@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/from-the-slopes-to-the-streets-
 enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
 article_id = 84780
 feed_item_id = 14744
+url = "2025-05-29-perfect-moment-ltd-and-bwt-alpine-formula-one-team-unveil-high-speed-racing-and-alpine-sports-clothing-collection"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/29/hike05PO.webp"
 source = "NewMediaWire"
 +++

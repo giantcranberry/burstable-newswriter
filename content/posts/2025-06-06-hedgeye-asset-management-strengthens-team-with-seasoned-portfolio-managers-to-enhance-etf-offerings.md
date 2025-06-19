@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703846/hedgeye-asset-management-ex
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84137
 feed_item_id = 15309
+url = "2025-06-06-hedgeye-asset-management-strengthens-team-with-seasoned-portfolio-managers-to-enhance-etf-offerings"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/lilyuJto.webp"
 source = "citybiz"
 +++

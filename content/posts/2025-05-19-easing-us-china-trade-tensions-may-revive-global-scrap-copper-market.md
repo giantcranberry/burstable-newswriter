@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/scrap-copper-to-start-mo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84876
 feed_item_id = 14305
+url = "2025-05-19-easing-us-china-trade-tensions-may-revive-global-scrap-copper-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/19/icyHPzq.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

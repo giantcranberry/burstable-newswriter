@@ -8,6 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/0373731dfdd45d582248dd415a811462.jpg"
 article_id = 84873
 feed_item_id = 14356
+url = "2025-05-19-aquafil-group-reports-strong-q1-2025-performance-with-focus-on-sustainability-and-market-resilience"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/19/poem2UhZ.webp"
 source = "Reportable"
 +++

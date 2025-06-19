@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523469/dr-ana-maf%
 enclosure = "https://cdn.newsramp.app/banners/science-2.jpg"
 article_id = 84713
 feed_item_id = 15069
+url = "2025-06-04-holy-grails-journey-reimagined-through-ai-and-historical-research-in-spain"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/ableTWDq.webp"
 source = "24-7 Press Release"
 +++

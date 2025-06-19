@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702060/radial-promotes-shauna-bowe
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84228
 feed_item_id = 15043
+url = "2025-06-03-radial-inc-elevates-shauna-bowen-to-chief-digital-transformation-officer-amid-strategic-leadership-transition"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/open70mr.webp"
 source = "citybiz"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522838/richpack-el
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84711
 feed_item_id = 15066
+url = "2025-06-04-richpack-expands-into-spain-offering-jewelry-brands-custom-packaging-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/gulffjSa.webp"
 source = "24-7 Press Release"
 +++

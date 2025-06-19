@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/family-operated-junk-removal-service-l
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/27d5b723f2f7558acab9ca569bed7d0b.jpg"
 article_id = 84278
 feed_item_id = 14894
+url = "2025-06-02-from-truck-driver-to-eco-conscious-entrepreneur-the-story-of-discard-junk-removal"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/mendzeI8.webp"
 source = "Press Services"
 +++

@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-sets-new-standard-f
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84816
 feed_item_id = 14550
+url = "2025-05-23-dubais-car-garage-expert-revolutionizes-vehicle-inspection-with-cutting-edge-technology"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/23/navyKiXs.webp"
 source = "News Direct"
 +++

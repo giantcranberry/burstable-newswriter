@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523139/summit-rest
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84810
 feed_item_id = 14577
+url = "2025-05-23-summit-restoration-expands-to-tampa-enhancing-disaster-recovery-services-in-florida"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/lime7T6n.webp"
 source = "24-7 Press Release"
 +++

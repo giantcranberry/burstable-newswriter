@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701392/envestnet-appoints-sean-mei
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84264
 feed_item_id = 14945
+url = "2025-06-03-envestnet-strengthens-ria-support-with-strategic-leadership-appointment"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/roam3lrg.webp"
 source = "citybiz"
 +++

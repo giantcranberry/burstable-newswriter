@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/3000-mile-range-for-evs-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84131
 feed_item_id = 15324
+url = "2025-06-06-silicon-based-battery-breakthrough-could-revolutionize-the-ev-industry"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/gluele8p.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

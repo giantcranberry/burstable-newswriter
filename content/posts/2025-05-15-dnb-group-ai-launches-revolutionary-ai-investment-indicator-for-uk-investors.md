@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/dnb-group-ai-launches-groundbreaking-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84904
 feed_item_id = 14223
+url = "2025-05-15-dnb-group-ai-launches-revolutionary-ai-investment-indicator-for-uk-investors"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/15/gleeQxKV.webp"
 source = "News Direct"
 +++

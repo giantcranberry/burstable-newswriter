@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701851/apus-appoints-dr-nicholas-w
 enclosure = "https://cdn.newsramp.app/banners/education-1.jpg"
 article_id = 84247
 feed_item_id = 14988
+url = "2025-06-03-apus-appoints-dr-nicholas-wernicki-as-dean-to-lead-school-of-arts-humanities-and-education"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/warprHSV.webp"
 source = "citybiz"
 +++

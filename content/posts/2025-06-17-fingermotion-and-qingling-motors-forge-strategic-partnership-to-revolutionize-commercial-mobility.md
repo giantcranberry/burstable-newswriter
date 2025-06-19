@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-fingermo
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/71c6d894940506b41277974b7dc93663.png"
 article_id = 84010
 feed_item_id = 15730
+url = "2025-06-17-fingermotion-and-qingling-motors-forge-strategic-partnership-to-revolutionize-commercial-mobility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/heal0oMK.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

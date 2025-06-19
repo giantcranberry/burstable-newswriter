@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702102/sun-life-u-s-appoints-dr-to
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84225
 feed_item_id = 15049
+url = "2025-06-03-sun-life-us-strengthens-dental-leadership-with-appointment-of-dr-todd-gray-as-chief-dental-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/dunel445.webp"
 source = "citybiz"
 +++

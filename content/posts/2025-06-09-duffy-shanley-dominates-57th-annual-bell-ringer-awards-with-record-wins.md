@@ -8,6 +8,7 @@ source_link = "https://duffy-shanley.reportablenews.com/pr/most-awarded-agency-d
 enclosure = "https://cdn.filestackcontent.com/AG3wH2AR3SP2Mo58NZitaz/rotate=exif:true/resize=width:1000/O80Aee2jRaCP0oQx6Xzq"
 article_id = 84118
 feed_item_id = 15373
+url = "2025-06-09-duffy-shanley-dominates-57th-annual-bell-ringer-awards-with-record-wins"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/9/airyzY0A.webp"
 source = "Reportable"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/supply-chain-grid-issues
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 84812
 feed_item_id = 14562
+url = "2025-05-23-europes-renewable-energy-transition-faces-critical-infrastructure-and-supply-chain-hurdles"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/23/gleeCvTO.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

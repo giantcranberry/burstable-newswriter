@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703799/dick-sayles-continues-chamb
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84135
 feed_item_id = 15312
+url = "2025-06-06-dick-sayles-honored-as-senior-statesperson-by-chambers-usa-highlighting-legal-excellence-and-mentorship"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/lendmtZL.webp"
 source = "citybiz"
 +++

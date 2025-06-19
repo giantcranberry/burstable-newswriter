@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/currency/currencynewsbreaks-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84695
 feed_item_id = 15125
+url = "2025-06-04-optimumbank-holdings-reports-63-surge-in-q1-2025-net-income-amid-strong-financial-performance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/pinkD_ry.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

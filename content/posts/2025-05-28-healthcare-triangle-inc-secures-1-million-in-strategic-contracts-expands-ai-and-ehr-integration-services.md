@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-secures-maj
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84346
 feed_item_id = 14676
+url = "2025-05-28-healthcare-triangle-inc-secures-1-million-in-strategic-contracts-expands-ai-and-ehr-integration-services"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/28/ulnaHIyN.webp"
 source = "NewMediaWire"
 +++

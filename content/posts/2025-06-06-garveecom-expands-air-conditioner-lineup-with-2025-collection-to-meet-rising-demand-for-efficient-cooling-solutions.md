@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523529/garveecom-u
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84146
 feed_item_id = 15281
+url = "2025-06-06-garveecom-expands-air-conditioner-lineup-with-2025-collection-to-meet-rising-demand-for-efficient-cooling-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/6/joindZE8.webp"
 source = "24-7 Press Release"
 +++

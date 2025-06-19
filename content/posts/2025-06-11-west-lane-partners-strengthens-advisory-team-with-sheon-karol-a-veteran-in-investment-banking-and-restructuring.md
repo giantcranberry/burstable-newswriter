@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/sheon-karol-joins-west-lane-partners-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84541
 feed_item_id = 15497
+url = "2025-06-11-west-lane-partners-strengthens-advisory-team-with-sheon-karol-a-veteran-in-investment-banking-and-restructuring"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/herbB29v.webp"
 source = "News Direct"
 +++

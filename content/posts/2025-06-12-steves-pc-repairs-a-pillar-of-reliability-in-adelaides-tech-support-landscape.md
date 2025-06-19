@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/fast-and-reliable-computer-repair-serv
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/258eb6e258a3e8ce17a481d8cbe04aae.jpg"
 article_id = 84057
 feed_item_id = 15565
+url = "2025-06-12-steves-pc-repairs-a-pillar-of-reliability-in-adelaides-tech-support-landscape"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/12/bestRGZs.webp"
 source = "Press Services"
 +++

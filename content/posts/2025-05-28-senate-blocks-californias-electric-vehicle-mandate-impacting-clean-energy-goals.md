@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/us-senators-block-califo
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84343
 feed_item_id = 14688
+url = "2025-05-28-senate-blocks-californias-electric-vehicle-mandate-impacting-clean-energy-goals"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/eachKAPr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

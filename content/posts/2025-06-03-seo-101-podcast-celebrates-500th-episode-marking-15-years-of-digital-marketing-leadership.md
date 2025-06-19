@@ -8,6 +8,7 @@ source_link = "https://newsworthy.ai/news/202506031536/wmr-fm-s-seo-101-podcast-
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 84739
 feed_item_id = 14971
+url = "2025-06-03-seo-101-podcast-celebrates-500th-episode-marking-15-years-of-digital-marketing-leadership"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/3/taroEArU.webp"
 source = "Newsworthy.ai"
 +++

@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/it-support-adelaide-managed-firewall-f
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/a9900b2748b916dfd8ac6485293963f6.png"
 article_id = 84442
 feed_item_id = 15629
+url = "2025-06-13-adelaide-small-businesses-urged-to-enhance-cybersecurity-with-managed-firewall-services"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/13/facePXOs.webp"
 source = "Press Services"
 +++

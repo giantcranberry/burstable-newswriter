@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/smodin-enhances-content-authenticity-
 enclosure = "https://cdn.newsramp.app/banners/media-1.jpg"
 article_id = 84373
 feed_item_id = 14602
+url = "2025-05-26-smodin-introduces-advanced-ai-detection-tool-to-combat-ai-generated-content-challenges"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/26/navycgXn.webp"
 source = "News Direct"
 +++

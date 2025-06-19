@@ -8,6 +8,7 @@ source_link = "https://newsworthy.ai/news/202505221528/infomart-appoints-adam-to
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84827
 feed_item_id = 14515
+url = "2025-05-22-infomart-appoints-adam-townsend-as-ceo-to-lead-through-industry-evolution"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/255/22/yogaewnD.webp"
 source = "Newsworthy.ai"
 +++

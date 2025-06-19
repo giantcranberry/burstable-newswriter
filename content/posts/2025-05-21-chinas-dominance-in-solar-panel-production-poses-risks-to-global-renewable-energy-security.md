@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/could-chinese-authorities
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84846
 feed_item_id = 14453
+url = "2025-05-21-chinas-dominance-in-solar-panel-production-poses-risks-to-global-renewable-energy-security"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/nino8NYU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

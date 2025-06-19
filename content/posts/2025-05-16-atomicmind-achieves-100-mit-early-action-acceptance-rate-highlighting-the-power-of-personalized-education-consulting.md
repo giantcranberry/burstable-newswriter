@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522896/atomicmind-
 enclosure = "https://cdn.newsramp.app/banners/education-3.jpg"
 article_id = 84886
 feed_item_id = 14279
+url = "2025-05-16-atomicmind-achieves-100-mit-early-action-acceptance-rate-highlighting-the-power-of-personalized-education-consulting"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/16/wamcxNqA.webp"
 source = "24-7 Press Release"
 +++

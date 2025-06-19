@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523618/tes-tec-exp
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84112
 feed_item_id = 15391
+url = "2025-06-10-tes-tec-announces-178-million-expansion-in-thailand-to-boost-intelligent-touch-display-production"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/gold3dER.webp"
 source = "24-7 Press Release"
 +++

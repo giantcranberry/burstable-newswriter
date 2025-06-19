@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703685/the-standard-appoints-marja
 enclosure = "https://cdn.newsramp.app/banners/insurance-2.jpg"
 article_id = 84625
 feed_item_id = 15315
+url = "2025-06-06-marjan-berg-ascends-to-key-leadership-role-at-the-standard-insurance-company"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/pondbFLY.webp"
 source = "citybiz"
 +++

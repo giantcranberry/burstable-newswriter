@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523433/sunknowledg
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 84269
 feed_item_id = 14921
+url = "2025-06-03-sunknowledge-inc-revolutionizes-prior-authorization-in-us-healthcare-with-ai-driven-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/joltooY2.webp"
 source = "24-7 Press Release"
 +++

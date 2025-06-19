@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/sentry-rms-by-accucom-chooses-c
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84097
 feed_item_id = 15434
+url = "2025-06-10-sentry-rms-partners-with-centcore-data-center-to-enhance-public-safety-software-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/10/coolpE95.webp"
 source = "NewMediaWire"
 +++

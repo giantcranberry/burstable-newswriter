@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/introducing-reliable-appliance-repair-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/fb2d5b8f5c36b9701074af4fc1ff8f12.jpg"
 article_id = 84428
 feed_item_id = 15641
+url = "2025-06-14-appliance-service-pro-expands-to-vancouver-washington-enhancing-local-access-to-reliable-appliance-repair"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/14/xenoJAmF.webp"
 source = "Press Services"
 +++

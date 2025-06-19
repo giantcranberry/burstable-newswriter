@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/perfect-moment-bolsters-leaders
 enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
 article_id = 84786
 feed_item_id = 14702
+url = "2025-05-28-perfect-moment-ltd-strengthens-leadership-team-to-navigate-luxury-fashions-future"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/28/pondYNKE.webp"
 source = "NewMediaWire"
 +++

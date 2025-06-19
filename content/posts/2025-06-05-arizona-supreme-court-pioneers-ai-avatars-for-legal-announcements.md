@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/arizona-supreme-court-t
 enclosure = "https://cdn.newsramp.app/banners/media-1.jpg"
 article_id = 84160
 feed_item_id = 15231
+url = "2025-06-05-arizona-supreme-court-pioneers-ai-avatars-for-legal-announcements"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/beannFEN.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

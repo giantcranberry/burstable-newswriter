@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-beeline-
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84843
 feed_item_id = 14465
+url = "2025-05-21-frank-knuettel-ii-joins-beeline-holdings-board-to-drive-growth-in-mortgage-fintech"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/joinG6B4.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

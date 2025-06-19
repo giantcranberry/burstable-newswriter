@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/affordable-local-seo-ai-now-available-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/fa0f006ff88e5cb6457097803d04459d.jpg"
 article_id = 84104
 feed_item_id = 15411
+url = "2025-06-10-absolute-velocity-labs-launches-affordable-local-seo-ai-service-to-boost-small-business-visibility"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/10/loft3_ah.webp"
 source = "Press Services"
 +++

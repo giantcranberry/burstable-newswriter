@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701645/jbt-marel-appoints-james-pe
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-3.jpg"
 article_id = 84263
 feed_item_id = 14951
+url = "2025-06-03-jbt-marel-corporation-strengthens-leadership-with-appointment-of-james-pelletier-as-executive-vice-president-and-general-counsel"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/bestQanD.webp"
 source = "citybiz"
 +++

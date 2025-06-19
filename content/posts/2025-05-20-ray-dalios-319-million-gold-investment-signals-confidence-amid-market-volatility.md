@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/legendary-investor-ray-d
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84861
 feed_item_id = 14403
+url = "2025-05-20-ray-dalios-319-million-gold-investment-signals-confidence-amid-market-volatility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/glowKlLq.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://newsroom.prkarma.com/joannegorecommunications/news_releas
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/b2ed9a8dce4d80ff7a6b0a0d45604224.png"
 article_id = 84349
 feed_item_id = 14667
+url = "2025-05-28-xeikon-north-america-to-showcase-cutting-edge-digital-printing-technologies-at-elgin-innovation-center"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/255/28/roamXfla.webp"
 source = "PR Karma"
 +++

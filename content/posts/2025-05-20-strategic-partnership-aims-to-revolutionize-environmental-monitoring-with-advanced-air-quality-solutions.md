@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/iotacomm-r-and-tellus-networked-senso
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84860
 feed_item_id = 14412
+url = "2025-05-20-strategic-partnership-aims-to-revolutionize-environmental-monitoring-with-advanced-air-quality-solutions"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/20/oxenhXyK.webp"
 source = "News Direct"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/platinum-group-metals-lt
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84885
 feed_item_id = 14284
+url = "2025-05-16-platinum-group-metals-ltd-strategically-positions-in-the-palladium-market-amid-growing-demand"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/pear_br7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/bloomen-introduces-convenient-flower-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/6bf02a8789e00f7df9c0680dd1e1d9bd.png"
 article_id = 84027
 feed_item_id = 15662
+url = "2025-06-16-bloomenca-enhances-flower-subscription-service-reinventing-floral-delivery-in-toronto"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/16/diveh0Y7.webp"
 source = "News Direct"
 +++

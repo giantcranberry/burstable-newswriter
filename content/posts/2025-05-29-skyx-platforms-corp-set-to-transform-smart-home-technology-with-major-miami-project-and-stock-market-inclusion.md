@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-p
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84321
 feed_item_id = 14748
+url = "2025-05-29-skyx-platforms-corp-set-to-transform-smart-home-technology-with-major-miami-project-and-stock-market-inclusion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/talloBo1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

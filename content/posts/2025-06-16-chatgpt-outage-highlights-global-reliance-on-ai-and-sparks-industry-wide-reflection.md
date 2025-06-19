@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/unpacking-chatgpts-recen
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/7fdd5338aac569ec4105a30ee14e327c.png"
 article_id = 84020
 feed_item_id = 15684
+url = "2025-06-16-chatgpt-outage-highlights-global-reliance-on-ai-and-sparks-industry-wide-reflection"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/notefLXP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

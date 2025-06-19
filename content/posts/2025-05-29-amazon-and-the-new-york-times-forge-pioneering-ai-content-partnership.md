@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-amazon
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84314
 feed_item_id = 14768
+url = "2025-05-29-amazon-and-the-new-york-times-forge-pioneering-ai-content-partnership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/walleg3C.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522912/westmac-com
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84882
 feed_item_id = 14290
+url = "2025-05-17-santa-monica-office-property-sold-for-7-million-paving-way-for-potential-residential-development"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/17/lunauZbf.webp"
 source = "24-7 Press Release"
 +++

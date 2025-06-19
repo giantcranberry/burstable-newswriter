@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523055/one-foot-ov
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84842
 feed_item_id = 14466
+url = "2025-05-21-houston-marketing-agency-one-foot-over-wins-six-prestigious-ama-crystal-awards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/21/markcpDz.webp"
 source = "24-7 Press Release"
 +++

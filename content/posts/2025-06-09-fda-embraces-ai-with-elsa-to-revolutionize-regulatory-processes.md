@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-panna-s
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84117
 feed_item_id = 15374
+url = "2025-06-09-fda-embraces-ai-with-elsa-to-revolutionize-regulatory-processes"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/tallGLK_.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523411/pt-interior
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-2.jpg"
 article_id = 84286
 feed_item_id = 14860
+url = "2025-06-02-exploring-the-intersection-of-art-and-architecture-in-art-in-residence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/2/lily2_EZ.webp"
 source = "24-7 Press Release"
 +++

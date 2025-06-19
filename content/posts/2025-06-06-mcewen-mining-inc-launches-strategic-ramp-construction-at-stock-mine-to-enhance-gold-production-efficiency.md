@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-mcewen-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84142
 feed_item_id = 15296
+url = "2025-06-06-mcewen-mining-inc-launches-strategic-ramp-construction-at-stock-mine-to-enhance-gold-production-efficiency"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/kitefN1e.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

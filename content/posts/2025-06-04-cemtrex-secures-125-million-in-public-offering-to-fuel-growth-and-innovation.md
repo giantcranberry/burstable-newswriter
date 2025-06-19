@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-aegis-ca
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84679
 feed_item_id = 15164
+url = "2025-06-04-cemtrex-secures-125-million-in-public-offering-to-fuel-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/glue75uG.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

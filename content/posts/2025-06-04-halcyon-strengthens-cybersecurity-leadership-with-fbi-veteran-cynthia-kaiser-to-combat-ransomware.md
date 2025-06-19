@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702359/halcyon-appoints-cynthia-ka
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84709
 feed_item_id = 15086
+url = "2025-06-04-halcyon-strengthens-cybersecurity-leadership-with-fbi-veteran-cynthia-kaiser-to-combat-ransomware"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/chipi0Fs.webp"
 source = "citybiz"
 +++

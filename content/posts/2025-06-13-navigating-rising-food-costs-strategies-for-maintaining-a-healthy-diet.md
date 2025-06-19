@@ -8,6 +8,7 @@ source_link = "https://www.noticiasnewswire.com/smart-swaps-and-budget-friendly-
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-2.jpg"
 article_id = 84036
 feed_item_id = 15633
+url = "2025-06-13-navigating-rising-food-costs-strategies-for-maintaining-a-healthy-diet"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/256/13/quitCB4O.webp"
 source = "Noticias Newswire"
 +++

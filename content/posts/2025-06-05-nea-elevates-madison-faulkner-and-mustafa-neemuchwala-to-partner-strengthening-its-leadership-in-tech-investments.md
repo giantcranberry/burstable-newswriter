@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703356/nea-promotes-madison-faulkn
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84150
 feed_item_id = 15264
+url = "2025-06-05-nea-elevates-madison-faulkner-and-mustafa-neemuchwala-to-partner-strengthening-its-leadership-in-tech-investments"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/calmtgZK.webp"
 source = "citybiz"
 +++

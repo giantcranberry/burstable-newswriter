@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/minneapolis-public-housing-authority-
 enclosure = "https://cdn.newsramp.app/banners/education-3.jpg"
 article_id = 84856
 feed_item_id = 14418
+url = "2025-05-20-minneapolis-public-housing-authority-and-comcast-partner-to-bridge-digital-divide"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/20/roamoH5p.webp"
 source = "News Direct"
 +++

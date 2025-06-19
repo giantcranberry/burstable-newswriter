@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/hno-international-chairman-and-ceo-re
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84905
 feed_item_id = 14220
+url = "2025-05-15-hno-international-unveils-vision-for-decentralized-hydrogen-energy-on-nyse-floor"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/15/echouwFl.webp"
 source = "News Direct"
 +++

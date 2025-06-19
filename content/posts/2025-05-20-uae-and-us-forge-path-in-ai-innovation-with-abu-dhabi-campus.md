@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/uae-us-collaborate-on-a
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84863
 feed_item_id = 14401
+url = "2025-05-20-uae-and-us-forge-path-in-ai-innovation-with-abu-dhabi-campus"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/bakeyaqH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

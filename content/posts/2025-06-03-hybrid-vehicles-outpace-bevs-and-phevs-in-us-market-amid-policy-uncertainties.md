@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/sales-of-hybrid-vehicles
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84244
 feed_item_id = 14993
+url = "2025-06-03-hybrid-vehicles-outpace-bevs-and-phevs-in-us-market-amid-policy-uncertainties"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/daveVD54.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

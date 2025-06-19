@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/homesphere-and-wayne-dalton-announce-
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84831
 feed_item_id = 14504
+url = "2025-05-22-homesphere-and-wayne-dalton-forge-strategic-partnership-to-elevate-residential-construction-standards"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/22/elleflZy.webp"
 source = "News Direct"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/currency/currencynewsbreaks-
 enclosure = "https://cdn.newsramp.app/banners/media-2.jpg"
 article_id = 84769
 feed_item_id = 14813
+url = "2025-05-30-moneyshows-mid-year-portfolio-review-2025-to-tackle-economic-challenges-and-market-volatility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/ninosTQh.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

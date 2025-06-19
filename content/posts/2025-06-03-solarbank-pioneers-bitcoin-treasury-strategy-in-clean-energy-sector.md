@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/cryptonewsbreaks-solarba
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84733
 feed_item_id = 15005
+url = "2025-06-03-solarbank-pioneers-bitcoin-treasury-strategy-in-clean-energy-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/fastgo5c.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

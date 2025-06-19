@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/uk-government-considers-
 enclosure = "https://cdn.newsramp.app/banners/media-2.jpg"
 article_id = 84078
 feed_item_id = 15499
+url = "2025-06-11-uk-considers-daily-time-limits-on-childrens-social-media-use-to-combat-negative-effects"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/ninaLOlZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

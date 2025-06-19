@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/dubais-trusted-car-garage-expert-for-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84707
 feed_item_id = 15088
+url = "2025-06-04-car-garage-expert-expands-services-to-meet-growing-demand-for-auto-electrical-and-battery-solutions-in-dubai"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/4/wamcUmlG.webp"
 source = "News Direct"
 +++

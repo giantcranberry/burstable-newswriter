@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/iea-says-copper-demand-i
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84368
 feed_item_id = 14616
+url = "2025-05-27-iea-warns-of-impending-copper-shortage-threatening-global-clean-energy-transition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/vibefXZ6.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

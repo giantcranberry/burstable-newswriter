@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522783/massimoprec
 enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
 article_id = 84912
 feed_item_id = 14198
+url = "2025-05-15-massimoprecision-launches-specialized-e-commerce-platform-for-collectors-of-military-and-mechanical-miniatures"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/noonbJNa.webp"
 source = "24-7 Press Release"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-ecgi-h
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84563
 feed_item_id = 15444
+url = "2025-06-10-ecgi-holdings-invests-in-ai-enhanced-fantasy-sports-platform-payday-fantasy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/harpbNet.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

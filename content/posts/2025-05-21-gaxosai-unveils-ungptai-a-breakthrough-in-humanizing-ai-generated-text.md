@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-gaxos-ai
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84847
 feed_item_id = 14452
+url = "2025-05-21-gaxosai-unveils-ungptai-a-breakthrough-in-humanizing-ai-generated-text"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/swimvFj0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

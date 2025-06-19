@@ -8,6 +8,7 @@ source_link = "https://mediawiretoday.com/professional-pest-control-in-melbourne
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/f001064bbd04abee76858d41942cc683.png"
 article_id = 84579
 feed_item_id = 15415
+url = "2025-06-10-melbournes-western-suburbs-face-rising-pest-control-demands-amid-rapid-development"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/10/numb7rDI.webp"
 source = "Press Services"
 +++

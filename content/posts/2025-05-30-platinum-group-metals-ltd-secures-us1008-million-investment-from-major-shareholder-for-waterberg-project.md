@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-platinu
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84305
 feed_item_id = 14797
+url = "2025-05-30-platinum-group-metals-ltd-secures-us1008-million-investment-from-major-shareholder-for-waterberg-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/leanigSM.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

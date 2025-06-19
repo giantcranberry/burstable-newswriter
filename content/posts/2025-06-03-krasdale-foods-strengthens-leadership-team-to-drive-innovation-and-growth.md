@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/krasdale-foods-announces-two-promotio
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/c34d17f1cd5ffa50cec4f9d3e0483161.jpg"
 article_id = 84250
 feed_item_id = 14977
+url = "2025-06-03-krasdale-foods-strengthens-leadership-team-to-drive-innovation-and-growth"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/3/glowTAol.webp"
 source = "News Direct"
 +++

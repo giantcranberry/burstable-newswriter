@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703351/qa-for-carlos-rosso-preside
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/62562f323d6ae91ec355a294c64aee20.jpg"
 article_id = 84065
 feed_item_id = 15533
+url = "2025-06-12-carlos-rossos-2-billion-midtown-park-set-to-redefine-urban-living-in-miami"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/loftCBsV.webp"
 source = "citybiz"
 +++

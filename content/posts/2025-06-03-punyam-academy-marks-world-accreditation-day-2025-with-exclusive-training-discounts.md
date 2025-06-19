@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523396/punyam-acad
 enclosure = "https://cdn.newsramp.app/banners/education-2.jpg"
 article_id = 84270
 feed_item_id = 14918
+url = "2025-06-03-punyam-academy-marks-world-accreditation-day-2025-with-exclusive-training-discounts"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/joltu7yB.webp"
 source = "24-7 Press Release"
 +++

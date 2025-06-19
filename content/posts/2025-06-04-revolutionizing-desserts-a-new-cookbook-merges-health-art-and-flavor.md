@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523479/the-future-
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-1.jpg"
 article_id = 84220
 feed_item_id = 15061
+url = "2025-06-04-revolutionizing-desserts-a-new-cookbook-merges-health-art-and-flavor"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/wamckrQi.webp"
 source = "24-7 Press Release"
 +++

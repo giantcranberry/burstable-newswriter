@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/702730/icsc-promotes-moutray-mclar
 enclosure = "https://cdn.newsramp.app/banners/real-estate-1.jpg"
 article_id = 84182
 feed_item_id = 15166
+url = "2025-06-04-moutray-mclaren-promoted-to-executive-vice-president-public-policy-at-icsc"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/rushCIvh.webp"
 source = "citybiz"
 +++

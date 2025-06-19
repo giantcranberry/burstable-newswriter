@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523084/the-sean-la
 enclosure = "https://cdn.newsramp.app/banners/real-estate-3.jpg"
 article_id = 84837
 feed_item_id = 14479
+url = "2025-05-21-sean-lasalle-team-joins-coldwell-banker-hearthside-enhancing-lehigh-valley-real-estate-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/21/joinAdFw.webp"
 source = "24-7 Press Release"
 +++

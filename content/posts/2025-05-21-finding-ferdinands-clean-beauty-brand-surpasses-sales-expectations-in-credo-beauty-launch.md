@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/finding-ferdinand-shatters-sales-proj
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 84840
 feed_item_id = 14474
+url = "2025-05-21-finding-ferdinands-clean-beauty-brand-surpasses-sales-expectations-in-credo-beauty-launch"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/21/pinkwn0R.webp"
 source = "News Direct"
 +++

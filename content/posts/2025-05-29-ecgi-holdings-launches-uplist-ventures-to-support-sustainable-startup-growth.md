@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-ecgi-h
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84323
 feed_item_id = 14745
+url = "2025-05-29-ecgi-holdings-launches-uplist-ventures-to-support-sustainable-startup-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/pearVbnW.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

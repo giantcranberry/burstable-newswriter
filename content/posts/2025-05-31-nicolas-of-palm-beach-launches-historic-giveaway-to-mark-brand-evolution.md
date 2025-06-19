@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523337/nicolas-of-
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 84766
 feed_item_id = 14817
+url = "2025-05-31-nicolas-of-palm-beach-launches-historic-giveaway-to-mark-brand-evolution"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/31/larkbpCH.webp"
 source = "24-7 Press Release"
 +++

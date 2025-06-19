@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/why-semiconductor-packa
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84497
 feed_item_id = 15571
+url = "2025-06-12-tsmcs-100-billion-us-investment-signals-semiconductor-packagings-pivotal-role-in-ai-advancement"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/12/able1wzr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

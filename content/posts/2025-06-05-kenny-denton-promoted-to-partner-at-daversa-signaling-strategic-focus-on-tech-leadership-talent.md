@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/703003/kenny-denton-joins-daversas
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84177
 feed_item_id = 15182
+url = "2025-06-05-kenny-denton-promoted-to-partner-at-daversa-signaling-strategic-focus-on-tech-leadership-talent"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/dashE6Zi.webp"
 source = "citybiz"
 +++

@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-match-
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84315
 feed_item_id = 14767
+url = "2025-05-29-match-groups-strategic-realignments-spark-investor-confidence-amid-digital-dating-boom"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/ninaFOdU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

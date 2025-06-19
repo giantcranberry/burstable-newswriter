@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523809/globalmanag
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/0981474217076f4de9bef40237d21a31.png"
 article_id = 84422
 feed_item_id = 15653
+url = "2025-06-16-globalmanagergroupcom-launches-updated-iso-370012025-documentation-kit-to-combat-bribery"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/16/jazzrjhs.webp"
 source = "24-7 Press Release"
 +++

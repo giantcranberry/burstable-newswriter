@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523611/support-nek
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84124
 feed_item_id = 15345
+url = "2025-06-09-nekoweb-revives-the-early-internets-simplicity-and-creativity-for-todays-digital-creators"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/9/pear9lTg.webp"
 source = "24-7 Press Release"
 +++

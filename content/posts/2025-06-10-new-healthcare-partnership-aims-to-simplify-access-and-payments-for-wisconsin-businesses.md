@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/hps-and-paymedix-partner-with-gravie-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84096
 feed_item_id = 15435
+url = "2025-06-10-new-healthcare-partnership-aims-to-simplify-access-and-payments-for-wisconsin-businesses"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/mailt4u8.webp"
 source = "News Direct"
 +++

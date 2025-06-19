@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-broadc
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84538
 feed_item_id = 15511
+url = "2025-06-11-broadcoms-fiscal-q2-highlights-surge-in-ai-chip-sales-and-market-confidence"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/knobMAP9.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

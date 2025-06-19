@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523731/jobsite-saf
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84061
 feed_item_id = 15554
+url = "2025-06-12-construction-safety-crisis-subcontractors-left-vulnerable-in-emergencies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/calmjz3V.webp"
 source = "24-7 Press Release"
 +++

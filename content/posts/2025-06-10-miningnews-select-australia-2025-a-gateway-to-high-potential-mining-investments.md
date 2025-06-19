@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/miningnews-select-austral
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 84092
 feed_item_id = 15454
+url = "2025-06-10-miningnews-select-australia-2025-a-gateway-to-high-potential-mining-investments"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/swimd66q.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-completes-s
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/a1b4b8e850fe5aa109b47b3717f7394c.png"
 article_id = 84025
 feed_item_id = 15667
+url = "2025-06-16-healthcare-triangle-inc-strengthens-digital-healthcare-portfolio-with-strategic-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/16/harpqBVy.webp"
 source = "NewMediaWire"
 +++

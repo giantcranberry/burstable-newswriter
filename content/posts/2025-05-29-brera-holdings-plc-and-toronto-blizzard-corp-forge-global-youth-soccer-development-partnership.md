@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-brera-
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84778
 feed_item_id = 14756
+url = "2025-05-29-brera-holdings-plc-and-toronto-blizzard-corp-forge-global-youth-soccer-development-partnership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/takeS4dc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

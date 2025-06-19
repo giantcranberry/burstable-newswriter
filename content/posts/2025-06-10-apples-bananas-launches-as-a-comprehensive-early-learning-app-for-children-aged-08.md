@@ -8,6 +8,7 @@ source_link = "https://newsdirect.com/news/apples-and-bananas-launches-globally-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/dc33c418180dd3c8afbcec53d7c6de30.jpg"
 article_id = 84566
 feed_item_id = 15442
+url = "2025-06-10-apples-bananas-launches-as-a-comprehensive-early-learning-app-for-children-aged-08"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/cornKxeV.webp"
 source = "News Direct"
 +++

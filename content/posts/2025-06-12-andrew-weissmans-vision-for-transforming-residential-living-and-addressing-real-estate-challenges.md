@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/704428/qa-with-andrew-weissman-dir
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84519
 feed_item_id = 15529
+url = "2025-06-12-andrew-weissmans-vision-for-transforming-residential-living-and-addressing-real-estate-challenges"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/lunaSTuz.webp"
 source = "citybiz"
 +++

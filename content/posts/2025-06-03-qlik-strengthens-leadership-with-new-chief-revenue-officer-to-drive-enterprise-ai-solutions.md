@@ -8,6 +8,7 @@ source_link = "https://www.citybiz.co/article/701802/qlik-appoints-brian-hamel-a
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84246
 feed_item_id = 14989
+url = "2025-06-03-qlik-strengthens-leadership-with-new-chief-revenue-officer-to-drive-enterprise-ai-solutions"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/maskBktR.webp"
 source = "citybiz"
 +++

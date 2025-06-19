@@ -8,6 +8,7 @@ source_link = "https://www.newmediawire.com/news/umaxx-applauds-trump-mobile-lau
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/0cef45bcb1140cf223e58165def7a0bf.png"
 article_id = 84012
 feed_item_id = 15721
+url = "2025-06-17-umaxx-endorses-trump-organizations-mobile-initiative-highlighting-privacy-and-domestic-manufacturing"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/17/wolfFwzv.webp"
 source = "NewMediaWire"
 +++

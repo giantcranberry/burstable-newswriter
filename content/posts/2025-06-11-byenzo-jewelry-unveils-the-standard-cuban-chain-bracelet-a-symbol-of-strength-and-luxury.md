@@ -8,6 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523617/the-bracele
 enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
 article_id = 84554
 feed_item_id = 15473
+url = "2025-06-11-byenzo-jewelry-unveils-the-standard-cuban-chain-bracelet-a-symbol-of-strength-and-luxury"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/11/bossHkDv.webp"
 source = "24-7 Press Release"
 +++

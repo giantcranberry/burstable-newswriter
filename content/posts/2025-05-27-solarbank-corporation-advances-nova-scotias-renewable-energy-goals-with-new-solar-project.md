@@ -8,6 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-solarb
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 84366
 feed_item_id = 14618
+url = "2025-05-27-solarbank-corporation-advances-nova-scotias-renewable-energy-goals-with-new-solar-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/gleeLjAX.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++
