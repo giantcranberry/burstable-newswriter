@@ -6,7 +6,6 @@ summary = "<p>Kin, a direct-to-consumer digital home insurance provider, has ann
 description = "Kin launches customized home insurance in Colorado, offering data-driven, affordable coverage tailored to the state's unique weather challenges and homeowner needs."
 source_link = "https://www.citybiz.co/article/708199/kin-launches-customized-home-insurance-in-colorado/"
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/55ff7392581496506d30d75d84130a14.png"
-featured = true
 article_id = 84446
 feed_item_id = 15832
 url = "2025-06-18-kin-expands-into-colorado-with-customized-home-insurance-solutions-for-severe-weather-challenges"
