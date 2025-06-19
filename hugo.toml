@@ -1,11 +1,11 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Building Texas Show News'
+baseURL ='
+languageCde = 'en-us'
+title = 'Newswriter Business and Technology News'
 theme = 'newsjockey-hugo'
 
 [params]
-  description = "Latest news and updates from Building Texas Show"
-  author = "Building Texas Show"
+  description = "Newswriter.ai Curated Business and Technology News"
+  author = "Newswriter Staff"
   
 [menu]
   [[menu.main]]
