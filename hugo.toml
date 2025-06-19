@@ -1,4 +1,4 @@
-baseURL =''
+baseURL ='http://newsworthy.ai'
 languageCde = 'en-us'
 title = 'Newswriter Business and Technology News'
 theme = 'newsjockey-hugo'
