@@ -1,813 +1,1126 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
 <head>
-	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.147.8"><script src="/news/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=news/livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Building Texas Show News</title>
+    <title>Newswriter Business and Technology News</title>
     
     
-    <meta name="description" content="Latest news and updates from Building Texas Show">
+    <meta name="description" content="Newswriter.ai Curated Business and Technology News">
     <meta name="keywords" content="news, breaking news, current events, analysis, journalism">
-    <meta name="author" content="Building Texas Show">
+    <meta name="author" content="Newswriter Staff">
     
     
-    <meta property="og:title" content="Building Texas Show News">
-    <meta property="og:description" content="Latest news and updates from Building Texas Show">
+    <meta property="og:title" content="Newswriter Business and Technology News">
+    <meta property="og:description" content="Newswriter.ai Curated Business and Technology News">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:1313/">
+    <meta property="og:url" content="http://localhost:1313/news/">
     
     
     
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Building Texas Show News">
-    <meta name="twitter:description" content="Latest news and updates from Building Texas Show">
+    <meta name="twitter:title" content="Newswriter Business and Technology News">
+    <meta name="twitter:description" content="Newswriter.ai Curated Business and Technology News">
     
     
-    <link rel="canonical" href="http://localhost:1313/">
+    <link rel="canonical" href="http://localhost:1313/news/">
     
     
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tailwindcss.com"></script>
     
     
-    <style>
-         
-        :root {
-          --primary: #3b82f6;
-          --primary-content: #ffffff;
-          --secondary: #64748b;
-          --accent: #f59e0b;
-          --neutral: #1f2937;
-          --base-100: #ffffff;
-          --base-200: #f8fafc;
-          --base-300: #e2e8f0;
-          --base-content: #1f2937;
-        }
-
-         
-        [data-theme="light"] {
-          --primary: #3b82f6;
-          --primary-content: #ffffff;
-          --secondary: #64748b;
-          --accent: #f59e0b;
-          --neutral: #1f2937;
-          --base-100: #ffffff;
-          --base-200: #f8fafc;
-          --base-300: #e2e8f0;
-          --base-content: #1f2937;
-          background-color: #ffffff;
-          color: #1f2937;
-        }
-
-         
-        [data-theme="dark"] {
-          --primary: #60a5fa;
-          --primary-content: #1e293b;
-          --secondary: #94a3b8;
-          --accent: #fbbf24;
-          --neutral: #f1f5f9;
-          --base-100: #1e293b;
-          --base-200: #334155;
-          --base-300: #475569;
-          --base-content: #d1d5db;
-          background-color: #1e293b;
-          color: #d1d5db;
-        }
-
-        html, body {
-          background-color: inherit;
-          color: inherit;
-        }
-
-        .nav-hover:hover {
-          background-color: var(--primary) !important;
-          color: var(--primary-content) !important;
-        }
-
-        .dropdown-content {
-          background-color: var(--base-100) !important;
-          border: 1px solid var(--base-300) !important;
-        }
-
-        .dropdown-item:hover {
-          background-color: var(--primary) !important;
-          color: var(--primary-content) !important;
-        }
-
-        .group:hover .group-hover\:block {
-          display: block !important;
-        }
-    </style>
     
+    <link rel="stylesheet" href="http://localhost:1313/news/css/main.min.a91d2a4774a8bf11b852a369bbb02ccccd66e5d4579847cf522248637572103e.css" integrity="sha256-qR0qR3SovxG4UqNpu7AszM1m5dRXmEfPUiJIY3VyED4=">
     
-    <script>
-        function toggleTheme() {
-            const html = document.documentElement;
-            const currentTheme = html.getAttribute('data-theme');
-            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-            html.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
-        }
-        
-        
-        document.addEventListener('DOMContentLoaded', function() {
-            const savedTheme = localStorage.getItem('theme') || 'light';
-            document.documentElement.setAttribute('data-theme', savedTheme);
-        });
-    </script>
 </head>
 <body class="min-h-screen bg-base-100">
     
-<div class="sticky top-0 z-50">
-  <div
-    class="navbar bg-base-100 shadow-lg px-4 flex justify-between items-center w-full"
-  >
-    
-    <div class="flex items-center">
-      <span class="text-3xl">📰</span>
-      <span class="text-2xl font-bold text-primary ml-2"
-        >Building Texas Show News</span
-      >
-    </div>
+<div class="bg-white border-b border-gray-200">
+  <div class="container mx-auto px-4 py-4">
+    <div class="flex items-center justify-between">
+      
+      <a href="/" class="flex items-center">
+        <img
+          src="https://newswriter.ai/logo.svg"
+          alt="Newswriter.ai"
+          class="h-8 w-auto"
+        />
+      </a>
 
-    
-    <div class="hidden lg:flex items-center space-x-2">
-      <a
-        href="/"
-        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
-        >Home</a
-      >
-
-      <div class="relative group">
-        <a
-          href="#"
-          tabindex="0"
-          role="button"
-          class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content cursor-pointer"
-        >
-          Categories ▼
-        </a>
-        <div
-          class="dropdown-content absolute top-full left-0 mt-1 w-48 bg-base-100 rounded-lg shadow-lg border border-base-300 py-2 z-50 hidden group-hover:block"
-        >
-          <a
-            href="/posts/"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >All Articles</a
+      
+      <div class="relative">
+        <div class="dropdown dropdown-end">
+          <div tabindex="0" role="button" class="btn btn-primary">
+            Write My Press Release
+            <svg
+              class="w-4 h-4 ml-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M19 9l-7 7-7-7"
+              ></path>
+            </svg>
+          </div>
+          <ul
+            tabindex="0"
+            class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
           >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Technology</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Business</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Sports</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Health</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Science</a
-          >
+            <li>
+              <a href="https://newswriter.ai" class="text-sm"
+                >Write New Press Release</a
+              >
+            </li>
+          </ul>
         </div>
       </div>
-
-      <a
-        href="#"
-        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
-        >About</a
-      >
-      <a
-        href="#"
-        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
-        >Contact</a
-      >
-    </div>
-
-    
-    <div class="flex gap-2">
-      <button
-        onclick="toggleTheme()"
-        class="btn btn-ghost btn-circle transition-all duration-200"
-        title="Toggle theme"
-      >
-        <span id="theme-icon">🌙</span>
-      </button>
     </div>
   </div>
 </div>
-
-<script>
-  
-  function updateThemeIcon() {
-    const currentTheme = document.documentElement.getAttribute("data-theme");
-    const icon = document.getElementById("theme-icon");
-    if (icon) {
-      icon.textContent = currentTheme === "light" ? "🌙" : "☀️";
-    }
-  }
-
-  
-  document.addEventListener("DOMContentLoaded", updateThemeIcon);
-
-  
-  const originalToggleTheme = window.toggleTheme;
-  window.toggleTheme = function () {
-    originalToggleTheme();
-    updateThemeIcon();
-  };
-</script>
 
     
     <main>
         
 
+<div class="min-h-screen py-8">
+  <div class="container mx-auto px-4">
+    
+    <div class="max-w-6xl mx-auto">
+      <div class="content-card p-6 mb-8">
+        <div class="flex justify-between items-center">
+          <h2 class="text-3xl font-bold text-gray-800">
+            Curated Business &amp; Technology News from Around the Internet
+          </h2>
+        </div>
+      </div>
 
-
-
-
-<div class="bg-base-100 min-h-screen">
-    <div class="container mx-auto px-4 py-8 grid grid-cols-1 lg:grid-cols-4 gap-8">
-        
-        <div class="lg:col-span-3">
-            <div class="flex justify-between items-center mb-8">
-                <h2 class="text-3xl font-bold">Latest News</h2>
+      
+      
+      
+       
+      <div class="mb-8">
+        <div class="card bg-base-100 shadow-xl rounded-xl overflow-hidden">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-0">
+            <div class="relative">
+              <img src="https://cdn.newsramp.app/banners/technology-3.jpg" alt="Amazon and The New York Times Forge Pioneering AI Content Partnership" class="w-full h-64 lg:h-full
+              object-cover">
+              <span
+                class="badge badge-secondary-content badge-lg absolute top-4 left-4"
+                >FEATURED</span
+              >
             </div>
-            
-            
-            
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-                
-                <a href="http://localhost:1313/posts/2025-06-15-attorney-michael-simcoe-achieves-prestigious-board-certification-in-personal-injury-trial-law/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/legal-3.jpg" 
-                                 alt="Attorney Michael Simcoe Achieves Prestigious Board Certification in Personal Injury Trial Law" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Attorney Michael Simcoe Achieves Prestigious Board Certification in Personal Injury Trial Law</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Terry Bryant Accident & Injury Law proudly announces that attorney Michael Simcoe has earned Board Certification in Personal Injury Trial Law by the …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-rare-1989-aston-martin-lagonda-showcased-at-dfw-car-toy-museum/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/events-3.jpg" 
-                                 alt="Rare 1989 Aston Martin Lagonda Showcased at DFW Car &amp; Toy Museum" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Rare 1989 Aston Martin Lagonda Showcased at DFW Car &amp; Toy Museum</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    The 1989 Aston Martin Lagonda, a symbol of luxury and innovation, is now on display at the DFW Car & Toy Museum in Texas. This rare sedan features …
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-dr-felix-liao-inducted-into-asba-hall-of-fame-for-pioneering-dental-sleep-medicine/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/health-wellness-2.jpg" 
-                                 alt="Dr. Felix Liao Inducted into ASBA Hall of Fame for Pioneering Dental Sleep Medicine" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Dr. Felix Liao Inducted into ASBA Hall of Fame for Pioneering Dental Sleep Medicine</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    Dr. Felix Liao, DDS, has been inducted into the American Sleep and Breathing Academy Hall of Fame for his pioneering work in airway dentistry and …
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-rare-1914-benz-1845-four-passenger-runabout-showcases-early-automotive-innovation-at-dfw-car-toy-museum/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/local-regional-2.jpg" 
-                                 alt="Rare 1914 Benz 18/45 Four Passenger Runabout Showcases Early Automotive Innovation at DFW Car &amp; Toy Museum" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Rare 1914 Benz 18/45 Four Passenger Runabout Showcases Early Automotive Innovation at DFW Car &amp; Toy Museum</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>The DFW Car & Toy Museum showcases the rare 1914 Benz 18/45 Four Passenger Runabout from the Ron Sturgeon Collection, highlighting the luxury motoring …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-g6-hospitality-expands-corporate-client-base-driving-economic-growth-in-texas/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/travel-1.jpg" 
-                                 alt="G6 Hospitality Expands Corporate Client Base, Driving Economic Growth in Texas" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">G6 Hospitality Expands Corporate Client Base, Driving Economic Growth in Texas</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>G6 Hospitality has added over 150 corporate clients in 2025, securing major accounts across industries like Construction, Transportation, Agriculture, …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-trusty-garage-door-repair-elevates-home-safety-and-convenience-in-dallas-fort-worth/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/press-services/newsimage/bee6450455e3e28251d3be52a4bb81b6.jpg" 
-                                 alt="Trusty Garage Door Repair Elevates Home Safety and Convenience in Dallas-Fort Worth" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Trusty Garage Door Repair Elevates Home Safety and Convenience in Dallas-Fort Worth</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Trusty Garage Door Repair offers comprehensive garage door installation and repair services in the Dallas-Fort Worth area, focusing on swift responses …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-rare-2002-bentley-azure-joins-dfw-car-toy-museums-prestigious-collection/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/events-3.jpg" 
-                                 alt="Rare 2002 Bentley Azure Joins DFW Car &amp; Toy Museum&#39;s Prestigious Collection" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Rare 2002 Bentley Azure Joins DFW Car &amp; Toy Museum&#39;s Prestigious Collection</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>The DFW Car & Toy Museum unveils the 2002 Bentley Azure, a luxury convertible showcasing sophistication and craftsmanship. Developed in collaboration …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-innovative-strategies-for-climate-change-the-get-real-alliances-approach-to-planetary-restoration/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/environment-energy-3.jpg" 
-                                 alt="Innovative Strategies for Climate Change: The Get Real Alliance&#39;s Approach to Planetary Restoration" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Innovative Strategies for Climate Change: The Get Real Alliance&#39;s Approach to Planetary Restoration</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>The founder of The Get Real Alliance, David Munson Jr., is leading a movement to address climate change with practical solutions outlined in his book, …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-2gmotors-llc-transforms-car-buying-experience-with-innovative-online-platform/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" 
-                                 alt="2GMotors LLC Transforms Car Buying Experience with Innovative Online Platform" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">2GMotors LLC Transforms Car Buying Experience with Innovative Online Platform</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>2GMotors LLC has launched online promotions to make car shopping easier, faster, and more rewarding. Customers can browse vehicles, access exclusive …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-            </div>
-            
-            
-            
-            <div class="flex flex-col justify-center py-8">
-                <div class="text-center mb-4">
-                    <p class="text-sm text-base-content opacity-70">
-                        Showing 19 of 27 pages
-                    </p>
+            <div class="p-6 flex flex-col justify-center">
+              <a href="http://localhost:1313/news/posts/2025-05-29-amazon-and-the-new-york-times-forge-pioneering-ai-content-partnership/" class="no-underline">
+                <h1
+                  class="text-2xl lg:text-3xl font-bold text-base-content leading-tight mb-4 hover:text-primary transition-colors duration-200"
+                >
+                  Amazon and The New York Times Forge Pioneering AI Content Partnership
+                </h1>
+              </a>
+              
+              <div
+                class="text-base text-base-content opacity-80 mb-4 leading-relaxed [&>p]:mb-3"
+              >
+                Amazon.com and The New York Times Co. have entered into a multi-year licensing agreement, allowing Amazon to use NYT content in its AI products. This deal marks the Times' first venture into …
+              </div>
+              
+              <div class="flex items-center justify-between">
+                <div
+                  class="flex items-center text-sm text-base-content opacity-60"
+                >
+                  
+                  <a
+                    href="https://rss.investorbrandnetwork.com/iw/investornewsbreaks-amazon-com-inc-nasdaq-amzn-and-the-new-york-times-co-nyse-nyt-forge-ai-content-licensing-agreement/"
+                    target="_blank"
+                    class="text-primary hover:underline"
+                    >Source</a
+                  >
+                  <span class="mx-2">•</span>
+                  
+                  <span>May 29, 2025</span>
                 </div>
-                <div class="join flex justify-center items-center gap-4">
-                    
-                    <a href="/page/18/" class="btn btn-outline">« Previous</a>
-                    
-                    
-                    <div class="flex gap-2 items-center">
-                        
-                        
-                        <a href="/" class="btn btn-outline">1</a>
-                        
-                        
-                        
-                        <a href="/page/2/" class="btn btn-outline">2</a>
-                        
-                        
-                        
-                        <a href="/page/3/" class="btn btn-outline">3</a>
-                        
-                        
-                        
-                        <a href="/page/4/" class="btn btn-outline">4</a>
-                        
-                        
-                        
-                        <a href="/page/5/" class="btn btn-outline">5</a>
-                        
-                        
-                        
-                        <a href="/page/6/" class="btn btn-outline">6</a>
-                        
-                        
-                        
-                        <a href="/page/7/" class="btn btn-outline">7</a>
-                        
-                        
-                        
-                        <a href="/page/8/" class="btn btn-outline">8</a>
-                        
-                        
-                        
-                        <a href="/page/9/" class="btn btn-outline">9</a>
-                        
-                        
-                        
-                        <a href="/page/10/" class="btn btn-outline">10</a>
-                        
-                        
-                        
-                        <a href="/page/11/" class="btn btn-outline">11</a>
-                        
-                        
-                        
-                        <a href="/page/12/" class="btn btn-outline">12</a>
-                        
-                        
-                        
-                        <a href="/page/13/" class="btn btn-outline">13</a>
-                        
-                        
-                        
-                        <a href="/page/14/" class="btn btn-outline">14</a>
-                        
-                        
-                        
-                        <a href="/page/15/" class="btn btn-outline">15</a>
-                        
-                        
-                        
-                        <a href="/page/16/" class="btn btn-outline">16</a>
-                        
-                        
-                        
-                        <a href="/page/17/" class="btn btn-outline">17</a>
-                        
-                        
-                        
-                        <a href="/page/18/" class="btn btn-outline">18</a>
-                        
-                        
-                        
-                        <span class="btn btn-primary">19</span>
-                        
-                        
-                        
-                        <a href="/page/20/" class="btn btn-outline">20</a>
-                        
-                        
-                        
-                        <a href="/page/21/" class="btn btn-outline">21</a>
-                        
-                        
-                        
-                        <a href="/page/22/" class="btn btn-outline">22</a>
-                        
-                        
-                        
-                        <a href="/page/23/" class="btn btn-outline">23</a>
-                        
-                        
-                        
-                        <a href="/page/24/" class="btn btn-outline">24</a>
-                        
-                        
-                        
-                        <a href="/page/25/" class="btn btn-outline">25</a>
-                        
-                        
-                        
-                        <a href="/page/26/" class="btn btn-outline">26</a>
-                        
-                        
-                        
-                        <a href="/page/27/" class="btn btn-outline">27</a>
-                        
-                        
-                    </div>
-                    
-                    
-                    <a href="/page/20/" class="btn btn-outline">Next »</a>
-                    
-                </div>
+                <a
+                  href="http://localhost:1313/news/posts/2025-05-29-amazon-and-the-new-york-times-forge-pioneering-ai-content-partnership/"
+                  class="btn btn-primary btn-sm"
+                >
+                  Read More
+                </a>
+              </div>
             </div>
+          </div>
+        </div>
+      </div>
+      
+
+      
+       
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+         
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-match-groups-strategic-realignments-spark-investor-confidence-amid-digital-dating-boom/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/finance-2.jpg" alt="Match Group&#39;s Strategic Realignments Spark Investor Confidence Amid Digital Dating Boom" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Match Group&#39;s Strategic Realignments Spark Investor Confidence Amid Digital Dating Boom
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Match Group (NASDAQ: MTCH), the parent company of popular dating platforms like Tinder and Hinge, is gaining investor interest with positive analyst …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-sprout-social-inc-garners-analyst-confidence-amid-market-challenges/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg" alt="Sprout Social Inc. Garners Analyst Confidence Amid Market Challenges" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Sprout Social Inc. Garners Analyst Confidence Amid Market Challenges
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Sprout Social (NASDAQ: SPT), a leading provider of cloud-based social media management solutions, receives a reiterated 'Buy' rating from Needham …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-tiny-ltd-expands-into-audio-software-industry-with-strategic-acquisition-of-serato-audio-research/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Tiny Ltd. Expands into Audio Software Industry with Strategic Acquisition of Serato Audio Research" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Tiny Ltd. Expands into Audio Software Industry with Strategic Acquisition of Serato Audio Research
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Roth Canada acts as the exclusive financial advisor to Tiny Ltd. on the acquisition of a majority stake in Serato Audio Research. The deal is valued …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-d-wave-quantum-inc-reports-509-revenue-surge-in-q1-2025-marking-a-milestone-in-quantum-computing-adoption/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/frontier-tech-2.jpg" alt="D-Wave Quantum Inc. Reports 509% Revenue Surge in Q1 2025, Marking a Milestone in Quantum Computing Adoption" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  D-Wave Quantum Inc. Reports 509% Revenue Surge in Q1 2025, Marking a Milestone in Quantum Computing Adoption
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>D-Wave reported a significant increase in Q1 2025 revenue, reaching $15 million, a 509% year-over-year growth. The surge was attributed to the sale of …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-irish-high-court-ruling-on-reddit-and-tumblr-sets-precedent-for-digital-platform-regulation/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/media-2.jpg" alt="Irish High Court Ruling on Reddit and Tumblr Sets Precedent for Digital Platform Regulation" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Irish High Court Ruling on Reddit and Tumblr Sets Precedent for Digital Platform Regulation
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>The High Court in Ireland has rejected legal challenges from Reddit and Tumblr, upholding the country’s media authority's classification of them as …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-four-seasons-unveils-luxury-residential-project-in-miamis-coconut-grove/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg" alt="Four Seasons Unveils Luxury Residential Project in Miami&#39;s Coconut Grove" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Four Seasons Unveils Luxury Residential Project in Miami&#39;s Coconut Grove
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>The first private residence of the Four Seasons in Coconut Grove, Miami, developed by CMC Group and Fort Partners, offers a unique living experience …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-brera-holdings-plc-and-toronto-blizzard-corp-forge-global-youth-soccer-development-partnership/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/events-3.jpg" alt="Brera Holdings PLC and Toronto Blizzard Corp. Forge Global Youth Soccer Development Partnership" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Brera Holdings PLC and Toronto Blizzard Corp. Forge Global Youth Soccer Development Partnership
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Brera Holdings (NASDAQ: BREA) has entered into a new advisory agreement with Toronto Blizzard Corp. to launch an international grassroots development …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-arkansas-approves-landmark-lithium-royalty-rate-paving-the-way-for-domestic-production/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Arkansas Approves Landmark Lithium Royalty Rate, Paving the Way for Domestic Production" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Arkansas Approves Landmark Lithium Royalty Rate, Paving the Way for Domestic Production
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Standard Lithium (NYSE American: SLI), in partnership with Equinor, received approval for a 2.5% lithium royalty rate for the Reynolds Unit in Phase I …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-vivakor-inc-reports-stellar-q1-2025-financial-growth-with-strategic-acquisitions-driving-revenue/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/environment-energy-2.jpg" alt="Vivakor, Inc. Reports Stellar Q1 2025 Financial Growth with Strategic Acquisitions Driving Revenue" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Vivakor, Inc. Reports Stellar Q1 2025 Financial Growth with Strategic Acquisitions Driving Revenue
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Vivakor (NASDAQ: VIVK) reported a 133% year-over-year revenue increase to $37.3 million and a 345% jump in gross profit to $4.8 million for the first …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-skyx-platforms-corp-set-to-transform-smart-home-technology-with-major-miami-project-and-stock-market-inclusion/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-1.jpg" alt="SKYX Platforms Corp. Set to Transform Smart Home Technology with Major Miami Project and Stock Market Inclusion" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  SKYX Platforms Corp. Set to Transform Smart Home Technology with Major Miami Project and Stock Market Inclusion
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>SKYX Platforms (NASDAQ: SKYX) will deploy over 500,000 smart home devices in a $3 billion mixed-use development in Miami’s Little River District as …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-ucore-rare-metals-inc-launches-strategic-metals-complex-in-louisiana-to-bolster-domestic-rare-earth-production/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="Ucore Rare Metals Inc. Launches Strategic Metals Complex in Louisiana to Bolster Domestic Rare Earth Production" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Ucore Rare Metals Inc. Launches Strategic Metals Complex in Louisiana to Bolster Domestic Rare Earth Production
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Ucore Rare Metals (TSXV: UCU) (OTCQX: UURAF) will host a ground-breaking ceremony for its Louisiana Strategic Metals Complex, using RapidSX(TM) …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-jive-pr-digital-expands-portfolio-with-high-profile-clients-showcasing-innovative-marketing-strategies/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg" alt="Jive PR &#43; Digital Expands Portfolio with High-Profile Clients, Showcasing Innovative Marketing Strategies" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Jive PR &#43; Digital Expands Portfolio with High-Profile Clients, Showcasing Innovative Marketing Strategies
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p><a href="https://jiveprdigital.com"><u>Jive PR + Digital</u></a>, an award-winning agency, announces new client accounts and culture-driving campaigns. Their approach combines storytelling with …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-ecgi-holdings-launches-uplist-ventures-to-support-sustainable-startup-growth/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/technology-1.jpg" alt="ECGI Holdings Launches Uplist Ventures to Support Sustainable Startup Growth" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  ECGI Holdings Launches Uplist Ventures to Support Sustainable Startup Growth
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>ECGI Holdings (OTC: ECGI) has launched Uplist Ventures, a new initiative targeting overlooked, revenue-generating startups with long-term public …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-perfect-moment-ltd-and-bwt-alpine-formula-one-team-unveil-high-speed-racing-and-alpine-sports-clothing-collection/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/travel-1.jpg" alt="Perfect Moment Ltd. and BWT Alpine Formula One Team Unveil High-Speed Racing and Alpine Sports Clothing Collection" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Perfect Moment Ltd. and BWT Alpine Formula One Team Unveil High-Speed Racing and Alpine Sports Clothing Collection
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Formula 1's popularity is skyrocketing in the US, with a 10.5% fanbase growth between 2023 and 2024, thanks to media exposure and cultural relevance. …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-troy-university-partners-with-thelinku-to-empower-student-athletes-in-the-nil-era/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/sports-2.jpg" alt="Troy University Partners with TheLinkU to Empower Student-Athletes in the NIL Era" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Troy University Partners with TheLinkU to Empower Student-Athletes in the NIL Era
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>TheLinkU partners with Trojans Together Collective and Troy University to maximize NIL opportunities for student-athletes. The partnership includes …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-beeline-holdings-introduces-ai-sales-agent-to-revolutionize-mortgage-lead-conversion/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/finance-1.jpg" alt="Beeline Holdings Introduces AI Sales Agent to Revolutionize Mortgage Lead Conversion" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Beeline Holdings Introduces AI Sales Agent to Revolutionize Mortgage Lead Conversion
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Beeline Holdings announced the launch of MagicBlocks' One-Click AI Sales Agent tool for mortgage lenders and brokers, enabling quick deployment of …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-mullen-automotive-announces-1-for-100-reverse-stock-split-to-maintain-nasdaq-listing/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/environment-energy-1.jpg" alt="Mullen Automotive Announces 1-for-100 Reverse Stock Split to Maintain Nasdaq Listing" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Mullen Automotive Announces 1-for-100 Reverse Stock Split to Maintain Nasdaq Listing
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Mullen Automotive (NASDAQ: MULN) announced a 1-for-100 reverse stock split to regain compliance with Nasdaq's bid price requirement. The split will …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-strategic-partnership-aims-to-boost-green-hydrogen-production-in-iberia/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Strategic Partnership Aims to Boost Green Hydrogen Production in Iberia" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Strategic Partnership Aims to Boost Green Hydrogen Production in Iberia
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Fusion Fuel Green (Nasdaq: HTOO) announced a strategic agency and partnership agreement with Sungrow Hydrogen through its subsidiary, BrightHy …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-nano-nuclear-energy-inc-secures-105-million-to-fuel-microreactor-development-and-space-applications/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/finance-2.jpg" alt="NANO Nuclear Energy Inc. Secures $105 Million to Fuel Microreactor Development and Space Applications" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  NANO Nuclear Energy Inc. Secures $105 Million to Fuel Microreactor Development and Space Applications
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>NANO Nuclear Energy (NASDAQ: NNE) has secured a $105 million private placement deal with institutional investors, selling nearly 4 million shares of …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-onar-holding-corps-innovative-marketing-strategy-targets-middle-market-growth/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/frontier-tech-3.jpg" alt="ONAR Holding Corp&#39;s Innovative Marketing Strategy Targets Middle-Market Growth" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  ONAR Holding Corp&#39;s Innovative Marketing Strategy Targets Middle-Market Growth
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>ONAR (OTCQB: ONAR) CEO Claude Zdanow discussed the company's mission to help middle-market businesses with AI-powered marketing solutions in a recent …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-infrastructure-capital-small-cap-income-etf-scap-outperforms-in-turbulent-market/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/finance-1.jpg" alt="Infrastructure Capital Small Cap Income ETF (SCAP) Outperforms in Turbulent Market" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Infrastructure Capital Small Cap Income ETF (SCAP) Outperforms in Turbulent Market
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>President Donald Trump’s Liberation Day initiative, which included new tariffs, caused a 2.7% drop in the Dow Jones Industrial Average, impacting …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-sky-harbour-group-reports-133-revenue-surge-in-q1-2025-expands-aviation-infrastructure/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/786ff9d3ba288070b9e343cf5a6ecc96.png" alt="Sky Harbour Group Reports 133% Revenue Surge in Q1 2025, Expands Aviation Infrastructure" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Sky Harbour Group Reports 133% Revenue Surge in Q1 2025, Expands Aviation Infrastructure
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Sky Harbour Group Corp. (NYSE: SKYH) continues to demonstrate strong momentum in 1Q25 with expanding aviation infrastructure footprint and operational …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-vuereal-and-aca-tmetrix-partnership-set-to-revolutionize-microled-technology-adoption-in-canada/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/reportable/newsimage/05bffd38c7945ec9314c36a56f192acf.png" alt="VueReal and ACA TMetrix Partnership Set to Revolutionize MicroLED Technology Adoption in Canada" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  VueReal and ACA TMetrix Partnership Set to Revolutionize MicroLED Technology Adoption in Canada
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>VueReal partners with ACA TMetrix to distribute Reference Design Kits (RDKs) and microLED evaluation platforms in Canada, accelerating the adoption of …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-comcasts-fiber-internet-expansion-to-revolutionize-bryan-college-station-connectivity/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/news-direct/newsimage/c1cb93b7e4a1299480d8c38f537cbc9e.jpg" alt="Comcast&#39;s Fiber Internet Expansion to Revolutionize Bryan-College Station Connectivity" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Comcast&#39;s Fiber Internet Expansion to Revolutionize Bryan-College Station Connectivity
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Comcast will connect 70,000 new homes and businesses in Bryan-College Station to fast, secure and reliable, fiber Internet. This expansion into the …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-glowissima-a-new-clean-skincare-brand-redefining-beauty-standards-with-nature-inspired-products/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/news-direct/newsimage/d1bd390df72dfdf7fe7a47b62a187ea1.jpg" alt="Glowissima: A New Clean Skincare Brand Redefining Beauty Standards with Nature-Inspired Products" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Glowissima: A New Clean Skincare Brand Redefining Beauty Standards with Nature-Inspired Products
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Glowissima, a new clean skincare brand, has been launched by Cynthia Bailey and Dana Hill-Robinson. The brand focuses on empowering individuals to …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-dubais-car-garage-expert-enhances-vehicle-longevity-with-specialized-oil-change-services/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="Dubai&#39;s Car Garage Expert Enhances Vehicle Longevity with Specialized Oil Change Services" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Dubai&#39;s Car Garage Expert Enhances Vehicle Longevity with Specialized Oil Change Services
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Car Garage Expert offers top-quality car engine oil change services in Dubai, performed by skilled technicians using premium-grade oils. The goal is …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-05-29-dubais-car-garage-expert-revolutionizes-automotive-care-with-advanced-restoration-services/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="Dubai&#39;s Car Garage Expert Revolutionizes Automotive Care with Advanced Restoration Services" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Dubai&#39;s Car Garage Expert Revolutionizes Automotive Care with Advanced Restoration Services
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Car Garage Expert in Dubai is revolutionizing automotive care with its top-notch car body shop and detailing services, catering to a wide range of …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  May 29, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+         
+      </div>
+      
+
+      
+      
+      <div class="content-card p-6">
+        <div class="flex flex-col justify-center">
+          <div class="text-center mb-6">
+            <p class="text-sm text-gray-600">
+              Showing 28 of 715 articles (Page 19 of 26)
+            </p>
+          </div>
+          <div class="flex justify-center items-center gap-2">
             
             
-        </div>
-        
-        
-        <div class="lg:col-span-1">
+            <a href="/news/page/18/" class="btn btn-outline btn-sm">
+              <svg
+                class="w-4 h-4 mr-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
+                ></path>
+              </svg>
+              Previous
+            </a>
             
-<div class="lg:sticky lg:top-24">
-  <h2 class="text-2xl font-bold mb-6">Trending Stories</h2>
-  <div class="space-y-2">
-     
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="YETI Holdings Strengthens Investor Relations with New Vice President Appointment" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-yeti-holdings-strengthens-investor-relations-with-new-vice-president-appointment/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              YETI Holdings Strengthens Investor Relations with New Vice President Appointment
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
+
+            
+            <div class="flex gap-1 mx-4">
+              
+              
+              <a
+                href="/news/"
+                class="btn btn-outline btn-sm"
+                >1</a
+              >
+              
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+               
+
+              
+              
+              <a href="/news/page/18/" class="btn btn-outline btn-sm"
+                >18</a
+              >
+              
+
+              
+              <span class="btn btn-primary btn-sm"
+                >19</span
+              >
+
+              
+              
+              <a href="/news/page/20/" class="btn btn-outline btn-sm"
+                >20</a
+              >
+              
+
+              
+               
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+              
+              <a href="/news/page/26/" class="btn btn-outline btn-sm"
+                >26</a
+              >
+              
+            </div>
+
+            
+            
+            <a href="/news/page/20/" class="btn btn-outline btn-sm">
+              Next
+              <svg
+                class="w-4 h-4 ml-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                ></path>
+              </svg>
+            </a>
+            
           </div>
         </div>
       </div>
+       
     </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/banners/startup-news-3.jpg" alt="Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-das-greenhaus-strengthens-leadership-team-to-boost-kendall-countys-entrepreneurial-ecosystem/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/reportable/newsimage/98521815a2c4c4b374aee6db5a4f09e0.png" alt="Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-bio-path-holdings-advances-rnai-therapeutics-with-promising-treatments-for-cancer-and-metabolic-diseases/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/genai/images/256/18/9c4b606dda91b11c0d590a295ea12f2c.png" alt="Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-salon-and-spa-galleria-empowers-tenants-with-free-marketing-workshops-in-texas/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/genai/images/256/18/6ae6d87b3bb1101560ae573200530d8e.png" alt="Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-brisa-therapeutics-highlights-the-healing-power-of-texas-deserts-on-mental-health/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
   </div>
-</div>
-
-        </div>
-    </div>
 </div>
 
     </main>
     
     
-<footer class="bg-neutral text-neutral-content">
-  <div class="container mx-auto px-4 py-12">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-      <div class="mb-8 lg:mb-0">
-        <div class="flex items-center mb-4">
-          <span class="text-2xl">📰</span>
-          <span class="text-xl font-bold ml-2">Building Texas Show News</span>
-        </div>
-        <p class="text-gray-400 max-w-xs">
-          Latest news and updates from Building Texas Show
+<footer class="text-white">
+  <div class="container mx-auto px-4 py-6">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="flex items-center gap-4">
+        <p class="text-sm">
+          Newswriter.ai © 2025 All Rights Reserved
         </p>
-      </div>
-
-      <div>
-        <h3 class="footer-title text-white mb-4">Quick Links</h3>
-        <ul class="space-y-2">
-          <li>
-            <a
-              href="/"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Home</a
-            >
-          </li>
-          <li>
-            <a
-              href="/posts/"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Articles</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >About</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Contact</a
-            >
-          </li>
-        </ul>
-      </div>
-
-      <div>
-        <h3 class="footer-title text-white mb-4">Categories</h3>
-        <ul class="space-y-2">
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Technology</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Business</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Sports</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Health</a
-            >
-          </li>
-        </ul>
-      </div>
-
-      <div>
-        <h3 class="footer-title text-white mb-4">Follow Us</h3>
-        <div class="flex gap-2">
-          <a href="#" class="btn btn-outline btn-sm">Twitter</a>
-          <a href="#" class="btn btn-outline btn-sm">Facebook</a>
-          <a href="#" class="btn btn-outline btn-sm">LinkedIn</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="border-t border-gray-700 pt-8 mt-8">
-      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
-        <p class="text-gray-400">
-          © 2025 Building Texas Show News. All rights reserved.
-        </p>
-        <div class="flex gap-4">
-          <a href="#" class="link link-hover text-gray-400">Privacy Policy</a>
-          <a href="#" class="link link-hover text-gray-400">Terms of Service</a>
-        </div>
+        <a
+          href="https://newswriter.ai/privacy-policy"
+          class="text-sm hover:text-cyan-200 transition-colors"
+          >Privacy Policy</a
+        >
+        <a
+          href="https://newswriter.ai/terms-of-service"
+          class="text-sm hover:text-cyan-200 transition-colors"
+          >Terms of Service</a
+        >
       </div>
     </div>
   </div>

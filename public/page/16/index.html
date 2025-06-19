@@ -1,813 +1,1126 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
 <head>
-	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.147.8"><script src="/news/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=news/livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Building Texas Show News</title>
+    <title>Newswriter Business and Technology News</title>
     
     
-    <meta name="description" content="Latest news and updates from Building Texas Show">
+    <meta name="description" content="Newswriter.ai Curated Business and Technology News">
     <meta name="keywords" content="news, breaking news, current events, analysis, journalism">
-    <meta name="author" content="Building Texas Show">
+    <meta name="author" content="Newswriter Staff">
     
     
-    <meta property="og:title" content="Building Texas Show News">
-    <meta property="og:description" content="Latest news and updates from Building Texas Show">
+    <meta property="og:title" content="Newswriter Business and Technology News">
+    <meta property="og:description" content="Newswriter.ai Curated Business and Technology News">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:1313/">
+    <meta property="og:url" content="http://localhost:1313/news/">
     
     
     
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Building Texas Show News">
-    <meta name="twitter:description" content="Latest news and updates from Building Texas Show">
+    <meta name="twitter:title" content="Newswriter Business and Technology News">
+    <meta name="twitter:description" content="Newswriter.ai Curated Business and Technology News">
     
     
-    <link rel="canonical" href="http://localhost:1313/">
+    <link rel="canonical" href="http://localhost:1313/news/">
     
     
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tailwindcss.com"></script>
     
     
-    <style>
-         
-        :root {
-          --primary: #3b82f6;
-          --primary-content: #ffffff;
-          --secondary: #64748b;
-          --accent: #f59e0b;
-          --neutral: #1f2937;
-          --base-100: #ffffff;
-          --base-200: #f8fafc;
-          --base-300: #e2e8f0;
-          --base-content: #1f2937;
-        }
-
-         
-        [data-theme="light"] {
-          --primary: #3b82f6;
-          --primary-content: #ffffff;
-          --secondary: #64748b;
-          --accent: #f59e0b;
-          --neutral: #1f2937;
-          --base-100: #ffffff;
-          --base-200: #f8fafc;
-          --base-300: #e2e8f0;
-          --base-content: #1f2937;
-          background-color: #ffffff;
-          color: #1f2937;
-        }
-
-         
-        [data-theme="dark"] {
-          --primary: #60a5fa;
-          --primary-content: #1e293b;
-          --secondary: #94a3b8;
-          --accent: #fbbf24;
-          --neutral: #f1f5f9;
-          --base-100: #1e293b;
-          --base-200: #334155;
-          --base-300: #475569;
-          --base-content: #d1d5db;
-          background-color: #1e293b;
-          color: #d1d5db;
-        }
-
-        html, body {
-          background-color: inherit;
-          color: inherit;
-        }
-
-        .nav-hover:hover {
-          background-color: var(--primary) !important;
-          color: var(--primary-content) !important;
-        }
-
-        .dropdown-content {
-          background-color: var(--base-100) !important;
-          border: 1px solid var(--base-300) !important;
-        }
-
-        .dropdown-item:hover {
-          background-color: var(--primary) !important;
-          color: var(--primary-content) !important;
-        }
-
-        .group:hover .group-hover\:block {
-          display: block !important;
-        }
-    </style>
     
+    <link rel="stylesheet" href="http://localhost:1313/news/css/main.min.a91d2a4774a8bf11b852a369bbb02ccccd66e5d4579847cf522248637572103e.css" integrity="sha256-qR0qR3SovxG4UqNpu7AszM1m5dRXmEfPUiJIY3VyED4=">
     
-    <script>
-        function toggleTheme() {
-            const html = document.documentElement;
-            const currentTheme = html.getAttribute('data-theme');
-            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-            html.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
-        }
-        
-        
-        document.addEventListener('DOMContentLoaded', function() {
-            const savedTheme = localStorage.getItem('theme') || 'light';
-            document.documentElement.setAttribute('data-theme', savedTheme);
-        });
-    </script>
 </head>
 <body class="min-h-screen bg-base-100">
     
-<div class="sticky top-0 z-50">
-  <div
-    class="navbar bg-base-100 shadow-lg px-4 flex justify-between items-center w-full"
-  >
-    
-    <div class="flex items-center">
-      <span class="text-3xl">📰</span>
-      <span class="text-2xl font-bold text-primary ml-2"
-        >Building Texas Show News</span
-      >
-    </div>
+<div class="bg-white border-b border-gray-200">
+  <div class="container mx-auto px-4 py-4">
+    <div class="flex items-center justify-between">
+      
+      <a href="/" class="flex items-center">
+        <img
+          src="https://newswriter.ai/logo.svg"
+          alt="Newswriter.ai"
+          class="h-8 w-auto"
+        />
+      </a>
 
-    
-    <div class="hidden lg:flex items-center space-x-2">
-      <a
-        href="/"
-        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
-        >Home</a
-      >
-
-      <div class="relative group">
-        <a
-          href="#"
-          tabindex="0"
-          role="button"
-          class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content cursor-pointer"
-        >
-          Categories ▼
-        </a>
-        <div
-          class="dropdown-content absolute top-full left-0 mt-1 w-48 bg-base-100 rounded-lg shadow-lg border border-base-300 py-2 z-50 hidden group-hover:block"
-        >
-          <a
-            href="/posts/"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >All Articles</a
+      
+      <div class="relative">
+        <div class="dropdown dropdown-end">
+          <div tabindex="0" role="button" class="btn btn-primary">
+            Write My Press Release
+            <svg
+              class="w-4 h-4 ml-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M19 9l-7 7-7-7"
+              ></path>
+            </svg>
+          </div>
+          <ul
+            tabindex="0"
+            class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
           >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Technology</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Business</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Sports</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Health</a
-          >
-          <a
-            href="#"
-            class="block px-4 py-2 dropdown-item transition-all duration-200 text-base-content"
-            >Science</a
-          >
+            <li>
+              <a href="https://newswriter.ai" class="text-sm"
+                >Write New Press Release</a
+              >
+            </li>
+          </ul>
         </div>
       </div>
-
-      <a
-        href="#"
-        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
-        >About</a
-      >
-      <a
-        href="#"
-        class="px-4 py-2 rounded-md nav-hover transition-all duration-200 text-base-content"
-        >Contact</a
-      >
-    </div>
-
-    
-    <div class="flex gap-2">
-      <button
-        onclick="toggleTheme()"
-        class="btn btn-ghost btn-circle transition-all duration-200"
-        title="Toggle theme"
-      >
-        <span id="theme-icon">🌙</span>
-      </button>
     </div>
   </div>
 </div>
-
-<script>
-  
-  function updateThemeIcon() {
-    const currentTheme = document.documentElement.getAttribute("data-theme");
-    const icon = document.getElementById("theme-icon");
-    if (icon) {
-      icon.textContent = currentTheme === "light" ? "🌙" : "☀️";
-    }
-  }
-
-  
-  document.addEventListener("DOMContentLoaded", updateThemeIcon);
-
-  
-  const originalToggleTheme = window.toggleTheme;
-  window.toggleTheme = function () {
-    originalToggleTheme();
-    updateThemeIcon();
-  };
-</script>
 
     
     <main>
         
 
+<div class="min-h-screen py-8">
+  <div class="container mx-auto px-4">
+    
+    <div class="max-w-6xl mx-auto">
+      <div class="content-card p-6 mb-8">
+        <div class="flex justify-between items-center">
+          <h2 class="text-3xl font-bold text-gray-800">
+            Curated Business &amp; Technology News from Around the Internet
+          </h2>
+        </div>
+      </div>
 
-
-
-
-<div class="bg-base-100 min-h-screen">
-    <div class="container mx-auto px-4 py-8 grid grid-cols-1 lg:grid-cols-4 gap-8">
-        
-        <div class="lg:col-span-3">
-            <div class="flex justify-between items-center mb-8">
-                <h2 class="text-3xl font-bold">Latest News</h2>
+      
+      
+      
+       
+      <div class="mb-8">
+        <div class="card bg-base-100 shadow-xl rounded-xl overflow-hidden">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-0">
+            <div class="relative">
+              <img src="https://cdn.newsramp.app/banners/finance-1.jpg" alt="Riot Platforms Strengthens Leadership Team with Appointment of Jonathan Gibbs as Chief Data Center Officer" class="w-full h-64 lg:h-full
+              object-cover">
+              <span
+                class="badge badge-secondary-content badge-lg absolute top-4 left-4"
+                >FEATURED</span
+              >
             </div>
-            
-            
-            
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-                
-                <a href="http://localhost:1313/posts/2025-06-15-douglas-a-gosselins-pawn-to-kings-end-sheds-light-on-acadian-expulsion-through-historical-fiction/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/books-publishing-1.jpg" 
-                                 alt="Douglas A. Gosselin&#39;s &#39;Pawn to King&#39;s End&#39; Sheds Light on Acadian Expulsion Through Historical Fiction" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Douglas A. Gosselin&#39;s &#39;Pawn to King&#39;s End&#39; Sheds Light on Acadian Expulsion Through Historical Fiction</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Pawn to King's End, a captivating historical novel by Douglas A. Gosselin, immerses readers in the turmoil of 18th-century North America during the …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-blacksky-technology-advances-satellite-capabilities-and-secures-major-contracts/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/reportable/newsimage/88410120fda543eaae72f9d079ce71d8.jpg" 
-                                 alt="BlackSky Technology Advances Satellite Capabilities and Secures Major Contracts" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">BlackSky Technology Advances Satellite Capabilities and Secures Major Contracts</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Stonegate Capital Partners updates their coverage on BlackSky Technology, Inc. (NYSE: BKSY), reporting revenue, adj EBITDA, and EPS for 4Q24. BKSY …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-arlingtons-not-your-basic-locksmith-elevates-security-services-with-mobile-expertise/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/press-services/newsimage/f917d15d991d6372242f3df935c87c18.jpg" 
-                                 alt="Arlington&#39;s Not Your Basic Locksmith Elevates Security Services with Mobile Expertise" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Arlington&#39;s Not Your Basic Locksmith Elevates Security Services with Mobile Expertise</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Residents in Arlington now have access to professional locksmith services provided by Not Your Basic Locksmith. With over 15 years of experience, the …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-heil-law-firm-recognized-for-excellence-in-oilfield-accident-representation/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/press-services/newsimage/22306bc7b45701ee9ce57e8cfa46c488.jpg" 
-                                 alt="Heil Law Firm Recognized for Excellence in Oilfield Accident Representation" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Heil Law Firm Recognized for Excellence in Oilfield Accident Representation</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Heil Law Firm has been recognized as the top choice for oilfield accident lawsuits in Texas, earning the title of Best Law Firm for four years in a …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-onlinecheckwritercom-revolutionizes-business-payments-with-affordable-echeck-service/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/finance-2.jpg" 
-                                 alt="OnlineCheckWriter.com Revolutionizes Business Payments with Affordable eCheck Service" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">OnlineCheckWriter.com Revolutionizes Business Payments with Affordable eCheck Service</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    OnlineCheckWriter.com – Powered by Zil Money introduces a $1 eCheck feature to streamline B2B transactions, offering instant payments via email or …
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-ncs-multistage-holdings-reports-strong-q4-2024-financial-results-with-significant-international-growth/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/reportable/newsimage/bf4186d03b1de4fd19c6f1c8e8093c66.png" 
-                                 alt="NCS Multistage Holdings Reports Strong Q4 2024 Financial Results with Significant International Growth" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">NCS Multistage Holdings Reports Strong Q4 2024 Financial Results with Significant International Growth</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Stonegate Capital Partners updates their coverage on NCS Multistage Holdings, Inc. (NASDAQ: NCSM) after the Company experienced a 28% year-over-year …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-zil-money-revolutionizes-small-business-payments-with-affordable-echeck-service/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/technology-1.jpg" 
-                                 alt="Zil Money Revolutionizes Small Business Payments with Affordable eCheck Service" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Zil Money Revolutionizes Small Business Payments with Affordable eCheck Service</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Zil Money introduces an affordable eCheck feature for small businesses, allowing instant payments and efficient financial operations. For just $1, …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-chef-point-bar-restaurant-to-offer-unique-easter-dining-experience-in-colleyville/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/banners/food-beverage-1.jpg" 
-                                 alt="Chef Point Bar &amp; Restaurant to Offer Unique Easter Dining Experience in Colleyville" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Chef Point Bar &amp; Restaurant to Offer Unique Easter Dining Experience in Colleyville</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Chef Point Bar & Restaurant, a nationally recognized fine-dining destination, is hosting an exclusive one-day Easter dining experience featuring a …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="http://localhost:1313/posts/2025-06-15-federal-funding-boost-for-nonprofit-security-in-texas-through-femas-2025-grant-program/" class="block no-underline">
-                    <div class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl">
-                        <div class="relative">
-                            <img src="https://cdn.newsramp.app/press-services/newsimage/a0ace67ef0cc286ebf6438e805cc51ad.jpg" 
-                                 alt="Federal Funding Boost for Nonprofit Security in Texas Through FEMA&#39;s 2025 Grant Program" 
-                                 class="w-full h-48 object-cover rounded-t-xl">
-                        </div>
-                        <div class="flex flex-col justify-between h-full">
-                            <div class="card-body p-6">
-                                <h3 class="card-title text-lg font-bold leading-tight mb-3">Federal Funding Boost for Nonprofit Security in Texas Through FEMA&#39;s 2025 Grant Program</h3>
-                                
-                                <div class="text-sm leading-relaxed" style="color: var(--base-content)">
-                                    <p>Nexlar Security is assisting nonprofits in applying for the 2025 FEMA Nonprofit Security Grant Program, offering up to $200,000 for security …</p>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                
-            </div>
-            
-            
-            
-            <div class="flex flex-col justify-center py-8">
-                <div class="text-center mb-4">
-                    <p class="text-sm text-base-content opacity-70">
-                        Showing 16 of 27 pages
-                    </p>
+            <div class="p-6 flex flex-col justify-center">
+              <a href="http://localhost:1313/news/posts/2025-06-03-riot-platforms-strengthens-leadership-team-with-appointment-of-jonathan-gibbs-as-chief-data-center-officer/" class="no-underline">
+                <h1
+                  class="text-2xl lg:text-3xl font-bold text-base-content leading-tight mb-4 hover:text-primary transition-colors duration-200"
+                >
+                  Riot Platforms Strengthens Leadership Team with Appointment of Jonathan Gibbs as Chief Data Center Officer
+                </h1>
+              </a>
+              
+              <div
+                class="text-base text-base-content opacity-80 mb-4 leading-relaxed [&>p]:mb-3"
+              >
+                <p>Riot Platforms, a leader in Bitcoin-driven infrastructure, has announced the appointment of Jonathan Gibbs as Chief Data Center Officer (CDCO) to spearhead the development of a new data center …</p>
+              </div>
+              
+              <div class="flex items-center justify-between">
+                <div
+                  class="flex items-center text-sm text-base-content opacity-60"
+                >
+                  
+                  <a
+                    href="https://www.citybiz.co/article/701675/riot-platforms-appoints-jonathan-gibbs-as-chief-data-center-officer/"
+                    target="_blank"
+                    class="text-primary hover:underline"
+                    >Source</a
+                  >
+                  <span class="mx-2">•</span>
+                  
+                  <span>June 3, 2025</span>
                 </div>
-                <div class="join flex justify-center items-center gap-4">
-                    
-                    <a href="/page/15/" class="btn btn-outline">« Previous</a>
-                    
-                    
-                    <div class="flex gap-2 items-center">
-                        
-                        
-                        <a href="/" class="btn btn-outline">1</a>
-                        
-                        
-                        
-                        <a href="/page/2/" class="btn btn-outline">2</a>
-                        
-                        
-                        
-                        <a href="/page/3/" class="btn btn-outline">3</a>
-                        
-                        
-                        
-                        <a href="/page/4/" class="btn btn-outline">4</a>
-                        
-                        
-                        
-                        <a href="/page/5/" class="btn btn-outline">5</a>
-                        
-                        
-                        
-                        <a href="/page/6/" class="btn btn-outline">6</a>
-                        
-                        
-                        
-                        <a href="/page/7/" class="btn btn-outline">7</a>
-                        
-                        
-                        
-                        <a href="/page/8/" class="btn btn-outline">8</a>
-                        
-                        
-                        
-                        <a href="/page/9/" class="btn btn-outline">9</a>
-                        
-                        
-                        
-                        <a href="/page/10/" class="btn btn-outline">10</a>
-                        
-                        
-                        
-                        <a href="/page/11/" class="btn btn-outline">11</a>
-                        
-                        
-                        
-                        <a href="/page/12/" class="btn btn-outline">12</a>
-                        
-                        
-                        
-                        <a href="/page/13/" class="btn btn-outline">13</a>
-                        
-                        
-                        
-                        <a href="/page/14/" class="btn btn-outline">14</a>
-                        
-                        
-                        
-                        <a href="/page/15/" class="btn btn-outline">15</a>
-                        
-                        
-                        
-                        <span class="btn btn-primary">16</span>
-                        
-                        
-                        
-                        <a href="/page/17/" class="btn btn-outline">17</a>
-                        
-                        
-                        
-                        <a href="/page/18/" class="btn btn-outline">18</a>
-                        
-                        
-                        
-                        <a href="/page/19/" class="btn btn-outline">19</a>
-                        
-                        
-                        
-                        <a href="/page/20/" class="btn btn-outline">20</a>
-                        
-                        
-                        
-                        <a href="/page/21/" class="btn btn-outline">21</a>
-                        
-                        
-                        
-                        <a href="/page/22/" class="btn btn-outline">22</a>
-                        
-                        
-                        
-                        <a href="/page/23/" class="btn btn-outline">23</a>
-                        
-                        
-                        
-                        <a href="/page/24/" class="btn btn-outline">24</a>
-                        
-                        
-                        
-                        <a href="/page/25/" class="btn btn-outline">25</a>
-                        
-                        
-                        
-                        <a href="/page/26/" class="btn btn-outline">26</a>
-                        
-                        
-                        
-                        <a href="/page/27/" class="btn btn-outline">27</a>
-                        
-                        
-                    </div>
-                    
-                    
-                    <a href="/page/17/" class="btn btn-outline">Next »</a>
-                    
-                </div>
+                <a
+                  href="http://localhost:1313/news/posts/2025-06-03-riot-platforms-strengthens-leadership-team-with-appointment-of-jonathan-gibbs-as-chief-data-center-officer/"
+                  class="btn btn-primary btn-sm"
+                >
+                  Read More
+                </a>
+              </div>
             </div>
+          </div>
+        </div>
+      </div>
+      
+
+      
+       
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+         
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-timken-company-appoints-timothy-a-graham-as-president-of-industrial-motion-to-drive-growth-and-innovation/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-2.jpg" alt="Timken Company Appoints Timothy A. Graham as President of Industrial Motion to Drive Growth and Innovation" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Timken Company Appoints Timothy A. Graham as President of Industrial Motion to Drive Growth and Innovation
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>The Timken Company, a global leader in engineered bearings and industrial motion, has announced the appointment of Timothy A. Graham as the new …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-northern-trust-strengthens-ocio-strategy-with-appointment-of-industry-veteran-katherine-mccabe/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-3.jpg" alt="Northern Trust Strengthens OCIO Strategy with Appointment of Industry Veteran Katherine McCabe" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Northern Trust Strengthens OCIO Strategy with Appointment of Industry Veteran Katherine McCabe
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Northern Trust, a global leader in wealth management and asset servicing, has announced the appointment of Katherine McCabe to spearhead the …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-alight-inc-appoints-donna-dorsey-as-chief-human-resources-officer-to-lead-global-people-strategy/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/citybiz/newsimage/c236076c6459223327f4a55592167ba9.png" alt="Alight, Inc. Appoints Donna Dorsey as Chief Human Resources Officer to Lead Global People Strategy" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Alight, Inc. Appoints Donna Dorsey as Chief Human Resources Officer to Lead Global People Strategy
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Alight, Inc., a prominent cloud-based human capital and technology services provider, has announced the appointment of Donna Dorsey as its new Chief …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-donaldson-company-elevates-richard-lewis-to-chief-operating-officer-role/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-2.jpg" alt="Donaldson Company Elevates Richard Lewis to Chief Operating Officer Role" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Donaldson Company Elevates Richard Lewis to Chief Operating Officer Role
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Donaldson Company, a global leader in filtration products and solutions, has announced the appointment of Richard Lewis as its new chief operating …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-grant-thornton-appoints-rick-surett-as-new-cfo-to-spearhead-financial-strategy-amid-global-expansion/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Grant Thornton Appoints Rick Surett as New CFO to Spearhead Financial Strategy Amid Global Expansion" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Grant Thornton Appoints Rick Surett as New CFO to Spearhead Financial Strategy Amid Global Expansion
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Grant Thornton, a leading provider of audit, assurance, tax, and advisory services in America, has announced the appointment of <strong>Rick Surett</strong> as its new …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-jbt-marel-corporation-strengthens-leadership-with-appointment-of-james-pelletier-as-executive-vice-president-and-general-counsel/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/food-beverage-3.jpg" alt="JBT Marel Corporation Strengthens Leadership with Appointment of James Pelletier as Executive Vice President and General Counsel" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  JBT Marel Corporation Strengthens Leadership with Appointment of James Pelletier as Executive Vice President and General Counsel
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>JBT Marel Corporation, a global leader in providing technology solutions to the food and beverage industry, has announced the appointment of James …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-treliant-strengthens-financial-crimes-and-fraud-solutions-team-with-key-hire/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-2.jpg" alt="Treliant Strengthens Financial Crimes and Fraud Solutions Team with Key Hire" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Treliant Strengthens Financial Crimes and Fraud Solutions Team with Key Hire
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Treliant, a leading consulting firm in the financial services sector, has announced the appointment of <strong>Bobbie Paul</strong> as Managing Director within its …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-withum-wealth-management-strengthens-leadership-with-appointment-of-henry-mercer-as-chief-investment-officer/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-2.jpg" alt="Withum Wealth Management Strengthens Leadership with Appointment of Henry Mercer as Chief Investment Officer" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Withum Wealth Management Strengthens Leadership with Appointment of Henry Mercer as Chief Investment Officer
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p><strong>Henry Mercer</strong>, a seasoned investment professional with over 45 years of experience, has been appointed as the Chief Investment Officer of <strong>Withum Wealth …</strong></p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-envestnet-strengthens-ria-support-with-strategic-leadership-appointment/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/leadership-management-3.jpg" alt="Envestnet Strengthens RIA Support with Strategic Leadership Appointment" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Envestnet Strengthens RIA Support with Strategic Leadership Appointment
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Envestnet, a leader in wealth management technology, has announced the strategic appointment of Sean Meighan as the Head of RIA Distribution, a newly …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-national-restaurant-association-strengthens-leadership-team-to-navigate-industry-challenges/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="National Restaurant Association Strengthens Leadership Team to Navigate Industry Challenges" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  National Restaurant Association Strengthens Leadership Team to Navigate Industry Challenges
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>The National Restaurant Association has announced the appointment of Karl Dahlgren as its new Chief Product Officer (CPO) and Judy Mulcahy as its new …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-stradley-ronon-strengthens-litigation-team-with-key-partner-appointments/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/health-wellness-2.jpg" alt="Stradley Ronon Strengthens Litigation Team with Key Partner Appointments" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Stradley Ronon Strengthens Litigation Team with Key Partner Appointments
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Stradley Ronon, a prominent law firm, has significantly bolstered its litigation and investigations team by welcoming Jordann Conaboy and Benjamin …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-mccann-systems-expands-team-with-11-new-hires-to-boost-av-integration-services/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/events-3.jpg" alt="McCann Systems Expands Team with 11 New Hires to Boost AV Integration Services" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  McCann Systems Expands Team with 11 New Hires to Boost AV Integration Services
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>McCann Systems, a leader in audiovisual integration, has bolstered its team with the addition of 11 skilled professionals, signaling its commitment to …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-true-markets-secures-11-million-in-series-a-funding-to-revolutionize-retail-crypto-trading/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg" alt="True Markets Secures $11 Million in Series A Funding to Revolutionize Retail Crypto Trading" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  True Markets Secures $11 Million in Series A Funding to Revolutionize Retail Crypto Trading
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Cryptocurrency startup <a href="https://www.truex.co/"><strong>True Markets</strong></a> has successfully closed an $11 million Series A funding round, co-led by Boston-based <strong>Accomplice</strong> and New …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-flairai-ltd-launches-quebius-a-new-era-in-ai-powered-business-communication/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-1.jpg" alt="FlairAI Ltd Launches Quebius: A New Era in AI-Powered Business Communication" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  FlairAI Ltd Launches Quebius: A New Era in AI-Powered Business Communication
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>FlairAI Ltd has unveiled <a href='https://www.quebius.com'>Quebius</a>, a groundbreaking AI communication platform set to transform business-customer interactions. Unlike conventional …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-huntington-fine-jewelers-hosts-exclusive-summer-estate-jewelry-trunk-show-across-oklahoma/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/travel-1.jpg" alt="Huntington Fine Jewelers Hosts Exclusive Summer Estate Jewelry Trunk Show Across Oklahoma" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Huntington Fine Jewelers Hosts Exclusive Summer Estate Jewelry Trunk Show Across Oklahoma
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Huntington Fine Jewelers, Oklahoma's premier jeweler, is set to dazzle the public with its Summer Estate Jewelry Trunk Show across various locations …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-veritas-global-protection-expands-luxury-and-exotic-car-protection-plans-across-north-america/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/insurance-2.jpg" alt="Veritas Global Protection Expands Luxury and Exotic Car Protection Plans Across North America" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Veritas Global Protection Expands Luxury and Exotic Car Protection Plans Across North America
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Veritas Global Protection, a leader in the vehicle service contract industry, has announced the expansion of its luxury and exotic car protection …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-sunknowledge-inc-revolutionizes-prior-authorization-in-us-healthcare-with-ai-driven-solutions/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/health-wellness-1.jpg" alt="SunKnowledge Inc. Revolutionizes Prior Authorization in U.S. Healthcare with AI-Driven Solutions" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  SunKnowledge Inc. Revolutionizes Prior Authorization in U.S. Healthcare with AI-Driven Solutions
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>SunKnowledge Inc. emerges as a beacon of innovation in the healthcare sector, particularly in Prior Authorization (PA) services, as detailed in their …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-laconikos-olive-oil-triumphs-at-2025-athena-international-olive-oil-competition/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/awards-1.jpg" alt="Laconiko&#39;s Olive Oil Triumphs at 2025 Athena International Olive Oil Competition" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Laconiko&#39;s Olive Oil Triumphs at 2025 Athena International Olive Oil Competition
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Laconiko, a family-owned producer of premium extra virgin olive oil (EVOO), has achieved remarkable recognition at the Athena International Olive Oil …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-punyam-academy-marks-world-accreditation-day-2025-with-exclusive-training-discounts/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/education-2.jpg" alt="Punyam Academy Marks World Accreditation Day 2025 with Exclusive Training Discounts" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Punyam Academy Marks World Accreditation Day 2025 with Exclusive Training Discounts
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Punyam Academy, a leading online training provider, is celebrating <strong>WORLD ACCREDITATION DAY – 2025</strong> by offering a special 10% discount on all <strong>System …</strong></p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-from-wall-street-to-academia-richard-linowes-vision-for-a-new-era-in-business-education/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/media-3.jpg" alt="From Wall Street to Academia: Richard Linowes&#39; Vision for a New Era in Business Education" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  From Wall Street to Academia: Richard Linowes&#39; Vision for a New Era in Business Education
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Richard Linowes, the president and founding professor of Clarewood University, recently shared his unique journey from investment banking to academia …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-03-bella-vida-santa-barbara-launches-empowering-you-are-amazing-campaign/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg" alt="Bella Vida Santa Barbara Launches Empowering &#39;You Are Amazing&#39; Campaign" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Bella Vida Santa Barbara Launches Empowering &#39;You Are Amazing&#39; Campaign
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Bella Vida Global has launched its "You Are Amazing" campaign, a multi-media initiative under its luxury skincare line, Bella Vida Santa Barbara …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 3, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-02-tron-dao-shines-at-bitcoin-vegas-2025-highlighting-blockchains-financial-future/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/news-direct/newsimage/3a1156b8a73b42d2208ab936fe5b8e2b.png" alt="TRON DAO Shines at Bitcoin Vegas 2025, Highlighting Blockchain&#39;s Financial Future" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  TRON DAO Shines at Bitcoin Vegas 2025, Highlighting Blockchain&#39;s Financial Future
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>TRON DAO, a community-governed DAO focused on decentralizing the internet through blockchain technology, made a significant impact at Bitcoin 2025 in …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 2, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-02-trillion-energy-international-inc-announces-strategic-debt-settlement-through-share-issuance/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg" alt="Trillion Energy International Inc. Announces Strategic Debt Settlement Through Share Issuance" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Trillion Energy International Inc. Announces Strategic Debt Settlement Through Share Issuance
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Trillion Energy International Inc. (CSE: TCF) (OTCQB: TRLEF) has taken a significant step towards financial restructuring by announcing a debt …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 2, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-02-innovative-medtech-ventures-into-ai-driven-entertainment-with-ticketbash-acquisition/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-1.jpg" alt="Innovative MedTech Ventures into AI-Driven Entertainment with Ticketbash Acquisition" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Innovative MedTech Ventures into AI-Driven Entertainment with Ticketbash Acquisition
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Innovative MedTech, Inc., a health and wellness services provider, has announced a strategic pivot into the AI sports and entertainment industry by …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 2, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-02-perfect-moment-ltd-redefines-luxury-skiwear-with-record-digital-engagement-and-strategic-expansions/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg" alt="Perfect Moment Ltd. Redefines Luxury Skiwear with Record Digital Engagement and Strategic Expansions" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Perfect Moment Ltd. Redefines Luxury Skiwear with Record Digital Engagement and Strategic Expansions
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Perfect Moment Ltd. (NYSE: PMNT), a luxury ski apparel company, is rapidly gaining popularity among celebrities, influencers, and sports enthusiasts, …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 2, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-02-homewatch-caregivers-of-houston-galleria-ranked-top-home-care-provider-nationwide/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/evertise-ai-pr/newsimage/c12fd0a3ac95335e55467c067110dac4.png" alt="Homewatch CareGivers of Houston Galleria Ranked Top Home Care Provider Nationwide" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Homewatch CareGivers of Houston Galleria Ranked Top Home Care Provider Nationwide
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>Homewatch CareGivers of Houston Galleria has been recognized as the #1 home care provider in Houston and #7 nationwide by Activated Insights, earning …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 2, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/posts/2025-06-02-ai-generated-documentary-post-truth-set-to-redefine-cinematic-storytelling/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/evertise-ai-pr/newsimage/ab92e59b524f7a7f290866cbdb8e1838.jpg" alt="AI-Generated Documentary &#39;Post Truth&#39; Set to Redefine Cinematic Storytelling" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  AI-Generated Documentary &#39;Post Truth&#39; Set to Redefine Cinematic Storytelling
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    <p>On May 28, 2025, the groundbreaking documentary <em>Post Truth</em>, the first feature-length film entirely created by artificial intelligence, unveiled its …</p>
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  June 2, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+         
+      </div>
+      
+
+      
+      
+      <div class="content-card p-6">
+        <div class="flex flex-col justify-center">
+          <div class="text-center mb-6">
+            <p class="text-sm text-gray-600">
+              Showing 28 of 715 articles (Page 16 of 26)
+            </p>
+          </div>
+          <div class="flex justify-center items-center gap-2">
             
             
-        </div>
-        
-        
-        <div class="lg:col-span-1">
+            <a href="/news/page/15/" class="btn btn-outline btn-sm">
+              <svg
+                class="w-4 h-4 mr-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
+                ></path>
+              </svg>
+              Previous
+            </a>
             
-<div class="lg:sticky lg:top-24">
-  <h2 class="text-2xl font-bold mb-6">Trending Stories</h2>
-  <div class="space-y-2">
-     
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="YETI Holdings Strengthens Investor Relations with New Vice President Appointment" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-yeti-holdings-strengthens-investor-relations-with-new-vice-president-appointment/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              YETI Holdings Strengthens Investor Relations with New Vice President Appointment
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
+
+            
+            <div class="flex gap-1 mx-4">
+              
+              
+              <a
+                href="/news/"
+                class="btn btn-outline btn-sm"
+                >1</a
+              >
+              
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+               
+
+              
+              
+              <a href="/news/page/15/" class="btn btn-outline btn-sm"
+                >15</a
+              >
+              
+
+              
+              <span class="btn btn-primary btn-sm"
+                >16</span
+              >
+
+              
+              
+              <a href="/news/page/17/" class="btn btn-outline btn-sm"
+                >17</a
+              >
+              
+
+              
+               
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+              
+              <a href="/news/page/26/" class="btn btn-outline btn-sm"
+                >26</a
+              >
+              
+            </div>
+
+            
+            
+            <a href="/news/page/17/" class="btn btn-outline btn-sm">
+              Next
+              <svg
+                class="w-4 h-4 ml-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                ></path>
+              </svg>
+            </a>
+            
           </div>
         </div>
       </div>
+       
     </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/banners/startup-news-3.jpg" alt="Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-das-greenhaus-strengthens-leadership-team-to-boost-kendall-countys-entrepreneurial-ecosystem/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Das GreenHaus Strengthens Leadership Team to Boost Kendall County&#39;s Entrepreneurial Ecosystem
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/reportable/newsimage/98521815a2c4c4b374aee6db5a4f09e0.png" alt="Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-bio-path-holdings-advances-rnai-therapeutics-with-promising-treatments-for-cancer-and-metabolic-diseases/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Bio-Path Holdings Advances RNAi Therapeutics with Promising Treatments for Cancer and Metabolic Diseases
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/genai/images/256/18/9c4b606dda91b11c0d590a295ea12f2c.png" alt="Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-salon-and-spa-galleria-empowers-tenants-with-free-marketing-workshops-in-texas/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Salon and Spa Galleria Empowers Tenants with Free Marketing Workshops in Texas
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div
-      class="card bg-base-100 shadow-sm hover:shadow-md transition-shadow p-4 mb-4 cursor-pointer hover:bg-base-200"
-    >
-      <div class="flex gap-3 items-start">
-        <div>
-          <img src="https://cdn.newsramp.app/genai/images/256/18/6ae6d87b3bb1101560ae573200530d8e.png" alt="Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health" class="w-20 h-16 object-cover rounded-lg">
-        </div>
-        <div class="flex-1">
-          <a href="http://localhost:1313/posts/2025-06-18-brisa-therapeutics-highlights-the-healing-power-of-texas-deserts-on-mental-health/" class="no-underline">
-            <h3
-              class="font-semibold text-sm leading-tight mb-2 hover:text-primary transition-colors"
-            >
-              Brisa Therapeutics Highlights the Healing Power of Texas Deserts on Mental Health
-            </h3>
-          </a>
-          <div class="flex items-center">
-            <span class="badge badge-outline badge-xs">NEWS</span>
-            <span class="text-xs text-gray-500 ml-2"
-              >2025-06-18</span
-            >
-          </div>
-        </div>
-      </div>
-    </div>
-    
   </div>
-</div>
-
-        </div>
-    </div>
 </div>
 
     </main>
     
     
-<footer class="bg-neutral text-neutral-content">
-  <div class="container mx-auto px-4 py-12">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-      <div class="mb-8 lg:mb-0">
-        <div class="flex items-center mb-4">
-          <span class="text-2xl">📰</span>
-          <span class="text-xl font-bold ml-2">Building Texas Show News</span>
-        </div>
-        <p class="text-gray-400 max-w-xs">
-          Latest news and updates from Building Texas Show
+<footer class="text-white">
+  <div class="container mx-auto px-4 py-6">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="flex items-center gap-4">
+        <p class="text-sm">
+          Newswriter.ai © 2025 All Rights Reserved
         </p>
-      </div>
-
-      <div>
-        <h3 class="footer-title text-white mb-4">Quick Links</h3>
-        <ul class="space-y-2">
-          <li>
-            <a
-              href="/"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Home</a
-            >
-          </li>
-          <li>
-            <a
-              href="/posts/"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Articles</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >About</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Contact</a
-            >
-          </li>
-        </ul>
-      </div>
-
-      <div>
-        <h3 class="footer-title text-white mb-4">Categories</h3>
-        <ul class="space-y-2">
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Technology</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Business</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Sports</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="link link-hover hover:text-primary transition-colors duration-200"
-              >Health</a
-            >
-          </li>
-        </ul>
-      </div>
-
-      <div>
-        <h3 class="footer-title text-white mb-4">Follow Us</h3>
-        <div class="flex gap-2">
-          <a href="#" class="btn btn-outline btn-sm">Twitter</a>
-          <a href="#" class="btn btn-outline btn-sm">Facebook</a>
-          <a href="#" class="btn btn-outline btn-sm">LinkedIn</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="border-t border-gray-700 pt-8 mt-8">
-      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
-        <p class="text-gray-400">
-          © 2025 Building Texas Show News. All rights reserved.
-        </p>
-        <div class="flex gap-4">
-          <a href="#" class="link link-hover text-gray-400">Privacy Policy</a>
-          <a href="#" class="link link-hover text-gray-400">Terms of Service</a>
-        </div>
+        <a
+          href="https://newswriter.ai/privacy-policy"
+          class="text-sm hover:text-cyan-200 transition-colors"
+          >Privacy Policy</a
+        >
+        <a
+          href="https://newswriter.ai/terms-of-service"
+          class="text-sm hover:text-cyan-200 transition-colors"
+          >Terms of Service</a
+        >
       </div>
     </div>
   </div>

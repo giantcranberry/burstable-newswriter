@@ -53,7 +53,7 @@
 
     <!-- Article summary -->
     {{ if .Params.summary }}
-    <div class="bg-base-200 p-6 rounded-lg mb-8">
+    <div class="bg-base-00 rounded-lg mb-8">
       <h2 class="text-2xl font-bold text-base-content mb-4">Summary</h2>
       <div
         class="text-lg leading-relaxed mb-8 prose prose-lg max-w-none"
@@ -79,12 +79,20 @@
 
     <!-- Article metadata -->
     {{ if or .Params.article_id .Params.feed_item_id }}
-    <div class="bg-base-200 p-4 rounded-lg mb-8 text-sm text-gray-600">
-      {{ if .Params.article_id }}
-      <p>Article ID: {{ .Params.article_id }}</p>
-      {{ end }} {{ if .Params.feed_item_id }}
-      <p>Feed Item ID: {{ .Params.feed_item_id }}</p>
+    <div class="bg-base-100 p-2 rounded-lg mb-8 text-sm text-gray-600">
+
+      <img src="{{ .Params.qrcode }}" alt="QR Code for Content Provenance" class="w-275 h-95 mb-4">
+
+      {{ if .Params.source }}
+      <p>This story is based on an article that was registered on the blockchain. The original source content used for this article is located 
+        at <a href="{{.Params.source_link}}">{{ .Params.source }}</a></p>
       {{ end }}
+
+
+      {{ if .Params.article_id }}
+      <p class="mt-5">Article Control ID: {{ .Params.article_id }}</p>
+      {{ end }} 
+
     </div>
     {{ end }}
 

@@ -21,3 +21,6 @@ theme = 'newsjockey-hugo'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Disable default sitemap generation
+disableKinds = ["sitemap"]
