@@ -1,0 +1,16 @@
++++
+title = "ONAR Holding Corporation Partners with Investor Brand Network to Enhance Market Visibility"
+date = "2025-05-13T14:00:21Z"
+draft = false
+summary = "<p>ONAR (OTCQB: ONAR), a global marketing technology firm, has chosen IBN to handle its corporate communications, aiming to redefine middle-market marketing through innovation. ONAR operates across performance, healthcare, and experiential marketing, growing its global footprint and integrating specialized agencies under one brand for superior client outcomes. IBN will leverage its distribution network to boost ONAR's visibility among investors and the broader market.</p>"
+description = "ONAR, a global marketing technology company, partners with IBN for corporate communications, signaling growth and innovation in middle-market marketing. The collaboration aims to enhance ONAR's visibility among investors and clients, showcasing its commitment to excellence and strategic expansion."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-holding-corporation-otcqb-onar-engages-ibn-to-lead-corporate-communications-strategy/"
+enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
+article_id = 85276
+feed_item_id = 14053
+url = "2025-05-13-onar-holding-corporation-partners-with-investor-brand-network-to-enhance-market-visibility"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/gulfs7Y2.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>ONAR Holding Corporation (OTCQB: ONAR), a global marketing technology firm, has taken a significant step towards enhancing its market visibility by partnering with Investor Brand Network (IBN). This collaboration is set to leverage IBN's vast distribution network, which includes more than 5,000 syndication outlets and millions of followers across over 70 brands, to amplify ONAR's brand messaging and investor communications.</p><p>As a marketing technology company with operations spanning performance, healthcare, and experiential marketing sectors, ONAR is on a mission to transform middle-market marketing. The company's strategy revolves around strategic innovation and acquisitions, supported by its global presence with nearly 50 employees across five continents and services to over 45 clients in various industries.</p><p>ONAR's diverse agency network includes Storia, a performance marketing and SEO agency; Of Kos, specializing in healthcare marketing; CHALK, an experiential marketing agency; and ONAR Labs, a technology incubator focused on developing cutting-edge marketing technology solutions. This partnership with IBN is expected to significantly increase ONAR's exposure among investors and broader market segments, aligning with its aggressive growth and acquisition strategy.</p><p>The company specifically targets businesses with revenues between $50 million and $1 billion, offering them unparalleled marketing services powered by an integrated, AI-driven methodology. By integrating additional agencies into its network, ONAR aims to further solidify its position as a leader in the marketing technology space. This move not only underscores ONAR's commitment to innovation and growth but also highlights the increasing importance of strategic partnerships in achieving market visibility and investor engagement in today's competitive landscape.</p>
