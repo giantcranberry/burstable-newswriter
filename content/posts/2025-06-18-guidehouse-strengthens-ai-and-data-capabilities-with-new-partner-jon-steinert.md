@@ -6,7 +6,6 @@ summary = "<p><a href=\"http://guidehouse.com\"><strong>Guidehouse</strong></a>,
 description = "Guidehouse appoints Jon Steinert as Partner to lead financial services AI and Data initiatives, enhancing its AI leadership and innovation capabilities."
 source_link = "https://www.citybiz.co/article/702440/guidehouse-appoints-jon-steinert-as-partner/"
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
-featured = true
 article_id = 84205
 feed_item_id = 15109
 +++
