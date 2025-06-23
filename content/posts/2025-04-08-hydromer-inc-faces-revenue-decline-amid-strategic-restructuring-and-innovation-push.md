@@ -1,0 +1,16 @@
++++
+title = "Hydromer Inc. Faces Revenue Decline Amid Strategic Restructuring and Innovation Push"
+date = "2025-04-08T13:15:14Z"
+draft = false
+summary = "Hydromer, Inc., a leader in hydrophilic, thromboresistant, and antimicrobial coating technologies for medical devices, reported a 12% decline in total revenue for the year ended December 31, 2024. The company attributed the decrease to legacy program attrition and a lack of new product introductions, impacting its ability to meet evolving customer needs. Despite this, Hydromer achieved a normalized net loss of $83.0 thousand on a cash-adjusted basis, after adjusting for non-cash expenses."
+description = "Hydromer, Inc. reports a 12% decline in revenue for 2024, citing legacy program attrition and lack of new product introductions. Despite challenges, the company achieved a normalized net loss of $83.0 thousand. Efforts to streamline operations and invest in new product development signal a strategic shift towards future growth."
+source_link = "https://www.newmediawire.com/news/hydromer-inc-reports-preliminary-unaudited-financial-results-for-the-year-ended-december-31-2024-7080323"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
+article_id = 85658
+feed_item_id = 12593
+url = "2025-04-08-hydromer-inc-faces-revenue-decline-amid-strategic-restructuring-and-innovation-push"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/8/lineJNB4.webp"
+source = "NewMediaWire"
++++
+
+<p>Hydromer Inc., a leader in surface modification and coating solutions, has disclosed its preliminary unaudited financial results for the year ending December 31, 2024, highlighting a 12% decrease in total revenue to $3.59 million. This downturn is primarily due to the attrition of legacy programs and a lack of sufficient investment in research and development, which has limited the company's capacity to innovate and cater to the changing demands of its customers.</p><p>On a cash-adjusted basis, the company reported a normalized net loss of $83,000, after accounting for non-cash expenses including amortization and stock-based compensation. Despite these challenges, CEO Michael Torti has reaffirmed Hydromer's dedication to restructuring and pursuing growth opportunities. The company's strategy revolves around enhancing product development, fortifying customer relations, and venturing into new markets.</p><p>A pivotal element of Hydromer's turnaround strategy is the development of a next-generation UV-curable coating formulation. This innovation holds the promise of unlocking new applications and revenue streams, marking a crucial effort to revitalize the company's product offerings and meet the needs of high-demand sectors. With its extensive expertise in polymer research and development, Hydromer is poised to leverage its proprietary technologies and manufacturing capabilities to navigate through its current financial hurdles.</p><p>Operating across the United States, Europe, and Asia-Pacific, Hydromer is focused on achieving operational efficiency and sustainable growth. The company's commitment to introducing cutting-edge solutions that resonate with industry trends and customer expectations underscores its potential to rebound and strengthen its market position in the face of adversity.</p>

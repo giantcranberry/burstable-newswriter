@@ -1,0 +1,16 @@
++++
+title = "Rotunda Capital Partners Elevates Key Executives, Reinforcing Commitment to Leadership Development"
+date = "2025-03-04T15:05:18Z"
+draft = false
+summary = "<p>Rotunda Capital Partners announces the promotions of Rona Kennedy to Partner, CFO, and CCO, and Rohit Dhake to Managing Director, recognizing their leadership and commitment to the firm's values. Rona has been instrumental in financial management and compliance, while Rohit has played a key role in investment execution and portfolio management, contributing to Rotunda's growth and success.</p>"
+description = "Rotunda Capital Partners announces promotions of Rona Kennedy and Rohit Dhake, demonstrating commitment to talent development and strategic growth. Learn more about their key leadership roles and contributions to the firm's success."
+source_link = "https://newsdirect.com/news/rotunda-capital-partners-announces-promotions-of-rona-kennedy-and-rohit-dhake-415501716"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 85979
+feed_item_id = 11594
+url = "2025-03-04-rotunda-capital-partners-elevates-key-executives-reinforcing-commitment-to-leadership-development"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/4/markUNro.webp"
+source = "News Direct"
++++
+
+<p>Rotunda Capital Partners has recently announced the promotions of Rona Kennedy and Rohit Dhake, two of its key executives, underscoring the firm's dedication to fostering internal talent and strategic leadership. Kennedy, now Partner, Chief Financial Officer, and Chief Compliance Officer, has been pivotal in enhancing the firm's financial and compliance frameworks since joining in 2019. Her initiative in founding the Women in Leadership group in 2022 further exemplifies her commitment to professional development within the organization.</p><p>Rohit Dhake, elevated to Managing Director, has been with Rotunda since its early days in 2016. His deep expertise in investment execution and portfolio management has played a critical role in the firm's collaboration with and expansion of middle-market companies. Dhake's proficiency in thematic sourcing and deal structuring has significantly contributed to Rotunda's strategic growth.</p><p>John Fruehwirth, Managing Partner at Rotunda, emphasized the vital contributions of Kennedy and Dhake to the firm's achievements. Their promotions are seen as a strategic move to further influence the firm's direction and success in the competitive private equity landscape.</p><p>Founded in 2009, Rotunda Capital Partners specializes in transforming family-founder owned businesses across value-added distribution, asset-light logistics, and business and residential services sectors. The firm's Rotunda Performance System is central to its approach, aiming to align strategies, streamline processes, and build data-driven infrastructures for sustainable growth.</p><p>These promotions not only reflect Rotunda's culture of recognizing and developing talent but also signal a broader trend in the private equity industry towards strategic leadership development. For business leaders and investors, Rotunda's approach offers insights into the importance of internal talent cultivation in driving long-term success and innovation in the sector.</p>

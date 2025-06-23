@@ -1,0 +1,16 @@
++++
+title = "First Tellurium Corp. Unveils Revolutionary Thermoelectric Generator for Enhanced Vehicle Efficiency"
+date = "2025-04-24T14:05:07Z"
+draft = false
+summary = "<p>First Tellurium (CSE: FTEL) (OTCQB: FSTTF) announced the unveiling of its thermoelectric generator/radiator by its majority-owned subsidiary, PyroDelta Energy Inc. The device, developed over eight years, recovers waste heat from combustion engines, saving fuel and eliminating the need for traditional alternators and radiators. The CEO also disclosed plans for a shareholder luncheon and the issuance of stock options.</p>"
+description = "First Tellurium Corp. unveils innovative thermoelectric generator/radiator developed to save fuel and costs. Learn more about this groundbreaking technology and its potential impact on energy efficiency and operational expenses."
+source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-first-tellurium-corp-cse-ftel-otcqb-fsttf-to-showcase-fuel-saving-thermoelectric-generator-in-april-30-video-demo/"
+enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
+article_id = 85499
+feed_item_id = 13202
+url = "2025-04-24-first-tellurium-corp-unveils-revolutionary-thermoelectric-generator-for-enhanced-vehicle-efficiency"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/hintIRuQ.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>First Tellurium Corp., through its majority-owned subsidiary PyroDelta Energy Inc., is pioneering a new era in energy efficiency with the development of a thermoelectric generator that could redefine energy utilization in transportation and industrial sectors. This innovative device, the result of eight years of dedicated research, harnesses waste heat from combustion engines to improve fuel efficiency by at least 6%, while also eliminating the need for traditional alternators and radiators.</p><p>The tellurium-based generator stands out for its versatility, offering seamless integration into both new and existing vehicles. This adaptability opens up a wide range of applications, from automotive to energy-intensive industries like artificial intelligence and cryptocurrency mining, where efficient heat management is a critical challenge. The potential for this technology to transform energy consumption patterns across industries is immense, offering a sustainable solution to some of the most pressing energy efficiency issues.</p><p>CEO Tyrone Docherty emphasized the broader implications of the generator, suggesting its utility could extend far beyond its initial automotive applications. The company's commitment to innovation is further underscored by its upcoming shareholder luncheon in mid-May and the issuance of 1.5 million stock options, priced at $0.15 per share, reflecting strong investor confidence and a clear path toward corporate growth.</p><p>The anticipated video demonstration on April 30 is set to showcase the capabilities of this groundbreaking technology, potentially establishing First Tellurium Corp. as a leader in the field of energy recovery and efficiency. By leveraging the unique properties of tellurium, the company is addressing some of the most enduring challenges in energy conversion and thermal management, paving the way for a more efficient and sustainable future.</p>

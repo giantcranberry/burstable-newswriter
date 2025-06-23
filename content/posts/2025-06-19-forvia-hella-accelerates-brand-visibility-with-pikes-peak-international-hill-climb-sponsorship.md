@@ -6,7 +6,6 @@ summary = "<p>HELLA GmbH & Co. KGaA, under the FORVIA HELLA banner, is making a 
 description = "HELLA sponsors 2025 Pikes Peak Hill Climb, featuring high-performance Porsche races and unique awards. Discover how HELLA is driving innovation in motorsports."
 source_link = "https://newsdirect.com/news/hella-heads-to-pikes-peak-with-robb-holland-a-porsche-911-gt3-rs-cayman-gt4-rs-race-sponsorship-and-special-awards-247415162"
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/eb9a6c2495cad68aeddb52f2d7ba53ec.jpg"
-featured = true
 article_id = 85065
 feed_item_id = 15910
 url = "2025-06-19-forvia-hella-accelerates-brand-visibility-with-pikes-peak-international-hill-climb-sponsorship"

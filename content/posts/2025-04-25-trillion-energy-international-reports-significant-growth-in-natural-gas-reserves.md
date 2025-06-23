@@ -1,0 +1,16 @@
++++
+title = "Trillion Energy International Reports Significant Growth in Natural Gas Reserves"
+date = "2025-04-25T13:45:13Z"
+draft = false
+summary = "Trillion Energy, a natural gas and oil producer, reported a 12% increase in total proved plus probable conventional natural gas reserves to 62.3 Bcf with a USD $363.6 million NPV10%. The company also saw a slight growth in oil reserves at the Cendere field. Trillion Energy is focused on oil and natural gas production for Europe and Türkiye with interests in the SASB natural gas field and the Cendere oil field."
+description = "Trillion Energy reports a 12% increase in total proved plus probable natural gas reserves with a USD $363.6 million NPV10%. The company's focus on oil and natural gas production for Europe and Türkiye is highlighted, showcasing growth opportunities in the energy sector."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-trillion-energy-international-inc-cse-tcf-otcqb-trlef-reports-12-increase-in-year-end-2024-natural-gas-reserves/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 85465
+feed_item_id = 13432
+url = "2025-04-25-trillion-energy-international-reports-significant-growth-in-natural-gas-reserves"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/pintYNOf.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Trillion Energy International Inc., a key player in the natural gas and oil production sector, has reported a notable 12% increase in its total proved plus probable conventional natural gas reserves for the year-end 2024, reaching an impressive 62.3 billion cubic feet (Bcf). This growth not only underscores the company's robust exploration and development strategies but also its significant role in the energy sector, particularly in the European and Turkish markets.</p><p>The financial implications of this reserve growth are substantial, with the net present value of the total proved plus probable reserves, discounted at 10% (NPV10%), amounting to $363.6 million, or $2.98 per common share. Despite a 20% decrease in the NPV10% of total proved reserves to $106.8 million, the overall valuation of total proved plus probable plus possible reserves stands at a remarkable $630.1 million, signaling strong future revenue potential for the company and its stakeholders.</p><p>In addition to its natural gas achievements, Trillion Energy has also seen a slight increase in its oil reserves at the Cendere field, now totaling 247 thousand barrels (Mbbl). With a 49% interest in the SASB natural gas field in the Black Sea and a 19.6% interest in the Cendere oil field, the company is strategically positioned to capitalize on the growing demand for energy in Europe and Türkiye.</p><p>This reserve report not only highlights Trillion Energy's successful efforts to expand its energy portfolio but also its commitment to focusing on natural gas production in Türkiye and exploring further oil opportunities in southeastern Türkiye and beyond. For business and technology leaders, this announcement is a clear indicator of the company's growth trajectory and its potential impact on the global energy market, offering insights into investment opportunities and the evolving dynamics of energy production and reserves.</p>

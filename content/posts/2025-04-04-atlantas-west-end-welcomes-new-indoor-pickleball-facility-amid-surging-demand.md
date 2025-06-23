@@ -1,0 +1,16 @@
++++
+title = "Atlanta's West End Welcomes New Indoor Pickleball Facility Amid Surging Demand"
+date = "2025-04-04T17:30:19Z"
+draft = false
+summary = "A new indoor pickleball center, Dill Dinkers, opened in Atlanta's West End to address the shortage of court space for the rapidly growing sport. The soft opening attracted over 1,000 people of all skill levels, highlighting the community's enthusiasm for the new facility. Owned by local franchisees, Dill Dinkers plans to expand to multiple locations in Fulton and surrounding counties."
+description = "Discover the new indoor pickleball center, Dill Dinkers, in Atlanta's West End. With over 1,000 attendees during the soft opening, the facility aims to meet the rising demand for pickleball courts in the area. Owned by local franchisees, Dill Dinkers plans to expand to multiple locations in Fulton and surrounding counties."
+source_link = "https://www.24-7pressrelease.com/press-release/521476/dill-dinkers-indoor-pickleball-facility-now-open-in-atlantas-west-end"
+enclosure = "https://cdn.newsramp.app/banners/sports-3.jpg"
+article_id = 85678
+feed_item_id = 12524
+url = "2025-04-04-atlantas-west-end-welcomes-new-indoor-pickleball-facility-amid-surging-demand"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/hintYV7t.webp"
+source = "24-7 Press Release"
++++
+
+<p>The recent soft opening of Dill Dinkers, a new indoor pickleball facility in Atlanta's West End, has been met with overwhelming community support, attracting over 1,000 visitors during its initial Community Free Week. This development comes at a time when the city's pickleball player base has seen a remarkable 51.8% year-over-year growth, now totaling 1.1 million players. The facility, located on White Street, is the result of a significant warehouse renovation by Ackerman & Co., transforming the space into a modern destination for pickleball enthusiasts.</p><p>Daniel Hardeman, the regional franchise developer, expressed excitement over the community's response, noting the warm welcome from local businesses and the nearby police precinct. The facility's strategic location adjacent to the Lee + White complex underscores its role in fostering community engagement and supporting local businesses. With plans to expand across Fulton and surrounding counties, including Dekalb, Cobb, Gwinnett, and Cherokee, Dill Dinkers is poised to become a cornerstone of the Atlanta area's pickleball scene.</p><p>Beyond offering dedicated indoor courts, Dill Dinkers provides a comprehensive suite of services aimed at players of all skill levels. These include clinics, lessons, leagues, social events, and opportunities for corporate gatherings. The facility's top-tier surfaces and state-of-the-art reservation system further enhance the playing experience, setting a new standard for pickleball facilities in the region.</p><p>The official grand opening ribbon-cutting ceremony is scheduled for April 18th, marking a significant milestone in Atlanta's sports infrastructure. This development not only addresses the metropolitan area's growing demand for dedicated pickleball spaces but also offers a structured platform for skill progression and community engagement in a sport that continues to gain popularity nationwide.</p>
