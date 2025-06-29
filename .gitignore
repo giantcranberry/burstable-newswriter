@@ -3,4 +3,26 @@
 .history/
 node_modules/
 node_modules
-public/
+
+# Current (good coverage)
+.venv/
+.vscode/
+.history/
+node_modules/
+node_modules
+public/*
+
+# Recommended additions
+.env
+.env.local
+.env.*.local
+.hugo_build.lock
+resources/_gen/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.log
+dist/
+tmp/

@@ -29,3 +29,15 @@ theme = 'newsjockey-hugo'
 
 # Disable default sitemap generation
 disableKinds = ["sitemap"]
+
+[outputFormats]
+  [outputFormats.sitemap]
+    mediaType = "application/xml"
+    baseName = "sitemap"
+    isPlainText = true
+    protocol = "xml://"
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML", "sitemap"]
+  page = ["HTML", "sitemap"]
