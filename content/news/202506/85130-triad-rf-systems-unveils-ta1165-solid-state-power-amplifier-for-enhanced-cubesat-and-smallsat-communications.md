@@ -1,0 +1,16 @@
++++
+title = "Triad RF Systems Unveils TA1165 Solid-State Power Amplifier for Enhanced CubeSat and SmallSat Communications"
+date = "2025-06-05T07:05:43Z"
+draft = false
+summary = "Triad RF Systems introduces the TA1165 solid-state power amplifier, a breakthrough for CubeSat and SmallSat missions, offering improved communication links and data throughput in Low Earth Orbit."
+description = "Triad RF Systems introduces the TA1165 amplifier for CubeSat missions, enhancing satellite communication with advanced RF technology. Learn more at triadrf.com."
+source_link = "https://www.24-7pressrelease.com/press-release/523504/triad-rf-systems-launches-ta1165-amplifier-enhancing-x-band-downlink-capabilities-for-cubesat-missions"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 85130
+feed_item_id = 15191
+url = "/news/202506/85130-triad-rf-systems-unveils-ta1165-solid-state-power-amplifier-for-enhanced-cubesat-and-smallsat-communications"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/5/navyP9cV.webp"
+source = "24-7 Press Release"
++++
+
+<p>Triad RF Systems has recently announced the launch of the TA1165 solid-state power amplifier, a state-of-the-art device designed to revolutionize communication for CubeSat and SmallSat missions in Low Earth Orbit (LEO). Operating within the 5.5 to 8.5 GHz range, with a focus on the 7.9 to 8.4 GHz X-Band downlink frequency, the TA1165 delivers up to 20 watts of saturated RF power, significantly enhancing satellite communication links.</p><p>The TA1165's compatibility with current CubeSat Software Defined Radios (SDRs) and its forward-looking design ensure it remains relevant as technology evolves. Its high power output not only extends the effective range of satellite communications but also boosts data rates and reliability, crucial for the success of mission operations. Dean Handrinos, CTO of Triad RF Systems, highlighted the amplifier's design to withstand the demanding conditions of LEO, noting its deployment on customer vehicles and its potential to increase throughput while minimizing ground terminal size.</p><p>Employing Triad RF's advanced Class AB GaN technology, the TA1165 stands out for its high linearity, efficiency, and superior thermal performance, all of which are indispensable for satellite operations. Its compact and lightweight design is particularly suited to the stringent space and mass requirements of CubeSat platforms. The amplifier's wide frequency coverage makes it adaptable to a range of satellite applications, including Earth observation, high-speed data transmission, and inter-satellite communications, thereby enhancing data throughput and reliability across various missions.</p><p>With a legacy of over 20 years of LEO flight time for its RF payloads, Triad RF Systems continues to pioneer the development of space-proven RF solutions. The introduction of the TA1165 amplifier marks a significant leap forward in satellite communication technology, providing mission integrators with a dependable and efficient tool to address the escalating demands of space-based operations. This innovation not only underscores Triad RF Systems' leadership in the field but also sets a new benchmark for satellite communication capabilities, promising to impact the future of space exploration and data transmission.</p>

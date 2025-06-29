@@ -1,0 +1,16 @@
++++
+title = "Accredited Solutions, Inc. Shifts Focus to Blockchain and AI in Telecom with ItsBchain Acquisition"
+date = "2025-06-16T14:05:34Z"
+draft = false
+summary = "Accredited Solutions, Inc. (OTC: ASII) is realigning its strategy towards blockchain and AI in telecommunications through the acquisition of ItsBchain, aiming to revolutionize carrier settlements and interconnect transactions."
+description = "ASII announces strategic acquisition of ItsBchain to lead in blockchain-based telecom and fintech solutions, aiming to transform global settlements."
+source_link = "https://www.newmediawire.com/news/accredited-solutions-inc-otc-asii-aligns-strategic-focus-around-itsbchain-to-launch-telco-blockchain-and-ai-powered-settlement-platform-7080906"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/af33b6601027cf2a3eac28bd505f462d.png"
+article_id = 84410
+feed_item_id = 15672
+url = "/news/202506/84410-accredited-solutions-inc-shifts-focus-to-blockchain-and-ai-in-telecom-with-itsbchain-acquisition"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/16/pondoyju.webp"
+source = "NewMediaWire"
++++
+
+<p>Accredited Solutions, Inc. (OTC: ASII) has announced a strategic pivot towards the burgeoning fields of blockchain and artificial intelligence (AI) within the telecommunications sector, with the imminent acquisition of ItsBchain. This subsidiary specializes in leveraging blockchain technology for telecom infrastructure and settlement automation, signaling ASII's ambition to carve out a leadership position in next-generation telecom and fintech solutions.</p><p>The acquisition is poised to bring about transformative changes in how carrier settlements and interconnect transactions are processed. ItsBchain's innovative platform integrates blockchain, telecom, and AI to address longstanding industry challenges such as fraud reduction, settlement time optimization, and enhancing trust among global telecom carriers. Eduardo Brito, CEO of Accredited Solutions, Inc., emphasized the strategic value of this partnership, pointing to ItsBchain's development of groundbreaking projects in the telecom and fintech arenas.</p><p>ItsBchain's leadership team, which includes former CEOs of major Latin American telecommunications companies and experts in IT and finance, brings a wealth of over 25 years of industry experience. This depth of knowledge was a critical factor in ASII's decision to refocus its strategic priorities towards this acquisition, moving away from its previous engagement with Globetopper due to concerns over potential excessive dilution and the fragmented e-gift card market.</p><p>ASII is also nearing completion of its financial audit, with plans to file updated financials and regain current status in the near future. This strategic shift towards blockchain and AI in telecom not only aligns with global technology trends but also presents a scalable and operationally efficient pathway for growth. The acquisition of ItsBchain represents a significant milestone for ASII, underscoring its commitment to innovation and its potential to redefine the telecommunications and fintech landscapes.</p>

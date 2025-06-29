@@ -1,0 +1,16 @@
++++
+title = "Onar Holding Corporation Reports Significant Growth and Strategic Advances in 2024 Shareholder Letter"
+date = "2025-04-25T02:22:55Z"
+draft = false
+summary = "Onar Holding Corporation showcases a 57% revenue increase and strategic expansions, including the launch of ONAR Labs, positioning the company as a forward-thinking leader in marketing technology."
+description = "Onar (OTCQB: ONAR) has published its 2024 shareholder letter detailing impressive financial growth and expansion strategies. CEO Claude Zdanow highlights a substantial revenue increase and cost reduction, emphasizing the company's strong position in the market. With a focus on AI and global partnerships, Onar's innovative approach sets it apart in the marketing technology sector."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-onar-holding-corporation-otcqb-onar-highlights-57-revenue-growth-global-expansion-and-onar-labs-in-annual-shareholder-letter/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 85481
+feed_item_id = 13262
+url = "/news/202504/85481-onar-holding-corporation-reports-significant-growth-and-strategic-advances-in-2024-shareholder-letter"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/pondmWK6.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Onar Holding Corporation (OTCQB: ONAR) has made headlines with its 2024 shareholder letter, detailing a year of remarkable financial growth and strategic advancements. The company reported a 57% surge in consolidated revenue over the first nine months of the year, alongside a $250,000 decrease in cost of revenues, signaling efficient operational management and robust business performance.</p><p>Strategic partnerships and expansions have been central to ONAR's success. A notable collaboration with iQSTEL (OTCQX: IQST) and the expansion of its workforce across five continents underscore the company's global ambitions. The introduction of ONAR Labs marks a significant leap into the future of marketing technology, with a focus on artificial intelligence, machine learning, and analytics innovations.</p><p>With a network of agencies serving over 45 clients across diverse industries, ONAR has established specialized divisions to cater to specific market needs. These include Storia for performance marketing and SEO, Of Kos for healthcare marketing, CHALK for experiential marketing, and ONAR Labs for technology development. The company's targeted approach to servicing businesses with revenues between $50 million and $1 billion, coupled with its aggressive acquisition strategy, highlights its commitment to growth and industry leadership.</p><p>The shareholder letter also outlined future plans, including a strategic acquisition and the formation of an independent board by 2025. These moves, along with its nearly 50-strong global team, reinforce ONAR's mission to deliver comprehensive marketing services powered by cutting-edge technology.</p><p>ONAR's achievements and forward-looking strategies not only demonstrate its adaptability and innovation but also its potential to significantly influence the marketing technology landscape. For business and technology leaders, ONAR's trajectory offers insights into the evolving role of technology in marketing and the opportunities it presents for industry transformation.</p>

@@ -1,542 +1,1130 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="en" data-theme="light">
 <head>
-	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-<link rel="manifest" href="/favicon/site.webmanifest">
-<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-<title itemprop="name"> Latest news and updates from Building Texas Show | Building Texas Show News
+	<meta name="generator" content="Hugo 0.147.9"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newswriter Business and Technology News</title>
     
-</title>
-<meta name="description" content="Latest news and updates from Building Texas Show" />
-<meta property="og:title" content="Building Texas Show News | Building Texas Show News" />
-<meta name="twitter:title" content="Building Texas Show News | Building Texas Show News" />
-<meta itemprop="name" content="Building Texas Show News | Building Texas Show News" />
-<meta name="application-name" content="Building Texas Show News | Building Texas Show News" />
-<meta property="og:description"
-      content="Latest news and updates from Building Texas Show" />
-<meta property="og:site_name" content="Building Texas Show News" />
-<meta property="og:url" content="http://localhost:1313/" />
-<meta property="og:locale" content="en">
-<meta property="og:image" content="/images/tailbliss-cover.png" />
-<meta property="og:image:secure_url" content="http://localhost:1313/images/tailbliss-cover.png" />
-<meta property="og:type" content="website" />
-
-<script>
     
-    if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.classList.add('dark');
-    } else {
-        document.documentElement.classList.remove('dark')
-    }
-</script>
-
-
-
-
-<link rel="stylesheet" href="/css/style.min.d4b7d48197766dd5e1da1cccb03d39771f0aa165539e17e532a6a158cd245aa4.css" integrity="sha256-1LfUgZd2bdXh2hzMsD05dx8KoWVTnhflMqahWM0kWqQ=" />
-
+    <meta name="description" content="Newswriter.ai Curated Business and Technology News">
+    <meta name="keywords" content="news, breaking news, current events, analysis, journalism">
+    <meta name="author" content="Newswriter Staff">
+    
+    
+    <meta property="og:title" content="Newswriter Business and Technology News">
+    <meta property="og:description" content="Newswriter.ai Curated Business and Technology News">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:1313/">
+    
+    
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Newswriter Business and Technology News">
+    <meta name="twitter:description" content="Newswriter.ai Curated Business and Technology News">
+    
+    
+    <link rel="canonical" href="http://localhost:1313/">
+    
+    
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    
+    
+    <link rel="stylesheet" href="http://localhost:1313/css/main.min.a91d2a4774a8bf11b852a369bbb02ccccd66e5d4579847cf522248637572103e.css" integrity="sha256-qR0qR3SovxG4UqNpu7AszM1m5dRXmEfPUiJIY3VyED4=">
+    
 </head>
+<body class="min-h-screen bg-base-100">
+    
+<div class="bg-white border-b border-gray-200">
+  <div class="container mx-auto px-4 py-4">
+    <div class="flex items-center justify-between">
+      
+      <a href="/" class="flex items-center">
+        <img
+          src="https://newswriter.ai/logo.svg"
+          alt="Newswriter.ai"
+          class="h-8 w-auto"
+        />
+      </a>
 
-<body class="bg-zinc-100 dark:bg-gray-800">
-    <div class="top-0 z-50 w-full text-gray-200 bg-gray-900 border-2 border-gray-900 md:sticky border-b-stone-200/10">
-    <div x-data="{ open: false }" class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
-        <div class="flex flex-row items-center justify-between p-4">
-            <a href="/" class="flex text-gray-100 transition duration-1000 ease-in-out group">
-                <img src="/images/site-logo.svg" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="Building Texas Show News Logo" />
-                <div class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
-                    Building Texas Show News</div>
-            </a>
-            <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open" role="navigation" aria-expanded="false" aria-label="Main" aria-controls="menuItems">
-                <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
-                    <path x-show="!open" fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z" clip-rule="evenodd"></path>
-                    <path x-show="open" fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-                </svg>
-            </button>
+      
+      <div class="relative">
+        <div class="dropdown dropdown-end">
+          <div tabindex="0" role="button" class="btn btn-primary">
+            Write My Press Release
+            <svg
+              class="w-4 h-4 ml-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M19 9l-7 7-7-7"
+              ></path>
+            </svg>
+          </div>
+          <ul
+            tabindex="0"
+            class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
+          >
+            <li>
+              <a href="https://newswriter.ai" class="text-sm"
+                >Write Press Release</a
+              >
+            </li>
+          </ul>
         </div>
-        <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
-            
-            
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline" href="http://localhost:1313/" title="Home">
-                Home
-            </a>
-            
-            
-            
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline" href="http://localhost:1313/posts/" title="Articles">
-                Articles
-            </a>
-            
-            
-            
-            <button id="theme-toggle" type="button" class="p-2 text-sm text-gray-500 rounded-lg md: dark:text-gray-400 md:hover:bg-gray-100 dark:md:hover:bg-gray-700 md:focus:outline-none md:focus:ring-4 md:focus:ring-gray-200 dark:md:focus:ring-gray-700 md:ml-2 xs:hidden">
-                <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z">
-                    </path>
-                </svg>
-                <svg id="theme-toggle-light-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20" aria-label="Dark or Light Mode" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" fill-rule="evenodd" clip-rule="evenodd"></path>
-                </svg>
-            </button>
-            
-        </nav>
+      </div>
     </div>
+  </div>
 </div>
+
     
-<main>
-    <div class="bg-gray-200 dark:bg-gray-900">
-        <div class="max-w-screen-xl px-4 py-8 mx-auto">
-            <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
-                <div class="col-span-6 px-4 text-center sm:mb-6 lg:text-left lg:mb-0">
-                    <h1 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
-                        Building Texas Show News
-                    </h1>
-                    <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-4xl">
-                        Super Fast, and Flexible
-                    </h2>
-                    <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
-                        Latest news and updates from Building Texas Show
-                    </p>
-                </div>
-                <div class="col-span-6">
-                    
+    <main>
+        
 
-                    
-                    
-
-                    <img srcset="/images/pages/tailbliss-rocket-indigo_hu_b369cc88340b2b3.webp 400w, /images/pages/tailbliss-rocket-indigo_hu_5cf02c89d2a3b5fb.webp 576w" src="/images/pages/tailbliss-rocket-indigo.png" width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
-                </div>
-            </div>
+<div class="min-h-screen py-8">
+  <div class="container mx-auto px-4">
+    
+    <div class="max-w-6xl mx-auto">
+      <div class="content-card p-6 mb-8">
+        <div class="flex justify-between items-center">
+          <h2 class="text-3xl font-bold text-gray-800">
+            Curated Business &amp; Technology News from Around the Internet
+          </h2>
         </div>
-    </div>
+      </div>
 
-    
-
-    
-    <div class="relative my-4">
-        <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:items-start lg:gap-24 lg:px-8">
-            <div class="relative sm:py-8 lg:py-0">
-                <div aria-hidden="true" class="hidden sm:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-screen">
-                    <div class="absolute inset-y-0 w-full bg-gray-50 dark:bg-gray-900/10 right-1/2 rounded-r-3xl lg:right-72"></div><svg class="absolute -ml-3 top-8 left-1/2 lg:-right-8 lg:left-auto lg:top-12" width="404" height="392" fill="none" viewBox="0 0 404 392" loading="lazy">
-                        <defs>
-                            <pattern id="02f20b47-fd69-4224-a62a-4c9de5c763f7" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-                                <rect x="0" y="0" width="4" height="4" class="text-gray-200 dark:text-gray-900/60" fill="currentcolor"></rect>
-                            </pattern>
-                        </defs>
-                        <rect width="404" height="392" fill="url(#02f20b47-fd69-4224-a62a-4c9de5c763f7)"></rect>
-                    </svg>
-                </div>
-                <div class="relative w-full h-auto px-4 py-6 mx-auto sm:max-w-3xl sm:px-6 lg:px-0 lg:py-20">
-                    <div class="overflow-hidden shadow-xl rounded-2xl">
-                        
-                        
-                        
-                        <img imgh src="/images/pages/our-mission_hu_f6b8113447aded99.webp" width="1440" height="1440" class="w-full h-auto" alt="P1" loading="lazy" />
-                        
-                        
-                    </div>
-                </div>
+      
+      
+      
+       
+      <div class="mb-8">
+        <div class="card bg-base-100 shadow-xl rounded-xl overflow-hidden">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-0">
+            <div class="relative">
+              <img src="https://cdn.newsramp.app/banners/finance-2.jpg" alt="Berkshire Hathaway&#39;s Continued Investment in VeriSign Underscores Confidence in Internet Infrastructure" class="w-full h-64 lg:h-full
+              object-cover">
+              <span
+                class="badge badge-secondary-content badge-lg absolute top-4 left-4"
+                >FEATURED</span
+              >
             </div>
-            <div class="relative max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:px-0">
-                <div class="md:pt-12 sm:pt-6 lg:pt-20">
-                    <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                        Our mission
-                    </h2>
-                    <div class="mt-6 text-gray-900 dark:text-white">
-                        <div class="mt-6 space-y-6 text-gray-900 dark:text-white">
-                            
-                            <p class="text-lg text-gray-900 dark:text-white">
-                                Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae.
-                            </p>
-                            
-                            <p class="text-lg text-gray-900 dark:text-white">
-                                Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna.
-                            </p>
-                            
-                            <p class="text-lg text-gray-900 dark:text-white">
-                                Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra.
-                            </p>
-                            
-                        </div>
-                    </div>
+            <div class="p-6 flex flex-col justify-center">
+              <a href="http://localhost:1313/news/202504/85525-berkshire-hathaways-continued-investment-in-verisign-underscores-confidence-in-internet-infrastructure/" class="no-underline">
+                <h1
+                  class="text-2xl lg:text-3xl font-bold text-base-content leading-tight mb-4 hover:text-primary transition-colors duration-200"
+                >
+                  Berkshire Hathaway&#39;s Continued Investment in VeriSign Underscores Confidence in Internet Infrastructure
+                </h1>
+              </a>
+              
+              <div
+                class="text-base text-base-content opacity-80 mb-4 leading-relaxed [&>p]:mb-3"
+              >
+                Berkshire Hathaway's unwavering investment in VeriSign Inc. highlights the internet infrastructure provider's critical role and stable revenue streams, signaling long-term confidence amidst market …
+              </div>
+              
+              <div class="flex items-center justify-between">
+                <div
+                  class="flex items-center text-sm text-base-content opacity-60"
+                >
+                  
+                  <a
+                    href="https://rss.investorbrandnetwork.com/iw/investornewsbreaks-berkshire-hathaway-inc-nyse-brk-a-nyse-brk-b-reaffirms-confidence-in-verisign-nasdaq-vrsn-despite-market-skepticism/"
+                    target="_blank"
+                    class="text-primary hover:underline"
+                    >Source</a
+                  >
+                  <span class="mx-2">•</span>
+                  
+                  <span>April 22, 2025</span>
                 </div>
+                <a
+                  href="http://localhost:1313/news/202504/85525-berkshire-hathaways-continued-investment-in-verisign-underscores-confidence-in-internet-infrastructure/"
+                  class="btn btn-primary btn-sm"
+                >
+                  Read More
+                </a>
+              </div>
             </div>
+          </div>
         </div>
-    </div>
+      </div>
+      
 
-    
-    <div class="overflow-hidden sm:pt-6 lg:relative">
-        <div class="max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8">
-            <div>
-                <div class="md:mt-8">
-                    <div class="mt-6 sm:max-w-xl">
-                        <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl md:mt-16">
-                            Just in time for Hacktoberfest with JIT Tailwind.
-                        </h2>
-                        
-                        <p class="pb-12 mt-6 text-lg text-gray-900 dark:text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend.
-                        </p>
-                        
-                        </p>
-                    </div>
+      
+       
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+         
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85526-asure-software-secures-60-million-credit-facility-to-boost-hcm-solutions/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/frontier-tech-3.jpg" alt="Asure Software Secures $60 Million Credit Facility to Boost HCM Solutions" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Asure Software Secures $60 Million Credit Facility to Boost HCM Solutions
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Asure Software Inc. has secured a $60 million credit facility with MidCap Financial, enabling further development of its AI-enhanced Human Capital …
+                  </div>
+                  
                 </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
             </div>
+          </a>
         </div>
-        <div class="sm:mx-auto sm:max-w-3xl sm:px-6">
-            <div class="md:py-12 sm:relative sm:mt-12 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-                <div class="hidden sm:block">
-                    <div class="absolute inset-y-0 w-screen left-1/2 rounded-l-3xl bg-gray-50 dark:bg-gray-900/10 lg:left-80 lg:right-0 lg:w-full"></div><svg class="absolute -mr-3 top-8 right-1/2 lg:left-0 lg:m-0" width="404" height="392" fill="none" viewBox="0 0 404 392" loading="lazy">
-                        <defs>
-                            <pattern id="837c3e70-6c3a-44e6-8854-cc48c737b659" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-                                <rect x="0" y="0" width="4" height="4" class="text-gray-200 dark:text-gray-900/60" fill="currentcolor"></rect>
-                            </pattern>
-                        </defs>
-                        <rect width="404" height="392" fill="url(#837c3e70-6c3a-44e6-8854-cc48c737b659)"></rect>
-                    </svg>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85527-newton-golf-company-leverages-physics-to-revolutionize-golf-club-design/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="Newton Golf Company Leverages Physics to Revolutionize Golf Club Design" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Newton Golf Company Leverages Physics to Revolutionize Golf Club Design
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Newton Golf Company is transforming golf club manufacturing by applying scientific principles to enhance performance, stability, and control, setting …
+                  </div>
+                  
                 </div>
-                <div class="relative pl-4 -mr-40 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12">
-                    
-                    
-                    
-                    <img imgh src="/images/pages/hacktoberfest_hu_85d5466617b07d85.webp" width="2748" height="2000" alt="p2" class="w-full rounded-lg shadow-xl lg:h-full lg:w-auto lg:max-w-none" loading="lazy" />
-                    
-                    
-
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
                 </div>
+              </div>
             </div>
+          </a>
         </div>
-    </div>
-
-
-    
-    <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
-        <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
-            <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
-                
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    
-                    
-                    <img src="/images/global/sample-logo.svg" class="max-h-12 dark:invert" alt="a" loading="lazy" />
-                    
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85528-google-pioneers-geothermal-energy-agreement-in-asia-setting-a-sustainable-precedent/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/environment-energy-3.jpg" alt="Google Pioneers Geothermal Energy Agreement in Asia, Setting a Sustainable Precedent" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Google Pioneers Geothermal Energy Agreement in Asia, Setting a Sustainable Precedent
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Google's partnership with Baseload Capital to supply Taiwan with 10 MW of carbon-free geothermal energy marks a significant step towards sustainable …
+                  </div>
+                  
                 </div>
-                
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    
-                    
-                    <img src="/images/global/sample-logo.svg" class="max-h-12 dark:invert" alt="" loading="lazy" />
-                    
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
                 </div>
-                
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    
-                    
-                    <img src="/images/global/sample-logo.svg" class="max-h-12 dark:invert" alt="" loading="lazy" />
-                    
-                </div>
-                
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    
-                    
-                    <img src="/images/global/sample-logo.svg" class="max-h-12 dark:invert" alt="" loading="lazy" />
-                    
-                </div>
-                
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    
-                    
-                    <img src="/images/global/sample-logo.svg" class="max-h-12 dark:invert" alt="" loading="lazy" />
-                    
-                </div>
-                
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    
-                    
-                    <img src="/images/global/sample-logo.svg" class="max-h-12 dark:invert" alt="" loading="lazy" />
-                    
-                </div>
-                
+              </div>
             </div>
-            <div>
-                <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                    Backed by world-renowned investors
-                </h2>
-                
-                <p class="max-w-3xl mt-6 text-lg leading-7 text-gray-900 dark:text-white">
-                    Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae.
-                </p>
-                
-                
-                <div class="my-6">
-                    <a href="#" class="text-base font-medium text-primary-400 dark:text-primary-100">
-                        Meet our investors and advisors&nbsp&rarr;
-                    </a>
-                </div>
-                
-            </div>
+          </a>
         </div>
-    </div>
-
-    
-    <div class="relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
-        <div class="absolute inset-0">
-            <div class="bg-gray-200 dark:bg-gray-900/50 h-1/3 sm:h-2/3"></div>
-        </div>
-        <div class="relative px-2 mx-auto max-w-7xl">
-            <div class="text-center">
-                <h2 class="text-3xl font-black tracking-tight text-primary-500 dark:text-primary-300 sm:text-4xl">
-                    From the blog
-                </h2>
-                
-                <p class="max-w-2xl mx-auto mt-3 text-xl text-gray-500 dark:text-gray-300 sm:mt-4">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed.
-                </p>
-                
-            </div>
-
-            <div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50 md:px-1.5">
-                <div class="px-4 text-gray-900 dark:text-white not-prose dark:text-zinc-200">
-                    <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
-                        
-                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                            <a href="http://localhost:1313/posts/2025-06-15-douglas-a-gosselins-pawn-to-kings-end-sheds-light-on-acadian-expulsion-through-historical-fiction/">
-                                
-                            </a>
-                            <div class="p-6">
-                                <div class="flex-1">
-                                    <a href="http://localhost:1313/posts/2025-06-15-douglas-a-gosselins-pawn-to-kings-end-sheds-light-on-acadian-expulsion-through-historical-fiction/" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                                        Douglas A. Gosselin&#39;s &#39;Pawn to King&#39;s End&#39; Sheds Light on Acadian Expulsion Through Historical Fiction
-                                    </a>
-                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        &lt;p&gt;Pawn to King&#39;s End, a captivating historical novel by Douglas A. Gosselin, immerses readers in the turmoil of 18th-century North America during the brutal expulsion of the Acadian people in 1755. The protagonist, Clément Gosselin, is thrust into a dangerous struggle for survival and the fate of a nation on the brink of revolution.&lt;/p&gt;
-                                    </p>
-                                </div>
-                                <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                                    <span class="pr-2 font-black">Tags:</span>
-                                    </div>
-                                <div class="flex items-center mt-6">
-                                    <div class="flex-shrink-0">
-                                        <span class="sr-only"></span>
-                                        
-                                    </div>
-                                    <div class="pt-1 ml-3">
-                                        <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                            
-                                        </p>
-                                        <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                            <time datetime="2025-06-15T05:31:05Z">2025-06-15</time>
-                                            <span aria-hidden="true">&middot;</span>
-                                            <span>1 min read</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                            <a href="http://localhost:1313/posts/2025-06-15-blacksky-technology-advances-satellite-capabilities-and-secures-major-contracts/">
-                                
-                            </a>
-                            <div class="p-6">
-                                <div class="flex-1">
-                                    <a href="http://localhost:1313/posts/2025-06-15-blacksky-technology-advances-satellite-capabilities-and-secures-major-contracts/" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                                        BlackSky Technology Advances Satellite Capabilities and Secures Major Contracts
-                                    </a>
-                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        &lt;p&gt;Stonegate Capital Partners updates their coverage on BlackSky Technology, Inc. (NYSE: BKSY), reporting revenue, adj EBITDA, and EPS for 4Q24. BKSY secured significant contract awards, launched its first Gen-3 satellite, and ended the quarter with a strong balance sheet. The company also set its FY25 revenue guidance and provided a valuation analysis.&lt;/p&gt;
-                                    </p>
-                                </div>
-                                <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                                    <span class="pr-2 font-black">Tags:</span>
-                                    </div>
-                                <div class="flex items-center mt-6">
-                                    <div class="flex-shrink-0">
-                                        <span class="sr-only"></span>
-                                        
-                                    </div>
-                                    <div class="pt-1 ml-3">
-                                        <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                            
-                                        </p>
-                                        <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                            <time datetime="2025-06-15T05:30:45Z">2025-06-15</time>
-                                            <span aria-hidden="true">&middot;</span>
-                                            <span>2 min read</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                            <a href="http://localhost:1313/posts/2025-06-15-arlingtons-not-your-basic-locksmith-elevates-security-services-with-mobile-expertise/">
-                                
-                            </a>
-                            <div class="p-6">
-                                <div class="flex-1">
-                                    <a href="http://localhost:1313/posts/2025-06-15-arlingtons-not-your-basic-locksmith-elevates-security-services-with-mobile-expertise/" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                                        Arlington&#39;s Not Your Basic Locksmith Elevates Security Services with Mobile Expertise
-                                    </a>
-                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        &lt;p&gt;Residents in Arlington now have access to professional locksmith services provided by Not Your Basic Locksmith. With over 15 years of experience, the company offers a wide range of mobile locksmith solutions, including key fob replacement, ignition repair, and ECU programming. Their reliable and swift response times make them a top choice in the area.&lt;/p&gt;
-                                    </p>
-                                </div>
-                                <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                                    <span class="pr-2 font-black">Tags:</span>
-                                    </div>
-                                <div class="flex items-center mt-6">
-                                    <div class="flex-shrink-0">
-                                        <span class="sr-only"></span>
-                                        
-                                    </div>
-                                    <div class="pt-1 ml-3">
-                                        <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                            
-                                        </p>
-                                        <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                            <time datetime="2025-06-15T05:30:21Z">2025-06-15</time>
-                                            <span aria-hidden="true">&middot;</span>
-                                            <span>2 min read</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85529-russian-scientists-pioneer-flexible-battery-technology-paving-the-way-for-bendable-smartphones/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/technology-2.jpg" alt="Russian Scientists Pioneer Flexible Battery Technology, Paving the Way for Bendable Smartphones" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Russian Scientists Pioneer Flexible Battery Technology, Paving the Way for Bendable Smartphones
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Russian researchers have made a breakthrough in developing flexible batteries using advanced X-ray technology, potentially enabling smartphones and …
+                  </div>
+                  
                 </div>
-            </div>
-        </div>
-    </div>
-
-    
-    
-    <div class="relative pb-16 mt-6">
-        <div class="max-w-md mx-auto px-7 sm:max-w-3xl lg:max-w-7xl">
-            <div class="relative px-6 py-10 overflow-hidden shadow-xl bg-primary-500 rounded-2xl sm:px-12 sm:py-20">
-                <div aria-hidden="true" class="absolute inset-0 -mt-72 sm:-mt-32 md:mt-0">
-                    <svg class="absolute inset-0 w-full h-full" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1463 360" loading="lazy">
-                        <path class="text-primary-600 text-opacity-40" fill="currentColor" d="M-82.673 72l1761.849 472.086-134.327 501.315-1761.85-472.086z" />
-                        <path class="text-primary-600 text-opacity-40" fill="currentColor" d="M-217.088 544.086L1544.761 72l134.327 501.316-1761.849 472.086z" />
-                    </svg>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
                 </div>
-                <div class="relative">
-                    <div class="sm:text-center">
-                        <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">
-                            Stay Up to Date
-                        </h2>
-                        
-                        <p class="max-w-2xl mx-auto mt-6 text-lg text-primary-100">
-                            Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque.
-                        </p>
-                        
-                    </div>
-                    <form action="#" class="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
-                        <div class="flex-1 min-w-0">
-                            <label for="cta-email" class="sr-only">Email address</label>
-                            <input id="cta-email" type="email" class="block w-full px-5 py-3 text-base text-gray-900 placeholder-gray-500 border border-transparent rounded-md shadow-sm focus:border-transparent focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500" placeholder="Enter your email">
-                        </div>
-                        <div class="mt-4 sm:mt-0 sm:ml-3">
-                            <button type="submit" class="block w-full px-5 py-3 text-base font-medium text-white bg-gray-900 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
-                                Notify me
-                            </button>
-                        </div>
-                    </form>
-                </div>
+              </div>
             </div>
+          </a>
         </div>
-    </div>
-    
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85530-femto-technologies-inc-executes-1-for-500-reverse-stock-split-to-maintain-nasdaq-listing/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-1.jpg" alt="Femto Technologies Inc. Executes 1-for-500 Reverse Stock Split to Maintain Nasdaq Listing" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Femto Technologies Inc. Executes 1-for-500 Reverse Stock Split to Maintain Nasdaq Listing
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Femto Technologies Inc. has completed a significant reverse stock split to comply with Nasdaq Capital Market requirements, ensuring the company's …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85534-electric-vehicles-a-pivotal-shift-towards-zero-emission-transportation/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="Electric Vehicles: A Pivotal Shift Towards Zero-Emission Transportation" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Electric Vehicles: A Pivotal Shift Towards Zero-Emission Transportation
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Electric vehicles (EVs) are revolutionizing the automotive industry by offering a sustainable solution to reduce greenhouse gas emissions, with …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85532-unitedhealth-group-adjusts-2025-revenue-forecast-amid-rising-medicare-advantage-plan-usage/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/health-wellness-1.jpg" alt="UnitedHealth Group Adjusts 2025 Revenue Forecast Amid Rising Medicare Advantage Plan Usage" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  UnitedHealth Group Adjusts 2025 Revenue Forecast Amid Rising Medicare Advantage Plan Usage
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    UnitedHealth Group revises its 2025 revenue forecast downward due to higher-than-expected engagement with Medicare Advantage plans, signaling a shift …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85536-splash-beverage-group-appeals-nyse-american-non-compliance-notice-amid-unusual-trading-activity/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/finance-2.jpg" alt="Splash Beverage Group Appeals NYSE American Non-Compliance Notice Amid Unusual Trading Activity" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Splash Beverage Group Appeals NYSE American Non-Compliance Notice Amid Unusual Trading Activity
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Splash Beverage Group is appealing a NYSE American non-compliance notice, citing unusual market trading and remains optimistic about addressing …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85540-cavitation-technologies-inc-introduces-revolutionary-water-treatment-system-to-combat-global-scarcity/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/environment-energy-3.jpg" alt="Cavitation Technologies, Inc. Introduces Revolutionary Water Treatment System to Combat Global Scarcity" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Cavitation Technologies, Inc. Introduces Revolutionary Water Treatment System to Combat Global Scarcity
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Cavitation Technologies, Inc. (CTi) has developed a groundbreaking non-thermal plasma water treatment system, offering a sustainable solution to …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85538-everyware-and-visa-revolutionize-payment-solutions-with-new-integration/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/finance-2.jpg" alt="Everyware and Visa Revolutionize Payment Solutions with New Integration" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Everyware and Visa Revolutionize Payment Solutions with New Integration
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Everyware's new integration with Visa's Cybersource platform enhances in-person payment experiences, offering businesses secure, flexible, and …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85542-fintechtv-acquires-bull-street-media-to-expand-financial-news-reach/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/news-direct/newsimage/5f922f064fd539ca7ee24c759f969677.jpg" alt="FINTECH.TV Acquires Bull Street Media to Expand Financial News Reach" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  FINTECH.TV Acquires Bull Street Media to Expand Financial News Reach
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    FINTECH.TV's acquisition of Bull Street Media marks a strategic move to enhance content delivery and engage a younger, financially savvy audience …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85544-koinfold-launches-discord-server-to-strengthen-crypto-community-engagement/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg" alt="KOINFOLD Launches Discord Server to Strengthen Crypto Community Engagement" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  KOINFOLD Launches Discord Server to Strengthen Crypto Community Engagement
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    KOINFOLD's new Discord server aims to enhance community interaction, education, and security in the decentralized finance space, marking a significant …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85547-fully-promoted-marks-25-years-with-strategic-ai-partnership-and-growth-vision/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-2.jpg" alt="Fully Promoted Marks 25 Years with Strategic AI Partnership and Growth Vision" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Fully Promoted Marks 25 Years with Strategic AI Partnership and Growth Vision
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Fully Promoted celebrated its 25th anniversary by announcing a strategic partnership with ASI for AI-powered sales tools and outlining future growth …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85546-philip-salmon-company-rare-books-revitalizes-bostons-literary-scene-with-a-blend-of-tradition-and-innovation/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg" alt="Philip Salmon &amp; Company Rare Books Revitalizes Boston&#39;s Literary Scene with a Blend of Tradition and Innovation" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Philip Salmon &amp; Company Rare Books Revitalizes Boston&#39;s Literary Scene with a Blend of Tradition and Innovation
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    The opening of Philip Salmon & Company Rare Books in Boston marks a significant moment for the city's rare book community, blending traditional rare …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85549-experienced-hairstylist-michaela-ann-launches-independent-business-in-georgetown-texas/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Experienced Hairstylist Michaela Ann Launches Independent Business in Georgetown, Texas" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Experienced Hairstylist Michaela Ann Launches Independent Business in Georgetown, Texas
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Michaela Ann, a seasoned hairstylist with 13 years of experience, opens her independent salon at Hill Country Salon Suites, offering personalized hair …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85548-iuvo-technologies-recognized-among-bostons-best-places-to-work-for-2025/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/awards-2.jpg" alt="iuvo Technologies Recognized Among Boston&#39;s Best Places to Work for 2025" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  iuvo Technologies Recognized Among Boston&#39;s Best Places to Work for 2025
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    iuvo Technologies earns a spot on the Boston Business Journal's Best Places to Work list for 2025, highlighting its commitment to fostering an …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85550-coastal-windows-exteriors-marks-15-years-of-excellence-and-community-service/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/non-profit-2.jpg" alt="Coastal Windows &amp; Exteriors Marks 15 Years of Excellence and Community Service" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Coastal Windows &amp; Exteriors Marks 15 Years of Excellence and Community Service
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Coastal Windows & Exteriors celebrates 15 years of leadership in energy-efficient home improvements and social responsibility, earning national …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 22, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85551-audioeye-strengthens-market-position-with-successful-secondary-stock-offering/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/technology-1.jpg" alt="AudioEye Strengthens Market Position with Successful Secondary Stock Offering" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  AudioEye Strengthens Market Position with Successful Secondary Stock Offering
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    AudioEye's recent secondary stock offering highlights investor confidence in the digital accessibility sector, underscoring the company's role in …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85553-gold-market-sees-temporary-pullback-amid-record-setting-performance/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/technology-3.jpg" alt="Gold Market Sees Temporary Pullback Amid Record-Setting Performance" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Gold Market Sees Temporary Pullback Amid Record-Setting Performance
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    The gold market experienced a slight downturn as investors took profits, yet remains strong above $3,300 per ounce, supported by geopolitical risks …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85552-linkedin-expands-video-advertising-with-wire-program-to-connect-brands-with-professional-audiences/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg" alt="LinkedIn Expands Video Advertising with Wire Program to Connect Brands with Professional Audiences" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  LinkedIn Expands Video Advertising with Wire Program to Connect Brands with Professional Audiences
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    LinkedIn's introduction of pre-roll video ads through the Wire Program offers businesses a novel way to engage with professional audiences by placing …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85554-aston-bay-holdings-unveils-significant-copper-potential-in-nunavut-with-storm-project/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Aston Bay Holdings Unveils Significant Copper Potential in Nunavut with Storm Project" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Aston Bay Holdings Unveils Significant Copper Potential in Nunavut with Storm Project
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Aston Bay Holdings Ltd.'s initial NI 43-101 technical report for the Storm Copper Project highlights substantial copper resources in Nunavut, Canada, …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85555-mullen-automotive-secures-14-million-order-for-electric-trucks-signaling-growth-in-commercial-ev-sector/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-3.jpg" alt="Mullen Automotive Secures $1.4 Million Order for Electric Trucks, Signaling Growth in Commercial EV Sector" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Mullen Automotive Secures $1.4 Million Order for Electric Trucks, Signaling Growth in Commercial EV Sector
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Mullen Automotive's recent $1.4 million order for its electric trucks from Cashflow on Wheels underscores the growing demand for commercial electric …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85556-telvantis-reports-strong-revenue-growth-signaling-strategic-transformation-success/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/business-corporate-1.jpg" alt="Telvantis Reports Strong Revenue Growth, Signaling Strategic Transformation Success" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Telvantis Reports Strong Revenue Growth, Signaling Strategic Transformation Success
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Telvantis's reported revenue of $32 million in February and March 2025 underscores its successful strategic transformation and scalability in the …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85557-me-first-living-launches-organic-wellness-supplement-line-targeting-holistic-health/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/press-services/newsimage/32a82c17704b13f94d304db3c63af6b4.jpg" alt="Me First Living Launches Organic Wellness Supplement Line Targeting Holistic Health" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  Me First Living Launches Organic Wellness Supplement Line Targeting Holistic Health
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    Me First Living introduces a range of organic wellness supplements, including Ceylon cinnamon and mushroom complex, aimed at supporting blood sugar …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85558-testmark-dna-expands-nationwide-paternity-testing-services-enhancing-accessibility-and-privacy/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/press-services/newsimage/abe1405a6a37608458832765006581d2.jpg" alt="TestMark DNA Expands Nationwide Paternity Testing Services, Enhancing Accessibility and Privacy" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  TestMark DNA Expands Nationwide Paternity Testing Services, Enhancing Accessibility and Privacy
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    TestMark DNA's nationwide expansion of paternity testing services offers both legal and at-home options, ensuring privacy, accuracy, and support for …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85559-bigloads-revolutionizes-trailer-rental-market-with-peer-to-peer-platform/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/press-services/newsimage/d1c8379e7bd1f3d876c460e27ff564b4.jpg" alt="BigLoads Revolutionizes Trailer Rental Market with Peer-to-Peer Platform" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  BigLoads Revolutionizes Trailer Rental Market with Peer-to-Peer Platform
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    BigLoads introduces a peer-to-peer online marketplace that connects trailer owners with renters, offering a wide range of trailer types for various …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+          
+        <div class="flex">
+          <a href="http://localhost:1313/news/202504/85560-macroedge-launches-mobility-division-to-transform-transportation-and-aviation-sectors/" class="block no-underline flex-1">
+            <div
+              class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl flex flex-col"
+            >
+              <div class="relative flex-shrink-0">
+                <img src="https://cdn.newsramp.app/banners/travel-3.jpg" alt="MacroEdge Launches Mobility Division to Transform Transportation and Aviation Sectors" class="w-full
+                h-48 object-cover rounded-t-xl"
+                onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop'">
+              </div>
+              <div class="flex flex-col flex-1 p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  MacroEdge Launches Mobility Division to Transform Transportation and Aviation Sectors
+                </h3>
+                <div class="flex-1 mb-4">
+                  
+                  <div
+                    class="text-sm leading-relaxed text-base-content opacity-80 [&>p]:mb-2"
+                  >
+                    MacroEdge introduces MacroEdge Mobility, a new division aimed at revolutionizing the transportation and aviation industries with data-driven solutions …
+                  </div>
+                  
+                </div>
+                <div class="text-xs text-base-content opacity-60 mt-auto">
+                  April 21, 2025
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+         
+      </div>
+      
 
-</main>
-
-    
-<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-
-<script src="/js/darkmode.js" defer></script>
-<footer class="bg-gray-900">
-    <div class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
-        <nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
+      
+      
+      <div class="content-card p-6">
+        <div class="flex flex-col justify-center">
+          <div class="text-center mb-6">
+            <p class="text-sm text-gray-600">
+              Showing 28 of 1753 articles (Page 46 of 63)
+            </p>
+          </div>
+          <div class="flex justify-center items-center gap-2">
             
-            <div class="px-5 py-2">
-                <a href="http://localhost:1313/about/" class="text-base text-gray-400 hover:text-gray-300">About</a>
-            </div>
             
-            <div class="px-5 py-2">
-                <a href="http://localhost:1313/categories/blog/" class="text-base text-gray-400 hover:text-gray-300">Blog</a>
-            </div>
-            
-            <div class="px-5 py-2">
-                <a href="http://localhost:1313/categories/news/" class="text-base text-gray-400 hover:text-gray-300">News</a>
-            </div>
-            
-            <div class="px-5 py-2">
-                <a href="http://localhost:1313/prose/" class="text-base text-gray-400 hover:text-gray-300">Prose</a>
-            </div>
-            
-            <div class="px-5 py-2">
-                <a href="http://localhost:1313/contact/" class="text-base text-gray-400 hover:text-gray-300">Contact</a>
-            </div>
-            
-        </nav>
-        <div class="flex justify-center mt-8 space-x-6">
-            
-            <a href="https://facebook.com/nusserstudios" class="text-gray-400 hover:text-gray-300">
-                <span class="sr-only">Facebook</span>
-                <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path fill-rule="evenodd"
-                          d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
-                          clip-rule="evenodd" />
-                </svg>
+            <a href="/page/45/" class="btn btn-outline btn-sm">
+              <svg
+                class="w-4 h-4 mr-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
+                ></path>
+              </svg>
+              Previous
             </a>
             
+
             
-            <a href="https://instagram.com/nusserstudios" class="text-gray-400 hover:text-gray-300">
-                <span class="sr-only">Instagram</span>
-                <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path fill-rule="evenodd"
-                          d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z"
-                          clip-rule="evenodd" />
-                </svg>
+            <div class="flex gap-1 mx-4">
+              
+              
+              <a
+                href="/"
+                class="btn btn-outline btn-sm"
+                >1</a
+              >
+              
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+               
+
+              
+              
+              <a href="/page/45/" class="btn btn-outline btn-sm"
+                >45</a
+              >
+              
+
+              
+              <span class="btn btn-primary btn-sm"
+                >46</span
+              >
+
+              
+              
+              <a href="/page/47/" class="btn btn-outline btn-sm"
+                >47</a
+              >
+              
+
+              
+               
+              <span class="btn btn-ghost btn-sm cursor-default">...</span>
+              
+              <a href="/page/63/" class="btn btn-outline btn-sm"
+                >63</a
+              >
+              
+            </div>
+
+            
+            
+            <a href="/page/47/" class="btn btn-outline btn-sm">
+              Next
+              <svg
+                class="w-4 h-4 ml-1"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                ></path>
+              </svg>
             </a>
             
-            
-            <a href="https://twitter.com/nusserstudios" class="text-gray-400 hover:text-gray-300">
-                <span class="sr-only">Twitter</span>
-                <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path
-                          d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
-                </svg>
-            </a>
-            
-            
-            <a href="https://github.com/nusserstudios" class="text-gray-400 hover:text-gray-300">
-                <span class="sr-only">GitHub</span>
-                <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path fill-rule="evenodd"
-                          d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
-                          clip-rule="evenodd" />
-                </svg>
-            </a>
-            
+          </div>
         </div>
-        <p class="mt-8 text-base text-center text-gray-400">&copy; 2025
-            Building Texas Show News. All rights
-            reserved.</p>
-        <p class="mt-2 text-base text-center text-gray-400">Made with &#x2764;&#xfe0f; by <a
-               href="https://nusserstudios.com" class="hover:underline hover:text-primary-600"><span
-                      class="font-black uppercase">Nusser</span> <span class="font-light uppercase">Studios.</span></a>
+      </div>
+       
+    </div>
+  </div>
+</div>
+
+    </main>
+    
+    
+<footer class="text-white">
+  <div class="container mx-auto px-4 py-6">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="flex items-center gap-4">
+        <p class="text-sm">
+          Newswriter.ai © 2025 All Rights Reserved
         </p>
+        <a
+          href="https://newswriter.ai/privacy-policy"
+          class="text-sm hover:text-cyan-200 transition-colors"
+          >Privacy Policy</a
+        >
+        <a
+          href="https://newswriter.ai/terms-of-service"
+          class="text-sm hover:text-cyan-200 transition-colors"
+          >Terms of Service</a
+        >
+      </div>
     </div>
+  </div>
 </footer>
-</body>
 
+</body>
 </html>

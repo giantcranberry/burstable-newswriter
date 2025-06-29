@@ -1,0 +1,16 @@
++++
+title = "Datavault AI and GFT Rewards Partner to Revolutionize Consumer Engagement with ADIO(R) Technology"
+date = "2025-06-04T15:35:48Z"
+draft = false
+summary = "Datavault AI Inc. and GFT Rewards have entered a strategic partnership to utilize ADIO(R) technology for transforming consumer engagement through real-time, tokenized rewards embedded in digital content."
+description = "Datavault AI partners with GFT Rewards to deploy ADIO(R) technology for real-time mobile rewards, revolutionizing retail marketing in the Web3 era."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-datavault-ai-inc-nasdaq-dvlt-and-gft-rewards-partner-to-deliver-adior-powered-web3-mobile-incentives/"
+enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
+article_id = 84192
+feed_item_id = 15141
+url = "/news/202506/84192-datavault-ai-and-gft-rewards-partner-to-revolutionize-consumer-engagement-with-adior-technology"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/lambnjht.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Datavault AI Inc. (NASDAQ: DVLT) has forged a strategic licensing agreement with GFT Rewards, a pioneer in Web3 promotions, to integrate its proprietary ADIO(R) inaudible-tone technology. This collaboration is set to redefine consumer-brand interactions by facilitating the instant delivery and redemption of tokenized or cash-based mobile rewards via encrypted audio signals in advertisements and digital media.</p><p>The alliance harnesses Datavault AI's ADIO(R) technology to enable seamless, passive coupon activation in high-footfall locations including airports, retail outlets, entertainment hubs, and ride-sharing services. This method empowers brands to dispatch tailored offers straight to consumers' smartphones, enriching the shopping experience while boosting engagement and revenue.</p><p>As per the agreement, Datavault AI will receive a fee for each redemption processed through GFT Rewards' growing platform. This partnership arrives at a pivotal moment, with the global mobile coupon market expected to surpass $1.6 trillion by 2030, positioning Datavault AI as a leader in the evolution of performance-driven, Web3 retail marketing.</p><p>The ADIO(R) technology by Datavault AI marks a significant advancement in the monetization of digital assets within the Web3 ecosystem. It ensures secure and swift transactions, offering advantages not just to brands and retailers but also delivering a more tailored and hassle-free shopping experience to consumers. The collaboration with GFT Rewards highlights Datavault AI's dedication to innovation and its influence on the future landscape of retail marketing.</p><p>This partnership exemplifies the escalating role of Web3 technologies in crafting more dynamic and captivating consumer experiences. As the boundaries between the digital and physical realms blur, such collaborations are instrumental in ushering in a new phase of retail marketing characterized by heightened personalization, efficiency, and security.</p>

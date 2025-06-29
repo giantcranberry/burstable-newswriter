@@ -1,0 +1,16 @@
++++
+title = "Dorsey & Whitney LLP Strengthens IP Practice with Addition of Sam Hong as Partner"
+date = "2025-06-04T10:05:07Z"
+draft = false
+summary = "Dorsey & Whitney LLP enhances its intellectual property capabilities by welcoming Sam Hong, a partner with extensive experience in technology and law, to its Seattle office, signaling a strategic move to address the growing complexities of IP management in various industries."
+description = "Attorney Sam Hong joins Dorsey & Whitney LLP as a Patent Partner, enhancing the firm's IP strategy services for diverse industries in Seattle."
+source_link = "https://www.citybiz.co/article/702343/patent-partner-sam-hong-joins-dorsey-in-seattle/"
+enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
+article_id = 84215
+feed_item_id = 15084
+url = "/news/202506/84215-dorsey-whitney-llp-strengthens-ip-practice-with-addition-of-sam-hong-as-partner"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/oval9MZ0.webp"
+source = "citybiz"
++++
+
+<p>Dorsey & Whitney LLP, a renowned international law firm, has significantly enhanced its intellectual property (IP) practice with the appointment of Sam Hong as a Partner in its Patent group located in Seattle. Hong's expertise in electrical engineering and law positions him uniquely to advise a diverse range of clients, from startups to established corporations, on navigating the intricate landscape of IP portfolio development and management.</p><p>Hong's career spans critical roles, including his tenure at an AM LAW 50 firm and his technical position as a senior electronics engineer at Lockheed Martin. This blend of experience equips him with a profound understanding of the technical and legal hurdles that innovators face, particularly in industries like robotics, memory devices, and bioinformatics. His ability to advise on open-source software, product roadmaps, and IP rights enforcement is a testament to his comprehensive skill set.</p><p>Matt Bethards, the Business Group Head for the Patent, Trademark, Copyright + Advertising Practice Groups at Dorsey, praised Hong's addition to the team. Bethards highlighted Hong's extensive experience with both hardware and software technologies as a significant boon for the firm's clients. Hong expressed his excitement about joining Dorsey's esteemed Patent group and his commitment to contributing to the team's achievements.</p><p>This strategic hire comes at a time when businesses across sectors are grappling with the challenges of protecting their innovations in a fast-paced and competitive environment. Hong's proficiency in developing cost-effective strategies for IP portfolio growth is particularly valuable. Moreover, his focus on bioinformatics is expected to enhance Dorsey's ability to serve clients in the healthcare and life sciences industries, where the intersection of IP, privacy, and regulatory compliance is increasingly complex.</p><p>The inclusion of Sam Hong in Dorsey & Whitney LLP's team underscores the firm's dedication to offering tailored legal solutions that address the nuanced needs of today's innovators. As the demand for legal professionals who can seamlessly integrate technical innovation with legal strategy continues to rise, Hong's role at Dorsey exemplifies the firm's commitment to excellence and leadership in the IP domain.</p>

@@ -1,0 +1,16 @@
++++
+title = "J.S. Held Strengthens IP Leadership with Appointment of James E. Malackowski as Chief Intellectual Property Officer"
+date = "2025-06-04T15:05:06Z"
+draft = false
+summary = "J.S. Held's appointment of James E. Malackowski as its first Chief Intellectual Property Officer highlights the escalating value of intellectual property and intangible assets in the global economy, signaling a strategic move to enhance innovation protection and monetization."
+description = "J.S. Held appoints James E. Malackowski as the first Chief Intellectual Property Officer, highlighting the strategic importance of IP in the global consulting industry."
+source_link = "https://www.citybiz.co/article/702604/j-s-held-appoints-james-e-malackowski-as-chief-intellectual-property-officer/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 84194
+feed_item_id = 15135
+url = "/news/202506/84194-js-held-strengthens-ip-leadership-with-appointment-of-james-e-malackowski-as-chief-intellectual-property-officer"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/bold72tV.webp"
+source = "citybiz"
++++
+
+<p>The consulting industry is witnessing a pivotal shift towards the recognition and management of intellectual property (IP) and intangible assets, as evidenced by J.S. Held's strategic appointment of James E. Malackowski as its first Chief Intellectual Property Officer (CIPO). This move not only reflects the growing significance of IP in the knowledge-based economy but also positions J.S. Held at the forefront of integrating IP strategy with business intelligence and risk management.</p><p>Malackowski's expertise is expected to play a critical role in safeguarding and capitalizing on J.S. Held's proprietary methodologies and technologies. With a portfolio that includes innovative solutions like the 'System and Method for Financing an Insurance Transaction,' his leadership is anticipated to drive the firm's ability to monetize these assets, offering tangible benefits to clients and investors alike. This strategic focus on IP management underscores the firm's commitment to innovation and client service excellence.</p><p>Ocean Tomo, a J.S. Held company, brings to the table decades of specialized knowledge in IP valuation and risk assessment, further enhancing the firm's capabilities. The integration of Ocean Tomo's expertise with J.S. Held's multidisciplinary approach enables a comprehensive understanding of the value and risks associated with intangible assets, which now constitute a significant portion of market value. A recent study by J.S. Held reveals that intangible assets account for 72% of the market value of MSCI World Mid-Cap companies, a figure projected to exceed $8.3 trillion USD by 2025.</p><p>This development is not just a milestone for J.S. Held but also a reflection of the broader economic trend where intangible assets are becoming increasingly central to corporate value and competitive advantage. The firm's enhanced IP leadership and capabilities are set to provide clients with unparalleled insights and strategies for navigating the complexities of the modern economy, where innovation and IP are key drivers of success.</p>

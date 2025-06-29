@@ -1,0 +1,16 @@
++++
+title = "HIVE Digital Technologies Achieves Major Milestone in Cryptocurrency Mining Expansion"
+date = "2025-05-06T13:20:24Z"
+draft = false
+summary = "HIVE Digital Technologies completes a critical phase of its 2025 growth strategy with a new 100 megawatt data center in Paraguay, positioning the company for significant Bitcoin mining capacity without incurring debt."
+description = "HIVE Digital Technologies achieves key milestones in Paraguay with completion of 100 MW data center, sets sights on 3% of global Bitcoin network. Debt-free growth strategy and efficient mining operations attract investor interest and analyst optimism."
+source_link = "https://www.newmediawire.com/news/hive-completes-first-100mw-infrastructure-in-paraguay-plans-continued-debt-free-expansion-and-triple-digit-growth-7080621"
+enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
+article_id = 85350
+feed_item_id = 13815
+url = "/news/202505/85350-hive-digital-technologies-achieves-major-milestone-in-cryptocurrency-mining-expansion"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/6/diveZSn5.webp"
+source = "NewMediaWire"
++++
+
+<p>HIVE Digital Technologies has marked a significant achievement in its ambitious 2025 growth strategy by successfully completing the first 100 megawatt infrastructure phase at its Yguazù facility in Paraguay. This development is a cornerstone in the company's expansion, featuring a new air-cooled data center supported by a fully energized 200 MW substation. The facility is designed to accommodate 5 EH/s of next-generation ASIC miners, with HIVE already operating 200 petahashes using its proprietary BUZZ Miners.</p><p>The company's strategic expansion is notable for its debt-free approach, relying instead on disciplined treasury management to fuel growth. By the end of April, HIVE plans to have 8,000 BUZZ Miners operational, scaling up to over 20,000 new-generation ASICs by May, including advanced Bitmain S21+ units. This expansion is part of HIVE's broader goal to achieve a total hashrate of 11.5 EH/s across all operations by the end of the second quarter.</p><p>Leadership at HIVE is optimistic about the company's trajectory. Luke Rossy, Chief Operating Officer, outlined the ambitious target of reaching 25 EH/s by Fall 2025, which could enable the daily production of over 12 Bitcoins at current difficulty levels. Aydin Kilic, President and CEO, emphasized the strategic importance of maintaining a debt-free expansion, highlighting the company's commitment to smart, measured growth.</p><p>To support its expansion efforts, HIVE has strengthened its team with the addition of Carlos Anibal Torres as Paraguay Operations and Project Manager. Torres brings a wealth of experience in large-scale infrastructure and energy systems, further bolstering HIVE's operational capabilities.</p><p>This expansion occurs against a backdrop of favorable market conditions for Bitcoin, with increasing institutional interest and a supportive regulatory environment. HIVE's strategic initiatives position the company to potentially capture 3% of the global Bitcoin network by year-end, a significant achievement in the competitive cryptocurrency mining sector.</p>

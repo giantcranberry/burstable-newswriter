@@ -1,0 +1,16 @@
++++
+title = "Randy Hayashi Promoted to COO at Electronic Merchant Systems to Drive Operational Excellence and AI Integration"
+date = "2025-06-04T10:55:09Z"
+draft = false
+summary = "Electronic Merchant Systems elevates Randy Hayashi to Chief Operating Officer, leveraging his vast experience to enhance operational efficiency and integrate AI in payment solutions, marking a significant step in the company's growth strategy."
+description = "EMS promotes Randy Hayashi to COO, aiming to enhance growth and operational efficiency with AI and advanced payment solutions. Learn more about this strategic move."
+source_link = "https://www.citybiz.co/article/702391/electronic-merchant-systems-promotes-vp-of-strategy-randy-hayashi-to-chief-operating-officer/"
+enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
+article_id = 84701
+feed_item_id = 15097
+url = "/news/202506/84701-randy-hayashi-promoted-to-coo-at-electronic-merchant-systems-to-drive-operational-excellence-and-ai-integration"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/larkPaYh.webp"
+source = "citybiz"
++++
+
+<p>Electronic Merchant Systems (EMS), a leader in innovative payment solutions, has announced the promotion of Randy Hayashi from Vice President of Strategy to Chief Operating Officer. This decision highlights EMS's dedication to improving operational efficiency and scalability, with Hayashi's two decades of experience in operations and strategy expected to be crucial for the company's future endeavors.</p><p>Hayashi's impressive track record includes significant contributions to the growth of Payment Depot, where he served as COO, scaling the business from a startup to servicing over 10,000 merchants and processing more than $3 billion annually. His subsequent role as VP of Operations at Stax further cemented his reputation as a leader capable of driving substantial business growth.</p><p>In his new role as COO of EMS, Hayashi will be responsible for overseeing daily operations, ensuring compliance, advancing the company's technology product suite, and leading strategic initiatives. A notable aspect of his role will involve the integration of artificial intelligence to streamline operations, showcasing EMS's commitment to leveraging cutting-edge technology in merchant services.</p><p>Afshin Yazdian, CEO and Executive Chairman of EMS, commended Hayashi for his immediate impact since joining the company and expressed confidence in his ability to lead EMS through its next growth phase. Yazdian emphasized the critical role of operational excellence in realizing the company's goals.</p><p>Hayashi expressed his excitement about the new position, recognizing the EMS team's collective achievements and his eagerness to contribute to the company's continued success. His vision for EMS includes creating a workplace that supports both employees and customers, ensuring the company remains at the forefront of the payment solutions industry.</p><p>EMS, serving over 30,000 retail, internet, and omnichannel customers nationwide, offers a wide range of payment solutions. Its subsidiaries, including Peel Payments, MaxxPay, Total Touch, Paysley, and PaymentCloud, enhance its capability to address the varied needs of its clients, reinforcing EMS's status as a pioneer in the merchant services sector.</p>

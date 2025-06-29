@@ -1,0 +1,16 @@
++++
+title = "Newton Golf Company Inc. Welcomes PGA TOUR Champions Star Miguel Ángel Jiménez, Showcasing the Success of Its Fast Motion Shaft"
+date = "2025-06-18T14:20:54Z"
+draft = false
+summary = "Newton Golf Company Inc. celebrates PGA TOUR Champions star Miguel Ángel Jiménez's victory using its Fast Motion shaft, highlighting the company's innovative approach to golf technology and its impact on the sport."
+description = "PGA TOUR Champions star Miguel Ángel Jiménez joins Newton Golf, endorsing the Fast Motion shaft after a victory, marking a significant milestone for the tech-forward golf brand."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton-golf-company-inc-nasdaq-nwtg-signs-miguel-angel-jimenez-following-victory-with-fast-motion-shaft/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/12389a189920d02ee37a53b46362a90f.png"
+article_id = 87667
+feed_item_id = 15849
+url = "/news/202506/87667-newton-golf-company-inc-welcomes-pga-tour-champions-star-miguel-ángel-jiménez-showcasing-the-success-of-its-fast-motion-shaft"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/lambKMKc.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Newton Golf Company Inc. (NASDAQ: NWTG), a pioneer in golf technology innovation, has announced the addition of PGA TOUR Champions star Miguel Ángel Jiménez to its team. Jiménez's recent triumph at the Principal Charity Classic in Iowa, where he played with the Newton Fast Motion shaft, not only secured his 16th PGA TOUR Champions title but also marked the second Tour victory for Newton's Motion shaft line. This achievement underscores the shaft's effectiveness and Newton Golf's growing influence in the golf industry.</p><p>The Fast Motion shaft, launched in April 2025, incorporates advanced carbon fiber construction and proprietary performance technologies to offer golfers with moderate swing speeds improved speed, control, and consistency. Jiménez's victory serves as a powerful endorsement of the shaft's quality, building on the momentum from Doug Barron's 2024 major win at the Regions Tradition, which also featured Newton's technology.</p><p>Formerly known as Sacks Parente, Newton Golf has rebranded to embody its dedication to innovation, drawing inspiration from Sir Isaac Newton's principles. The company's mission is to apply Newtonian physics to the design of golf equipment, producing precision-engineered clubs that deliver exceptional stability, control, and performance. This scientific approach aims to benefit golfers of all skill levels, ensuring reliability and precision with every swing.</p><p>The inclusion of Miguel Ángel Jiménez in Newton Golf's lineup not only boosts the company's profile but also solidifies the reputation of its products among professional golfers and amateurs. With its commitment to scientifically advanced equipment, Newton Golf is poised to transform golfing standards, providing players with the technology to maximize their performance on the course.</p>

@@ -1,0 +1,16 @@
++++
+title = "SEDA Experts LLC Strengthens Leadership with Appointment of Glover Lawrence as Managing Director"
+date = "2025-06-05T14:45:07Z"
+draft = false
+summary = "SEDA Experts LLC enhances its financial expert witness services with the appointment of Glover Lawrence, whose extensive experience in M&A and corporate development is set to elevate the firm's capabilities in complex financial disputes and transactions."
+description = "SEDA Experts LLC appoints Glover Lawrence as Managing Director, enhancing its financial expert witness services with his 30+ years of M&A and strategic transaction expertise."
+source_link = "https://www.citybiz.co/article/703268/glover-lawrence-joins-seda-experts-as-managing-director/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 85127
+feed_item_id = 15240
+url = "/news/202506/85127-seda-experts-llc-strengthens-leadership-with-appointment-of-glover-lawrence-as-managing-director"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/mossnj5G.webp"
+source = "citybiz"
++++
+
+<p>SEDA Experts LLC, a leader in financial expert witness services, has taken a significant step forward by appointing Glover Lawrence as its new Managing Director. This strategic move is poised to enrich the firm's expertise in handling intricate financial disputes and transactions, leveraging Lawrence's profound background in mergers and acquisitions, strategic initiatives, and corporate development.</p><p>Damiano Colnago, Managing Partner at SEDA Experts, emphasized the strategic insight and execution-level expertise Lawrence brings to the table. With a career that includes leading over 75 transactions totaling more than $17 billion across diverse regions and sectors, Lawrence's focus on the technology and software industries is particularly noteworthy. His contributions at AspenTech and Avid Technology, where he played a pivotal role in over 25 strategic transactions, have been instrumental in AspenTech's revenue tripling and its market capitalization increasing from $4 billion to $15 billion.</p><p>Lawrence's experience extends beyond operational roles; his tenure as an M&A investment banker at Morgan Stanley and Hambrecht & Quist has endowed him with deep expertise in valuation methodology, due diligence, and fairness opinions. This, combined with his comprehensive knowledge in acquisition strategy, board governance, and cross-border deal execution, makes him an invaluable addition to SEDA Experts and its clientele.</p><p>Educationally, Lawrence holds a BA in History from Yale University and an MBA from Stanford Graduate School of Business, credentials that complement his professional achievements. His active involvement on the boards of several technology companies and as an advisor to CEOs and private equity firms on strategic growth initiatives further underscores his influence in the corporate development arena.</p><p>The appointment of Glover Lawrence signifies SEDA Experts' unwavering commitment to delivering exceptional financial expert witness services. His leadership is expected to provide clients with unparalleled support in navigating the complexities of high-stakes financial disputes and transactions, marking a new chapter in the firm's pursuit of excellence.</p>

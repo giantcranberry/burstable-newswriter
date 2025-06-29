@@ -1,0 +1,16 @@
++++
+title = "Meketa Investment Group Expands Employee Ownership with Addition of Matt Curran"
+date = "2025-06-05T14:05:06Z"
+draft = false
+summary = "Meketa Investment Group reinforces its commitment to employee engagement and growth by adding Matt Curran to its employee ownership group, highlighting the firm's dedication to recognizing team contributions and enhancing client service."
+description = "Meketa Investment Group welcomes Matt Curran as a new shareholder, reinforcing its commitment to growth and culture in global investment consulting."
+source_link = "https://www.citybiz.co/article/703191/meketa-investment-group-welcomes-new-shareholder/"
+enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
+article_id = 84163
+feed_item_id = 15224
+url = "/news/202506/84163-meketa-investment-group-expands-employee-ownership-with-addition-of-matt-curran"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/fineQ5HB.webp"
+source = "citybiz"
++++
+
+<p>Meketa Investment Group, a prominent global investment consulting and fiduciary management firm, has recently announced the inclusion of Matt Curran into its employee ownership group. This strategic decision not only highlights the firm's appreciation for the hard work and dedication of its employees but also its steadfast commitment to nurturing a workplace culture that values growth and engagement. Curran, who serves as a Research Consultant on the Public Markets Manager Research team, has been a key figure in the firm since 2017, contributing significantly to the evaluation and selection of equity investment managers.</p><p>With a strong academic background, including a Bachelor of Arts in Biology from the College of the Holy Cross, and holding prestigious titles such as Chartered Financial Analyst and Chartered Alternative Investment Analyst, Curran's expertise has been instrumental in advancing Meketa's manager research platform. His contributions have directly influenced the quality of recommendations made to clients, thereby enhancing the firm's service offerings and client satisfaction.</p><p>Peter Woolley, Managing Principal and Co-Chief Executive Officer at Meketa, and Hayley Tran, Head of Global Equity Research, have both lauded Curran's impact on the firm. Woolley highlighted how Curran's promotion to shareholder status embodies the firm's core values of growth and culture, while Tran commended his meticulous approach to equity manager selection, which has positively affected client portfolios.</p><p>This move by Meketa Investment Group, which now boasts over 70 shareholders, underscores its position as a leading independent advisor in the investment consulting sector. The firm's unwavering dedication to delivering tailored investment solutions and building strong client relationships continues to support institutional investors in reaching their investment goals. The addition of Curran to the employee ownership group is a testament to Meketa's belief in rewarding excellence and fostering a collaborative and inclusive work environment.</p>

@@ -1,0 +1,114 @@
+{{ define "main" }}
+<div class="bg-base-100 min-h-screen">
+  <div class="container mx-auto px-4 py-8">
+    <div class="max-w-6xl mx-auto">
+      <!-- Page header -->
+      <div class="mb-8">
+        <h1 class="text-4xl font-bold text-base-content mb-4">
+          {{ if eq .Section "posts" }}All Articles{{ else }}{{ .Title }}{{ end
+          }}
+        </h1>
+        <p class="text-lg text-base-content opacity-70">
+          {{ if eq .Section "posts" }}Browse all our latest news articles and
+          stories{{ else }}{{ .Description }}{{ end }}
+        </p>
+      </div>
+
+      <!-- Articles grid -->
+      {{ $pages := .Pages }} {{ range .Sections }} {{ $pages = $pages | append
+      .Pages }} {{ end }} {{ $paginator := .Paginate $pages 12 }} {{ if
+      $paginator.Pages }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+        {{ range $paginator.Pages }}
+        <a href="{{ .Permalink }}" class="block no-underline">
+          <div
+            class="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer h-full rounded-xl"
+          >
+            <div class="relative">
+              <img src="{{ .Params.enclosure | default
+              "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=250&fit=crop"
+              }}" alt="{{ .Title }}" class="w-full h-48 object-cover
+              rounded-t-xl"> {{ if .Params.featured }}
+              <div class="absolute top-4 left-4">
+                <span class="badge badge-primary">FEATURED</span>
+              </div>
+              {{ end }}
+            </div>
+            <div class="flex flex-col justify-between h-full">
+              <div class="card-body p-6">
+                <h3 class="card-title text-lg font-bold leading-tight mb-3">
+                  {{ .Title }}
+                </h3>
+                {{ if .Params.summary }}
+                <div
+                  class="text-sm leading-relaxed text-base-content opacity-80"
+                >
+                  {{ .Params.summary | safeHTML | truncate 150 }}
+                </div>
+                {{ else }}
+                <div
+                  class="text-sm leading-relaxed text-base-content opacity-80"
+                >
+                  {{ .Summary | truncate 150 }}
+                </div>
+                {{ end }}
+                <div class="flex items-center justify-between mt-4">
+                  <span class="text-xs text-base-content opacity-60">
+                    {{ .Date.Format "Jan 2, 2006" }}
+                  </span>
+                  {{ if .Params.source_link }}
+                  <span class="badge badge-outline badge-xs">External</span>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+      <!-- Pagination -->
+      {{ if gt $paginator.TotalPages 1 }}
+      <div class="flex flex-col justify-center py-8">
+        <div class="text-center mb-4">
+          <p class="text-sm text-base-content opacity-70">
+            Showing page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages
+            }} ({{ len $paginator.Pages }} of {{
+            $paginator.TotalNumberOfElements }} articles)
+          </p>
+        </div>
+        <div class="join flex justify-center items-center gap-4">
+          {{ if $paginator.HasPrev }}
+          <a href="{{ $paginator.Prev.URL }}" class="btn btn-outline"
+            >« Previous</a
+          >
+          {{ else }}
+          <button disabled class="btn btn-outline">« Previous</button>
+          {{ end }}
+
+          <div class="flex gap-2 items-center">
+            {{ range $paginator.Pagers }} {{ if eq . $paginator }}
+            <span class="btn btn-primary">{{ .PageNumber }}</span>
+            {{ else }}
+            <a href="{{ .URL }}" class="btn btn-outline">{{ .PageNumber }}</a>
+            {{ end }} {{ end }}
+          </div>
+
+          {{ if $paginator.HasNext }}
+          <a href="{{ $paginator.Next.URL }}" class="btn btn-outline">Next »</a>
+          {{ else }}
+          <button disabled class="btn btn-outline">Next »</button>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }} {{ else }}
+      <div class="text-center text-gray-500 py-20">
+        <h3 class="text-xl font-semibold mb-4">No articles found</h3>
+        <p>Check back later for new content.</p>
+        <a href="/" class="btn btn-primary mt-4">← Back to Home</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

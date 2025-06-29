@@ -1,0 +1,16 @@
++++
+title = "Scott Bartnick Joins Oceans Equity as Managing Partner to Drive Growth and Innovation"
+date = "2025-06-03T12:25:06Z"
+draft = false
+summary = "Oceans Equity strengthens its leadership team with the appointment of Scott Bartnick as Managing Partner, aiming to enhance investment strategies and portfolio management."
+description = "Oceans Equity appoints Scott Bartnick as Managing Partner, enhancing its leadership to drive growth in service and niche product companies. Learn more about their vision."
+source_link = "https://www.citybiz.co/article/701734/oceans-equity-appoints-scott-bartnick-as-managing-partner/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
+article_id = 84253
+feed_item_id = 14973
+url = "/news/202506/84253-scott-bartnick-joins-oceans-equity-as-managing-partner-to-drive-growth-and-innovation"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/silkRcTy.webp"
+source = "citybiz"
++++
+
+<p>Oceans Equity, a Miami-based private equity firm, has taken a significant step forward by appointing Scott Bartnick as its new Managing Partner. This strategic hire is expected to play a pivotal role in enhancing the firm's operational capabilities, investment strategies, and portfolio management. Bartnick's extensive experience in fostering growth across diverse industries, including business services, consumer, and healthcare, positions him as a key asset to Oceans Equity's mission.</p><p>With a career marked by successful collaborations with founders and executives, Bartnick has a proven track record of driving both organic growth and facilitating mergers and acquisitions. His previous tenure as a Managing Director at Boyne Capital was instrumental in sourcing and executing investments, as well as in developing strategic initiatives aimed at long-term value creation. His expertise is anticipated to bring a fresh perspective to Oceans Equity's investment approach.</p><p>Josh Bilmes, Managing Partner of Oceans Equity, expressed his enthusiasm about Bartnick's appointment, citing their longstanding professional relationship and shared vision for the firm's future. Bilmes highlighted Bartnick's leadership qualities and deep industry knowledge as critical factors that will support the firm's objectives of empowering entrepreneurs and executives within its portfolio.</p><p>Bartnick's arrival comes at a strategic time for Oceans Equity, as the firm looks to capitalize on a strong pipeline of investment opportunities and commitments from leading institutional investors. His role will be crucial in accelerating the firm's growth trajectory and in identifying high-growth investment opportunities for its partners. Bartnick's commitment to sustainable growth and collaboration aligns with the firm's ethos, setting a solid foundation for future success.</p><p>This leadership enhancement underscores Oceans Equity's commitment to being at the forefront of the private equity sector, with a focus on service businesses and niche product companies. The firm's dedication to fostering sustainable growth and innovation, under the co-leadership of Bartnick and Bilmes, signals a promising future for Oceans Equity and its stakeholders.</p>

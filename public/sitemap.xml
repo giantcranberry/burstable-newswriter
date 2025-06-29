@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
-    <loc>https://newswriter.ai/news//sitemaps/202504.xml</loc>
-    <lastmod>2025-04-30T19:55:18&#43;00:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://newswriter.ai/news//sitemaps/202505.xml</loc>
-    <lastmod>2025-05-31T10:40:17&#43;00:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://newswriter.ai/news//sitemaps/202506.xml</loc>
-    <lastmod>2025-06-19T13:20:27&#43;00:00</lastmod>
-  </sitemap>
   
   
   <sitemap>
-    <loc>https://newswriter.ai/news//sitemaps/pages.xml</loc>
-    <lastmod>2025-06-19T12:28:36-05:00</lastmod>
+    <loc>http://localhost:1313//sitemaps/pages.xml</loc>
+    <lastmod>2025-06-29T05:24:44-05:00</lastmod>
   </sitemap>
 </sitemapindex>

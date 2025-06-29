@@ -1,0 +1,16 @@
++++
+title = "Michael Madonia Joins Peapack Private Bank & Trust as Senior Managing Director to Bolster Commercial Lending Division"
+date = "2025-03-25T14:00:29Z"
+draft = false
+summary = "Michael Madonia's appointment as Senior Managing Director at Peapack Private Bank & Trust signifies a strategic move to enhance the bank's commercial and industrial lending capabilities in the New York metropolitan area, leveraging his extensive banking expertise and relationship management skills."
+description = "Peapack-Gladstone Financial Corporation and Peapack Private Bank & Trust appoint Michael Madonia as Senior Managing Director of Commercial and Industrial Lending Division, signaling growth and expertise in NY area."
+source_link = "https://www.newmediawire.com/news/michael-madonia-joins-peapack-private-bank-trust-7080074"
+enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
+article_id = 85792
+feed_item_id = 12198
+url = "/news/202503/85792-michael-madonia-joins-peapack-private-bank-trust-as-senior-managing-director-to-bolster-commercial-lending-division"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/25/elleVQIY.webp"
+source = "NewMediaWire"
++++
+
+<p>Peapack Private Bank & Trust has strengthened its leadership team with the addition of Michael Madonia as a Senior Managing Director in its Commercial and Industrial Lending Division. Based in New York City, Madonia's role is pivotal in expanding the bank's commercial loan and deposit portfolio, a move that aligns with Peapack-Gladstone Financial Corporation's growth strategy. With assets totaling $7.0 billion and under management of $11.9 billion as of December 31, 2024, the bank is poised for further expansion in the competitive New York metropolitan banking sector.</p><p>Madonia's 22 years of banking experience, including his tenure as a Senior Vice President Director at Amalgamated Bank and SVP, Business Banking Team Leader at M&T Bank, equip him with the expertise necessary to drive Peapack's strategic objectives. His proven track record in client development and relationship management is expected to play a critical role in enhancing the bank's market presence and service offerings.</p><p>Beyond his professional accomplishments, Madonia's commitment to community engagement, notably his role on the Board of Directors for ArtsWestchester, underscores his leadership qualities and dedication to fostering strong community ties. His academic background, including an MBA in Financial Management from Pace University and a Bachelor of Science from SUNY Geneseo, further solidifies his credentials in the financial sector.</p><p>This appointment is a clear indicator of Peapack Private Bank & Trust's commitment to delivering comprehensive financial solutions and a client-centric approach to banking. Madonia's expertise is anticipated to significantly contribute to the bank's ability to meet the evolving needs of its commercial clients, reinforcing its position as a trusted financial partner in the region.</p>

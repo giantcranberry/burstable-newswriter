@@ -1,0 +1,16 @@
++++
+title = "Donut Labs Secures $7 Million to Pioneer Agentic Crypto Browser"
+date = "2025-06-05T10:35:07Z"
+draft = false
+summary = "Donut Labs' $7 million pre-seed funding round marks a significant step towards redefining internet browsing for the cryptocurrency era with its innovative agentic crypto browser."
+description = "Donut Labs raises $7M to develop an agentic browser for seamless crypto trading, merging browsing with financial actions for a unified experience."
+source_link = "https://www.citybiz.co/article/701613/donut-labs-raises-7m-to-build-agentic-crypto-browser/"
+enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
+article_id = 87687
+feed_item_id = 15209
+url = "/news/202506/87687-donut-labs-secures-7-million-to-pioneer-agentic-crypto-browser"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/hikeZ_6o.webp"
+source = "citybiz"
++++
+
+<p>Donut Labs, a New York-based startup, has announced the closure of a $7 million pre-seed funding round aimed at advancing the development of its agentic 'crypto browser'. This browser represents a novel approach by integrating information retrieval with financial actions, a significant departure from traditional browsers that treat these functions separately. The funding round was spearheaded by HongShan Capital Group, with participation from BitKraft, HackVC, and other investors, underscoring the industry's belief in the project's potential to revolutionize internet browsing in the context of cryptocurrency.</p><p>Under the leadership of CEO Chris Zhu, an NYU Stern School of Business graduate with experience in product strategy at ByteDance, Donut Labs is gathering a team of experts from top tech and academic circles. This team includes former Meta AI researcher Tim Fan and specialists from Tencent and New York University. Their goal is to develop a browser that acts as a unified front-end for crypto services, enabling users to monitor new tokens, trade, bet, and earn yield all from a single page. The browser utilizes the CodeAct framework and a MCP client to ensure smooth operations.</p><p>Donut Labs' ambition goes beyond simplifying cryptocurrency transactions; it aims to automate these processes through agents within the browser. This innovation not only enhances the user experience but also places Donut Labs at the cutting edge of the internet's hyper-financialization. The company plans to integrate a wallet, network, and decentralized exchange into its interface, offering a comprehensive solution for crypto users.</p><p>The project's importance lies in its potential to change how people interact with the internet and cryptocurrency markets. By consolidating multiple platforms into one, the agentic browser could make crypto services more accessible to a wider audience. This initiative is particularly timely, as the fusion of AI and financial technologies is increasingly recognized as the next major advancement in digital innovation, highlighting Donut Labs' role in shaping the future of online browsing and cryptocurrency transactions.</p>

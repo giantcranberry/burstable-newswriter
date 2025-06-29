@@ -1,0 +1,16 @@
++++
+title = "Sekur Private Data Ltd. Secures CA$105,000 in Private Placement to Boost U.S. Market Expansion"
+date = "2025-04-30T16:25:17Z"
+draft = false
+summary = "Sekur Private Data Ltd. has raised CA$105,000 through a private placement to expand its U.S. marketing efforts and enhance its secure communication technologies, signaling growth in the cybersecurity sector."
+description = "Sekur Private Data closes first tranche of private placement, raising CA$105,000. The cybersecurity company plans to use the funds for marketing efforts and general working capital. Visit the full press release for more details."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-private-data-ltd-cse-skur-otcqx-swisf-fse-gdt0-closes-first-tranche-of-private-placement-to-fund-u-s-marketing-push/"
+enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
+article_id = 85402
+feed_item_id = 13661
+url = "/news/202504/85402-sekur-private-data-ltd-secures-ca105000-in-private-placement-to-boost-us-market-expansion"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/filooxRa.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Sekur Private Data Ltd., a leader in Swiss-hosted cybersecurity and privacy communications, has announced the successful closure of the first tranche of its non-brokered private placement, raising CA$105,000. This financial milestone was achieved through the issuance of 3 million units at CA$0.035 each, with each unit consisting of one common share and a full warrant exercisable at CA$0.05 over a 24-month period. Notably, this funding round was conducted without any finders' fees, underscoring the company's efficient capital-raising strategy.</p><p>The proceeds from this private placement are earmarked for two primary objectives: amplifying Sekur's marketing initiatives in the U.S. for its privacy communications solutions and bolstering its general working capital. This strategic allocation of resources highlights Sekur's commitment to expanding its footprint in the competitive U.S. market, a critical hub for cybersecurity innovation and demand.</p><p>Sekur Private Data Ltd. stands out in the cybersecurity domain by offering a suite of encrypted communication tools, including secure email, messaging, and data management services. Catering to a wide array of clients—from individual consumers to businesses and government entities—Sekur distributes its solutions via its official website, authorized distributors, and telecommunications partners globally. This diverse distribution network enables the company to reach a broad audience, reinforcing its position as a trusted provider of privacy-centric communication solutions.</p><p>The successful private placement is a testament to Sekur's growth trajectory and its potential to make significant strides in the cybersecurity and privacy communications industry. By focusing on the U.S. market, Sekur is not only tapping into a lucrative market but also contributing to the global discourse on digital privacy and security. This move could have far-reaching implications for the industry, setting a precedent for how companies leverage financial strategies to fuel innovation and market expansion in the face of evolving cyber threats.</p>

@@ -1,0 +1,16 @@
++++
+title = "Trillion Energy International Inc. Announces Strategic Debt Settlement Through Share Issuance"
+date = "2025-06-02T22:27:14Z"
+draft = false
+summary = "Trillion Energy International Inc. has unveiled a plan to settle over $100,000 in debt by issuing common shares, a move that highlights the company's innovative approach to financial management and stability in the oil and natural gas sector."
+description = "Trillion Energy announces debt settlement via share issuance, reinforcing its financial strategy and commitment to growth in the oil and natural gas sectors."
+source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-trillion-energy-international-inc-cse-tcf-otcqb-trlef-settles-101k-debt-with-share-issuance-including-insider-participation/"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
+article_id = 84751
+feed_item_id = 14910
+url = "/news/202506/84751-trillion-energy-international-inc-announces-strategic-debt-settlement-through-share-issuance"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/notebQqp.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Trillion Energy International Inc., a key player in the oil and natural gas production sector for Europe and Türkiye, has announced a strategic debt settlement plan that involves the issuance of common shares to settle outstanding debts totaling $101,854.10. This initiative will see the company issuing 2,237,082 common shares to consultants and an officer, a move that is fully compliant with Canadian securities laws. The shares issued will be subject to a hold period of four months and one day, ensuring a structured approach to this financial strategy.</p><p>Among the transactions, a significant portion of 573,002 shares is allocated to an officer for management services, categorized under Multilateral Instrument 61-101 as a 'related-party transaction.' Trillion Energy is utilizing exemptions from the formal valuation and minority shareholder approval requirements, a decision justified by the fact that the insider participation's value does not exceed 25% of the company's market capitalization. This careful consideration underscores the company's adherence to regulatory standards while pursuing financial flexibility.</p><p>This debt settlement through share issuance is not just a testament to Trillion Energy's commitment to operational and financial stability but also serves as a potential blueprint for similar companies grappling with financial challenges. With significant interests in natural gas and oil fields, including a 49% stake in the SASB natural gas field and a 19.6% interest in the Cendere oil field, Trillion Energy's proactive financial management could have far-reaching implications for the energy sector, especially in regions dependent on oil and natural gas production.</p><p>The implications of this announcement are manifold. For the energy industry, it highlights innovative approaches to debt management and financial restructuring. For investors and stakeholders, it signals Trillion Energy's resilience and strategic planning in navigating the volatile energy market. This move could potentially inspire other companies to explore similar avenues for financial stability, marking a significant moment in the intersection of finance and energy production.</p>

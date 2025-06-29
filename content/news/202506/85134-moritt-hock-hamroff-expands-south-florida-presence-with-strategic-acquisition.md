@@ -1,0 +1,16 @@
++++
+title = "Moritt Hock & Hamroff Expands South Florida Presence with Strategic Acquisition"
+date = "2025-06-04T17:45:06Z"
+draft = false
+summary = "Moritt Hock & Hamroff strengthens its South Florida legal services by integrating Saavedra Goodwin's team, enhancing its expertise in business litigation, real estate, and corporate law to meet the region's growing demands."
+description = "Moritt Hock & Hamroff merges with Saavedra Goodwin, expanding its South Florida legal services in business litigation, real estate, and corporate law."
+source_link = "https://www.citybiz.co/moritt-hock-hamroff-announces-new-hires/"
+enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
+article_id = 85134
+feed_item_id = 15161
+url = "/news/202506/85134-moritt-hock-hamroff-expands-south-florida-presence-with-strategic-acquisition"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/urgeB87u.webp"
+source = "citybiz"
++++
+
+<p>Moritt Hock & Hamroff, a New York-based commercial law firm, has taken a significant step to expand its services in South Florida by integrating the attorneys and staff of Saavedra Goodwin, a Fort Lauderdale boutique law firm. This strategic acquisition not only broadens Moritt Hock & Hamroff's geographical footprint but also deepens its legal expertise in key areas such as business litigation, real estate, and corporate law, catering to the burgeoning needs of South Florida's dynamic market.</p><p>The inclusion of Damaso W. Saavedra, Randolph M. Brombacher, and Caitlin J. Bronstein, along with three additional staff members, into Moritt Hock & Hamroff's team, underscores the firm's commitment to assembling a roster of experienced professionals. This move is part of the firm's ongoing strategy to enhance its presence in South Florida, following its earlier expansion in 2023 with the addition of Greg Ritter and his team from Ritter Chusid LLP.</p><p>Michael Cardello III, Managing Partner at Moritt Hock & Hamroff, emphasized the strategic value of this integration, highlighting the firm's enhanced capability to deliver collaborative and positive outcomes for clients across Florida. Marc Hamroff, Chairman of the firm, also pointed out the firm's dedication to supporting South Florida's growth as a global financial and commercial center, addressing the complex legal challenges that come with such expansion.</p><p>Damaso Saavedra shared his excitement about joining Moritt Hock & Hamroff, praising the firm's reputation and the complementary nature of their combined legal expertise. This partnership is poised to offer comprehensive legal solutions, from complex commercial litigation to real estate and corporate matters, ensuring favorable results for clients navigating the vibrant South Florida market.</p><p>This expansion is a testament to Moritt Hock & Hamroff's strategic vision to not only grow its footprint but also to elevate its service offerings. By aligning with Saavedra Goodwin's team, the firm is well-positioned to meet the sophisticated legal needs of businesses and individuals in South Florida, a region marked by rapid growth and increasing demand for high-caliber legal services.</p>

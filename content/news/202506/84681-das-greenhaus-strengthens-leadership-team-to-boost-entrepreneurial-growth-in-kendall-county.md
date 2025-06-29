@@ -1,0 +1,16 @@
++++
+title = "Das GreenHaus Strengthens Leadership Team to Boost Entrepreneurial Growth in Kendall County"
+date = "2025-06-04T16:45:37Z"
+draft = false
+summary = "Das GreenHaus appoints Samantha Morganroth as Program Manager and welcomes Melody Mabry Touchon to its team, signaling a strengthened commitment to supporting startups and fostering economic growth in Kendall County, Texas."
+description = "Das GreenHaus appoints Samantha Morganroth as Program Manager, bolstering support for Kendall County entrepreneurs with space, services, and education."
+source_link = "https://newsworthy.ai/news/202506041538/das-greenhaus-announces-new-program-manager"
+enclosure = "https://cdn.newsramp.app/banners/startup-news-3.jpg"
+article_id = 84681
+feed_item_id = 15150
+url = "/news/202506/84681-das-greenhaus-strengthens-leadership-team-to-boost-entrepreneurial-growth-in-kendall-county"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/4/poemkLUG.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Das GreenHaus, a cornerstone for entrepreneurial development in Kendall County, Texas, has announced significant additions to its leadership team, marking a strategic move to enhance its support for local startups. Samantha Morganroth, who joined the organization in 2024, has been promoted to Program Manager, a testament to her instrumental role in shaping the programs and services that Das GreenHaus offers. Her elevation reflects the organization's confidence in her ability to drive its mission forward, leveraging her operational expertise and dedication to building meaningful relationships within the entrepreneurial community.</p><p>The organization also welcomed Melody Mabry Touchon, whose dual experience as an entrepreneur and nonprofit professional brings a unique perspective to the team. Touchon's involvement is expected to bolster daily operations, creative strategy, and member engagement, further enriching the incubator's ecosystem. These appointments underscore Das GreenHaus's commitment to providing comprehensive support to entrepreneurs, from workspace solutions to mentorship and networking opportunities.</p><p>Located in Boerne, Texas, Das GreenHaus operates as a 501(c)(3) public-private non-profit, offering a 4,800 square-foot facility designed to meet the needs of growing businesses. The incubator's array of services, including private offices, flexible workspaces, and educational workshops, is tailored to help startups thrive, create jobs, and contribute positively to Kendall County's economy and cultural landscape. The foundation of Das GreenHaus was a collaborative achievement, involving key local entities and private partners, highlighting the community's unified effort to nurture innovation and entrepreneurship.</p><p>The strategic enhancements to Das GreenHaus's leadership team signal a pivotal moment for Kendall County's entrepreneurial ecosystem. By strengthening its capacity to support startups, the organization is poised to play an even more significant role in driving economic development and fostering a culture of innovation in the region. For business leaders and entrepreneurs, these developments represent an opportunity to leverage Das GreenHaus's expanded resources and expertise, potentially setting a benchmark for entrepreneurial support models in similar communities.</p>

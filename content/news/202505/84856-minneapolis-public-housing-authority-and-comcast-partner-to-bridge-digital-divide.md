@@ -1,0 +1,16 @@
++++
+title = "Minneapolis Public Housing Authority and Comcast Partner to Bridge Digital Divide"
+date = "2025-05-20T18:00:26Z"
+draft = false
+summary = "A strategic partnership between the Minneapolis Public Housing Authority and Comcast aims to provide high-speed internet to public housing residents, enhancing digital inclusion and access to essential services."
+description = "Minneapolis Public Housing Authority partners with Comcast to provide Xfinity WiFi to residents, bridging the digital divide and empowering communities with essential connectivity."
+source_link = "https://newsdirect.com/news/minneapolis-public-housing-authority-and-comcast-announce-technology-partnership-196651118"
+enclosure = "https://cdn.newsramp.app/banners/education-3.jpg"
+article_id = 84856
+feed_item_id = 14418
+url = "/news/202505/84856-minneapolis-public-housing-authority-and-comcast-partner-to-bridge-digital-divide"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/20/roamoH5p.webp"
+source = "News Direct"
++++
+
+<p>The Minneapolis Public Housing Authority (MPHA) and Comcast have embarked on a transformative partnership to deliver high-speed internet connectivity to residents of public housing in Minneapolis. This initiative is designed to eliminate barriers to digital access, ensuring that residents can immediately connect to the internet upon moving in, without the need for technician visits or additional equipment purchases. The service can be activated swiftly through the Xfinity App, marking a departure from traditional internet setup processes.</p><p>Minneapolis Mayor Jacob Frey underscored the initiative's significance, pointing out that it transcends mere technological infrastructure. It's about equipping residents with the tools they need for personal growth and professional development. In today's digital age, internet access is not just a convenience but a critical resource for accessing healthcare, education, and staying connected with the community.</p><p>Abdi Warsame, Executive Director of MPHA, emphasized the indispensable role of reliable internet in modern life. From telehealth appointments to online learning and job searches, the internet serves as a gateway to numerous opportunities and services. This partnership is a step toward ensuring that public housing residents are not left behind in an increasingly digital world.</p><p>Kalyn Hove, Comcast Midwest's regional senior vice president, highlighted the phased approach of the installation process. With the first three buildings already connected, the plan is to extend WiFi capabilities to more buildings by the end of 2026. This initiative represents a substantial commitment to digital equity, treating internet access as a fundamental necessity for all.</p><p>The collaboration between MPHA and Comcast is a pioneering effort to address the digital divide in urban areas. By providing seamless internet connectivity, the partnership aims to foster more inclusive communities where every resident has the opportunity to thrive in the digital economy. This initiative not only benefits the residents of Minneapolis public housing but also sets a precedent for how cities and corporations can work together to tackle the challenges of digital inclusion.</p>

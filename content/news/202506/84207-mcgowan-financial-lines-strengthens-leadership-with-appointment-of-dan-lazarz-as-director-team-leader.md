@@ -1,0 +1,16 @@
++++
+title = "McGowan Financial Lines Strengthens Leadership with Appointment of Dan Lazarz as Director & Team Leader"
+date = "2025-06-04T13:25:06Z"
+draft = false
+summary = "McGowan Financial Lines enhances its leadership team with Dan Lazarz, aiming to bolster its position in the specialty insurance market through his extensive experience and strategic insight."
+description = "McGowan Financial Lines appoints Dan Lazarz as Director & Team Leader, enhancing its specialty insurance solutions with his extensive industry expertise."
+source_link = "https://www.citybiz.co/article/702433/mcgowan-financial-lines-appoints-dan-lazarz-as-director-team-leader/"
+enclosure = "https://cdn.newsramp.app/banners/insurance-3.jpg"
+article_id = 84207
+feed_item_id = 15106
+url = "/news/202506/84207-mcgowan-financial-lines-strengthens-leadership-with-appointment-of-dan-lazarz-as-director-team-leader"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/ruby6iOR.webp"
+source = "citybiz"
++++
+
+<p>McGowan Financial Lines has taken a significant step forward in its strategic growth by appointing Dan Lazarz as Director & Team Leader. This move is set to reinforce the company's expertise in the Financial Lines sector, including areas such as Directors & Officers (D&O), Errors & Omissions (E&O), Employment Practices Liability (EPLI), Cyber, and Crime insurance. Lazarz's appointment is a clear indication of McGowan's commitment to expanding its offerings and solidifying its reputation as a leading wholesale insurance brokerage in the United States.</p><p>Dan Lazarz brings to McGowan a wealth of experience from his tenure at CRC Group, Swett & Crawford, Lockton, Crum & Forster, and The St. Paul. His deep understanding of the Financial Lines segments and his ability to navigate their complexities are expected to be invaluable assets to McGowan. Thomas B. McGowan IV, CEO of The McGowan Companies, has expressed confidence in Lazarz's ability to drive growth and innovation, citing his successful track record in building profitable brokerage teams and fostering lasting client relationships.</p><p>Lazarz's leadership is anticipated to not only enhance McGowan's product offerings but also to strengthen its relationships with brokers and insureds nationwide. His collaborative approach and strategic vision align with McGowan's core values of excellence, partnership, and community service. Beyond his professional accomplishments, Lazarz's dedication to balancing his career with a rich family life underscores his personal values, which resonate with McGowan's corporate culture.</p><p>The appointment of Dan Lazarz is a pivotal development for McGowan Financial Lines as it navigates the rapidly evolving specialty insurance landscape. With Lazarz at the helm of its Financial Lines team, McGowan is well-positioned to meet the growing demands of the market and to continue its trajectory as a trusted partner in the insurance industry. This strategic hire not only reflects McGowan's ambition to lead in the Professional Liability and Management Liability sectors but also highlights the company's focus on delivering innovative solutions to its clients.</p>

@@ -1,0 +1,16 @@
++++
+title = "Northern Trust Strengthens OCIO Strategy with Appointment of Industry Veteran Katherine McCabe"
+date = "2025-06-03T08:50:11Z"
+draft = false
+summary = "Northern Trust appoints Katherine McCabe to lead its Outsourced Chief Investment Officer strategy, signaling a deepened commitment to innovative solutions for the OCIO community and their clients."
+description = "Northern Trust appoints Katherine McCabe to lead OCIO strategy, enhancing asset servicing with innovative solutions for investment consultants and clients."
+source_link = "https://www.citybiz.co/article/701651/northern-trust-appoints-katherine-mccabe-to-lead-ocio-strategy-for-asset-servicing/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
+article_id = 84259
+feed_item_id = 14954
+url = "/news/202506/84259-northern-trust-strengthens-ocio-strategy-with-appointment-of-industry-veteran-katherine-mccabe"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/diveaHEH.webp"
+source = "citybiz"
++++
+
+<p>Northern Trust, a prominent name in wealth management and asset servicing, has taken a significant step forward in its Outsourced Chief Investment Officer (OCIO) strategy by appointing Katherine McCabe as its leader. This move highlights the company's dedication to enhancing its services for the OCIO community, offering tailored solutions that meet their specific needs. McCabe's appointment is expected to bring a wealth of experience and innovation to Northern Trust's asset servicing business unit.</p><p>With over three decades of experience in the asset owner sector, McCabe's expertise is unparalleled. Her previous role as Head of U.S. Asset Owner & Canadian Sales at State Street Bank & Trust Company, coupled with a 25-year tenure at Bank of New York Mellon, positions her as a key player in advancing Northern Trust's OCIO strategy. Her deep understanding of performance measurement and risk analysis is anticipated to drive the development of strategic relationships and solutions that cater to the dynamic needs of the OCIO community.</p><p>Melanie Pickett, Head of Asset Servicing, Americas at Northern Trust, expressed confidence in McCabe's ability to unlock new opportunities within the OCIO space. Pickett's remarks underscore the importance of McCabe's role in fostering innovation and strengthening Northern Trust's reputation as a trusted partner in the asset servicing industry. This appointment is a clear indication of Northern Trust's commitment to empowering its clients, enabling them to achieve superior investment returns and make a positive impact on their constituents and communities worldwide.</p><p>The implications of McCabe's appointment extend beyond Northern Trust, signaling a shift towards more specialized and innovative solutions in the asset servicing industry. For business and technology leaders, this development underscores the importance of strategic leadership in navigating the complexities of the OCIO market. Northern Trust's initiative may set a precedent for how firms engage with the OCIO community, potentially influencing industry standards and practices in the years to come.</p>

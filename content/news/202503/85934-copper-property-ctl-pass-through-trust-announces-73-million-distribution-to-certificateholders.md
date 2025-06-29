@@ -1,0 +1,16 @@
++++
+title = "Copper Property CTL Pass Through Trust Announces $7.3 Million Distribution to Certificateholders"
+date = "2025-03-06T21:20:25Z"
+draft = false
+summary = "The Copper Property CTL Pass Through Trust's latest distribution announcement highlights its ongoing efforts to liquidate assets from J.C. Penney's bankruptcy, offering insights into the real estate investment trust's performance and strategy."
+description = "Copper Property CTL Pass Through Trust issues its monthly report for February 2025, distributing $7.3 million to certificateholders. Learn more about the Trust's operations and objectives."
+source_link = "https://newsdirect.com/news/copper-property-ctl-pass-through-trust-issues-monthly-reporting-package-for-february-2025-232174455"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 85934
+feed_item_id = 11699
+url = "/news/202503/85934-copper-property-ctl-pass-through-trust-announces-73-million-distribution-to-certificateholders"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/6/facefr5U.webp"
+source = "News Direct"
++++
+
+<p>The Copper Property CTL Pass Through Trust has declared a significant monthly distribution of $7.3 million, equating to $0.097712 per trust certificate, scheduled for payment on March 10, 2025. This distribution targets certificateholders recorded by March 7, 2025, marking another step in the trust's mission to efficiently liquidate assets acquired from J.C. Penney's Chapter 11 reorganization.</p><p>With a portfolio comprising 160 retail properties and 6 warehouse distribution centers, the trust is focused on selling these assets to third-party buyers. Managed by an affiliate of Hilco Real Estate LLC and with GLAS Trust Company LLC acting as trustee, the trust operates under a liquidating trust classification for tax purposes. This strategic approach not only facilitates the disposition of properties but also ensures investors receive regular, transparent updates on the trust's operations and financial health.</p><p>The trust's commitment to transparency is further evidenced by its monthly filings with the Securities and Exchange Commission, including the recent Form 8-K submission. These documents provide a detailed overview of the trust's activities, offering investors access to both monthly and quarterly reports through the trust's official website. Such disclosures are crucial for certificateholders to monitor the trust's progress and make informed decisions regarding their investments.</p><p>Forward-looking statements included in the trust's announcements acknowledge the inherent risks and uncertainties that could affect future performance. This practice aligns with standard financial reporting, underscoring the trust's dedication to keeping investors well-informed. For leaders in business and technology, the Copper Property CTL Pass Through Trust's activities offer a case study in asset liquidation strategies post-bankruptcy, highlighting the intersection of real estate investment and corporate restructuring in today's market.</p>

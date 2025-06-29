@@ -1,0 +1,16 @@
++++
+title = "PowerHouse Data Centers Strengthens Leadership Team to Meet Hyperscale Demand"
+date = "2025-06-04T13:45:06Z"
+draft = false
+summary = "PowerHouse Data Centers appoints two senior executives to bolster its development and asset management capabilities, signaling a strategic push to cater to the burgeoning needs of hyperscale data center users with sustainable solutions."
+description = "PowerHouse Data Centers appoints new SVPs to drive hyperscale data center growth, enhancing its ability to meet the demands of cloud and AI workloads with sustainable solutions."
+source_link = "https://www.citybiz.co/article/702448/powerhouse-data-centers-appoints-john-adametz-as-svp-development-construction-and-vardahn-chaudhry-as-svp-asset-management/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 84204
+feed_item_id = 15110
+url = "/news/202506/84204-powerhouse-data-centers-strengthens-leadership-team-to-meet-hyperscale-demand"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/gulfqwop.webp"
+source = "citybiz"
++++
+
+<p>PowerHouse Data Centers has made strategic hires to enhance its leadership team, appointing John Adametz as Senior Vice President of Development & Construction and Vardahn Chaudhry as Senior Vice President of Asset Management. These appointments are a clear indication of the company's dedication to addressing the escalating demands of hyperscale data center users through innovative and sustainable infrastructure solutions.</p><p>John Adametz, with his extensive experience in managing large-scale infrastructure projects, including a significant role at Meta, is set to lead PowerHouse's development and construction operations. His expertise is expected to ensure that the company's projects not only meet but exceed the stringent requirements of hyperscale clients. Adametz's background in the U.S. Navy Civil Engineer Corps, where he managed billions in infrastructure projects, further solidifies his capability to drive high-impact developments.</p><p>Vardahn Chaudhry brings to the table a wealth of experience in digital infrastructure investment and asset strategy. His previous roles at JBG SMITH and Accenture have equipped him with the skills necessary to manage the lifecycle of data center assets effectively. Chaudhry's strategic oversight will be crucial in maintaining PowerHouse's competitive edge in the rapidly evolving cloud and AI infrastructure landscape.</p><p>The synergy between Adametz's development acumen and Chaudhry's asset management expertise underscores PowerHouse's commitment to combining operational precision with long-term value creation. This leadership duo is poised to propel the company forward, ensuring it remains a key player in the hyperscale data center market. With a robust development pipeline and the backing of AREP's $309 million Fund IV, PowerHouse is well-positioned to meet the future needs of digital infrastructure, particularly in AI and cloud workloads.</p><p>These strategic appointments highlight PowerHouse's proactive approach to leadership and innovation in the hyperscale data center sector. By aligning its executive team with its growth objectives, PowerHouse is not only reinforcing its market position but also setting a benchmark for sustainable and client-focused infrastructure development.</p>

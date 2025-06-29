@@ -1,0 +1,16 @@
++++
+title = "UGI Utilities Launches Major Gas Main Replacement Project in Easton"
+date = "2025-05-12T20:10:33Z"
+draft = false
+summary = "UGI Utilities begins a significant gas main replacement project in Easton, aiming to enhance infrastructure reliability and offering local properties the chance to switch to natural gas service."
+description = "UGI Utilities announces system upgrades in Easton starting May 19, providing natural gas conversion opportunities. Learn how this project impacts road travel and property access."
+source_link = "https://ugi.reportablenews.com/pr/ugi-scheduled-to-begin-additional-system-upgrades-in-easton-next-week"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/e1d955b79eec72d118e4427bc83bf773.jpg"
+article_id = 85281
+feed_item_id = 14035
+url = "/news/202505/85281-ugi-utilities-launches-major-gas-main-replacement-project-in-easton"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/12/echo9ZAg.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities is set to initiate a comprehensive gas main replacement project in Easton, starting Monday, May 19. This initiative is designed to upgrade the aging infrastructure, ensuring safer and more reliable gas service for the community. The project will focus on several key streets, including Spring Garden Street, North Second Street, and North Green Street, with construction activities planned from 7 am to 5 pm, Monday through Friday.</p><p>The construction is expected to bring about temporary inconveniences such as road closures, detours, and traffic delays. Parking will be restricted on the affected streets, and some properties may experience brief interruptions in gas service as UGI personnel work to inspect and relight equipment. Despite these short-term disruptions, the long-term benefits of the project are clear. By replacing old gas mains, UGI Utilities is not only improving the safety and reliability of the gas supply but also reducing the risk of leaks and service interruptions.</p><p>An added advantage of this project is the opportunity it presents for homes and businesses along the project route to convert to natural gas service. This could lead to improved energy efficiency and lower utility costs for Easton residents. The project is expected to be completed by the end of June, although weather conditions and other unforeseen factors may affect the timeline. Following the underground work, UGI will undertake paving and restoration efforts to return the streets to their original condition.</p><p>This gas main replacement project underscores UGI Utilities' commitment to maintaining and upgrading critical infrastructure to meet the needs of its customers. For Easton residents, the project represents a step forward in ensuring the safety, reliability, and efficiency of their natural gas service, while also offering the potential for enhanced energy options. The temporary inconveniences will pave the way for long-term benefits, making this a significant development for the community.</p>

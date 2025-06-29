@@ -1,0 +1,16 @@
++++
+title = "Grant Thornton Appoints Rick Surett as New CFO to Spearhead Financial Strategy Amid Global Expansion"
+date = "2025-06-03T08:40:07Z"
+draft = false
+summary = "Grant Thornton names Rick Surett as its new CFO, leveraging his decades of financial leadership to guide the firm's growth and multinational expansion."
+description = "Grant Thornton appoints Rick Surett as CFO to lead financial strategy and support global expansion, marking a new chapter for the firm."
+source_link = "https://www.citybiz.co/article/701648/grant-thornton-appoints-rick-surett-as-cfo/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 84262
+feed_item_id = 14950
+url = "/news/202506/84262-grant-thornton-appoints-rick-surett-as-new-cfo-to-spearhead-financial-strategy-amid-global-expansion"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/pinkDlJi.webp"
+source = "citybiz"
++++
+
+<p>Grant Thornton, a prominent name in audit, assurance, tax, and advisory services, has officially announced Rick Surett as its new chief financial officer, starting June 2. This strategic move comes as the firm seeks to bolster its financial leadership amidst its ambitious expansion across Europe and the Middle East. Surett's appointment is seen as a critical step in sustaining the firm's growth trajectory and enhancing its operational efficiency on a global scale.</p><p>With nearly 30 years of financial leadership under his belt, Surett's expertise is expected to bring a fresh perspective to Grant Thornton's financial strategy. His previous role as CFO of Transportation Equipment Network, where he significantly improved operational efficiency and scalability, along with his leadership stints at Ports America and Avaya, positions him as an ideal candidate to navigate the complexities of Grant Thornton's expanding multinational platform.</p><p>Jim Peko, CEO of Grant Thornton, expressed confidence in Surett's ability to drive value for both clients and employees, highlighting his extensive experience and strategic insight. Surett, on his part, has shown eagerness to collaborate with the firm's teams to further strengthen its financial foundations and support its growth ambitions.</p><p>Grant Thornton's recent initiatives, including the formation of a multinational platform with Grant Thornton Ireland and the integration of Grant Thornton UAE, reflect its commitment to offering comprehensive solutions to its clients. With a revenue of $2.7 billion and a presence in nearly 60 offices worldwide, the firm is on a clear path to expansion. Surett's leadership is anticipated to play a pivotal role in realizing this vision, ensuring the firm's financial strategies align with its global aspirations.</p><p>The appointment of Rick Surett as CFO marks a significant milestone for Grant Thornton as it continues to navigate the challenges and opportunities of global expansion. His proven track record in financial management and corporate development will be instrumental in steering the firm towards sustained growth and operational excellence in the competitive landscape of audit and advisory services.</p>

@@ -1,0 +1,16 @@
++++
+title = "Vision Marine Technologies Acquires Nautical Ventures Group, Pioneering North America's First Combined Electric Boat Propulsion and Dealership Platform"
+date = "2025-06-23T17:40:32Z"
+draft = false
+summary = "Vision Marine Technologies Inc. enhances its market position by acquiring Nautical Ventures Group, creating North America's first integrated electric boat propulsion and dealership platform."
+description = "Vision Marine Technologies acquires Nautical Ventures, creating North America's first combined electric boat propulsion and dealership platform. Discover how this shapes the future of boating."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-vision-marine-technologies-inc-nasdaq-vmar-acquires-nautical-ventures-to-launch-first-integrated-electric-boat-dealership-in-north-america/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/23/3555320a84c314eb8bb4318efc2ccab9.png"
+article_id = 87623
+feed_item_id = 16029
+url = "/news/202506/87623-vision-marine-technologies-acquires-nautical-ventures-group-pioneering-north-americas-first-combined-electric-boat-propulsion-and-dealership-platform"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/knobxUaF.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Vision Marine Technologies Inc. (NASDAQ: VMAR), a leader in high-voltage electric marine propulsion, has finalized its acquisition of Nautical Ventures Group, a top-tier U.S. boat dealership recognized as the 2024 Boating Industry 'Dealer of the Year.' This acquisition marks a significant milestone in the marine industry, establishing North America's first combined electric boat propulsion and dealership platform. By integrating Vision Marine's cutting-edge E-Motion(TM) powertrain with Nautical Ventures' extensive retail network, inventory, and service capabilities, the deal positions Vision Marine at the forefront of the electric boating revolution.</p><p>The strategic acquisition grants Vision Marine direct access to Florida's bustling boating market through Nautical Ventures' nine locations, which feature a wide array of prestigious brands including Axopar, Yamaha, and Beneteau. This move not only bolsters Vision Marine's direct-to-consumer approach but also opens up new revenue opportunities, laying the groundwork for expansion across the United States. The transaction, structured with a mix of cash, a seller's note, and stock, was advised by ThinkEquity, underscoring the deal's complexity and strategic importance.</p><p>This development is pivotal for the marine industry, signaling a shift towards sustainable boating solutions. The integration of Vision Marine's innovative propulsion technology with Nautical Ventures' retail expertise is expected to accelerate the adoption of electric boats, offering consumers eco-friendly alternatives without compromising on performance or luxury. For industry leaders and investors, this acquisition represents a forward-looking investment in the future of marine transportation, highlighting the growing demand for clean energy solutions in recreational boating.</p>

@@ -1,0 +1,16 @@
++++
+title = "Moi Moi Fine Jewellery Unveils The Bezel Collection: A Modern Take on Ancient Techniques"
+date = "2025-05-28T09:50:08Z"
+draft = false
+summary = "Australian jewellery brand Moi Moi introduces The Bezel Collection, blending ancient bezel setting techniques with modern minimalism for a line that's both stylish and practical, catering to the ethical and aesthetic preferences of today's consumers."
+description = "Discover Moi Moi Fine Jewellery's new Bezel Collection, featuring modern bezel-set designs with SUPERNOVA Moissanite gemstones. Explore the timeless elegance of these pieces, ideal for everyday wear and beloved by celebrities like Lily Collins. Embrace the symbolic and stylish appeal of bezel settings reimagined for the modern woman."
+source_link = "https://newsdirect.com/news/moi-moi-fine-jewellery-redefines-a-classic-with-the-launch-of-the-modern-bezel-collection-708669858"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/4c010b096dcb269fef4fd64508ea4163.jpg"
+article_id = 84794
+feed_item_id = 14669
+url = "/news/202505/84794-moi-moi-fine-jewellery-unveils-the-bezel-collection-a-modern-take-on-ancient-techniques"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/urgetyOk.webp"
+source = "News Direct"
++++
+
+<p>Australian jewellery brand Moi Moi Fine Jewellery has recently launched The Bezel Collection, a sophisticated range that marries the ancient art of bezel settings with contemporary minimalist design. This collection not only pays homage to the historical significance of bezel settings, originating from Ancient Egypt and Rome, but also redefines it for the modern consumer with its 'brilliance, framed' philosophy. The use of SUPERNOVA Moissanite stones in various cuts ensures that each piece stands out for its elegance and simplicity.</p><p>The collection, designed by Janet, Moi Moi's Jewellery Designer, emphasizes a 'back to basics' approach with a modern twist. It features standout pieces like the Lottie solitaire, suitable for both stacking and bridal wear, the Iliana, which offers a contemporary take on the traditional emerald cut, and the Jolene, a bold statement piece. These designs highlight the central gemstone, eschewing excessive embellishment for a cleaner, more refined look.</p><p>Beyond its aesthetic appeal, The Bezel Collection addresses practical concerns. The secure bezel setting offers superior protection for gemstones, making these pieces ideal for individuals with active lifestyles. The smooth, snag-free design ensures that the jewellery is not only beautiful but also functional and durable. This combination of style and practicality is increasingly sought after in today's fast-paced world.</p><p>The collection's launch coincides with a rising trend among celebrities opting for bezel-set engagement rings, further cementing the setting's association with eternity and protection. Additionally, Moi Moi's commitment to sustainability is evident in the use of lab-grown moissanite stones, aligning with the growing consumer demand for ethical and environmentally friendly jewellery options. The Bezel Collection is a testament to Moi Moi's innovative approach to design, blending tradition with modernity, and ethics with aesthetics.</p>

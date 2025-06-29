@@ -1,0 +1,16 @@
++++
+title = "Akshay D. Harlalka Honored by Marquis Who's Who for Pioneering Contributions to Precision Engineering"
+date = "2025-06-09T07:00:17Z"
+draft = false
+summary = "Akshay D. Harlalka's recognition by Marquis Who's Who highlights his significant advancements in precision machine design and manufacturing, impacting semiconductor and battery production industries."
+description = "Akshay D. Harlalka honored by Marquis Who's Who for his groundbreaking work in mechanical engineering and contributions to semiconductor and battery technologies."
+source_link = "https://www.24-7pressrelease.com/press-release/523615/akshay-harlalka-recognized-for-excellence-in-precision-machine-design-and-advanced-manufacturing"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 84127
+feed_item_id = 15340
+url = "/news/202506/84127-akshay-d-harlalka-honored-by-marquis-whos-who-for-pioneering-contributions-to-precision-engineering"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/9/dualVAdQ.webp"
+source = "24-7 Press Release"
++++
+
+<p>Akshay D. Harlalka, a mechanical engineer whose innovations have significantly influenced the semiconductor and battery manufacturing sectors, has been honored by Marquis Who's Who. This recognition not only celebrates Harlalka's individual achievements but also underscores the critical role of precision engineering in technological advancement.</p><p>Harlalka's journey from Jagdishpur, India, to the forefront of mechanical engineering is marked by his dedication and exceptional expertise. His academic excellence at the Vellore Institute of Technology and Massachusetts Institute of Technology (MIT) set the stage for a career characterized by groundbreaking contributions. Under the mentorship of Professor Alexander Slocum at MIT, Harlalka's research laid the groundwork for his future innovations in precision engineering.</p><p>At ASML, Harlalka was instrumental in advancing high-throughput lithography systems, crucial for semiconductor manufacturing. His co-invention of in-situ cleaning systems and development of reticle slip limiter technology have drastically reduced equipment downtime, enhancing production efficiency and saving millions in operational costs. His subsequent work at Applied Materials on precision lithium delivery systems represented a leap forward in next-generation battery electrode manufacturing.</p><p>Currently, at Atomic Machines Inc., Harlalka is leading the development of 3D inspection systems for MEMS applications, continuing his tradition of innovation. His accolades, including the MIT Great Dome Award, reflect his profound impact on the field. Beyond his professional achievements, Harlalka's commitment to public service and mentorship amplifies his influence in the engineering community.</p><p>Harlalka's recognition by Marquis Who's Who serves as a reminder of how technical curiosity and problem-solving can drive advancements that benefit entire industries and society. His work exemplifies the transformative potential of precision engineering in addressing complex manufacturing challenges and fostering technological progress.</p>

@@ -1,4 +1,4 @@
-baseURL = "https://newswriter.ai/news"
+baseURL = "https://newswriter.ai"
 languageCde = 'en-us'
 title = 'Newswriter Business and Technology News'
 theme = 'newsjockey-hugo'
@@ -6,6 +6,7 @@ theme = 'newsjockey-hugo'
 [params]
   description = "Newswriter.ai Curated Business and Technology News"
   author = "Newswriter Staff"
+
   
 [menu]
   [[menu.main]]
@@ -13,9 +14,13 @@ theme = 'newsjockey-hugo'
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Articles"
-    url = "/posts/"
+    name = "News"
+    url = "/news/"
     weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
 
 [markup]
   [markup.goldmark]

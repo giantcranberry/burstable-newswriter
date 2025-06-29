@@ -1,0 +1,16 @@
++++
+title = "TES TEC Announces $17.8 Million Expansion in Thailand to Boost Intelligent Touch Display Production"
+date = "2025-06-10T07:00:22Z"
+draft = false
+summary = "TES TEC's significant investment in Thailand aims to enhance its manufacturing capabilities and solidify its position in the global intelligent touch display market, promising economic benefits and job creation."
+description = "TES TEC announces a $17.8M expansion in Thailand to enhance intelligent touch display production, creating jobs and adopting sustainable practices."
+source_link = "https://www.24-7pressrelease.com/press-release/523618/tes-tec-expands-investment-in-thailand-to-us343-million"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
+article_id = 84112
+feed_item_id = 15391
+url = "/news/202506/84112-tes-tec-announces-178-million-expansion-in-thailand-to-boost-intelligent-touch-display-production"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/gold3dER.webp"
+source = "24-7 Press Release"
++++
+
+<p>TES TEC, a leader in intelligent touch display technology, has revealed plans to further invest $17.8 million in its Thailand operations, adding to its initial $16.5 million investment. This expansion, set to be completed by March 2026, will introduce new production lines, including one Monitor/AIO line, three panel PC lines, and two lamination lines, significantly increasing the company's manufacturing capacity. The total investment now stands at $34.3 million, marking TES TEC's largest foreign direct investment this year.</p><p>The Phase 1 facility in Chonburi, Thailand, operational since late 2024, has already demonstrated the company's commitment to high-volume production, with a capacity of up to 13,000 units monthly per shift. The strategic location of the Chonburi site, near major transportation hubs like Suvarnabhumi Airport and Laem Chabang sea port, ensures efficient logistics and trade operations, a critical factor in TES TEC's expansion strategy.</p><p>Phase II of the project will build on the successes of Phase I, focusing on optimizing production capacity and cost efficiency. The initial assembly operations are expected to produce 30,000 units per month per shift, with potential future expansions doubling this capacity. This expansion is not just about scaling up production; it's about reinforcing TES TEC's commitment to innovation and sustainability. The new facility will feature an intelligent factory monitoring system, solar panels for energy needs, and advanced quality control measures, including robotic arms and automated inspection systems.</p><p>Kevin Lee, CEO of TES TEC, emphasized the expansion's role in creating approximately 700 local jobs and contributing to the local economy. This move is part of TES TEC's broader strategy to position itself across China, Taiwan, and Thailand, ensuring responsive support for its global clientele. The expansion underscores TES TEC's dedication to leading the intelligent touch display device market, combining technological innovation with sustainable practices to meet the growing global demand.</p>

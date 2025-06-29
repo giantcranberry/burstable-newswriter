@@ -1,0 +1,16 @@
++++
+title = "American Ownership Group Acquires Res Roma VIII, Aiming to Elevate Women's Soccer in Rome"
+date = "2025-04-02T13:05:32Z"
+draft = false
+summary = "An American-led consortium has acquired Res Roma VIII, an independent women's soccer club in Rome, signaling a strategic move to capitalize on the burgeoning women's soccer market and enhance the club's global stature."
+description = "Res Roma VIII, a women's soccer club in Rome, has been acquired by an American group to expand its global presence. This news reflects the rapid growth and investment in women's soccer, signaling significant opportunities for the club and the industry as a whole."
+source_link = "https://newsdirect.com/news/us-based-group-buys-historic-womens-soccer-club-in-rome-plans-to-build-global-brand-in-the-eternal-city-340615403"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 85708
+feed_item_id = 12443
+url = "/news/202504/85708-american-ownership-group-acquires-res-roma-viii-aiming-to-elevate-womens-soccer-in-rome"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/2/keepvHo8.webp"
+source = "News Direct"
++++
+
+<p>The acquisition of Res Roma VIII by an American ownership group marks a pivotal moment for women's soccer in Italy and beyond. The group, comprising principal owner Matt Rizzetta, Francesco Sortino, Gina Antoniello, and Club Underdog, has set its sights on elevating the club's profile in the rapidly growing women's soccer sector. Res Roma VIII, competing in Serie B, boasts a rich history of nurturing talent, with over 30 players advancing to the Italian National Team and top European clubs.</p><p>Founded in 2003 with a mission to offer redemption opportunities for young girls from challenging backgrounds in Rome, Res Roma has maintained its independence and focus exclusively on women's soccer, distinguishing itself from other Roman clubs with women's teams tied to male parent clubs. This acquisition comes at a time when women's soccer is experiencing unprecedented growth, with global revenues surging by 35 percent last year and UEFA investing over $1 billion in the sport's development across Europe.</p><p>The economic potential of women's soccer is increasingly evident, highlighted by recent high-profile transactions such as Angel City FC's $250 million acquisition and Chelsea FC's women's team valuation at $200 million. The new owners of Res Roma VIII envision transforming the club into a destination brand in women's soccer, leveraging its established reputation and the unique opportunity presented by Rome's vibrant soccer culture.</p><p>Playing at Linkem Arena, one of Rome's few women's-specific professional soccer venues, Res Roma VIII continues its commitment to developing local talent and fostering social opportunities. Under the new ownership, the club is poised to expand its international footprint, potentially becoming a key player in the global women's soccer landscape. This move not only underscores the growing appeal of women's soccer but also highlights the strategic importance of investing in clubs with a strong foundation and community ties.</p>

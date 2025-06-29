@@ -1,0 +1,16 @@
++++
+title = "Silver Crown Royalties Inc. Secures Early and Partial Royalty Payments, Showcasing Financial Resilience"
+date = "2025-03-21T07:10:25Z"
+draft = false
+summary = "Silver Crown Royalties Inc. has demonstrated financial strength through early and partial royalty payments from mining partners, highlighting the company's strategic position in the precious metals market."
+description = "Silver Crown Royalties Inc. receives royalty payments from PPX Mining Corp. and Elk Gold Mining Corp. while providing updates on mining operations. Learn how royalty agreements can stabilize cash flow for mining projects and mitigate risks from operational challenges."
+source_link = "https://www.newmediawire.com/news/silver-crown-confirms-receipt-of-royalty-payments-and-provides-update-7080009"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
+article_id = 85822
+feed_item_id = 12105
+url = "/news/202503/85822-silver-crown-royalties-inc-secures-early-and-partial-royalty-payments-showcasing-financial-resilience"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/21/wallnhP5.webp"
+source = "NewMediaWire"
++++
+
+<p>Silver Crown Royalties Inc. has recently announced the receipt of royalty payments from two of its mining partners, PPX Mining Corp. and Elk Gold Mining Corp., a subsidiary of Gold Mountain Mining Corp. This development underscores the company's robust financial health and its ability to generate consistent revenue streams in the precious metals sector. PPX Mining Corp. fulfilled its royalty obligation of US$40,672.70 ahead of schedule, while Elk Gold Mining Corp. made a partial payment of C$29,811.99 for the quarter ending December 31, 2024, with the remaining C$30,070.25 expected by March 31, 2025.</p><p>The financial update from Gold Mountain Mining Corp. revealed a production of 291 ounces of gold from 10,055 tonnes of ore at an average grade of 1.23 g/t during the fourth quarter. This production level was lower than usual due to a planned winter work program that reduced operational activities. Despite this, the historical silver to gold ratio of 2:1 at the Elk Gold mine suggests an estimated silver production of approximately 573 ounces for the quarter. Silver Crown's royalty agreement guarantees a minimum quarterly payment equivalent to 1,500 ounces of silver, significantly higher than the current output, ensuring a steady income stream for the company.</p><p>Peter Bures, CEO of Silver Crown Royalties Inc., highlighted the company's dedication to supporting its mining partners and the effectiveness of the minimum delivery provision in safeguarding against operational uncertainties. The royalty model not only offers investors exposure to precious metals but also serves as a hedge against currency devaluation. With a portfolio of multiple revenue-generating silver royalties, Silver Crown is well-positioned to navigate the fluctuations of the mining industry while pursuing growth opportunities. This strategic approach not only benefits the company and its investors but also contributes to the stability of the broader precious metals market.</p>

@@ -1,0 +1,16 @@
++++
+title = "Xcelerated Learning's ACES Simulation Software Now Available on Genesys AppFoundry"
+date = "2025-02-28T08:02:46Z"
+draft = false
+summary = "Xcelerated Learning's ACES Simulation software, now available on the Genesys AppFoundry, offers a transformative approach to agent training with realistic simulations and embedded KPIs, promising to enhance customer service quality and agent performance."
+description = "Xcelerated Learning debuts ACES Simulation software on Genesys AppFoundry®, offering innovative training solutions for contact center agents. Learn how this new platform can improve customer service quality and reduce handle times."
+source_link = "https://www.24-7pressrelease.com/press-release/520123/xcelerated-learning-dba-verbal-transactions-aces-simulation-development-software-is-now-available-on-genesys-appfoundry"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 86053
+feed_item_id = 11479
+url = "/news/202502/86053-xcelerated-learnings-aces-simulation-software-now-available-on-genesys-appfoundry"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/28/leanmzcd.webp"
+source = "24-7 Press Release"
++++
+
+<p>The integration of Xcelerated Learning's ACES Simulation software into the Genesys AppFoundry marks a significant advancement in customer service training technologies. This platform, designed to offer highly realistic and customizable training simulations, is set to redefine how contact centers prepare their agents for the complexities of customer interactions. By embedding specific key performance indicators (KPIs) into each simulation, the ACES technology ensures that agents are trained to meet precise quality assurance standards from the outset.</p><p>Nancy Munro, CEO of Xcelerated Learning, underscores the scientific foundation of the ACES platform, pointing to its potential to not only reduce handle times and agent turnover but also to significantly improve agent satisfaction. The platform's use of advanced design principles facilitates rapid mastery of complex interaction scenarios, catering to agents at all levels of experience.</p><p>Genesys Cloud serves as the technological backbone for this innovative training solution, offering omnichannel coordination and native AI capabilities that enrich the training experience. The ACES platform's inclusion of detailed student tracking and reporting systems provides organizations with invaluable insights into skill readiness and knowledge transfer, enabling a more tailored and effective training approach.</p><p>This development is particularly relevant for business and technology leaders seeking to enhance their customer service operations. The ACES Simulation software's availability on the Genesys AppFoundry not only simplifies access to cutting-edge training tools but also signals a shift towards more immersive and metrics-driven training methodologies in the contact center industry. The implications for customer experience, operational efficiency, and agent development are profound, offering a competitive edge to organizations that adopt this technology.</p>

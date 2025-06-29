@@ -1,0 +1,16 @@
++++
+title = "EDGE Boost Introduces Social Accountability Program to Promote Responsible Gaming"
+date = "2025-06-10T13:00:23Z"
+draft = false
+summary = "EDGE Boost's new co-pilot system leverages social accountability to encourage responsible gaming, showing early success with a 7% adoption rate among users."
+description = "EDGE Boost introduces a co-pilot system for social accountability in gaming, enabling users to share transaction reports with trusted peers for responsible play."
+source_link = "https://newsdirect.com/news/edge-boost-launches-social-accountability-program-adding-peer-based-accountability-to-its-roster-of-responsible-gaming-tools-493478393"
+enclosure = "https://cdn.newsramp.app/banners/gambling-betting-2.jpg"
+article_id = 84103
+feed_item_id = 15419
+url = "/news/202506/84103-edge-boost-introduces-social-accountability-program-to-promote-responsible-gaming"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/iconQoUq.webp"
+source = "News Direct"
++++
+
+<p>EDGE Boost has launched a groundbreaking social accountability program designed to promote responsible gaming among its users. The program introduces a co-pilot system that allows users to designate trusted individuals to receive weekly transaction reports and participate in real-time adjustments to gaming limits. This innovative approach utilizes the power of peer influence to encourage healthier gaming habits, a method that has already demonstrated significant early success with a 7% adoption rate among EDGE Boost users.</p><p>The co-pilot system is rooted in the principle of social accountability, which emphasizes the role of personal connections in fostering positive behavior changes. Seni Thomas, Founder and CEO of EDGE Boost, compares the system to having a gym buddy, where mutual support leads to better outcomes. This comparison underscores the program's potential to not only enhance individual accountability but also to strengthen the bonds between users and their trusted contacts.</p><p>Under the program, co-pilots receive weekly updates on the user's gaming transactions and have the authority to approve or deny requests for increased spending limits. This collaborative approach not only reinforces accountability but also aligns with the American Gambling Association's Responsible Gaming Code of Conduct. By focusing on support rather than punishment, EDGE Boost is pioneering a more compassionate and effective method of promoting responsible gaming.</p><p>The co-pilot feature is now available to all EDGE Boost users, marking a significant step forward in the platform's mission to create a safer gaming environment. By integrating social accountability into its suite of tools, EDGE Boost is setting a new standard for how technology can be used to foster healthier gaming habits through community and support. This initiative not only benefits individual users but also has the potential to influence the broader gaming industry by demonstrating the effectiveness of social accountability in promoting responsible behavior.</p>

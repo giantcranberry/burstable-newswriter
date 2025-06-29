@@ -1,0 +1,16 @@
++++
+title = "Neovera's Acquisition of Greenway Solutions Marks a Strategic Leap in Fraud Defense"
+date = "2025-06-18T11:00:42Z"
+draft = false
+summary = "Neovera's acquisition of Greenway Solutions enhances its cybersecurity portfolio with advanced adversarial fraud testing capabilities, addressing the critical need for proactive fraud defense in an era of escalating cyber threats."
+description = "Neovera acquires Greenway Solutions to enhance adversarial fraud testing capabilities, offering real-world defense strategies against rising fraud losses."
+source_link = "https://www.citybiz.co/article/707960/neovera-strengthens-adversarial-fraud-testing-with-acquisition-of-greenway-solutions/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/cef52c3f1a14f4e5d0b8acdac97b3813.png"
+article_id = 85090
+feed_item_id = 15835
+url = "/news/202506/85090-neoveras-acquisition-of-greenway-solutions-marks-a-strategic-leap-in-fraud-defense"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/tintUeVb.webp"
+source = "citybiz"
++++
+
+<p>In a significant development for the cybersecurity and fraud prevention sectors, Neovera has acquired Greenway Solutions, a pioneer in adversarial fraud testing. This strategic move is designed to bolster Neovera's cybersecurity offerings by incorporating Greenway's innovative live-control testing methodologies. The acquisition comes at a pivotal moment, with the U.S. experiencing a dramatic rise in fraud-related losses, as evidenced by the Federal Trade Commission's report of a $12.5 billion loss in 2024, marking a 25% increase from the previous year.</p><p>Scott Weinberg, CEO and founder of Neovera, underscored the strategic value of this acquisition, noting Greenway Solutions' unparalleled expertise in fraud control red teaming. The integration of Greenway's methodologies into Neovera's portfolio is expected to provide clients with a more robust, threat-informed security solution. Greenway Solutions is renowned for its Fraud Red Team, which specializes in simulating authentic fraud attacks across various banking platforms, offering critical insights into the efficacy of existing fraud controls.</p><p>The merger between Neovera and Greenway Solutions represents a convergence of expertise aimed at combating the increasingly complex landscape of cyber and fraud threats. Jerry Tylman, Partner at Greenway, highlighted the practical nature of their testing approaches, emphasizing the real-world application of their methods. This hands-on, practical approach is a hallmark of Greenway's methodology and a key asset that Neovera plans to leverage to enhance its service offerings to financial institutions, fintechs, and healthcare providers.</p><p>This acquisition is a continuation of Neovera's aggressive expansion strategy, following its previous acquisitions of 10-D Security, AppliedCS, and Emagined Security. These strategic initiatives reflect Neovera's dedication to offering a comprehensive defense against the intertwined challenges of cybersecurity and fraud prevention. The partnership between Neovera and Greenway Solutions is set to provide cutting-edge, threat-informed protection that addresses both cyber and fraud risks, representing a significant milestone in the ongoing battle against fraud.</p>

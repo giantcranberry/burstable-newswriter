@@ -1,0 +1,16 @@
++++
+title = "Femto Technologies Inc. Executes 1-for-500 Reverse Stock Split to Maintain Nasdaq Listing"
+date = "2025-04-22T14:20:15Z"
+draft = false
+summary = "Femto Technologies Inc. has completed a significant reverse stock split to comply with Nasdaq Capital Market requirements, ensuring the company's continued listing and financial stability."
+description = "Femto Technologies implements a reverse stock split to meet Nasdaq bid price requirements and consolidate outstanding shares. This strategic move underscores the company's commitment to growth and compliance in the FemTech sector, showcasing its dedication to enhancing shareholder value and market position."
+source_link = "https://www.newmediawire.com/news/femto-technologies-announces-reverse-split-implemented-7080484"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 85530
+feed_item_id = 13095
+url = "/news/202504/85530-femto-technologies-inc-executes-1-for-500-reverse-stock-split-to-maintain-nasdaq-listing"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/22/vastRyjd.webp"
+source = "NewMediaWire"
++++
+
+<p>Femto Technologies Inc., a pioneering FemTech company, has successfully executed a 1-for-500 reverse stock split of its subordinate voting shares. This strategic financial adjustment, effective as of April 22, 2025, was initiated to align with the Nasdaq Capital Market's listing standards. The move consolidates every 500 existing shares into a single new share, drastically reducing the number of outstanding shares from approximately 299,848,784 to about 599,697. Despite this change, the company's trading symbol 'FMTO' remains unchanged, with a new CUSIP number assigned to reflect the adjustment.</p><p>The reverse stock split is a uniform adjustment affecting all shareholders, with specific guidelines for handling fractional shares. Shares less than one-half will be rounded down, while those at least one-half will be rounded up to the nearest whole share. Additionally, proportional adjustments will be applied to outstanding stock options, warrants, and shares under equity incentive plans. This meticulous approach ensures fairness and transparency in the process.</p><p>Femto Technologies, renowned for its Sensera feminine wellness product, has taken this step to mitigate potential delisting risks. The Sensera technology, featuring a proprietary Smart Release System (SRS), has garnered industry recognition, including being named a CES Innovation Awards® 2025 honoree in the AI category. This accolade underscores the company's commitment to innovation in the FemTech space.</p><p>While the reverse stock split does not affect shareholders' proportional equity interests, it is a pivotal measure for Femto Technologies to sustain its Nasdaq listing and bolster financial health. The company remains dedicated to advancing its research and development initiatives, aiming to broaden its technological offerings and reinforce its position in the competitive FemTech industry.</p>

@@ -1,0 +1,16 @@
++++
+title = "ZippedScript Secures $3.15 Million to Revolutionize Global Credential Verification"
+date = "2025-03-06T14:10:13Z"
+draft = false
+summary = "ZippedScript's recent funding success highlights its potential to transform the credential verification industry with faster, more accurate, and affordable solutions."
+description = "ZippedScript secures $3.15 million in funding to revolutionize education and employment verification processes. With a focus on speed, accuracy, affordability, and global coverage, the company aims to streamline background checks. The expansion into employment verification in 2025 marks a significant milestone in reshaping hiring workflows."
+source_link = "https://www.newmediawire.com/news/zippedscript-announces-total-funding-of-3-15m-to-transform-global-credential-verification-boasting-20-million-degrees-in-database-7079737"
+enclosure = "https://cdn.newsramp.app/banners/education-2.jpg"
+article_id = 85940
+feed_item_id = 11681
+url = "/news/202503/85940-zippedscript-secures-315-million-to-revolutionize-global-credential-verification"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/6/lendvOpC.webp"
+source = "NewMediaWire"
++++
+
+<p>Technology startup ZippedScript has recently announced a significant milestone in its journey to modernize global credential verification, securing a total of $3.15 million in funding across two rounds. This financial backing, including a $750,000 pre-seed investment in December 2021 and a $2.4 million seed round in Summer 2023, comes from a consortium of investors such as Arcanum Capital, Right Side Capital, New Stack Ventures, and Work-Bench. These investments underscore the growing confidence in ZippedScript's innovative approach to tackling the inefficiencies plaguing the traditional credential verification process.</p><p>At the heart of ZippedScript's mission is the development of a technology platform that currently hosts over 20 million pre-verified degrees, aiming to offer a solution that is not only fast and accurate but also affordable and globally accessible. CEO Chris Harper emphasized the company's commitment to revolutionizing an industry that has long been characterized by slow and cumbersome verification methods. With plans to expand into employment verification by 2025, ZippedScript is set to address critical gaps in the hiring process, further solidifying its position as a leader in the digital identity space.</p><p>The implications of ZippedScript's advancements are far-reaching. For businesses and educational institutions, the startup's technology promises to streamline operations, reduce costs, and enhance the reliability of credential verification. For individuals, it offers a seamless way to authenticate and share their professional credentials, potentially opening up new opportunities in the global job market. Amidst the volatility of the technological sector, ZippedScript's successful funding rounds highlight the industry's recognition of the urgent need for innovation in credential verification, marking a significant step forward in the digital transformation of education and employment sectors.</p>

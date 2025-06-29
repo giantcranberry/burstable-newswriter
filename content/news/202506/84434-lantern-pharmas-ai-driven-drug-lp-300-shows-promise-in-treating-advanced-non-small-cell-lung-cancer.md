@@ -1,0 +1,16 @@
++++
+title = "Lantern Pharma's AI-Driven Drug LP-300 Shows Promise in Treating Advanced Non-Small Cell Lung Cancer"
+date = "2025-06-16T14:25:28Z"
+draft = false
+summary = "Lantern Pharma Inc. reports a significant clinical outcome from its Phase 2 HARMONIC(TM) trial, demonstrating the efficacy of LP-300 in treating advanced non-small cell lung cancer, particularly in never-smoker patients, marking a pivotal advancement in oncology and AI-driven drug development."
+description = "Lantern Pharma's AI-driven LP-300 shows durable complete response in NSCLC trial, highlighting the potential of AI in transforming cancer treatment. Read more."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-lantern-pharma-inc-nasdaq-ltrn-reports-complete-response-in-advanced-nsclc-patient-in-harmonictm-trial/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/93a1be0d29e0e6149175ae01badea6fa.png"
+article_id = 84434
+feed_item_id = 15673
+url = "/news/202506/84434-lantern-pharmas-ai-driven-drug-lp-300-shows-promise-in-treating-advanced-non-small-cell-lung-cancer"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/pintkF70.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lantern Pharma Inc. (NASDAQ: LTRN) has recently unveiled a promising clinical result from its Phase 2 HARMONIC(TM) trial, where its drug LP-300, in combination with standard chemotherapy, achieved a durable complete response in a 70-year-old never-smoker with advanced non-small cell lung cancer (NSCLC). This patient, who had previously undergone three lines of therapy without success, including treatments with Keytruda(R), radiation, and Tagrisso(R), saw a 57% reduction in tumor size initially, followed by the complete resolution of lung and adrenal lesions. Nearly two years after starting treatment, the patient remains progression-free, with no significant adverse reactions reported over 21 cycles of treatment.</p><p>This development is particularly significant as it addresses a critical unmet need in the treatment of never-smoker NSCLC patients who have exhausted targeted kinase therapy options. These patients represent a growing yet underserved segment with limited approved treatments. The success of LP-300, developed using Lantern Pharma's RADR(R) AI platform, highlights the transformative potential of artificial intelligence in oncology drug development. The RADR(R) platform utilizes over 200 billion oncology-focused data points and a library of more than 200 advanced machine learning algorithms to expedite the discovery and development of cancer therapies.</p><p>Lantern Pharma's breakthrough with LP-300 in the HARMONIC(TM) trial not only underscores the drug's potential to enhance outcomes for NSCLC patients but also exemplifies the company's innovative approach to reducing the cost and time associated with bringing new oncology treatments to market. With an average development timeline of 2-3 years and approximately $2.5 million per program, Lantern Pharma is establishing a new benchmark in the efficient and effective development of cancer therapies. This achievement offers hope to patients with limited treatment options and serves as a testament to the power of AI in revolutionizing drug development.</p>

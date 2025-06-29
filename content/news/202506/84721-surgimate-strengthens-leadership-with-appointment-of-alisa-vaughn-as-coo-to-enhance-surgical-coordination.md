@@ -1,0 +1,16 @@
++++
+title = "Surgimate Strengthens Leadership with Appointment of Alisa Vaughn as COO to Enhance Surgical Coordination"
+date = "2025-06-03T18:25:08Z"
+draft = false
+summary = "Surgimate appoints Alisa Vaughn as Chief Operating Officer to improve customer experience and drive strategic growth in surgical coordination and scheduling software."
+description = "Surgimate appoints Alisa Vaughn as COO to enhance surgical coordination and scheduling, aiming to set new standards in surgical care delivery."
+source_link = "https://www.citybiz.co/article/702050/surgimate-appoints-alisa-vaughn-as-chief-operating-officer/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 84721
+feed_item_id = 15040
+url = "/news/202506/84721-surgimate-strengthens-leadership-with-appointment-of-alisa-vaughn-as-coo-to-enhance-surgical-coordination"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/warpInVH.webp"
+source = "citybiz"
++++
+
+<p>Surgimate, a pioneer in surgical coordination and scheduling software, has announced the appointment of Alisa Vaughn as its new Chief Operating Officer. This strategic move is set to enhance the customer experience across Surgimate's diverse business lines, including surgical scheduling, medical device coordination, and patient access. Vaughn's collaboration with CEO Kraig Brown is aimed at scaling initiatives that will drive the company's strategic growth forward.</p><p>With a robust background spanning over 15 years in healthcare operations and leadership, Vaughn brings a wealth of experience from her executive roles at Trusted Doctors and Office Practicum. Her expertise in mergers and acquisitions, organizational design, and infrastructure strategy is anticipated to play a pivotal role in Surgimate's journey towards long-term value creation. Vaughn has expressed her excitement about leading teams to solve complex challenges and achieve significant outcomes, highlighting Surgimate's potential to redefine standards in surgical care delivery.</p><p>Headquartered in New York with research and development offices in Israel, Surgimate has made a notable impact by facilitating over 750,000 surgical events across more than 100 practices in 2024. The company's innovative solutions in surgical project management, reporting, and form generation are designed to boost operational efficiency and improve the quality of care. The appointment of Vaughn as COO is a testament to Surgimate's dedication to transforming the surgical ecosystem, offering benefits to care teams, patients, and partners alike.</p><p>This development is significant for the healthcare technology sector as it underscores the importance of leadership in driving innovation and operational excellence. Vaughn's appointment is expected to accelerate Surgimate's growth and enhance its offerings, ultimately leading to improved surgical coordination and patient outcomes. For business and technology leaders, this move highlights the critical role of strategic leadership in scaling healthcare technologies and the potential for such innovations to revolutionize patient care and operational workflows in the surgical domain.</p>

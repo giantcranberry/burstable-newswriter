@@ -1,0 +1,16 @@
++++
+title = "Private vs. Public Companies: Divergent Paths in Workplace Incident Reporting Revealed"
+date = "2025-03-18T12:25:21Z"
+draft = false
+summary = "The 2025 Whistleblowing & Incident Management Benchmark Report by NAVEX highlights significant differences in how private and public companies handle internal incident reporting, with implications for organizational culture and compliance effectiveness."
+description = "NAVEX releases 2025 Whistleblowing & Incident Management Benchmark Report with key insights on workplace reporting trends. The report provides valuable data for organizations to enhance compliance programs and address workplace misconduct risks."
+source_link = "https://newsdirect.com/news/the-navex-2025-whistleblowing-benchmark-report-highlights-significant-differences-between-private-and-public-companies-297249869"
+enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
+article_id = 85854
+feed_item_id = 12000
+url = "/news/202503/85854-private-vs-public-companies-divergent-paths-in-workplace-incident-reporting-revealed"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/18/kiwiD0Q9.webp"
+source = "News Direct"
++++
+
+<p>The 2025 Whistleblowing & Incident Management Benchmark Report by NAVEX has shed light on the contrasting approaches private and public companies take towards internal incident reporting. Analyzing data from over 4,000 organizations, the report reveals that private companies not only report incidents at a higher rate—1.80 reports per 100 employees compared to 1.10 in public companies—but also substantiate these reports more frequently, with a 50% substantiation rate versus 43% for public entities.</p><p>Workplace civility emerged as the leading category of reports, accounting for nearly 18% of all incidents. Carrie Penman, Chief Risk and Compliance Officer at NAVEX, pointed out the direct impact of workplace incivility on organizational culture, productivity, and employee retention, underscoring the importance of addressing these issues promptly and effectively.</p><p>The report also uncovered differences in how organizations respond to substantiated reports. Private companies are more likely to terminate employment following a substantiated case, whereas public companies tend to opt for disciplinary actions. Additionally, private companies reported a higher percentage of business integrity issues, making up 21% of their total reports compared to 18% in public companies.</p><p>Among the report's key findings is a record-high overall substantiation rate of 46%, indicating an improvement in the effectiveness of compliance programs. There's also a notable shift in reporting channels, with digital forms now outpacing traditional hotline methods. Despite an increase in retaliation reporting rates from 2.84% to 3.08%, the substantiation of these claims remains low at 18%.</p><p>This comprehensive analysis underscores the evolving nature of workplace reporting and the critical need for transparent and robust compliance mechanisms across all types of organizational structures. The findings have significant implications for leaders in business and technology, highlighting the importance of fostering a culture of openness and accountability to enhance organizational health and compliance efficacy.</p>

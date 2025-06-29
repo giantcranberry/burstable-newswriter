@@ -1,0 +1,16 @@
++++
+title = "The Standard Insurance Company Strengthens Leadership with Appointment of Nicola Barrett as Second Vice President and Actuary"
+date = "2025-06-06T18:10:59Z"
+draft = false
+summary = "The Standard Insurance Company enhances its leadership team by appointing Nicola Barrett as Second Vice President and Actuary, signaling a strong commitment to actuarial governance and enterprise risk management."
+description = "Standard Insurance Company appoints Nicola Barrett as second vice president, enhancing its actuarial governance and risk management capabilities."
+source_link = "https://www.citybiz.co/article/703682/the-standard-appoints-nicola-barrett-as-second-vice-president/"
+enclosure = "https://cdn.newsramp.app/banners/insurance-2.jpg"
+article_id = 84628
+feed_item_id = 15316
+url = "/news/202506/84628-the-standard-insurance-company-strengthens-leadership-with-appointment-of-nicola-barrett-as-second-vice-president-and-actuary"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/joltcjlP.webp"
+source = "citybiz"
++++
+
+<p>The Standard Insurance Company has taken a significant step in bolstering its leadership team with the appointment of Nicola Barrett as the new Second Vice President and Actuary. This move is aimed at reinforcing the company's actuarial governance and enterprise risk management frameworks, showcasing The Standard's dedication to maintaining a robust leadership structure that can navigate the complexities of the financial protection industry.</p><p>Nicola Barrett brings to the table a wealth of experience from her tenure at leading firms such as MassMutual, Milliman, Ernst & Young, MetLife, and Prudential. Her role will involve overseeing actuarial governance and implementing agile risk management strategies, which are critical in today's rapidly evolving business landscape. Lauren Canfield, Vice President, Corporate Actuary and Chief Risk Officer at The Standard, emphasized the value of Barrett's diverse background and the anticipated positive influence on the company's operational excellence.</p><p>Barrett's academic achievements, including a Bachelor of Business Administration in decision sciences and a Master of Actuarial Science from Georgia State University, along with her recognition as a Fellow of the Society of Actuaries and her upcoming presidency of the Caribbean Actuarial Association, highlight her expertise and leadership capabilities. These qualifications are expected to contribute significantly to The Standard's mission of providing financial well-being and peace of mind to its customers through innovative products and services.</p><p>Since its inception in 1906, The Standard has been at the forefront of offering comprehensive financial protection solutions. The appointment of Nicola Barrett underscores the company's ongoing commitment to excellence and innovation, ensuring that it remains a trusted partner for employers and individuals seeking financial security. This strategic addition to the executive team is a clear indication of The Standard's focus on leveraging top-tier talent to drive forward its mission and adapt to the dynamic demands of the industry.</p>

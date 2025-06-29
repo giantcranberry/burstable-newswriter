@@ -1,0 +1,16 @@
++++
+title = "SolarBank Corporation Launches 7.2 Megawatt Community Solar Project in Upstate New York"
+date = "2025-05-08T14:05:19Z"
+draft = false
+summary = "SolarBank Corporation's new 7.2 megawatt solar project in upstate New York marks a significant advancement in community solar, offering clean energy access to residents and renters without the need for personal solar panel installations."
+description = "SolarBank Corporation announces plans for a 7.2 MW DC ground-mount solar project in upstate New York under a community solar model. This initiative showcases the company's dedication to clean energy and provides residents with an eco-friendly alternative."
+source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-suun-cboe-ca-sunn-fse-gy2-advances-7-2-mw-glor-rd-community-solar-project-in-upstate-new-york/"
+enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
+article_id = 85315
+feed_item_id = 13926
+url = "/news/202505/85315-solarbank-corporation-launches-72-megawatt-community-solar-project-in-upstate-new-york"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/lilyha8w.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SolarBank Corporation is making strides in the renewable energy sector with its latest 7.2 megawatt direct current ground-mount solar project located in upstate New York. Known as the Glor Rd project, this initiative is set to operate under New York's community solar framework, a model designed to democratize access to clean energy. This framework is particularly beneficial for residents and renters who are unable to install solar panels on their properties, providing them with an opportunity to subscribe to a shared solar energy source and enjoy credits on their electricity bills.</p><p>The project is anticipated to generate sufficient electricity to power around 850 homes, contributing significantly to the local energy grid. Furthermore, by participating in New York's Value of Distributed Energy Resources (VDER) rate program, the Glor Rd project stands to gain additional incentives from the New York State Energy Research and Development Authority (NYSERDA), enhancing its financial viability and sustainability.</p><p>Community solar models, such as the one employed by SolarBank Corporation, represent a forward-thinking approach to renewable energy. They address a critical gap in the market by serving individuals who, due to various constraints, cannot partake in traditional solar energy solutions. This not only broadens the reach of clean energy but also aligns with broader environmental and sustainability goals.</p><p>This project is a testament to SolarBank Corporation's commitment to expanding renewable energy infrastructure in the region. Through its growing portfolio of solar projects, the company is playing a pivotal role in supporting New York's sustainable energy objectives. The Glor Rd project, in particular, underscores the potential of community solar to transform the energy landscape, making renewable energy more accessible and affordable for a wider audience.</p>

@@ -1,0 +1,16 @@
++++
+title = "TOMY International Expands Access to Authentic Japanese Collectibles in North America"
+date = "2025-03-06T16:00:27Z"
+draft = false
+summary = "TOMY International is set to launch a curated selection of authentic Japanese collectibles in North America via its TOMY PLUS platform, catering to the growing demand among fans and collectors."
+description = "TOMY International partners with TOMY Company, Ltd. to bring authentic Japanese products to North America in 2025. Popular items like ZOIDS and tomica LIMITED VINTAGE will be available to U.S. and Canadian consumers through TOMY PLUS."
+source_link = "https://www.24-7pressrelease.com/press-release/520369/tomy-international-to-bring-favorite-japanese-collectibles-to-north-american-consumers"
+enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
+article_id = 85939
+feed_item_id = 11682
+url = "/news/202503/85939-tomy-international-expands-access-to-authentic-japanese-collectibles-in-north-america"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/6/wamce1Zu.webp"
+source = "24-7 Press Release"
++++
+
+<p>TOMY International has announced a strategic expansion that will bring a curated selection of authentic Japanese collectibles to North American consumers through its TOMY PLUS direct-to-consumer platform. Starting March 2025, the initiative will feature a diverse range of products from its parent company, TOMY Company, Ltd., including beloved brands such as ZOIDS, DIACLONE, and tomica LIMITED VINTAGE. This move is poised to significantly impact collectors and enthusiasts by providing them with direct access to unique merchandise that was previously harder to obtain in the region.</p><p>Morgan Weyl, Managing Director of Licensing & Global Development at TOMY International, highlighted the importance of this expansion, pointing to the high demand for authentic Japanese products among North American consumers. The partnership between TOMY International and its parent company is designed to meet this demand by introducing historical brands to a wider audience. The product lineup will include T-SPARK-branded items and TOMY TEC collections, specifically targeting enthusiasts in the United States and Canada.</p><p>By utilizing the TOMY PLUS platform, TOMY International aims to simplify the process for consumers to acquire these specialized collectibles. This approach not only enhances the shopping experience for fans but also underscores the company's commitment to global market expansion and its ability to adapt to consumer interests in niche product lines. The initiative reflects the increasing international popularity of Japanese collectible brands and TOMY International's strategic efforts to connect cultural markets through innovative retail strategies.</p><p>The introduction of these collectibles to the North American market is expected to have a notable impact on the collectibles industry, potentially setting a precedent for how companies can leverage direct-to-consumer platforms to meet the demands of specific consumer segments. For collectors and fans, this expansion means easier access to high-quality, authentic products, enriching their collections and fostering a deeper connection with Japanese culture through these cherished brands.</p>

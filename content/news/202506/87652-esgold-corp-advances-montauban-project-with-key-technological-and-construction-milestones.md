@@ -1,0 +1,16 @@
++++
+title = "ESGold Corp. Advances Montauban Project with Key Technological and Construction Milestones"
+date = "2025-06-20T18:30:32Z"
+draft = false
+summary = "ESGold Corp. has made significant progress in the Montauban Project, including the completion of Humphrey Spirals installation and the finalization of its Preliminary Economic Assessment, marking a pivotal step towards operational viability in the gold and silver mining sector."
+description = "ESGold Corp advances Montauban Project with Humphrey Spirals installation and PEA completion, signaling growth in Quebec's gold and silver mining sector."
+source_link = "https://rss.investorbrandnetwork.com/mnw/esgold-corp-cse-esau-otcqb-esauf-reports-construction-progress-at-montauban-project-with-new-technical-milestones/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/20/544d792d321b4f7279f97a1da935beb8.png"
+article_id = 87652
+feed_item_id = 15946
+url = "/news/202506/87652-esgold-corp-advances-montauban-project-with-key-technological-and-construction-milestones"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/flaxLx0h.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>ESGold Corp. (CSE: ESAU) (OTCQB: ESAUF) has recently achieved significant milestones in the development of its Montauban Project in Quebec, a pre-production gold and silver operation. The completion of the Humphrey Spirals installation, a crucial element of the gravity separation system, now allows for the processing of historical tailings at a capacity of up to 1,000 tonnes per day. This advancement is a critical step in enhancing the project's future output capacity and operational efficiency.</p><p>In addition to the technological upgrades, ESGold Corp. has finalized its Preliminary Economic Assessment (PEA), which currently focuses on tailings material. The company plans to release further updates and data in the coming months, providing stakeholders with valuable insights into the project's economic potential. Concurrently, spiral circuit concentrate testing is being conducted, with the results expected to inform strategies for optimizing recovery rates and reagent efficiency. These initiatives are part of ESGold's strategic approach to capitalize on the current high gold prices, offering investors an opportunity for lower-cost entry into gold exposure with the potential for higher returns.</p><p>Further enhancing the project's technical foundation, ESGold is in the process of developing a comprehensive 3D geological model utilizing seismic and historical data. This model is anticipated to provide a deeper understanding of the project's geological characteristics, facilitating more informed decision-making and operational planning. The progress at the Montauban Project not only demonstrates ESGold Corp.'s commitment to advancing towards operational viability but also highlights the potential impact on the gold and silver mining industry. For more detailed information, visit <a href='https://ibn.fm/abPvq' rel='nofollow' target='_blank'>https://ibn.fm/abPvq</a>.</p>

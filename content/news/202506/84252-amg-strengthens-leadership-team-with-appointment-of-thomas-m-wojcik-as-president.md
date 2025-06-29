@@ -1,0 +1,16 @@
++++
+title = "AMG Strengthens Leadership Team with Appointment of Thomas M. Wojcik as President"
+date = "2025-06-03T12:35:07Z"
+draft = false
+summary = "AMG appoints Thomas M. Wojcik as President to bolster its growth strategy in private markets and liquid alternative strategies, signaling a strong commitment to navigating the future of investment management."
+description = "AMG appoints Thomas M. Wojcik as President, reinforcing its strategic growth in investment management. Learn more about this leadership evolution."
+source_link = "https://www.citybiz.co/article/701743/amg-appoints-thomas-m-wojcik-as-president-and-chief-operating-officer/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 84252
+feed_item_id = 14974
+url = "/news/202506/84252-amg-strengthens-leadership-team-with-appointment-of-thomas-m-wojcik-as-president"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/vastgwYc.webp"
+source = "citybiz"
++++
+
+<p>AMG, a leading global strategic partner to independent investment management firms, has announced a significant leadership update with Thomas M. Wojcik stepping into the role of President, effective June 3, 2025. Wojcik, who will continue to serve as Chief Operating Officer, is set to lead AMG's ambitious growth strategy, particularly in private markets and liquid alternative strategies. This move highlights AMG's proactive approach to strengthening its executive team in response to the dynamic investment landscape.</p><p>Jay C. Horgen, AMG's Chief Executive Officer, praised Wojcik for his substantial contributions to the company's strategic direction and cultural development since joining in 2019. Under Wojcik's leadership, AMG has significantly expanded its footprint in key growth areas, including strategic investments in new and existing Affiliates. These initiatives have successfully increased AMG's earnings from private markets and liquid alternative strategies to 50%, marking a pivotal shift in the company's revenue streams.</p><p>Wojcik's impressive background includes leadership roles at BlackRock, Inc., where he served as Global Head of Corporate Development and Investor Relations, and Chief Financial Officer for EMEA. His deep expertise in investment banking and asset management, combined with a strategic outlook, equips him to steer AMG through its next growth phase. Wojcik's academic achievements, featuring a B.A. from Duke University and an M.B.A. from The Wharton School, further underscore his qualifications for this elevated role.</p><p>AMG's strategy revolves around partnerships with high-caliber independent investment management firms, a model that has propelled the company to manage approximately $712 billion in assets as of March 31, 2025. Wojcik's promotion reflects AMG's commitment to nurturing leadership that can innovate and expand in a competitive global market. This leadership transition is not just a milestone for AMG but also a signal to the industry about the importance of strategic leadership in navigating the complexities of today's investment environment.</p>

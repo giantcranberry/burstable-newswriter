@@ -1,0 +1,16 @@
++++
+title = "Halcyon Strengthens Cybersecurity Leadership with FBI Veteran Cynthia Kaiser to Combat Ransomware"
+date = "2025-06-04T10:15:07Z"
+draft = false
+summary = "Halcyon appoints Cynthia Kaiser, a former FBI cybersecurity expert, as Senior Vice President of its Ransomware Research Center, aiming to enhance global efforts against ransomware through intelligence sharing and strategic partnerships."
+description = "Halcyon appoints ex-FBI cybersecurity leader Cynthia Kaiser to lead its Ransomware Research Center, enhancing the fight against ransomware threats."
+source_link = "https://www.citybiz.co/article/702359/halcyon-appoints-cynthia-kaiser-as-svp/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 84709
+feed_item_id = 15086
+url = "/news/202506/84709-halcyon-strengthens-cybersecurity-leadership-with-fbi-veteran-cynthia-kaiser-to-combat-ransomware"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/chipi0Fs.webp"
+source = "citybiz"
++++
+
+<p>Halcyon, a leading anti-ransomware platform provider, has taken a significant step forward in its mission to combat ransomware by appointing Cynthia Kaiser as the Senior Vice President of its Ransomware Research Center. Kaiser's extensive experience in cybersecurity, garnered over a twenty-year tenure at the FBI, positions her as a pivotal figure in Halcyon's strategy to enhance ransomware intelligence and foster strategic partnerships.</p><p>During her illustrious career at the FBI, Kaiser was instrumental in developing threat intelligence sharing programs that were crucial in the dismantling of major ransomware groups, including LockBit, 8base, and Qakbot. Her leadership in the FBI’s Cyber Policy, Intelligence, and Engagement Branch as a Deputy Assistant Director has been marked by her efforts to bridge the gap between the public and private sectors in the fight against cyber threats.</p><p>At Halcyon, Kaiser is expected to leverage her unparalleled expertise to strengthen the company's ransomware intelligence capabilities. Her focus will be on building alliances with federal and state governments, industry associations, and critical infrastructure groups. Additionally, Kaiser will play a key role in advising on policy measures aimed at effectively combating ransomware, a growing threat that employs increasingly sophisticated methods to target organizations worldwide.</p><p>Jon Miller, CEO & Co-founder of Halcyon, has expressed strong confidence in Kaiser's ability to reinforce Halcyon's leadership in providing ransomware solutions. Her appointment is a testament to Halcyon's commitment to delivering cybersecurity solutions that empower organizations to resist ransomware attacks without facing operational disruptions or the need to pay ransom demands.</p><p>The significance of Kaiser's role at Halcyon cannot be overstated, as ransomware continues to pose a severe threat to global cybersecurity. Her leadership is anticipated to make a substantial contribution to the global initiative to disrupt ransomware operations and protect critical digital infrastructure, ensuring a safer digital future for businesses and governments alike.</p>

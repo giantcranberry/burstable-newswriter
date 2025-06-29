@@ -1,0 +1,16 @@
++++
+title = "G6 Hospitality's Revenue Management Services Outperform Market with 11% Growth"
+date = "2025-06-23T14:00:28Z"
+draft = false
+summary = "G6 Hospitality's RMS program drives significant revenue growth and digital performance for Motel 6 and Studio 6, showcasing the power of technology in hospitality."
+description = "G6 Hospitality's RMS program achieves 11% revenue growth in Q1 2025, outperforming industry benchmarks with advanced pricing and digital strategies."
+source_link = "https://newsdirect.com/news/g6-hospitalitys-revenue-management-program-delivers-double-digit-growth-and-outperforms-market-822427423"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 87628
+feed_item_id = 16014
+url = "/news/202506/87628-g6-hospitalitys-revenue-management-services-outperform-market-with-11-growth"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/23/elleg3HV.webp"
+source = "News Direct"
++++
+
+<p>G6 Hospitality, overseeing Motel 6 and Studio 6, has reported its Revenue Management Services (RMS) program achieving an 11% year-over-year revenue growth in the first quarter of 2025, significantly outpacing the broader market. This performance not only doubles the growth rate of the rest of the portfolio but also sets a new benchmark for the industry. The success is credited to the program's innovative use of proprietary automation tools, alongside daily competitive set monitoring and bi-weekly strategy discussions with dedicated revenue managers.</p><p>Properties enrolled in the RMS program have seen a 10% higher Average Daily Rate (ADR) compared to those not in the program, demonstrating the effectiveness of its pricing optimization strategies. Additionally, digital channel performance has seen a remarkable improvement, with web and app channel growth for RMS properties at 11.5%, in stark contrast to a 4.4% decline for non-RMS properties. This leap in digital performance is attributed to advanced dynamic pricing, optimization of online travel agency (OTA) partnerships, and the strategic efforts of a centralized performance marketing team.</p><p>The positive trend continued into April 2025, with revenue-managed properties posting a 9% revenue growth, far exceeding the 0.7% growth observed in non-revenue managed hotels. The ADR for RMS properties reached $78.24, significantly higher than the $66.68 ADR for non-managed properties. Sonal Sinha, CEO of G6 Hospitality, highlighted the program's success in equipping franchisees with state-of-the-art tools and strategic insights to achieve superior results and elevate guest satisfaction.</p><p>This development follows the introduction of the AI-powered My6 app, which has already fueled a 14% year-over-year increase in direct bookings. These initiatives underscore G6 Hospitality's dedication to harnessing technology and data analytics to foster franchisee success and enhance the overall guest experience, marking a significant step forward in the integration of technology within the hospitality sector.</p>

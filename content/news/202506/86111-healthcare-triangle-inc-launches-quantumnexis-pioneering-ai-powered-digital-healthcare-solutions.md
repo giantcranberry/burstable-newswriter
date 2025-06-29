@@ -1,0 +1,16 @@
++++
+title = "Healthcare Triangle Inc. Launches QuantumNexis, Pioneering AI-Powered Digital Healthcare Solutions"
+date = "2025-06-18T13:10:35Z"
+draft = false
+summary = "Healthcare Triangle Inc. introduces QuantumNexis, a subsidiary aimed at revolutionizing healthcare through AI and quantum intelligence, marking a significant step towards digital healthcare modernization."
+description = "Healthcare Triangle Inc. launches QuantumNexis, a Generative AI-powered SaaS for healthcare, featuring Ziloy and Ezovion, to transform patient care and operations."
+source_link = "https://www.newmediawire.com/news/healthcare-triangle-inc-nasdaq-hcti-launched-its-new-subsidiary-quantumnexis-on-june-16-in-kuala-lumpur-7080916"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/0030618f82795f57dc4f8800a051fc41.png"
+article_id = 86111
+feed_item_id = 15840
+url = "/news/202506/86111-healthcare-triangle-inc-launches-quantumnexis-pioneering-ai-powered-digital-healthcare-solutions"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/18/bossSLLB.webp"
+source = "NewMediaWire"
++++
+
+<p>Healthcare Triangle Inc. (NASDAQ: HCTI) has taken a significant step forward in the digital healthcare sector with the launch of its new subsidiary, QuantumNexis, in Kuala Lumpur. This move underscores HCTI's commitment to harnessing the power of quantum intelligence and generative AI to address the evolving needs of the global healthcare industry. QuantumNexis is poised to redefine healthcare delivery with its innovative SaaS solutions, including Ziloy, an AI-driven mental wellness platform, and Ezovion, a state-of-the-art Hospital Information Management System (HIMS). These platforms are engineered to provide personalized behavioral health support and optimize hospital operations, respectively, through the integration of cloud-native infrastructure, automation, and AI.</p><p>Sujatha Ramesh, COO of HCTI, emphasized the groundbreaking potential of QuantumNexis, stating, 'QuantumNexis represents a monumental advancement in AI-driven healthcare, utilizing sophisticated machine learning and predictive analytics.' This initiative is not only focused on improving patient outcomes and operational efficiency but also establishes HCTI as a frontrunner in the digital healthcare transformation. David Ayanoglou, CFO of HCTI, highlighted the strategic and financial advantages of QuantumNexis, pointing to its capacity to make a substantial impact in underserved markets. The choice of Southeast Asia for the launch reflects the region's increasing appetite for digital health solutions and QuantumNexis's global scaling ambitions, supported by HCTI's regulatory acumen and enterprise-level technology.</p><p>The introduction of QuantumNexis signifies a pivotal development in healthcare technology, offering tools for quicker diagnoses and enhanced patient care. By expanding its portfolio with QuantumNexis, HCTI is contributing to the overarching objective of modernizing healthcare, making this launch a landmark event for the industry and its stakeholders worldwide.</p>

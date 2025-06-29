@@ -1,0 +1,16 @@
++++
+title = "Mizuho Americas Strengthens Equity Research Team with Appointment of Nick Setyan as Managing Director"
+date = "2025-06-04T14:45:07Z"
+draft = false
+summary = "Mizuho Americas enhances its equity research capabilities with the addition of Nick Setyan, a seasoned analyst with 15 years of experience in the restaurant sector, signaling a strategic move to bolster its financial services and insights."
+description = "Mizuho Americas appoints Nick Setyan as Managing Director to lead Restaurant sector research, enhancing its equity research team with deep industry expertise."
+source_link = "https://www.citybiz.co/article/702564/mizuho-americas-appoints-nick-setyan-as-managing-director-and-senior-equity-research-analyst/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 85137
+feed_item_id = 15127
+url = "/news/202506/85137-mizuho-americas-strengthens-equity-research-team-with-appointment-of-nick-setyan-as-managing-director"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/poembe0A.webp"
+source = "citybiz"
++++
+
+<p>Mizuho Americas has taken a significant step in reinforcing its equity research department by appointing Nick Setyan as Managing Director and Senior Equity Research Analyst, with a focus on the restaurant sector. This move highlights Mizuho's strategy to deepen its industry expertise and expand its analytical capabilities in sectors that are gaining momentum among investors and issuers.</p><p>Nick Setyan, who will be based in Los Angeles, brings a wealth of experience to Mizuho Americas, including 15 years dedicated to the restaurant sector. His most recent position was at Wedbush Securities, where he served as Managing Director and Equity Research Analyst for the same sector. Setyan's career trajectory at Wedbush, marked by roles of increasing responsibility, showcases his leadership and deep understanding of the restaurant industry's dynamics.</p><p>Bill Featherston, Head of Americas Equity Research at Mizuho, praised Setyan's standing as a top analyst in a sector that is increasingly under the spotlight. Featherston pointed out that Setyan's comprehensive industry knowledge and his established relationships with key stakeholders, including executive management, franchisees, and owners, will be invaluable to Mizuho's expanding research team.</p><p>Setyan's academic credentials, including a Bachelor of Arts in economics and government from Cornell University and his tenure as a Bretschneider Fellow at Pembroke College, University of Oxford, further attest to his analytical prowess and research skills. His appointment is a clear indication of Mizuho Americas' commitment to delivering high-quality financial services and insights to its clients.</p><p>With the restaurant sector's evolving landscape, Setyan's expertise is expected to provide Mizuho's clients with strategic advice and in-depth analysis, helping them navigate the complexities of the market. This strategic hire not only strengthens Mizuho's position in the financial services industry but also underscores the importance of specialized knowledge in driving investment decisions and fostering growth in targeted sectors.</p>

@@ -1,0 +1,16 @@
++++
+title = "Evercore Strengthens Private Capital Advisory with Mike Addeo Appointment"
+date = "2025-06-04T14:55:06Z"
+draft = false
+summary = "Evercore enhances its Private Capital Advisory group by appointing Mike Addeo as a senior managing director, aiming to leverage his expertise in the burgeoning private credit secondaries market."
+description = "Evercore enhances its Private Capital Advisory team with Mike Addeo, a seasoned credit investing expert, to navigate the growing private credit secondary market."
+source_link = "https://www.citybiz.co/article/702547/mike-addeo-joins-evercore-as-senior-managing-director-in-private-capital-advisory/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 84196
+feed_item_id = 15133
+url = "/news/202506/84196-evercore-strengthens-private-capital-advisory-with-mike-addeo-appointment"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/rift9jHF.webp"
+source = "citybiz"
++++
+
+<p>Evercore, a leading global independent investment banking advisory firm, has recently announced the appointment of Mike Addeo as a senior managing director within its Private Capital Advisory (PCA) group in New York. This strategic hire is poised to significantly enhance Evercore's capabilities in the private credit secondaries market, a sector experiencing rapid growth and presenting new opportunities for investors and firms alike.</p><p>Nigel Dawn, the global head of Evercore's PCA group, welcomed Addeo, citing his deep expertise in private credit, a history of successfully structuring complex transactions, and a strong network of institutional relationships. Addeo's arrival is expected to further solidify Evercore's position as a leader in private capital advisory, especially in the intricate secondary market of private credit.</p><p>With 15 years of credit investing experience, Addeo expressed his enthusiasm about joining the PCA team at Evercore. He pointed to the increasing need for flexible liquidity solutions in the private credit sector and his commitment to working closely with clients to address these challenges. Before joining Evercore, Addeo made significant contributions at Blackstone Credit & Insurance as a managing director and head of restructuring, where he led efforts in restructuring and liability management.</p><p>Addeo's professional background also includes roles as a vice president in equity research at Wolfe Research, focusing on the transportation sector, and an early career in Deutsche Bank's private wealth management group. A graduate of Georgetown University's McDonough School of Business with a Bachelor of Science in business administration, Addeo is also a CFA charterholder, underscoring his expertise and commitment to the finance industry.</p><p>This appointment underscores Evercore's ongoing strategy to attract top-tier talent to its team, reinforcing its dedication to delivering exceptional strategic and financial advisory services to clients around the globe. The addition of Addeo to the PCA group not only enhances Evercore's advisory capabilities but also signals the firm's commitment to staying at the forefront of the evolving private credit market.</p>

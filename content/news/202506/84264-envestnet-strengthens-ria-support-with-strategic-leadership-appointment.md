@@ -1,0 +1,16 @@
++++
+title = "Envestnet Strengthens RIA Support with Strategic Leadership Appointment"
+date = "2025-06-03T08:30:04Z"
+draft = false
+summary = "Envestnet appoints Sean Meighan as Head of RIA Distribution to enhance support for independent advisors with advanced technology and solutions, signaling a deepened commitment to the RIA community's growth and scalability."
+description = "Envestnet appoints Sean Meighan as Head of RIA Distribution, reinforcing its commitment to providing RIAs with top-tier technology and services for scalable growth."
+source_link = "https://www.citybiz.co/article/701392/envestnet-appoints-sean-meighan-as-head-of-ria-distribution/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
+article_id = 84264
+feed_item_id = 14945
+url = "/news/202506/84264-envestnet-strengthens-ria-support-with-strategic-leadership-appointment"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/roam3lrg.webp"
+source = "citybiz"
++++
+
+<p>Envestnet, a leader in wealth management technology, has taken a significant step to bolster its support for Registered Independent Advisors (RIAs) by appointing Sean Meighan as the Head of RIA Distribution. This move is part of Envestnet's broader strategy to invest in the RIA sector, providing them with innovative technology, data insights, and managed account solutions designed to enhance their operational efficiency and client service capabilities.</p><p>Andrew Stavaridis, Envestnet's Chief Relationship Officer, highlighted Meighan's advisory background and his profound grasp of the technological demands faced by RIAs as key factors in his selection. Meighan's role will involve leading a team dedicated to deepening client engagements and maximizing the adoption of Envestnet's suite of technologies, including Tamarac, Report Studio, and trading tools, which are pivotal for RIAs navigating the complexities of today's financial markets.</p><p>With a career spanning nearly twenty years in wealth management, including leadership positions at Atria Wealth Solutions and Lincoln Financial Network, Meighan brings a rich blend of experience and a history of fostering growth and innovation. His appointment reflects Envestnet's unwavering dedication to equipping RIAs with the resources necessary to excel in an increasingly competitive and technologically driven industry.</p><p>Envestnet's platform, which underpins around $6.5 trillion in assets and is utilized by more than a third of U.S. financial advisors, plays a critical role in modernizing financial advice delivery. By integrating cutting-edge technology and comprehensive solutions, Envestnet enables advisors to deliver superior outcomes for their clients, reinforcing the value of independent advisory services in the financial ecosystem.</p><p>This strategic leadership addition underscores Envestnet's commitment to the RIA community, offering a clear signal of the company's intent to drive innovation and support the scalability of independent advisory practices. For RIAs, this development promises enhanced access to tools and technologies that can streamline operations, improve client satisfaction, and ultimately, contribute to the sustainable growth of their businesses in a dynamic financial landscape.</p>

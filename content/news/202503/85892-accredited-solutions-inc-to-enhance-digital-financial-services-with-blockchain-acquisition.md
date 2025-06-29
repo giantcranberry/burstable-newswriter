@@ -1,0 +1,16 @@
++++
+title = "Accredited Solutions, Inc. to Enhance Digital Financial Services with Blockchain Acquisition"
+date = "2025-03-12T12:15:23Z"
+draft = false
+summary = "Accredited Solutions, Inc. plans to acquire ItsBChain LLC, aiming to integrate blockchain technology into its financial services to improve security, efficiency, and competitiveness in the fintech sector."
+description = "Accredited Solutions, Inc. signs MOU to acquire ItsBChain LLC from iQSTEL Inc., strengthening presence in blockchain fintech solutions. The acquisition will enhance security and efficiency in digital finance sector, showcasing ASII's commitment to innovation in payments."
+source_link = "https://www.newmediawire.com/news/accredited-solutions-inc-otc-asii-engages-partner-capital-group-llc-partnercap-to-explore-strategic-alternatives-to-maximize-shareholder-value-7079824"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 85892
+feed_item_id = 11841
+url = "/news/202503/85892-accredited-solutions-inc-to-enhance-digital-financial-services-with-blockchain-acquisition"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/12/riftKg7f.webp"
+source = "NewMediaWire"
++++
+
+<p>Accredited Solutions, Inc. (OTC: ASII) is set to significantly advance its digital financial services strategy through the acquisition of ItsBChain LLC, a blockchain technology subsidiary of iQSTEL Inc. This strategic acquisition is designed to embed advanced blockchain capabilities into Accredited Solutions' existing financial product offerings, marking a pivotal step towards modernizing payment processing systems in the telecommunications and digital payment sectors.</p><p>The integration of ItsBChain's blockchain technology is expected to bring about a paradigm shift in how digital payments are processed, offering enhanced security, transparency, and efficiency. CEO Eduardo Brito highlighted the transformative potential of blockchain in the payments industry, projecting a 70% reduction in time-to-market for new services. This acceleration could provide Accredited Solutions with a significant edge in the competitive fintech landscape.</p><p>Among the anticipated benefits of this acquisition are the bolstering of transaction security, a decrease in operational costs, and an overall improvement in service efficiency. The blockchain platform developed by ItsBChain is poised to synergize with Accredited Solutions' current e-gift card and prepaid financial services, potentially unlocking new revenue opportunities.</p><p>The definitive purchase agreement for ItsBChain is expected to be completed by July 1, 2025, aligning with Accredited Solutions' ambition to emerge as a global frontrunner in blockchain-enabled fintech solutions. This move underscores the company's dedication to innovation and its strategy of growth through strategic acquisitions and partnerships. By leveraging blockchain technology, Accredited Solutions aims to deliver more secure and efficient digital payment ecosystems to its expanding network of partners and customers, setting a new standard in the fintech industry.</p>

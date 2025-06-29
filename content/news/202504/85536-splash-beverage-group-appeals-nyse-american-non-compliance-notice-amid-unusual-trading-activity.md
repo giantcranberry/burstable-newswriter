@@ -1,0 +1,16 @@
++++
+title = "Splash Beverage Group Appeals NYSE American Non-Compliance Notice Amid Unusual Trading Activity"
+date = "2025-04-22T13:25:23Z"
+draft = false
+summary = "Splash Beverage Group is appealing a NYSE American non-compliance notice, citing unusual market trading and remains optimistic about addressing shareholder equity issues during the appeal process."
+description = "Learn about Splash Beverage Group's appeal process with NYSE and the high trading activity it faces. Stay informed on the potential impact on the company's operations and performance."
+source_link = "https://www.newmediawire.com/news/per-regulatory-requirements-splash-beverage-group-addresses-the-high-trading-activity-and-enters-into-the-appeal-process-with-nyse-american-7080481"
+enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
+article_id = 85536
+feed_item_id = 13084
+url = "/news/202504/85536-splash-beverage-group-appeals-nyse-american-non-compliance-notice-amid-unusual-trading-activity"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/22/gluehx7i.webp"
+source = "NewMediaWire"
++++
+
+<p>Splash Beverage Group, a notable player in the beverage industry with brands like Copa di Vino and SALT tequilas, has recently found itself in a challenging position with the NYSE American exchange. The company has initiated an appeal process after receiving a notice of non-compliance with the exchange's listing requirements, specifically Sections 1003(a)(i), (ii), and (iii) of the Listed Company Manual. This development comes after the expiration of its 18-month compliance plan period on April 6, 2025, marking a critical juncture for the company.</p><p>The notice of non-compliance has been attributed to shareholder equity deficiencies, a situation Splash Beverage Group is confident it can rectify within the 60-to-90-day appeal window granted by the NYSE American. The company has also pointed to unusual market trading activities, including algorithmic computer trading and short selling, as potential factors influencing its current predicament. Despite these challenges, Splash has assured stakeholders that there have been no material developments regarding a previously hinted merger or acquisition with Western Son Vodka, following an internal review conducted in line with NYSE American protocols.</p><p>During the appeal process, Splash Beverage Group's common stock and warrants will continue to be traded on the NYSE American, albeit with the possibility of trading halts. The company's leadership remains hopeful about meeting the exchange's requirements but acknowledges the inherent uncertainties of the appeal process. This situation underscores the volatile nature of the stock market and the pressures faced by publicly traded companies to maintain compliance with stringent listing standards.</p><p>For leaders in the business and technology sectors, Splash Beverage Group's current scenario serves as a reminder of the importance of regulatory compliance and the potential impact of market dynamics on company valuations. The outcome of this appeal could have significant implications not only for Splash but also for other companies navigating the complexities of stock exchange requirements, highlighting the delicate balance between growth strategies and regulatory adherence.</p>

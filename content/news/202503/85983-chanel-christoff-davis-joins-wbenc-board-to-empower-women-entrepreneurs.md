@@ -1,0 +1,16 @@
++++
+title = "Chanel Christoff Davis Joins WBENC Board to Empower Women Entrepreneurs"
+date = "2025-03-04T14:05:19Z"
+draft = false
+summary = "Chanel Christoff Davis, CEO of DDH, joins the WBENC Board of Directors, bringing her expertise and commitment to advancing women-owned businesses nationwide."
+description = "Chanel Christoff Davis, CEO of DDH, appointed to WBENC Board of Directors, showcasing the impact of women-owned businesses and the commitment to empowering women entrepreneurs. Learn more about Davis's leadership in sales tax consulting and advocacy for small business growth."
+source_link = "https://newsdirect.com/news/chanel-christoff-davis-appointed-to-wbenc-board-of-directors-277885897"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 85983
+feed_item_id = 11593
+url = "/news/202503/85983-chanel-christoff-davis-joins-wbenc-board-to-empower-women-entrepreneurs"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/4/sagek3w0.webp"
+source = "News Direct"
++++
+
+<p>Chanel Christoff Davis, the founder and CEO of Davis Davis & Harmon LLC (DDH), has been elected to the Board of Directors of the Women's Business Enterprise National Council (WBENC), marking a significant step forward in the support and elevation of women-owned businesses across the United States. With her extensive experience as a leader in the women-owned business sector and her recent recognition as one of D CEO's Top Financial Executives of 2024, Davis is poised to make a substantial impact on the council's efforts to foster women's entrepreneurship.</p><p>Davis's appointment to the WBENC Board is not just a personal achievement but a beacon of progress for women entrepreneurs everywhere. Her involvement in initiatives like Goldman Sachs' 10,000 Small Businesses Voices and her dedication to mentorship through events such as Kickback with Chanel, sponsored by JP Morgan Chase, highlight her commitment to empowering the next generation of women business leaders. These platforms have been instrumental in providing women entrepreneurs with the knowledge, resources, and networks necessary to thrive in today's competitive business environment.</p><p>Under Davis's leadership, DDH has established itself as a leading multi-state sales tax consulting firm, recovering over $250 million annually for its clients. This remarkable achievement underscores her expertise and the potential she brings to the WBENC Board. Her role will undoubtedly contribute to the council's mission of certifying and supporting women-owned businesses, thereby driving economic growth and diversity in the business world.</p><p>The implications of Davis's appointment are far-reaching. For women entrepreneurs, it signifies increased opportunities for mentorship, networking, and access to resources that can help scale their businesses. For the industry at large, it represents a step towards greater inclusivity and recognition of women's contributions to the economy. Davis's leadership and vision will be pivotal in shaping the future of women's entrepreneurship, making her appointment a milestone worth noting for anyone invested in the success of women-owned businesses.</p>

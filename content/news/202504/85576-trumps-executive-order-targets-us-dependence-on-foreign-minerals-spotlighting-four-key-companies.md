@@ -1,0 +1,16 @@
++++
+title = "Trump's Executive Order Targets U.S. Dependence on Foreign Minerals, Spotlighting Four Key Companies"
+date = "2025-04-17T11:00:18Z"
+draft = false
+summary = "President Trump's executive order initiates a federal investigation into U.S. reliance on foreign minerals, highlighting four companies poised to benefit from a shift towards domestic production."
+description = "President Trump's executive order on critical minerals investigation could reshape the U.S. mining sector. Learn how key players like Military Metals Corp. and USA Rare Earth are poised to benefit from this strategic shift in domestic mineral production."
+source_link = "https://newsdirect.com/news/four-stocks-to-watch-after-trumps-critical-minerals-executive-order-160454397"
+enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
+article_id = 85576
+feed_item_id = 12943
+url = "/news/202504/85576-trumps-executive-order-targets-us-dependence-on-foreign-minerals-spotlighting-four-key-companies"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/17/seekslvC.webp"
+source = "News Direct"
++++
+
+<p>President Donald Trump's recent executive order marks a pivotal shift in the United States' strategy towards securing its supply of critical minerals, addressing what is framed as a national security threat due to the country's heavy reliance on foreign sources. This move is particularly timely, given the escalating tensions with China, a dominant supplier of rare earth elements, which has recently halted exports of these crucial materials.</p><p>At the heart of this strategic pivot are four mining companies: Military Metals Corp., USA Rare Earth, Perpetua Resources Corp., and United States Antimony Corporation. Each of these entities is uniquely positioned to contribute to the revitalization of domestic mineral production, a sector deemed vital for both national security and technological advancement.</p><p>Military Metals Corp. is focusing on antimony, a mineral of significant strategic importance, with operations in Nevada and Slovakia. USA Rare Earth is developing a domestic supply chain for rare earth magnets, essential for electric vehicles and defense systems, through its Round Top deposit in Texas and a manufacturing facility in Oklahoma. Perpetua Resources Corp. is advancing the Stibnite Gold Project in Idaho, which could supply a substantial portion of domestic antimony demand, backed by significant financial support. United States Antimony Corporation, with its vertically integrated operations in the U.S. and Mexico, is well-placed to meet the growing demand for antimony amid restricted Chinese exports.</p><p>This executive order not only underscores the urgency of reducing foreign mineral dependency but also signals a potential renaissance for the U.S. mining and technology sectors. By fostering domestic production of minerals critical for everything from consumer electronics to military hardware, the initiative could have far-reaching implications for the nation's industrial and technological sovereignty in the years to come.</p>

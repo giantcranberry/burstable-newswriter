@@ -1,0 +1,16 @@
++++
+title = "Kendall Hunt and Great River Learning Join OpenStax Technology Partners Program to Enhance Educational Resources"
+date = "2025-05-15T07:05:30Z"
+draft = false
+summary = "The partnership between Kendall Hunt Publishing, Great River Learning, and OpenStax aims to revolutionize educational technology by integrating customizable digital tools with open educational resources, offering more flexible and engaging learning solutions."
+description = "Kendall Hunt and Great River Learning team up with OpenStax to revolutionize higher education access and affordability through innovative digital solutions."
+source_link = "https://www.24-7pressrelease.com/press-release/522795/kendall-hunt-and-great-river-learning-join-openstax-technology-partners-program"
+enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
+article_id = 85233
+feed_item_id = 14205
+url = "/news/202505/85233-kendall-hunt-and-great-river-learning-join-openstax-technology-partners-program-to-enhance-educational-resources"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/vastYcos.webp"
+source = "24-7 Press Release"
++++
+
+<p>The educational technology sector is witnessing a transformative collaboration as Kendall Hunt Publishing Company and its digital division, Great River Learning (GRL), join the OpenStax Technology Partners Program. This partnership is set to merge Kendall Hunt's and GRL's innovative digital learning platforms with OpenStax's open educational resources (OER), paving the way for more adaptable and comprehensive educational solutions. The initiative is a strategic move to address the pressing challenges of content accessibility and affordability in higher education, offering educators and students alike a richer, more customizable learning experience.</p><p>Chad Chandlee, President and COO of Kendall Hunt, underscores the significance of this collaboration, highlighting the company's dedication to providing localized and customized educational content. With decades of expertise in crafting course-specific materials, Kendall Hunt is poised to extend its digital offerings to a broader range of educational institutions through this partnership. On the other side, Daniel Williamson, Managing Director for OpenStax, points to the program's vision of fostering an ecosystem of integrated technologies that amplify the utility of OER. This synergy is expected to empower educators to tailor their course content more effectively, while students benefit from multimedia-rich learning experiences across various disciplines.</p><p>The implications of this partnership extend beyond the immediate benefits to educators and students. It signals a shift in the educational publishing industry towards more dynamic, technology-enhanced learning solutions that can be customized to meet diverse academic needs. By combining high-quality open resources with cutting-edge digital tools, the collaboration between Kendall Hunt, GRL, and OpenStax is setting a new standard for educational content and technology. This move not only enhances the learning experience but also contributes to the broader goal of making education more accessible and affordable worldwide.</p>

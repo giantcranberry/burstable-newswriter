@@ -1,0 +1,16 @@
++++
+title = "Stardust Power Secures $4.3 Million in Public Offering to Advance Lithium Processing Facility"
+date = "2025-06-18T18:10:32Z"
+draft = false
+summary = "Stardust Power Inc. completes a $4.3 million public offering to fund its lithium processing facility in Muskogee, Oklahoma, marking a significant step towards meeting the surging demand for battery-grade lithium in the electric vehicle and renewable energy sectors."
+description = "Aegis Capital closes $4.3M public offering for Stardust Power's lithium processing facility, marking a leap towards sustainable energy solutions. #CleanEnergy #Investing"
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-aegis-capital-corp-announces-completion-of-4-3-million-public-offering-for-stardust-power-nasdaq-sdst/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/5b53dbe62e51c711982086da1d5ec97c.png"
+article_id = 86108
+feed_item_id = 15867
+url = "/news/202506/86108-stardust-power-secures-43-million-in-public-offering-to-advance-lithium-processing-facility"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/ninahUPl.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Stardust Power Inc. (NASDAQ: SDST) has successfully completed a $4.3 million underwritten public offering, with Aegis Capital Corp. serving as the sole book-running manager. The offering included 21,500,000 shares of common stock at $0.20 per share, with an additional option for Aegis to purchase up to 3,225,000 more shares within 45 days, potentially raising the total proceeds to approximately $4.9 million. These funds are designated for the completion of the Definitive Feasibility Study (DFS/FEL-3) for Stardust Power's proposed lithium processing facility in Muskogee, Oklahoma, a critical step towards finalizing the investment decision and initiating Phase 1 construction.</p><p>The Muskogee facility is expected to significantly impact the supply chain for battery-grade lithium, a crucial component for the electric vehicle (EV) market and renewable energy storage solutions. With the global demand for lithium on the rise due to the shift towards cleaner energy sources, Stardust Power's initiative comes at a pivotal time. The successful public offering reflects investor confidence in the company's vision and underscores the increasing significance of lithium in fostering a sustainable and energy-efficient future.</p><p>Aegis Capital Corp.'s role in this offering highlights its expertise in the financial services sector, reinforcing its reputation as a trusted partner for corporations, institutions, and private clients. This collaboration not only benefits Stardust Power and Aegis but also signals a positive development for the energy and automotive industries at large. As the demand for critical minerals like lithium continues to grow, the progress of the Muskogee lithium processing facility could play a vital role in accelerating the global transition to electric vehicles and renewable energy, marking a noteworthy advancement in the pursuit of cleaner energy solutions.</p>

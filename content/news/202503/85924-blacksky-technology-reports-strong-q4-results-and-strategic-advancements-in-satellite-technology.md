@@ -1,0 +1,16 @@
++++
+title = "BlackSky Technology Reports Strong Q4 Results and Strategic Advancements in Satellite Technology"
+date = "2025-03-07T14:25:18Z"
+draft = false
+summary = "BlackSky Technology, Inc. showcases significant financial growth and technological advancements with its Gen-3 satellite launch and multi-year contracts, positioning itself as a key player in the satellite imagery and analytics market."
+description = "Stonegate Capital Partners provides an in-depth update on BlackSky Technology, Inc. (BKSY) including financial results, contract wins, satellite launches, and future guidance. Learn about the company's performance and strategic initiatives in the space technology sector."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-coverage-on-blacksky-technology-inc-nyse-bksy-4q24"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/88410120fda543eaae72f9d079ce71d8.jpg"
+article_id = 85924
+feed_item_id = 11735
+url = "/news/202503/85924-blacksky-technology-reports-strong-q4-results-and-strategic-advancements-in-satellite-technology"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/7/pint_cUY.webp"
+source = "Reportable"
++++
+
+<p>BlackSky Technology, Inc. (NYSE: BKSY) has announced its fourth-quarter financial results, revealing a substantial leap in both financial performance and technological capabilities. The company's consolidated gross margins increased to 77.4%, up from 66.2% in the previous quarter, with quarterly revenue reaching $30.4 million. This growth is attributed to the Imagery and Software Analytics segment, which generated $17.5 million, and the Professional and Engineering segment, contributing $12.9 million.</p><p>A highlight of the quarter was the successful launch of BlackSky's first Gen-3 satellite, which has already exceeded customer expectations with its imagery quality. The company plans to launch seven more satellites within the next year, enhancing its high-frequency monitoring and very high-resolution imaging capabilities to 35cm. These advancements underscore BlackSky's commitment to leading in the satellite technology space.</p><p>BlackSky's contract awards have significantly expanded its backlog from $261 million to approximately $390 million, with some contracts extending up to seven years. This expansion not only demonstrates the company's ability to secure long-term, premium contracts but also aligns with its strategy to meet evolving customer needs. Financially, BlackSky is in a strong position, ending the quarter with $53.8 million in liquidity and expecting an additional $27.9 million over the next 12 months from milestone achievements.</p><p>Looking ahead to fiscal year 2025, BlackSky has provided revenue guidance between $125.0 million and $142.0 million, with an adjusted EBITDA range of $14.0 million to $22.0 million. Analysts consider this guidance reasonable, given the company's robust backlog and potential for further contract expansions. BlackSky's strategic developments and financial health indicate its growing influence in the satellite imagery and analytics market, driven by innovation and strong customer partnerships.</p>

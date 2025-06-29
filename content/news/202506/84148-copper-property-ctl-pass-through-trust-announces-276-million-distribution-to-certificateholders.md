@@ -1,0 +1,16 @@
++++
+title = "Copper Property CTL Pass Through Trust Announces $27.6 Million Distribution to Certificateholders"
+date = "2025-06-05T20:25:31Z"
+draft = false
+summary = "The Copper Property CTL Pass Through Trust's May 2025 report reveals a $27.6 million distribution to certificateholders, highlighting its ongoing asset liquidation strategy from J.C. Penney's bankruptcy acquisition."
+description = "Copper Property CTL Pass Through Trust announces a $27.6M distribution to certificateholders, highlighting its financial strategy and asset liquidation plans."
+source_link = "https://newsdirect.com/news/copper-property-ctl-pass-through-trust-issues-monthly-reporting-package-for-may-2025-967459387"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 84148
+feed_item_id = 15277
+url = "/news/202506/84148-copper-property-ctl-pass-through-trust-announces-276-million-distribution-to-certificateholders"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/evenFcb5.webp"
+source = "News Direct"
++++
+
+<p>The Copper Property CTL Pass Through Trust has made a significant announcement with its May 2025 monthly report, detailing an aggregate total distribution of $27.6 million to its certificateholders. This distribution, calculated at $0.367978 per trust certificate, is set for payment on June 10, 2025, targeting those recorded as certificateholders by the preceding day. This move is part of the Trust's broader strategy to liquidate assets acquired from J.C. Penney during its Chapter 11 reorganization, including 160 retail properties and 6 warehouse distribution centers.</p><p>Managed by an affiliate of Hilco Real Estate LLC and with GLAS Trust Company LLC acting as the Trustee, the Trust is navigating the complexities of asset liquidation with a clear focus on maximizing returns for its certificateholders. Operating under United States Treasury Regulation Section 301.7701-4(d), the Trust aims to be recognized as a liquidating trust, a status that underscores its commitment to efficiently converting assets into cash for distribution.</p><p>This announcement is not just a routine financial update; it serves as a testament to the Trust's dedication to transparency and strategic asset management. For investors and industry observers, the distribution signals progress in the Trust's liquidation efforts, offering insights into the potential returns from bankruptcy-acquired assets. However, the release also cautions with forward-looking statements, reminding stakeholders of the uncertainties and risks that could influence the Trust's performance and the realization of its objectives.</p><p>For those keen on delving deeper into the Trust's operations and financial health, further details are accessible through its website or the Securities and Exchange Commission's filings. This development is particularly relevant for investors and professionals in the real estate and financial sectors, as it sheds light on the dynamics of asset liquidation trusts and their role in post-bankruptcy scenarios.</p>

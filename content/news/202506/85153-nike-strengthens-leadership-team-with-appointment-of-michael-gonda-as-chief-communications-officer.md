@@ -1,0 +1,16 @@
++++
+title = "NIKE Strengthens Leadership Team with Appointment of Michael Gonda as Chief Communications Officer"
+date = "2025-06-03T09:35:07Z"
+draft = false
+summary = "NIKE, Inc. appoints Michael Gonda as Executive Vice President and Chief Communications Officer to lead global communications strategy, signaling a strategic move to enhance brand storytelling and athlete engagement."
+description = "NIKE appoints Michael Gonda as EVP & Chief Communications Officer, strengthening its global communications strategy and brand storytelling. Learn more about this strategic move."
+source_link = "https://www.citybiz.co/article/701693/nike-appoints-michael-gonda-as-evp/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 85153
+feed_item_id = 14959
+url = "/news/202506/85153-nike-strengthens-leadership-team-with-appointment-of-michael-gonda-as-chief-communications-officer"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/milks4MD.webp"
+source = "citybiz"
++++
+
+<p>NIKE, Inc. has announced the appointment of Michael Gonda as its new Executive Vice President and Chief Communications Officer, effective July 7, 2025. This strategic hire underscores NIKE's commitment to elevating its global communications strategy, focusing on storytelling, corporate and brand reputation, issues management, and employee engagement. Gonda will report directly to President and CEO Elliott Hill, marking a significant step in NIKE's efforts to amplify the voice of sport and athletes around the world.</p><p>Elliott Hill lauded Gonda for his strategic vision and emotional intelligence, qualities that are expected to drive NIKE's communications forward. With a career spanning roles as Chief Impact Officer for North America at McDonald's Corporation and Global Chief Communications Officer, Gonda brings a wealth of experience and a proven track record of building high-performing teams and fostering authentic connections. His diverse background, including stints at Chobani and Weber Shandwick, along with his global perspective from living in the United States, Kenya, and China, positions him uniquely to lead NIKE's communications in a rapidly evolving digital and global marketplace.</p><p>Gonda expressed his enthusiasm for joining NIKE, a brand he regards as a cultural force and a master storyteller. His appointment is anticipated to bolster NIKE's ability to connect with athletes and communities worldwide, reinforcing its status as a leader in the athletic footwear, apparel, and equipment industry. At a time when brand storytelling and athlete engagement are more critical than ever, Gonda's leadership is expected to navigate NIKE through the complexities of global communications with strategic insight and innovation.</p><p>This leadership update comes as NIKE continues to dominate the global sports market. With Gonda's expertise, NIKE is well-positioned to enhance its narrative and engagement strategies, ensuring the brand remains at the forefront of the sports industry. The move reflects NIKE's proactive approach to maintaining its leadership position by investing in top-tier talent to drive its vision forward.</p>

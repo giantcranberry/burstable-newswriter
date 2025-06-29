@@ -1,0 +1,16 @@
++++
+title = "McEwen Mining Inc. Announces Strategic Expansion to Boost Gold Production"
+date = "2025-05-09T13:40:18Z"
+draft = false
+summary = "McEwen Mining Inc. reveals plans to significantly increase gold production at its Fox Complex, aiming for 60,000 ounces annually by 2027, with potential growth to 150,000 ounces by 2030, alongside financial improvements and project advancements."
+description = "McEwen Mining reports Q1 2025 results and growth plans at Fox Complex, with positive financial performance. Learn about the company's expansion strategies and progress in the mining sector."
+source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-mcewen-mining-inc-nyse-mux-tsx-mux-targets-gold-growth-with-fox-complex-expansion-reports-q1-results/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 85300
+feed_item_id = 13972
+url = "/news/202505/85300-mcewen-mining-inc-announces-strategic-expansion-to-boost-gold-production"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/9/lambAQSF.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>McEwen Mining Inc. has set forth a strategic expansion plan aimed at dramatically increasing its gold production capabilities, with the Fox Complex operations at the forefront of this initiative. The company targets an annual production of 60,000 ounces of gold by 2027, with a long-term vision that could see this figure rise to 150,000 ounces by 2030, pending the acquisition of necessary permits. This ambitious plan underscores McEwen Mining's commitment to enhancing its operational footprint and shareholder value in the competitive mining sector.</p><p>The first quarter of 2025 saw McEwen Mining report consolidated production of 24,131 gold equivalent ounces (GEOs), with the company optimistic about meeting its annual guidance of 120,000–140,000 GEOs. A notable 31% increase in average realized gold prices contributed to a rise in gross profit to $10.1 million from $6.0 million in the first quarter of 2024, signaling a positive trajectory in financial performance.</p><p>To fuel its expansion, McEwen Mining secured a $110 million convertible note financing, a move that could potentially elevate the company's total annual output to between 225,000 and 255,000 gold equivalent ounces. This financial maneuver is indicative of the company's robust strategy to scale production and capitalize on the growing demand for precious metals.</p><p>Beyond the Fox Complex, McEwen Mining is advancing several key projects, including Gold Bar, San José, and Grey Fox, each contributing to the diversification and strengthening of its mining portfolio. Additionally, the anticipated July release of a feasibility study on the Los Azules copper project marks a significant step towards broadening the company's resource base.</p><p>Operational efficiency improvements are evident in the narrowing of McEwen Mining's net loss to $3.9 million from $20.4 million in the same period last year, a testament to enhanced cost management and operational performance. These developments reflect the company's strategic focus on optimizing its assets across Nevada, Canada, Mexico, and Argentina, positioning McEwen Mining as a formidable player in the global mining industry.</p>

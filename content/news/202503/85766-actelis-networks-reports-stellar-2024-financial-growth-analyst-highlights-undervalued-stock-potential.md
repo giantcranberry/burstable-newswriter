@@ -1,0 +1,16 @@
++++
+title = "Actelis Networks Reports Stellar 2024 Financial Growth, Analyst Highlights Undervalued Stock Potential"
+date = "2025-03-27T16:40:24Z"
+draft = false
+summary = "Actelis Networks showcases a 38% revenue increase and strategic improvements, with analysts pointing to significant undervaluation and growth potential in the IoT and smart infrastructure sectors."
+description = "Litchfield Hills Research analyst Theodore O'Neill reiterates Buy rating and $5 price target on Actelis Networks (Nasdaq: ASNS) following positive financial results. Actelis' shares trade at a significant discount to industry peers. FY 2024 revenue saw a 38% increase, with improved gross margin and decreased operating expenses."
+source_link = "https://newsdirect.com/news/market-alert-buy-rating-reiterated-for-actelis-networks-with-5-price-target-282339887"
+enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
+article_id = 85766
+feed_item_id = 12268
+url = "/news/202503/85766-actelis-networks-reports-stellar-2024-financial-growth-analyst-highlights-undervalued-stock-potential"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/27/meanZwHK.webp"
+source = "News Direct"
++++
+
+<p>Actelis Networks, trading on the Nasdaq under the symbol ASNS, has unveiled its financial achievements for the full year 2024, marking a period of remarkable growth and strategic advancement. The company reported a 38% surge in revenue, amassing approximately $7.8 million, a leap from the previous fiscal year. This financial upturn is complemented by a notable enhancement in gross margin, which escalated from 34% to 55%, underscoring the success of Actelis's shift towards IoT sales and higher-margin software components.</p><p>Theodore O'Neill, an analyst at Litchfield Hills Research, has reaffirmed a Buy rating for Actelis Networks, with a price target set at $5 per share. O'Neill's analysis suggests that the company's shares are currently trading at a significant discount, ranging between 85% to 93% compared to its industry counterparts on sales measures. According to O'Neill, should Actelis align with the average valuation metrics of its peers, the share price could potentially surpass $6.00, indicating a substantial upside from the current levels.</p><p>Operational efficiency has also been a focal point for Actelis, with the company achieving a 13% reduction in operating expenses year-over-year. This cost optimization has been realized without diverting attention from its strategic emphasis on pivotal markets such as Federal, Military, and Smart City/Transportation sectors. A testament to its expanding footprint in smart infrastructure solutions is the recent procurement of an order for a countywide intersection modernization project in Ventura County, California.</p><p>The financial milestones and strategic initiatives undertaken by Actelis Networks not only reflect its robust market positioning but also signal promising opportunities for investors keen on technology and infrastructure innovation. The company's progress in enhancing operational efficiencies, coupled with its strategic pivot towards high-growth areas, positions it as a compelling entity in the tech and business landscape, warranting attention from stakeholders and industry observers alike.</p>
