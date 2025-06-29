@@ -2,27 +2,25 @@
 .vscode/
 .history/
 node_modules/
-node_modules
-
-# Current (good coverage)
-.venv/
-.vscode/
-.history/
-node_modules/
-node_modules
 public/*
 
-# Recommended additions
+# Environment files
 .env
 .env.local
 .env.*.local
+
+# Hugo build files
 .hugo_build.lock
 resources/_gen/
+
+# OS and editor files
 .DS_Store
 Thumbs.db
 *.swp
 *.swo
 *~
 *.log
+
+# Build and temporary files
 dist/
 tmp/
