@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/aristocrat-group-corp-announces
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85375
 feed_item_id = 13741
-url = "/news/202505/85375-aristocrat-group-corp-strengthens-board-with-appointment-of-christopher-byrd"
+url = "/202505/85375-aristocrat-group-corp-strengthens-board-with-appointment-of-christopher-byrd"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/2/pavefLMz.webp"
 source = "NewMediaWire"
 +++

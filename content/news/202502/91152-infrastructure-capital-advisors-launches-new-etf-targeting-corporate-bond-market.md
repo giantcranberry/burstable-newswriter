@@ -1,0 +1,16 @@
++++
+title = "Infrastructure Capital Advisors Launches New ETF Targeting Corporate Bond Market"
+date = "2025-02-06T13:25:10Z"
+draft = false
+summary = "Infrastructure Capital Advisors introduces the Infrastructure Capital Bond Income ETF (ARCA: BNDS), offering investors a new avenue for income and capital appreciation through corporate bonds amidst favorable market conditions."
+description = "The corporate bond market outlook for 2025 is positive, with companies reporting strong profits and increasing cash balances. Infrastructure Capital Advisors launches the Infrastructure Capital Bond Income ETF, providing income-seeking investors with new opportunities in the market."
+source_link = "https://newsdirect.com/news/infrastructure-capital-advisors-gives-investors-access-to-corporate-bonds-with-new-etf-771973579"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/5bc8da0fe6c6bb68040d19eab13e10a2.png"
+article_id = 91152
+feed_item_id = 10685
+url = "/202502/91152-infrastructure-capital-advisors-launches-new-etf-targeting-corporate-bond-market"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/6/zeroI9pK.webp"
+source = "News Direct"
++++
+
+<p>Infrastructure Capital Advisors has unveiled the Infrastructure Capital Bond Income ETF (ARCA: BNDS), a novel investment tool aimed at granting investors access to the corporate bond market. Managed by seasoned portfolio managers Jay D. Hatfield and Andrew Meleney, this actively managed ETF is designed to optimize current income while seeking strategic capital growth. The fund's strategy involves a significant allocation of at least 80% of its assets to corporate bonds, supplemented by investments in municipal and government bonds, and a minor portion potentially in equities.</p><p>The introduction of BNDS is timely, aligning with current economic trends that favor corporate bonds. With corporate profits showing resilience, public companies amassing larger cash reserves, and the spreads between corporate bonds and Treasury securities remaining tight, the environment is ripe for such an investment vehicle. The average yield of 5.6% on investment-grade corporate bonds presents a compelling option for those in pursuit of income.</p><p>Hatfield highlights the critical role of active management in navigating the complexities of income investing, with the ETF set to meticulously manage interest rate, credit, and call risks. This approach is expected to leverage the firm's expertise in uncovering value within the fixed-income markets. Analysts, including those from Charles Schwab, project robust fundamentals for the corporate bond market into 2025, buoyed by factors like low unemployment, increasing wages, and the anticipation of interest rate reductions.</p><p>With over $2 billion in assets under management, Infrastructure Capital Advisors brings a proven history of crafting investment solutions geared towards income generation. The launch of the Infrastructure Capital Bond Income ETF further diversifies the firm's portfolio of specialized investment offerings, providing investors with a strategic tool to capitalize on the current and anticipated strengths of the corporate bond market.</p>

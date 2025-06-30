@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-fda-acc
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84140
 feed_item_id = 15298
-url = "/news/202506/84140-fda-accelerates-launch-of-ai-tool-elsa-amid-mixed-reactions"
+url = "/202506/84140-fda-accelerates-launch-of-ai-tool-elsa-amid-mixed-reactions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/lush96S7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

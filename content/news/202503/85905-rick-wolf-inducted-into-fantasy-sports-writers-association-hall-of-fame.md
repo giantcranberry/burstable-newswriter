@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/rick-wolf-inducted-into-the-fantasy-s
 enclosure = "https://cdn.newsramp.app/banners/media-1.jpg"
 article_id = 85905
 feed_item_id = 11805
-url = "/news/202503/85905-rick-wolf-inducted-into-fantasy-sports-writers-association-hall-of-fame"
+url = "/202503/85905-rick-wolf-inducted-into-fantasy-sports-writers-association-hall-of-fame"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/11/knobKzie.webp"
 source = "News Direct"
 +++

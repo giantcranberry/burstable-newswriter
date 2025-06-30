@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/professional-sewer-services-for-your-h
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/8c3788bbc5e71fb862c0172c5e830827.jpg"
 article_id = 85157
 feed_item_id = 14890
-url = "/news/202506/85157-alexander-plumbing-llc-a-beacon-of-reliability-in-sewer-line-repair-services"
+url = "/202506/85157-alexander-plumbing-llc-a-beacon-of-reliability-in-sewer-line-repair-services"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/camc5c7M.webp"
 source = "Press Services"
 +++

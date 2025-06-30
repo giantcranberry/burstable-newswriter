@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/troy-davidson-joins-ballast-rock-priv
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85636
 feed_item_id = 12662
-url = "/news/202504/85636-ballast-rock-private-wealth-strengthens-team-with-addition-of-troy-davidson-as-wealth-advisor"
+url = "/202504/85636-ballast-rock-private-wealth-strengthens-team-with-addition-of-troy-davidson-as-wealth-advisor"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/10/fileLUXc.webp"
 source = "News Direct"
 +++

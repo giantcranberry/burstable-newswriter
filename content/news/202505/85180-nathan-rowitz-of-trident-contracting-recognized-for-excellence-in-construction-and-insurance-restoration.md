@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523144/nathan-rowi
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85180
 feed_item_id = 14595
-url = "/news/202505/85180-nathan-rowitz-of-trident-contracting-recognized-for-excellence-in-construction-and-insurance-restoration"
+url = "/202505/85180-nathan-rowitz-of-trident-contracting-recognized-for-excellence-in-construction-and-insurance-restoration"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/25/frogyfpa.webp"
 source = "24-7 Press Release"
 +++

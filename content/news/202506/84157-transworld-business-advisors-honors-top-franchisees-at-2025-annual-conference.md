@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523531/transworld-
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 84157
 feed_item_id = 15243
-url = "/news/202506/84157-transworld-business-advisors-honors-top-franchisees-at-2025-annual-conference"
+url = "/202506/84157-transworld-business-advisors-honors-top-franchisees-at-2025-annual-conference"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/5/mintkfl7.webp"
 source = "24-7 Press Release"
 +++

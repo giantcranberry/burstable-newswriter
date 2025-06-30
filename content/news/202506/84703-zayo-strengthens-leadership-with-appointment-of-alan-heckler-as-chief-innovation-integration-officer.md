@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702384/zayo-appoints-alan-heckler-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84703
 feed_item_id = 15093
-url = "/news/202506/84703-zayo-strengthens-leadership-with-appointment-of-alan-heckler-as-chief-innovation-integration-officer"
+url = "/202506/84703-zayo-strengthens-leadership-with-appointment-of-alan-heckler-as-chief-innovation-integration-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/lime_so8.webp"
 source = "citybiz"
 +++

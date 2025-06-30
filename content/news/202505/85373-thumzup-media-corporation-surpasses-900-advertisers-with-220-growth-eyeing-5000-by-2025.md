@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-thumzu
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85373
 feed_item_id = 13742
-url = "/news/202505/85373-thumzup-media-corporation-surpasses-900-advertisers-with-220-growth-eyeing-5000-by-2025"
+url = "/202505/85373-thumzup-media-corporation-surpasses-900-advertisers-with-220-growth-eyeing-5000-by-2025"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/diveqPYX.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

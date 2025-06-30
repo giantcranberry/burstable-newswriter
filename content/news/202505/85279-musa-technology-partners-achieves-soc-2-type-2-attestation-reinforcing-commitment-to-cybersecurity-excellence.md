@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522691/musa-techno
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85279
 feed_item_id = 14037
-url = "/news/202505/85279-musa-technology-partners-achieves-soc-2-type-2-attestation-reinforcing-commitment-to-cybersecurity-excellence"
+url = "/202505/85279-musa-technology-partners-achieves-soc-2-type-2-attestation-reinforcing-commitment-to-cybersecurity-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/13/rainqE8E.webp"
 source = "24-7 Press Release"
 +++

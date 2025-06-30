@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nextplat
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84864
 feed_item_id = 14400
-url = "/news/202505/84864-nextplat-corp-expands-global-reach-with-exclusive-zoleo-satellite-device-distribution-in-uk-and-eea"
+url = "/202505/84864-nextplat-corp-expands-global-reach-with-exclusive-zoleo-satellite-device-distribution-in-uk-and-eea"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/camcO8kf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

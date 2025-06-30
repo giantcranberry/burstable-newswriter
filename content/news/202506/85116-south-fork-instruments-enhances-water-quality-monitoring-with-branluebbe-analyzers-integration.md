@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523620/south-fork-
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85116
 feed_item_id = 15397
-url = "/news/202506/85116-south-fork-instruments-enhances-water-quality-monitoring-with-branluebbe-analyzers-integration"
+url = "/202506/85116-south-fork-instruments-enhances-water-quality-monitoring-with-branluebbe-analyzers-integration"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/gulf2Q4P.webp"
 source = "24-7 Press Release"
 +++

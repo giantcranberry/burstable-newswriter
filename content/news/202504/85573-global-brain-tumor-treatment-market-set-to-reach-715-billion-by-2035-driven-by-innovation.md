@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/the-global-market-for-br
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85573
 feed_item_id = 12954
-url = "/news/202504/85573-global-brain-tumor-treatment-market-set-to-reach-715-billion-by-2035-driven-by-innovation"
+url = "/202504/85573-global-brain-tumor-treatment-market-set-to-reach-715-billion-by-2035-driven-by-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/17/ninaU1hK.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

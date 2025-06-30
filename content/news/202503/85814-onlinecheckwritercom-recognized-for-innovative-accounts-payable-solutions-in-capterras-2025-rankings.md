@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520892/onlinecheck
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85814
 feed_item_id = 12129
-url = "/news/202503/85814-onlinecheckwritercom-recognized-for-innovative-accounts-payable-solutions-in-capterras-2025-rankings"
+url = "/202503/85814-onlinecheckwritercom-recognized-for-innovative-accounts-payable-solutions-in-capterras-2025-rankings"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/23/numbVQQl.webp"
 source = "24-7 Press Release"
 +++

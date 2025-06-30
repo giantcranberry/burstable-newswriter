@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/the-risks-of-crypto-self
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 85602
 feed_item_id = 12791
-url = "/news/202504/85602-cryptocurrency-storage-vulnerabilities-highlighted-by-california-wildfires"
+url = "/202504/85602-cryptocurrency-storage-vulnerabilities-highlighted-by-california-wildfires"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/maskDcBC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

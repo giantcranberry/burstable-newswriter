@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521274/what-is-a-q
 enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
 article_id = 85717
 feed_item_id = 12415
-url = "/news/202504/85717-national-equity-agency-aids-homeowners-in-recovering-surplus-funds-post-foreclosure"
+url = "/202504/85717-national-equity-agency-aids-homeowners-in-recovering-surplus-funds-post-foreclosure"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/joinDmLD.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-datavault-
 enclosure = "https://cdn.newsramp.app/ibn/newsimage/922546fbe93a45caa8ee84b578597d96.png"
 article_id = 85351
 feed_item_id = 13814
-url = "/news/202505/85351-datavault-ai-and-kove-io-forge-path-to-secure-data-monetization-with-innovative-platform"
+url = "/202505/85351-datavault-ai-and-kove-io-forge-path-to-secure-data-monetization-with-innovative-platform"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/6/pinkB2Nb.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Rendezvous Cinema Center Set to Elevate Independent Film Festival Experience in 2025"
+date = "2025-01-15T08:05:15Z"
+draft = false
+summary = "The Rendezvous Cinema Center, sponsored by Rendezvous Media Ventures, promises to enhance the independent film festival scene with premieres, networking, and sponsored experiences, while supporting filmmakers and raising awareness for fire-affected Los Angeles residents."
+description = "Roxstar Entertainment partners with Rendezvous Media Ventures for the indie film festival in Park City, featuring top films, unique beverages, and innovative entertainment financing. The collaboration offers attendees a blend of fine food, specialty cocktails, and exceptional wines while raising awareness and funding for Los Angeles residents affected by fires."
+source_link = "https://www.24-7pressrelease.com/press-release/518021/the-annual-cinema-center-welcomes-new-title-sponsor-rendezvous-media-ventures-to-its-annual-media-and-hospitality-hub-during-the-nations-top-indie-film-festival-in-park-city-ut"
+enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-1.jpg"
+article_id = 91340
+feed_item_id = 10080
+url = "/202501/91340-rendezvous-cinema-center-set-to-elevate-independent-film-festival-experience-in-2025"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/251/15/daveZH2q.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Rendezvous Cinema Center, formerly known as the Cinema Center, is gearing up to transform Park City during the nation's premier independent film festival in 2025. Under the leadership of Roxstar Entertainment, the event is set to offer a distinctive mix of film premieres, industry networking opportunities, and sponsored experiences, marking a significant moment for the independent film industry.</p><p>Rendezvous Media Ventures, a hedge fund spearheaded by Michael Perrone, Craig Matus, and Slater Wayne, has stepped in as the title sponsor for the 2025 gathering. The fund employs a proprietary algorithm aimed at facilitating entertainment financing and distribution opportunities for filmmakers, highlighting the evolving intersection of technology and creative industries.</p><p>Set against the backdrop of Loma Park City, the pop-up event will attract top-tier films, directors, producers, and actors in search of distribution and promotion avenues. The festival's agenda is packed with a variety of activities, from cocktail parties and late-night galas to press junkets, offering attendees a comprehensive festival experience.</p><p>Sponsors are set to play a pivotal role in enriching the festival atmosphere. Hendrick's Gin will introduce specialty cocktails crafted with their signature botanical blend, while Sommsation will present sommelier-selected wines from independent wineries. Neaū water will provide chemical-free hydration options, and Collider will host exclusive interviews with filmmakers and actors, adding depth to the festival's offerings.</p><p>David Manning, CEO of Roxstar Entertainment, highlighted the event's dual focus on bolstering the filmmaker community and drawing attention to the plight of Los Angeles residents impacted by recent wildfires. The Rendezvous Cinema Center stands as an independent initiative in Park City, dedicated to fostering creative and professional connections within the independent film sector.</p>

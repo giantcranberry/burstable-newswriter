@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-energy
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85501
 feed_item_id = 13200
-url = "/news/202504/85501-energy-fuels-inc-to-unveil-first-quarter-2025-earnings-and-strategic-developments"
+url = "/202504/85501-energy-fuels-inc-to-unveil-first-quarter-2025-earnings-and-strategic-developments"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/envyCZiK.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Advanced Glazings Introduces Solera GR: A Retrofit Solution for Glare and Thermal Discomfort"
+date = "2025-03-05T16:40:13Z"
+draft = false
+summary = "Advanced Glazings, Inc. launches Solera GR, an innovative glazing solution that enhances indoor comfort and energy efficiency in existing buildings without the need for removing original glass."
+description = "Advanced Glazings, Inc. introduces Solera GR(TM), a post-occupancy glazing product designed to reduce glare and thermal discomfort in buildings. The launch highlights the company's commitment to sustainable building solutions and its expansion into the U.S. market with a new facility in Wilmington, North Carolina."
+source_link = "https://www.newmediawire.com/news/advanced-glazings-inc-introduces-solera-gr-a-post-occupancy-glazing-solution-to-reduce-glare-and-improve-indoor-comfort-announces-u-s-expansion-7079725"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
+article_id = 90977
+feed_item_id = 11650
+url = "/202503/90977-advanced-glazings-introduces-solera-gr-a-retrofit-solution-for-glare-and-thermal-discomfort"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/5/calmADDP.webp"
+source = "NewMediaWire"
++++
+
+<p>Advanced Glazings, Inc. has introduced Solera GR, a novel glazing solution aimed at mitigating glare and thermal discomfort in existing buildings. This product stands out by allowing installation directly onto the interior of existing insulated glass units, eliminating the necessity to remove the original glass. This feature presents architects and facility managers with a viable retrofit option that promises both convenience and efficiency.</p><p>Solera GR, which stands for Solera Glare Repair, offers a significant departure from conventional window films and blinds. Its single-pane glass attachment ensures sunlight is dispersed more evenly, thereby reducing the reliance on manual blind adjustments. This innovation not only preserves natural daylight but also enhances indoor comfort, marking a leap forward in building design and functionality.</p><p>The product boasts several advantages, including an improvement in glazing thermal performance by approximately R1 insulation. With pricing set between $22 and $26 per square foot, Solera GR is positioned competitively against traditional window treatments. Additionally, it promises lower maintenance needs and increased privacy, further solidifying its appeal to the market.</p><p>In a strategic move to expand its U.S. presence, Advanced Glazings has inaugurated a new facility in Wilmington, North Carolina. This location will act as a central hub for sales and distribution to North American clients. There are also plans underway to potentially establish a local manufacturing facility to cater to the anticipated rise in demand.</p><p>Joe Menchefski, Head of Corporate Sales at Advanced Glazings, highlighted the transformative potential of Solera GR. He pointed out that the product offers a permanent and efficient alternative to traditional window treatments, aiming to elevate occupant comfort and energy efficiency across a wide range of architectural settings. This launch underscores Advanced Glazings' dedication to pioneering daylighting technologies, with Solera GR emerging as a cutting-edge solution for both new constructions and retrofit projects.</p>

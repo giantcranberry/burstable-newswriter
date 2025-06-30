@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521482/concrete-st
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85674
 feed_item_id = 12538
-url = "/news/202504/85674-concrete-structures-gc-division-to-build-expansive-distribution-center-in-hattiesburg-with-innovative-techniques"
+url = "/202504/85674-concrete-structures-gc-division-to-build-expansive-distribution-center-in-hattiesburg-with-innovative-techniques"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/7/bestrivp.webp"
 source = "24-7 Press Release"
 +++

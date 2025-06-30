@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/investornewsbreaks-quantum-b
 enclosure = "https://cdn.newsramp.app/ibn/newsimage/955f5616c1960a854d894d38e5e7776d.png"
 article_id = 85620
 feed_item_id = 12733
-url = "/news/202504/85620-quantum-biopharma-secures-legal-victory-against-former-ceo-bolstering-its-position-in-biopharmaceutical-innovation"
+url = "/202504/85620-quantum-biopharma-secures-legal-victory-against-former-ceo-bolstering-its-position-in-biopharmaceutical-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/14/mailMXWP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

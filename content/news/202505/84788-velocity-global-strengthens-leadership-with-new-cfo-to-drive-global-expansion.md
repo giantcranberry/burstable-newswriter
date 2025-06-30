@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/velocity-global-appoints-james-loftus
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84788
 feed_item_id = 14699
-url = "/news/202505/84788-velocity-global-strengthens-leadership-with-new-cfo-to-drive-global-expansion"
+url = "/202505/84788-velocity-global-strengthens-leadership-with-new-cfo-to-drive-global-expansion"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/mendq8rb.webp"
 source = "News Direct"
 +++

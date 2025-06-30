@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/silver-crown-royalties-purchase
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85651
 feed_item_id = 12614
-url = "/news/202504/85651-silver-crown-royalties-inc-bolsters-financial-reserves-with-strategic-silver-acquisition"
+url = "/202504/85651-silver-crown-royalties-inc-bolsters-financial-reserves-with-strategic-silver-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/9/urgeydqI.webp"
 source = "NewMediaWire"
 +++

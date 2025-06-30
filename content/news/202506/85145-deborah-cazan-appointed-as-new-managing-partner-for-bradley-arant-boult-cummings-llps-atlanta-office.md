@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701994/bradley-names-deborah-cazan
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85145
 feed_item_id = 15023
-url = "/news/202506/85145-deborah-cazan-appointed-as-new-managing-partner-for-bradley-arant-boult-cummings-llps-atlanta-office"
+url = "/202506/85145-deborah-cazan-appointed-as-new-managing-partner-for-bradley-arant-boult-cummings-llps-atlanta-office"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/rendD3GJ.webp"
 source = "citybiz"
 +++

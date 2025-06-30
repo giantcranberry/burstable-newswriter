@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202504151485/featured-com-acquires-hel
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85610
 feed_item_id = 12766
-url = "/news/202504/85610-featuredcom-acquires-haro-to-champion-human-expertise-in-journalism-amid-ai-content-surge"
+url = "/202504/85610-featuredcom-acquires-haro-to-champion-human-expertise-in-journalism-amid-ai-content-surge"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/254/15/idean3KJ.webp"
 source = "Newsworthy.ai"
 +++

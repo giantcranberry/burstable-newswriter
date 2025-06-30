@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-upgrades-underway-in-upper-
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/44b651033b56f401b9fba3a49872b09c.jpg"
 article_id = 85769
 feed_item_id = 12264
-url = "/news/202503/85769-ugi-utilities-launches-gas-main-upgrade-in-upper-saucon-township-to-boost-safety-and-reliability"
+url = "/202503/85769-ugi-utilities-launches-gas-main-upgrade-in-upper-saucon-township-to-boost-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/27/openY5aw.webp"
 source = "Reportable"
 +++

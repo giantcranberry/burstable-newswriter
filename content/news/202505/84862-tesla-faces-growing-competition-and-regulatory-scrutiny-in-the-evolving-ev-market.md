@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/teslas-brand-image-slump
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84862
 feed_item_id = 14404
-url = "/news/202505/84862-tesla-faces-growing-competition-and-regulatory-scrutiny-in-the-evolving-ev-market"
+url = "/202505/84862-tesla-faces-growing-competition-and-regulatory-scrutiny-in-the-evolving-ev-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/milkXgmV.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

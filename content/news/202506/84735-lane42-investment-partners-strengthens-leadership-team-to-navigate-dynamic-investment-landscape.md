@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701875/lane42-investment-partners-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84735
 feed_item_id = 14994
-url = "/news/202506/84735-lane42-investment-partners-strengthens-leadership-team-to-navigate-dynamic-investment-landscape"
+url = "/202506/84735-lane42-investment-partners-strengthens-leadership-team-to-navigate-dynamic-investment-landscape"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/pave6XVA.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/full-moon-sports-appoints-digital-spo
 enclosure = "https://cdn.newsramp.app/banners/gaming-3.jpg"
 article_id = 85893
 feed_item_id = 11840
-url = "/news/202503/85893-full-moon-sports-appoints-ed-bunnell-as-ceo-to-spearhead-strategic-expansion-in-digital-sports-media"
+url = "/202503/85893-full-moon-sports-appoints-ed-bunnell-as-ceo-to-spearhead-strategic-expansion-in-digital-sports-media"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/12/glee4XkH.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-mulle
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84156
 feed_item_id = 15244
-url = "/news/202506/84156-mullen-automotives-evs-qualify-for-illinois-rebate-program-boosting-business-transition-to-electric-fleets"
+url = "/202506/84156-mullen-automotives-evs-qualify-for-illinois-rebate-program-boosting-business-transition-to-electric-fleets"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/smogJt8A.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

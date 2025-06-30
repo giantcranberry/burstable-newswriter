@@ -1,0 +1,16 @@
++++
+title = "Alsco Uniforms Honored with 2025 Clean Air Award for Sustainable Practices"
+date = "2025-02-11T17:40:38Z"
+draft = false
+summary = "Alsco Uniforms receives the 2025 Clean Air Award for its significant contributions to reducing air emissions and enhancing energy efficiency, showcasing the impact of corporate environmental responsibility."
+description = "Alsco Uniforms is awarded the 2025 Clean Air Award for their sustainable practices in reducing air emissions. The recognition underscores the company's commitment to environmental stewardship and energy efficiency, setting a positive example for other businesses to follow in promoting clean air."
+source_link = "https://www.24-7pressrelease.com/press-release/519597/alsco-uniforms-named-the-2025-clean-air-award-recipient"
+enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
+article_id = 91122
+feed_item_id = 10792
+url = "/202502/91122-alsco-uniforms-honored-with-2025-clean-air-award-for-sustainable-practices"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/11/fernmOC6.webp"
+source = "24-7 Press Release"
++++
+
+<p>Alsco Uniforms has been named the recipient of the 2025 Clean Air Award by the Spokane Regional Clean Air Agency, a testament to its outstanding efforts in minimizing air emissions and boosting energy efficiency at its Spokane facility. April Westby, executive director of Spokane Clean Air, lauded the company's dedication to cutting down energy use. This accolade highlights Alsco Uniforms' implementation of several pivotal initiatives, such as the modernization of industrial dryers to lessen natural gas usage, the substitution of old heating and cooling systems with more energy-efficient alternatives, and the refinement of delivery routes to enhance fuel efficiency.</p><p>Joey Kink, general manager at the Spokane Alsco Uniforms facility, shed light on the company's extensive environmental commitment. Kink pointed out the company's provision of reusable products to diminish disposable waste and its careful selection of vendors who adhere to sustainable practices. Notably, Alsco Uniforms sources table linens produced in the U.S. that boast longer life cycles and collaborates with a mat vendor that recycles more than 1.25 million pounds of rubber each year.</p><p>With a history in Spokane since 1955 and origins tracing back to 1889, Alsco Uniforms now boasts over 200 locations globally. Its commitment to environmental stewardship goes beyond energy efficiency, involving partnerships with laundry chemical suppliers to create environmentally friendly formulas. The Spokane Clean Air Agency will honor Alsco Uniforms with the Clean Air Award at a ceremony scheduled for February 12, emphasizing the agency's goal to enhance air quality and motivate businesses to embrace sustainable operations. This recognition serves as a clear indicator of the increasing significance of corporate environmental responsibility in efforts to lower carbon emissions and foster sustainable business practices.</p>

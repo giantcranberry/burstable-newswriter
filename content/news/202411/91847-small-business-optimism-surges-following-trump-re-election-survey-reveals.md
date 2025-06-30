@@ -1,0 +1,16 @@
++++
+title = "Small Business Optimism Surges Following Trump Re-election, Survey Reveals"
+date = "2024-11-06T19:20:09Z"
+draft = false
+summary = "A recent survey by the Freedom Economy Index shows a dramatic increase in optimism among small business owners in the U.S. following Donald Trump's re-election, with significant implications for economic growth and job creation."
+description = "Freedom Economy Index survey reveals small business expectations under a second Trump presidency, with a willingness to invest and expand. Inflation concerns dissipate, but economic pessimism lingers. Insights for small business owners and the broader economy."
+source_link = "https://newsworthy.ai/news/202411061345/small-business-owners-what-they-told-us-about-the-election"
+enclosure = "https://cdn.filestackcontent.com/wgamlKY6RcWmU91gDU1M"
+article_id = 91847
+feed_item_id = 8273
+url = "/202411/91847-small-business-optimism-surges-following-trump-re-election-survey-reveals"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/2411/6/dash1CH2.webp"
+source = "Newsworthy.ai"
++++
+
+<p>The re-election of Donald Trump has sparked a wave of optimism among small business owners across the United States, according to a survey conducted by the Freedom Economy Index. This shift in sentiment marks a stark contrast to the pre-election period, where concerns over inflation and economic uncertainty dominated the small business community's outlook.</p><p>Prior to the election, 52% of small business owners reported feelings of pessimism, with 63% viewing the U.S. economy more negatively in the lead-up to the vote. Inflation was a pressing concern for 87% of respondents in October. However, the post-election survey reveals an 83% increase in willingness among business owners to expand and invest in their businesses under a second Trump presidency. Additionally, 81% of respondents plan to hire more employees, indicating potential job growth in the sector.</p><p>The survey also highlights a significant disparity in business expectations between a Trump presidency and a hypothetical Harris administration, with less than 2% of respondents considering expansion under Harris. Inflation concerns have notably decreased, with less than 1% of business owners preparing for greater inflation under Trump's second term.</p><p>Michael Seifert, CEO of PublicSquare, and Andrew Crapuchettes, CEO of RedBalloon, have both commented on the positive shift in sentiment among small business owners, noting a newfound energy and intention to invest in business growth. This optimism suggests a potential resurgence in small business activity, which could play a pivotal role in driving economic recovery and job creation in the coming years.</p><p>The findings underscore the influence of political leadership on business confidence and economic expectations. As the U.S. moves forward under a second Trump administration, the small business sector's optimism may lead to tangible economic benefits. However, the realization of these intentions will depend on navigating global economic challenges and policy changes. Further insights into small business owners' perspectives and future expectations are available on the <a href='https://www.freedomeconomyindex.com' rel='nofollow' target='_blank'>Freedom Economy Index website</a>.</p>

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/building-lasting-relationships-through
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/c78db59edfc00579e882c710001e62c2.jpg"
 article_id = 85670
 feed_item_id = 12555
-url = "/news/202504/85670-supreme-interior-design-elevates-orlando-real-estate-with-strategic-interior-solutions"
+url = "/202504/85670-supreme-interior-design-elevates-orlando-real-estate-with-strategic-interior-solutions"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/7/numbNY6q.webp"
 source = "Press Services"
 +++

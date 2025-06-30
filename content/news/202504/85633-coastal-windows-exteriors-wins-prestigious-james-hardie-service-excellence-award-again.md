@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521637/coastal-win
 enclosure = "https://cdn.newsramp.app/banners/awards-3.jpg"
 article_id = 85633
 feed_item_id = 12675
-url = "/news/202504/85633-coastal-windows-exteriors-wins-prestigious-james-hardie-service-excellence-award-again"
+url = "/202504/85633-coastal-windows-exteriors-wins-prestigious-james-hardie-service-excellence-award-again"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/11/takezX9M.webp"
 source = "24-7 Press Release"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Brussels Market Court Rules in Favor of Minority Shareholders in Euronav Takeover Case"
+date = "2024-09-09T04:10:24Z"
+draft = false
+summary = "The Brussels Market Court's ruling against Compagnie Maritime Belge for undervaluing Euronav shares in a takeover bid highlights the importance of minority shareholder protections and could influence future corporate transactions."
+description = "Brussels Market Court rules against CMB in Euronav shareholder case, setting a precedent for minority shareholder protection and emphasizing the importance of legal oversight in corporate transactions."
+source_link = "https://newsdirect.com/news/euronav-shareholders-in-line-for-a-us-46-million-payout-following-court-ruling-against-cmb-362267644"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 92363
+feed_item_id = 6606
+url = "/202409/92363-brussels-market-court-rules-in-favor-of-minority-shareholders-in-euronav-takeover-case"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/249/9/quiz8tec.webp"
+source = "News Direct"
++++
+
+<p>The Brussels Market Court in Belgium has ruled that Compagnie Maritime Belge (CMB) must increase its offer price for shares in its mandatory takeover of Euronav NV, potentially resulting in an additional US$46 million payout to Euronav shareholders. This decision underscores the court's commitment to protecting minority investor rights in the maritime industry, setting a precedent that may affect future corporate governance and shareholder disputes.</p><p>The court found that CMB failed to account for US$104 million in special advantages granted to Frontline during the takeover, related to the sale of Euronav's newest 24 very large crude carriers (VLCCs). The negotiations for this sale were conducted exclusively between CMB and Frontline, sidelining Euronav and raising questions about the deal's integrity. The court described the arrangement as 'particularly curious' and not reflective of normal market conditions.</p><p>John Addis of FourWorld Capital Management LLC, which brought the case to court, emphasized the ruling's significance in challenging actions that prioritize the interests of major shareholders over those of the company and minority shareholders. The court's decision, supported by documents from a separate U.S. ruling, mandates a retrospective increase in share value by at least US$0.52, with the potential for further adjustments by the Belgian financial regulator (FSMA).</p><p>This ruling may also impact a separate legal challenge in the Antwerp Enterprise Court, where FourWorld seeks to unwind CMB's takeover and related transactions. The outcome could lead to significant changes in the ownership and structure of the involved shipping companies, highlighting the broader implications of the Brussels Market Court's decision for corporate transparency and fairness.</p><p>As the shipping industry faces consolidation and market challenges, this ruling serves as a cautionary tale for corporate entities, emphasizing the need for transparent and equitable deal-making processes that consider all shareholders' interests. The decision may influence how future transactions are structured, ensuring more balanced outcomes for stakeholders across the industry.</p>

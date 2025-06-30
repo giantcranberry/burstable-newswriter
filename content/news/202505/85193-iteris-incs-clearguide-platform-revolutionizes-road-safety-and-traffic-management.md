@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/why-are-some-state-and-federal-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85193
 feed_item_id = 14513
-url = "/news/202505/85193-iteris-incs-clearguide-platform-revolutionizes-road-safety-and-traffic-management"
+url = "/202505/85193-iteris-incs-clearguide-platform-revolutionizes-road-safety-and-traffic-management"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/22/lamb9ztb.webp"
 source = "NewMediaWire"
 +++

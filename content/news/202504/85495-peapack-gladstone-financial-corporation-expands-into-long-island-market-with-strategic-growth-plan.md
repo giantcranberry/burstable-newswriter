@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/peapack-private-bank-trust-look
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85495
 feed_item_id = 13217
-url = "/news/202504/85495-peapack-gladstone-financial-corporation-expands-into-long-island-market-with-strategic-growth-plan"
+url = "/202504/85495-peapack-gladstone-financial-corporation-expands-into-long-island-market-with-strategic-growth-plan"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/24/pink2_vj.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521349/flimp-and-a
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85701
 feed_item_id = 12463
-url = "/news/202504/85701-flimp-and-aptia-forge-strategic-partnership-to-revolutionize-employee-benefits-communication"
+url = "/202504/85701-flimp-and-aptia-forge-strategic-partnership-to-revolutionize-employee-benefits-communication"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/tilelNnF.webp"
 source = "24-7 Press Release"
 +++

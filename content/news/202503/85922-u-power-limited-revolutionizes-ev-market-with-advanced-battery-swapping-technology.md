@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/how-u-power-is-helping-overcome
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85922
 feed_item_id = 11739
-url = "/news/202503/85922-u-power-limited-revolutionizes-ev-market-with-advanced-battery-swapping-technology"
+url = "/202503/85922-u-power-limited-revolutionizes-ev-market-with-advanced-battery-swapping-technology"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/7/pineal76.webp"
 source = "NewMediaWire"
 +++

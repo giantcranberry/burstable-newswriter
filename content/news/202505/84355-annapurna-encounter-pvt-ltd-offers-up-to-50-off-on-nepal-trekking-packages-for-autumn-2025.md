@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523177/annapurna-e
 enclosure = "https://cdn.newsramp.app/banners/travel-3.jpg"
 article_id = 84355
 feed_item_id = 14652
-url = "/news/202505/84355-annapurna-encounter-pvt-ltd-offers-up-to-50-off-on-nepal-trekking-packages-for-autumn-2025"
+url = "/202505/84355-annapurna-encounter-pvt-ltd-offers-up-to-50-off-on-nepal-trekking-packages-for-autumn-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/joinbHmi.webp"
 source = "24-7 Press Release"
 +++

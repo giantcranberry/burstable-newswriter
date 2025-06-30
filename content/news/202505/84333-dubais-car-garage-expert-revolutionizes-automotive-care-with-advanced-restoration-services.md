@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/from-damage-to-dazzle-car-garage-expe
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84333
 feed_item_id = 14721
-url = "/news/202505/84333-dubais-car-garage-expert-revolutionizes-automotive-care-with-advanced-restoration-services"
+url = "/202505/84333-dubais-car-garage-expert-revolutionizes-automotive-care-with-advanced-restoration-services"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/29/face6lR3.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520842/attorneys-a
 enclosure = "https://cdn.newsramp.app/banners/education-2.jpg"
 article_id = 85823
 feed_item_id = 12104
-url = "/news/202503/85823-major-data-breach-at-pennsylvania-state-education-association-exposes-over-500000-individuals"
+url = "/202503/85823-major-data-breach-at-pennsylvania-state-education-association-exposes-over-500000-individuals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/21/fastpOYL.webp"
 source = "24-7 Press Release"
 +++

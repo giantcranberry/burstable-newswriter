@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-dubai-elevating-exo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85160
 feed_item_id = 14837
-url = "/news/202506/85160-car-garage-expert-dubai-sets-new-standards-in-luxury-automotive-care"
+url = "/202506/85160-car-garage-expert-dubai-sets-new-standards-in-luxury-automotive-care"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/2/plumulGz.webp"
 source = "News Direct"
 +++

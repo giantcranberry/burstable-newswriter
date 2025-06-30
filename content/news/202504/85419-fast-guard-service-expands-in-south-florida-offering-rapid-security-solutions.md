@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522307/fast-guard-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85419
 feed_item_id = 13613
-url = "/news/202504/85419-fast-guard-service-expands-in-south-florida-offering-rapid-security-solutions"
+url = "/202504/85419-fast-guard-service-expands-in-south-florida-offering-rapid-security-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/pine11uH.webp"
 source = "24-7 Press Release"
 +++

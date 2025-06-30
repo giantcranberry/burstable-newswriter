@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701675/riot-platforms-appoints-jon
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84742
 feed_item_id = 14956
-url = "/news/202506/84742-riot-platforms-strengthens-leadership-team-with-appointment-of-jonathan-gibbs-as-chief-data-center-officer"
+url = "/202506/84742-riot-platforms-strengthens-leadership-team-with-appointment-of-jonathan-gibbs-as-chief-data-center-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/camc14e6.webp"
 source = "citybiz"
 +++

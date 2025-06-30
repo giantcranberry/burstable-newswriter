@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524113/camden-hudd
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/228bc1a22be1906cd8fcd5cdef99da1e.png"
 article_id = 87634
 feed_item_id = 15993
-url = "/news/202506/87634-camden-huddle-house-reopens-signaling-growth-and-community-engagement"
+url = "/202506/87634-camden-huddle-house-reopens-signaling-growth-and-community-engagement"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/waits7RU.webp"
 source = "24-7 Press Release"
 +++

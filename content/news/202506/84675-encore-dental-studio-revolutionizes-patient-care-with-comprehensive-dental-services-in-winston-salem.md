@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523498/encore-dent
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 84675
 feed_item_id = 15193
-url = "/news/202506/84675-encore-dental-studio-revolutionizes-patient-care-with-comprehensive-dental-services-in-winston-salem"
+url = "/202506/84675-encore-dental-studio-revolutionizes-patient-care-with-comprehensive-dental-services-in-winston-salem"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/5/ricejPV5.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/revolutionizing-print-shops-with-a-dtf
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/37ba57851f118117c8cf52ae4d778a5a.jpg"
 article_id = 86065
 feed_item_id = 11236
-url = "/news/202502/86065-build-a-gang-sheet-launches-revolutionary-dtf-gang-sheet-building-app-for-sticker-businesses"
+url = "/202502/86065-build-a-gang-sheet-launches-revolutionary-dtf-gang-sheet-building-app-for-sticker-businesses"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/252/28/glee24Wk.webp"
 source = "Press Services"
 +++

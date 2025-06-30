@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-matrix-group-eliminates-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85622
 feed_item_id = 12721
-url = "/news/202504/85622-golden-matrix-group-inc-transforms-debt-into-equity-signaling-strong-confidence-in-future-growth"
+url = "/202504/85622-golden-matrix-group-inc-transforms-debt-into-equity-signaling-strong-confidence-in-future-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/14/kitenAFG.webp"
 source = "NewMediaWire"
 +++

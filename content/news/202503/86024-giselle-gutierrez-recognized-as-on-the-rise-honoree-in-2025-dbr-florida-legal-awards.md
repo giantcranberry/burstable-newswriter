@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520184/exhibit-g-l
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 86024
 feed_item_id = 11527
-url = "/news/202503/86024-giselle-gutierrez-recognized-as-on-the-rise-honoree-in-2025-dbr-florida-legal-awards"
+url = "/202503/86024-giselle-gutierrez-recognized-as-on-the-rise-honoree-in-2025-dbr-florida-legal-awards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/3/jazz51aJ.webp"
 source = "24-7 Press Release"
 +++

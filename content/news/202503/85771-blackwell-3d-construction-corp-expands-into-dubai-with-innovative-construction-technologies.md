@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/blackwell-3d-corporation-applie
 enclosure = "https://cdn.newsramp.app/banners/real-estate-1.jpg"
 article_id = 85771
 feed_item_id = 12257
-url = "/news/202503/85771-blackwell-3d-construction-corp-expands-into-dubai-with-innovative-construction-technologies"
+url = "/202503/85771-blackwell-3d-construction-corp-expands-into-dubai-with-innovative-construction-technologies"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/27/quipRF1U.webp"
 source = "NewMediaWire"
 +++

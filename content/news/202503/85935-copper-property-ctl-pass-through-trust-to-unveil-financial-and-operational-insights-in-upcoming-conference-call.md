@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/copper-property-ctl-pass-through-trus
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85935
 feed_item_id = 11700
-url = "/news/202503/85935-copper-property-ctl-pass-through-trust-to-unveil-financial-and-operational-insights-in-upcoming-conference-call"
+url = "/202503/85935-copper-property-ctl-pass-through-trust-to-unveil-financial-and-operational-insights-in-upcoming-conference-call"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/6/hintQgg8.webp"
 source = "News Direct"
 +++

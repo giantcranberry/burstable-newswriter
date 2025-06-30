@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/benzinga-virtual-event-capitali
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85502
 feed_item_id = 13194
-url = "/news/202504/85502-benzinga-to-host-free-virtual-event-on-zero-days-to-expiration-0dte-options-trading"
+url = "/202504/85502-benzinga-to-host-free-virtual-event-on-zero-days-to-expiration-0dte-options-trading"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/24/notepZ7c.webp"
 source = "NewMediaWire"
 +++

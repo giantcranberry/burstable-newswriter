@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/ballard-custom-homes-expands-to-vero-b
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/514e780296447f32a6dfdb86bfb611b2.jpg"
 article_id = 84153
 feed_item_id = 15261
-url = "/news/202506/84153-ballard-custom-homes-expands-luxury-home-building-services-to-vero-beach-florida"
+url = "/202506/84153-ballard-custom-homes-expands-luxury-home-building-services-to-vero-beach-florida"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/5/noonEmia.webp"
 source = "Press Services"
 +++

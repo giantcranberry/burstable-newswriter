@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521623/birds-nest-
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85644
 feed_item_id = 12640
-url = "/news/202504/85644-birds-nest-café-expands-services-with-catering-and-online-ordering-to-meet-growing-demand"
+url = "/202504/85644-birds-nest-café-expands-services-with-catering-and-online-ordering-to-meet-growing-demand"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/10/swimStXJ.webp"
 source = "24-7 Press Release"
 +++

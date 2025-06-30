@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/sbc-medical-banks-on-establishe
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85923
 feed_item_id = 11736
-url = "/news/202503/85923-sbc-medical-group-holdings-inc-leads-japans-booming-cosmetic-medical-market-with-strategic-innovations"
+url = "/202503/85923-sbc-medical-group-holdings-inc-leads-japans-booming-cosmetic-medical-market-with-strategic-innovations"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/7/xenoc6f2.webp"
 source = "NewMediaWire"
 +++

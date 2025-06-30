@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-bitmine-
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 84121
 feed_item_id = 15361
-url = "/news/202506/84121-bitmine-immersion-technologies-secures-18-million-in-public-offering-to-bolster-bitcoin-strategy"
+url = "/202506/84121-bitmine-immersion-technologies-secures-18-million-in-public-offering-to-bolster-bitcoin-strategy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/mailLrpw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

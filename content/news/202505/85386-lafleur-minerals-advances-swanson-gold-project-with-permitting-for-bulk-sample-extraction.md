@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-lafleur-miner
 enclosure = "https://cdn.newsramp.app/banners/science-2.jpg"
 article_id = 85386
 feed_item_id = 13710
-url = "/news/202505/85386-lafleur-minerals-advances-swanson-gold-project-with-permitting-for-bulk-sample-extraction"
+url = "/202505/85386-lafleur-minerals-advances-swanson-gold-project-with-permitting-for-bulk-sample-extraction"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/1/dive5XWC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85462
 feed_item_id = 13440
-url = "/news/202504/85462-royalty-management-boosts-investment-in-jamaican-mineral-deposit-amid-global-demand-for-critical-minerals"
+url = "/202504/85462-royalty-management-boosts-investment-in-jamaican-mineral-deposit-amid-global-demand-for-critical-minerals"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/25/markuHIS.webp"
 source = "NewMediaWire"
 +++

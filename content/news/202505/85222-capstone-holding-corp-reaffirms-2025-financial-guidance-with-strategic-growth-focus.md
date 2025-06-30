@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-capstone-h
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85222
 feed_item_id = 14280
-url = "/news/202505/85222-capstone-holding-corp-reaffirms-2025-financial-guidance-with-strategic-growth-focus"
+url = "/202505/85222-capstone-holding-corp-reaffirms-2025-financial-guidance-with-strategic-growth-focus"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/lineyV9c.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

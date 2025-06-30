@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503171460/baker-hill-champions-the-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85856
 feed_item_id = 11962
-url = "/news/202503/85856-community-banks-embrace-digital-transformation-with-baker-hills-ai-driven-solutions"
+url = "/202503/85856-community-banks-embrace-digital-transformation-with-baker-hills-ai-driven-solutions"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/17/mendMFSr.webp"
 source = "Newsworthy.ai"
 +++

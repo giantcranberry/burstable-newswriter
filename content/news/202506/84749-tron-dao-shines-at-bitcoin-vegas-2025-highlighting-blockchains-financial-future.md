@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/justin-sun-takes-center-stage-at-bitc
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/3a1156b8a73b42d2208ab936fe5b8e2b.png"
 article_id = 84749
 feed_item_id = 14911
-url = "/news/202506/84749-tron-dao-shines-at-bitcoin-vegas-2025-highlighting-blockchains-financial-future"
+url = "/202506/84749-tron-dao-shines-at-bitcoin-vegas-2025-highlighting-blockchains-financial-future"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/2/pear8yPx.webp"
 source = "News Direct"
 +++

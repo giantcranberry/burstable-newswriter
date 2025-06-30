@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/irish-court-rejects-tumb
 enclosure = "https://cdn.newsramp.app/banners/media-2.jpg"
 article_id = 84776
 feed_item_id = 14760
-url = "/news/202505/84776-irish-high-court-ruling-on-reddit-and-tumblr-sets-precedent-for-digital-platform-regulation"
+url = "/202505/84776-irish-high-court-ruling-on-reddit-and-tumblr-sets-precedent-for-digital-platform-regulation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/quaycJ47.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

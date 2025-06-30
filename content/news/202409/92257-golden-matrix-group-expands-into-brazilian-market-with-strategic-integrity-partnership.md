@@ -1,0 +1,16 @@
++++
+title = "Golden Matrix Group Expands into Brazilian Market with Strategic Integrity Partnership"
+date = "2024-09-23T12:20:15Z"
+draft = false
+summary = "Golden Matrix Group's subsidiary Meridianbet partners with IC360 to ensure integrity in Brazil's burgeoning sports betting and iGaming market, highlighting the strategic move's significance for regulatory compliance and market growth."
+description = "Golden Matrix Group's subsidiary, Meridianbet, announces a strategic partnership with Integrity Compliance 360 as it progresses in the licensing process for its entry into the Brazilian market. The partnership reinforces Meridianbet's commitment to upholding the highest standards of integrity for its sports offering in Brazil, positioning it as a major player in the industry."
+source_link = "https://www.newmediawire.com/news/golden-matrix-group-subsidiary-meridianbet-partners-with-integrity-compliance-360-for-upcoming-brazilian-market-entry-7076079"
+enclosure = "https://s3.amazonaws.com/cms.ipressroom.com/270/files/202409/42b1eb6f88f59a59_66f0a4d7da846f3069c048a9_1"
+article_id = 92257
+feed_item_id = 7031
+url = "/202409/92257-golden-matrix-group-expands-into-brazilian-market-with-strategic-integrity-partnership"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/249/23/sage_5Jx.webp"
+source = "NewMediaWire"
++++
+
+<p>Golden Matrix Group, Inc. (NASDAQ: GMGI) has taken a significant step towards expanding its footprint in the Brazilian market through its subsidiary Meridianbet, by forming a strategic partnership with Integrity Compliance 360 (IC360). This collaboration is aimed at bolstering the integrity of sports betting and iGaming offerings in Brazil, a market with immense growth potential.</p><p>The partnership is timely, as Meridianbet's Brazilian subsidiary, Meridian Gaming Brasil SPE, is currently navigating the licensing process to enter the Brazilian market. With the Brazilian gambling industry projected to reach a sports betting turnover of $34 billion by 2028, the move underscores Meridianbet's commitment to adhering to global regulatory standards and best practices in one of the world's fastest-growing betting markets.</p><p>Zoran Milosevic, CEO of Meridianbet, highlighted the partnership's role in meeting regulatory and player expectations, while Brian Goodman, CEO of Golden Matrix Group, pointed to Brazil's potential as the third-largest gaming market globally. The collaboration with IC360, a U.S.-based global sports integrity service provider, is seen as a pivotal step in ensuring that Meridianbet's entry into Brazil is marked by transparency and integrity.</p><p>Meridianbet's application for a comprehensive license, covering both sports betting and iGaming, positions it as a key player capable of offering a full range of gaming experiences in Brazil. Scott Sadin, COO of IC360, praised Meridianbet's positioning in the Brazilian market and the shared commitment to integrity.</p><p>This partnership arrives as Brazil's regulatory landscape for iGaming and sports betting is evolving, setting the stage for Meridianbet to lead by example in responsible market entry. The collaboration between Meridianbet and IC360 is expected to influence the broader industry, promoting a culture of integrity and compliance that could serve as a model for other markets.</p>

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-fingermo
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85224
 feed_item_id = 14270
-url = "/news/202505/85224-fingermotion-inc-expands-into-indonesian-insurtech-market-with-ai-driven-platform"
+url = "/202505/85224-fingermotion-inc-expands-into-indonesian-insurtech-market-with-ai-driven-platform"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/quayRv45.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

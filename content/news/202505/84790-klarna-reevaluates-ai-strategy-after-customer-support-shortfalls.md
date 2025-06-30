@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/after-replacing-700-emp
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84790
 feed_item_id = 14685
-url = "/news/202505/84790-klarna-reevaluates-ai-strategy-after-customer-support-shortfalls"
+url = "/202505/84790-klarna-reevaluates-ai-strategy-after-customer-support-shortfalls"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/veilSb2r.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

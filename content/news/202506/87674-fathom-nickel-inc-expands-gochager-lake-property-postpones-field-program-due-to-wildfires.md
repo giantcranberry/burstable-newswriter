@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-fathom-nickel
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 87674
 feed_item_id = 15493
-url = "/news/202506/87674-fathom-nickel-inc-expands-gochager-lake-property-postpones-field-program-due-to-wildfires"
+url = "/202506/87674-fathom-nickel-inc-expands-gochager-lake-property-postpones-field-program-due-to-wildfires"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/icy6dSy.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

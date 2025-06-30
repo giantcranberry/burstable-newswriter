@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522412/the-patent-
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 85380
 feed_item_id = 13730
-url = "/news/202505/85380-world-intellectual-property-day-highlights-the-role-of-ip-in-global-innovation-and-sustainability"
+url = "/202505/85380-world-intellectual-property-day-highlights-the-role-of-ip-in-global-innovation-and-sustainability"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/2/mendBGq8.webp"
 source = "24-7 Press Release"
 +++

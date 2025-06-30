@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503311475/employer-choice-solutions
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85740
 feed_item_id = 12354
-url = "/news/202503/85740-strategic-partnership-aims-to-revolutionize-business-expense-reduction"
+url = "/202503/85740-strategic-partnership-aims-to-revolutionize-business-expense-reduction"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/31/gulfpodT.webp"
 source = "Newsworthy.ai"
 +++

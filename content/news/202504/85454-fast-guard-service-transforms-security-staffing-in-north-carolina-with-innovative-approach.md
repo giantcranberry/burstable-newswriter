@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522241/fast-guard-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85454
 feed_item_id = 13473
-url = "/news/202504/85454-fast-guard-service-transforms-security-staffing-in-north-carolina-with-innovative-approach"
+url = "/202504/85454-fast-guard-service-transforms-security-staffing-in-north-carolina-with-innovative-approach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/27/mail06ee.webp"
 source = "24-7 Press Release"
 +++

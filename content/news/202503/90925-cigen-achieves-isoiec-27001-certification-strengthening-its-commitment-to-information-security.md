@@ -1,0 +1,16 @@
++++
+title = "CIGen Achieves ISO/IEC 27001 Certification, Strengthening Its Commitment to Information Security"
+date = "2025-03-19T07:00:35Z"
+draft = false
+summary = "CIGen's attainment of the ISO/IEC 27001 certification highlights its dedication to upholding stringent information security standards, enhancing its Azure cloud consultancy and development services."
+description = "CIGen achieves ISO/IEC 27001 certification, showcasing commitment to information security and client data protection. The certification underscores proactive cybersecurity measures for reliable solutions across industries."
+source_link = "https://www.24-7pressrelease.com/press-release/520732/cigen-azure-consultancy-and-aiml-development-company-achieves-isoiec-27001-certification-strengthening-commitment-to-information-security"
+enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
+article_id = 90925
+feed_item_id = 12028
+url = "/202503/90925-cigen-achieves-isoiec-27001-certification-strengthening-its-commitment-to-information-security"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/19/fineMchJ.webp"
+source = "24-7 Press Release"
++++
+
+<p>CIGen, a global digital transformation partner, has recently achieved the ISO/IEC 27001 certification, a testament to its dedication to maintaining the highest standards of information security. This internationally recognized certification confirms the company's systematic approach to managing sensitive information and mitigating cybersecurity risks, a crucial factor in today's digital age where threats are increasingly sophisticated.</p><p>As a Microsoft Gold Partner with a focus on Azure cloud-native development, CIGen caters to a wide range of industries including logistics, manufacturing, retail, and financial services. The ISO/IEC 27001 certification marks a significant milestone in the company's journey to offer secure, scalable technology solutions. Maryan Savka, CEO and Co-Founder of CIGen, highlighted the importance of this achievement, noting it reflects the company's commitment to client trust and operational excellence amidst growing digital threats.</p><p>The certification process involved thorough audits of CIGen's information security protocols, risk assessments, and compliance measures. This achievement not only enhances CIGen's security framework but also bolsters its capability to provide trusted <a href='https://www.cigen.io/services/azure-consulting-services' rel='nofollow' target='_blank'>Azure cloud consultancy</a> services. With a team of over 60 technology professionals and a portfolio of more than 40 projects, CIGen boasts a 92% customer satisfaction rate.</p><p>Areas of expertise that stand to benefit from this enhanced security certification include <a href='https://www.cigen.io/services/azure-cloud-development' rel='nofollow' target='_blank'>Azure cloud-native development</a>, application modernization, cloud migration, <a href='https://www.cigen.io/services/azure-ai-ml-development-services' rel='nofollow' target='_blank'>AI/ML development</a>, and data analytics. Beyond being a technical milestone, the ISO/IEC 27001 certification signifies CIGen's proactive stance on safeguarding client data and adhering to the highest information security standards in a rapidly evolving digital landscape.</p>

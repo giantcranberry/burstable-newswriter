@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-givbux
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84835
 feed_item_id = 14493
-url = "/news/202505/84835-givbux-inc-announces-special-warrant-distribution-to-shareholders-amid-super-app-expansion"
+url = "/202505/84835-givbux-inc-announces-special-warrant-distribution-to-shareholders-amid-super-app-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/22/fastzBdH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

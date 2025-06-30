@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702433/mcgowan-financial-lines-app
 enclosure = "https://cdn.newsramp.app/banners/insurance-3.jpg"
 article_id = 84207
 feed_item_id = 15106
-url = "/news/202506/84207-mcgowan-financial-lines-strengthens-leadership-with-appointment-of-dan-lazarz-as-director-team-leader"
+url = "/202506/84207-mcgowan-financial-lines-strengthens-leadership-with-appointment-of-dan-lazarz-as-director-team-leader"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/ruby6iOR.webp"
 source = "citybiz"
 +++

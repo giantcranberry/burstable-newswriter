@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702501/microblink-appoints-radu-tu
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84693
 feed_item_id = 15126
-url = "/news/202506/84693-microblink-strengthens-leadership-with-new-vice-president-of-engineering-to-combat-fraud-and-enhance-identity-verification"
+url = "/202506/84693-microblink-strengthens-leadership-with-new-vice-president-of-engineering-to-combat-fraud-and-enhance-identity-verification"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/echoJiNl.webp"
 source = "citybiz"
 +++

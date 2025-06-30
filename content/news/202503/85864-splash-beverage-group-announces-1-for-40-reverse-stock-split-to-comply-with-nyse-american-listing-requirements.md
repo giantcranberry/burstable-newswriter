@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/splash-beverage-group-announces
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-1.jpg"
 article_id = 85864
 feed_item_id = 11940
-url = "/news/202503/85864-splash-beverage-group-announces-1-for-40-reverse-stock-split-to-comply-with-nyse-american-listing-requirements"
+url = "/202503/85864-splash-beverage-group-announces-1-for-40-reverse-stock-split-to-comply-with-nyse-american-listing-requirements"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/17/milkA0Z2.webp"
 source = "NewMediaWire"
 +++

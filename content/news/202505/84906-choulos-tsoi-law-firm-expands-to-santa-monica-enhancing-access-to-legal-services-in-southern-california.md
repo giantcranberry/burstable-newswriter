@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522814/choulos-tso
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 84906
 feed_item_id = 14213
-url = "/news/202505/84906-choulos-tsoi-law-firm-expands-to-santa-monica-enhancing-access-to-legal-services-in-southern-california"
+url = "/202505/84906-choulos-tsoi-law-firm-expands-to-santa-monica-enhancing-access-to-legal-services-in-southern-california"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/clubykuX.webp"
 source = "24-7 Press Release"
 +++

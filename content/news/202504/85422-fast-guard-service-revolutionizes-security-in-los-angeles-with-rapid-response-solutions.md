@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522306/fast-guard-
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85422
 feed_item_id = 13612
-url = "/news/202504/85422-fast-guard-service-revolutionizes-security-in-los-angeles-with-rapid-response-solutions"
+url = "/202504/85422-fast-guard-service-revolutionizes-security-in-los-angeles-with-rapid-response-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/tilemnEW.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523431/cam-hvac-co
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84175
 feed_item_id = 15186
-url = "/news/202506/84175-strategic-partnership-expands-energy-efficiency-services-in-new-england"
+url = "/202506/84175-strategic-partnership-expands-energy-efficiency-services-in-new-england"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/5/archsVRO.webp"
 source = "24-7 Press Release"
 +++

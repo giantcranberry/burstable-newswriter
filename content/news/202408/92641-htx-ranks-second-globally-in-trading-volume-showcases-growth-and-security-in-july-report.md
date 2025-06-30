@@ -1,0 +1,16 @@
++++
+title = "HTX Ranks Second Globally in Trading Volume, Showcases Growth and Security in July Report"
+date = "2024-08-06T18:20:14Z"
+draft = false
+summary = "HTX's July performance report highlights its rise to the second position in global 24-hour trading volume, listing of new cryptocurrencies, and robust security measures, underscoring its growing influence in the cryptocurrency market."
+description = "HTX has released its July performance report, demonstrating steady progress and achievements. The 24-hour trading volume rose to top 2 worldwide for the third time, reflecting HTX's commitment to user satisfaction and safety."
+source_link = "https://newsdirect.com/news/htx-releases-july-performance-report-24-hour-trading-volume-rises-to-top-2-worldwide-for-the-third-time-achieving-steady-progress-496453172"
+enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
+article_id = 92641
+feed_item_id = 5537
+url = "/202408/92641-htx-ranks-second-globally-in-trading-volume-showcases-growth-and-security-in-july-report"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/248/6/beanl9ja.webp"
+source = "News Direct"
++++
+
+<p>HTX's July performance report has positioned the exchange as a formidable player in the cryptocurrency market, achieving the second rank globally in 24-hour trading volume for the third time this year. With a trading volume of $2.8 billion reported on July 24, HTX demonstrated an 11.3% increase from the previous month, showcasing its resilience and expanding user base amidst market volatility.</p><p>The exchange's strategic expansion was evident with the listing of 15 new cryptocurrencies, including PIXFI, A8, LRDS, and AVAIL, aligning with major platforms like Coinbase to provide users access to emerging assets. Notably, AVAIL and FIGHT experienced significant price surges post-listing, highlighting the potential impact of HTX's platform on asset performance.</p><p>HTX Ventures' active participation in the blockchain space, including investments in Lombard and Redstone, and its presence at EthCC in Brussels, reflects the exchange's commitment to innovation. The publication of an industry research paper further contributes to the discourse on cryptocurrency and blockchain technology.</p><p>Celebrating its 11th anniversary, HTX launched user-centric initiatives such as the Battle of Glory for KOLs and an Appreciation Plan, emphasizing its focus on user engagement and satisfaction. Security measures were a highlight, with the exchange taking proactive steps to protect user assets, including sending security alerts and combating phishing attempts.</p><p>HTX DAO's completion of the Liquidity Pledge for Q2 2024, with $30.5 million pledged and burned, and a cumulative ecosystem liquidity pledge of $42.5 million, showcases strong community support. The exchange's dedication to customer service was evident in July, with a high satisfaction rate among users assisted.</p><p>HTX's July report not only underscores its significant achievements and growth in the cryptocurrency market but also its unwavering commitment to security, user satisfaction, and transparency, reinforcing its position as a leading exchange.</p>

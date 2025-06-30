@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/bandwidth-receives-top-honors-for-cus
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/b4f5764d5ba10250fc917f972f01901a.jpg"
 article_id = 85511
 feed_item_id = 13164
-url = "/news/202504/85511-bandwidth-inc-wins-two-gold-stevie-awards-for-customer-engagement-and-service-innovation"
+url = "/202504/85511-bandwidth-inc-wins-two-gold-stevie-awards-for-customer-engagement-and-service-innovation"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/23/ableWBhc.webp"
 source = "News Direct"
 +++

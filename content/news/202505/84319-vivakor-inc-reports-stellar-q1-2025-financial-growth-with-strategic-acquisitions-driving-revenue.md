@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-vivako
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84319
 feed_item_id = 14750
-url = "/news/202505/84319-vivakor-inc-reports-stellar-q1-2025-financial-growth-with-strategic-acquisitions-driving-revenue"
+url = "/202505/84319-vivakor-inc-reports-stellar-q1-2025-financial-growth-with-strategic-acquisitions-driving-revenue"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/pintDEv4.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

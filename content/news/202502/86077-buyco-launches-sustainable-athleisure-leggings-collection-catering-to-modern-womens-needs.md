@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202502271442/introducing-buyco-elevati
 enclosure = "https://cdn.newsramp.app/banners/travel-3.jpg"
 article_id = 86077
 feed_item_id = 11196
-url = "/news/202502/86077-buyco-launches-sustainable-athleisure-leggings-collection-catering-to-modern-womens-needs"
+url = "/202502/86077-buyco-launches-sustainable-athleisure-leggings-collection-catering-to-modern-womens-needs"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/252/27/pitapicoxt2U.webp"
 source = "Newsworthy.ai"
 +++

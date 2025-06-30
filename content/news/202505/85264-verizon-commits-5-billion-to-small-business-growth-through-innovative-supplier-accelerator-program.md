@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/verizon-announces-a-5b-commitmen
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85264
 feed_item_id = 14115
-url = "/news/202505/85264-verizon-commits-5-billion-to-small-business-growth-through-innovative-supplier-accelerator-program"
+url = "/202505/85264-verizon-commits-5-billion-to-small-business-growth-through-innovative-supplier-accelerator-program"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/255/13/moonigho.webp"
 source = "Noticias Newswire"
 +++

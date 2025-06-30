@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/industrials-fund-xli-provides-investo
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 86020
 feed_item_id = 11530
-url = "/news/202503/86020-xli-etf-offers-strategic-industrial-sector-investment-opportunities"
+url = "/202503/86020-xli-etf-offers-strategic-industrial-sector-investment-opportunities"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/3/rubyauxb.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85527
 feed_item_id = 13108
-url = "/news/202504/85527-newton-golf-company-leverages-physics-to-revolutionize-golf-club-design"
+url = "/202504/85527-newton-golf-company-leverages-physics-to-revolutionize-golf-club-design"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/quitbdcg.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

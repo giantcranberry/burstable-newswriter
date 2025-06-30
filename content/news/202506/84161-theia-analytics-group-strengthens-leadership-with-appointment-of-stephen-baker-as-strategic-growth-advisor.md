@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703210/theia-analytics-group-appoi
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84161
 feed_item_id = 15226
-url = "/news/202506/84161-theia-analytics-group-strengthens-leadership-with-appointment-of-stephen-baker-as-strategic-growth-advisor"
+url = "/202506/84161-theia-analytics-group-strengthens-leadership-with-appointment-of-stephen-baker-as-strategic-growth-advisor"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/markSNR5.webp"
 source = "citybiz"
 +++

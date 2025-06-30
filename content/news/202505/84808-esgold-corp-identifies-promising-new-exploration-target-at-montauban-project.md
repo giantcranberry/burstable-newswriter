@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-esgold-
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 84808
 feed_item_id = 14580
-url = "/news/202505/84808-esgold-corp-identifies-promising-new-exploration-target-at-montauban-project"
+url = "/202505/84808-esgold-corp-identifies-promising-new-exploration-target-at-montauban-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/23/gulf_k5H.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

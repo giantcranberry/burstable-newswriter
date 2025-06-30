@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/edge-boost-unveils-industry-first-res
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85807
 feed_item_id = 12151
-url = "/news/202503/85807-edge-boost-launches-innovative-financial-platform-to-promote-responsible-gaming"
+url = "/202503/85807-edge-boost-launches-innovative-financial-platform-to-promote-responsible-gaming"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/24/chip9H0E.webp"
 source = "News Direct"
 +++

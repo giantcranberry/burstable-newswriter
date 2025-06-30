@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/pope-leo-xiv-declares-ai-
 enclosure = "https://cdn.newsramp.app/banners/religion-spirituality-2.jpg"
 article_id = 84115
 feed_item_id = 15376
-url = "/news/202506/84115-pope-leo-xiv-calls-for-ethical-engagement-with-ai-highlighting-its-dual-potential"
+url = "/202506/84115-pope-leo-xiv-calls-for-ethical-engagement-with-ai-highlighting-its-dual-potential"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/dashXmQQ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

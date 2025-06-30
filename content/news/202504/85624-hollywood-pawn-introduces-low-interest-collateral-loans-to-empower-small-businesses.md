@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/affordable-2-small-business-collateral
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/ec55d780b123977b9e6f9bf798fc9ca3.jpg"
 article_id = 85624
 feed_item_id = 12707
-url = "/news/202504/85624-hollywood-pawn-introduces-low-interest-collateral-loans-to-empower-small-businesses"
+url = "/202504/85624-hollywood-pawn-introduces-low-interest-collateral-loans-to-empower-small-businesses"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/14/chefNgcv.webp"
 source = "Press Services"
 +++

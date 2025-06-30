@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-g-mini
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85431
 feed_item_id = 13579
-url = "/news/202504/85431-g-mining-ventures-corp-announces-promising-feasibility-study-for-oko-west-gold-project"
+url = "/202504/85431-g-mining-ventures-corp-announces-promising-feasibility-study-for-oko-west-gold-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/29/ableAjBl.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

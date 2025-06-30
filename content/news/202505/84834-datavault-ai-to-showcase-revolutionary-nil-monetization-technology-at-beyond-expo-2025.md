@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-datavaul
 enclosure = "https://cdn.newsramp.app/banners/gaming-2.jpg"
 article_id = 84834
 feed_item_id = 14492
-url = "/news/202505/84834-datavault-ai-to-showcase-revolutionary-nil-monetization-technology-at-beyond-expo-2025"
+url = "/202505/84834-datavault-ai-to-showcase-revolutionary-nil-monetization-technology-at-beyond-expo-2025"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/22/bestXenT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-sportl
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85147
 feed_item_id = 15015
-url = "/news/202506/85147-sportlync-secures-40-million-to-expand-ai-driven-sports-networking-platform-globally"
+url = "/202506/85147-sportlync-secures-40-million-to-expand-ai-driven-sports-networking-platform-globally"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/maskC_To.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

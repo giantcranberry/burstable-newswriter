@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522356/celebrate-m
 enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
 article_id = 85413
 feed_item_id = 13629
-url = "/news/202504/85413-adlers-jewelers-hosts-exclusive-marco-bicego-mothers-day-jewelry-event-in-westfield-nj"
+url = "/202504/85413-adlers-jewelers-hosts-exclusive-marco-bicego-mothers-day-jewelry-event-in-westfield-nj"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/isleOF_g.webp"
 source = "24-7 Press Release"
 +++

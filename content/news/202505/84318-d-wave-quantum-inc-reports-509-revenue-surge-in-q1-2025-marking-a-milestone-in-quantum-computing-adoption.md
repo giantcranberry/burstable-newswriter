@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/d-wave-quantum-inc-nyse-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84318
 feed_item_id = 14764
-url = "/news/202505/84318-d-wave-quantum-inc-reports-509-revenue-surge-in-q1-2025-marking-a-milestone-in-quantum-computing-adoption"
+url = "/202505/84318-d-wave-quantum-inc-reports-509-revenue-surge-in-q1-2025-marking-a-milestone-in-quantum-computing-adoption"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/ellegLIB.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

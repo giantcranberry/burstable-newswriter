@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/fortran-corporation-announces-c
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85694
 feed_item_id = 12483
-url = "/news/202504/85694-fortran-corporation-strengthens-position-with-debenture-conversion-and-intech-systems-acquisition"
+url = "/202504/85694-fortran-corporation-strengthens-position-with-debenture-conversion-and-intech-systems-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/3/mean0DX_.webp"
 source = "NewMediaWire"
 +++

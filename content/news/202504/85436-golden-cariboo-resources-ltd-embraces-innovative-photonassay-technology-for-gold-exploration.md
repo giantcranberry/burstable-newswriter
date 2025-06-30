@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-cariboo-resources-announ
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85436
 feed_item_id = 13566
-url = "/news/202504/85436-golden-cariboo-resources-ltd-embraces-innovative-photonassay-technology-for-gold-exploration"
+url = "/202504/85436-golden-cariboo-resources-ltd-embraces-innovative-photonassay-technology-for-gold-exploration"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/29/envy6mlV.webp"
 source = "NewMediaWire"
 +++

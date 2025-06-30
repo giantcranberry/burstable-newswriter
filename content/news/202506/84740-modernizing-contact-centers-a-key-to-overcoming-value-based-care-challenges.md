@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/700980/qa-with-patty-hayward-gener
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 84740
 feed_item_id = 14970
-url = "/news/202506/84740-modernizing-contact-centers-a-key-to-overcoming-value-based-care-challenges"
+url = "/202506/84740-modernizing-contact-centers-a-key-to-overcoming-value-based-care-challenges"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/markV4ep.webp"
 source = "citybiz"
 +++

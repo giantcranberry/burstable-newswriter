@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522239/indian-cfos
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85457
 feed_item_id = 13468
-url = "/news/202504/85457-indian-cfos-lead-global-ai-adoption-in-financial-operations-survey-reveals"
+url = "/202504/85457-indian-cfos-lead-global-ai-adoption-in-financial-operations-survey-reveals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/27/noteHJcw.webp"
 source = "24-7 Press Release"
 +++

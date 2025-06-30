@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522577/new-tool-ma
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85320
 feed_item_id = 13909
-url = "/news/202505/85320-new-online-tool-simplifies-technical-support-with-instant-system-details"
+url = "/202505/85320-new-online-tool-simplifies-technical-support-with-instant-system-details"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/8/paver6wv.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/linkedin-expands-its-vid
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85563
 feed_item_id = 12993
-url = "/news/202504/85563-linkedin-launches-the-wire-program-to-enhance-brand-visibility-through-video-ads-on-professional-content"
+url = "/202504/85563-linkedin-launches-the-wire-program-to-enhance-brand-visibility-through-video-ads-on-professional-content"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/18/duneqcNT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

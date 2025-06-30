@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/elevate-your-brand-with-custom-graphic
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/e4301f78efae94ab237577bd325513f5.jpg"
 article_id = 85848
 feed_item_id = 12017
-url = "/news/202503/85848-perfect-impressions-graphic-solutions-elevates-branding-with-innovative-vehicle-wraps-and-graphics"
+url = "/202503/85848-perfect-impressions-graphic-solutions-elevates-branding-with-innovative-vehicle-wraps-and-graphics"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/18/pondlyO5.webp"
 source = "Press Services"
 +++

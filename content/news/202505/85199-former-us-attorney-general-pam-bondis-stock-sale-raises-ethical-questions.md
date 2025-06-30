@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-trump-
 enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
 article_id = 85199
 feed_item_id = 14472
-url = "/news/202505/85199-former-us-attorney-general-pam-bondis-stock-sale-raises-ethical-questions"
+url = "/202505/85199-former-us-attorney-general-pam-bondis-stock-sale-raises-ethical-questions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/coolOG5n.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

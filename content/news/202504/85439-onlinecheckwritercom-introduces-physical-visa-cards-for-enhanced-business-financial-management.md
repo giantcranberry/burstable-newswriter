@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522252/physical-ca
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85439
 feed_item_id = 13555
-url = "/news/202504/85439-onlinecheckwritercom-introduces-physical-visa-cards-for-enhanced-business-financial-management"
+url = "/202504/85439-onlinecheckwritercom-introduces-physical-visa-cards-for-enhanced-business-financial-management"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/29/dashkodu.webp"
 source = "24-7 Press Release"
 +++

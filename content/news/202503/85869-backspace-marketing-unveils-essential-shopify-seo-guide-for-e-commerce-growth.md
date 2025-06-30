@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/navigate-the-world-of-shopify-seo-with
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/afa5b40628c61603afc42a26e14c43b0.jpg"
 article_id = 85869
 feed_item_id = 11921
-url = "/news/202503/85869-backspace-marketing-unveils-essential-shopify-seo-guide-for-e-commerce-growth"
+url = "/202503/85869-backspace-marketing-unveils-essential-shopify-seo-guide-for-e-commerce-growth"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/14/kiwi9bMl.webp"
 source = "Press Services"
 +++

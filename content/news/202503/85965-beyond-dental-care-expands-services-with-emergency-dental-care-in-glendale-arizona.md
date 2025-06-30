@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520279/beyond-dent
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
 article_id = 85965
 feed_item_id = 11622
-url = "/news/202503/85965-beyond-dental-care-expands-services-with-emergency-dental-care-in-glendale-arizona"
+url = "/202503/85965-beyond-dental-care-expands-services-with-emergency-dental-care-in-glendale-arizona"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/chip19pC.webp"
 source = "24-7 Press Release"
 +++

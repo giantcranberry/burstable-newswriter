@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/peoples-financial-corporation-reports
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85510
 feed_item_id = 13166
-url = "/news/202504/85510-peoples-financial-corporation-faces-earnings-decline-in-first-quarter-2025-amid-challenging-economic-environment"
+url = "/202504/85510-peoples-financial-corporation-faces-earnings-decline-in-first-quarter-2025-amid-challenging-economic-environment"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/23/zealhNYQ.webp"
 source = "News Direct"
 +++

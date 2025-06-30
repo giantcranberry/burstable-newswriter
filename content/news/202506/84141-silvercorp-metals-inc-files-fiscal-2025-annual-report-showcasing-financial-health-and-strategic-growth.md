@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-silverc
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84141
 feed_item_id = 15297
-url = "/news/202506/84141-silvercorp-metals-inc-files-fiscal-2025-annual-report-showcasing-financial-health-and-strategic-growth"
+url = "/202506/84141-silvercorp-metals-inc-files-fiscal-2025-annual-report-showcasing-financial-health-and-strategic-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/larkRW92.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

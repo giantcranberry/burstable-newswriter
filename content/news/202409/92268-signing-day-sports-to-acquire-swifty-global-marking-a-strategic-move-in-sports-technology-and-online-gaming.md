@@ -1,0 +1,16 @@
++++
+title = "Signing Day Sports to Acquire Swifty Global, Marking a Strategic Move in Sports Technology and Online Gaming"
+date = "2024-09-19T14:05:17Z"
+draft = false
+summary = "The acquisition of Swifty Global by Signing Day Sports signifies a strategic expansion in the sports technology and online gaming sectors, promising enhanced growth and market reach."
+description = "Swifty Global, a technology company in the online sports betting and casino sector, has signed a binding Letter of Intent to be acquired by Signing Day Sports. This strategic acquisition will allow Swifty to transition onto the NYSE American, providing access to growth capital and enabling accelerated expansion."
+source_link = "https://www.newmediawire.com/news/dear-cashmere-group-holding-co-aka-swifty-global-signs-binding-letter-of-intent-to-be-acquired-by-signing-day-sports-7076070"
+enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
+article_id = 92268
+feed_item_id = 6974
+url = "/202409/92268-signing-day-sports-to-acquire-swifty-global-marking-a-strategic-move-in-sports-technology-and-online-gaming"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/249/19/ovalEjsZ.webp"
+source = "NewMediaWire"
++++
+
+<p>The sports technology and online gaming industries are witnessing a pivotal moment as Signing Day Sports (NYSE: SGN) announces its intent to acquire Swifty Global (OTC: DRCR). This acquisition is a cornerstone of Signing Day Sports' strategy to scale its operations and achieve profitable growth through strategic buy-and-build initiatives. Swifty Global, with its impressive $128 million turnover in 2023 and a debt-free operation, stands to gain significantly from this deal, including access to the NYSE American for improved capital access and market visibility.</p><p>Swifty Global's projection to triple its profits by focusing on licensing its gaming software to Tier 2 and Tier 3 operators aligns perfectly with Signing Day Sports' existing product strategy. The acquisition not only brings Swifty's technological assets and a team of nearly 30 professionals into Signing Day Sports' fold but also enhances the latter's platform with expanded sports coverage and services. Currently, Signing Day Sports operates primarily in the USA, with a focus on football and soccer, boasting over 10,000 registered users.</p><p>The synergy between the two companies is expected to unlock global growth opportunities and monetization potential. Signing Day Sports benefits from an influential investor base, including professional sports team owners, which could facilitate Swifty's entry into the U.S. market. James Gibbons, CEO of Swifty Global, views this acquisition as a milestone that offers greater exposure, capital, and credibility. Similarly, Daniel Nelson, CEO of Signing Day Sports, sees the partnership as a means to enhance shareholder value through technological and financial advantages.</p><p>With the closing agreements anticipated by early October, pending legal and regulatory approvals, this acquisition could redefine the competitive landscape of the sports technology and online gaming sectors. The combined entity is poised to leverage enhanced capabilities, broader market access, and stronger financial resources to capitalize on the rapidly growing global markets of sports betting and online gaming.</p>

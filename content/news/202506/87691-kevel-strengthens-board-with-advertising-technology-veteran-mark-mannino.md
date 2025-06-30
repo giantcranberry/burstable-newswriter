@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/kevel-welcomes-ad-tech-veteran-mark-m
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 87691
 feed_item_id = 15102
-url = "/news/202506/87691-kevel-strengthens-board-with-advertising-technology-veteran-mark-mannino"
+url = "/202506/87691-kevel-strengthens-board-with-advertising-technology-veteran-mark-mannino"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/4/mean9CAP.webp"
 source = "News Direct"
 +++

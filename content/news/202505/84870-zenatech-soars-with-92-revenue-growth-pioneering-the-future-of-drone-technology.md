@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/zenatechs-nasdaq-zena-daas-model-stra
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84870
 feed_item_id = 14381
-url = "/news/202505/84870-zenatech-soars-with-92-revenue-growth-pioneering-the-future-of-drone-technology"
+url = "/202505/84870-zenatech-soars-with-92-revenue-growth-pioneering-the-future-of-drone-technology"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/20/mildLcdI.webp"
 source = "News Direct"
 +++

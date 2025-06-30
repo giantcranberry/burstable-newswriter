@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521497/fisher-mark
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 85671
 feed_item_id = 12542
-url = "/news/202504/85671-julie-fisher-launches-fisher-marketing-services-llc-to-empower-solo-and-boutique-law-firms"
+url = "/202504/85671-julie-fisher-launches-fisher-marketing-services-llc-to-empower-solo-and-boutique-law-firms"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/7/joltRUOY.webp"
 source = "24-7 Press Release"
 +++

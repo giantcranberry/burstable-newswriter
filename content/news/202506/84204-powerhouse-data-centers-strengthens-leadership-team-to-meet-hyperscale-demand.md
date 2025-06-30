@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702448/powerhouse-data-centers-app
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84204
 feed_item_id = 15110
-url = "/news/202506/84204-powerhouse-data-centers-strengthens-leadership-team-to-meet-hyperscale-demand"
+url = "/202506/84204-powerhouse-data-centers-strengthens-leadership-team-to-meet-hyperscale-demand"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/gulfqwop.webp"
 source = "citybiz"
 +++

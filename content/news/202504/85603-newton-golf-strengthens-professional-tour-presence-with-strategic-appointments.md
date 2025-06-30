@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85603
 feed_item_id = 12787
-url = "/news/202504/85603-newton-golf-strengthens-professional-tour-presence-with-strategic-appointments"
+url = "/202504/85603-newton-golf-strengthens-professional-tour-presence-with-strategic-appointments"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/plumv4Bz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

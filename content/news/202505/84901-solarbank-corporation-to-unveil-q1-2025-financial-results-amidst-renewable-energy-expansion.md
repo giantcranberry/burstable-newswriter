@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-solarban
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84901
 feed_item_id = 14225
-url = "/news/202505/84901-solarbank-corporation-to-unveil-q1-2025-financial-results-amidst-renewable-energy-expansion"
+url = "/202505/84901-solarbank-corporation-to-unveil-q1-2025-financial-results-amidst-renewable-energy-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/bendgelr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520375/macleod-opt
 enclosure = "https://cdn.newsramp.app/banners/insurance-2.jpg"
 article_id = 85929
 feed_item_id = 11717
-url = "/news/202503/85929-macleod-optometry-introduces-direct-billing-to-enhance-eye-care-accessibility-in-calgary"
+url = "/202503/85929-macleod-optometry-introduces-direct-billing-to-enhance-eye-care-accessibility-in-calgary"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/7/milkCwu9.webp"
 source = "24-7 Press Release"
 +++

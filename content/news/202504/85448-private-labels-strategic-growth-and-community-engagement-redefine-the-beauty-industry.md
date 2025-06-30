@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/private-label-celebrates-growth-and-c
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/b7d074a4ebe7a7ff6044c32af1b2f0ad.png"
 article_id = 85448
 feed_item_id = 13490
-url = "/news/202504/85448-private-labels-strategic-growth-and-community-engagement-redefine-the-beauty-industry"
+url = "/202504/85448-private-labels-strategic-growth-and-community-engagement-redefine-the-beauty-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/28/paleAaMy.webp"
 source = "News Direct"
 +++

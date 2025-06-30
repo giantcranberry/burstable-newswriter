@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522236/foreign-aff
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85455
 feed_item_id = 13470
-url = "/news/202504/85455-foreign-affairs-auto-sets-the-standard-for-luxury-european-vehicle-maintenance-in-south-florida"
+url = "/202504/85455-foreign-affairs-auto-sets-the-standard-for-luxury-european-vehicle-maintenance-in-south-florida"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/27/wallVILo.webp"
 source = "24-7 Press Release"
 +++

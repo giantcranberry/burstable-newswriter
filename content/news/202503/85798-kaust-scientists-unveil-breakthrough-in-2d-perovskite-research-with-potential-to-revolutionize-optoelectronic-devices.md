@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520917/real-space-
 enclosure = "https://cdn.newsramp.app/banners/science-2.jpg"
 article_id = 85798
 feed_item_id = 12180
-url = "/news/202503/85798-kaust-scientists-unveil-breakthrough-in-2d-perovskite-research-with-potential-to-revolutionize-optoelectronic-devices"
+url = "/202503/85798-kaust-scientists-unveil-breakthrough-in-2d-perovskite-research-with-potential-to-revolutionize-optoelectronic-devices"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/25/jazzVCYF.webp"
 source = "24-7 Press Release"
 +++

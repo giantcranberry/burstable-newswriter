@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/local-seo-services-to-enhance-business
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/5fc9e1f6a6420fc1a08b101724e2cc82.jpg"
 article_id = 85744
 feed_item_id = 12339
-url = "/news/202503/85744-get-found-empowers-local-businesses-with-tailored-seo-strategies-in-the-digital-age"
+url = "/202503/85744-get-found-empowers-local-businesses-with-tailored-seo-strategies-in-the-digital-age"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/31/knobKvRi.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/unitedhealth-records-low
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 85532
 feed_item_id = 13093
-url = "/news/202504/85532-unitedhealth-group-adjusts-2025-revenue-forecast-amid-rising-medicare-advantage-plan-usage"
+url = "/202504/85532-unitedhealth-group-adjusts-2025-revenue-forecast-amid-rising-medicare-advantage-plan-usage"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/navyT46P.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/strategic-alliance-between-icor
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
 article_id = 85215
 feed_item_id = 14317
-url = "/news/202505/85215-icoreconnect-and-health-professionals-alliance-forge-strategic-partnership-to-empower-independent-healthcare-practices"
+url = "/202505/85215-icoreconnect-and-health-professionals-alliance-forge-strategic-partnership-to-empower-independent-healthcare-practices"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/19/jazzEduD.webp"
 source = "NewMediaWire"
 +++

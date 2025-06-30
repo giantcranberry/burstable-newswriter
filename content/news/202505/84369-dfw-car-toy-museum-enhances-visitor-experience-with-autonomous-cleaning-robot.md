@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522916/meet-fast-f
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-1.jpg"
 article_id = 84369
 feed_item_id = 14605
-url = "/news/202505/84369-dfw-car-toy-museum-enhances-visitor-experience-with-autonomous-cleaning-robot"
+url = "/202505/84369-dfw-car-toy-museum-enhances-visitor-experience-with-autonomous-cleaning-robot"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/beanfTW9.webp"
 source = "24-7 Press Release"
 +++

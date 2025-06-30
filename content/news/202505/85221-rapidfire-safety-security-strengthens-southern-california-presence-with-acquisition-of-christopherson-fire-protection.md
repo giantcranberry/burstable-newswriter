@@ -8,7 +8,7 @@ source_link = "https://newsroom.prkarma.com/rapidfire/news_release/1656"
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/92d759923e07ae9231b7ef08982a0887.jpg"
 article_id = 85221
 feed_item_id = 14281
-url = "/news/202505/85221-rapidfire-safety-security-strengthens-southern-california-presence-with-acquisition-of-christopherson-fire-protection"
+url = "/202505/85221-rapidfire-safety-security-strengthens-southern-california-presence-with-acquisition-of-christopherson-fire-protection"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/255/16/vibe0U6K.webp"
 source = "PR Karma"
 +++

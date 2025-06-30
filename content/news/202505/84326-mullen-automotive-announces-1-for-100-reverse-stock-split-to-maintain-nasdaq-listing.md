@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-mulle
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84326
 feed_item_id = 14734
-url = "/news/202505/84326-mullen-automotive-announces-1-for-100-reverse-stock-split-to-maintain-nasdaq-listing"
+url = "/202505/84326-mullen-automotive-announces-1-for-100-reverse-stock-split-to-maintain-nasdaq-listing"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/pintK7FW.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

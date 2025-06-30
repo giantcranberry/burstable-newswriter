@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-monogram-t
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85398
 feed_item_id = 13666
-url = "/news/202504/85398-monogram-technologies-secures-regulatory-approval-for-robotic-knee-replacement-trial-in-india"
+url = "/202504/85398-monogram-technologies-secures-regulatory-approval-for-robotic-knee-replacement-trial-in-india"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/chipCuU9.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

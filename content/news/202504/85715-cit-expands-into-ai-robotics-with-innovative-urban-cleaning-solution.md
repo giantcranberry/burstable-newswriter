@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521315/cit-pioneer
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85715
 feed_item_id = 12423
-url = "/news/202504/85715-cit-expands-into-ai-robotics-with-innovative-urban-cleaning-solution"
+url = "/202504/85715-cit-expands-into-ai-robotics-with-innovative-urban-cleaning-solution"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/ableiDGz.webp"
 source = "24-7 Press Release"
 +++

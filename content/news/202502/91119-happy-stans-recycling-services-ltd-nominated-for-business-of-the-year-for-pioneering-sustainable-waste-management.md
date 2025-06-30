@@ -1,0 +1,16 @@
++++
+title = "Happy Stan's Recycling Services Ltd. Nominated for Business of the Year for Pioneering Sustainable Waste Management"
+date = "2025-02-11T17:41:00Z"
+draft = false
+summary = "Happy Stan's Recycling Services Ltd. (HSR) has been recognized for its 30-year commitment to innovative recycling and sustainability efforts, earning a nomination for Business of the Year and highlighting its role in advancing environmental stewardship."
+description = "Happy Stan’s Recycling Services Ltd. (HSR) has been nominated for Business of the Year, underscoring its 30-year legacy of environmental leadership and innovation in waste diversion and sustainability. Founded by Stan and Della Kaminski, HSR has been a pioneer in recycling and resource recovery solutions, with a strong commitment to keeping waste out of landfills. The nomination reflects HSR's ongoing dedication to sustainability, education, and community engagement, setting a standard for responsible waste management practices."
+source_link = "https://newsroom.prkarma.com/hsr/news_release/1633"
+enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/6e8c8e1226a607296491ac8eb32c43d2.jpg"
+article_id = 91119
+feed_item_id = 10808
+url = "/202502/91119-happy-stans-recycling-services-ltd-nominated-for-business-of-the-year-for-pioneering-sustainable-waste-management"
+qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/252/11/fondIATo.webp"
+source = "PR Karma"
++++
+
+<p>Happy Stan's Recycling Services Ltd. (HSR), a family-owned business founded by Stan and Della Kaminski, has been nominated for Business of the Year, marking a significant milestone in its 30-year journey of environmental stewardship and innovative waste management solutions. Under the leadership of Jamie Kaminski, HSR has expanded its services to include advanced waste audits, on-site sorting, and Zero Waste education, earning the title of Canada's Top Environmental Consulting Services Provider in 2025.</p><p>HSR's impact on the Port Coquitlam community and beyond is profound, offering specialized services that tackle hard-to-recycle materials and providing customized waste programs. These initiatives have positioned HSR as a trusted sustainability partner, helping local businesses and residents significantly reduce landfill waste. The company's HSR Zero Waste division plays a pivotal role in assisting organizations to adopt comprehensive waste management strategies, aligning with municipal and corporate sustainability goals.</p><p>The nomination for Business of the Year at the PoCo Best Biz Awards, along with eligibility for the People's Choice Award, underscores HSR's dedication to education, community engagement, and environmental leadership. This recognition not only celebrates HSR's past achievements but also shines a light on the potential for local businesses to drive meaningful environmental change. Through its innovative and community-focused approach, Happy Stan's Recycling Services Ltd. exemplifies how enterprises can contribute to a more sustainable future, setting a benchmark for responsible waste management practices.</p>

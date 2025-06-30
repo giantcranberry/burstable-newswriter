@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523582/el-paso-tx-
 enclosure = "https://cdn.newsramp.app/banners/government-politics-2.jpg"
 article_id = 84619
 feed_item_id = 15334
-url = "/news/202506/84619-cheryl-s-davis-pc-a-pillar-of-support-in-texas-bankruptcy-law"
+url = "/202506/84619-cheryl-s-davis-pc-a-pillar-of-support-in-texas-bankruptcy-law"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/7/zerolBR2.webp"
 source = "24-7 Press Release"
 +++

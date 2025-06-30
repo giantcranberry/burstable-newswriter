@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/518625/windes-offe
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 86083
 feed_item_id = 11192
-url = "/news/202502/86083-navigating-the-complexities-of-accounting-software-selection-for-professional-service-firms"
+url = "/202502/86083-navigating-the-complexities-of-accounting-software-selection-for-professional-service-firms"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/27/hushyCxG.webp"
 source = "24-7 Press Release"
 +++

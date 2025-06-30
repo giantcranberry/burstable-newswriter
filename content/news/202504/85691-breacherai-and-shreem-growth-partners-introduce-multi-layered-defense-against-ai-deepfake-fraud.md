@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521393/breacherai-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85691
 feed_item_id = 12487
-url = "/news/202504/85691-breacherai-and-shreem-growth-partners-introduce-multi-layered-defense-against-ai-deepfake-fraud"
+url = "/202504/85691-breacherai-and-shreem-growth-partners-introduce-multi-layered-defense-against-ai-deepfake-fraud"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/rubyV7SW.webp"
 source = "24-7 Press Release"
 +++

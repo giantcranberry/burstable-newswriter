@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/u-s-silicon-metal-producers-file-peti
 enclosure = "https://cdn.newsramp.app/banners/government-politics-2.jpg"
 article_id = 85472
 feed_item_id = 13410
-url = "/news/202504/85472-us-silicon-metal-producers-challenge-international-competitors-over-alleged-unfair-trade-practices"
+url = "/202504/85472-us-silicon-metal-producers-challenge-international-competitors-over-alleged-unfair-trade-practices"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/25/roam5oRo.webp"
 source = "News Direct"
 +++

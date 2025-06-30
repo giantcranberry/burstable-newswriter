@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702124/equinox-appoints-bindu-shah
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-2.jpg"
 article_id = 84224
 feed_item_id = 15048
-url = "/news/202506/84224-equinox-strengthens-leadership-with-appointment-of-bindu-shah-as-chief-marketing-and-digital-officer"
+url = "/202506/84224-equinox-strengthens-leadership-with-appointment-of-bindu-shah-as-chief-marketing-and-digital-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/ruby17qA.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/digital-learning-taking-off-ins
 enclosure = "https://cdn.newsramp.app/banners/human-resources-1.jpg"
 article_id = 85977
 feed_item_id = 11602
-url = "/news/202503/85977-digital-learning-platforms-revolutionize-enterprise-training-strategies"
+url = "/202503/85977-digital-learning-platforms-revolutionize-enterprise-training-strategies"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/4/mielDyH9.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://meridianbet.reportablenews.com/pr/meridianbet-gmgi-launch
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/7251e3da5cb07f53cab6e4fab6f41c60.png"
 article_id = 85679
 feed_item_id = 12523
-url = "/news/202504/85679-meridianbets-watch-bet-feature-set-to-revolutionize-live-sports-betting-experience"
+url = "/202504/85679-meridianbets-watch-bet-feature-set-to-revolutionize-live-sports-betting-experience"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/4/wolfXMsK.webp"
 source = "Reportable"
 +++

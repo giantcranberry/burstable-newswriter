@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-pr
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84195
 feed_item_id = 15134
-url = "/news/202506/84195-sekur-private-data-ltd-launches-government-and-diplomatic-corps-division-to-combat-cyber-threats"
+url = "/202506/84195-sekur-private-data-ltd-launches-government-and-diplomatic-corps-division-to-combat-cyber-threats"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/tilejPgI.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

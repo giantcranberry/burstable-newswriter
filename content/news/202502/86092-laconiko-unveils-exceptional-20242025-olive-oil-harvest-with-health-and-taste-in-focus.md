@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520101/laconikos-n
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-2.jpg"
 article_id = 86092
 feed_item_id = 11179
-url = "/news/202502/86092-laconiko-unveils-exceptional-20242025-olive-oil-harvest-with-health-and-taste-in-focus"
+url = "/202502/86092-laconiko-unveils-exceptional-20242025-olive-oil-harvest-with-health-and-taste-in-focus"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/26/wamcohyS.webp"
 source = "24-7 Press Release"
 +++

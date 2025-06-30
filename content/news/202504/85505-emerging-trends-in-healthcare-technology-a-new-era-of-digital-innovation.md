@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522130/norvell-jef
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85505
 feed_item_id = 13182
-url = "/news/202504/85505-emerging-trends-in-healthcare-technology-a-new-era-of-digital-innovation"
+url = "/202504/85505-emerging-trends-in-healthcare-technology-a-new-era-of-digital-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/24/larkOGYI.webp"
 source = "24-7 Press Release"
 +++

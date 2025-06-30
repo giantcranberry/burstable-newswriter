@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/ai-could-provide-redempt
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84814
 feed_item_id = 14560
-url = "/news/202505/84814-ai-emerges-as-a-beacon-of-hope-for-cryptocurrencys-future"
+url = "/202505/84814-ai-emerges-as-a-beacon-of-hope-for-cryptocurrencys-future"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/23/nora0L_J.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

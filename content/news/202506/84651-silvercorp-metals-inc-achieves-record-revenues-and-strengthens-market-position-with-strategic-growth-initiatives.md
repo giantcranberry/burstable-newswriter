@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/silvercorp-metals-inc-ny
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84651
 feed_item_id = 15271
-url = "/news/202506/84651-silvercorp-metals-inc-achieves-record-revenues-and-strengthens-market-position-with-strategic-growth-initiatives"
+url = "/202506/84651-silvercorp-metals-inc-achieves-record-revenues-and-strengthens-market-position-with-strategic-growth-initiatives"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/jokeCOWZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

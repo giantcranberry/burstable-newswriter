@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-solarb
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85484
 feed_item_id = 13248
-url = "/news/202504/85484-solarbank-corporation-amends-financial-statements-following-regulatory-review"
+url = "/202504/85484-solarbank-corporation-amends-financial-statements-following-regulatory-review"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/loss9HnV.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521954/2gmotors-ll
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85566
 feed_item_id = 12979
-url = "/news/202504/85566-2gmotors-llc-transforms-car-buying-with-innovative-online-platform"
+url = "/202504/85566-2gmotors-llc-transforms-car-buying-with-innovative-online-platform"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/18/icytpB3.webp"
 source = "24-7 Press Release"
 +++

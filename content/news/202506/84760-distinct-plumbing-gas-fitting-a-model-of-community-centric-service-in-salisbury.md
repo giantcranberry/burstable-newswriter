@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/reliable-plumber-in-salisbury-your-loc
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/46691b99abc414f8e9e9eba5f8b843c4.png"
 article_id = 84760
 feed_item_id = 14882
-url = "/news/202506/84760-distinct-plumbing-gas-fitting-a-model-of-community-centric-service-in-salisbury"
+url = "/202506/84760-distinct-plumbing-gas-fitting-a-model-of-community-centric-service-in-salisbury"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/lushpqrT.webp"
 source = "Press Services"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Royalty Management Holding Corporation Backs U.S. Executive Order to Bolster Critical Mineral Supply Chain"
+date = "2025-03-21T13:30:26Z"
+draft = false
+summary = "Royalty Management Holding Corporation supports a U.S. executive order aimed at enhancing the domestic critical mineral supply chain, aligning with its strategic investments in rare earth resources and mineral refinement technologies."
+description = "Royalty Management Holding Corporation applauds the President's Executive Order supporting critical minerals industry, highlighting strategic investments in rare earth resources. The company's CEO emphasizes the order's significance and its alignment with Royalty Management's portfolio holdings. This news underscores the importance of the critical mineral sector and the opportunities it presents for growth and value creation."
+source_link = "https://www.newmediawire.com/news/royalty-management-holding-corporation-applauds-critical-mineral-executive-order-signed-by-president-of-the-united-states-7080012"
+enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
+article_id = 90911
+feed_item_id = 12110
+url = "/202503/90911-royalty-management-holding-corporation-backs-us-executive-order-to-bolster-critical-mineral-supply-chain"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/21/jokehXyu.webp"
+source = "NewMediaWire"
++++
+
+<p>Royalty Management Holding Corporation (Nasdaq: RMCO) has publicly endorsed a recent executive order by the U.S. President designed to invigorate the domestic critical mineral supply chain. This endorsement underscores the company's strategic focus on critical minerals, rare earth resources, and advancements in mineral refinement technologies. CEO Thomas Sauve highlighted the executive order's alignment with the company's investment strategy, pointing to its potential to bolster national economic and technological interests by securing essential materials for modern technologies.</p><p>The company's investment portfolio is notably positioned to benefit from the executive order. Among its key assets, Advanced Magnet Labs stands out for its development of advanced permanent magnet technologies crucial for high-performance sectors such as aerospace and defense. Similarly, NeoRe's La Marigen ionic clay project, rich in rare earth elements like Terbium, Dysprosium, Praseodymium, and Neodymium, is set to gain from the heightened governmental focus on critical minerals.</p><p>Further enhancing its portfolio, ReElement Technologies Corp. introduces groundbreaking chromatography techniques for metal ore concentration and purification, offering both cost efficiency and environmental benefits. The inclusion of Ferrox Holdings and T.R. Mining & Equipment Ltd. in its investments further illustrates Royalty Management Holding Corporation's dedication to fostering diverse mineral resource development. Through its support of the executive order and its diversified investment approach, the company is cementing its role as a leader in the critical mineral sector and resource innovation.</p>

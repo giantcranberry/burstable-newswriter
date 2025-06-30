@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85121
 feed_item_id = 15328
-url = "/news/202506/85121-newton-golf-company-inc-innovates-with-physics-inspired-golf-equipment-amid-sports-resurgence"
+url = "/202506/85121-newton-golf-company-inc-innovates-with-physics-inspired-golf-equipment-amid-sports-resurgence"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/besttjBm.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/cfs-foundry-leading-investment-castin
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/0ca984ef53c52295414afa735e25f34f.jpg"
 article_id = 86079
 feed_item_id = 11195
-url = "/news/202502/86079-cfs-foundry-sets-new-standards-in-precision-manufacturing-with-sustainable-innovations"
+url = "/202502/86079-cfs-foundry-sets-new-standards-in-precision-manufacturing-with-sustainable-innovations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/27/coolpksB.webp"
 source = "News Direct"
 +++

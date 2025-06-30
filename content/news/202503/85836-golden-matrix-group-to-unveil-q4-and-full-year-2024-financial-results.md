@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-matrix-group-to-announce
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85836
 feed_item_id = 12047
-url = "/news/202503/85836-golden-matrix-group-to-unveil-q4-and-full-year-2024-financial-results"
+url = "/202503/85836-golden-matrix-group-to-unveil-q4-and-full-year-2024-financial-results"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/19/yarnlMkM.webp"
 source = "NewMediaWire"
 +++

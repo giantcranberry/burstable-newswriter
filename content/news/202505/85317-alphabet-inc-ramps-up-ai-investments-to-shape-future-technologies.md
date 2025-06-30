@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-alphabet-i
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85317
 feed_item_id = 13921
-url = "/news/202505/85317-alphabet-inc-ramps-up-ai-investments-to-shape-future-technologies"
+url = "/202505/85317-alphabet-inc-ramps-up-ai-investments-to-shape-future-technologies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/numbJTMf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506191540/new-life-coaching-practic
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/a66d87438652922bde6f53fa9224ba1b.png"
 article_id = 86103
 feed_item_id = 15902
-url = "/news/202506/86103-thrive-code-coaching-launches-innovative-approach-to-sobriety-for-women-using-agile-methodology"
+url = "/202506/86103-thrive-code-coaching-launches-innovative-approach-to-sobriety-for-women-using-agile-methodology"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/19/roamKm3K.webp"
 source = "Newsworthy.ai"
 +++

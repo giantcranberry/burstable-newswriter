@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524106/mike-fallat
 enclosure = "https://cdn.newsramp.app/genai/images/256/22/16d1a528232d1d87fa320933fa52f1b7.png"
 article_id = 87638
 feed_item_id = 15982
-url = "/news/202506/87638-dreamstarters-publishing-academy-launches-to-empower-entrepreneurs-with-bestselling-book-strategies"
+url = "/202506/87638-dreamstarters-publishing-academy-launches-to-empower-entrepreneurs-with-bestselling-book-strategies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/22/isle6xVo.webp"
 source = "24-7 Press Release"
 +++

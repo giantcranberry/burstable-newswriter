@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solar-power-leads-invest
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84101
 feed_item_id = 15424
-url = "/news/202506/84101-global-clean-energy-investments-to-hit-33-trillion-by-2025-signaling-a-major-shift-towards-sustainability"
+url = "/202506/84101-global-clean-energy-investments-to-hit-33-trillion-by-2025-signaling-a-major-shift-towards-sustainability"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/xenoXvFE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

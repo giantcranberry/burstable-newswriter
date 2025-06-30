@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/spain-debuts-quantum-com
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85332
 feed_item_id = 13877
-url = "/news/202505/85332-spains-quantum-leap-barcelona-supercomputing-center-unveils-nations-first-quantum-computer"
+url = "/202505/85332-spains-quantum-leap-barcelona-supercomputing-center-unveils-nations-first-quantum-computer"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/wamczyex.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

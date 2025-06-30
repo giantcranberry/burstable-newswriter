@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-bioada
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
 article_id = 84787
 feed_item_id = 14701
-url = "/news/202505/84787-bioadaptives-incs-regen-dog-chews-show-promising-results-in-enhancing-canine-health-through-stem-cell-stimulation"
+url = "/202505/84787-bioadaptives-incs-regen-dog-chews-show-promising-results-in-enhancing-canine-health-through-stem-cell-stimulation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/filejVEV.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

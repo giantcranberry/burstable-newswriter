@@ -8,7 +8,7 @@ source_link = "https://bradvisors.reportablenews.com/pr/boston-realty-advisors-r
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/6efd4d2f5b7a77baedbdde2e2ae89d2e.jpg"
 article_id = 85725
 feed_item_id = 12400
-url = "/news/202504/85725-south-boston-commercial-property-sells-for-159-million-highlighting-urban-real-estate-appeal"
+url = "/202504/85725-south-boston-commercial-property-sells-for-159-million-highlighting-urban-real-estate-appeal"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/1/mint7gdK.webp"
 source = "Reportable"
 +++

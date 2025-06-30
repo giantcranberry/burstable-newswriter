@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-next10
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 87680
 feed_item_id = 15365
-url = "/news/202506/87680-next10-inc-acquires-torreon-group-to-expand-real-estate-and-commercial-portfolio"
+url = "/202506/87680-next10-inc-acquires-torreon-group-to-expand-real-estate-and-commercial-portfolio"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/rend7L86.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/forian-inc-to-announce-first-qu
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85341
 feed_item_id = 13849
-url = "/news/202505/85341-forian-inc-to-unveil-q1-2025-financial-results-showcasing-growth-post-kyber-acquisition"
+url = "/202505/85341-forian-inc-to-unveil-q1-2025-financial-results-showcasing-growth-post-kyber-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/6/jadeAi2k.webp"
 source = "NewMediaWire"
 +++

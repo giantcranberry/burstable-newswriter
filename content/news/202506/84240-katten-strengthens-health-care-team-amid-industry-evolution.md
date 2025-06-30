@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701923/anthony-del-rio-and-kate-ha
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
 article_id = 84240
 feed_item_id = 15003
-url = "/news/202506/84240-katten-strengthens-health-care-team-amid-industry-evolution"
+url = "/202506/84240-katten-strengthens-health-care-team-amid-industry-evolution"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/urgeVPWK.webp"
 source = "citybiz"
 +++

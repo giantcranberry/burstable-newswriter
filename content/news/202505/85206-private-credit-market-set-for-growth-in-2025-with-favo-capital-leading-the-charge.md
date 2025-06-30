@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/favo-capital-inc-favo-del
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85206
 feed_item_id = 14421
-url = "/news/202505/85206-private-credit-market-set-for-growth-in-2025-with-favo-capital-leading-the-charge"
+url = "/202505/85206-private-credit-market-set-for-growth-in-2025-with-favo-capital-leading-the-charge"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/rushCV4j.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

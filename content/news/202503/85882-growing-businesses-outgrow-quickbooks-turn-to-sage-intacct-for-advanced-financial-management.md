@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520528/the-quickbo
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85882
 feed_item_id = 11870
-url = "/news/202503/85882-growing-businesses-outgrow-quickbooks-turn-to-sage-intacct-for-advanced-financial-management"
+url = "/202503/85882-growing-businesses-outgrow-quickbooks-turn-to-sage-intacct-for-advanced-financial-management"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/13/coolCsf2.webp"
 source = "24-7 Press Release"
 +++

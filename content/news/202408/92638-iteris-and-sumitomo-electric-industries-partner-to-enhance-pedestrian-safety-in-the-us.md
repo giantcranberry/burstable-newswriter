@@ -1,0 +1,16 @@
++++
+title = "Iteris and Sumitomo Electric Industries Partner to Enhance Pedestrian Safety in the U.S."
+date = "2024-08-07T12:30:12Z"
+draft = false
+summary = "Iteris Inc. collaborates with Sumitomo Electric Industries to introduce advanced pedestrian detection technology in the U.S., aiming to reduce pedestrian fatalities and improve mobility management."
+description = "Iteris Inc. and Sumitomo Electric Industries join forces to introduce an advanced pedestrian safety solution, aiming to reduce fatalities and enhance pedestrian safety in North America. This collaboration aligns with the Vision Zero initiative and addresses transportation equity to eliminate traffic fatalities and serious injuries."
+source_link = "https://newsdirect.com/news/iteris-and-sumitomo-electric-introduce-advanced-pedestrian-safety-solution-to-reduce-fatalities-in-north-america-512374998"
+enclosure = "https://public.newsdirect.com/512374998/at1ZxNp9.png"
+article_id = 92638
+feed_item_id = 5550
+url = "/202408/92638-iteris-and-sumitomo-electric-industries-partner-to-enhance-pedestrian-safety-in-the-us"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/248/7/camcPF4M.webp"
+source = "News Direct"
++++
+
+<p>Iteris Inc. (NASDAQ: ITI) has entered into an exclusive agreement with Sumitomo Electric Industries (SEI) to introduce SEI's advanced Pedestrian Detection sensor to the U.S. market, a move aimed at tackling the escalating pedestrian fatality rates in the country. Announced on June 11, this partnership seeks to merge SEI's innovative radar technology with Iteris' ClearMobility Platform, enhancing pedestrian safety and mobility management across North America.</p><p>The Sumitomo Pedestrian Detection sensor, leveraging 24 GHz millimeter-wave radar technology, has been effective in Japan since 2017, operating efficiently in all weather and lighting conditions. Its unique algorithms allow for tracking pedestrians even when hidden by other vehicles, making it versatile for various road configurations. Iteris intends to integrate this technology into its Vantage PedSafe solution, which is tailored to safeguard vulnerable road users by monitoring pedestrian movements and optimizing traffic signals.</p><p>This initiative is timely, as the U.S. witnessed 7,508 pedestrian deaths in 2022, the highest in four decades, with 76% occurring in dark conditions and fatalities nearly doubling in lower-income areas. The collaboration focuses on enhancing transportation equity in underserved communities, where pedestrian safety is a pressing concern.</p><p>By incorporating SEI's sensor technology, Iteris aims to bolster its capability to monitor and optimize mobility infrastructure, potentially saving thousands of lives annually, especially in disadvantaged areas. This partnership underscores Iteris' dedication to fostering safer environments and aligns with the Vision Zero initiative's goal to eradicate traffic fatalities and severe injuries.</p><p>The integration of this pedestrian safety solution marks a pivotal advancement in road safety, offering the promise of more equitable transportation systems throughout North America by addressing the unique challenges pedestrians face, particularly in low-light conditions and underserved regions.</p>

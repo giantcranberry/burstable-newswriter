@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/vbox-to-showcase-advanced-atsc-3-0-br
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85837
 feed_item_id = 12046
-url = "/news/202503/85837-vbox-communications-to-showcase-revolutionary-atsc-30-technologies-at-nab-show-2025"
+url = "/202503/85837-vbox-communications-to-showcase-revolutionary-atsc-30-technologies-at-nab-show-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/19/vastcsb8.webp"
 source = "News Direct"
 +++

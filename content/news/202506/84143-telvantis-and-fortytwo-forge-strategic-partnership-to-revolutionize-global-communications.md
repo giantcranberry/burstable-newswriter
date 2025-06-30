@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/raadr-doing-business-as-telvant
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84143
 feed_item_id = 15291
-url = "/news/202506/84143-telvantis-and-fortytwo-forge-strategic-partnership-to-revolutionize-global-communications"
+url = "/202506/84143-telvantis-and-fortytwo-forge-strategic-partnership-to-revolutionize-global-communications"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/6/moonauQw.webp"
 source = "NewMediaWire"
 +++

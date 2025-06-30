@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-knight
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85246
 feed_item_id = 14169
-url = "/news/202505/85246-knightscope-reports-strong-q1-2025-financial-results-with-significant-revenue-growth-and-operational-improvements"
+url = "/202505/85246-knightscope-reports-strong-q1-2025-financial-results-with-significant-revenue-growth-and-operational-improvements"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/14/gulfoAXX.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

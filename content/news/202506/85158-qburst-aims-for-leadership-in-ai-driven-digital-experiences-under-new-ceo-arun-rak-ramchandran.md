@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/698881/qa-with-arun-rak-ramchandra
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85158
 feed_item_id = 14868
-url = "/news/202506/85158-qburst-aims-for-leadership-in-ai-driven-digital-experiences-under-new-ceo-arun-rak-ramchandran"
+url = "/202506/85158-qburst-aims-for-leadership-in-ai-driven-digital-experiences-under-new-ceo-arun-rak-ramchandran"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/2/quayVkAK.webp"
 source = "citybiz"
 +++

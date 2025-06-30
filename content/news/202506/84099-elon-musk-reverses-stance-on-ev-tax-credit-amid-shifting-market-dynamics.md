@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/why-tesla-musk-are-switc
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84099
 feed_item_id = 15422
-url = "/news/202506/84099-elon-musk-reverses-stance-on-ev-tax-credit-amid-shifting-market-dynamics"
+url = "/202506/84099-elon-musk-reverses-stance-on-ev-tax-credit-amid-shifting-market-dynamics"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/note2TYe.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

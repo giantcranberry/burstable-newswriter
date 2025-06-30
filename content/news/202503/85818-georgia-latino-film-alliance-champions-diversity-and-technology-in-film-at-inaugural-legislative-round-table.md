@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/inaugural-galfa-reel-talk/"
 enclosure = "https://cdn.newsramp.app/noticias-newswire/newsimage/27d9d9e4d1ec0ca83d9aec95d84cf63e.jpg"
 article_id = 85818
 feed_item_id = 12115
-url = "/news/202503/85818-georgia-latino-film-alliance-champions-diversity-and-technology-in-film-at-inaugural-legislative-round-table"
+url = "/202503/85818-georgia-latino-film-alliance-champions-diversity-and-technology-in-film-at-inaugural-legislative-round-table"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/253/21/quipT3we.webp"
 source = "Noticias Newswire"
 +++

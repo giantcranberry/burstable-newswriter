@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701823/macquarie-capital-names-sea
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85149
 feed_item_id = 14995
-url = "/news/202506/85149-macquarie-capital-strengthens-digital-infrastructure-advisory-with-sean-yajnik-at-the-helm-in-the-americas"
+url = "/202506/85149-macquarie-capital-strengthens-digital-infrastructure-advisory-with-sean-yajnik-at-the-helm-in-the-americas"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/harpNBhM.webp"
 source = "citybiz"
 +++

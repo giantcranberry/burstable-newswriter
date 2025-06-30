@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-p
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85252
 feed_item_id = 14159
-url = "/news/202505/85252-skyx-platforms-corp-secures-4-million-in-strategic-investment-to-advance-smart-home-technologies"
+url = "/202505/85252-skyx-platforms-corp-secures-4-million-in-strategic-investment-to-advance-smart-home-technologies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/14/openxH9b.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

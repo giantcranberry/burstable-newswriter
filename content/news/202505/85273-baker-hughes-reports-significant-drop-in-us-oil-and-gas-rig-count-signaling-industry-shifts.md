@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/baker-hughes-says-oil-ga
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85273
 feed_item_id = 14058
-url = "/news/202505/85273-baker-hughes-reports-significant-drop-in-us-oil-and-gas-rig-count-signaling-industry-shifts"
+url = "/202505/85273-baker-hughes-reports-significant-drop-in-us-oil-and-gas-rig-count-signaling-industry-shifts"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/knotId5M.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702375/kensington-vanguard-appoint
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84209
 feed_item_id = 15095
-url = "/news/202506/84209-kensington-vanguard-strengthens-midwest-presence-with-new-leadership-appointment"
+url = "/202506/84209-kensington-vanguard-strengthens-midwest-presence-with-new-leadership-appointment"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/calmkIHK.webp"
 source = "citybiz"
 +++

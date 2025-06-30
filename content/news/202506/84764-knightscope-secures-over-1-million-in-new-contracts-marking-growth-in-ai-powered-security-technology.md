@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-knight
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84764
 feed_item_id = 14853
-url = "/news/202506/84764-knightscope-secures-over-1-million-in-new-contracts-marking-growth-in-ai-powered-security-technology"
+url = "/202506/84764-knightscope-secures-over-1-million-in-new-contracts-marking-growth-in-ai-powered-security-technology"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/calmJU1a.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

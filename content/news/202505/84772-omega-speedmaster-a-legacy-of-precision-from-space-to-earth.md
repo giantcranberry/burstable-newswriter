@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523320/ron-gordon-
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 84772
 feed_item_id = 14786
-url = "/news/202505/84772-omega-speedmaster-a-legacy-of-precision-from-space-to-earth"
+url = "/202505/84772-omega-speedmaster-a-legacy-of-precision-from-space-to-earth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/loftIchX.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-adageis-ai
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85308
 feed_item_id = 13945
-url = "/news/202505/85308-adageis-launches-ai-powered-platform-to-revolutionize-healthcare-financial-operations"
+url = "/202505/85308-adageis-launches-ai-powered-platform-to-revolutionize-healthcare-financial-operations"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/ninaWQdH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

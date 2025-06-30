@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521145/a-review-of
 enclosure = "https://cdn.newsramp.app/banners/science-3.jpg"
 article_id = 85750
 feed_item_id = 12326
-url = "/news/202503/85750-ai-and-multi-omics-technologies-revolutionize-pharmaceutical-research"
+url = "/202503/85750-ai-and-multi-omics-technologies-revolutionize-pharmaceutical-research"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/29/echowVhh.webp"
 source = "24-7 Press Release"
 +++

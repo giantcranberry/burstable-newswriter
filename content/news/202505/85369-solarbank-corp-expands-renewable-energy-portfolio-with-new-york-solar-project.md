@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85369
 feed_item_id = 13756
-url = "/news/202505/85369-solarbank-corp-expands-renewable-energy-portfolio-with-new-york-solar-project"
+url = "/202505/85369-solarbank-corp-expands-renewable-energy-portfolio-with-new-york-solar-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/bestZX31.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

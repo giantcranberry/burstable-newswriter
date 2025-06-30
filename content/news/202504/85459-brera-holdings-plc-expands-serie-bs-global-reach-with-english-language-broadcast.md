@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/brera-holdings-plc-nasdaq
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85459
 feed_item_id = 13448
-url = "/news/202504/85459-brera-holdings-plc-expands-serie-bs-global-reach-with-english-language-broadcast"
+url = "/202504/85459-brera-holdings-plc-expands-serie-bs-global-reach-with-english-language-broadcast"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/icy3Vgu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

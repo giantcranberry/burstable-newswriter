@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521800/renowned-de
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-1.jpg"
 article_id = 85616
 feed_item_id = 12740
-url = "/news/202504/85616-nicole-englands-art-in-residence-redefines-the-intersection-of-art-and-residential-design"
+url = "/202504/85616-nicole-englands-art-in-residence-redefines-the-intersection-of-art-and-residential-design"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/14/mendUfFF.webp"
 source = "24-7 Press Release"
 +++

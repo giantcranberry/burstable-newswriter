@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/dr-doug-milburn-of-protocase-an
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 85428
 feed_item_id = 13583
-url = "/news/202504/85428-canada-aims-for-sovereign-space-launch-capabilities-at-inaugural-conference"
+url = "/202504/85428-canada-aims-for-sovereign-space-launch-capabilities-at-inaugural-conference"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/29/chef7cPx.webp"
 source = "NewMediaWire"
 +++

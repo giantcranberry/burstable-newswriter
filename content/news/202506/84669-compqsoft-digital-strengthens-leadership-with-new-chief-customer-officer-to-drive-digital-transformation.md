@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703118/andrew-jeffers-joins-compqs
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84669
 feed_item_id = 15223
-url = "/news/202506/84669-compqsoft-digital-strengthens-leadership-with-new-chief-customer-officer-to-drive-digital-transformation"
+url = "/202506/84669-compqsoft-digital-strengthens-leadership-with-new-chief-customer-officer-to-drive-digital-transformation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/quayGixa.webp"
 source = "citybiz"
 +++

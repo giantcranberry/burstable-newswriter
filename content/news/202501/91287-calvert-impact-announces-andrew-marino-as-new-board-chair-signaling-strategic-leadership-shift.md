@@ -1,0 +1,16 @@
++++
+title = "Calvert Impact Announces Andrew Marino as New Board Chair, Signaling Strategic Leadership Shift"
+date = "2025-01-21T15:40:08Z"
+draft = false
+summary = "Andrew Marino's appointment as Calvert Impact's new board chair marks a pivotal leadership transition, emphasizing the nonprofit's focus on impact and climate-oriented investing."
+description = "Calvert Impact appoints Andrew Marino as new chairman, succeeding Bart Harvey. Marino's appointment signals a new phase of growth and strategic planning for the organization, while honoring Harvey's impactful leadership over the past decade."
+source_link = "https://www.24-7pressrelease.com/press-release/518626/calvert-impact-names-andrew-marino-as-new-board-chair"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 91287
+feed_item_id = 10225
+url = "/202501/91287-calvert-impact-announces-andrew-marino-as-new-board-chair-signaling-strategic-leadership-shift"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/251/21/tintJKWL.webp"
+source = "24-7 Press Release"
++++
+
+<p>Calvert Impact, a global nonprofit investment firm, has announced Andrew Marino as its new board chair, effective January 1. Marino, a partner at Summa Equity, takes over from Bart Harvey, who has served as board chair for the past decade. This leadership change underscores Calvert Impact's commitment to advancing its mission through strategic governance and expertise in impact investing.</p><p>Marino's extensive experience in private market investment and corporate governance, particularly in impact and climate-oriented sectors, positions him as a key figure in Calvert Impact's future. At Summa Equity, he leads North American operations and serves on the board of Climate United, aligning with Calvert Impact's environmental and social goals. CEO Jennifer Pryce emphasized the strategic value Marino's appointment brings, especially as the organization crafts its new strategic plan.</p><p>Bart Harvey's tenure as board chair was marked by significant achievements, including his role in the creation of the Low-Income Housing Tax Credit and the launch of the Green Communities initiative. Under his leadership, Calvert Impact saw substantial growth and innovation in its approach to mobilizing capital for social and environmental impact.</p><p>Over the past 30 years, Calvert Impact has deployed more than $5 billion through various investment products and partnerships, such as the Community Investment Note®, Cut Carbon Note®, and the Access Small Business Program. These initiatives reflect the organization's dedication to supporting solutions that benefit both people and the planet.</p><p>The transition to Marino's leadership represents a strategic inflection point for Calvert Impact, as it seeks to further its mission in a rapidly evolving investment landscape. His expertise in impact and climate-oriented investing is expected to guide the organization through its next phase of growth, reinforcing its role as a leader in mobilizing capital for meaningful change.</p>

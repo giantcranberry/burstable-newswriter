@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/c70abdc982c937380352364cb8b6d81e.jpg"
 article_id = 85736
 feed_item_id = 12359
-url = "/news/202503/85736-lavras-gold-corp-advances-gold-exploration-in-brazil-with-promising-discoveries-and-strong-financial-backing"
+url = "/202503/85736-lavras-gold-corp-advances-gold-exploration-in-brazil-with-promising-discoveries-and-strong-financial-backing"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/31/noteFZzI.webp"
 source = "Reportable"
 +++

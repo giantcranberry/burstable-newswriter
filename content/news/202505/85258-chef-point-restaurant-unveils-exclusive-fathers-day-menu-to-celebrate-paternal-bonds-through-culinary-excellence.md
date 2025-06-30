@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522766/chef-point-
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-2.jpg"
 article_id = 85258
 feed_item_id = 14135
-url = "/news/202505/85258-chef-point-restaurant-unveils-exclusive-fathers-day-menu-to-celebrate-paternal-bonds-through-culinary-excellence"
+url = "/202505/85258-chef-point-restaurant-unveils-exclusive-fathers-day-menu-to-celebrate-paternal-bonds-through-culinary-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/14/clubMit3.webp"
 source = "24-7 Press Release"
 +++

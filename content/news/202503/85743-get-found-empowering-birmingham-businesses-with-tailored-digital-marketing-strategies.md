@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/maximize-your-online-visibility-with-t
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/9d6bea668385e254fce79ce9999d7814.jpg"
 article_id = 85743
 feed_item_id = 12340
-url = "/news/202503/85743-get-found-empowering-birmingham-businesses-with-tailored-digital-marketing-strategies"
+url = "/202503/85743-get-found-empowering-birmingham-businesses-with-tailored-digital-marketing-strategies"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/31/filoE7Gr.webp"
 source = "Press Services"
 +++

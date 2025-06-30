@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-scheduled-to-begin-addition
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f378ffe57d1888f51c7dad0f29f5e50f.jpg"
 article_id = 85391
 feed_item_id = 13692
-url = "/news/202505/85391-ugi-utilities-announces-major-gas-main-replacement-projects-in-allentown-to-enhance-safety-and-reliability"
+url = "/202505/85391-ugi-utilities-announces-major-gas-main-replacement-projects-in-allentown-to-enhance-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/1/caketHmA.webp"
 source = "Reportable"
 +++

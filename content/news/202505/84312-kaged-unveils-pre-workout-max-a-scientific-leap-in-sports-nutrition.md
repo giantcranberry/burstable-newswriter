@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523301/kaged-launc
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-3.jpg"
 article_id = 84312
 feed_item_id = 14780
-url = "/news/202505/84312-kaged-unveils-pre-workout-max-a-scientific-leap-in-sports-nutrition"
+url = "/202505/84312-kaged-unveils-pre-workout-max-a-scientific-leap-in-sports-nutrition"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/hikeYOyc.webp"
 source = "24-7 Press Release"
 +++

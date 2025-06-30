@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522103/american-ar
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-2.jpg"
 article_id = 85508
 feed_item_id = 13171
-url = "/news/202504/85508-american-art-collective-podcast-celebrates-325-episodes-of-bridging-art-worlds"
+url = "/202504/85508-american-art-collective-podcast-celebrates-325-episodes-of-bridging-art-worlds"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/24/gulfYtVF.webp"
 source = "24-7 Press Release"
 +++

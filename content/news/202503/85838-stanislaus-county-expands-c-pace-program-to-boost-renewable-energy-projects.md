@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/aemetis-plans-130-million-fundi
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85838
 feed_item_id = 12044
-url = "/news/202503/85838-stanislaus-county-expands-c-pace-program-to-boost-renewable-energy-projects"
+url = "/202503/85838-stanislaus-county-expands-c-pace-program-to-boost-renewable-energy-projects"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/19/chef994w.webp"
 source = "NewMediaWire"
 +++

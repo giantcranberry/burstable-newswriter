@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/the-new-industrial-frontier-on-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85519
 feed_item_id = 13137
-url = "/news/202504/85519-ascent-solar-technologies-pioneers-space-based-manufacturing-for-next-generation-solar-panels"
+url = "/202504/85519-ascent-solar-technologies-pioneers-space-based-manufacturing-for-next-generation-solar-panels"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/23/bestDmg8.webp"
 source = "NewMediaWire"
 +++

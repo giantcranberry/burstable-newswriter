@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522785/punyam-acad
 enclosure = "https://cdn.newsramp.app/banners/education-2.jpg"
 article_id = 84913
 feed_item_id = 14199
-url = "/news/202505/84913-punyam-academy-launches-api-spec-q1-internal-auditor-training-for-energy-sector-professionals"
+url = "/202505/84913-punyam-academy-launches-api-spec-q1-internal-auditor-training-for-energy-sector-professionals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/goldk_Yb.webp"
 source = "24-7 Press Release"
 +++

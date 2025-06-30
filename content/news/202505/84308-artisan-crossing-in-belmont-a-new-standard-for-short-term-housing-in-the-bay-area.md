@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523324/key-housing
 enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
 article_id = 84308
 feed_item_id = 14789
-url = "/news/202505/84308-artisan-crossing-in-belmont-a-new-standard-for-short-term-housing-in-the-bay-area"
+url = "/202505/84308-artisan-crossing-in-belmont-a-new-standard-for-short-term-housing-in-the-bay-area"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/beanEfMk.webp"
 source = "24-7 Press Release"
 +++

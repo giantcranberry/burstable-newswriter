@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522432/veritas-glo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85379
 feed_item_id = 13729
-url = "/news/202505/85379-veritas-global-protection-expands-luxury-vehicle-coverage-across-north-america"
+url = "/202505/85379-veritas-global-protection-expands-luxury-vehicle-coverage-across-north-america"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/2/navyJjwb.webp"
 source = "24-7 Press Release"
 +++

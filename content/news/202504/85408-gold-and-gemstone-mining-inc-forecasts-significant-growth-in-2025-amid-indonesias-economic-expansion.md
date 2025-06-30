@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/gold-and-gemstone-mining-inc-hi
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85408
 feed_item_id = 13639
-url = "/news/202504/85408-gold-and-gemstone-mining-inc-forecasts-significant-growth-in-2025-amid-indonesias-economic-expansion"
+url = "/202504/85408-gold-and-gemstone-mining-inc-forecasts-significant-growth-in-2025-amid-indonesias-economic-expansion"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/30/plumP7OO.webp"
 source = "NewMediaWire"
 +++

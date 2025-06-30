@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522795/kendall-hun
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85233
 feed_item_id = 14205
-url = "/news/202505/85233-kendall-hunt-and-great-river-learning-join-openstax-technology-partners-program-to-enhance-educational-resources"
+url = "/202505/85233-kendall-hunt-and-great-river-learning-join-openstax-technology-partners-program-to-enhance-educational-resources"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/vastYcos.webp"
 source = "24-7 Press Release"
 +++

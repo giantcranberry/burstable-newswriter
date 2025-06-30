@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/japanese-cosmetic-industry-lead
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85629
 feed_item_id = 12691
-url = "/news/202504/85629-sbc-medical-group-holdings-inc-reports-strong-financial-growth-and-strategic-expansion-in-2024"
+url = "/202504/85629-sbc-medical-group-holdings-inc-reports-strong-financial-growth-and-strategic-expansion-in-2024"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/11/rubyUI9X.webp"
 source = "NewMediaWire"
 +++

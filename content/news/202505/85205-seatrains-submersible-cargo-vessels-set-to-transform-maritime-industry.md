@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/seatrain-technology-launched-at-natio
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/610ff9b076fcc6d59eb76f5ef6ea2a6a.png"
 article_id = 85205
 feed_item_id = 14426
-url = "/news/202505/85205-seatrains-submersible-cargo-vessels-set-to-transform-maritime-industry"
+url = "/202505/85205-seatrains-submersible-cargo-vessels-set-to-transform-maritime-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/21/mailPt1Y.webp"
 source = "News Direct"
 +++

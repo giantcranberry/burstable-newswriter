@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522143/woodbridge-
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 85506
 feed_item_id = 13176
-url = "/news/202504/85506-woodbridge-pacific-group-innovates-home-ownership-with-customizable-designs-and-strategic-community-planning"
+url = "/202504/85506-woodbridge-pacific-group-innovates-home-ownership-with-customizable-designs-and-strategic-community-planning"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/24/vastoA_C.webp"
 source = "24-7 Press Release"
 +++

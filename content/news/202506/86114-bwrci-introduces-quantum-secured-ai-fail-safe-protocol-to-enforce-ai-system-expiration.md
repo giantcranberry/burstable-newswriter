@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523975/bwrci-unvei
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/dd7bad5951870e0d8a48c449c3fbca54.png"
 article_id = 86114
 feed_item_id = 15829
-url = "/news/202506/86114-bwrci-introduces-quantum-secured-ai-fail-safe-protocol-to-enforce-ai-system-expiration"
+url = "/202506/86114-bwrci-introduces-quantum-secured-ai-fail-safe-protocol-to-enforce-ai-system-expiration"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/ella7WdZ.webp"
 source = "24-7 Press Release"
 +++

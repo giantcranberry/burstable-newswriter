@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/shopify-introduces-ai-up
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84770
 feed_item_id = 14803
-url = "/news/202505/84770-shopify-unveils-ai-driven-tools-to-democratize-e-commerce-for-entrepreneurs"
+url = "/202505/84770-shopify-unveils-ai-driven-tools-to-democratize-e-commerce-for-entrepreneurs"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/maskubWz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

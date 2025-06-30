@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/bruce-a-watterson-joins-peapack
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85148
 feed_item_id = 15009
-url = "/news/202506/85148-bruce-a-watterson-joins-peapack-private-bank-trust-as-senior-managing-director"
+url = "/202506/85148-bruce-a-watterson-joins-peapack-private-bank-trust-as-senior-managing-director"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/3/kiwiwNtO.webp"
 source = "NewMediaWire"
 +++

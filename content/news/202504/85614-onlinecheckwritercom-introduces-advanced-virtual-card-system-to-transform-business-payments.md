@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521770/virtual-car
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85614
 feed_item_id = 12751
-url = "/news/202504/85614-onlinecheckwritercom-introduces-advanced-virtual-card-system-to-transform-business-payments"
+url = "/202504/85614-onlinecheckwritercom-introduces-advanced-virtual-card-system-to-transform-business-payments"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/15/glowEamE.webp"
 source = "24-7 Press Release"
 +++

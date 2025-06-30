@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522609/the-salem-l
 enclosure = "https://cdn.newsramp.app/banners/religion-spirituality-2.jpg"
 article_id = 85311
 feed_item_id = 13941
-url = "/news/202505/85311-barbara-szafranski-a-lifetime-of-spiritual-guidance-and-the-power-of-energetic-awareness"
+url = "/202505/85311-barbara-szafranski-a-lifetime-of-spiritual-guidance-and-the-power-of-energetic-awareness"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/8/yawnF3b5.webp"
 source = "24-7 Press Release"
 +++

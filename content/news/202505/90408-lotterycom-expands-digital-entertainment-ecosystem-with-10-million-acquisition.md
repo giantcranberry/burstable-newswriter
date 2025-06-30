@@ -1,0 +1,16 @@
++++
+title = "Lottery.com Expands Digital Entertainment Ecosystem with $10 Million Acquisition"
+date = "2025-05-29T13:45:10Z"
+draft = false
+summary = "Lottery.com Inc. enhances its digital entertainment portfolio by acquiring a majority stake in DotCom Ventures Inc., aiming to capitalize on the booming live events market."
+description = "Lottery.com expands its platform by acquiring DotCom Ventures Inc., signaling a move into concerts and niche live events. The company's strategic acquisition aims to capitalize on the growing global live events market and enhance brand visibility through key sponsorships and partnerships."
+source_link = "https://www.newmediawire.com/news/lottery-com-expands-into-concerts-and-niche-live-events-with-dotcom-ventures-acquisition-7080803"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 90408
+feed_item_id = 14732
+url = "/202505/90408-lotterycom-expands-digital-entertainment-ecosystem-with-10-million-acquisition"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/29/ellaj0p_.webp"
+source = "NewMediaWire"
++++
+
+<p>Lottery.com Inc. (NASDAQ: LTRY) has announced a strategic $10 million acquisition of a majority stake in DotCom Ventures Inc., the owner of Concerts.com and TicketStub.com. This acquisition marks a significant step in Lottery.com's strategy to diversify its digital entertainment offerings, integrating content, commerce, and live experiences into a unified platform.</p><p>The newly acquired platforms, Concerts.com and TicketStub.com, are well-established in the online ticket sales space, offering verified tickets without hidden fees. TicketStub.com, in particular, caters to a variety of alternative entertainment verticals such as festivals, comedy shows, esports, and niche lifestyle events, thereby broadening Lottery.com's appeal to a wider audience.</p><p>Lottery.com intends to integrate these platforms into its existing Sports.com infrastructure, creating a one-stop destination for discovering and purchasing tickets to live events. This move is strategically timed to leverage the projected growth of the global live events market, which is expected to reach $1.2 trillion by 2032, growing at a compound annual growth rate of 5.9%.</p><p>This acquisition is part of Lottery.com's broader brand expansion strategy, which includes high-profile sponsorships and partnerships. Notably, the company increased its visibility by sponsoring race car driver Louis Foster during the 2025 Indianapolis 500 and served as a title sponsor at Soccerex Europe 2025. Additionally, the appointment of Dennis Wise, a celebrated English football player, as an ambassador underscores the company's commitment to enhancing its sports media and fan interaction offerings.</p><p>By adding Concerts.com and TicketStub.com to its portfolio, Lottery.com is solidifying its position as a comprehensive live entertainment platform, controlling what it describes as three category-defining digital assets across lottery, sports, and live events. This strategic expansion not only diversifies Lottery.com's revenue streams but also positions the company to better serve the evolving needs of the global entertainment market.</p>

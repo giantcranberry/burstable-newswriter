@@ -1,0 +1,16 @@
++++
+title = "Sekur Private Data Ltd. Partners with Stockhouse to Boost North American Market Presence"
+date = "2025-04-24T14:35:07Z"
+draft = false
+summary = "Sekur Private Data Ltd. announces a strategic partnership with Stockhouse and a CA$420,000 private placement to enhance its market visibility and attract North American small-cap investors, marking a significant step in its expansion strategy."
+description = "Sekur Private Data partners with Stockhouse to enhance market awareness and launches a private placement to support marketing efforts and operations. The collaboration aims to introduce new solutions and boost visibility, signaling growth opportunities and attracting potential investors."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-private-data-ltd-cse-skur-otcqx-swisf-fse-gdt0-launches-stockhouse-campaign-announces-ca420k-private-placement/"
+enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
+article_id = 90567
+feed_item_id = 13209
+url = "/202504/90567-sekur-private-data-ltd-partners-with-stockhouse-to-boost-north-american-market-presence"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/poem3LK4.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Sekur Private Data Ltd., a Swiss-hosted cybersecurity and private communications platform, has entered into a strategic partnership with Stockhouse, Canada's premier financial portal, aiming to amplify its market awareness and draw the attention of North American small-cap investors. This collaboration is part of Sekur's broader strategy to establish a stronger foothold in the North American market.</p><p>In conjunction with this partnership, Sekur has announced a CA$420,000 non-brokered private placement. This financial maneuver involves convertible units offering a 15% annual interest rate and warrants priced at CA$0.20. The proceeds from this initiative are earmarked for bolstering the company's U.S. marketing campaigns and supplementing its general working capital, underscoring Sekur's commitment to expanding its operational capabilities and market reach.</p><p>Further signaling its growth trajectory, Sekur is set to introduce new Corporate and Premium solutions, enhancing its portfolio of encrypted communication tools. These offerings include secure emails, messengers, and communication platforms tailored for consumers, businesses, and governments globally. The company's products are accessible through its website, authorized distributors, and telecommunication companies, ensuring wide availability and adoption.</p><p>The alliance with Stockhouse is a pivotal move for Sekur, leveraging the financial portal's vast network to spotlight its Swiss-hosted cybersecurity solutions. This partnership not only aims to elevate Sekur's profile among potential investors but also highlights the company's potential for growth and innovation in the competitive cybersecurity landscape. By aligning with Stockhouse, Sekur is poised to make significant strides in attracting investment and expanding its market presence in North America.</p>

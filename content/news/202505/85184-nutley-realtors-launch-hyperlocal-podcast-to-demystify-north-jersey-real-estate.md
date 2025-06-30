@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523137/from-listin
 enclosure = "https://cdn.newsramp.app/banners/media-3.jpg"
 article_id = 85184
 feed_item_id = 14570
-url = "/news/202505/85184-nutley-realtors-launch-hyperlocal-podcast-to-demystify-north-jersey-real-estate"
+url = "/202505/85184-nutley-realtors-launch-hyperlocal-podcast-to-demystify-north-jersey-real-estate"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/icyMPYg.webp"
 source = "24-7 Press Release"
 +++

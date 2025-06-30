@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-ai-limited-announces
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85156
 feed_item_id = 14900
-url = "/news/202506/85156-neuralbase-ai-advances-in-ai-solutions-with-bmp-ai-platform-acquisition"
+url = "/202506/85156-neuralbase-ai-advances-in-ai-solutions-with-bmp-ai-platform-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/2/leanP6rX.webp"
 source = "NewMediaWire"
 +++

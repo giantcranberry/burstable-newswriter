@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702454/simplilearn-appoints-jitend
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85139
 feed_item_id = 15113
-url = "/news/202506/85139-simplilearn-strengthens-ai-strategy-with-appointment-of-jitendra-kumar-as-cto"
+url = "/202506/85139-simplilearn-strengthens-ai-strategy-with-appointment-of-jitendra-kumar-as-cto"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/zestsXS9.webp"
 source = "citybiz"
 +++

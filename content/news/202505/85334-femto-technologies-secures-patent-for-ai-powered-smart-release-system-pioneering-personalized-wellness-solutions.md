@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/u-s-patent-and-trademark-office
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85334
 feed_item_id = 13867
-url = "/news/202505/85334-femto-technologies-secures-patent-for-ai-powered-smart-release-system-pioneering-personalized-wellness-solutions"
+url = "/202505/85334-femto-technologies-secures-patent-for-ai-powered-smart-release-system-pioneering-personalized-wellness-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/7/gluengWn.webp"
 source = "NewMediaWire"
 +++

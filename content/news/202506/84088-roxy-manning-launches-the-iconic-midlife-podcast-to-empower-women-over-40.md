@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523718/roxy-mannin
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-3.jpg"
 article_id = 84088
 feed_item_id = 15462
-url = "/news/202506/84088-roxy-manning-launches-the-iconic-midlife-podcast-to-empower-women-over-40"
+url = "/202506/84088-roxy-manning-launches-the-iconic-midlife-podcast-to-empower-women-over-40"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/yogaXgx5.webp"
 source = "24-7 Press Release"
 +++

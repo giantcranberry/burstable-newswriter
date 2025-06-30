@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702749/investigations-and-white-co
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84185
 feed_item_id = 15157
-url = "/news/202506/84185-venable-llp-strengthens-litigation-division-with-addition-of-esteemed-attorney-samidh-guha"
+url = "/202506/84185-venable-llp-strengthens-litigation-division-with-addition-of-esteemed-attorney-samidh-guha"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/xeno9MAf.webp"
 source = "citybiz"
 +++

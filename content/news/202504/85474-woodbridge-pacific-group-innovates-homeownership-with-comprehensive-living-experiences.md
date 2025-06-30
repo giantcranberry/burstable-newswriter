@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522143/woodbridge-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85474
 feed_item_id = 13343
-url = "/news/202504/85474-woodbridge-pacific-group-innovates-homeownership-with-comprehensive-living-experiences"
+url = "/202504/85474-woodbridge-pacific-group-innovates-homeownership-with-comprehensive-living-experiences"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/gluexclY.webp"
 source = "24-7 Press Release"
 +++

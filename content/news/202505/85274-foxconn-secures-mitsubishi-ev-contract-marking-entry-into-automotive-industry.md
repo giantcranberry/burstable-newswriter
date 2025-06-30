@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/foxtron-announces-projec
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85274
 feed_item_id = 14059
-url = "/news/202505/85274-foxconn-secures-mitsubishi-ev-contract-marking-entry-into-automotive-industry"
+url = "/202505/85274-foxconn-secures-mitsubishi-ev-contract-marking-entry-into-automotive-industry"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/jadedoRR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

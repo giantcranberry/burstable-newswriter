@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/mastercard-metamask-unve
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 85376
 feed_item_id = 13739
-url = "/news/202505/85376-mastercard-and-metamask-launch-metal-payment-card-to-merge-cryptocurrency-with-daily-spending"
+url = "/202505/85376-mastercard-and-metamask-launch-metal-payment-card-to-merge-cryptocurrency-with-daily-spending"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/nukeojZr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

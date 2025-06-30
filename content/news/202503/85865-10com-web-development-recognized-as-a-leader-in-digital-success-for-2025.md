@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/10com-web-development-named-a-leader-i
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/43b25d952ad7d82bf6dca29ca7200474.jpg"
 article_id = 85865
 feed_item_id = 11939
-url = "/news/202503/85865-10com-web-development-recognized-as-a-leader-in-digital-success-for-2025"
+url = "/202503/85865-10com-web-development-recognized-as-a-leader-in-digital-success-for-2025"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/16/envykwBh.webp"
 source = "Press Services"
 +++

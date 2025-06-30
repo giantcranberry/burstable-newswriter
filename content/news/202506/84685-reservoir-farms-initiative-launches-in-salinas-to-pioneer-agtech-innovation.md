@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/the-reservoir-and-tanimura-and-antle-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/f0501e5865b7b2d945942050e0c1cfa8.png"
 article_id = 84685
 feed_item_id = 15148
-url = "/news/202506/84685-reservoir-farms-initiative-launches-in-salinas-to-pioneer-agtech-innovation"
+url = "/202506/84685-reservoir-farms-initiative-launches-in-salinas-to-pioneer-agtech-innovation"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/4/quayB5mq.webp"
 source = "News Direct"
 +++

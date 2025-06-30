@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/innovative-designs-inc-reaches-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 86018
 feed_item_id = 11537
-url = "/news/202503/86018-innovative-designs-inc-achieves-record-profitability-in-2024-driven-by-insultex-house-wrap-demand"
+url = "/202503/86018-innovative-designs-inc-achieves-record-profitability-in-2024-driven-by-insultex-house-wrap-demand"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/3/fast2MM_.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/perfect-moment-may-be-the-trend
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 84274
 feed_item_id = 14897
-url = "/news/202506/84274-perfect-moment-ltd-redefines-luxury-skiwear-with-record-digital-engagement-and-strategic-expansions"
+url = "/202506/84274-perfect-moment-ltd-redefines-luxury-skiwear-with-record-digital-engagement-and-strategic-expansions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/2/ninotVOs.webp"
 source = "NewMediaWire"
 +++

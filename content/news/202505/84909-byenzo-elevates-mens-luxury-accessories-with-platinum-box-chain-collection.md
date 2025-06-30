@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522788/byenzo-jewe
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84909
 feed_item_id = 14210
-url = "/news/202505/84909-byenzo-elevates-mens-luxury-accessories-with-platinum-box-chain-collection"
+url = "/202505/84909-byenzo-elevates-mens-luxury-accessories-with-platinum-box-chain-collection"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/quipJln6.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-splash-bev
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-2.jpg"
 article_id = 85524
 feed_item_id = 13112
-url = "/news/202504/85524-splash-beverage-group-faces-nyse-listing-challenge-amid-market-volatility"
+url = "/202504/85524-splash-beverage-group-faces-nyse-listing-challenge-amid-market-volatility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/ninaoUjc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522593/how-the-cod
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 85306
 feed_item_id = 13958
-url = "/news/202505/85306-the-code-revolutionizing-professional-development-with-a-holistic-approach"
+url = "/202505/85306-the-code-revolutionizing-professional-development-with-a-holistic-approach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/9/yogaXbc_.webp"
 source = "24-7 Press Release"
 +++

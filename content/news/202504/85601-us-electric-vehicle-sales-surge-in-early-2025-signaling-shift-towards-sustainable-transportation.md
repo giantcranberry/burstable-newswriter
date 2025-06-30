@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/q1-us-ev-sales-up-11-4-d
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85601
 feed_item_id = 12790
-url = "/news/202504/85601-us-electric-vehicle-sales-surge-in-early-2025-signaling-shift-towards-sustainable-transportation"
+url = "/202504/85601-us-electric-vehicle-sales-surge-in-early-2025-signaling-shift-towards-sustainable-transportation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/harpx4mT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

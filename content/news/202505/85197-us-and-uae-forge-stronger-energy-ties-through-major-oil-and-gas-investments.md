@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/american-energy-giants-g
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85197
 feed_item_id = 14484
-url = "/news/202505/85197-us-and-uae-forge-stronger-energy-ties-through-major-oil-and-gas-investments"
+url = "/202505/85197-us-and-uae-forge-stronger-energy-ties-through-major-oil-and-gas-investments"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/22/mossJqyf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/smssummit-2025-elevating-
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 85347
 feed_item_id = 13834
-url = "/news/202505/85347-virtual-social-media-strategies-summit-2025-aims-to-revolutionize-public-sector-communication"
+url = "/202505/85347-virtual-social-media-strategies-summit-2025-aims-to-revolutionize-public-sector-communication"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/6/echoZxeY.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

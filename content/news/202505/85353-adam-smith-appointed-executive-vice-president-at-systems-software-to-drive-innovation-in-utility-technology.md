@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522467/systems-sof
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85353
 feed_item_id = 13802
-url = "/news/202505/85353-adam-smith-appointed-executive-vice-president-at-systems-software-to-drive-innovation-in-utility-technology"
+url = "/202505/85353-adam-smith-appointed-executive-vice-president-at-systems-software-to-drive-innovation-in-utility-technology"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/6/healvQi2.webp"
 source = "24-7 Press Release"
 +++

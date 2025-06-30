@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522129/full-servic
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85475
 feed_item_id = 13344
-url = "/news/202504/85475-opulands-landscape-design-construction-elevates-residential-landscaping-in-sunnyvale"
+url = "/202504/85475-opulands-landscape-design-construction-elevates-residential-landscaping-in-sunnyvale"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/boldqjPK.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/4152a22e61653e2b9d6804e563179f7f.jpg"
 article_id = 85812
 feed_item_id = 12135
-url = "/news/202503/85812-aquafil-group-demonstrates-resilience-and-strategic-growth-amid-market-challenges"
+url = "/202503/85812-aquafil-group-demonstrates-resilience-and-strategic-growth-amid-market-challenges"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/24/larkxl39.webp"
 source = "Reportable"
 +++

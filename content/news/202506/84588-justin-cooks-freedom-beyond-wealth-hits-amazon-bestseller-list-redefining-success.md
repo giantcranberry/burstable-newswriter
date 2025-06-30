@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523649/freedom-bey
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 84588
 feed_item_id = 15407
-url = "/news/202506/84588-justin-cooks-freedom-beyond-wealth-hits-amazon-bestseller-list-redefining-success"
+url = "/202506/84588-justin-cooks-freedom-beyond-wealth-hits-amazon-bestseller-list-redefining-success"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/vibeBrWg.webp"
 source = "24-7 Press Release"
 +++

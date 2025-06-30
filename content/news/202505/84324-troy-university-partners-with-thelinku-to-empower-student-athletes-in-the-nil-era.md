@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/troy-university-selects-thelinku-to-m
 enclosure = "https://cdn.newsramp.app/banners/sports-2.jpg"
 article_id = 84324
 feed_item_id = 14737
-url = "/news/202505/84324-troy-university-partners-with-thelinku-to-empower-student-athletes-in-the-nil-era"
+url = "/202505/84324-troy-university-partners-with-thelinku-to-empower-student-athletes-in-the-nil-era"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/29/coolJ_g5.webp"
 source = "News Direct"
 +++

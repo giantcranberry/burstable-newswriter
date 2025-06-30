@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521570/tariffs-are
 enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
 article_id = 85652
 feed_item_id = 12612
-url = "/news/202504/85652-presidential-tariff-order-sparks-economic-uncertainty-and-global-retaliation"
+url = "/202504/85652-presidential-tariff-order-sparks-economic-uncertainty-and-global-retaliation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/9/lamb6wc2.webp"
 source = "24-7 Press Release"
 +++

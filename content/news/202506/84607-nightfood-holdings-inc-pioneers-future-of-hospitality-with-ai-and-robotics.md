@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/nightfood-holdings-inc-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84607
 feed_item_id = 15369
-url = "/news/202506/84607-nightfood-holdings-inc-pioneers-future-of-hospitality-with-ai-and-robotics"
+url = "/202506/84607-nightfood-holdings-inc-pioneers-future-of-hospitality-with-ai-and-robotics"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/hushyUDo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

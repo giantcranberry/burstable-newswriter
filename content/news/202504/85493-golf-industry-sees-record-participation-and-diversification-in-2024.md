@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/newton-golf-company-nasda
 enclosure = "https://cdn.newsramp.app/banners/sports-3.jpg"
 article_id = 85493
 feed_item_id = 13222
-url = "/news/202504/85493-golf-industry-sees-record-participation-and-diversification-in-2024"
+url = "/202504/85493-golf-industry-sees-record-participation-and-diversification-in-2024"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/loftQHud.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

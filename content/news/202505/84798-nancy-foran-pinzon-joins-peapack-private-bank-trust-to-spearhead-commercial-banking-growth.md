@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/nancy-foran-pinzon-joins-peapac
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84798
 feed_item_id = 14639
-url = "/news/202505/84798-nancy-foran-pinzon-joins-peapack-private-bank-trust-to-spearhead-commercial-banking-growth"
+url = "/202505/84798-nancy-foran-pinzon-joins-peapack-private-bank-trust-to-spearhead-commercial-banking-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/27/lilyCHWu.webp"
 source = "NewMediaWire"
 +++

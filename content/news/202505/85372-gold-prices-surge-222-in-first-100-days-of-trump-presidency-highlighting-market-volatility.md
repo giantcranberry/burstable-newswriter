@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/gold-registers-22-gain-i
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85372
 feed_item_id = 13750
-url = "/news/202505/85372-gold-prices-surge-222-in-first-100-days-of-trump-presidency-highlighting-market-volatility"
+url = "/202505/85372-gold-prices-surge-222-in-first-100-days-of-trump-presidency-highlighting-market-volatility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/ableQtsM.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

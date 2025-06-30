@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-heartb
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/515b710ac5c403194cb726c3ceeef4e6.png"
 article_id = 86107
 feed_item_id = 15868
-url = "/news/202506/86107-heartbeam-inc-strengthens-cardiac-monitoring-portfolio-with-new-us-patents"
+url = "/202506/86107-heartbeam-inc-strengthens-cardiac-monitoring-portfolio-with-new-us-patents"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/nuke53N_.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

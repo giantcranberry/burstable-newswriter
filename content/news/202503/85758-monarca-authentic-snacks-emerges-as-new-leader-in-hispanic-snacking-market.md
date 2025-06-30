@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/benestar-brands-and-palmex-alimentos-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85758
 feed_item_id = 12300
-url = "/news/202503/85758-monarca-authentic-snacks-emerges-as-new-leader-in-hispanic-snacking-market"
+url = "/202503/85758-monarca-authentic-snacks-emerges-as-new-leader-in-hispanic-snacking-market"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/28/leanvsaW.webp"
 source = "News Direct"
 +++

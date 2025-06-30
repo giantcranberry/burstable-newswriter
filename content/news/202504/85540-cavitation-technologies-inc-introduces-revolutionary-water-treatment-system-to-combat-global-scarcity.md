@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/cavitation-technologies-inc-ann
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85540
 feed_item_id = 13081
-url = "/news/202504/85540-cavitation-technologies-inc-introduces-revolutionary-water-treatment-system-to-combat-global-scarcity"
+url = "/202504/85540-cavitation-technologies-inc-introduces-revolutionary-water-treatment-system-to-combat-global-scarcity"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/22/odor3ChE.webp"
 source = "NewMediaWire"
 +++

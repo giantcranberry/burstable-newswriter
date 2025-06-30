@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522831/astorts-gro
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 85231
 feed_item_id = 14217
-url = "/news/202505/85231-astorts-group-expands-services-to-facilitate-global-business-entry-into-uae-market"
+url = "/202505/85231-astorts-group-expands-services-to-facilitate-global-business-entry-into-uae-market"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/icontOAS.webp"
 source = "24-7 Press Release"
 +++

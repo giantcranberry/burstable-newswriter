@@ -1,0 +1,16 @@
++++
+title = "Pangyo Techno Valley's 'Pan-Pan Day' Fuels Global Startup Expansion"
+date = "2024-09-10T07:00:18Z"
+draft = false
+summary = "Pangyo Techno Valley's monthly 'Pan-Pan Day' event is significantly aiding South Korean startups in global market entry, fostering investments and collaborations with major corporations and VCs."
+description = "Pangyo Techno Valley's 'Pan-Pan Day' event offers practical help and networking opportunities for local startups to expand internationally, resulting in successful investment contracts and collaboration opportunities with prominent companies."
+source_link = "https://www.24-7pressrelease.com/press-release/514185/pangyo-techno-valley-lays-the-groundwork-for-startups-pan-pan-day-offers-new-opportunities-for-global-expansion"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0514185_208281.jpg"
+article_id = 92350
+feed_item_id = 6640
+url = "/202409/92350-pangyo-techno-valleys-pan-pan-day-fuels-global-startup-expansion"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/249/10/pearWR3_.webp"
+source = "24-7 Press Release"
++++
+
+<p>Pangyo Techno Valley, South Korea's leading innovation hub, has been instrumental in propelling local startups onto the global stage through its monthly 'Pan-Pan Day' event. Since its inception in 2023, the event has hosted 14 sessions, drawing around 80 venture capitalists and 200 startups, marking its pivotal role in the startup ecosystem.</p><p>The 'Pan-Pan Day' initiative is designed to equip startups with the tools for international success, offering IR pitching sessions, one-on-one consultations, networking, and thematic seminars. These programs are tailored to provide startups with actionable insights and connections necessary for global expansion.</p><p>Notable outcomes from the event include a 200 million won investment deal between Platinum Technology and NexPot Solution in June, and the 'Open Innovation' themed session in August that led to 18 follow-up meetings among 16 companies, including giants like Toss and Mastercard.</p><p>With themes ranging from content to manufacturing, the upcoming sessions from September to December promise to further enrich the startup ecosystem. September's collaboration with the Gyeonggi Startup Summit will feature meetings with foreign VCs and seminars on international strategies, while a unique networking session between Estonian and Gyeonggi Province startups will offer insights into the European market.</p><p>Startups have lauded the event for its practical advice and networking opportunities, even in the absence of immediate funding. Pangyo Techno Valley, home to 1,666 companies and employing 78,751 people, underscores its commitment to innovation and global market integration.</p><p>The 'Pan-Pan Day' event, alongside other initiatives like the Pangyo Evening Meet-Up and the Pangyo Startup Investment Exchange, is pivotal in enhancing South Korea's global innovation standing. By bridging startups with investors and facilitating international expansion, Pangyo Techno Valley is not only boosting individual startups but also contributing to national economic growth.</p>

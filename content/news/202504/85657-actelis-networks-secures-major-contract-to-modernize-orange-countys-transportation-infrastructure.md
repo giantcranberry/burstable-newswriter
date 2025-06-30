@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/market-alert-actelis-networks-on-a-ro
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85657
 feed_item_id = 12594
-url = "/news/202504/85657-actelis-networks-secures-major-contract-to-modernize-orange-countys-transportation-infrastructure"
+url = "/202504/85657-actelis-networks-secures-major-contract-to-modernize-orange-countys-transportation-infrastructure"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/8/navyDsf6.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523034/become-unst
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 85192
 feed_item_id = 14519
-url = "/news/202505/85192-empowering-women-over-40-ruth-herons-guide-to-navigating-career-transitions"
+url = "/202505/85192-empowering-women-over-40-ruth-herons-guide-to-navigating-career-transitions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/22/paveeHYl.webp"
 source = "24-7 Press Release"
 +++

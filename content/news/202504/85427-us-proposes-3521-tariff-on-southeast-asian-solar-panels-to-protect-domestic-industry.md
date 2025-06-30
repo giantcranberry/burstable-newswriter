@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/america-to-slap-3521-tari
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85427
 feed_item_id = 13595
-url = "/news/202504/85427-us-proposes-3521-tariff-on-southeast-asian-solar-panels-to-protect-domestic-industry"
+url = "/202504/85427-us-proposes-3521-tariff-on-southeast-asian-solar-panels-to-protect-domestic-industry"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/29/ellasK10.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

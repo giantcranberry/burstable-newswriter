@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-solarb
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85299
 feed_item_id = 13975
-url = "/news/202505/85299-solarbank-corporation-secures-financial-flexibility-with-new-c200-million-shelf-prospectus"
+url = "/202505/85299-solarbank-corporation-secures-financial-flexibility-with-new-c200-million-shelf-prospectus"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/9/rend43YQ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

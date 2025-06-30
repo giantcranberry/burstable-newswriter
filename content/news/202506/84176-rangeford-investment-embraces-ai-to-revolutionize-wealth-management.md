@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/rangeford-investment-announces-strate
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84176
 feed_item_id = 15183
-url = "/news/202506/84176-rangeford-investment-embraces-ai-to-revolutionize-wealth-management"
+url = "/202506/84176-rangeford-investment-embraces-ai-to-revolutionize-wealth-management"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/pondU5Lj.webp"
 source = "News Direct"
 +++

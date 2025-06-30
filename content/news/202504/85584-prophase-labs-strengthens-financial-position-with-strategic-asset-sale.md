@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-propha
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85584
 feed_item_id = 12919
-url = "/news/202504/85584-prophase-labs-strengthens-financial-position-with-strategic-asset-sale"
+url = "/202504/85584-prophase-labs-strengthens-financial-position-with-strategic-asset-sale"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/16/lilyWbct.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

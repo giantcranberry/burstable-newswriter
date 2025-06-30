@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/sfa-law-recognized-as-californias-bes
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/fb74c96255edefb68fc60eb3786732bb.png"
 article_id = 85876
 feed_item_id = 11895
-url = "/news/202503/85876-sfa-law-recognized-as-best-personal-injury-law-firm-in-california-for-2025"
+url = "/202503/85876-sfa-law-recognized-as-best-personal-injury-law-firm-in-california-for-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/13/seekhtro.webp"
 source = "News Direct"
 +++

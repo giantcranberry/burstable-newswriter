@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520195/ces-2025-wi
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 86021
 feed_item_id = 11526
-url = "/news/202503/86021-ghostpass-inc-wins-ces-2025-best-innovation-award-for-revolutionary-biometric-authentication-technology"
+url = "/202503/86021-ghostpass-inc-wins-ces-2025-best-innovation-award-for-revolutionary-biometric-authentication-technology"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/3/duneAtCz.webp"
 source = "24-7 Press Release"
 +++

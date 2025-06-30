@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-nicola-mining
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85399
 feed_item_id = 13665
-url = "/news/202504/85399-nicola-mining-inc-partners-with-ibn-to-amplify-corporate-communications-and-investor-outreach"
+url = "/202504/85399-nicola-mining-inc-partners-with-ibn-to-amplify-corporate-communications-and-investor-outreach"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/rushnwJH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

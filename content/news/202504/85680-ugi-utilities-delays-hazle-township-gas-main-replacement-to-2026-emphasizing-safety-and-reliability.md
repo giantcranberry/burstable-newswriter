@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/update-ugi-system-upgrades-plan
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/7ac35cd1651e0dc4d8dffb945affaf5c.jpg"
 article_id = 85680
 feed_item_id = 12522
-url = "/news/202504/85680-ugi-utilities-delays-hazle-township-gas-main-replacement-to-2026-emphasizing-safety-and-reliability"
+url = "/202504/85680-ugi-utilities-delays-hazle-township-gas-main-replacement-to-2026-emphasizing-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/4/peark3Ia.webp"
 source = "Reportable"
 +++

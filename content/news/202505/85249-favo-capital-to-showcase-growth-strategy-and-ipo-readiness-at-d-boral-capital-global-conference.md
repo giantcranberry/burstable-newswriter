@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-favo-cap
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85249
 feed_item_id = 14162
-url = "/news/202505/85249-favo-capital-to-showcase-growth-strategy-and-ipo-readiness-at-d-boral-capital-global-conference"
+url = "/202505/85249-favo-capital-to-showcase-growth-strategy-and-ipo-readiness-at-d-boral-capital-global-conference"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/14/goldW3AR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

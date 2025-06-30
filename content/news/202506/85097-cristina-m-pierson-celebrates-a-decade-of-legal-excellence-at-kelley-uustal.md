@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523933/partner-cri
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/7ccd5e8ebc9929f22686ffadf981eb48.png"
 article_id = 85097
 feed_item_id = 15819
-url = "/news/202506/85097-cristina-m-pierson-celebrates-a-decade-of-legal-excellence-at-kelley-uustal"
+url = "/202506/85097-cristina-m-pierson-celebrates-a-decade-of-legal-excellence-at-kelley-uustal"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/urgewBpi.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84815
 feed_item_id = 14557
-url = "/news/202505/84815-royalty-management-holding-corporation-launches-quarterly-cash-dividend-program"
+url = "/202505/84815-royalty-management-holding-corporation-launches-quarterly-cash-dividend-program"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/23/ovalSiuO.webp"
 source = "NewMediaWire"
 +++

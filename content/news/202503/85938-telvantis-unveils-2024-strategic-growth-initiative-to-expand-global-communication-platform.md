@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/raadr-doing-business-as-telvant
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85938
 feed_item_id = 11684
-url = "/news/202503/85938-telvantis-unveils-2024-strategic-growth-initiative-to-expand-global-communication-platform"
+url = "/202503/85938-telvantis-unveils-2024-strategic-growth-initiative-to-expand-global-communication-platform"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/6/glue5Go9.webp"
 source = "NewMediaWire"
 +++

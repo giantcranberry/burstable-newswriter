@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522974/judith-schu
 enclosure = "https://cdn.newsramp.app/banners/awards-3.jpg"
 article_id = 85214
 feed_item_id = 14369
-url = "/news/202505/85214-judith-schumacher-tilton-honored-among-100-leading-women-in-the-north-american-auto-industry"
+url = "/202505/85214-judith-schumacher-tilton-honored-among-100-leading-women-in-the-north-american-auto-industry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/20/evenETap.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-cove
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/88410120fda543eaae72f9d079ce71d8.jpg"
 article_id = 85924
 feed_item_id = 11735
-url = "/news/202503/85924-blacksky-technology-reports-strong-q4-results-and-strategic-advancements-in-satellite-technology"
+url = "/202503/85924-blacksky-technology-reports-strong-q4-results-and-strategic-advancements-in-satellite-technology"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/7/pint_cUY.webp"
 source = "Reportable"
 +++

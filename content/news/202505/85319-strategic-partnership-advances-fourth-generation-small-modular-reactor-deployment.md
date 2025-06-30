@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522586/arc-clean-t
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85319
 feed_item_id = 13910
-url = "/news/202505/85319-strategic-partnership-advances-fourth-generation-small-modular-reactor-deployment"
+url = "/202505/85319-strategic-partnership-advances-fourth-generation-small-modular-reactor-deployment"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/8/fond1nvj.webp"
 source = "24-7 Press Release"
 +++

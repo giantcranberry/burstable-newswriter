@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/franchise-rankings-recognizes-the-best
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/76a78cab2fb87dbc1642d4e6b7e9cbda.jpg"
 article_id = 85936
 feed_item_id = 11689
-url = "/news/202503/85936-franchise-rankings-a-critical-tool-for-entrepreneurs-in-the-franchise-marketplace"
+url = "/202503/85936-franchise-rankings-a-critical-tool-for-entrepreneurs-in-the-franchise-marketplace"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/6/urgeR1Rr.webp"
 source = "Press Services"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Wendt Partners Achieves Significant Growth and Global Expansion in Q4 2024"
+date = "2025-01-16T16:38:37Z"
+draft = false
+summary = "Wendt Partners marks a successful Q4 2024 with notable client acquisitions, international expansion, and team growth, reinforcing its position as a global leader in CRM implementation."
+description = "Wendt Partners announces Q4 2024 success with major client wins and global expansion. Learn about their new accounts like BioConnect and Cattron in various industries."
+source_link = "https://wendtpartners.reportablenews.com/pr/wendt-partners-continues-to-lead-as-a-top-global-hubspot-elite-partner-in-q4-2024"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/ff0bcc834c15e82b75af0ee6248fdca7.png"
+article_id = 91316
+feed_item_id = 10139
+url = "/202501/91316-wendt-partners-achieves-significant-growth-and-global-expansion-in-q4-2024"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/251/16/mintQaIg.webp"
+source = "Reportable"
++++
+
+<p>Wendt Partners, recognized as a HubSpot Elite Solutions Partner, has reported remarkable achievements in the fourth quarter of 2024, showcasing significant growth in client acquisition, global market expansion, and organizational development. The firm averaged ten new client logos each month, extending its services across pivotal sectors such as technology, professional services, industrial, healthcare, and biotech. This expansion includes partnerships with BioConnect, Cattron, and Ori Biotech, highlighting the firm's capability to navigate and serve complex B2B markets effectively.</p><p>The company's growth was not limited to domestic markets, as it successfully expanded its client base to include businesses in Mexico and Australia. This strategic move underscores Wendt Partners' commitment to establishing a strong international presence, positioning it as a leading global CRM implementation partner. The firm's dedication to maintaining high technological and security standards is evident through its adherence to SOC 2 Type 2, ISO 27001, and HIPAA certifications, ensuring secure and reliable CRM solutions for its clients.</p><p>In addition to its client and market expansion, Wendt Partners strengthened its team by welcoming five new professionals across various departments, including Platform Solutions, Technical Solutions, and Digital Solutions. The firm also announced key leadership appointments, with Douglas Wendt leading the New York office, Samantha Canon heading the Toronto office, and John Crozier-Durham taking charge of the Melbourne location. These developments reflect the company's focus on building a robust team to support its growing operations and client needs.</p><p>Doug Wendt, Co-Founder and Senior Partner, highlighted the firm's momentum and its strategic positioning in the global CRM marketplace, attributing part of its success to HubSpot's market leadership. Wendt Partners' achievements in Q4 2024 not only demonstrate its ability to adapt and thrive in a competitive landscape but also signal its potential to influence the CRM industry's future direction, offering valuable insights for business and technology leaders worldwide.</p>

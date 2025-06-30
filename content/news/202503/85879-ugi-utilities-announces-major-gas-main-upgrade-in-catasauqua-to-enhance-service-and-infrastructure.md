@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-project-beginning-in-catasa
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/b8ae9adb5bc0ecea03d8591876e2263f.jpg"
 article_id = 85879
 feed_item_id = 11889
-url = "/news/202503/85879-ugi-utilities-announces-major-gas-main-upgrade-in-catasauqua-to-enhance-service-and-infrastructure"
+url = "/202503/85879-ugi-utilities-announces-major-gas-main-upgrade-in-catasauqua-to-enhance-service-and-infrastructure"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/13/mildDuB0.webp"
 source = "Reportable"
 +++

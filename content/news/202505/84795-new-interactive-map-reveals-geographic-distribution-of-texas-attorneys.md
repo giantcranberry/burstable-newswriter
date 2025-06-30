@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523227/darrow-law-
 enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
 article_id = 84795
 feed_item_id = 14658
-url = "/news/202505/84795-new-interactive-map-reveals-geographic-distribution-of-texas-attorneys"
+url = "/202505/84795-new-interactive-map-reveals-geographic-distribution-of-texas-attorneys"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/paveWYnc.webp"
 source = "24-7 Press Release"
 +++

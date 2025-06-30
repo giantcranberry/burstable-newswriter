@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/city-of-seattle-partners-with-comcast
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85618
 feed_item_id = 12735
-url = "/news/202504/85618-comcast-rise-program-to-inject-over-3-million-into-king-county-small-businesses"
+url = "/202504/85618-comcast-rise-program-to-inject-over-3-million-into-king-county-small-businesses"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/14/lend9wOT.webp"
 source = "News Direct"
 +++

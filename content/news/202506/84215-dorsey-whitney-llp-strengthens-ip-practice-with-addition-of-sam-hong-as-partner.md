@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702343/patent-partner-sam-hong-joi
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 84215
 feed_item_id = 15084
-url = "/news/202506/84215-dorsey-whitney-llp-strengthens-ip-practice-with-addition-of-sam-hong-as-partner"
+url = "/202506/84215-dorsey-whitney-llp-strengthens-ip-practice-with-addition-of-sam-hong-as-partner"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/oval9MZ0.webp"
 source = "citybiz"
 +++

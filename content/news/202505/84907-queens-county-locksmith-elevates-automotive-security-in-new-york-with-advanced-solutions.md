@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522816/queens-coun
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84907
 feed_item_id = 14214
-url = "/news/202505/84907-queens-county-locksmith-elevates-automotive-security-in-new-york-with-advanced-solutions"
+url = "/202505/84907-queens-county-locksmith-elevates-automotive-security-in-new-york-with-advanced-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/pitapicoVxYi.webp"
 source = "24-7 Press Release"
 +++

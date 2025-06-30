@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701743/amg-appoints-thomas-m-wojci
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84252
 feed_item_id = 14974
-url = "/news/202506/84252-amg-strengthens-leadership-team-with-appointment-of-thomas-m-wojcik-as-president"
+url = "/202506/84252-amg-strengthens-leadership-team-with-appointment-of-thomas-m-wojcik-as-president"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/vastgwYc.webp"
 source = "citybiz"
 +++

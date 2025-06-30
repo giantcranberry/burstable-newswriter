@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-freight-
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 85368
 feed_item_id = 13758
-url = "/news/202505/85368-freight-technologies-inc-diversifies-treasury-with-20-million-convertible-note-and-digital-asset-strategy"
+url = "/202505/85368-freight-technologies-inc-diversifies-treasury-with-20-million-convertible-note-and-digital-asset-strategy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/dualUSVl.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

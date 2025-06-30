@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-reinvents-auto-care
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 84170
 feed_item_id = 15201
-url = "/news/202506/84170-car-garage-expert-revolutionizes-affordable-auto-care-in-dubai"
+url = "/202506/84170-car-garage-expert-revolutionizes-affordable-auto-care-in-dubai"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/isleuL_L.webp"
 source = "News Direct"
 +++

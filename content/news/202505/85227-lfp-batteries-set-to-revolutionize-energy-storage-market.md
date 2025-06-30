@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/geopolitical-risks-dropp
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85227
 feed_item_id = 14241
-url = "/news/202505/85227-lfp-batteries-set-to-revolutionize-energy-storage-market"
+url = "/202505/85227-lfp-batteries-set-to-revolutionize-energy-storage-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/pitapicoq6d3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

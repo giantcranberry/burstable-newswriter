@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/coinbase-says-recent-cyb
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 84833
 feed_item_id = 14500
-url = "/news/202505/84833-coinbase-cybersecurity-breach-highlights-growing-threat-to-cryptocurrency-exchanges"
+url = "/202505/84833-coinbase-cybersecurity-breach-highlights-growing-threat-to-cryptocurrency-exchanges"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/22/pitapicotf8U.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

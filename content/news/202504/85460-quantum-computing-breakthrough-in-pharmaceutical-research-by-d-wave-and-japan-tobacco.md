@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/d-wave-quantum-inc-nyse
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85460
 feed_item_id = 13446
-url = "/news/202504/85460-quantum-computing-breakthrough-in-pharmaceutical-research-by-d-wave-and-japan-tobacco"
+url = "/202504/85460-quantum-computing-breakthrough-in-pharmaceutical-research-by-d-wave-and-japan-tobacco"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/deep978X.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

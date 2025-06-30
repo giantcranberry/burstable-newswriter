@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522528/plastic-sur
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85337
 feed_item_id = 13861
-url = "/news/202505/85337-olympus-cosmetic-group-expands-its-portfolio-with-acquisition-of-dr-suzanne-yees-practice"
+url = "/202505/85337-olympus-cosmetic-group-expands-its-portfolio-with-acquisition-of-dr-suzanne-yees-practice"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/7/beanc_63.webp"
 source = "24-7 Press Release"
 +++

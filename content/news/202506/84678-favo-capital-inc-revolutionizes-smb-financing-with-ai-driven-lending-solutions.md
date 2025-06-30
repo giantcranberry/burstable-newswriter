@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-ai-dri
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84678
 feed_item_id = 15172
-url = "/news/202506/84678-favo-capital-inc-revolutionizes-smb-financing-with-ai-driven-lending-solutions"
+url = "/202506/84678-favo-capital-inc-revolutionizes-smb-financing-with-ai-driven-lending-solutions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/zestpjl5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/experts-share-top-market-
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85348
 feed_item_id = 13821
-url = "/news/202505/85348-moneyshow-masters-symposium-2025-a-hub-for-financial-innovation-and-strategy"
+url = "/202505/85348-moneyshow-masters-symposium-2025-a-hub-for-financial-innovation-and-strategy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/6/wallzMDt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

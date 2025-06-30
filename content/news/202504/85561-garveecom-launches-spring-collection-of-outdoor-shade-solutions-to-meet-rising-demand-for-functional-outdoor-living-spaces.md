@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521967/garveecom-u
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 85561
 feed_item_id = 13000
-url = "/news/202504/85561-garveecom-launches-spring-collection-of-outdoor-shade-solutions-to-meet-rising-demand-for-functional-outdoor-living-spaces"
+url = "/202504/85561-garveecom-launches-spring-collection-of-outdoor-shade-solutions-to-meet-rising-demand-for-functional-outdoor-living-spaces"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/19/gleeNK6l.webp"
 source = "24-7 Press Release"
 +++

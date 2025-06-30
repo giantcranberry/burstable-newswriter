@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/comcast-opens-new-xfinity-store-in-sp
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85849
 feed_item_id = 12015
-url = "/news/202503/85849-comcast-expands-retail-presence-in-spokane-with-new-xfinity-store"
+url = "/202503/85849-comcast-expands-retail-presence-in-spokane-with-new-xfinity-store"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/18/waitb5HK.webp"
 source = "News Direct"
 +++

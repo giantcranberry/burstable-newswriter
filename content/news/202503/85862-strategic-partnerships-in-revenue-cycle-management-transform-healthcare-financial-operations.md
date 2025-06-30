@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520650/march-2025-
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
 article_id = 85862
 feed_item_id = 11944
-url = "/news/202503/85862-strategic-partnerships-in-revenue-cycle-management-transform-healthcare-financial-operations"
+url = "/202503/85862-strategic-partnerships-in-revenue-cycle-management-transform-healthcare-financial-operations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/17/noraWs0j.webp"
 source = "24-7 Press Release"
 +++

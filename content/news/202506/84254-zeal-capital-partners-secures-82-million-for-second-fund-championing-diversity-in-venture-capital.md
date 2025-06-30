@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/700486/nasir-qadrees-zeal-capital-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84254
 feed_item_id = 14965
-url = "/news/202506/84254-zeal-capital-partners-secures-82-million-for-second-fund-championing-diversity-in-venture-capital"
+url = "/202506/84254-zeal-capital-partners-secures-82-million-for-second-fund-championing-diversity-in-venture-capital"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/mild_w9L.webp"
 source = "citybiz"
 +++

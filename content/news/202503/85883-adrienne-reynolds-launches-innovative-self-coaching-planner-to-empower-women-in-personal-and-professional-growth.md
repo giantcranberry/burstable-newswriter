@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520532/empower-you
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 85883
 feed_item_id = 11871
-url = "/news/202503/85883-adrienne-reynolds-launches-innovative-self-coaching-planner-to-empower-women-in-personal-and-professional-growth"
+url = "/202503/85883-adrienne-reynolds-launches-innovative-self-coaching-planner-to-empower-women-in-personal-and-professional-growth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/13/noontZSF.webp"
 source = "24-7 Press Release"
 +++

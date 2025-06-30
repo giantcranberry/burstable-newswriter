@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/12389a189920d02ee37a53b46362a90f.png"
 article_id = 87667
 feed_item_id = 15849
-url = "/news/202506/87667-newton-golf-company-inc-welcomes-pga-tour-champions-star-miguel-ángel-jiménez-showcasing-the-success-of-its-fast-motion-shaft"
+url = "/202506/87667-newton-golf-company-inc-welcomes-pga-tour-champions-star-miguel-ángel-jiménez-showcasing-the-success-of-its-fast-motion-shaft"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/lambKMKc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

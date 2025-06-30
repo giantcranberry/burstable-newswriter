@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-why-nic
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85323
 feed_item_id = 13897
-url = "/news/202505/85323-nicola-mining-inc-innovates-with-dual-strategy-in-mineral-asset-development"
+url = "/202505/85323-nicola-mining-inc-innovates-with-dual-strategy-in-mineral-asset-development"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/vast3xC2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

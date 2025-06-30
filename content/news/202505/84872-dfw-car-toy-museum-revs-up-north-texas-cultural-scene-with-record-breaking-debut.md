@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522717/dfw-car-toy
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-3.jpg"
 article_id = 84872
 feed_item_id = 14362
-url = "/news/202505/84872-dfw-car-toy-museum-revs-up-north-texas-cultural-scene-with-record-breaking-debut"
+url = "/202505/84872-dfw-car-toy-museum-revs-up-north-texas-cultural-scene-with-record-breaking-debut"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/20/echoRJFk.webp"
 source = "24-7 Press Release"
 +++

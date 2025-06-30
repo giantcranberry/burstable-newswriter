@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/accurate-water-and-fire-restoration-sa
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/0a9539fe6b9823fedf0fbec32e198d8d.jpg"
 article_id = 86057
 feed_item_id = 11241
-url = "/news/202502/86057-accurate-water-and-fire-restoration-a-beacon-of-hope-for-schenectady-residents-facing-property-damage"
+url = "/202502/86057-accurate-water-and-fire-restoration-a-beacon-of-hope-for-schenectady-residents-facing-property-damage"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/252/28/wallqNho.webp"
 source = "Press Services"
 +++

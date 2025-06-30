@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522762/notify-to-c
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 85262
 feed_item_id = 14134
-url = "/news/202505/85262-notify-to-showcase-innovative-communication-solutions-at-2025-argentum-senior-living-executive-conference"
+url = "/202505/85262-notify-to-showcase-innovative-communication-solutions-at-2025-argentum-senior-living-executive-conference"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/14/taroiDCQ.webp"
 source = "24-7 Press Release"
 +++

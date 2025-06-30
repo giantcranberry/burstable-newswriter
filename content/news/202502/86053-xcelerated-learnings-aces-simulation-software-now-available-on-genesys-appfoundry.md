@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520123/xcelerated-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 86053
 feed_item_id = 11479
-url = "/news/202502/86053-xcelerated-learnings-aces-simulation-software-now-available-on-genesys-appfoundry"
+url = "/202502/86053-xcelerated-learnings-aces-simulation-software-now-available-on-genesys-appfoundry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/28/leanmzcd.webp"
 source = "24-7 Press Release"
 +++

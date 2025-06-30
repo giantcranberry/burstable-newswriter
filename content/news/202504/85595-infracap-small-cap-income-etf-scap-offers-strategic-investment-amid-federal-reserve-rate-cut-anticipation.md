@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/why-the-small-cap-route-may-del
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85595
 feed_item_id = 12879
-url = "/news/202504/85595-infracap-small-cap-income-etf-scap-offers-strategic-investment-amid-federal-reserve-rate-cut-anticipation"
+url = "/202504/85595-infracap-small-cap-income-etf-scap-offers-strategic-investment-amid-federal-reserve-rate-cut-anticipation"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/15/lambe3Lz.webp"
 source = "NewMediaWire"
 +++

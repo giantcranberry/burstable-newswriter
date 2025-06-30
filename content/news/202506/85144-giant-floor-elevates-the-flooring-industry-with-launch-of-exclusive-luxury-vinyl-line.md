@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523474/giant-floor
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85144
 feed_item_id = 15053
-url = "/news/202506/85144-giant-floor-elevates-the-flooring-industry-with-launch-of-exclusive-luxury-vinyl-line"
+url = "/202506/85144-giant-floor-elevates-the-flooring-industry-with-launch-of-exclusive-luxury-vinyl-line"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/roamP5Oe.webp"
 source = "24-7 Press Release"
 +++

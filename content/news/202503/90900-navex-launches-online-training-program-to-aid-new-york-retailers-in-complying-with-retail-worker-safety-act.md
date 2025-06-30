@@ -1,0 +1,16 @@
++++
+title = "NAVEX Launches Online Training Program to Aid New York Retailers in Complying with Retail Worker Safety Act"
+date = "2025-03-25T13:20:16Z"
+draft = false
+summary = "NAVEX introduces an online training program to help New York retailers comply with the Retail Worker Safety Act, focusing on workplace violence prevention and employee safety."
+description = "NAVEX launches interactive training program to help New York retailers comply with Retail Worker Safety Act. The program offers comprehensive workplace violence prevention training, customizable content, and tools for compliance tracking to simplify compliance efforts and enhance workplace safety."
+source_link = "https://newsdirect.com/news/navex-offers-new-york-retail-worker-safety-act-training-987893594"
+enclosure = "https://cdn.newsramp.app/banners/education-1.jpg"
+article_id = 90900
+feed_item_id = 12194
+url = "/202503/90900-navex-launches-online-training-program-to-aid-new-york-retailers-in-complying-with-retail-worker-safety-act"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/25/oxenwZd9.webp"
+source = "News Direct"
++++
+
+<p>NAVEX has unveiled an innovative online training program aimed at assisting New York retailers in adhering to the newly implemented Retail Worker Safety Act. This interactive course is specifically designed to meet the law's stipulations regarding workplace violence prevention policies and mandatory employee training, catering to businesses employing 10 or more individuals.</p><p>The program offers a simplified pathway for retailers to fulfill regulatory obligations, which include the establishment of violence prevention policies and the provision of interactive training sessions for employees at the time of hiring and on an annual basis. The requirements vary slightly for smaller entities, ensuring a tailored approach to compliance.</p><p>Dr. Jen Farthing, the general manager of training at NAVEX, highlights the course's engaging content, which demystifies the compliance process. It encompasses essential topics such as techniques for de-escalation, protocols for active shooter situations, emergency procedures, and the utilization of safety devices, including silent response buttons.</p><p>Among the program's standout features is the ability to customize content, enabling businesses to incorporate their unique site procedures and emergency protocols. Additionally, it offers specialized training modules for supervisors, equipping them with the skills to handle emergencies and mitigate security threats effectively.</p><p>The NAVEX One platform enhances compliance efforts by monitoring employee training progress, automating reminder notifications, and producing detailed compliance reports. This not only facilitates adherence to legal requirements but also fosters a workplace environment that prioritizes safety and readiness.</p><p>As the effective date of the Retail Worker Safety Act, June 2, 2025, draws nearer, retailers are increasingly compelled to devise and execute strategies for preventing workplace violence. NAVEX's training solution presents a forward-thinking and pragmatic method for navigating these regulatory demands, ensuring businesses are well-prepared to protect their employees and comply with the law.</p>

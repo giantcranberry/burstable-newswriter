@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/pennsylvania-public-utility-com
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/e89fc52989a81cdfe2c0606a9acfcfe4.jpg"
 article_id = 85757
 feed_item_id = 12301
-url = "/news/202503/85757-pennsylvania-puc-warns-of-sophisticated-phone-scam-targeting-utility-customers"
+url = "/202503/85757-pennsylvania-puc-warns-of-sophisticated-phone-scam-targeting-utility-customers"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/28/frognYAb.webp"
 source = "Reportable"
 +++

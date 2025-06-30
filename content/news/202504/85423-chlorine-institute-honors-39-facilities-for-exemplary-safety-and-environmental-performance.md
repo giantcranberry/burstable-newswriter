@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/the-chlorine-institute-recogniz
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85423
 feed_item_id = 13599
-url = "/news/202504/85423-chlorine-institute-honors-39-facilities-for-exemplary-safety-and-environmental-performance"
+url = "/202504/85423-chlorine-institute-honors-39-facilities-for-exemplary-safety-and-environmental-performance"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/29/quayOGyt.webp"
 source = "NewMediaWire"
 +++

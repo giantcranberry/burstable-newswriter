@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/lahontan-gold-corp-tsx-v
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85124
 feed_item_id = 15305
-url = "/news/202506/85124-golds-safe-haven-appeal-boosts-lahontan-gold-corp-amid-economic-uncertainty"
+url = "/202506/85124-golds-safe-haven-appeal-boosts-lahontan-gold-corp-amid-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/wamc7vzD.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

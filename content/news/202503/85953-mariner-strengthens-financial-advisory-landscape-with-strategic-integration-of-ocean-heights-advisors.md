@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/mariner-creates-unique-pathway-for-ad
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/742bbe4488cc92fd2bcc9cf0440f2528.jpg"
 article_id = 85953
 feed_item_id = 11644
-url = "/news/202503/85953-mariner-strengthens-financial-advisory-landscape-with-strategic-integration-of-ocean-heights-advisors"
+url = "/202503/85953-mariner-strengthens-financial-advisory-landscape-with-strategic-integration-of-ocean-heights-advisors"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/5/nukeKzdY.webp"
 source = "News Direct"
 +++

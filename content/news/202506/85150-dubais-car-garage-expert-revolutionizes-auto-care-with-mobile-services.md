@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/garage-expert-delivers-professional-c
 enclosure = "https://cdn.newsramp.app/banners/travel-3.jpg"
 article_id = 85150
 feed_item_id = 14968
-url = "/news/202506/85150-dubais-car-garage-expert-revolutionizes-auto-care-with-mobile-services"
+url = "/202506/85150-dubais-car-garage-expert-revolutionizes-auto-care-with-mobile-services"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/3/viberkRu.webp"
 source = "News Direct"
 +++

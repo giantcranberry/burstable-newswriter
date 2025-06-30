@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-alphab
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84070
 feed_item_id = 15520
-url = "/news/202506/84070-alphabet-incs-valuation-debate-hidden-value-or-value-trap"
+url = "/202506/84070-alphabet-incs-valuation-debate-hidden-value-or-value-trap"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/quipue8Y.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521809/celebrate-t
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-2.jpg"
 article_id = 85606
 feed_item_id = 12774
-url = "/news/202504/85606-glass-arts-collective-unveils-curated-gift-bundles-for-spring-celebrations"
+url = "/202504/85606-glass-arts-collective-unveils-curated-gift-bundles-for-spring-celebrations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/15/cornbG_5.webp"
 source = "24-7 Press Release"
 +++

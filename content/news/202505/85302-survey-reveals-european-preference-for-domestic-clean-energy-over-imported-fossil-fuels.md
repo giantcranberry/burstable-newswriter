@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/poll-shows-europe-prefer
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 85302
 feed_item_id = 13969
-url = "/news/202505/85302-survey-reveals-european-preference-for-domestic-clean-energy-over-imported-fossil-fuels"
+url = "/202505/85302-survey-reveals-european-preference-for-domestic-clean-energy-over-imported-fossil-fuels"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/9/meanwE6g.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

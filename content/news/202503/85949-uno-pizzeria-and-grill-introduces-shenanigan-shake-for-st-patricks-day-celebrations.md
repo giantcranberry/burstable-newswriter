@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/uno-pizzeria-and-grill-introduces-the
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-1.jpg"
 article_id = 85949
 feed_item_id = 11655
-url = "/news/202503/85949-uno-pizzeria-and-grill-introduces-shenanigan-shake-for-st-patricks-day-celebrations"
+url = "/202503/85949-uno-pizzeria-and-grill-introduces-shenanigan-shake-for-st-patricks-day-celebrations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/5/bakecwRT.webp"
 source = "News Direct"
 +++

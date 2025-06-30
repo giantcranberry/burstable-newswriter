@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701206/qa-with-gregory-vetter-auth
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 84238
 feed_item_id = 15016
-url = "/news/202506/84238-gregory-vetter-on-leadership-embracing-failure-as-a-stepping-stone-to-success"
+url = "/202506/84238-gregory-vetter-on-leadership-embracing-failure-as-a-stepping-stone-to-success"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/pineVIae.webp"
 source = "citybiz"
 +++

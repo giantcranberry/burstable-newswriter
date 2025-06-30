@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520085/mbank-trans
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 86090
 feed_item_id = 11180
-url = "/news/202502/86090-mbank-revolutionizes-kyrgyzstans-digital-banking-landscape-with-over-10-million-app-downloads"
+url = "/202502/86090-mbank-revolutionizes-kyrgyzstans-digital-banking-landscape-with-over-10-million-app-downloads"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/27/rushm6uP.webp"
 source = "24-7 Press Release"
 +++

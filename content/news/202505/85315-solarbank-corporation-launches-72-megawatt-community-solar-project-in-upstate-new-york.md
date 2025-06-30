@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85315
 feed_item_id = 13926
-url = "/news/202505/85315-solarbank-corporation-launches-72-megawatt-community-solar-project-in-upstate-new-york"
+url = "/202505/85315-solarbank-corporation-launches-72-megawatt-community-solar-project-in-upstate-new-york"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/lilyha8w.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

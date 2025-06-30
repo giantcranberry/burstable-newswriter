@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701358/orbis-appoints-mark-white-a
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 85154
 feed_item_id = 14948
-url = "/news/202506/85154-orbis-international-appoints-mark-white-as-new-chief-financial-and-administrative-officer-to-bolster-global-fight-against-preventable-blindness"
+url = "/202506/85154-orbis-international-appoints-mark-white-as-new-chief-financial-and-administrative-officer-to-bolster-global-fight-against-preventable-blindness"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/echoidmY.webp"
 source = "citybiz"
 +++

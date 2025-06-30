@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/solowin-holdings-nasdaq-s
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/8f6caecd56f00b4e29eeacd2260ebd93.png"
 article_id = 85081
 feed_item_id = 15865
-url = "/news/202506/85081-solowin-holdings-pioneers-the-integration-of-traditional-finance-and-digital-assets-with-strategic-investments"
+url = "/202506/85081-solowin-holdings-pioneers-the-integration-of-traditional-finance-and-digital-assets-with-strategic-investments"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/finelYhH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

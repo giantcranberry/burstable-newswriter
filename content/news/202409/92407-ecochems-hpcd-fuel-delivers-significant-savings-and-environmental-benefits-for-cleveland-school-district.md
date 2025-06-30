@@ -1,0 +1,16 @@
++++
+title = "EcoChem's HPCD Fuel Delivers Significant Savings and Environmental Benefits for Cleveland School District"
+date = "2024-09-05T07:29:17Z"
+draft = false
+summary = "The Cleveland Metropolitan School District's adoption of EcoChem's High Performance Clean Diesel Fuel has led to substantial fuel savings, reduced maintenance costs, and improved air quality, setting a precedent for other districts."
+description = "CMSD achieves significant cost savings and cleaner air for students by switching to EcoChem's HPCD fuel, demonstrating the potential impact of clean fuel initiatives in school districts across the country."
+source_link = "https://www.newmediawire.com/news/cleveland-metropolitan-school-testing-validates-over-8-fuel-savings-using-ecochem-s-high-performance-clean-diesel-fuel-and-delivers-250-000-in-annual-savings-7075999"
+enclosure = "https://s3.amazonaws.com/cms.ipressroom.com/270/files/202409/12d9fcfe9e0e4508_66d74509da846f3069c047e0_1"
+article_id = 92407
+feed_item_id = 6515
+url = "/202409/92407-ecochems-hpcd-fuel-delivers-significant-savings-and-environmental-benefits-for-cleveland-school-district"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/249/5/ableXO0E.webp"
+source = "NewMediaWire"
++++
+
+<p>The Cleveland Metropolitan School District (CMSD) has reported significant benefits from using EcoChem's High Performance Clean Diesel (HPCD) Fuel in their school bus fleet, including an 8% fuel savings and a 5% reduction in maintenance costs during a recent 12-week trial. These savings translate to over $250,000 annually for the district, showcasing the economic advantages of switching to cleaner fuel alternatives.</p><p>Initial testing a decade ago revealed an 11% fuel savings and fewer regeneration cycles, with the latest results confirming HPCD's superiority even after the installation of new clean fuel tanks. The discovery of contamination in these new tanks after just nine months further underscores the necessity of EcoChem's fuel treatment protocol, which ensures the delivery of ultra-refined fuel to buses, optimizing combustion and efficiency.</p><p>Beyond the financial benefits, CMSD has noted a decrease in black smoke and exhaust emissions, contributing to cleaner air for students. This aligns with the district's focus on student health and safety, as emphasized by the Transportation Director, who highlighted the reduction in regeneration cycles and enhanced bus performance.</p><p>Joshua F. Koch, Founder and CIO of EcoChem Alternative Fuels, highlighted the company's decade-long partnership with CMSD and its commitment to fostering a healthier environment for students. The success in Cleveland serves as a model for other districts, suggesting that adopting HPCD fuel can lead to improved air quality, alongside economic and operational benefits.</p><p>The implications of CMSD's experience are far-reaching, offering a blueprint for how school districts can achieve fiscal and environmental goals simultaneously. As concerns over air quality and its impact on student health grow, the shift towards cleaner fuel alternatives in school transportation becomes increasingly vital. CMSD's ongoing commitment to HPCD fuel underscores the tangible benefits of investing in such technologies, paving the way for a broader adoption across educational institutions.</p>

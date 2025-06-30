@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/nvidia-to-make-ai-super
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85572
 feed_item_id = 12953
-url = "/news/202504/85572-nvidia-shifts-strategy-to-domestic-production-of-ai-supercomputers"
+url = "/202504/85572-nvidia-shifts-strategy-to-domestic-production-of-ai-supercomputers"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/17/smogMdDI.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

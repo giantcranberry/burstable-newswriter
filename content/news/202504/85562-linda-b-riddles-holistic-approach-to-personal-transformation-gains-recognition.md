@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522010/linda-b-rid
 enclosure = "https://cdn.newsramp.app/banners/alternative-health-2.jpg"
 article_id = 85562
 feed_item_id = 12998
-url = "/news/202504/85562-linda-b-riddles-holistic-approach-to-personal-transformation-gains-recognition"
+url = "/202504/85562-linda-b-riddles-holistic-approach-to-personal-transformation-gains-recognition"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/19/fern0Qdx.webp"
 source = "24-7 Press Release"
 +++

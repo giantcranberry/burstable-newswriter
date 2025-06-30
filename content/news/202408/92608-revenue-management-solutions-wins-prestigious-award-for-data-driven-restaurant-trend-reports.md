@@ -1,0 +1,16 @@
++++
+title = "Revenue Management Solutions Wins Prestigious Award for Data-Driven Restaurant Trend Reports"
+date = "2024-08-12T12:40:12Z"
+draft = false
+summary = "Revenue Management Solutions (RMS) has been honored at the 2024 Social Media, Digital & Content Marketing Awards for its innovative use of data analytics in the restaurant industry, highlighting the critical role of data-driven insights in navigating sector challenges."
+description = "Revenue Management Solutions (RMS) wins 2024 Social Media, Digital & Content Marketing Award for its impactful Restaurant Trend Reports. The win showcases the importance of data-driven content in capturing audience attention and driving meaningful results."
+source_link = "https://newsdirect.com/news/revenue-management-solutions-named-best-use-of-research-and-surveys-in-pr-dailys-2024-social-media-digital-and-content-marketing-awards-794492059"
+enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
+article_id = 92608
+feed_item_id = 5651
+url = "/202408/92608-revenue-management-solutions-wins-prestigious-award-for-data-driven-restaurant-trend-reports"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/248/12/ninoZB87.webp"
+source = "News Direct"
++++
+
+<p>Revenue Management Solutions (RMS), a global leader in data-driven analytics for the restaurant industry, has been recognized at the 2024 Social Media, Digital & Content Marketing Awards for its Restaurant Trend Reports. The award in the 'Use of Research/Surveys' category underscores the significance of RMS's contributions to the restaurant sector through its data-driven approach.</p><p>The accolade, presented by PR Daily, highlights the effectiveness of RMS's reports in providing actionable insights into restaurant pricing, sales, and traffic. These reports have become a vital resource for industry influencers and have been featured in leading news outlets such as Reuters, The Wall Street Journal, and Bloomberg.</p><p>Jana Zschieschang, RMS Chief Brand Officer, remarked on the award as a testament to the team's dedication to delivering insightful content that aids in the success of the restaurant industry. The Quick-Service Trend Report, in particular, has been instrumental in offering clear and concise insights into the dynamic restaurant business landscape.</p><p>Brendan Gannon, Senior Marketing Manager for the Ragan/PR Daily Awards programs, commended RMS for setting a new standard in content creation with its exceptional storytelling and strategic insights. This recognition arrives as the restaurant industry grapples with challenges like inflation and labor costs, making RMS's data-driven solutions more relevant than ever.</p><p>With a 30-year history of partnering with restaurant brands, RMS's AI-powered solutions now support over 100,000 locations worldwide. This extensive reach demonstrates the scalability and reliability of RMS's offerings, emphasizing the growing necessity for data-driven decision-making in the industry.</p><p>The award from PR Daily not only celebrates RMS's achievements but also shines a spotlight on the importance of accurate, timely, and actionable data in the restaurant industry. As RMS continues to innovate, its solutions are poised to play a pivotal role in helping restaurant owners and managers navigate the complexities of the market.</p>

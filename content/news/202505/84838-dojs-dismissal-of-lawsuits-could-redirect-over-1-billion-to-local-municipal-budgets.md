@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/doj-action-restores-over-one-billion-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84838
 feed_item_id = 14478
-url = "/news/202505/84838-dojs-dismissal-of-lawsuits-could-redirect-over-1-billion-to-local-municipal-budgets"
+url = "/202505/84838-dojs-dismissal-of-lawsuits-could-redirect-over-1-billion-to-local-municipal-budgets"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/21/cooliNTN.webp"
 source = "News Direct"
 +++

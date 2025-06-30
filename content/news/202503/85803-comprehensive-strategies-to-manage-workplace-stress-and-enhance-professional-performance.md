@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/effective-strategies-for-managing-stre
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/0910d8ecb8457b5992d5b869e03b4a7f.jpg"
 article_id = 85803
 feed_item_id = 12164
-url = "/news/202503/85803-comprehensive-strategies-to-manage-workplace-stress-and-enhance-professional-performance"
+url = "/202503/85803-comprehensive-strategies-to-manage-workplace-stress-and-enhance-professional-performance"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/24/lunakzYg.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/rezolve-ai-nasdaq-rzlv-fe
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/7ef40af44a36a442abbac9677cbc9942.png"
 article_id = 85078
 feed_item_id = 15872
-url = "/news/202506/85078-rezolve-ai-showcases-revolutionary-brain-suite-at-roths-15th-annual-london-conference"
+url = "/202506/85078-rezolve-ai-showcases-revolutionary-brain-suite-at-roths-15th-annual-london-conference"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/eachLX5A.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

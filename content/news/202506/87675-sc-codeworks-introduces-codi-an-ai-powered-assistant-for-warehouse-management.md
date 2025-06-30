@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/sc-codeworks-launches-codi-its-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 87675
 feed_item_id = 15492
-url = "/news/202506/87675-sc-codeworks-introduces-codi-an-ai-powered-assistant-for-warehouse-management"
+url = "/202506/87675-sc-codeworks-introduces-codi-an-ai-powered-assistant-for-warehouse-management"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/11/jazzWGRo.webp"
 source = "NewMediaWire"
 +++

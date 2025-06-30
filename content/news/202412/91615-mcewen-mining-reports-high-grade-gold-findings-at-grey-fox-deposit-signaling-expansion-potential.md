@@ -1,0 +1,16 @@
++++
+title = "McEwen Mining Reports High-Grade Gold Findings at Grey Fox Deposit, Signaling Expansion Potential"
+date = "2024-12-03T17:50:17Z"
+draft = false
+summary = "McEwen Mining's recent assay results from the Grey Fox deposit in Ontario highlight significant gold production expansion possibilities, drawing parallels to Japan's Hishikari Gold Mine and underscoring the importance of new high-grade discoveries in the global gold mining industry."
+description = "McEwen Mining (MUX) reveals promising assay results from Grey Fox deposit in Ontario, Canada, with potential for significant gold resources. Ongoing exploration and updated resource estimate expected in Q1 2025."
+source_link = "https://rss.investorbrandnetwork.com/ult-prem/mcewen-mining-nyse-mux-tsx-mux-reports-high-grade-gold-results-and-expansion-potential-at-grey-fox-deposit/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 91615
+feed_item_id = 9099
+url = "/202412/91615-mcewen-mining-reports-high-grade-gold-findings-at-grey-fox-deposit-signaling-expansion-potential"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/2412/3/fondrFI2.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>McEwen Mining (NYSE: MUX) (TSX: MUX) has unveiled assay results from its Grey Fox deposit in the Fox Complex, Ontario, Canada, revealing high-grade gold intersections that suggest substantial expansion and production potential. A notable finding includes an intersection of 10.2 g/t gold over 11.1 meters at the Whiskey Jack zone, emphasizing the deposit's high-grade mineralization.</p><p>Geological comparisons between Grey Fox and Japan's Hishikari Gold Mine, one of the world's richest, hint at the presence of stacked epithermal veins alongside orogenic gold zones at Grey Fox. This similarity raises the prospect of significant untapped resources, with current models identifying over 50 mineralized lenses. Remarkably, 90% of the deposit's 1.4-million-ounce gold resource lies within 300 meters of the surface, promising cost-effective mining operations and easier access to gold-bearing zones.</p><p>The exploration program at Grey Fox is part of McEwen Mining's strategy to enhance asset productivity and lifespan, aiming to boost share price and investor value. The company plans to release an updated resource estimate for the Fox Complex in Q1 2025, potentially reflecting increased gold resources from Grey Fox findings.</p><p>These developments are critical for the global gold mining sector, where the discovery of high-grade, expandable deposits is vital for sustaining production levels amid dwindling easily accessible reserves. McEwen Mining's progress at Grey Fox could not only improve its financial and market standing but also stimulate regional economic growth through increased investment.</p><p>McEwen Mining emphasizes responsible mining and community engagement as it advances exploration at Grey Fox, viewing the Fox Complex as a key opportunity to solidify its industry position and deliver long-term stakeholder value.</p>

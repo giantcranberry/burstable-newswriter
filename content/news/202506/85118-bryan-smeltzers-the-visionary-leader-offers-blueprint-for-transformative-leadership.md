@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523557/new-book-re
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85118
 feed_item_id = 15389
-url = "/news/202506/85118-bryan-smeltzers-the-visionary-leader-offers-blueprint-for-transformative-leadership"
+url = "/202506/85118-bryan-smeltzers-the-visionary-leader-offers-blueprint-for-transformative-leadership"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/navy6qZy.webp"
 source = "24-7 Press Release"
 +++

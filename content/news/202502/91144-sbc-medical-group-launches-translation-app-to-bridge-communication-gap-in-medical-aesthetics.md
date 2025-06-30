@@ -1,0 +1,16 @@
++++
+title = "SBC Medical Group Launches Translation App to Bridge Communication Gap in Medical Aesthetics"
+date = "2025-02-07T13:40:11Z"
+draft = false
+summary = "SBC Medical Group introduces a translation app to enhance communication with international patients, supporting its growth and expansion in the global medical aesthetics market."
+description = "Discover the latest updates on SBC Medical Group's strong growth in the medical aesthetics market. Learn about the company's revenue growth, global expansion strategies, and initiatives to capitalize on medical tourism. Understand the risks and opportunities associated with investing in SBC Medical Group."
+source_link = "https://newsdirect.com/news/sbc-medical-nasdaq-sbc-announces-new-translation-app-after-zacks-and-sidoti-initiate-coverage-emphasize-strong-growth-749090835"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/308f7223f8d637383ff0b6c482c5a165.png"
+article_id = 91144
+feed_item_id = 10716
+url = "/202502/91144-sbc-medical-group-launches-translation-app-to-bridge-communication-gap-in-medical-aesthetics"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/7/rainO1Ck.webp"
+source = "News Direct"
++++
+
+<p>SBC Medical Group (NASDAQ: SBC), a Tokyo-based leader in medical aesthetics, has unveiled a translation app aimed at improving communication with international patients. This innovative tool supports English and Chinese, addressing the language barriers that often complicate the patient experience in medical aesthetics. The app's introduction comes as SBC Medical reports significant revenue growth, from $174 million in 2022 to $194 million in 2023, with a 23% year-over-year increase for the nine months ending September 30, 2024.</p><p>The company's strategic focus on medical tourism, particularly in Asia, has positioned it as a preferred provider for over 10,000 inbound patients annually. The translation app is a key component of SBC Medical's strategy to enhance patient confidence and satisfaction by ensuring accurate communication of specialized medical terms. This initiative reflects the company's commitment to leveraging technology to overcome industry challenges and capitalize on growth opportunities.</p><p>Analysts from Zacks Small-Cap Research and Sidoti & Company have recognized SBC Medical's strong market position and potential for further expansion. The company's early entry into Japan's aesthetic medicine market and its solid financial foundation are seen as competitive advantages. Despite facing risks like foreign exchange volatility and rapid technological changes, SBC Medical continues to innovate, as evidenced by its partnership with Tokyo-based B4A, a technology provider.</p><p>Looking ahead, SBC Medical plans to expand the app's language offerings and deploy it across all its clinics, reinforcing its leadership in the international medical aesthetics sector. This move not only underscores the company's dedication to patient care but also highlights the growing importance of technology in bridging cultural and linguistic divides in healthcare.</p>

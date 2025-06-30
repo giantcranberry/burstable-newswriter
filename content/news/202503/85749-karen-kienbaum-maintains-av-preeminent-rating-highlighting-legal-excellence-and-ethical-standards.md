@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521138/attorney-ka
 enclosure = "https://cdn.newsramp.app/banners/awards-2.jpg"
 article_id = 85749
 feed_item_id = 12323
-url = "/news/202503/85749-karen-kienbaum-maintains-av-preeminent-rating-highlighting-legal-excellence-and-ethical-standards"
+url = "/202503/85749-karen-kienbaum-maintains-av-preeminent-rating-highlighting-legal-excellence-and-ethical-standards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/29/quitM4P9.webp"
 source = "24-7 Press Release"
 +++

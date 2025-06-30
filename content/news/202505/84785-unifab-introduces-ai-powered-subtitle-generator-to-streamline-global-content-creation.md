@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523235/unifab-laun
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84785
 feed_item_id = 14716
-url = "/news/202505/84785-unifab-introduces-ai-powered-subtitle-generator-to-streamline-global-content-creation"
+url = "/202505/84785-unifab-introduces-ai-powered-subtitle-generator-to-streamline-global-content-creation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/29/boldR3s2.webp"
 source = "24-7 Press Release"
 +++

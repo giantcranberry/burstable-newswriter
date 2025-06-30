@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523523/american-ma
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85131
 feed_item_id = 15192
-url = "/news/202506/85131-modern-fence-technology-champions-american-manufacturing-with-durable-aesthetic-fence-hardware"
+url = "/202506/85131-modern-fence-technology-champions-american-manufacturing-with-durable-aesthetic-fence-hardware"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/5/diveshyw.webp"
 source = "24-7 Press Release"
 +++

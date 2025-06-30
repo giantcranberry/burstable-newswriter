@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523394/one-powerfu
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85161
 feed_item_id = 14835
-url = "/news/202506/85161-vyb-platform-revolutionizes-entrepreneurial-support-with-comprehensive-business-ecosystem"
+url = "/202506/85161-vyb-platform-revolutionizes-entrepreneurial-support-with-comprehensive-business-ecosystem"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/2/meang5uO.webp"
 source = "24-7 Press Release"
 +++

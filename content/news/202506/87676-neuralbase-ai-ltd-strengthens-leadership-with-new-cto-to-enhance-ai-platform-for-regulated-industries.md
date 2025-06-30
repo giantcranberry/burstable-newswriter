@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-appoints-tushar-shiv
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 87676
 feed_item_id = 15481
-url = "/news/202506/87676-neuralbase-ai-ltd-strengthens-leadership-with-new-cto-to-enhance-ai-platform-for-regulated-industries"
+url = "/202506/87676-neuralbase-ai-ltd-strengthens-leadership-with-new-cto-to-enhance-ai-platform-for-regulated-industries"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/11/note7VV7.webp"
 source = "NewMediaWire"
 +++

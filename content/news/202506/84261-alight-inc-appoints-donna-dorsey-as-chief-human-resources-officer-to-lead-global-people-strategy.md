@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701656/alight-appoints-donna-dorse
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c236076c6459223327f4a55592167ba9.png"
 article_id = 84261
 feed_item_id = 14953
-url = "/news/202506/84261-alight-inc-appoints-donna-dorsey-as-chief-human-resources-officer-to-lead-global-people-strategy"
+url = "/202506/84261-alight-inc-appoints-donna-dorsey-as-chief-human-resources-officer-to-lead-global-people-strategy"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/vibe493v.webp"
 source = "citybiz"
 +++

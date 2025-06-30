@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523561/2025-winnin
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84643
 feed_item_id = 15288
-url = "/news/202506/84643-new-hampshire-bar-associations-winning-at-trial-seminar-sets-benchmark-for-legal-education"
+url = "/202506/84643-new-hampshire-bar-associations-winning-at-trial-seminar-sets-benchmark-for-legal-education"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/6/gluebNeR.webp"
 source = "24-7 Press Release"
 +++

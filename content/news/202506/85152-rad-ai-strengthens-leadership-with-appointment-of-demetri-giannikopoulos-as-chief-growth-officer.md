@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701708/rad-ai-appoints-demetri-gia
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85152
 feed_item_id = 14961
-url = "/news/202506/85152-rad-ai-strengthens-leadership-with-appointment-of-demetri-giannikopoulos-as-chief-growth-officer"
+url = "/202506/85152-rad-ai-strengthens-leadership-with-appointment-of-demetri-giannikopoulos-as-chief-growth-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/tallaVUH.webp"
 source = "citybiz"
 +++

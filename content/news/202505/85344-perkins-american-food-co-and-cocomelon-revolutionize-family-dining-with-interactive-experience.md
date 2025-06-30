@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522517/perkins-ame
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-1.jpg"
 article_id = 85344
 feed_item_id = 13837
-url = "/news/202505/85344-perkins-american-food-co-and-cocomelon-revolutionize-family-dining-with-interactive-experience"
+url = "/202505/85344-perkins-american-food-co-and-cocomelon-revolutionize-family-dining-with-interactive-experience"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/6/vibe0HMK.webp"
 source = "24-7 Press Release"
 +++

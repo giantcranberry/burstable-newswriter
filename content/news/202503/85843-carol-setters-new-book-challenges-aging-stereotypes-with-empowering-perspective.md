@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520756/new-book-fr
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-1.jpg"
 article_id = 85843
 feed_item_id = 12030
-url = "/news/202503/85843-carol-setters-new-book-challenges-aging-stereotypes-with-empowering-perspective"
+url = "/202503/85843-carol-setters-new-book-challenges-aging-stereotypes-with-empowering-perspective"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/19/lambxcG9.webp"
 source = "24-7 Press Release"
 +++

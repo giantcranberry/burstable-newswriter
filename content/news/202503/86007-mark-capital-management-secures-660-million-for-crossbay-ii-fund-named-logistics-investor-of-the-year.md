@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520203/mark-capita
 enclosure = "https://cdn.newsramp.app/banners/real-estate-2.jpg"
 article_id = 86007
 feed_item_id = 11551
-url = "/news/202503/86007-mark-capital-management-secures-660-million-for-crossbay-ii-fund-named-logistics-investor-of-the-year"
+url = "/202503/86007-mark-capital-management-secures-660-million-for-crossbay-ii-fund-named-logistics-investor-of-the-year"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/ulnaOAtc.webp"
 source = "24-7 Press Release"
 +++

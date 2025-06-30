@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522721/dedepu-laun
 enclosure = "https://cdn.newsramp.app/banners/sports-1.jpg"
 article_id = 85261
 feed_item_id = 14133
-url = "/news/202505/85261-dedepus-mini-dive-pro-revolutionizes-recreational-diving-with-portable-innovation"
+url = "/202505/85261-dedepus-mini-dive-pro-revolutionizes-recreational-diving-with-portable-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/14/goldbzrH.webp"
 source = "24-7 Press Release"
 +++

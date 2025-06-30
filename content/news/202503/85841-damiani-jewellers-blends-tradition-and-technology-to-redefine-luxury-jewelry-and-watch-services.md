@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520768/professiona
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 85841
 feed_item_id = 12032
-url = "/news/202503/85841-damiani-jewellers-blends-tradition-and-technology-to-redefine-luxury-jewelry-and-watch-services"
+url = "/202503/85841-damiani-jewellers-blends-tradition-and-technology-to-redefine-luxury-jewelry-and-watch-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/19/quiz0YCv.webp"
 source = "24-7 Press Release"
 +++

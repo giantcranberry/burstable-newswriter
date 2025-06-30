@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-datava
 enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
 article_id = 84192
 feed_item_id = 15141
-url = "/news/202506/84192-datavault-ai-and-gft-rewards-partner-to-revolutionize-consumer-engagement-with-adior-technology"
+url = "/202506/84192-datavault-ai-and-gft-rewards-partner-to-revolutionize-consumer-engagement-with-adior-technology"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/lambnjht.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

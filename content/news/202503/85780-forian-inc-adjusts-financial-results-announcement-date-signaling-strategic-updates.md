@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/forian-inc-to-announce-fourth-q
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85780
 feed_item_id = 12238
-url = "/news/202503/85780-forian-inc-adjusts-financial-results-announcement-date-signaling-strategic-updates"
+url = "/202503/85780-forian-inc-adjusts-financial-results-announcement-date-signaling-strategic-updates"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/26/pearpelf.webp"
 source = "NewMediaWire"
 +++

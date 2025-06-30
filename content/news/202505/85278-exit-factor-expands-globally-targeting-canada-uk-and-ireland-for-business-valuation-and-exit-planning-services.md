@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522696/exit-factor
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85278
 feed_item_id = 14040
-url = "/news/202505/85278-exit-factor-expands-globally-targeting-canada-uk-and-ireland-for-business-valuation-and-exit-planning-services"
+url = "/202505/85278-exit-factor-expands-globally-targeting-canada-uk-and-ireland-for-business-valuation-and-exit-planning-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/13/islexs9m.webp"
 source = "24-7 Press Release"
 +++

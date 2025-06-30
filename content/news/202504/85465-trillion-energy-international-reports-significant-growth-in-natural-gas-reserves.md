@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-trilli
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85465
 feed_item_id = 13432
-url = "/news/202504/85465-trillion-energy-international-reports-significant-growth-in-natural-gas-reserves"
+url = "/202504/85465-trillion-energy-international-reports-significant-growth-in-natural-gas-reserves"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/pintYNOf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

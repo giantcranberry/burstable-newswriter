@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/845-move-now-introduces-new-moving-ser
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/164f0545ed672b9f4fc92ad86763b8b9.jpg"
 article_id = 84755
 feed_item_id = 14892
-url = "/news/202506/84755-845-move-now-llc-expands-services-to-meet-growing-demand-in-hudson-valley"
+url = "/202506/84755-845-move-now-llc-expands-services-to-meet-growing-demand-in-hudson-valley"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/gluerBSP.webp"
 source = "Press Services"
 +++

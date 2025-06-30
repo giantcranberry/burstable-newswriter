@@ -1,0 +1,16 @@
++++
+title = "Survey Highlights Self-Checkout's Impact on Fresh Produce Sales and Consumer Satisfaction"
+date = "2024-10-03T07:00:15Z"
+draft = false
+summary = "A recent survey by Fusion reveals the growing preference for self-checkout among consumers, highlighting both its benefits and the challenges it poses for fresh produce sales, urging retailers to improve system usability to enhance customer satisfaction and reduce lost sales."
+description = "Fusion survey reveals insights into self-checkout behavior, challenges, and actionable solutions for retailers and produce companies to optimize the customer experience and increase sales."
+source_link = "https://www.24-7pressrelease.com/press-release/514928/self-checkout-survey-highlights-key-opportunities-to-increase-sales-of-fresh-produce"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0514928_209228.png"
+article_id = 92157
+feed_item_id = 7355
+url = "/202410/92157-survey-highlights-self-checkouts-impact-on-fresh-produce-sales-and-consumer-satisfaction"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2410/3/vastkmd3.webp"
+source = "24-7 Press Release"
++++
+
+<p>A new consumer survey conducted by Fusion has illuminated the significant role of self-checkout in today's retail environment, particularly its effects on fresh produce sales. With over three-quarters of consumers regularly opting for self-checkout and 90% expressing satisfaction, the trend underscores a shift towards self-service transactions driven by desires for privacy and speed. However, the survey also uncovers critical challenges, especially in scanning produce, which could be hampering sales and customer satisfaction.</p><p>Nearly 60% of respondents encountered difficulties with packaged produce, and more than two-thirds faced issues with bulk items, often due to barcode problems or cumbersome manual entry processes. These frustrations have led 57% of shoppers to abandon produce purchases at the register, signaling a clear need for better labeling and more intuitive user interfaces in self-checkout systems.</p><p>The survey suggests actionable improvements, such as clearer on-screen instructions and audio prompts, to mitigate confusion. Additionally, allowing customers to continue scanning despite issues could enhance the shopping experience by reducing interruptions. These insights are crucial for retailers and produce companies aiming to adapt to consumer preferences and technological advancements, offering a pathway to increased efficiency, higher sales, and improved customer loyalty.</p><p>As the retail sector continues to evolve, the findings from Fusion's survey serve as a valuable resource for businesses looking to refine their self-checkout systems. By addressing the identified pain points, retailers can better meet the needs of modern shoppers, ensuring a seamless and satisfying shopping experience that encourages repeat business and fosters long-term customer relationships.</p>

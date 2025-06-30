@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522103/american-ar
 enclosure = "https://cdn.newsramp.app/banners/media-3.jpg"
 article_id = 85477
 feed_item_id = 13338
-url = "/news/202504/85477-american-art-collective-podcast-marks-fourth-anniversary-with-325th-episode"
+url = "/202504/85477-american-art-collective-podcast-marks-fourth-anniversary-with-325th-episode"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/ulna383b.webp"
 source = "24-7 Press Release"
 +++

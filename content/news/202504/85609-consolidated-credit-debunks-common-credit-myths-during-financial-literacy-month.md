@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/consolidated-credit-addresses-common-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/6b1006dcaeb56ac0de6eb09244d50220.jpg"
 article_id = 85609
 feed_item_id = 12769
-url = "/news/202504/85609-consolidated-credit-debunks-common-credit-myths-during-financial-literacy-month"
+url = "/202504/85609-consolidated-credit-debunks-common-credit-myths-during-financial-literacy-month"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/15/nukeP8CC.webp"
 source = "News Direct"
 +++

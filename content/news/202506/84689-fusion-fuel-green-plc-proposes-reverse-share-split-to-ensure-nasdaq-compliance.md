@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-fusion
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84689
 feed_item_id = 15140
-url = "/news/202506/84689-fusion-fuel-green-plc-proposes-reverse-share-split-to-ensure-nasdaq-compliance"
+url = "/202506/84689-fusion-fuel-green-plc-proposes-reverse-share-split-to-ensure-nasdaq-compliance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/fineG5Bk.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

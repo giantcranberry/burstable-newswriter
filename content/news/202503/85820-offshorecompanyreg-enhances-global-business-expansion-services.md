@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/offshorecompanyreg-launches-new-compr
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85820
 feed_item_id = 12113
-url = "/news/202503/85820-offshorecompanyreg-enhances-global-business-expansion-services"
+url = "/202503/85820-offshorecompanyreg-enhances-global-business-expansion-services"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/21/take0DU7.webp"
 source = "News Direct"
 +++

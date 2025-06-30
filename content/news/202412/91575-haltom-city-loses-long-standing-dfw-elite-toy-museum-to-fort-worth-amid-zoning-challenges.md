@@ -1,0 +1,16 @@
++++
+title = "Haltom City Loses Long-Standing DFW Elite Toy Museum to Fort Worth Amid Zoning Challenges"
+date = "2024-12-10T08:00:20Z"
+draft = false
+summary = "The relocation of Ron Sturgeon's DFW Elite Toy Museum to Fort Worth after 50 years in Haltom City underscores the city's challenges with zoning regulations and business retention, signaling a need for policy adaptation to prevent further economic decline."
+description = "Ron Sturgeon, Haltom City entrepreneur, encounters obstacles in moving his DFW Elite Toy Museum within the city, leading to a decision to relocate to Fort Worth."
+source_link = "https://www.24-7pressrelease.com/press-release/516337/haltom-city-loses-collector-car-museum-to-fort-worth"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0516337_211094.jpg"
+article_id = 91575
+feed_item_id = 9244
+url = "/202412/91575-haltom-city-loses-long-standing-dfw-elite-toy-museum-to-fort-worth-amid-zoning-challenges"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2412/10/zealP3Wo.webp"
+source = "24-7 Press Release"
++++
+
+<p>The DFW Elite Toy Museum, a cherished institution in Haltom City for half a century, is set to relocate to Fort Worth, marking a significant shift for the local business landscape. Founded by entrepreneur Ron Sturgeon, the museum's move comes after unsuccessful efforts to secure a suitable location within Haltom City, spotlighting the difficulties businesses face in the city's aging corridors.</p><p>Sturgeon's quest for a new home for his collection of 3,000 antique automotive toys and over 150 collector cars was hampered by Haltom City's zoning regulations and parking requirements. The absence of a museum classification in the city's use and parking matrix forced proposed locations to be categorized as offices, necessitating an impractical number of parking spaces. Despite Sturgeon's advocacy for adding a museum classification, the city's response was to suggest applying for variances, a process deemed too lengthy and uncertain by the entrepreneur.</p><p>Opting for certainty, Sturgeon purchased a 150,000 square foot distribution center on I-35 in Fort Worth, where the museum, to be renamed DFW Car & Toy Museum, will reopen in early 2025. This move not only deprives Haltom City of a unique, free-admission attraction but also highlights the city's broader challenges in supporting small businesses and revitalizing older districts.</p><p>Sturgeon's efforts through the Haltom United Business Alliance to advocate for corridor improvements and his offer to fund a $100,000 study by Strong Towns were met with resistance, reflecting a preference for familiar solutions over innovative approaches. The museum's relocation serves as a critical reminder of the need for Haltom City to revisit its zoning policies and business support mechanisms to foster economic growth and prevent further losses.</p><p>The departure of the DFW Elite Toy Museum to Fort Worth raises pressing questions about Haltom City's strategies for business retention and urban development. As the city grapples with these issues, the outcome will significantly influence its economic trajectory and the well-being of its communities.</p>

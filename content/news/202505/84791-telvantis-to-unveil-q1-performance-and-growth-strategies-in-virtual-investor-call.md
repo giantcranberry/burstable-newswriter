@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/raadr-inc-doing-business-as-tel
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84791
 feed_item_id = 14672
-url = "/news/202505/84791-telvantis-to-unveil-q1-performance-and-growth-strategies-in-virtual-investor-call"
+url = "/202505/84791-telvantis-to-unveil-q1-performance-and-growth-strategies-in-virtual-investor-call"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/28/zestdZJR.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521642/foreign-aff
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85634
 feed_item_id = 12676
-url = "/news/202504/85634-foreign-affairs-automotive-services-marks-43-years-of-excellence-in-european-auto-repair"
+url = "/202504/85634-foreign-affairs-automotive-services-marks-43-years-of-excellence-in-european-auto-repair"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/11/flaxUNoL.webp"
 source = "24-7 Press Release"
 +++

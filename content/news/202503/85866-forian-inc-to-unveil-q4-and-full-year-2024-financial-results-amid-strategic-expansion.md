@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/forian-inc-to-announce-fourth-q
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85866
 feed_item_id = 11925
-url = "/news/202503/85866-forian-inc-to-unveil-q4-and-full-year-2024-financial-results-amid-strategic-expansion"
+url = "/202503/85866-forian-inc-to-unveil-q4-and-full-year-2024-financial-results-amid-strategic-expansion"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/14/smogmLLR.webp"
 source = "NewMediaWire"
 +++

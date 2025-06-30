@@ -8,7 +8,7 @@ source_link = "https://newsroom.prkarma.com/rapidfire/news_release/1650"
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/62327b2ef482470492f4ab7d24b4f6ce.jpg"
 article_id = 85805
 feed_item_id = 12160
-url = "/news/202503/85805-rapidfire-safety-security-expands-texas-footprint-with-acquisition-of-progressive-protection"
+url = "/202503/85805-rapidfire-safety-security-expands-texas-footprint-with-acquisition-of-progressive-protection"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/253/24/silkJyuv.webp"
 source = "PR Karma"
 +++

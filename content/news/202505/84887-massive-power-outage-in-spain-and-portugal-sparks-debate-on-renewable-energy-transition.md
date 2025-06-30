@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/unprecedented-power-blac
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84887
 feed_item_id = 14276
-url = "/news/202505/84887-massive-power-outage-in-spain-and-portugal-sparks-debate-on-renewable-energy-transition"
+url = "/202505/84887-massive-power-outage-in-spain-and-portugal-sparks-debate-on-renewable-energy-transition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/ellayU8b.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Sekur Private Data Ltd. Launches Strategic Marketing Campaign and Financial Initiative to Expand North American Presence"
+date = "2025-04-25T02:22:52Z"
+draft = false
+summary = "Sekur Private Data Ltd. partners with Stockhouse and announces a significant financial initiative to enhance market awareness and support its Swiss-hosted cybersecurity solutions in North America."
+description = "Sekur Private Data partners with Stockhouse to drive market awareness and prepares to release new solutions. The company offers Swiss-hosted cybersecurity and internet privacy solutions, including encrypted emails and secure messengers, to consumers, businesses, and governments worldwide."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-private-data-ltd-cse-skur-otcqx-swisf-fse-gdt0-launches-stockhouse-campaign-announces-ca420k-private-placement/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 90796
+feed_item_id = 13250
+url = "/202504/90796-sekur-private-data-ltd-launches-strategic-marketing-campaign-and-financial-initiative-to-expand-north-american-presence"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/tilePNAl.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Sekur Private Data Ltd., a Swiss-hosted cybersecurity and private communications platform, has embarked on a strategic marketing campaign with Stockhouse, Canada's premier financial portal, aiming to bolster its visibility among North American small-cap investors. This initiative coincides with the announcement of a substantial financial move by the company, involving the issuance of over 3.5 million shares to service providers and a CA$420,000 non-brokered private placement. The private placement introduces convertible units with a 15% annual interest rate and warrants priced at CA$0.20, with the proceeds earmarked for U.S. marketing endeavors and general working capital needs.</p><p>Specializing in encrypted communication solutions, Sekur Private Data provides a range of secure email, messenger, and communication tools tailored for consumers, businesses, and governments globally. The collaboration with Stockhouse is a calculated effort to amplify the company's profile and draw in investors keen on the burgeoning sectors of cybersecurity and privacy technologies. Targeting North American small-cap investors, Sekur Private Data aims to underscore its distinctive stance in the vital market of secure digital communications.</p><p>Amid escalating worries over digital privacy and cybersecurity, Sekur's Swiss-hosted platform emerges as a compelling option for entities and individuals prioritizing communication security. The anticipated rollout of the company's Corporate and Premium solutions is set to further set its offerings apart in the fiercely competitive cybersecurity arena. This strategic marketing and financial initiative underscores Sekur Private Data's commitment to expanding its footprint and reinforcing its position as a leader in secure digital communications.</p>

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/aston-bay-holdings-ltd-t
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85515
 feed_item_id = 13154
-url = "/news/202504/85515-strategic-partnership-accelerates-development-of-storm-copper-project-in-nunavut"
+url = "/202504/85515-strategic-partnership-accelerates-development-of-storm-copper-project-in-nunavut"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/23/tallq9BR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

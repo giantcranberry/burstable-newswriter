@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522447/nashs-sprin
 enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
 article_id = 85365
 feed_item_id = 13765
-url = "/news/202505/85365-nash-jewellers-announces-spring-sale-with-significant-discounts-for-mothers-day"
+url = "/202505/85365-nash-jewellers-announces-spring-sale-with-significant-discounts-for-mothers-day"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/3/larkwy_b.webp"
 source = "24-7 Press Release"
 +++

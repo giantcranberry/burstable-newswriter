@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/extraordinary-women-usa-2025/"
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85774
 feed_item_id = 12253
-url = "/news/202503/85774-celebrating-latina-leadership-extraordinary-women-usa-2025-honors-trailblazers-in-business-and-community"
+url = "/202503/85774-celebrating-latina-leadership-extraordinary-women-usa-2025-honors-trailblazers-in-business-and-community"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/253/27/kite_XJR.webp"
 source = "Noticias Newswire"
 +++

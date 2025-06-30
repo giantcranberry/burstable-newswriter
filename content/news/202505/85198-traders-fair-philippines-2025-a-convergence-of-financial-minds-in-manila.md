@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-trader
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 85198
 feed_item_id = 14471
-url = "/news/202505/85198-traders-fair-philippines-2025-a-convergence-of-financial-minds-in-manila"
+url = "/202505/85198-traders-fair-philippines-2025-a-convergence-of-financial-minds-in-manila"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/irisXs24.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

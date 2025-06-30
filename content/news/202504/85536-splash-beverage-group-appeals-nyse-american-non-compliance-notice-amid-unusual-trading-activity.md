@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/per-regulatory-requirements-spl
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85536
 feed_item_id = 13084
-url = "/news/202504/85536-splash-beverage-group-appeals-nyse-american-non-compliance-notice-amid-unusual-trading-activity"
+url = "/202504/85536-splash-beverage-group-appeals-nyse-american-non-compliance-notice-amid-unusual-trading-activity"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/22/gluehx7i.webp"
 source = "NewMediaWire"
 +++

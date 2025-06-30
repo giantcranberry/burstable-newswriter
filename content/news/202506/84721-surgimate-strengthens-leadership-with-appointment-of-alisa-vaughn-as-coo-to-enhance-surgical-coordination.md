@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702050/surgimate-appoints-alisa-va
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84721
 feed_item_id = 15040
-url = "/news/202506/84721-surgimate-strengthens-leadership-with-appointment-of-alisa-vaughn-as-coo-to-enhance-surgical-coordination"
+url = "/202506/84721-surgimate-strengthens-leadership-with-appointment-of-alisa-vaughn-as-coo-to-enhance-surgical-coordination"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/warpInVH.webp"
 source = "citybiz"
 +++

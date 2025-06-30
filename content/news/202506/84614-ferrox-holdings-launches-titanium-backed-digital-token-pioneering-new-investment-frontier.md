@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 84614
 feed_item_id = 15347
-url = "/news/202506/84614-ferrox-holdings-launches-titanium-backed-digital-token-pioneering-new-investment-frontier"
+url = "/202506/84614-ferrox-holdings-launches-titanium-backed-digital-token-pioneering-new-investment-frontier"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/9/ella47yA.webp"
 source = "NewMediaWire"
 +++

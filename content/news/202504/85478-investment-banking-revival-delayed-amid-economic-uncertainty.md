@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/economic-uncertainty-del
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85478
 feed_item_id = 13265
-url = "/news/202504/85478-investment-banking-revival-delayed-amid-economic-uncertainty"
+url = "/202504/85478-investment-banking-revival-delayed-amid-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/kiwi4vfG.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

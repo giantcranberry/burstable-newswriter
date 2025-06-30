@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702942/jones-foster-adds-attorney-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85132
 feed_item_id = 15180
-url = "/news/202506/85132-jones-foster-strengthens-legal-expertise-with-addition-of-evan-a-sanchez"
+url = "/202506/85132-jones-foster-strengthens-legal-expertise-with-addition-of-evan-a-sanchez"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/envyiUAI.webp"
 source = "citybiz"
 +++

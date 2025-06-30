@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/c823c1bfee8f4da31fcccb394f663879.jpg"
 article_id = 85301
 feed_item_id = 13970
-url = "/news/202505/85301-gladstone-commercial-corporation-reports-strong-q1-2025-performance-with-strategic-industrial-real-estate-focus"
+url = "/202505/85301-gladstone-commercial-corporation-reports-strong-q1-2025-performance-with-strategic-industrial-real-estate-focus"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/9/fondAeZd.webp"
 source = "Reportable"
 +++

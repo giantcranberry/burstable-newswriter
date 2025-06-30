@@ -1,0 +1,16 @@
++++
+title = "Steppe Gold Ltd. Expands Gold Production in Mongolia with Strategic Acquisitions"
+date = "2024-12-29T05:51:18Z"
+draft = false
+summary = "Steppe Gold Ltd. enhances its position in Mongolia's gold mining sector through the acquisition of Boroo Gold and the expansion of its ATO Gold Mine, signaling significant growth and financial potential."
+description = "Steppe Gold Ltd. acquires Boroo Gold, becomes leading gold producer in Mongolia. Strong financial performance and expansion plans position the company for significant growth in the Mongolian gold market. Investors should take note of Steppe's promising future."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-3q24-report-on-steppe-gold-ltd-tsx-stgo"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
+article_id = 91469
+feed_item_id = 9659
+url = "/202412/91469-steppe-gold-ltd-expands-gold-production-in-mongolia-with-strategic-acquisitions"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/2412/29/vibe0wSV.webp"
+source = "Reportable"
++++
+
+<p>Steppe Gold Ltd. (TSX:STGO) has significantly expanded its gold production capabilities in Mongolia following the acquisition of Boroo Gold from Boroo Singapore, a move that closed on August 1, 2024. This strategic acquisition not only elevates Steppe Gold's status within Mongolia's gold mining industry but also increases its annual production to between 80,000 and 85,000 ounces for 2024 and 2025. The Boroo Mine, now a cornerstone of Steppe Gold's operations, is projected to produce 430,000 ounces of gold by 2031, with a Net Present Value (NPV) of $260.1 million based on a gold price of $2,300 per ounce.</p><p>The integration of Boroo Gold's operations is anticipated to generate cost savings and operational synergies, contributing to Steppe Gold's revenue growth in the latter half of 2024. In a related transaction, Steppe Gold sold its Tres Cruces Project to Boroo Singapore for approximately CAD$12.0 million, further streamlining its focus on Mongolian operations and enhancing liquidity.</p><p>Steppe Gold's flagship ATO Gold Mine continues to demonstrate robust performance, with significant ore mining and stacking activities reported in the third quarter of 2024. The company is advancing the ATO project's Phase 2 expansion, supported by a $150 million finance package, with production expected to begin in the first quarter of 2026. This expansion is projected to significantly increase the project's value, with an after-tax NPV5% of US$242 million and an Internal Rate of Return (IRR) of 67% under conservative estimates.</p><p>Stonegate Capital Partners' valuation of Steppe Gold underscores the company's growth potential, with share price valuations reflecting confidence in its strategic direction and asset base. These developments not only solidify Steppe Gold's position as a leading gold producer in Mongolia but also highlight the company's appeal to investors seeking exposure to the gold mining sector's growth opportunities.</p>

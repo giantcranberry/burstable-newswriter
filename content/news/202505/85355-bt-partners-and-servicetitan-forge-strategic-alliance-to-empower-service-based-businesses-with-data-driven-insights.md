@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522453/driving-res
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85355
 feed_item_id = 13800
-url = "/news/202505/85355-bt-partners-and-servicetitan-forge-strategic-alliance-to-empower-service-based-businesses-with-data-driven-insights"
+url = "/202505/85355-bt-partners-and-servicetitan-forge-strategic-alliance-to-empower-service-based-businesses-with-data-driven-insights"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/6/rain4xf2.webp"
 source = "24-7 Press Release"
 +++

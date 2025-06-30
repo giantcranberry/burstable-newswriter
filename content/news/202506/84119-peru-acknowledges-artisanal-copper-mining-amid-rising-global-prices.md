@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/peru-acknowledges-the-ex
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84119
 feed_item_id = 15366
-url = "/news/202506/84119-peru-acknowledges-artisanal-copper-mining-amid-rising-global-prices"
+url = "/202506/84119-peru-acknowledges-artisanal-copper-mining-amid-rising-global-prices"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/frogh0aP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

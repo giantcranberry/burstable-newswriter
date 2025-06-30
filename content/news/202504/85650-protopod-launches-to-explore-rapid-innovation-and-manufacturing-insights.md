@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/protocase-launches-protopod-a-b
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85650
 feed_item_id = 12625
-url = "/news/202504/85650-protopod-launches-to-explore-rapid-innovation-and-manufacturing-insights"
+url = "/202504/85650-protopod-launches-to-explore-rapid-innovation-and-manufacturing-insights"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/9/tallutN1.webp"
 source = "NewMediaWire"
 +++

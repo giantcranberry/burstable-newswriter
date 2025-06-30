@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/giant-mining-corp-finalizes-and
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85861
 feed_item_id = 11947
-url = "/news/202503/85861-giant-mining-corp-leverages-ai-for-strategic-exploration-at-majuba-hill-project"
+url = "/202503/85861-giant-mining-corp-leverages-ai-for-strategic-exploration-at-majuba-hill-project"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/17/gleeKnH7.webp"
 source = "NewMediaWire"
 +++

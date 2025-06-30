@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-experts-leads-cutting-edge
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85181
 feed_item_id = 14593
-url = "/news/202505/85181-car-garage-expert-elevates-porsche-care-in-al-quoz-with-cutting-edge-services"
+url = "/202505/85181-car-garage-expert-elevates-porsche-care-in-al-quoz-with-cutting-edge-services"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/24/ninouD_Q.webp"
 source = "News Direct"
 +++

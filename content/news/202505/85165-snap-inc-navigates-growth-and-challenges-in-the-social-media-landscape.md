@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-snap-i
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85165
 feed_item_id = 14770
-url = "/news/202505/85165-snap-inc-navigates-growth-and-challenges-in-the-social-media-landscape"
+url = "/202505/85165-snap-inc-navigates-growth-and-challenges-in-the-social-media-landscape"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/oxenr59x.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

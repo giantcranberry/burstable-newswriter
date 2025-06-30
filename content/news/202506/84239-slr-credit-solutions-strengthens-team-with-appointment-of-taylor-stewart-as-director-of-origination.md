@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701926/slr-credit-solutions-appoin
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84239
 feed_item_id = 15004
-url = "/news/202506/84239-slr-credit-solutions-strengthens-team-with-appointment-of-taylor-stewart-as-director-of-origination"
+url = "/202506/84239-slr-credit-solutions-strengthens-team-with-appointment-of-taylor-stewart-as-director-of-origination"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/neonahqc.webp"
 source = "citybiz"
 +++

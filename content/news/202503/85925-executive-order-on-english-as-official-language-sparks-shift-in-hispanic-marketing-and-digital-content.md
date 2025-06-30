@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/trumps-executive-order-on-english-as-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/951195f885a0ecb908a297656c796f26.jpg"
 article_id = 85925
 feed_item_id = 11734
-url = "/news/202503/85925-executive-order-on-english-as-official-language-sparks-shift-in-hispanic-marketing-and-digital-content"
+url = "/202503/85925-executive-order-on-english-as-official-language-sparks-shift-in-hispanic-marketing-and-digital-content"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/7/quitg02n.webp"
 source = "News Direct"
 +++

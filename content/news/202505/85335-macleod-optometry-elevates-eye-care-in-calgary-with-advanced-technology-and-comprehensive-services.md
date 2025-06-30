@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522535/macleod-opt
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85335
 feed_item_id = 13863
-url = "/news/202505/85335-macleod-optometry-elevates-eye-care-in-calgary-with-advanced-technology-and-comprehensive-services"
+url = "/202505/85335-macleod-optometry-elevates-eye-care-in-calgary-with-advanced-technology-and-comprehensive-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/7/chipsvSP.webp"
 source = "24-7 Press Release"
 +++

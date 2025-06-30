@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-asure-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85526
 feed_item_id = 13109
-url = "/news/202504/85526-asure-software-secures-60-million-credit-facility-to-boost-hcm-solutions"
+url = "/202504/85526-asure-software-secures-60-million-credit-facility-to-boost-hcm-solutions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/frogbFMk.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

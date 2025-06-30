@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/bigloads-makes-trailer-rentals-easier-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/d1c8379e7bd1f3d876c460e27ff564b4.jpg"
 article_id = 85559
 feed_item_id = 13026
-url = "/news/202504/85559-bigloads-revolutionizes-trailer-rental-market-with-peer-to-peer-platform"
+url = "/202504/85559-bigloads-revolutionizes-trailer-rental-market-with-peer-to-peer-platform"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/21/oxendfi_.webp"
 source = "Press Services"
 +++

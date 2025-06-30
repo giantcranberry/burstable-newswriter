@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522521/from-spread
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85340
 feed_item_id = 13850
-url = "/news/202505/85340-ellie-mcintyres-tailored-seo-strategies-transform-digital-marketing-for-accounting-firms"
+url = "/202505/85340-ellie-mcintyres-tailored-seo-strategies-transform-digital-marketing-for-accounting-firms"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/7/daveWAR0.webp"
 source = "24-7 Press Release"
 +++

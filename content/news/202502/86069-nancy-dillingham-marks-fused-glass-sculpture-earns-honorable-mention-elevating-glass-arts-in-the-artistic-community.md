@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520136/local-artis
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 86069
 feed_item_id = 11220
-url = "/news/202502/86069-nancy-dillingham-marks-fused-glass-sculpture-earns-honorable-mention-elevating-glass-arts-in-the-artistic-community"
+url = "/202502/86069-nancy-dillingham-marks-fused-glass-sculpture-earns-honorable-mention-elevating-glass-arts-in-the-artistic-community"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/28/mossNJZY.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523143/redrodentre
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84378
 feed_item_id = 14589
-url = "/news/202505/84378-new-online-guide-offers-comprehensive-solutions-for-rat-infestations"
+url = "/202505/84378-new-online-guide-offers-comprehensive-solutions-for-rat-infestations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/24/camcfZ3T.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/justin-sun-delivers-keynote-at-liberl
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/863fce2b25f4bec5a7ade4840939fe70.png"
 article_id = 85567
 feed_item_id = 12977
-url = "/news/202504/85567-liberlands-10th-anniversary-conference-highlights-blockchains-role-in-shaping-future-economies"
+url = "/202504/85567-liberlands-10th-anniversary-conference-highlights-blockchains-role-in-shaping-future-economies"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/17/xenoLyCy.webp"
 source = "News Direct"
 +++

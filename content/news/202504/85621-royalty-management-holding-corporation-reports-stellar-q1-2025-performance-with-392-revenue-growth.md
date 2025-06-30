@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85621
 feed_item_id = 12720
-url = "/news/202504/85621-royalty-management-holding-corporation-reports-stellar-q1-2025-performance-with-392-revenue-growth"
+url = "/202504/85621-royalty-management-holding-corporation-reports-stellar-q1-2025-performance-with-392-revenue-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/14/mintBdn5.webp"
 source = "NewMediaWire"
 +++

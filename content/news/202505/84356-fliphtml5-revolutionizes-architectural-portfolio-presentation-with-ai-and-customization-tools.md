@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523178/fliphtml5-i
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84356
 feed_item_id = 14653
-url = "/news/202505/84356-fliphtml5-revolutionizes-architectural-portfolio-presentation-with-ai-and-customization-tools"
+url = "/202505/84356-fliphtml5-revolutionizes-architectural-portfolio-presentation-with-ai-and-customization-tools"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/ableOdbd.webp"
 source = "24-7 Press Release"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Aloe Semiconductor Unveils 850-Gb/s Optical Communication Module at OFC Conference"
+date = "2025-04-01T18:35:26Z"
+draft = false
+summary = "Aloe Semiconductor's new optical communication module, showcasing at the OFC Conference, marks a significant advancement in optical networking by quadrupling fiber capacity without new silicon infrastructure."
+description = "Aloe Semiconductor demonstrates 850-Gb/s DP-BiDi-PAM4 technology at OFC 2025, showcasing a four-fold increase in fiber capacity. Learn about the groundbreaking innovation and its impact on optical communication efficiency and cost-effectiveness."
+source_link = "https://newsdirect.com/news/aloe-semiconductor-demonstrates-850-gb-s-dp-bidi-pam4-osfp-module-at-ofc-2025-378241693"
+enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
+article_id = 90864
+feed_item_id = 12405
+url = "/202504/90864-aloe-semiconductor-unveils-850-gbs-optical-communication-module-at-ofc-conference"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/1/apexVtnx.webp"
+source = "News Direct"
++++
+
+<p>Aloe Semiconductor is poised to demonstrate a revolutionary optical communication module at the Optical Fiber Communication (OFC) Conference in San Francisco, capable of achieving 850-Gb/s per fiber pair. This innovation represents a major leap forward in optical networking, integrating dual polarization (DP) and bi-directional (BiDi) technologies to significantly enhance fiber capacity without the need for new silicon infrastructure.</p><p>The module's design leverages a single-chip silicon-photonic integrated circuit (PIC) that includes both transmitter and receiver components. It operates using two wavelengths—1271 nm and 1311 nm—for bi-directional transmission and incorporates a Broadcom Sian 2 digital-signal processor with integrated modulators and a transimpedance amplifier. This technical achievement not only quadruples the capacity of existing fiber but also addresses the critical challenges of optical escape and cabling density in network scalability.</p><p>Christopher Doerr, CEO of Aloe Semiconductor, highlighted the module's potential, suggesting that future advancements could enable speeds of up to 1.6T per fiber pair with 200-Gbaud technology. This demonstration underscores the potential of combining polarization multiplexing with density-improvement technologies to redefine the limits of optical communication performance.</p><p>Dirk Lutz of Eoptolink, a collaborator on the project, praised the DP-PAM4 technology as a novel solution to increasing short-reach fiber capacity, emphasizing its ability to do so without the need for extensive silicon redesign. This development is particularly timely, as the optical networking industry faces increasing pressure to overcome the limitations of current technologies.</p><p>Aloe Semiconductor's breakthrough is set to position the company as a leader in optical communication innovation, offering a more efficient and compact solution for high-performance networking infrastructure. This advancement could have far-reaching implications for the industry, enabling more scalable and cost-effective network solutions to meet the growing demands of data transmission.</p>

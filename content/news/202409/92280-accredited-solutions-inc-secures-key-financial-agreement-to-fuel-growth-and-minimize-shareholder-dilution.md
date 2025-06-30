@@ -1,0 +1,16 @@
++++
+title = "Accredited Solutions, Inc. Secures Key Financial Agreement to Fuel Growth and Minimize Shareholder Dilution"
+date = "2024-09-18T12:15:16Z"
+draft = false
+summary = "Accredited Solutions, Inc. has reached a pivotal agreement with its variable price conversion security holders, setting a 60-day lock-up and 6-month leak-out on conversions, marking a strategic move towards cash redemption and reducing shareholder dilution."
+description = "Accredited Solutions, Inc. has successfully reached an agreement to avoid shareholder dilution and lower cost of capital, positioning the company for future growth and acquisition opportunities."
+source_link = "https://www.newmediawire.com/news/accredited-solutions-reaches-agreement-with-100-of-promissory-note-holders-for-60-day-lock-up-and-6-month-leak-out-on-all-conversions-7076062"
+enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
+article_id = 92280
+feed_item_id = 6927
+url = "/202409/92280-accredited-solutions-inc-secures-key-financial-agreement-to-fuel-growth-and-minimize-shareholder-dilution"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/249/18/jokerTeI.webp"
+source = "NewMediaWire"
++++
+
+<p>Accredited Solutions, Inc. (OTC: ASII), the parent company of Diamond Creek Water, has announced a strategic financial agreement with all its variable price conversion security holders, introducing a 60-day lock-up and a 6-month leak-out on conversions. This interim measure is a significant step towards the company's objective of redeeming all outstanding variable price convertible instruments in cash, showcasing the confidence of its financing partners in its long-term vision and growth strategy.</p><p>Eduardo Brito, CEO of Accredited Solutions, Inc., highlighted the importance of this agreement, emphasizing the trust and commitment from financing partners towards the company's future. The company intends to use proceeds from its forthcoming Reg A offering to redeem these securities, thereby avoiding the conversion into common stock and minimizing dilution for existing shareholders. This approach not only lowers the cost of capital but also aligns with the company's ambitious 5-year growth plan targeting $750 million in annual revenue through strategic acquisitions and organic expansion.</p><p>The agreement's implications reach beyond Accredited Solutions, offering a potential blueprint for other companies in managing debt and equity structures more effectively. By prioritizing cash redemption and negotiating favorable terms with debt holders, the company sets a proactive example in capital management, possibly influencing practices within the OTC market and among growth-oriented companies facing similar challenges.</p><p>As Accredited Solutions progresses with its growth strategy, the effectiveness of this financial maneuver in achieving its revenue targets and executing acquisitions will be closely watched. This development not only underscores the company's innovative approach to financing but also its potential to inspire similar strategies across the OTC market, enhancing stability and investment appeal for emerging companies.</p>

@@ -1,0 +1,16 @@
++++
+title = "Mullen Automotive Advances Commercial EV Sector with Refrigerated Electric Truck Partnership"
+date = "2024-12-02T14:25:18Z"
+draft = false
+summary = "Mullen Automotive's strategic partnership to develop a refrigerated upfit for its all-electric truck signifies a major leap in sustainable logistics for perishable goods transportation."
+description = "Mullen Automotive announces collaboration to develop refrigerated upfit for Mullen THREE electric truck, targeting frozen food, grocery, and beverage delivery industries. State and federal incentives available for Mullen THREE and Mullen ONE models, offering substantial cost savings for fleet operators."
+source_link = "https://rss.investorbrandnetwork.com/ult-prem/mullen-nasdaq-muln-partners-with-emerald-and-pape-to-launch-refrigerated-ev-truck-solution/"
+enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
+article_id = 91629
+feed_item_id = 9046
+url = "/202412/91629-mullen-automotive-advances-commercial-ev-sector-with-refrigerated-electric-truck-partnership"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/2412/2/talljW2o.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Mullen Automotive has taken a significant step in the electric vehicle (EV) industry by announcing a strategic partnership with Emerald Transportation Solutions and the Papé Group. This collaboration aims to develop a refrigerated ('reefer') upfit for the Mullen THREE, a Class 3 all-electric truck, catering to the commercial transportation of perishable goods. The Mullen THREE's design features a clean top-of-rail chassis and a payload capacity exceeding 5,300 lbs, making it an ideal solution for sectors like frozen food, grocery, and beverage delivery that demand specialized transportation options.</p><p>This initiative underscores Mullen Automotive's commitment to providing environmentally friendly transportation solutions tailored to specific industry needs. The company is also making its EVs more accessible through state and federal financial incentives, including eligibility for up to $7,500 in federal EV tax credits, enhancing the appeal for fleet operators considering the switch to sustainable options.</p><p>Beyond this partnership, Mullen Automotive has been expanding its commercial footprint, with production starting at its Tunica, Mississippi plant and achieving key regulatory milestones. The Mullen ONE and Mullen THREE have received certifications from the California Air Resource Board (CARB) and EPA, facilitating their sale across the United States. Additionally, the CARB-issued HVIP approval for the Mullen THREE offers up to a $45,000 cash voucher, further incentivizing purchases.</p><p>The company's strategic expansions include growing its commercial dealer network to seven dealers and obtaining Foreign Trade Zone (FTZ) status for its manufacturing center, which could bolster its competitiveness in the global market. These developments position Mullen Automotive as a pivotal player in the commercial EV sector, with the refrigerated electric truck solution addressing a critical market need and potentially speeding up EV adoption in perishable goods logistics, thereby reducing emissions and fostering sustainable operations.</p>

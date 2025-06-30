@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/lawrina-introduces-innovative-legal-t
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85910
 feed_item_id = 11785
-url = "/news/202503/85910-lawrina-revolutionizes-legal-document-management-with-advanced-digital-tools"
+url = "/202503/85910-lawrina-revolutionizes-legal-document-management-with-advanced-digital-tools"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/10/mossqVaH.webp"
 source = "News Direct"
 +++

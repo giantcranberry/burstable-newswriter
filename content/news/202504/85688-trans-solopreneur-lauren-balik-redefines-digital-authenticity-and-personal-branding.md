@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521452/meet-the-tr
 enclosure = "https://cdn.newsramp.app/banners/media-3.jpg"
 article_id = 85688
 feed_item_id = 12498
-url = "/news/202504/85688-trans-solopreneur-lauren-balik-redefines-digital-authenticity-and-personal-branding"
+url = "/202504/85688-trans-solopreneur-lauren-balik-redefines-digital-authenticity-and-personal-branding"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/wolftNgX.webp"
 source = "24-7 Press Release"
 +++

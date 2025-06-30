@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-matrix-group-reports-rec
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85810
 feed_item_id = 12146
-url = "/news/202503/85810-golden-matrix-group-reports-significant-revenue-growth-in-2024-driven-by-strategic-acquisitions-and-ai-innovations"
+url = "/202503/85810-golden-matrix-group-reports-significant-revenue-growth-in-2024-driven-by-strategic-acquisitions-and-ai-innovations"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/24/mail30Gj.webp"
 source = "NewMediaWire"
 +++

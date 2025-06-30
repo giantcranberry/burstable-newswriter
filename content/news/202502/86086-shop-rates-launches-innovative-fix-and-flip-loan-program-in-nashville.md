@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520071/premier-fix
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 86086
 feed_item_id = 11193
-url = "/news/202502/86086-shop-rates-launches-innovative-fix-and-flip-loan-program-in-nashville"
+url = "/202502/86086-shop-rates-launches-innovative-fix-and-flip-loan-program-in-nashville"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/27/bendwQG7.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522542/jeffrey-w-n
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 85339
 feed_item_id = 13853
-url = "/news/202505/85339-awc-inc-strengthens-board-with-appointment-of-industrial-manufacturing-leader-jeffrey-w-nank"
+url = "/202505/85339-awc-inc-strengthens-board-with-appointment-of-industrial-manufacturing-leader-jeffrey-w-nank"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/7/gluenass.webp"
 source = "24-7 Press Release"
 +++

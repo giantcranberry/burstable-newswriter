@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-hol
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85385
 feed_item_id = 13712
-url = "/news/202505/85385-onar-holding-corporation-appoints-marketing-veteran-jon-bond-to-board-of-directors"
+url = "/202505/85385-onar-holding-corporation-appoints-marketing-veteran-jon-bond-to-board-of-directors"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/1/pale7tRt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

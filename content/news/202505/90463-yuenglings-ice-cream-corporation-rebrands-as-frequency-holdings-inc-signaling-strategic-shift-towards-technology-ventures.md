@@ -1,0 +1,16 @@
++++
+title = "Yuenglings Ice Cream Corporation Rebrands as Frequency Holdings, Inc., Signaling Strategic Shift Towards Technology Ventures"
+date = "2025-05-12T13:10:13Z"
+draft = false
+summary = "Yuenglings Ice Cream Corporation's rebranding to Frequency Holdings, Inc. underscores a strategic pivot towards building a portfolio of technology ventures, aiming for long-term shareholder value and leadership in emerging digital markets."
+description = "Yuenglings Ice Cream Corporation rebrands as Frequency Holdings, Inc to focus on high-impact technology ventures and cybersecurity. ReachOut subsidiary to expand acquisition strategy in the US market. The move reflects a strategic evolution for the company."
+source_link = "https://www.newmediawire.com/news/yuenglings-ice-cream-corp-otc-ycrm-files-name-change-to-frequency-holdings-inc-to-reflect-strategic-evolution-into-multi-brand-tech-holding-company-7080672"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 90463
+feed_item_id = 14011
+url = "/202505/90463-yuenglings-ice-cream-corporation-rebrands-as-frequency-holdings-inc-signaling-strategic-shift-towards-technology-ventures"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/12/rubyEfsr.webp"
+source = "NewMediaWire"
++++
+
+<p>Yuenglings Ice Cream Corporation (OTC: YCRM) has taken a significant step in its strategic evolution by filing amended articles of incorporation with the State of Nevada to change its corporate name to Frequency Holdings, Inc. This move is not merely a change in name but represents a profound shift in the company's direction, aligning itself with the models of successful holding companies such as Berkshire Hathaway and Alphabet. The rebranding reflects the company's ambition to cultivate a portfolio of technology ventures that promise high impact, vertical leadership, and sustainable value creation for shareholders.</p><p>CEO Rick Jordan highlighted the strategic rationale behind the new name, emphasizing the company's focus on delivering clarity, speed, and purpose across various technology sectors. Frequency Holdings, Inc. is set to concentrate on platforms that embody these principles, with ReachOut, its flagship subsidiary, continuing to pursue an aggressive acquisition strategy in the IT and cybersecurity market. The company is particularly interested in regional firms with revenues between $500,000 and $2 million, planning to utilize AI-driven support models and operational playbooks for seamless integration.</p><p>Beyond ReachOut, Frequency Holdings is nurturing TRUSTLESS, an innovative venture in the digital identity and data verification space, designed to function autonomously with its own leadership and funding trajectory. Jordan also hinted at the exploration of additional ventures that could complement the Frequency ecosystem, indicating a dynamic approach to growth and diversification.</p><p>The name change, filed on May 9th, 2025, is anticipated to be officially recognized soon, with the company also rolling out new social media accounts and a dedicated landing page to mark its rebranding. This transition positions Frequency Holdings, Inc. as a visionary technology holding company, poised to make significant strides in the digital economy and redefine its legacy in the business and technology landscapes.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/everyware-integrates-visa-accep
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85538
 feed_item_id = 13080
-url = "/news/202504/85538-everyware-and-visa-revolutionize-payment-solutions-with-new-integration"
+url = "/202504/85538-everyware-and-visa-revolutionize-payment-solutions-with-new-integration"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/22/mildZoJA.webp"
 source = "NewMediaWire"
 +++

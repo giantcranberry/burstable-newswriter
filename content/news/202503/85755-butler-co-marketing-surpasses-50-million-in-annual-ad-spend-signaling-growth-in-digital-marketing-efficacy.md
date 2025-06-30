@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/butler-and-co-marketing-surpasses-50m
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 85755
 feed_item_id = 12311
-url = "/news/202503/85755-butler-co-marketing-surpasses-50-million-in-annual-ad-spend-signaling-growth-in-digital-marketing-efficacy"
+url = "/202503/85755-butler-co-marketing-surpasses-50-million-in-annual-ad-spend-signaling-growth-in-digital-marketing-efficacy"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/28/lendft0y.webp"
 source = "News Direct"
 +++

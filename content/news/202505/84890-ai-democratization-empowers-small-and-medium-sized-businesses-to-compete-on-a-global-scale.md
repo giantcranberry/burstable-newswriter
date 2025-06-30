@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/how-ai-can-supercharge-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84890
 feed_item_id = 14272
-url = "/news/202505/84890-ai-democratization-empowers-small-and-medium-sized-businesses-to-compete-on-a-global-scale"
+url = "/202505/84890-ai-democratization-empowers-small-and-medium-sized-businesses-to-compete-on-a-global-scale"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/larkjpfm.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

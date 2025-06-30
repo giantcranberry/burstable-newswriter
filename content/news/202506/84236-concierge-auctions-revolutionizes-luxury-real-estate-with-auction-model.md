@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701352/qa-with-chad-roffers-co-fou
 enclosure = "https://cdn.newsramp.app/banners/real-estate-1.jpg"
 article_id = 84236
 feed_item_id = 15018
-url = "/news/202506/84236-concierge-auctions-revolutionizes-luxury-real-estate-with-auction-model"
+url = "/202506/84236-concierge-auctions-revolutionizes-luxury-real-estate-with-auction-model"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/epic8vPY.webp"
 source = "citybiz"
 +++

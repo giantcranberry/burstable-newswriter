@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521461/dr-zandra-d
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-2.jpg"
 article_id = 85677
 feed_item_id = 12525
-url = "/news/202504/85677-dr-zandra-d-harris-revolutionizes-personal-growth-with-p-nrgy-coaching"
+url = "/202504/85677-dr-zandra-d-harris-revolutionizes-personal-growth-with-p-nrgy-coaching"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/mendd76s.webp"
 source = "24-7 Press Release"
 +++

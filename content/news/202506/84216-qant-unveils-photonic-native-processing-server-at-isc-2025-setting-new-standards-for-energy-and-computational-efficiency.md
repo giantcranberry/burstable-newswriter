@@ -8,7 +8,7 @@ source_link = "https://q-ant-gmbh.reportablenews.com/pr/q-ant-debuts-first-inter
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/8067be1beb40844b638d6ee22f4424a5.jpg"
 article_id = 84216
 feed_item_id = 15081
-url = "/news/202506/84216-qant-unveils-photonic-native-processing-server-at-isc-2025-setting-new-standards-for-energy-and-computational-efficiency"
+url = "/202506/84216-qant-unveils-photonic-native-processing-server-at-isc-2025-setting-new-standards-for-energy-and-computational-efficiency"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/4/zero2V1v.webp"
 source = "Reportable"
 +++

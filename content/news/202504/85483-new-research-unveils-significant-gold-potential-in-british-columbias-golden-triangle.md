@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-mcewen
 enclosure = "https://cdn.newsramp.app/banners/science-2.jpg"
 article_id = 85483
 feed_item_id = 13247
-url = "/news/202504/85483-new-research-unveils-significant-gold-potential-in-british-columbias-golden-triangle"
+url = "/202504/85483-new-research-unveils-significant-gold-potential-in-british-columbias-golden-triangle"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/divex_1r.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

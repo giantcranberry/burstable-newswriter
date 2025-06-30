@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-adageis-is
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85424
 feed_item_id = 13598
-url = "/news/202504/85424-adageis-revolutionizes-healthcare-administration-with-ai-powered-proactive-care-platform"
+url = "/202504/85424-adageis-revolutionizes-healthcare-administration-with-ai-powered-proactive-care-platform"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/29/openIEyU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

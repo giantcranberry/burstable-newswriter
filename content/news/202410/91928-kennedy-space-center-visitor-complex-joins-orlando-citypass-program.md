@@ -1,0 +1,16 @@
++++
+title = "Kennedy Space Center Visitor Complex Joins Orlando CityPASS Program"
+date = "2024-10-30T10:20:06Z"
+draft = false
+summary = "The inclusion of the Kennedy Space Center Visitor Complex in the Orlando CityPASS program offers travelers discounted access to space exploration experiences alongside traditional theme parks, enhancing the Orlando tourist experience."
+description = "CityPASS adds Kennedy Space Center Visitor Complex to Orlando CityPASS program, offering a unique space exploration experience alongside top attractions. This provides flexibility, customization, and significant savings for travelers and families planning a trip to Orlando."
+source_link = "https://www.newmediawire.com/news/kennedy-space-center-visitor-complex-joins-orlando-citypass-offering-an-extraordinary-space-adventure-7076344"
+enclosure = "https://s3.amazonaws.com/cms.ipressroom.com/270/files/202410/d1d9fc822ef07601_Entrance_Meatball_Space%2BPerson_Family%2BFour%2BPack_012019.jpg"
+article_id = 91928
+feed_item_id = 8115
+url = "/202410/91928-kennedy-space-center-visitor-complex-joins-orlando-citypass-program"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2410/30/fileTYwi.webp"
+source = "NewMediaWire"
++++
+
+<p>The Orlando CityPASS program has expanded its offerings by including the Kennedy Space Center Visitor Complex, providing travelers with discounted access to one of NASA's most iconic sites. This addition enriches the program's diverse range of attractions, combining the thrill of space exploration with the excitement of Orlando's renowned theme parks.</p><p>The Kennedy Space Center Visitor Complex is a pivotal site for NASA and the U.S. space program, offering visitors an immersive look into space exploration through exhibits like the Space Shuttle Atlantis and the Apollo/Saturn V Center. This partnership with CityPASS not only broadens the scope of educational and inspirational experiences available to visitors but also underscores the growing trend towards educational tourism.</p><p>Megan Allen, CEO of City Pass Inc., highlighted the significance of this addition, noting its appeal to a wide audience seeking both adventure and learning opportunities. The Orlando CityPASS program now encompasses a variety of attractions, including Walt Disney World Resort and Universal Orlando Resort, allowing for customizable travel experiences that cater to individual preferences and budgets.</p><p>With the convenience of digital ticket delivery and a user-friendly app, the CityPASS program simplifies the planning process for travelers. The inclusion of the Kennedy Space Center Visitor Complex not only diversifies the options available but also aligns with the increasing consumer interest in STEM-related experiences, marking a strategic move by CityPASS to adapt to evolving travel trends.</p><p>This expansion is a testament to the dynamic nature of the travel industry and the continuous effort to meet the changing preferences of travelers. By integrating educational and historical attractions like the Kennedy Space Center Visitor Complex, CityPASS is setting a new standard for comprehensive and value-packed travel experiences in Orlando.</p>

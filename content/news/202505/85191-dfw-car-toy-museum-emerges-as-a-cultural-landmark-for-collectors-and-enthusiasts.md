@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522915/antique-toy
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85191
 feed_item_id = 14518
-url = "/news/202505/85191-dfw-car-toy-museum-emerges-as-a-cultural-landmark-for-collectors-and-enthusiasts"
+url = "/202505/85191-dfw-car-toy-museum-emerges-as-a-cultural-landmark-for-collectors-and-enthusiasts"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/22/ideaZJyD.webp"
 source = "24-7 Press Release"
 +++

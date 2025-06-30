@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523085/celebrate-d
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-2.jpg"
 article_id = 85190
 feed_item_id = 14522
-url = "/news/202505/85190-damiani-jewellers-unveils-luxury-collection-for-fathers-day-and-graduation-season"
+url = "/202505/85190-damiani-jewellers-unveils-luxury-collection-for-fathers-day-and-graduation-season"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/22/elle70Tn.webp"
 source = "24-7 Press Release"
 +++

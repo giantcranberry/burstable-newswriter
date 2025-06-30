@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520482/send-echeck
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85898
 feed_item_id = 11824
-url = "/news/202503/85898-onlinecheckwritercom-revolutionizes-business-payments-with-1-echeck-service"
+url = "/202503/85898-onlinecheckwritercom-revolutionizes-business-payments-with-1-echeck-service"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/12/pearpAju.webp"
 source = "24-7 Press Release"
 +++

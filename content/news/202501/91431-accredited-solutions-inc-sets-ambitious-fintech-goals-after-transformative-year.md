@@ -1,0 +1,16 @@
++++
+title = "Accredited Solutions, Inc. Sets Ambitious Fintech Goals After Transformative Year"
+date = "2025-01-02T13:10:16Z"
+draft = false
+summary = "Accredited Solutions, Inc. outlines its strategy to dominate the fintech industry after a year of significant financial and strategic advancements, including the acquisition of Globetopper's API technology."
+description = "Accredited Solutions, a fintech leader, reveals 2024 successes including revenue growth and key acquisitions. With a visionary CEO at the helm, the company is poised for significant growth and innovation in the evolving fintech space."
+source_link = "https://www.newmediawire.com/news/accredited-solutions-issues-year-end-shareholder-letter-7078786"
+enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
+article_id = 91431
+feed_item_id = 9780
+url = "/202501/91431-accredited-solutions-inc-sets-ambitious-fintech-goals-after-transformative-year"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/251/2/gaing3PD.webp"
+source = "NewMediaWire"
++++
+
+<p>Accredited Solutions, Inc. (OTC: ASII) has marked a transformative year in 2024, setting the stage for an ambitious push into the fintech industry. The company's year-end shareholder letter reveals a strategic pivot from its roots in the e-gift card market towards broader financial technology opportunities, underpinned by the acquisition of Globetopper's API technology. This move is poised to redefine the company's trajectory in a rapidly evolving sector.</p><p>The company reported a record-breaking revenue increase of 37% in November 2024 compared to October, a surge attributed to the scalability of its fintech platform. The acquisition of Globetopper in October is hailed as a pivotal moment, enabling Accredited Solutions to expand its transaction capabilities beyond traditional gift cards. With the e-gift card market projected to reach $2.1 trillion by 2030, the company sees this as a strategic entry point into the larger fintech ecosystem.</p><p>Financially, Accredited Solutions has made significant strides, reducing its negative shareholder equity from approximately -$7.164 million to -$1.176 million and eliminating all outstanding convertible debt. The company is on track to report a positive net income for 2024, a critical milestone for its aggressive growth plans in fintech.</p><p>Under the leadership of Operating CEO Ben Farzam, Accredited Solutions has set a bold five-year revenue target of $750 million. The company's strategy includes leveraging Globetopper's API as a universal connector for financial platforms, pursuing further acquisitions, and harnessing data analytics for innovation in micro-lending, loyalty programs, and personalized financial services.</p><p>Accredited Solutions' commitment to a culture of innovation and people-centric growth underscores its ambition to be a major player in the fintech revolution. As the company transitions from e-gift cards to a comprehensive fintech play, its strategic positioning and ambitious plans highlight a significant shift in its business model and growth strategy, signaling its intent to capitalize on the burgeoning opportunities within the financial technology landscape.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/pampa-metals-intersects-98m-0-4
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 85401
 feed_item_id = 13663
-url = "/news/202504/85401-pampa-metals-corp-unveils-promising-copper-gold-discovery-in-argentina"
+url = "/202504/85401-pampa-metals-corp-unveils-promising-copper-gold-discovery-in-argentina"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/30/joinVtNp.webp"
 source = "NewMediaWire"
 +++

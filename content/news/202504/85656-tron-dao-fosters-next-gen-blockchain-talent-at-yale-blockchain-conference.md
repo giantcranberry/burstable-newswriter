@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/tron-dao-fueling-growth-for-young-inn
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/c7b2b8605661bdde7326bfcd7366b39a.png"
 article_id = 85656
 feed_item_id = 12597
-url = "/news/202504/85656-tron-dao-fosters-next-gen-blockchain-talent-at-yale-blockchain-conference"
+url = "/202504/85656-tron-dao-fosters-next-gen-blockchain-talent-at-yale-blockchain-conference"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/8/ovalN7Nz.webp"
 source = "News Direct"
 +++

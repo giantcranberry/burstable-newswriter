@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/expanded-reach-for-legal-and-at-home-p
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/abe1405a6a37608458832765006581d2.jpg"
 article_id = 85558
 feed_item_id = 13028
-url = "/news/202504/85558-testmark-dna-expands-nationwide-paternity-testing-services-enhancing-accessibility-and-privacy"
+url = "/202504/85558-testmark-dna-expands-nationwide-paternity-testing-services-enhancing-accessibility-and-privacy"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/21/daveTIIS.webp"
 source = "Press Services"
 +++

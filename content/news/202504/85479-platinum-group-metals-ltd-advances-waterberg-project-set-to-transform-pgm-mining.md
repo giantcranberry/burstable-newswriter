@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/platinum-group-metals-lt
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85479
 feed_item_id = 13266
-url = "/news/202504/85479-platinum-group-metals-ltd-advances-waterberg-project-set-to-transform-pgm-mining"
+url = "/202504/85479-platinum-group-metals-ltd-advances-waterberg-project-set-to-transform-pgm-mining"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/lushXO6M.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

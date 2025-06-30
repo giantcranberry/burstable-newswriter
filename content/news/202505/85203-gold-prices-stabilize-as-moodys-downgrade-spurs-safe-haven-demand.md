@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/gold-gains-stability-as-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85203
 feed_item_id = 14447
-url = "/news/202505/85203-gold-prices-stabilize-as-moodys-downgrade-spurs-safe-haven-demand"
+url = "/202505/85203-gold-prices-stabilize-as-moodys-downgrade-spurs-safe-haven-demand"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/elleZMmT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

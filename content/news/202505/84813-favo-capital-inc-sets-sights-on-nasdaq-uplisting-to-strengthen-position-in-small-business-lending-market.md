@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/favo-capital-inc-favo-pos
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84813
 feed_item_id = 14559
-url = "/news/202505/84813-favo-capital-inc-sets-sights-on-nasdaq-uplisting-to-strengthen-position-in-small-business-lending-market"
+url = "/202505/84813-favo-capital-inc-sets-sights-on-nasdaq-uplisting-to-strengthen-position-in-small-business-lending-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/23/loftCiKU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

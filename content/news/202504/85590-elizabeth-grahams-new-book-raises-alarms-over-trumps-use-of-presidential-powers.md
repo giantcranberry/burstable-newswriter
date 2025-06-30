@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521827/what-does-t
 enclosure = "https://cdn.newsramp.app/banners/government-politics-2.jpg"
 article_id = 85590
 feed_item_id = 12901
-url = "/news/202504/85590-elizabeth-grahams-new-book-raises-alarms-over-trumps-use-of-presidential-powers"
+url = "/202504/85590-elizabeth-grahams-new-book-raises-alarms-over-trumps-use-of-presidential-powers"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/16/epicSjGS.webp"
 source = "24-7 Press Release"
 +++

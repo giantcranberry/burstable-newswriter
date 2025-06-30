@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/leaders-in-the-news-siyata-mobile-fub
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84123
 feed_item_id = 15354
-url = "/news/202506/84123-strategic-mergers-and-expansions-reshape-industries-gaming-lottery-drones-and-streaming"
+url = "/202506/84123-strategic-mergers-and-expansions-reshape-industries-gaming-lottery-drones-and-streaming"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/9/evenr57a.webp"
 source = "News Direct"
 +++

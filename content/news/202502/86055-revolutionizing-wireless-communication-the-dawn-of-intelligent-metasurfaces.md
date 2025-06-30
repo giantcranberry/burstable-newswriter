@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520104/progress-on
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 86055
 feed_item_id = 11474
-url = "/news/202502/86055-revolutionizing-wireless-communication-the-dawn-of-intelligent-metasurfaces"
+url = "/202502/86055-revolutionizing-wireless-communication-the-dawn-of-intelligent-metasurfaces"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/28/epicjfjB.webp"
 source = "24-7 Press Release"
 +++

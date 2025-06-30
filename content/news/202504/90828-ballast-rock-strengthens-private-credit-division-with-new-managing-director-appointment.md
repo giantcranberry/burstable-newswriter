@@ -1,0 +1,16 @@
++++
+title = "Ballast Rock Strengthens Private Credit Division with New Managing Director Appointment"
+date = "2025-04-15T13:00:09Z"
+draft = false
+summary = "Ballast Rock appoints Max Jackson as Managing Director to spearhead its expansion into the rapidly growing private credit market, leveraging his extensive experience in financial services and investment strategies."
+description = "Ballast Rock appoints Max Jackson as Managing Director of Private Credit Portfolio. Firm aims to capitalize on fast-growing private credit sector with Jackson's expertise. Important news for investors seeking alternative investment opportunities."
+source_link = "https://newsdirect.com/news/ballast-rock-names-max-jackson-managing-director-and-private-credit-portfolio-manager-560769346"
+enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
+article_id = 90828
+feed_item_id = 12761
+url = "/202504/90828-ballast-rock-strengthens-private-credit-division-with-new-managing-director-appointment"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/15/rendn8lC.webp"
+source = "News Direct"
++++
+
+<p>Ballast Rock, a diversified investment management firm, has announced the appointment of Max Jackson as Managing Director and Private Credit Portfolio Manager. This strategic hire underscores the firm's focused expansion into the private credit markets, a segment experiencing rapid growth within the financial services industry. Jackson, who will be based in San Francisco, is tasked with identifying and evaluating private credit and development capital opportunities, in addition to leading merger and acquisition advisory efforts.</p><p>Simon O'Shea, Chief Investment Officer at Ballast Rock, emphasized the significance of Jackson's role in navigating the private credit landscape. Jackson's extensive experience, including his tenure as a Vice President at KeyBanc in their Utilities, Power & Renewable Energy Capital Markets team, positions him as a key asset in uncovering lucrative investment niches for Ballast Rock's investors. With a career that spans advising on over $1 billion in transactions and more than 500 assets, Jackson's expertise is expected to drive the firm's private credit initiatives forward.</p><p>Jackson's professional journey includes roles at MVP Capital and Fifth Third Securities, along with a stint as a senior auditor at Deloitte, where he provided assurance services to a diverse range of companies. His academic credentials, featuring a bachelor's degree from the University of California, Los Angeles, with a major in Business-Economics and minors in Environmental Systems in Society and Accounting, further complement his professional acumen.</p><p>The appointment of Jackson is a clear indicator of Ballast Rock's commitment to enhancing its private credit offerings. By integrating Jackson's deep understanding of financial systems and investment strategies, the firm is poised to explore innovative avenues for capitalizing on private credit opportunities. This move not only reflects Ballast Rock's adaptive strategy in a dynamic financial landscape but also signals the growing importance of private credit as a vital component of investment portfolios.</p>

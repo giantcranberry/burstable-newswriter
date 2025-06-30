@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/innovative-designs-inc-fiscal-f
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85808
 feed_item_id = 12150
-url = "/news/202503/85808-innovative-designs-inc-reports-record-breaking-quarter-with-700-sales-growth"
+url = "/202503/85808-innovative-designs-inc-reports-record-breaking-quarter-with-700-sales-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/24/swimzkEw.webp"
 source = "NewMediaWire"
 +++

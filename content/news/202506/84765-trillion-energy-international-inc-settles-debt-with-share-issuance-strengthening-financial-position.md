@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-trillion-ener
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84765
 feed_item_id = 14842
-url = "/news/202506/84765-trillion-energy-international-inc-settles-debt-with-share-issuance-strengthening-financial-position"
+url = "/202506/84765-trillion-energy-international-inc-settles-debt-with-share-issuance-strengthening-financial-position"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/mendDj3B.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

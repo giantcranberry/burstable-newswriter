@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84799
 feed_item_id = 14638
-url = "/news/202505/84799-solarbank-corporation-reports-significant-financial-growth-and-strategic-shift-towards-renewable-energy"
+url = "/202505/84799-solarbank-corporation-reports-significant-financial-growth-and-strategic-shift-towards-renewable-energy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/tintfb4t.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

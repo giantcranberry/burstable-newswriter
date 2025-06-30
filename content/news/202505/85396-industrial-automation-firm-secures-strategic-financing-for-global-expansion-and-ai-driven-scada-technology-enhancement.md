@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522385/industrial-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85396
 feed_item_id = 13682
-url = "/news/202505/85396-industrial-automation-firm-secures-strategic-financing-for-global-expansion-and-ai-driven-scada-technology-enhancement"
+url = "/202505/85396-industrial-automation-firm-secures-strategic-financing-for-global-expansion-and-ai-driven-scada-technology-enhancement"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/1/beanLG5V.webp"
 source = "24-7 Press Release"
 +++

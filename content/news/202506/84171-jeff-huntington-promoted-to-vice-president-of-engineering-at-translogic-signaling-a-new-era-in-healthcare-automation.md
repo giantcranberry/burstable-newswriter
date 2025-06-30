@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703059/translogic-promotes-jeff-hu
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84171
 feed_item_id = 15199
-url = "/news/202506/84171-jeff-huntington-promoted-to-vice-president-of-engineering-at-translogic-signaling-a-new-era-in-healthcare-automation"
+url = "/202506/84171-jeff-huntington-promoted-to-vice-president-of-engineering-at-translogic-signaling-a-new-era-in-healthcare-automation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/veil3smo.webp"
 source = "citybiz"
 +++

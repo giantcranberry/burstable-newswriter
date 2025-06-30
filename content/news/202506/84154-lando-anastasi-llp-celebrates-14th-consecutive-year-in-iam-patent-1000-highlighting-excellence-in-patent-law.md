@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703290/la-and-five-partners-recogn
 enclosure = "https://cdn.newsramp.app/banners/awards-2.jpg"
 article_id = 84154
 feed_item_id = 15246
-url = "/news/202506/84154-lando-anastasi-llp-celebrates-14th-consecutive-year-in-iam-patent-1000-highlighting-excellence-in-patent-law"
+url = "/202506/84154-lando-anastasi-llp-celebrates-14th-consecutive-year-in-iam-patent-1000-highlighting-excellence-in-patent-law"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/flaxPsjs.webp"
 source = "citybiz"
 +++

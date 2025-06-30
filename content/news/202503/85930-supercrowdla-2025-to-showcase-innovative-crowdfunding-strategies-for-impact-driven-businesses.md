@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520356/supercrowdl
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85930
 feed_item_id = 11716
-url = "/news/202503/85930-supercrowdla-2025-to-showcase-innovative-crowdfunding-strategies-for-impact-driven-businesses"
+url = "/202503/85930-supercrowdla-2025-to-showcase-innovative-crowdfunding-strategies-for-impact-driven-businesses"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/7/oxenkvgl.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/market-alert-buy-rating-reiterated-fo
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85766
 feed_item_id = 12268
-url = "/news/202503/85766-actelis-networks-reports-stellar-2024-financial-growth-analyst-highlights-undervalued-stock-potential"
+url = "/202503/85766-actelis-networks-reports-stellar-2024-financial-growth-analyst-highlights-undervalued-stock-potential"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/27/meanZwHK.webp"
 source = "News Direct"
 +++

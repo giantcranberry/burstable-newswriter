@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-freight-
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 85384
 feed_item_id = 13711
-url = "/news/202505/85384-freight-technologies-embraces-digital-assets-with-20-million-investment-strategy"
+url = "/202505/85384-freight-technologies-embraces-digital-assets-with-20-million-investment-strategy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/1/yawn9sqI.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

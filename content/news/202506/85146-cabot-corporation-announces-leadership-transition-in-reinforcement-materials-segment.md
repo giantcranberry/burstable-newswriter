@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701869/cabot-appoints-matthew-wood
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85146
 feed_item_id = 15022
-url = "/news/202506/85146-cabot-corporation-announces-leadership-transition-in-reinforcement-materials-segment"
+url = "/202506/85146-cabot-corporation-announces-leadership-transition-in-reinforcement-materials-segment"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/joinm9EY.webp"
 source = "citybiz"
 +++

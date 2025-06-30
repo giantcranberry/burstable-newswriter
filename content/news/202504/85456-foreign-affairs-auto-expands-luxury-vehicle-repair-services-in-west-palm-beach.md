@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522237/foreign-aff
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85456
 feed_item_id = 13471
-url = "/news/202504/85456-foreign-affairs-auto-expands-luxury-vehicle-repair-services-in-west-palm-beach"
+url = "/202504/85456-foreign-affairs-auto-expands-luxury-vehicle-repair-services-in-west-palm-beach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/27/file9c6w.webp"
 source = "24-7 Press Release"
 +++

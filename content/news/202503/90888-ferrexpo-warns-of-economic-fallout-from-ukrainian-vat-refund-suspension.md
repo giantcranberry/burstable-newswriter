@@ -1,0 +1,16 @@
++++
+title = "Ferrexpo Warns of Economic Fallout from Ukrainian VAT Refund Suspension"
+date = "2025-03-27T13:50:16Z"
+draft = false
+summary = "Ferrexpo highlights the severe economic and social impacts of Ukraine's suspension of VAT refunds, threatening job losses and reduced production."
+description = "Ferrexpo issues warning on negative impact of VAT refund suspension by Ukrainian tax authorities, risking jobs and tax revenues. Urgent measures needed to restore refunds and support company's vital role in economy."
+source_link = "https://newsdirect.com/news/due-to-the-decision-of-the-tax-authorities-not-to-refund-vat-ferrexpo-warns-of-serious-negative-consequences-reduction-in-workforce-procurement-taxes-and-investment-598808128"
+enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
+article_id = 90888
+feed_item_id = 12259
+url = "/202503/90888-ferrexpo-warns-of-economic-fallout-from-ukrainian-vat-refund-suspension"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/27/navyqIeb.webp"
+source = "News Direct"
++++
+
+<p>Ferrexpo, a leading international iron ore company, has issued a stark warning about the potential economic devastation resulting from the Ukrainian tax authorities' decision to suspend Value Added Tax (VAT) refunds amounting to approximately US$12.5 million. This move could force the company to reduce its operations to a mere 25% of its full capacity, with far-reaching implications for the local economy and community.</p><p>The suspension of VAT refunds poses a direct threat to Ferrexpo's operational viability, potentially leading to significant job losses, a drastic reduction in tax revenues, and instability in local communities. Executive Chairman Lucio Genovese underscored the company's pivotal role in Ukraine's economy, especially in these turbulent times, and the adverse effects the VAT refund suspension could have on Ferrexpo and its stakeholders.</p><p>Among the anticipated consequences are the risk of thousands of job cuts, a more than 50% decrease in tax revenues to the Poltava region, the cessation of future investments in Ukraine, and a halving of purchases of goods and services. The city of Horishni Plavni, with a population of over 50,000 including 8,000 internally displaced persons, stands to be particularly affected.</p><p>The tax authorities' decision is reportedly connected to personal sanctions against Kostiantyn Zhevago. However, Ferrexpo argues that these sanctions should not financially impact the company, which is predominantly owned by international investors. Despite the current challenges, Ferrexpo has been a substantial contributor to Ukraine's economy since the onset of the Russian invasion, paying over US$150 million in salaries, supporting suppliers with purchases exceeding US$1.8 billion, contributing more than US$300 million in taxes and royalties, and investing US$300 million in capital expenditures.</p><p>Ferrexpo is urgently appealing to Ukrainian financial authorities to reinstate the VAT refunds, emphasizing the need to support, rather than undermine, the company's operations during this critical juncture in Ukraine's history.</p>

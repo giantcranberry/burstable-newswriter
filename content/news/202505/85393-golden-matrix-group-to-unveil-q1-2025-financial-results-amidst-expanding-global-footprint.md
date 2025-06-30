@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-matrix-group-to-announce
 enclosure = "https://cdn.newsramp.app/banners/gaming-2.jpg"
 article_id = 85393
 feed_item_id = 13685
-url = "/news/202505/85393-golden-matrix-group-to-unveil-q1-2025-financial-results-amidst-expanding-global-footprint"
+url = "/202505/85393-golden-matrix-group-to-unveil-q1-2025-financial-results-amidst-expanding-global-footprint"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/1/larkhAF6.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/blue-lagoon-resources-strengthe
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85809
 feed_item_id = 12147
-url = "/news/202503/85809-blue-lagoon-resources-enhances-mining-committee-with-appointment-of-veteran-engineer-peter-bojtos"
+url = "/202503/85809-blue-lagoon-resources-enhances-mining-committee-with-appointment-of-veteran-engineer-peter-bojtos"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/24/urgeu9rl.webp"
 source = "NewMediaWire"
 +++

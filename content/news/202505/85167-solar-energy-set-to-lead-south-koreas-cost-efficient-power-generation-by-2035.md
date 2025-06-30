@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solar-gears-up-to-become
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85167
 feed_item_id = 14759
-url = "/news/202505/85167-solar-energy-set-to-lead-south-koreas-cost-efficient-power-generation-by-2035"
+url = "/202505/85167-solar-energy-set-to-lead-south-koreas-cost-efficient-power-generation-by-2035"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/faceooZ8.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

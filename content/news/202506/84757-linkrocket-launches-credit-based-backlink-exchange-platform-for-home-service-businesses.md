@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/linkrocket-debuts-credit-based-backlin
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/a4395b199a9532752237e5a1d5158ed4.jpg"
 article_id = 84757
 feed_item_id = 14893
-url = "/news/202506/84757-linkrocket-launches-credit-based-backlink-exchange-platform-for-home-service-businesses"
+url = "/202506/84757-linkrocket-launches-credit-based-backlink-exchange-platform-for-home-service-businesses"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/harpT8Mo.webp"
 source = "Press Services"
 +++

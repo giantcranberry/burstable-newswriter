@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520938/cities-and-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84113
 feed_item_id = 15392
-url = "/news/202506/84113-texas-cities-lead-the-way-in-parking-reform-to-boost-business-and-affordable-housing"
+url = "/202506/84113-texas-cities-lead-the-way-in-parking-reform-to-boost-business-and-affordable-housing"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/chipljsp.webp"
 source = "24-7 Press Release"
 +++

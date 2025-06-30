@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/inc-names-davis-davis-and-harmon-a-sa
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85728
 feed_item_id = 12389
-url = "/news/202504/85728-davis-davis-harmon-ranks-76th-on-inc-magazines-2025-regionals-southwest-list"
+url = "/202504/85728-davis-davis-harmon-ranks-76th-on-inc-magazines-2025-regionals-southwest-list"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/1/healfT81.webp"
 source = "News Direct"
 +++

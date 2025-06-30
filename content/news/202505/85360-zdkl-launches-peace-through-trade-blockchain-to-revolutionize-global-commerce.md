@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/zdkl-champions-world-peac
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85360
 feed_item_id = 13785
-url = "/news/202505/85360-zdkl-launches-peace-through-trade-blockchain-to-revolutionize-global-commerce"
+url = "/202505/85360-zdkl-launches-peace-through-trade-blockchain-to-revolutionize-global-commerce"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/5/bendTsyz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

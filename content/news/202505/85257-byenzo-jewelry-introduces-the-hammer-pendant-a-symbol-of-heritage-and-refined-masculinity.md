@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522719/the-hammer-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85257
 feed_item_id = 14142
-url = "/news/202505/85257-byenzo-jewelry-introduces-the-hammer-pendant-a-symbol-of-heritage-and-refined-masculinity"
+url = "/202505/85257-byenzo-jewelry-introduces-the-hammer-pendant-a-symbol-of-heritage-and-refined-masculinity"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/14/hushfChB.webp"
 source = "24-7 Press Release"
 +++

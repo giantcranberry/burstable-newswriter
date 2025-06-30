@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/sonrai-security-unveils-ai-powered-ju
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85444
 feed_item_id = 13541
-url = "/news/202504/85444-sonrai-security-introduces-ai-driven-jit-access-for-enhanced-cloud-security"
+url = "/202504/85444-sonrai-security-introduces-ai-driven-jit-access-for-enhanced-cloud-security"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/28/apexeSto.webp"
 source = "News Direct"
 +++

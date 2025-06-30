@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/computer-repairs-near-me-what-basildon
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/955e980625920ac174c748c85b5bd3e6.png"
 article_id = 84585
 feed_item_id = 15412
-url = "/news/202506/84585-it-done-right-basildons-answer-to-reliable-computer-and-laptop-repairs-in-2025"
+url = "/202506/84585-it-done-right-basildons-answer-to-reliable-computer-and-laptop-repairs-in-2025"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/10/kissNxAm.webp"
 source = "Press Services"
 +++

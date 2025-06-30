@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/clean-energy-surges-in-t
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 85266
 feed_item_id = 14111
-url = "/news/202505/85266-renewable-energy-growth-in-the-us-faces-political-hurdles-despite-decade-of-progress"
+url = "/202505/85266-renewable-energy-growth-in-the-us-faces-political-hurdles-despite-decade-of-progress"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/dualTDM1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

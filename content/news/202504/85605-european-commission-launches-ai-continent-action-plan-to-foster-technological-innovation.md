@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/eu-commission-unveils-p
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85605
 feed_item_id = 12783
-url = "/news/202504/85605-european-commission-launches-ai-continent-action-plan-to-foster-technological-innovation"
+url = "/202504/85605-european-commission-launches-ai-continent-action-plan-to-foster-technological-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/bean10ck.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

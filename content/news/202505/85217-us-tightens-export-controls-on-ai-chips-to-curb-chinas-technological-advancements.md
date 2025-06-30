@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/further-us-chip-export-re
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85217
 feed_item_id = 14314
-url = "/news/202505/85217-us-tightens-export-controls-on-ai-chips-to-curb-chinas-technological-advancements"
+url = "/202505/85217-us-tightens-export-controls-on-ai-chips-to-curb-chinas-technological-advancements"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/19/moonNav_.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

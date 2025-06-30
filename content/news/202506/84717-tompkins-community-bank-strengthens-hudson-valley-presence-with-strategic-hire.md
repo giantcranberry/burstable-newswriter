@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702231/tompkins-community-bank-app
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 84717
 feed_item_id = 15058
-url = "/news/202506/84717-tompkins-community-bank-strengthens-hudson-valley-presence-with-strategic-hire"
+url = "/202506/84717-tompkins-community-bank-strengthens-hudson-valley-presence-with-strategic-hire"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/luna5hRV.webp"
 source = "citybiz"
 +++

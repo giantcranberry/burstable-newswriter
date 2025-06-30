@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521874/novel-minia
 enclosure = "https://cdn.newsramp.app/banners/science-2.jpg"
 article_id = 85580
 feed_item_id = 12939
-url = "/news/202504/85580-innovative-mems-accelerometer-design-enhances-sensitivity-and-reduces-noise"
+url = "/202504/85580-innovative-mems-accelerometer-design-enhances-sensitivity-and-reduces-noise"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/17/kissM4cV.webp"
 source = "24-7 Press Release"
 +++

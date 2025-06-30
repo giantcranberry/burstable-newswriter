@@ -8,7 +8,7 @@ source_link = "https://vuereal.reportablenews.com/pr/vuereal-and-aca-tmetrix-par
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/05bffd38c7945ec9314c36a56f192acf.png"
 article_id = 84784
 feed_item_id = 14724
-url = "/news/202505/84784-vuereal-and-aca-tmetrix-partnership-set-to-revolutionize-microled-technology-adoption-in-canada"
+url = "/202505/84784-vuereal-and-aca-tmetrix-partnership-set-to-revolutionize-microled-technology-adoption-in-canada"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/29/talljas0.webp"
 source = "Reportable"
 +++

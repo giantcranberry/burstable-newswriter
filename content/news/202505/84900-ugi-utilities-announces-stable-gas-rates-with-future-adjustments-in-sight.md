@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-natural-gas-supply-rates-no
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/292e0624dbda142fe09b26075c49ff8d.jpg"
 article_id = 84900
 feed_item_id = 14231
-url = "/news/202505/84900-ugi-utilities-announces-stable-gas-rates-with-future-adjustments-in-sight"
+url = "/202505/84900-ugi-utilities-announces-stable-gas-rates-with-future-adjustments-in-sight"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/15/knotD4L0.webp"
 source = "Reportable"
 +++

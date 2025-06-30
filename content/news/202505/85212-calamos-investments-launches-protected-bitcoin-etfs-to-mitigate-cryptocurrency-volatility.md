@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/calamos-protected-bitcoin-etfs-
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 85212
 feed_item_id = 14390
-url = "/news/202505/85212-calamos-investments-launches-protected-bitcoin-etfs-to-mitigate-cryptocurrency-volatility"
+url = "/202505/85212-calamos-investments-launches-protected-bitcoin-etfs-to-mitigate-cryptocurrency-volatility"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/20/evenzNT2.webp"
 source = "NewMediaWire"
 +++

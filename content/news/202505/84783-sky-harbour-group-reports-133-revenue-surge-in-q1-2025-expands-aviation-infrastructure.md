@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/786ff9d3ba288070b9e343cf5a6ecc96.png"
 article_id = 84783
 feed_item_id = 14728
-url = "/news/202505/84783-sky-harbour-group-reports-133-revenue-surge-in-q1-2025-expands-aviation-infrastructure"
+url = "/202505/84783-sky-harbour-group-reports-133-revenue-surge-in-q1-2025-expands-aviation-infrastructure"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/29/rubyZ3CS.webp"
 source = "Reportable"
 +++

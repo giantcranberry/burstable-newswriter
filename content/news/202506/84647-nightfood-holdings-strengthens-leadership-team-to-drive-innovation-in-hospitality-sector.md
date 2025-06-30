@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/nightfood-holdings-inc-n
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84647
 feed_item_id = 15275
-url = "/news/202506/84647-nightfood-holdings-strengthens-leadership-team-to-drive-innovation-in-hospitality-sector"
+url = "/202506/84647-nightfood-holdings-strengthens-leadership-team-to-drive-innovation-in-hospitality-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/pale2wrA.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

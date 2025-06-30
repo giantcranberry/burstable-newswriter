@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202504301512/survale-acquires-the-cand
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85409
 feed_item_id = 13638
-url = "/news/202504/85409-survale-acquires-cande-program-to-elevate-talent-acquisition-research"
+url = "/202504/85409-survale-acquires-cande-program-to-elevate-talent-acquisition-research"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/254/30/ulnaXkSe.webp"
 source = "Newsworthy.ai"
 +++

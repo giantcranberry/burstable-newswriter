@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523397/flairai-ltd
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84746
 feed_item_id = 14924
-url = "/news/202506/84746-flairai-ltd-launches-quebius-a-new-era-in-ai-powered-business-communication"
+url = "/202506/84746-flairai-ltd-launches-quebius-a-new-era-in-ai-powered-business-communication"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/meanVIZ1.webp"
 source = "24-7 Press Release"
 +++

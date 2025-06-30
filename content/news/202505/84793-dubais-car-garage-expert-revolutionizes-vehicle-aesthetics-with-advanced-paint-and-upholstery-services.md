@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-in-dubai-redefines-
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 84793
 feed_item_id = 14671
-url = "/news/202505/84793-dubais-car-garage-expert-revolutionizes-vehicle-aesthetics-with-advanced-paint-and-upholstery-services"
+url = "/202505/84793-dubais-car-garage-expert-revolutionizes-vehicle-aesthetics-with-advanced-paint-and-upholstery-services"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/28/leanxFUQ.webp"
 source = "News Direct"
 +++

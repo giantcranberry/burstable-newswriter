@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703043/preferred-employers-insuran
 enclosure = "https://cdn.newsramp.app/banners/insurance-1.jpg"
 article_id = 84173
 feed_item_id = 15197
-url = "/news/202506/84173-peter-hong-appointed-as-assistant-vice-president-at-preferred-employers-insurance-to-drive-growth-in-workers-compensation-sector"
+url = "/202506/84173-peter-hong-appointed-as-assistant-vice-president-at-preferred-employers-insurance-to-drive-growth-in-workers-compensation-sector"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/joinJAwr.webp"
 source = "citybiz"
 +++

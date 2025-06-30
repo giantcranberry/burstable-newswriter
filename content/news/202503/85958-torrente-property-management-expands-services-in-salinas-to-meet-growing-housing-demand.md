@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520291/torrente-pr
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85958
 feed_item_id = 11632
-url = "/news/202503/85958-torrente-property-management-expands-services-in-salinas-to-meet-growing-housing-demand"
+url = "/202503/85958-torrente-property-management-expands-services-in-salinas-to-meet-growing-housing-demand"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/ninaQx9U.webp"
 source = "24-7 Press Release"
 +++

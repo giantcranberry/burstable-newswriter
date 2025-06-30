@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/esgold-corp-cse-esau-otc
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/544d792d321b4f7279f97a1da935beb8.png"
 article_id = 87652
 feed_item_id = 15946
-url = "/news/202506/87652-esgold-corp-advances-montauban-project-with-key-technological-and-construction-milestones"
+url = "/202506/87652-esgold-corp-advances-montauban-project-with-key-technological-and-construction-milestones"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/flaxLx0h.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523551/stockhunt-i
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84641
 feed_item_id = 15287
-url = "/news/202506/84641-stockhunt-inc-unveils-worlds-first-ai-trading-llm-at-wealthmanagement-edge-2025"
+url = "/202506/84641-stockhunt-inc-unveils-worlds-first-ai-trading-llm-at-wealthmanagement-edge-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/6/pinktPC6.webp"
 source = "24-7 Press Release"
 +++

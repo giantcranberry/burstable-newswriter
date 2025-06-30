@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521309/soc-2-audit
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85698
 feed_item_id = 12473
-url = "/news/202504/85698-new-soc-2-audit-checklist-empowers-saas-companies-to-strengthen-data-protection"
+url = "/202504/85698-new-soc-2-audit-checklist-empowers-saas-companies-to-strengthen-data-protection"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/navyrscx.webp"
 source = "24-7 Press Release"
 +++

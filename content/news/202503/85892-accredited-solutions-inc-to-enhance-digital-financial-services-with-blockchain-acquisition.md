@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/accredited-solutions-inc-otc-as
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85892
 feed_item_id = 11841
-url = "/news/202503/85892-accredited-solutions-inc-to-enhance-digital-financial-services-with-blockchain-acquisition"
+url = "/202503/85892-accredited-solutions-inc-to-enhance-digital-financial-services-with-blockchain-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/12/riftKg7f.webp"
 source = "NewMediaWire"
 +++

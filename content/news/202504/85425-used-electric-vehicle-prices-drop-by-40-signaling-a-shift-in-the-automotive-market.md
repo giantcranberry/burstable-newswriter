@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/used-electric-vehicle-pr
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-2.jpg"
 article_id = 85425
 feed_item_id = 13597
-url = "/news/202504/85425-used-electric-vehicle-prices-drop-by-40-signaling-a-shift-in-the-automotive-market"
+url = "/202504/85425-used-electric-vehicle-prices-drop-by-40-signaling-a-shift-in-the-automotive-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/29/froglEQt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

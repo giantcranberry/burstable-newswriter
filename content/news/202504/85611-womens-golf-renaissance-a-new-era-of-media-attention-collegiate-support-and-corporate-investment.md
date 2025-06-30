@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/womens-golf-uniting-for-growth-and-rec
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/3394732c822d83f246395984b244e929.jpg"
 article_id = 85611
 feed_item_id = 12756
-url = "/news/202504/85611-womens-golf-renaissance-a-new-era-of-media-attention-collegiate-support-and-corporate-investment"
+url = "/202504/85611-womens-golf-renaissance-a-new-era-of-media-attention-collegiate-support-and-corporate-investment"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/15/meanzHWd.webp"
 source = "Press Services"
 +++

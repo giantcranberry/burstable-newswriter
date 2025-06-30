@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/robertson-stephens-named-amongst-usa-
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 85497
 feed_item_id = 13214
-url = "/news/202504/85497-robertson-stephens-wealth-management-recognized-among-usa-todays-best-financial-advisory-firms-for-2025"
+url = "/202504/85497-robertson-stephens-wealth-management-recognized-among-usa-todays-best-financial-advisory-firms-for-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/24/irisUqcz.webp"
 source = "News Direct"
 +++

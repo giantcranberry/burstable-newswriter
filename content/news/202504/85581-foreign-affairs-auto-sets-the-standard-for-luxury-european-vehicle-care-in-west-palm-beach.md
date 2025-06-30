@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521870/why-europea
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85581
 feed_item_id = 12933
-url = "/news/202504/85581-foreign-affairs-auto-sets-the-standard-for-luxury-european-vehicle-care-in-west-palm-beach"
+url = "/202504/85581-foreign-affairs-auto-sets-the-standard-for-luxury-european-vehicle-care-in-west-palm-beach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/17/markkhuc.webp"
 source = "24-7 Press Release"
 +++

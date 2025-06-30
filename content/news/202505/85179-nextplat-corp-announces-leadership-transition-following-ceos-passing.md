@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-nextplat-c
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85179
 feed_item_id = 14625
-url = "/news/202505/85179-nextplat-corp-announces-leadership-transition-following-ceos-passing"
+url = "/202505/85179-nextplat-corp-announces-leadership-transition-following-ceos-passing"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/swimO2Vw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

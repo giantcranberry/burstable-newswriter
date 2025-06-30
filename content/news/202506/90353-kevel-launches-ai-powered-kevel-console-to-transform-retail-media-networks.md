@@ -1,0 +1,16 @@
++++
+title = "Kevel Launches AI-Powered Kevel Console to Transform Retail Media Networks"
+date = "2025-06-24T13:00:29Z"
+draft = false
+summary = "Kevel introduces Kevel Console, an AI-driven platform designed to enhance retail media networks by offering scalability, control, and efficiency, marking a significant shift in advertising strategies for retailers and publishers."
+description = "Kevel introduces Kevel Console, an AI-powered platform transforming retail media with automation, scalability, and efficiency for retailers and publishers."
+source_link = "https://newsdirect.com/news/kevel-unveils-kevel-console-a-new-ai-powered-unified-self-service-platform-transforming-retail-media-networks-541340481"
+enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
+article_id = 90353
+feed_item_id = 16068
+url = "/202506/90353-kevel-launches-ai-powered-kevel-console-to-transform-retail-media-networks"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/goldFsno.webp"
+source = "News Direct"
++++
+
+<p>Kevel has unveiled the Kevel Console, a groundbreaking AI-powered self-service platform tailored for retailers, marketplaces, and publishers. This platform is poised to redefine the retail media landscape by providing tools for scalable, efficient, and controlled advertising campaigns. With the retail media sector expected to see 25% of its dollars move to offsite channels by 2027, Kevel Console's introduction is timely, offering solutions to navigate this shift effectively.</p><p>The platform leverages AI-driven automation to simplify campaign management, enabling advertisers to achieve better performance with enhanced control. Key features include AI Budget Management, AI-Powered Creative Builder, and AI Workflow Automation, each designed to optimize different aspects of campaign management. These tools not only reduce manual effort but also drive more impactful results, setting a new standard for operational efficiency in retail media.</p><p>James Avery, CEO of Kevel, highlighted the platform's potential to transform retail media through AI, emphasizing its flexibility and data control capabilities. The ability to launch custom campaigns in just 14 days is a testament to the platform's efficiency, offering businesses a competitive edge in a rapidly evolving industry.</p><p>Kevel Console's integration of on-site and off-site campaigns, powered by first-party data, ensures privacy-safe, hyper-relevant targeting across platforms. Early adopters such as Dagrofa and mobile.de have reported notable benefits, including increased purchase intent and sales growth, showcasing the platform's potential to drive tangible business outcomes.</p><p>With its API-first, modular design, Kevel Console offers unparalleled customization and scalability, all while adhering to SOC 1 & 2 compliance standards. This ensures not only rapid deployment and seamless integration with existing systems but also a secure, privacy-focused approach to retail media. As the industry continues to evolve, Kevel Console stands as a pivotal tool for businesses aiming to stay ahead in the competitive retail media space.</p>

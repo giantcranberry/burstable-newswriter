@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/b2i-digital-supports-maxim-grou
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85594
 feed_item_id = 12882
-url = "/news/202504/85594-b2i-digital-partners-with-maxim-group-for-critical-minerals-summit-to-spotlight-us-mining-and-processing-efforts"
+url = "/202504/85594-b2i-digital-partners-with-maxim-group-for-critical-minerals-summit-to-spotlight-us-mining-and-processing-efforts"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/16/each0Kub.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522659/trevi%C3%B1
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85294
 feed_item_id = 13990
-url = "/news/202505/85294-treviño-law-expands-to-denver-offering-specialized-personal-injury-legal-services"
+url = "/202505/85294-treviño-law-expands-to-denver-offering-specialized-personal-injury-legal-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/9/ovalmRS4.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/sureshotfx-launches-free-live-forex-si
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/d7bb6144dce7fd1eb91a5eddc92b48bb.jpg"
 article_id = 84753
 feed_item_id = 14891
-url = "/news/202506/84753-sureshotfx-revolutionizes-forex-trading-with-free-live-signals-service"
+url = "/202506/84753-sureshotfx-revolutionizes-forex-trading-with-free-live-signals-service"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/zestLR3V.webp"
 source = "Press Services"
 +++

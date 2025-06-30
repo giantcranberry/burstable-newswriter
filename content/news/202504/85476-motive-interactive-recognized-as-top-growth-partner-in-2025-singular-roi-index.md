@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522106/motive-inte
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85476
 feed_item_id = 13337
-url = "/news/202504/85476-motive-interactive-recognized-as-top-growth-partner-in-2025-singular-roi-index"
+url = "/202504/85476-motive-interactive-recognized-as-top-growth-partner-in-2025-singular-roi-index"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/seekeagl.webp"
 source = "24-7 Press Release"
 +++

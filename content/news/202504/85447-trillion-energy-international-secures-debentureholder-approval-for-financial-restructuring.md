@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-trillio
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85447
 feed_item_id = 13534
-url = "/news/202504/85447-trillion-energy-international-secures-debentureholder-approval-for-financial-restructuring"
+url = "/202504/85447-trillion-energy-international-secures-debentureholder-approval-for-financial-restructuring"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/28/isle2i5n.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

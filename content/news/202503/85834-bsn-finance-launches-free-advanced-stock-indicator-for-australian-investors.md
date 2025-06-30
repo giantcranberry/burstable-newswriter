@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/bsn-finance-releases-powerful-free-st
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/13070de82f81cff823c1559e271414f7.jpg"
 article_id = 85834
 feed_item_id = 12061
-url = "/news/202503/85834-bsn-finance-launches-free-advanced-stock-indicator-for-australian-investors"
+url = "/202503/85834-bsn-finance-launches-free-advanced-stock-indicator-for-australian-investors"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/19/mendpdOD.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503031448/predictiq-quantitative-th
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 86013
 feed_item_id = 11540
-url = "/news/202503/86013-predictiq-pioneers-green-investment-strategies-with-advanced-quantitative-models"
+url = "/202503/86013-predictiq-pioneers-green-investment-strategies-with-advanced-quantitative-models"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/3/palen9CX.webp"
 source = "Newsworthy.ai"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-uraniu
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84293
 feed_item_id = 14844
-url = "/news/202506/84293-uranium-energy-corp-accelerates-north-american-uranium-production-amid-rising-nuclear-energy-demand"
+url = "/202506/84293-uranium-energy-corp-accelerates-north-american-uranium-production-amid-rising-nuclear-energy-demand"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/veil5SfE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

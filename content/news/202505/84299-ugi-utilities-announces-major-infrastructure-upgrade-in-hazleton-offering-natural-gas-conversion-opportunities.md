@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-scheduled-t
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/82fcb385c54f56c015476b7e174a5755.jpg"
 article_id = 84299
 feed_item_id = 14812
-url = "/news/202505/84299-ugi-utilities-announces-major-infrastructure-upgrade-in-hazleton-offering-natural-gas-conversion-opportunities"
+url = "/202505/84299-ugi-utilities-announces-major-infrastructure-upgrade-in-hazleton-offering-natural-gas-conversion-opportunities"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/30/wallVMp_.webp"
 source = "Reportable"
 +++

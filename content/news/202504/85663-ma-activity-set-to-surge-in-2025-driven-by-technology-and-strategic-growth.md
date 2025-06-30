@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521318/ma-activity
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85663
 feed_item_id = 12583
-url = "/news/202504/85663-ma-activity-set-to-surge-in-2025-driven-by-technology-and-strategic-growth"
+url = "/202504/85663-ma-activity-set-to-surge-in-2025-driven-by-technology-and-strategic-growth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/8/ovalioKl.webp"
 source = "24-7 Press Release"
 +++

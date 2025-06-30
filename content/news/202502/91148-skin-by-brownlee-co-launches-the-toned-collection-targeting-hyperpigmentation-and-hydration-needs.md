@@ -1,0 +1,16 @@
++++
+title = "Skin by Brownlee & Co Launches The Toned Collection, Targeting Hyperpigmentation and Hydration Needs"
+date = "2025-02-06T15:05:09Z"
+draft = false
+summary = "Skin by Brownlee & Co introduces The Toned Collection, a skincare line designed to address hyperpigmentation and hydration, marking a significant step in inclusive and innovative skincare solutions."
+description = "Skin by Brownlee & Co unveils The Toned Collection, a transformative skincare line designed to deliver hydration, brightness, and a healthy glow. Featuring gentle yet highly effective ingredients, sustainable packaging, and a reimagined visual identity, this launch reflects the brand's commitment to quality and inclusivity."
+source_link = "https://newsdirect.com/news/skin-by-brownlee-and-co-debuts-the-toned-collection-and-sustainable-brand-refresh-273894938"
+enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-2.jpg"
+article_id = 91148
+feed_item_id = 10698
+url = "/202502/91148-skin-by-brownlee-co-launches-the-toned-collection-targeting-hyperpigmentation-and-hydration-needs"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/6/ninaEbAD.webp"
+source = "News Direct"
++++
+
+<p>Skin by Brownlee & Co, a Black-owned skincare brand, has recently launched The Toned Collection, a new line of skincare products aimed at tackling hyperpigmentation, uneven skin tone, and hydration. This collection includes four products: a Brightening Serum, Eye Cream, Brightening Cream, and an Eye Cryoball tool, each formulated with ingredients like niacinamide, hyaluronic acid, kojic acid, and caffeine to address various skin concerns.</p><p>The Brightening Serum is priced at $62 and is designed to even out skin tone and fade dark spots. The Eye Cream, costing $37, targets puffiness and dark circles, while the Brightening Cream, at $52, offers an overnight treatment for skin texture and hydration. The Eye Cryoball, available for $15, introduces a cooling massage experience for the eye area, showcasing the brand's innovative approach to skincare.</p><p>In addition to the product launch, Skin by Brownlee & Co has made strides in sustainability and customer engagement by adopting recyclable amber glass packaging, integrating QR codes for detailed product information, and refreshing its visual identity. These enhancements underscore the brand's dedication to quality, inclusivity, and educating its customers.</p><p>Founded in 2017 by veteran esthetician Sylvia Brownlee, the brand was born out of her personal journey with skin challenges, with a focus on creating effective solutions for melanin-rich skin that are also suitable for all skin types. The Toned Collection is a testament to the brand's growth and its commitment to offering accessible, expertly crafted skincare products that empower individuals to meet their skin health goals.</p><p>The introduction of The Toned Collection by Skin by Brownlee & Co is a noteworthy development in the skincare industry, highlighting the importance of inclusive and innovative solutions that cater to a wide range of skin types and concerns. This launch not only reinforces the brand's position in the market but also sets a new standard for addressing hyperpigmentation and hydration needs with scientifically backed ingredients and sustainable practices.</p>

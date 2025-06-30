@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/proflup-expands-team-to-include-exper
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 87677
 feed_item_id = 15480
-url = "/news/202506/87677-proflup-enhances-instagram-growth-platform-with-expert-team-expansion"
+url = "/202506/87677-proflup-enhances-instagram-growth-platform-with-expert-team-expansion"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/knobvYUX.webp"
 source = "News Direct"
 +++

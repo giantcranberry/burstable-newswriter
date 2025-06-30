@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522606/reed-atamia
 enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
 article_id = 85303
 feed_item_id = 13961
-url = "/news/202505/85303-atamian-honda-celebrates-50-years-of-community-and-automotive-excellence"
+url = "/202505/85303-atamian-honda-celebrates-50-years-of-community-and-automotive-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/9/bossLC9e.webp"
 source = "24-7 Press Release"
 +++

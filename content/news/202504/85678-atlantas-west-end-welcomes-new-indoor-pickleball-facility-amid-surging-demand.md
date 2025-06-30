@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521476/dill-dinker
 enclosure = "https://cdn.newsramp.app/banners/sports-3.jpg"
 article_id = 85678
 feed_item_id = 12524
-url = "/news/202504/85678-atlantas-west-end-welcomes-new-indoor-pickleball-facility-amid-surging-demand"
+url = "/202504/85678-atlantas-west-end-welcomes-new-indoor-pickleball-facility-amid-surging-demand"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/hintYV7t.webp"
 source = "24-7 Press Release"
 +++

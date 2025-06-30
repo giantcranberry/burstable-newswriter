@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701581/mccann-systems-announces-ad
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84267
 feed_item_id = 14940
-url = "/news/202506/84267-mccann-systems-expands-team-with-11-new-hires-to-boost-av-integration-services"
+url = "/202506/84267-mccann-systems-expands-team-with-11-new-hires-to-boost-av-integration-services"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/riftnQm1.webp"
 source = "citybiz"
 +++

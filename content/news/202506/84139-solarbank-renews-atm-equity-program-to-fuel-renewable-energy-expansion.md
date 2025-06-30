@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/esg/esgbreaks-solarbank-corp
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84139
 feed_item_id = 15299
-url = "/news/202506/84139-solarbank-renews-atm-equity-program-to-fuel-renewable-energy-expansion"
+url = "/202506/84139-solarbank-renews-atm-equity-program-to-fuel-renewable-energy-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/raindjoT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

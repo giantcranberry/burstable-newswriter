@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520292/trinity-den
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 85959
 feed_item_id = 11633
-url = "/news/202503/85959-trinity-dental-care-revolutionizes-root-canal-treatment-in-north-scottsdale-with-advanced-technology-and-patient-centered-approach"
+url = "/202503/85959-trinity-dental-care-revolutionizes-root-canal-treatment-in-north-scottsdale-with-advanced-technology-and-patient-centered-approach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/mark4JWB.webp"
 source = "24-7 Press Release"
 +++

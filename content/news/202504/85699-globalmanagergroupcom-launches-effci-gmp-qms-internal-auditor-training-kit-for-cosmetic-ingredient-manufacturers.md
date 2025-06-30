@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521327/globalmanag
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85699
 feed_item_id = 12467
-url = "/news/202504/85699-globalmanagergroupcom-launches-effci-gmp-qms-internal-auditor-training-kit-for-cosmetic-ingredient-manufacturers"
+url = "/202504/85699-globalmanagergroupcom-launches-effci-gmp-qms-internal-auditor-training-kit-for-cosmetic-ingredient-manufacturers"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/archNFRS.webp"
 source = "24-7 Press Release"
 +++

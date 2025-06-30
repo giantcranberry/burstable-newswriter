@@ -8,7 +8,7 @@ source_link = "https://tothemarket.reportablenews.com/pr/inc-names-jane-mosbache
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/128df26708b58b00d5a6fdefaf8b333e.png"
 article_id = 85903
 feed_item_id = 11807
-url = "/news/202503/85903-jane-mosbacher-morris-recognized-in-inc-magazines-2025-female-founders-500-for-leadership-in-responsible-sourcing"
+url = "/202503/85903-jane-mosbacher-morris-recognized-in-inc-magazines-2025-female-founders-500-for-leadership-in-responsible-sourcing"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/11/bestFrLi.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85738
 feed_item_id = 12356
-url = "/news/202503/85738-royalty-management-holding-corporation-reports-stellar-2024-financial-performance-and-strategic-growth"
+url = "/202503/85738-royalty-management-holding-corporation-reports-stellar-2024-financial-performance-and-strategic-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/31/voltS7vb.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503311474/noticias-newswire-partner
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85739
 feed_item_id = 12355
-url = "/news/202503/85739-noticias-newswire-and-newsramp-forge-strategic-partnership-to-revolutionize-press-release-distribution"
+url = "/202503/85739-noticias-newswire-and-newsramp-forge-strategic-partnership-to-revolutionize-press-release-distribution"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/31/dune1Jxg.webp"
 source = "Newsworthy.ai"
 +++

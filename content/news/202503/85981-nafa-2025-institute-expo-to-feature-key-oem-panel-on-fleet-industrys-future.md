@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/nafa-announces-return-of-oem-panel-at
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85981
 feed_item_id = 11595
-url = "/news/202503/85981-nafa-2025-institute-expo-to-feature-key-oem-panel-on-fleet-industrys-future"
+url = "/202503/85981-nafa-2025-institute-expo-to-feature-key-oem-panel-on-fleet-industrys-future"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/4/tallPsLr.webp"
 source = "News Direct"
 +++

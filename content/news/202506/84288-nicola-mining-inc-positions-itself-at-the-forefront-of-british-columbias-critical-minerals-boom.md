@@ -6,7 +6,7 @@ summary = "Nicola Mining Inc. leverages its strategic position and dual-revenue 
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84288
 feed_item_id = 14858
-url = "/news/202506/84288-nicola-mining-inc-positions-itself-at-the-forefront-of-british-columbias-critical-minerals-boom"
+url = "/202506/84288-nicola-mining-inc-positions-itself-at-the-forefront-of-british-columbias-critical-minerals-boom"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/rendB3my.webp"
 source = "None"
 +++

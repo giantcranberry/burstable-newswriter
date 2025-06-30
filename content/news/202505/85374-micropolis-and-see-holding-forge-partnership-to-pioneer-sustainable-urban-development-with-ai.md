@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-microp
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85374
 feed_item_id = 13743
-url = "/news/202505/85374-micropolis-and-see-holding-forge-partnership-to-pioneer-sustainable-urban-development-with-ai"
+url = "/202505/85374-micropolis-and-see-holding-forge-partnership-to-pioneer-sustainable-urban-development-with-ai"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/poemfa3w.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

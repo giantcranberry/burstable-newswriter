@@ -1,0 +1,16 @@
++++
+title = "Shanghai University Researchers Pioneer Solid-State Battery Breakthrough"
+date = "2025-04-23T07:00:20Z"
+draft = false
+summary = "A team from Shanghai University has developed a novel solid-state battery design that significantly improves sodium-ion battery performance, marking a pivotal advancement for renewable energy and electric vehicle technologies."
+description = "Cutting-edge research on zero-sodium-excess solid-state batteries introduces a transformative interphase design to enhance energy density and stability. Learn how this breakthrough could revolutionize energy storage systems and drive the adoption of sustainable energy solutions."
+source_link = "https://www.24-7pressrelease.com/press-release/522059/charting-new-terrain-in-energy-storage-the-emergence-of-zero-sodium-excess-solid-state-batteries"
+enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
+article_id = 90580
+feed_item_id = 13130
+url = "/202504/90580-shanghai-university-researchers-pioneer-solid-state-battery-breakthrough"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/23/beanuuCA.webp"
+source = "24-7 Press Release"
++++
+
+<p>Researchers at Shanghai University's College of Science and Institute for Sustainable Energy have introduced a revolutionary solid-state battery design that could redefine energy storage technologies. Their study, published in <a href='https://www.sciencedirect.com/journal/escience' rel='nofollow' target='_blank'>eScience</a>, details a zero-sodium-excess battery (ZSB) configuration that tackles longstanding issues with energy density and interfacial stability in sodium-ion batteries.</p><p>The team's innovative approach involves a dual-layer interphase, combining a sodiophilic magnesium layer with a sodium fluoride layer, to enhance battery performance. This design has achieved an impressive energy density of 254.4 Wh/kg and maintains 82.7% capacity retention over 350 cycles, setting a new benchmark for sodium-ion batteries.</p><p>Dr. Wuliang Feng, leading the research, underscored the significance of this development in overcoming fundamental obstacles in solid-state battery technology. The implications of this breakthrough extend across various industries, notably in advancing renewable energy systems and electric vehicle (EV) technologies, by offering more sustainable and efficient energy storage solutions.</p><p>Supported by the National Natural Science Foundation of China and the Shanghai Science and Technology Commission, the research currently utilizes magnetron sputtering for fabrication. However, the team is optimistic about future scalability through methods like chemical vapor deposition, which could further enhance the commercial viability of these batteries.</p><p>This advancement not only represents a leap forward in battery technology but also aligns with global efforts to transition towards more sustainable energy sources. By improving the performance and reliability of sodium-ion batteries, this research paves the way for their broader application in renewable energy infrastructure and EVs, contributing to the reduction of carbon emissions and the promotion of clean energy.</p>

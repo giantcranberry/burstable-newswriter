@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/bloomberg-says-america-o
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85312
 feed_item_id = 13940
-url = "/news/202505/85312-bloomberg-advocates-for-chinese-vehicles-in-us-market-to-spur-innovation-and-competition"
+url = "/202505/85312-bloomberg-advocates-for-chinese-vehicles-in-us-market-to-spur-innovation-and-competition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/jokec1aP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

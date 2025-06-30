@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702487/kasheesh-names-chris-hartle
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84203
 feed_item_id = 15117
-url = "/news/202506/84203-kasheesh-strengthens-leadership-with-fintech-veteran-chris-hartley-to-revolutionize-personalized-payment-solutions"
+url = "/202506/84203-kasheesh-strengthens-leadership-with-fintech-veteran-chris-hartley-to-revolutionize-personalized-payment-solutions"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/seekAHRn.webp"
 source = "citybiz"
 +++

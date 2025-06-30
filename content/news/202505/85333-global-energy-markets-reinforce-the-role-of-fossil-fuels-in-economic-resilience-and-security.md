@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/oil-and-gas-are-still-go
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85333
 feed_item_id = 13868
-url = "/news/202505/85333-global-energy-markets-reinforce-the-role-of-fossil-fuels-in-economic-resilience-and-security"
+url = "/202505/85333-global-energy-markets-reinforce-the-role-of-fossil-fuels-in-economic-resilience-and-security"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/roamCLPj.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

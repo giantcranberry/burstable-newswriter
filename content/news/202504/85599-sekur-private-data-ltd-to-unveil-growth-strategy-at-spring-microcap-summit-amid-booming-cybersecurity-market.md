@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-pr
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85599
 feed_item_id = 12799
-url = "/news/202504/85599-sekur-private-data-ltd-to-unveil-growth-strategy-at-spring-microcap-summit-amid-booming-cybersecurity-market"
+url = "/202504/85599-sekur-private-data-ltd-to-unveil-growth-strategy-at-spring-microcap-summit-amid-booming-cybersecurity-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/zeroAXSC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

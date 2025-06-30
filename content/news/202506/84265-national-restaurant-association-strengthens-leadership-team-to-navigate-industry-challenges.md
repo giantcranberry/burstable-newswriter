@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701421/national-restaurant-associa
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84265
 feed_item_id = 14942
-url = "/news/202506/84265-national-restaurant-association-strengthens-leadership-team-to-navigate-industry-challenges"
+url = "/202506/84265-national-restaurant-association-strengthens-leadership-team-to-navigate-industry-challenges"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/epicDjrP.webp"
 source = "citybiz"
 +++

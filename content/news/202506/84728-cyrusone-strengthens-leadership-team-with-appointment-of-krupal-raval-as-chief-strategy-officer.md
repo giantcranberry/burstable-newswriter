@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701901/cyrusone-appoints-krupal-ra
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84728
 feed_item_id = 15026
-url = "/news/202506/84728-cyrusone-strengthens-leadership-team-with-appointment-of-krupal-raval-as-chief-strategy-officer"
+url = "/202506/84728-cyrusone-strengthens-leadership-team-with-appointment-of-krupal-raval-as-chief-strategy-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/eachSdYu.webp"
 source = "citybiz"
 +++

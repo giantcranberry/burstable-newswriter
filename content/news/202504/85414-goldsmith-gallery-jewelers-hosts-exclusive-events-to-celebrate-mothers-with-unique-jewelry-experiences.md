@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522360/goldsmith-g
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 85414
 feed_item_id = 13630
-url = "/news/202504/85414-goldsmith-gallery-jewelers-hosts-exclusive-events-to-celebrate-mothers-with-unique-jewelry-experiences"
+url = "/202504/85414-goldsmith-gallery-jewelers-hosts-exclusive-events-to-celebrate-mothers-with-unique-jewelry-experiences"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/mielYFQm.webp"
 source = "24-7 Press Release"
 +++

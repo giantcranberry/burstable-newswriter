@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/simulated-environment-concepts-
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85200
 feed_item_id = 14456
-url = "/news/202505/85200-noah-wagler-joins-simulated-environment-concepts-to-drive-innovation-in-sustainable-agriculture"
+url = "/202505/85200-noah-wagler-joins-simulated-environment-concepts-to-drive-innovation-in-sustainable-agriculture"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/21/lily_oZx.webp"
 source = "NewMediaWire"
 +++

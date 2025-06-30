@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522426/a-must-read
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 85382
 feed_item_id = 13727
-url = "/news/202505/85382-new-book-proposes-radical-economic-transformation-through-inclusionism-and-cetes"
+url = "/202505/85382-new-book-proposes-radical-economic-transformation-through-inclusionism-and-cetes"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/2/gleebANJ.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702325/lead-edge-capital-invests-i
 enclosure = "https://cdn.newsramp.app/banners/real-estate-1.jpg"
 article_id = 87686
 feed_item_id = 15208
-url = "/news/202506/87686-cove-secures-strategic-investment-from-lead-edge-capital-to-revolutionize-commercial-real-estate-management"
+url = "/202506/87686-cove-secures-strategic-investment-from-lead-edge-capital-to-revolutionize-commercial-real-estate-management"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/walld4P2.webp"
 source = "citybiz"
 +++

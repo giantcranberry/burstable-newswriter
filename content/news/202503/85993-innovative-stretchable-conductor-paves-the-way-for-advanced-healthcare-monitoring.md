@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520199/highly-elas
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85993
 feed_item_id = 11566
-url = "/news/202503/85993-innovative-stretchable-conductor-paves-the-way-for-advanced-healthcare-monitoring"
+url = "/202503/85993-innovative-stretchable-conductor-paves-the-way-for-advanced-healthcare-monitoring"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/voltgpxv.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/moritt-hock-hamroff-announces-new-hires/"
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 85134
 feed_item_id = 15161
-url = "/news/202506/85134-moritt-hock-hamroff-expands-south-florida-presence-with-strategic-acquisition"
+url = "/202506/85134-moritt-hock-hamroff-expands-south-florida-presence-with-strategic-acquisition"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/urgeB87u.webp"
 source = "citybiz"
 +++

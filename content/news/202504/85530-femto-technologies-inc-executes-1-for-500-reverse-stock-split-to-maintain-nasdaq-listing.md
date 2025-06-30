@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/femto-technologies-announces-re
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85530
 feed_item_id = 13095
-url = "/news/202504/85530-femto-technologies-inc-executes-1-for-500-reverse-stock-split-to-maintain-nasdaq-listing"
+url = "/202504/85530-femto-technologies-inc-executes-1-for-500-reverse-stock-split-to-maintain-nasdaq-listing"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/22/vastRyjd.webp"
 source = "NewMediaWire"
 +++

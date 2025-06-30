@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/canada-crypto-week-a-week
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 85330
 feed_item_id = 13880
-url = "/news/202505/85330-canada-crypto-week-2025-set-to-showcase-blockchain-and-ai-innovations"
+url = "/202505/85330-canada-crypto-week-2025-set-to-showcase-blockchain-and-ai-innovations"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/meanhySh.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

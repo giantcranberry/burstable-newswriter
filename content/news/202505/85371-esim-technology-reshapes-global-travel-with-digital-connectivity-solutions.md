@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522437/global-esim
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85371
 feed_item_id = 13753
-url = "/news/202505/85371-esim-technology-reshapes-global-travel-with-digital-connectivity-solutions"
+url = "/202505/85371-esim-technology-reshapes-global-travel-with-digital-connectivity-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/2/lilyzRVZ.webp"
 source = "24-7 Press Release"
 +++

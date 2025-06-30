@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-delivers-fast-and-r
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85186
 feed_item_id = 14552
-url = "/news/202505/85186-car-garage-expert-offers-specialized-ac-repair-services-in-dubais-harsh-climate"
+url = "/202505/85186-car-garage-expert-offers-specialized-ac-repair-services-in-dubais-harsh-climate"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/23/kiwi43k9.webp"
 source = "News Direct"
 +++

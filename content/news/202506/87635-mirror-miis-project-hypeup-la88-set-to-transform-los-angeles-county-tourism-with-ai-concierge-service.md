@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524079/mirror-mii-
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/14770de5b672e8792c35e1d75cd68faf.png"
 article_id = 87635
 feed_item_id = 15994
-url = "/news/202506/87635-mirror-miis-project-hypeup-la88-set-to-transform-los-angeles-county-tourism-with-ai-concierge-service"
+url = "/202506/87635-mirror-miis-project-hypeup-la88-set-to-transform-los-angeles-county-tourism-with-ai-concierge-service"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/epichU9w.webp"
 source = "24-7 Press Release"
 +++

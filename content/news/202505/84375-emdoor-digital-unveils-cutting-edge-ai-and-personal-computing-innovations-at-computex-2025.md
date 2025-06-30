@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/emdoor-digital-at-computex-2025-taipe
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/a52285b6f9044269d7b51d7b16c130fb.png"
 article_id = 84375
 feed_item_id = 14591
-url = "/news/202505/84375-emdoor-digital-unveils-cutting-edge-ai-and-personal-computing-innovations-at-computex-2025"
+url = "/202505/84375-emdoor-digital-unveils-cutting-edge-ai-and-personal-computing-innovations-at-computex-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/24/odorwsRH.webp"
 source = "News Direct"
 +++

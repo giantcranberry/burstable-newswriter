@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702005/trilliad-appoints-matt-naeg
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84230
 feed_item_id = 15034
-url = "/news/202506/84230-trilliad-strengthens-leadership-team-with-appointment-of-matt-naeger-as-chief-solutions-officer"
+url = "/202506/84230-trilliad-strengthens-leadership-team-with-appointment-of-matt-naeger-as-chief-solutions-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/keepW65_.webp"
 source = "citybiz"
 +++

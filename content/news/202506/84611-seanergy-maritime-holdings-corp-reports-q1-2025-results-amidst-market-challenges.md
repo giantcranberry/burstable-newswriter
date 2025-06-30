@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/q1-earnings-seanergy-beats-topl
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84611
 feed_item_id = 15349
-url = "/news/202506/84611-seanergy-maritime-holdings-corp-reports-q1-2025-results-amidst-market-challenges"
+url = "/202506/84611-seanergy-maritime-holdings-corp-reports-q1-2025-results-amidst-market-challenges"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/9/rubyH69b.webp"
 source = "NewMediaWire"
 +++

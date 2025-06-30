@@ -1,0 +1,16 @@
++++
+title = "Builders Capital Expands Into New Market with Casa Lending Division"
+date = "2024-07-31T15:15:06Z"
+draft = false
+summary = "Builders Capital launches Casa Lending to serve local and regional real estate investors, marking a strategic expansion into an underserved market."
+description = "Builders Capital expands loan production operations with the addition of more than 40 new team members, focusing on local and regional real estate investor markets with loan sizes between $100K-$3MM. Led by Jonathan Andrews, this strategic move positions Builders Capital as the top private lender in the nation."
+source_link = "https://newsdirect.com/news/builders-capital-announces-new-lending-division-and-significant-headcount-growth-366575635"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 92681
+feed_item_id = 5400
+url = "/202407/92681-builders-capital-expands-into-new-market-with-casa-lending-division"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/247/31/hikesgFS.webp"
+source = "News Direct"
++++
+
+<p>Builders Capital, a leading provider of real estate financing to private homebuilders, has announced the launch of Casa Lending, a new division aimed at originating loans for local and regional real estate investors. This strategic expansion introduces loan offerings ranging from $100,000 to $3 million, a segment previously untapped by the company. The move is supported by the addition of over 40 new team members, signaling significant growth in workforce and service capabilities.</p><p>Jonathan Andrews, the newly appointed leader of Casa Lending and former COO of Upright, brings a decade of experience in addressing the challenges faced by real estate investors. The division's focus on residential real estate and community development aligns with Builders Capital's existing emphasis on the construction industry. CEO Robert Trent highlighted the division's innovative loan products and the team's expertise in small balance fix and flip as well as ground-up construction projects.</p><p>The expansion is fueled by a $500 million transaction in growth capital with InterVest, contributing to the company's milestone of surpassing $10 billion in originated loans nationwide by 2024. Casa Lending aims to fill a gap in the market, offering efficient access to capital for investors who have been underserved by traditional banks. This initiative not only diversifies Builders Capital's portfolio but also has the potential to stimulate local real estate markets through increased investment in renovation and construction projects.</p><p>By targeting an underserved market segment, Builders Capital's expansion with Casa Lending could have far-reaching implications for the real estate investment landscape. The division's focus on speed, customer service, and execution is expected to support real estate investors in driving economic growth and community development. This strategic move underscores the company's commitment to innovation and its ambition to become the top private lender in the nation.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521884/the-book-da
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85583
 feed_item_id = 12920
-url = "/news/202504/85583-new-book-exposes-the-high-risks-and-hidden-dangers-of-day-trading"
+url = "/202504/85583-new-book-exposes-the-high-risks-and-hidden-dangers-of-day-trading"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/16/wolfCbTj.webp"
 source = "24-7 Press Release"
 +++

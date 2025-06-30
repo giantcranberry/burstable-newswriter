@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523558/discover-in
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 84144
 feed_item_id = 15283
-url = "/news/202506/84144-luxury-jewelry-gifts-for-fathers-day-highlight-strength-and-sophistication"
+url = "/202506/84144-luxury-jewelry-gifts-for-fathers-day-highlight-strength-and-sophistication"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/6/bendsdMM.webp"
 source = "24-7 Press Release"
 +++

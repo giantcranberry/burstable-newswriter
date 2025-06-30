@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701666/timken-appoints-timothy-a-g
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84743
 feed_item_id = 14955
-url = "/news/202506/84743-timken-company-appoints-timothy-a-graham-as-president-of-industrial-motion-to-drive-growth-and-innovation"
+url = "/202506/84743-timken-company-appoints-timothy-a-graham-as-president-of-industrial-motion-to-drive-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/cornTVyP.webp"
 source = "citybiz"
 +++

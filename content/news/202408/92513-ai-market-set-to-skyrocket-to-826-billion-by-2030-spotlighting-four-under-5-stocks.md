@@ -1,0 +1,16 @@
++++
+title = "AI Market Set to Skyrocket to $826 Billion by 2030, Spotlighting Four Under-$5 Stocks"
+date = "2024-08-22T09:05:12Z"
+draft = false
+summary = "The global AI market is projected to reach $826 billion by 2030, highlighting four affordable stocks poised for growth in smart city solutions, conversational AI, and optical communications."
+description = "Discover top AI stocks under $5 to watch in the evolving market. With the global AI market projected to reach $826 billion by 2030, the integration of AI solutions across various sectors presents new investment opportunities for cost reduction and improved performance."
+source_link = "https://newsdirect.com/news/top-ai-stocks-to-watch-under-5-422038995"
+enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
+article_id = 92513
+feed_item_id = 5892
+url = "/202408/92513-ai-market-set-to-skyrocket-to-826-billion-by-2030-spotlighting-four-under-5-stocks"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/248/22/jadebzph.webp"
+source = "News Direct"
++++
+
+<p>The artificial intelligence (AI) sector is on a trajectory to redefine the global market landscape, with projections indicating a surge to $826 billion by 2030. This growth, driven by a compound annual growth rate of 28.46% from 2024 to 2030, underscores the transformative potential of AI across industries. Amidst this expansion, four stocks priced under $5 are drawing attention for their innovative applications of AI technologies, offering unique investment opportunities in the burgeoning sector.</p><p>Iveda Solutions, Inc. (NASDAQ: IVDA) is at the forefront of integrating AI into smart city and video surveillance solutions. Its IvedaAI Cloud Subscription service, launched in May, enables existing IP cameras to perform advanced functions like facial recognition, making AI-powered surveillance more accessible. With the global AI-enhanced surveillance market expected to hit $55.22 billion by 2030, Iveda's strategic partnerships, including one with the Arab Organization for Industrialization in Egypt, position it for significant growth.</p><p>SoundHound AI (Nasdaq: SOUN) is carving a niche in conversational AI, with record revenues and a growing customer base. The company's acquisition of Amelia has expanded its services across banking and Fortune 500 companies, signaling strong future growth prospects. BigBear.ai (NYSE: BBAI) focuses on AI-driven decision intelligence, with recent contracts highlighting its role in national security and critical infrastructure. Despite some challenges, its involvement in major projects like the FAA's ITIPSS contract showcases its potential.</p><p>POET Technologies Inc. (NASDAQ: POET) is making strides in optical communications, essential for AI and hyperscale data centers. Its innovative Optical Interposer platform promises to reduce costs and power consumption while enhancing performance, marking it as a key player in the tech-driven future. These companies exemplify the diverse applications of AI and its capacity to drive innovation and growth across sectors.</p>

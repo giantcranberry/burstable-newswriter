@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701613/donut-labs-raises-7m-to-bui
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 87687
 feed_item_id = 15209
-url = "/news/202506/87687-donut-labs-secures-7-million-to-pioneer-agentic-crypto-browser"
+url = "/202506/87687-donut-labs-secures-7-million-to-pioneer-agentic-crypto-browser"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/hikeZ_6o.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/cmuv-bancorp-announces-2025-1st
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85449
 feed_item_id = 13487
-url = "/news/202504/85449-cmuv-bancorp-reports-strong-q1-2025-financial-results-amid-strategic-merger-plans"
+url = "/202504/85449-cmuv-bancorp-reports-strong-q1-2025-financial-results-amid-strategic-merger-plans"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/28/mildB9ii.webp"
 source = "NewMediaWire"
 +++

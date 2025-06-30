@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/cleango-innovations-and-h-e-m-t
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85318
 feed_item_id = 13911
-url = "/news/202505/85318-cleango-innovations-partners-with-hemt-to-bring-sustainable-solutions-to-omans-oil-and-gas-sector"
+url = "/202505/85318-cleango-innovations-partners-with-hemt-to-bring-sustainable-solutions-to-omans-oil-and-gas-sector"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/8/ellaXG9d.webp"
 source = "NewMediaWire"
 +++

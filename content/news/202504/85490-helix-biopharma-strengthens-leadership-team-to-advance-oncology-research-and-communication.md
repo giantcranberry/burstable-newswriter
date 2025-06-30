@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/helix-biopharma-corp-appoints-n
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85490
 feed_item_id = 13230
-url = "/news/202504/85490-helix-biopharma-strengthens-leadership-team-to-advance-oncology-research-and-communication"
+url = "/202504/85490-helix-biopharma-strengthens-leadership-team-to-advance-oncology-research-and-communication"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/24/icon1z9K.webp"
 source = "NewMediaWire"
 +++

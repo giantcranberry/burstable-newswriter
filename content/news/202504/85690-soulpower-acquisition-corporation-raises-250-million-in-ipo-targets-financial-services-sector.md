@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/soulpower-acquisition-corporati
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85690
 feed_item_id = 12493
-url = "/news/202504/85690-soulpower-acquisition-corporation-raises-250-million-in-ipo-targets-financial-services-sector"
+url = "/202504/85690-soulpower-acquisition-corporation-raises-250-million-in-ipo-targets-financial-services-sector"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/3/pendjiot.webp"
 source = "NewMediaWire"
 +++

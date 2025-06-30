@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/zacks-initiates-coverage
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 85487
 feed_item_id = 13245
-url = "/news/202504/85487-solarbank-corporation-garners-analyst-coverage-amid-renewable-energy-sector-growth"
+url = "/202504/85487-solarbank-corporation-garners-analyst-coverage-amid-renewable-energy-sector-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/pintzVCw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

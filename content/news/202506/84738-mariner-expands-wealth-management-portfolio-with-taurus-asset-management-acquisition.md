@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/mariner-acquires-taurus-asset-managem
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84738
 feed_item_id = 14979
-url = "/news/202506/84738-mariner-expands-wealth-management-portfolio-with-taurus-asset-management-acquisition"
+url = "/202506/84738-mariner-expands-wealth-management-portfolio-with-taurus-asset-management-acquisition"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/3/irisKc_6.webp"
 source = "News Direct"
 +++

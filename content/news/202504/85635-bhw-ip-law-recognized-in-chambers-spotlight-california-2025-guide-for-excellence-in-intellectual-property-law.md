@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521669/barcel%C3%B
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 85635
 feed_item_id = 12678
-url = "/news/202504/85635-bhw-ip-law-recognized-in-chambers-spotlight-california-2025-guide-for-excellence-in-intellectual-property-law"
+url = "/202504/85635-bhw-ip-law-recognized-in-chambers-spotlight-california-2025-guide-for-excellence-in-intellectual-property-law"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/11/roam9jly.webp"
 source = "24-7 Press Release"
 +++

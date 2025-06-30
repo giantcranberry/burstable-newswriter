@@ -8,7 +8,7 @@ source_link = "https://meridianbet.reportablenews.com/pr/expanse-studios-gmgi-en
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/8d18f2ddfd121003603c75857a60d1d2.jpg"
 article_id = 85627
 feed_item_id = 12692
-url = "/news/202504/85627-expanse-studios-and-betconstruct-forge-strategic-partnership-to-expand-igaming-reach"
+url = "/202504/85627-expanse-studios-and-betconstruct-forge-strategic-partnership-to-expand-igaming-reach"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/11/isle_4Qk.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202505121519/secretdesires-ai-is-evolv
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 85286
 feed_item_id = 14017
-url = "/news/202505/85286-secretdesiresai-revolutionizes-digital-companionship-with-personalized-ai-partners"
+url = "/202505/85286-secretdesiresai-revolutionizes-digital-companionship-with-personalized-ai-partners"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/255/12/eachVGJx.webp"
 source = "Newsworthy.ai"
 +++

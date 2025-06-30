@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522129/full-servic
 enclosure = "https://cdn.newsramp.app/banners/real-estate-2.jpg"
 article_id = 85507
 feed_item_id = 13177
-url = "/news/202504/85507-opulands-landscape-design-construction-elevates-sunnyvale-outdoor-living"
+url = "/202504/85507-opulands-landscape-design-construction-elevates-sunnyvale-outdoor-living"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/24/quipfbyQ.webp"
 source = "24-7 Press Release"
 +++

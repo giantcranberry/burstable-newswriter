@@ -1,0 +1,16 @@
++++
+title = "Flash Achieves HITRUST Certification, Setting New Data Security Standards in Parking Technology"
+date = "2025-01-21T16:00:08Z"
+draft = false
+summary = "Flash's HITRUST Certification for its parking solutions underscores the critical role of cybersecurity in technology services, especially in healthcare, by ensuring high data security standards."
+description = "Flash becomes the first parking technology provider to achieve HITRUST Certification for its PARCS and Valet solutions, setting new standards in data security and reliability. Learn more about Flash's industry-leading parking technology and commitment to delivering secure parking experiences nationwide."
+source_link = "https://newsdirect.com/news/flash-earns-hitrust-certification-a-first-in-parking-technology-523523718"
+enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
+article_id = 91286
+feed_item_id = 10226
+url = "/202501/91286-flash-achieves-hitrust-certification-setting-new-data-security-standards-in-parking-technology"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/251/21/riceYWks.webp"
+source = "News Direct"
++++
+
+<p>Flash, a leader in parking technology, has marked a significant industry milestone by becoming the first and only parking technology provider to receive HITRUST Certification for its Parking Access and Revenue Control Systems (PARCS) and Valet solutions. This achievement not only highlights Flash's commitment to data security but also aligns its security frameworks with those of its healthcare clients, thereby reducing implementation complexity and risk.</p><p>The certification serves as a testament to Flash's dedication to safeguarding the information of patients, visitors, physicians, and staff from the moment they enter a parking facility. Dan Sharplin, CEO of Flash, reiterated the company's focus on redefining the parking experience through stringent security measures, emphasizing the importance of trust and safety in technology services.</p><p>With a strong presence in major metropolitan areas across the United States, Flash has already established trust among significant healthcare systems. The company's consistent Level 1 Service Provider designation by the Payment Card Industry (PCI) Data Security Standards for over a decade further cements its reputation for reliability and security.</p><p>Flash's cloud-based platform is capable of processing over 500 million transactions annually, offering a secure environment that significantly reduces the risks of data loss, disruption, or corruption. The cloud infrastructure enables Flash to efficiently manage compliance, with the ability to deploy security updates and conduct system checks that become operational within minutes.</p><p>This HITRUST Certification is a pivotal development in the parking technology sector, reflecting the growing emphasis on cybersecurity across all technological services. For industries handling sensitive information, such as healthcare, Flash's achievement sets a new benchmark for data protection and security in parking solutions.</p>

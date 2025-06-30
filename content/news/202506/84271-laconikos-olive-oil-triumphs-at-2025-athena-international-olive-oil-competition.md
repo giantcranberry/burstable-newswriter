@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523428/laconiko-na
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 84271
 feed_item_id = 14920
-url = "/news/202506/84271-laconikos-olive-oil-triumphs-at-2025-athena-international-olive-oil-competition"
+url = "/202506/84271-laconikos-olive-oil-triumphs-at-2025-athena-international-olive-oil-competition"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/larkXjHe.webp"
 source = "24-7 Press Release"
 +++

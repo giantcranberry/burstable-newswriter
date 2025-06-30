@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521285/sonimedis-k
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85714
 feed_item_id = 12428
-url = "/news/202504/85714-sonimedis-ovaco-probio-6-melanocell-shampoo-wins-best-hair-product-at-cosmoprof-worldwide-bologna-2025"
+url = "/202504/85714-sonimedis-ovaco-probio-6-melanocell-shampoo-wins-best-hair-product-at-cosmoprof-worldwide-bologna-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/gainWHkZ.webp"
 source = "24-7 Press Release"
 +++

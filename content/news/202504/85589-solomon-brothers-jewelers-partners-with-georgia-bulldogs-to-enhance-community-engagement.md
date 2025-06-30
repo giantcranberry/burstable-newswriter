@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521860/solomon-bro
 enclosure = "https://cdn.newsramp.app/banners/sports-3.jpg"
 article_id = 85589
 feed_item_id = 12898
-url = "/news/202504/85589-solomon-brothers-jewelers-partners-with-georgia-bulldogs-to-enhance-community-engagement"
+url = "/202504/85589-solomon-brothers-jewelers-partners-with-georgia-bulldogs-to-enhance-community-engagement"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/16/hintOnvz.webp"
 source = "24-7 Press Release"
 +++

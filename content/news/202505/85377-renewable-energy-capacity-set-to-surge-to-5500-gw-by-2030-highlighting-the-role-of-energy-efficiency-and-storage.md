@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/limiting-wastage-could-a
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85377
 feed_item_id = 13740
-url = "/news/202505/85377-renewable-energy-capacity-set-to-surge-to-5500-gw-by-2030-highlighting-the-role-of-energy-efficiency-and-storage"
+url = "/202505/85377-renewable-energy-capacity-set-to-surge-to-5500-gw-by-2030-highlighting-the-role-of-energy-efficiency-and-storage"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/navyj32s.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

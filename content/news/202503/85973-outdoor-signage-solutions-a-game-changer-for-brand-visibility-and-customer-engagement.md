@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520264/front-signs
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 85973
 feed_item_id = 11605
-url = "/news/202503/85973-outdoor-signage-solutions-a-game-changer-for-brand-visibility-and-customer-engagement"
+url = "/202503/85973-outdoor-signage-solutions-a-game-changer-for-brand-visibility-and-customer-engagement"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/dashbOfH.webp"
 source = "24-7 Press Release"
 +++

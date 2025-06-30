@@ -1,0 +1,16 @@
++++
+title = "ARC Clean Technology and Deep Atomic Partner to Power Data Centers with Nuclear Energy"
+date = "2025-06-18T07:00:33Z"
+draft = false
+summary = "ARC Clean Technology and Deep Atomic's collaboration to explore the use of the ARC-100 small modular reactor for data centers and AI infrastructure marks a significant step towards sustainable energy solutions in the digital economy."
+description = "ARC Clean Technology and Deep Atomic join forces to deploy nuclear-powered solutions for AI and data centers, marking a leap towards sustainable digital infrastructure."
+source_link = "https://www.24-7pressrelease.com/press-release/523918/arc-clean-technology-and-deep-atomic-sign-mou-to-explore-deployment-of-arc-100-nuclear-reactor-for-data-centers-and-ai-infrastructure"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/ade6410249526db70183441e59cc53d6.png"
+article_id = 90382
+feed_item_id = 15824
+url = "/202506/90382-arc-clean-technology-and-deep-atomic-partner-to-power-data-centers-with-nuclear-energy"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/numbaGZM.webp"
+source = "24-7 Press Release"
++++
+
+<p>The digital infrastructure sector is on the brink of a sustainable revolution as ARC Clean Technology and Deep Atomic join forces under a Memorandum of Understanding (MOU) to investigate the potential of the ARC-100 small modular reactor (SMR) in powering next-generation data centers and AI infrastructure. This partnership highlights the growing acknowledgment of nuclear energy's role in providing clean, reliable power for the digital economy's expansion.</p><p>At the heart of this collaboration is the ARC-100, a 100 MWe sodium-cooled fast reactor renowned for its modular design, compact size, and dual capability to supply electricity and high-temperature heat. These features make the ARC-100 particularly suited for integration with compute-intensive and industrial facilities, offering a promising solution to the energy demands of high-density computing environments.</p><p>William Theron, CEO at Deep Atomic, pointed out the strategic importance of this alliance, emphasizing the goal to fast-track the adoption of advanced nuclear technologies for digital infrastructure. This initiative aims to provide data centers with a sustainable, around-the-clock energy source that aligns with the performance, security, and environmental requirements of the AI era.</p><p>Echoing this sentiment, Bob Braun, Chief Operating Officer at ARC Clean Technology, addressed the escalating electricity consumption by data centers, identifying them as a major driver of global energy demand. The ARC-100, with its capacity to deliver 100 megawatts of carbon-free power and high thermal efficiency, emerges as an optimal choice for supporting critical, high-density digital operations.</p><p>This partnership between ARC Clean Technology and Deep Atomic exemplifies an innovative strategy to tackle the energy challenges presented by the digital and AI advancements, paving the way for a future where critical infrastructure is powered sustainably and reliably.</p>

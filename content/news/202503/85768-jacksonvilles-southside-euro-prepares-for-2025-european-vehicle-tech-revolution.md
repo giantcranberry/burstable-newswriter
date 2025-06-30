@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/southside-euro-prepares-for-advanced-2
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/43cf68fb3648160236d7c25176511379.jpg"
 article_id = 85768
 feed_item_id = 12267
-url = "/news/202503/85768-jacksonvilles-southside-euro-prepares-for-2025-european-vehicle-tech-revolution"
+url = "/202503/85768-jacksonvilles-southside-euro-prepares-for-2025-european-vehicle-tech-revolution"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/27/urgemWyN.webp"
 source = "Press Services"
 +++

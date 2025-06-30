@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520394/experience-
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85927
 feed_item_id = 11725
-url = "/news/202503/85927-eyeology-elevates-eye-care-in-stoney-creek-with-advanced-diagnostics-and-premium-eyewear"
+url = "/202503/85927-eyeology-elevates-eye-care-in-stoney-creek-with-advanced-diagnostics-and-premium-eyewear"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/7/clubVv1a.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/45drives-announces-2025-creator
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85194
 feed_item_id = 14508
-url = "/news/202505/85194-45drives-announces-2025-creator-summit-in-wilmington-launching-45studio-for-creative-professionals"
+url = "/202505/85194-45drives-announces-2025-creator-summit-in-wilmington-launching-45studio-for-creative-professionals"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/22/jokeIKQC.webp"
 source = "NewMediaWire"
 +++

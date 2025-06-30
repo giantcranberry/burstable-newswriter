@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523438/mango-ai-la
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 84219
 feed_item_id = 15065
-url = "/news/202506/84219-mango-ai-revolutionizes-video-content-creation-with-advanced-face-swap-technology"
+url = "/202506/84219-mango-ai-revolutionizes-video-content-creation-with-advanced-face-swap-technology"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/zestIx2a.webp"
 source = "24-7 Press Release"
 +++

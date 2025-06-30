@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-now-underwa
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/817aab493b62cac31e6a11ff36dda998.jpg"
 article_id = 85781
 feed_item_id = 12231
-url = "/news/202503/85781-ugi-utilities-launches-major-gas-main-upgrade-in-easton-to-boost-safety-and-reliability"
+url = "/202503/85781-ugi-utilities-launches-major-gas-main-upgrade-in-easton-to-boost-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/26/finezlWK.webp"
 source = "Reportable"
 +++

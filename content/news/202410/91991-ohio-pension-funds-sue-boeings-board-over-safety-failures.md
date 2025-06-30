@@ -1,0 +1,16 @@
++++
+title = "Ohio Pension Funds Sue Boeing's Board Over Safety Failures"
+date = "2024-10-24T13:30:12Z"
+draft = false
+summary = "Two major Ohio pension funds have filed a lawsuit against Boeing's board of directors, alleging safety and compliance failures that prioritize profits over safety, with potential implications for corporate governance and investor protections."
+description = "Former Boeing Chairman Larry Kellner, who previously led the company’s governance oversight during the Alaska Airlines door plug blowout, is now head of the safety committee on ExxonMobil’s board of directors. Ohio Pension Funds Sue Boeing and Former Chairman Over Plane Failures. The news highlights legal actions taken against Boeing's board of directors and former chairman, Larry Kellner, for alleged safety and compliance failures, as well as questions about Kellner's new role at ExxonMobil."
+source_link = "https://newsdirect.com/news/ohio-pension-funds-sue-boeing-and-former-chairman-over-plane-failures-747784084"
+enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
+article_id = 91991
+feed_item_id = 7922
+url = "/202410/91991-ohio-pension-funds-sue-boeings-board-over-safety-failures"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/24/mintNJF_.webp"
+source = "News Direct"
++++
+
+<p>The Ohio Public Employees Retirement System and the State Teachers Retirement System of Ohio have taken legal action against Boeing's board of directors, including former chairman Larry Kellner, over alleged safety and compliance failures. Represented by Attorney General Dave Yost, the lawsuit accuses the board of breaching fiduciary duties by not adequately overseeing the company's safety practices, following incidents like the Alaska Airlines door plug blowout and the 737 MAX crashes.</p><p>Larry Kellner, who left Boeing after the Alaska Airlines incident and now heads the safety committee at ExxonMobil, is specifically accused of making false or misleading statements about Boeing's airplane manufacturing safety. This has raised concerns about his role in overseeing safety at another major corporation, with shareholder advocacy groups questioning his suitability.</p><p>The lawsuit emerges as Boeing reports a third-quarter loss exceeding $6 billion, highlighting the financial toll of its safety and reputation challenges. This legal action not only challenges Boeing's corporate governance but also underscores the broader issue of corporate accountability, especially in industries where safety is paramount.</p><p>For Boeing, this lawsuit arrives at a critical juncture as it seeks to regain trust among airlines, regulators, and the public. The case's outcome could influence future governance structures, safety practices, and financial health, setting a precedent for how companies balance safety with profitability.</p><p>As the case progresses, its ramifications may extend beyond Boeing, affecting safety standards, regulatory oversight, and investor protections across the aerospace sector and other high-stakes industries. It serves as a reminder of the consequences when safety and compliance are allegedly sidelined for financial gains.</p>

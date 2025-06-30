@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/koinfold-pay-2-0-integrates-pre
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 84868
 feed_item_id = 14385
-url = "/news/202505/84868-kyn-capital-group-and-bullionstar-partnership-revolutionizes-cryptocurrency-investments-with-physical-precious-metals"
+url = "/202505/84868-kyn-capital-group-and-bullionstar-partnership-revolutionizes-cryptocurrency-investments-with-physical-precious-metals"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/20/frogtFHf.webp"
 source = "NewMediaWire"
 +++

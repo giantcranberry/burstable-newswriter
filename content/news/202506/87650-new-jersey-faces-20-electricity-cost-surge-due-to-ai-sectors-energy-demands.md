@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/your-power-bill-is-soon
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/cd8b827d033fd2d4a2e8ab9792ac3aad.png"
 article_id = 87650
 feed_item_id = 15950
-url = "/news/202506/87650-new-jersey-faces-20-electricity-cost-surge-due-to-ai-sectors-energy-demands"
+url = "/202506/87650-new-jersey-faces-20-electricity-cost-surge-due-to-ai-sectors-energy-demands"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/ruby8ht7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

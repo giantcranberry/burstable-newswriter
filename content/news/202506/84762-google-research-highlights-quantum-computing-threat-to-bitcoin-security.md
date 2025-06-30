@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/google-study-says-fewer-
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 84762
 feed_item_id = 14855
-url = "/news/202506/84762-google-research-highlights-quantum-computing-threat-to-bitcoin-security"
+url = "/202506/84762-google-research-highlights-quantum-computing-threat-to-bitcoin-security"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/lendV5c1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/hive-digital-technologies-hopes
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 85795
 feed_item_id = 12196
-url = "/news/202503/85795-hive-digital-technologies-expands-bitcoin-mining-operations-in-paraguay-aiming-for-significant-growth-by-2025"
+url = "/202503/85795-hive-digital-technologies-expands-bitcoin-mining-operations-in-paraguay-aiming-for-significant-growth-by-2025"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/25/yawnHM4V.webp"
 source = "NewMediaWire"
 +++

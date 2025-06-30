@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523614/fast-guard-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85117
 feed_item_id = 15387
-url = "/news/202506/85117-fast-guard-service-launches-mobile-surveillance-division-to-combat-rising-security-threats"
+url = "/202506/85117-fast-guard-service-launches-mobile-surveillance-division-to-combat-rising-security-threats"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/bendkoZk.webp"
 source = "24-7 Press Release"
 +++

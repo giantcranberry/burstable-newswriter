@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520198/what-is-bra
 enclosure = "https://cdn.newsramp.app/banners/alternative-health-3.jpg"
 article_id = 86026
 feed_item_id = 11529
-url = "/news/202503/86026-braintecness-a-new-scientific-paradigm-for-emotional-health-and-societal-challenges"
+url = "/202503/86026-braintecness-a-new-scientific-paradigm-for-emotional-health-and-societal-challenges"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/3/fondRcS9.webp"
 source = "24-7 Press Release"
 +++

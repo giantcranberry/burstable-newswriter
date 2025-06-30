@@ -1,0 +1,16 @@
++++
+title = "Lexis Nexis Releases Third Edition of Essential Guide for Canadian Jury Trial Lawyers"
+date = "2025-03-13T07:00:22Z"
+draft = false
+summary = "The third edition of 'Addressing the Jury: Achieving Fair Verdicts in Personal Injury Cases' by Roger Oatley and Troy Lehman offers Canadian lawyers advanced strategies for jury persuasion and trial advocacy, featuring new audio chapters and insights into juror psychology."
+description = "Discover expert tips for achieving fair verdicts in personal injury cases with the release of the latest edition of Addressing the Jury. Renowned civil jury lawyer Roger Oatley and former partner Troy Lehman provide comprehensive insights and strategies for maximizing persuasive impact in trials."
+source_link = "https://www.24-7pressrelease.com/press-release/520552/lexis-nexis-releases-3rd-edition-of-addressing-the-jury"
+enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
+article_id = 90945
+feed_item_id = 11869
+url = "/202503/90945-lexis-nexis-releases-third-edition-of-essential-guide-for-canadian-jury-trial-lawyers"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/13/limeSzkU.webp"
+source = "24-7 Press Release"
++++
+
+<p>Lexis Nexis has unveiled the third edition of 'Addressing the Jury: Achieving Fair Verdicts in Personal Injury Cases', a critical resource for Canadian lawyers engaged in jury trials. Authored by Roger Oatley, a distinguished civil jury lawyer, and Troy Lehman, an experienced trial lawyer, this edition enriches the legal community with advanced advocacy techniques and a deeper understanding of jury psychology.</p><p>The book's latest iteration introduces sophisticated strategies for crafting persuasive trial narratives, alongside enhanced advice on witness examination. A novel addition is the audio chapters, which include real trial statements accompanied by expert analysis, offering lawyers a unique opportunity to learn from actual courtroom scenarios.</p><p>Focusing on the art of jury persuasion, the authors provide detailed guidance on structuring impactful opening and closing statements, leveraging demonstrative evidence, and preemptively addressing counterarguments. This content is invaluable for both novice attorneys approaching their inaugural jury trials and seasoned practitioners aiming to elevate their advocacy skills.</p><p>Among the edition's highlights are exclusive audio recordings from a victorious jury trial, granting readers a rare glimpse into effective advocacy in action. The publication thoroughly examines the psychological factors that sway juror opinions and verdicts, presenting a holistic view of the trial process.</p><p>Combining Lehman's hands-on trial expertise with Oatley's strategic acumen, the book marks a pivotal advancement in legal education and practice, particularly in the realm of personal injury litigation. It emphasizes the intricate communication skills necessary to navigate complex legal disputes and secure equitable outcomes for clients.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520543/journey-bey
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-3.jpg"
 article_id = 85733
 feed_item_id = 12373
-url = "/news/202504/85733-innovative-multimedia-series-the-space-adventures-of-microboo-transforms-family-entertainment"
+url = "/202504/85733-innovative-multimedia-series-the-space-adventures-of-microboo-transforms-family-entertainment"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/1/quayrohm.webp"
 source = "24-7 Press Release"
 +++

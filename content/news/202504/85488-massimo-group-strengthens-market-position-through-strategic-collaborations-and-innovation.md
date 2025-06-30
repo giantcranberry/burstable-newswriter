@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-massim
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85488
 feed_item_id = 13232
-url = "/news/202504/85488-massimo-group-strengthens-market-position-through-strategic-collaborations-and-innovation"
+url = "/202504/85488-massimo-group-strengthens-market-position-through-strategic-collaborations-and-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/filetNoL.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

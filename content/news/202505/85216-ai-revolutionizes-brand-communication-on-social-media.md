@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/how-ai-is-helping-brands
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 85216
 feed_item_id = 14315
-url = "/news/202505/85216-ai-revolutionizes-brand-communication-on-social-media"
+url = "/202505/85216-ai-revolutionizes-brand-communication-on-social-media"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/19/barnzYVu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

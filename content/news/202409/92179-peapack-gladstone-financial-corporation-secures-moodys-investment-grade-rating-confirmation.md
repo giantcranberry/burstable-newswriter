@@ -1,0 +1,16 @@
++++
+title = "Peapack-Gladstone Financial Corporation Secures Moody's Investment Grade Rating Confirmation"
+date = "2024-09-30T14:20:15Z"
+draft = false
+summary = "Peapack-Gladstone Financial Corporation and its banking subsidiary receive a stable investment grade rating from Moody's, underscoring their financial strength and stability in a challenging economic climate."
+description = "Moody’s confirms investor grade ratings for Peapack-Gladstone Financial Corporation and its banking subsidiary, Peapack-Gladstone Bank. The ratings reflect the Company’s solid capital position and improvements in funding and liquidity profile."
+source_link = "https://www.newmediawire.com/news/peapack-gladstone-financial-corporation-and-peapack-gladstone-bank-s-investment-grade-ratings-confirmed-by-moody-s-investors-service-7076125"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 92179
+feed_item_id = 7271
+url = "/202409/92179-peapack-gladstone-financial-corporation-secures-moodys-investment-grade-rating-confirmation"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/249/30/quay9CJQ.webp"
+source = "NewMediaWire"
++++
+
+<p>Peapack-Gladstone Financial Corporation (NASDAQ: PGC) and its banking subsidiary, Peapack-Gladstone Bank, have achieved a significant milestone with the confirmation of their investment grade ratings by Moody's Investors Service. This affirmation, following a comprehensive review initiated in June, highlights the financial robustness and stability of both entities. Moody's has affirmed the Baa3 long-term local currency issuer rating for Peapack-Gladstone Financial Corporation and the baa2 baseline credit assessment (BCA) for Peapack-Gladstone Bank, with the outlook changed to 'stable'.</p><p>The rating confirmation is a testament to the company's solid capital position and improved funding and liquidity profile, which Moody's identified as key strengths. The agency also recognized the resilience of Peapack-Gladstone's deposit base during the 2023 regional banking crisis, a critical factor in maintaining stability amidst market volatility. Douglas L. Kennedy, President and CEO, expressed pride in this achievement, viewing it as validation of the company's strategic direction and business model.</p><p>In today's economy, where the financial health of banking institutions is under intense scrutiny, Moody's investment grade rating offers stakeholders reassurance regarding Peapack-Gladstone's creditworthiness and financial stability. This is further bolstered by the company's previous affirmation of investment grade ratings by Kroll Bond Rating Agency (KBRA) in May 2024, enhancing its credibility in the financial sector.</p><p>With total assets of $6.51 billion and assets under management and/or administration of $11.5 billion as of June 30, 2024, Peapack-Gladstone Financial Corporation continues to demonstrate its capacity to deliver comprehensive financial services through its commercial bank and wealth management division. This rating confirmation not only reflects the company's current financial health but also positions it favorably for future growth and stability in the competitive banking and wealth management industry.</p>

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/130-years-strong-kdw-celebrates-extra
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84800
 feed_item_id = 14630
-url = "/news/202505/84800-kdw-celebrates-130-years-of-innovation-and-leadership-in-design-build-industry"
+url = "/202505/84800-kdw-celebrates-130-years-of-innovation-and-leadership-in-design-build-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/27/pine_qmx.webp"
 source = "News Direct"
 +++

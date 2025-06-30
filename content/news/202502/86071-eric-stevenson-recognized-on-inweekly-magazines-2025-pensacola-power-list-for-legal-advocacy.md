@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520140/attorney-er
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 86071
 feed_item_id = 11221
-url = "/news/202502/86071-eric-stevenson-recognized-on-inweekly-magazines-2025-pensacola-power-list-for-legal-advocacy"
+url = "/202502/86071-eric-stevenson-recognized-on-inweekly-magazines-2025-pensacola-power-list-for-legal-advocacy"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/28/ovalThKF.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://evertise.net/international-top-up-and-natcash-remittance-
 enclosure = "https://cdn.newsramp.app/evertise-ai-pr/newsimage/cf8b5547756b2f186fc9ad0a40041c65.jpg"
 article_id = 85745
 feed_item_id = 12336
-url = "/news/202503/85745-natcom-revolutionizes-haitis-telecommunications-and-financial-services-with-innovative-solutions"
+url = "/202503/85745-natcom-revolutionizes-haitis-telecommunications-and-financial-services-with-innovative-solutions"
 qrcode = "https://cdn.newsramp.app/evertise-ai-pr/qrcode/253/31/glowAd6U.webp"
 source = "Evertise Digital"
 +++

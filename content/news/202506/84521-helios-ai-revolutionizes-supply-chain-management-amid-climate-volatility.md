@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/704743/qa-with-francisco-martin-ra
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84521
 feed_item_id = 15528
-url = "/news/202506/84521-helios-ai-revolutionizes-supply-chain-management-amid-climate-volatility"
+url = "/202506/84521-helios-ai-revolutionizes-supply-chain-management-amid-climate-volatility"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/knot1JQO.webp"
 source = "citybiz"
 +++

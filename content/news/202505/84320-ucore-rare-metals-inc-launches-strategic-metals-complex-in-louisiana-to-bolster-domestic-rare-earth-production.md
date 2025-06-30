@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-ucore-rare-me
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84320
 feed_item_id = 14747
-url = "/news/202505/84320-ucore-rare-metals-inc-launches-strategic-metals-complex-in-louisiana-to-bolster-domestic-rare-earth-production"
+url = "/202505/84320-ucore-rare-metals-inc-launches-strategic-metals-complex-in-louisiana-to-bolster-domestic-rare-earth-production"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/bestOwao.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/brass-knuckles-announces-return
 enclosure = "https://cdn.newsramp.app/banners/cannabis-2.jpg"
 article_id = 85709
 feed_item_id = 12441
-url = "/news/202504/85709-brass-knuckles-reenters-nevada-market-with-innovative-cannabis-products-and-authentication-technology"
+url = "/202504/85709-brass-knuckles-reenters-nevada-market-with-innovative-cannabis-products-and-authentication-technology"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/2/quiplaNW.webp"
 source = "NewMediaWire"
 +++

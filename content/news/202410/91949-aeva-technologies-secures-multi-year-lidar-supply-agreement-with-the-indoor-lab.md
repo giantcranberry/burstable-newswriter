@@ -1,0 +1,16 @@
++++
+title = "Aeva Technologies Secures Multi-Year LiDAR Supply Agreement with The Indoor Lab"
+date = "2024-10-29T13:05:11Z"
+draft = false
+summary = "Aeva Technologies Inc. partners with The Indoor Lab to supply advanced 4D LiDAR sensors, marking a significant expansion into industrial applications beyond automotive."
+description = "Aeva Technologies signs multi-year deal with The Indoor Lab, expanding commercial momentum and increasing revenue potential. The strategic partnership demonstrates Aeva’s success in the LiDAR market and its impact on various industries."
+source_link = "https://newsdirect.com/news/aeva-technologies-inks-multi-year-deal-with-the-indoor-lab-growing-its-commercial-momentum-and-increasing-revenue-potential-373815627"
+enclosure = "https://public.newsdirect.com/373815627/IB0SZ90x.png"
+article_id = 91949
+feed_item_id = 8069
+url = "/202410/91949-aeva-technologies-secures-multi-year-lidar-supply-agreement-with-the-indoor-lab"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/29/deepfFPx.webp"
+source = "News Direct"
++++
+
+<p>Aeva Technologies Inc. (NYSE: AEVA), a leader in advanced FMCW 4D LiDAR sensor manufacturing, has announced a multi-year sensor supply agreement with The Indoor Lab, a company known for its LiDAR perception and analytics solutions. This partnership represents a pivotal moment for Aeva, showcasing its commercial growth and diversification into sectors outside the automotive industry.</p><p>The Indoor Lab's LiDAR analytics platform is instrumental in improving safety, security, and operational efficiency across a variety of industries, including major U.S. airports, mass transit railways, agriculture, and smart infrastructure in theme parks and cities. This agreement is Aeva's first industrial customer production win for its next-generation 4D LiDAR sensor, Atlas, with shipments beginning this month and scaling up in 2025 to support large-scale projects.</p><p>Initial deployments of Aeva's 4D LiDAR technology will be at some of the busiest airports in the U.S., such as John F. Kennedy International Airport's New Terminal One and San Francisco International Airport. The technology's unique ability to use a low-power continuous laser beam for simultaneous range and velocity measurements offers instant discrimination between moving and stationary objects, a critical feature for safety and security applications.</p><p>Patrick Blattner, founder and CEO of The Indoor Lab, praised Aeva's technology for its superior performance and scalability, which he believes will future-proof their perception analytics platform for critical infrastructure across the U.S. This collaboration not only enhances Aeva's portfolio but also strengthens its position in the industrial market, as noted by James Byun, managing director of business development at Aeva.</p><p>With the LiDAR market expected to grow at a CAGR of 19.3% through 2030, Aeva's strategic partnerships and technological innovations are well-timed to capture opportunities across automotive, industrial automation, manufacturing, and security sectors. The company's upcoming industrial metrology and manufacturing automation program with Nikon further underscores its commitment to expanding its footprint in the LiDAR market.</p>

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/golds-safe-haven-status-
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85173
 feed_item_id = 14687
-url = "/news/202505/85173-gold-prices-surge-amid-economic-uncertainty-and-us-dollar-doubts"
+url = "/202505/85173-gold-prices-surge-amid-economic-uncertainty-and-us-dollar-doubts"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/arch2AlN.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

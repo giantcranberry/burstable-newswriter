@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/billiondollarbreaks-ener
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85316
 feed_item_id = 13924
-url = "/news/202505/85316-energy-fuels-inc-reports-q1-2025-financial-results-amid-strategic-growth-in-uranium-and-rare-earth-elements"
+url = "/202505/85316-energy-fuels-inc-reports-q1-2025-financial-results-amid-strategic-growth-in-uranium-and-rare-earth-elements"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/limeAvAw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

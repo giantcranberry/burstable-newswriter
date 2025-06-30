@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524029/bhs-inc-int
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/c640dcef00c3ff3ae1f2913a6a1a30f9.png"
 article_id = 87633
 feed_item_id = 15992
-url = "/news/202506/87633-bhs-inc-introduces-modular-charging-solutions-for-electric-industrial-vehicles"
+url = "/202506/87633-bhs-inc-introduces-modular-charging-solutions-for-electric-industrial-vehicles"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/mielf2F5.webp"
 source = "24-7 Press Release"
 +++

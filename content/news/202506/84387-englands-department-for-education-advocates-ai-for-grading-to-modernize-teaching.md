@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/england-oks-teachers-us
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/66fb0154a3e157a62df12592ca9fbc35.png"
 article_id = 84387
 feed_item_id = 15746
-url = "/news/202506/84387-englands-department-for-education-advocates-ai-for-grading-to-modernize-teaching"
+url = "/202506/84387-englands-department-for-education-advocates-ai-for-grading-to-modernize-teaching"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/lineQzEU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

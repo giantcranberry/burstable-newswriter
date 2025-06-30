@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521869/new-asia-pa
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85579
 feed_item_id = 12938
-url = "/news/202504/85579-rs-global-group-launches-asia-pacific-emerging-markets-equity-fund"
+url = "/202504/85579-rs-global-group-launches-asia-pacific-emerging-markets-equity-fund"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/17/riced4OF.webp"
 source = "24-7 Press Release"
 +++

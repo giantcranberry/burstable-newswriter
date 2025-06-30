@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/abvc-biopharma-announces-board-
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84255
 feed_item_id = 14964
-url = "/news/202506/84255-abvc-biopharma-announces-share-dividend-in-strategic-move-to-enhance-shareholder-value"
+url = "/202506/84255-abvc-biopharma-announces-share-dividend-in-strategic-move-to-enhance-shareholder-value"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/3/bossMv8h.webp"
 source = "NewMediaWire"
 +++

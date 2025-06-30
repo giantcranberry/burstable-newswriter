@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/esg/esgbreaks-aston-bay-hold
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84848
 feed_item_id = 14450
-url = "/news/202505/84848-aston-bay-holdings-advances-storm-copper-project-with-2025-exploration-milestones"
+url = "/202505/84848-aston-bay-holdings-advances-storm-copper-project-with-2025-exploration-milestones"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/dualwkIl.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523383/must-go-sal
 enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
 article_id = 85162
 feed_item_id = 14821
-url = "/news/202505/85162-rottermond-jewelers-must-go-sale-offers-up-to-65-off-on-fine-jewelry"
+url = "/202505/85162-rottermond-jewelers-must-go-sale-offers-up-to-65-off-on-fine-jewelry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/31/chiph144.webp"
 source = "24-7 Press Release"
 +++

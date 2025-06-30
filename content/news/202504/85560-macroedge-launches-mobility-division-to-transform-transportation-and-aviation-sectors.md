@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522011/macroedge-l
 enclosure = "https://cdn.newsramp.app/banners/travel-3.jpg"
 article_id = 85560
 feed_item_id = 13010
-url = "/news/202504/85560-macroedge-launches-mobility-division-to-transform-transportation-and-aviation-sectors"
+url = "/202504/85560-macroedge-launches-mobility-division-to-transform-transportation-and-aviation-sectors"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/21/sageXv_1.webp"
 source = "24-7 Press Release"
 +++

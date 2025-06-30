@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701693/nike-appoints-michael-gonda
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85153
 feed_item_id = 14959
-url = "/news/202506/85153-nike-strengthens-leadership-team-with-appointment-of-michael-gonda-as-chief-communications-officer"
+url = "/202506/85153-nike-strengthens-leadership-team-with-appointment-of-michael-gonda-as-chief-communications-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/milks4MD.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523255/motoassure-
 enclosure = "https://cdn.newsramp.app/banners/insurance-2.jpg"
 article_id = 85170
 feed_item_id = 14714
-url = "/news/202505/85170-motoassure-admin-revolutionizes-vehicle-protection-with-expanded-plans-for-classic-and-high-mileage-cars"
+url = "/202505/85170-motoassure-admin-revolutionizes-vehicle-protection-with-expanded-plans-for-classic-and-high-mileage-cars"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/29/limeX3QJ.webp"
 source = "24-7 Press Release"
 +++

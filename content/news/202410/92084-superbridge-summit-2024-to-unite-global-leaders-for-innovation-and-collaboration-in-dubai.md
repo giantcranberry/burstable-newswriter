@@ -1,0 +1,16 @@
++++
+title = "SuperBridge Summit 2024 to Unite Global Leaders for Innovation and Collaboration in Dubai"
+date = "2024-10-12T07:05:09Z"
+draft = false
+summary = "The SuperBridge Summit 2024 in Dubai will gather 70 global leaders to discuss financial innovation, sustainable travel, AI in education, and smart infrastructure, highlighting Dubai's role as a hub for global business and innovation."
+description = "The Dubai World Trade Centre and SuperBridge Council have announced the lineup of key speakers for the SuperBridge Summit 2024, featuring 70 thought leaders, innovators, and pioneers. The summit aims to foster collaboration, inspire, and drive innovation for the next generation of global leaders, addressing critical global issues. This event provides an opportunity for attendees to gain insights and actionable solutions from influential speakers across diverse industries."
+source_link = "https://www.24-7pressrelease.com/press-release/515196/superbridge-summit-2024-attracts-prominent-industry-leaders-announces-key-speakers"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0515196_209562.jpg"
+article_id = 92084
+feed_item_id = 7585
+url = "/202410/92084-superbridge-summit-2024-to-unite-global-leaders-for-innovation-and-collaboration-in-dubai"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2410/12/seekKNUP.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Dubai World Trade Centre (DWTC) and the SuperBridge Council have announced an impressive lineup for the SuperBridge Summit 2024, featuring 70 thought leaders from around the globe. Scheduled for October 15 and 16, 2024, at the One&Only One Za'abeel Hotel in Dubai, the summit aims to inspire the next generation of leaders through discussions on financial innovation, sustainable travel, AI-powered education, and smart infrastructure technologies.</p><p>Key speakers include Ian Johnston of the Dubai Financial Services Authority and Mohammad Alblooshi from DIFC Innovation Hub, who will explore advancements in Dubai's financial sector. Jane Sun, CEO of Trip.com Group, will address sustainable travel, while Hans Duisters of Sioux Group will discuss the Gulf's emerging role in technological collaborations. The event will also feature insights from Takashi Maruyama on Japan's economic opportunities and Yi Wang on AI in education.</p><p>Dr. Bo Bai will highlight the impact of smart infrastructure on sustainable industrialization, and Vish Narain will focus on technology-driven investments in emerging markets. The summit underscores Dubai's position as a global innovation hub, offering a platform for cross-industry partnerships and solutions to worldwide challenges.</p><p>Trixie LohMirmand of DWTC emphasized the summit's role in fostering dynamic discussions and actionable solutions. With its diverse speaker roster, the SuperBridge Summit 2024 is set to catalyze meaningful change across industries, reinforcing the importance of international collaboration in addressing global issues.</p>

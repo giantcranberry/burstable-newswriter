@@ -1,0 +1,16 @@
++++
+title = "Classic 107.3 and KQSD Partner with AirKast to Transform Public Radio Experience"
+date = "2024-08-12T07:00:13Z"
+draft = false
+summary = "Classic 107.3 and KQSD's partnership with AirKast introduces advanced mobile app technology to enhance listener experience and provide detailed analytics for advertisers, marking a significant evolution in public radio."
+description = "Classic 107.3 and KQSD partner with AirKast to enhance mobile app experiences for listeners, offering live streaming, on-demand content, playlists, and exclusive station news. This collaboration aims to provide a more interactive and user-friendly listening experience."
+source_link = "https://www.24-7pressrelease.com/press-release/513266/classic-1073-and-kqsd-partner-with-airkast-for-innovative-mobile-app-solutions"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0513266_207213.png"
+article_id = 92610
+feed_item_id = 5639
+url = "/202408/92610-classic-1073-and-kqsd-partner-with-airkast-to-transform-public-radio-experience"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/248/12/isletYyQ.webp"
+source = "24-7 Press Release"
++++
+
+<p>The collaboration between Classic 107.3, St. Louis' leading classical music station, and KQSD, Santa Cruz's eclectic community station, with mobile app developer AirKast, signifies a transformative shift in the public radio sector. This partnership leverages AirKast's cutting-edge mobile app and AirBridge technology to offer listeners live streaming, on-demand content, and exclusive station news, all within a user-friendly interface. The initiative not only enhances the listener experience but also provides unprecedented insights for advertisers and underwriters through sophisticated mobile analytics.</p><p>Julie Schuster, General Manager of Classic 107.3, and Rachel Anne Goodman, Board Chair of KSQD, have both highlighted the potential of this partnership to expand reach and enrich the listener experience. AirKast's technology enables stations to demonstrate listener loyalty more effectively, offering detailed analytics that go beyond traditional metrics. This includes in-depth listening visualizations and comprehensive underwriting campaign analytics, which are crucial for attracting and retaining advertisers.</p><p>One of the partnership's innovative features is the introduction of visual mobile messaging alongside traditional audio underwriting messages. This approach allows stations to maintain their streamlined broadcasts while offering advertisers a new way to connect with audiences. Larry Leung, CEO of AirKast, points out the engaged nature of public radio listeners and the ability to provide real-time campaign modifications and granular insights, which are invaluable for demonstrating growth to sponsors.</p><p>With AirKast's track record of deploying over 1,000 apps across multiple continents and collaborating with more than 60 media giants, this partnership sets a precedent for the digital evolution of public radio. It not only enhances the listener experience but also opens new avenues for funding through innovative advertising options. The success of this initiative could redefine digital engagement and monetization strategies for public radio stations worldwide.</p>

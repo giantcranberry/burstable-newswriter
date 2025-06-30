@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/comcast-to-connect-more-than-11-000-h
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/51b61cd9864bf57764dd7431ee7d4020.jpg"
 article_id = 85955
 feed_item_id = 11641
-url = "/news/202503/85955-comcasts-multi-million-dollar-expansion-to-enhance-digital-connectivity-in-six-missouri-cities"
+url = "/202503/85955-comcasts-multi-million-dollar-expansion-to-enhance-digital-connectivity-in-six-missouri-cities"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/5/noonGxDJ.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522336/meet-herb-t
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85411
 feed_item_id = 13636
-url = "/news/202504/85411-rcrhub-introduces-herb-an-ai-agent-revolutionizing-healthcare-revenue-cycle-management-connections"
+url = "/202504/85411-rcrhub-introduces-herb-an-ai-agent-revolutionizing-healthcare-revenue-cycle-management-connections"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/icyZZg0.webp"
 source = "24-7 Press Release"
 +++

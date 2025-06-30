@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522812/unveiling-t
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85232
 feed_item_id = 14212
-url = "/news/202505/85232-wryst-unveils-limited-edition-sx7-automatic-watch-a-blend-of-precision-and-exclusivity"
+url = "/202505/85232-wryst-unveils-limited-edition-sx7-automatic-watch-a-blend-of-precision-and-exclusivity"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/harpFK_y.webp"
 source = "24-7 Press Release"
 +++

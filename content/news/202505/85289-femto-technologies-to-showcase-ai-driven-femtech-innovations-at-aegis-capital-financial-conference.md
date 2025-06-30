@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/femto-technologies-creator-of-s
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85289
 feed_item_id = 14006
-url = "/news/202505/85289-femto-technologies-to-showcase-ai-driven-femtech-innovations-at-aegis-capital-financial-conference"
+url = "/202505/85289-femto-technologies-to-showcase-ai-driven-femtech-innovations-at-aegis-capital-financial-conference"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/12/rushVhAP.webp"
 source = "NewMediaWire"
 +++

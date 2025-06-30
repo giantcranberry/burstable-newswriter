@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/lantern-pharma-inc-nasda
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 84530
 feed_item_id = 15512
-url = "/news/202506/84530-lantern-pharma-harnesses-ai-to-revolutionize-oncology-drug-development"
+url = "/202506/84530-lantern-pharma-harnesses-ai-to-revolutionize-oncology-drug-development"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/chefNDoo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

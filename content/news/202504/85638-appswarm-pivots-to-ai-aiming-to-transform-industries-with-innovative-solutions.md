@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/appswarm-announces-strategic-fo
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85638
 feed_item_id = 12659
-url = "/news/202504/85638-appswarm-pivots-to-ai-aiming-to-transform-industries-with-innovative-solutions"
+url = "/202504/85638-appswarm-pivots-to-ai-aiming-to-transform-industries-with-innovative-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/10/jadeW60B.webp"
 source = "NewMediaWire"
 +++

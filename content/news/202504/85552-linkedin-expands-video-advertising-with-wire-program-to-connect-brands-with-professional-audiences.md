@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/linkedin-expands-its-vid
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 85552
 feed_item_id = 13044
-url = "/news/202504/85552-linkedin-expands-video-advertising-with-wire-program-to-connect-brands-with-professional-audiences"
+url = "/202504/85552-linkedin-expands-video-advertising-with-wire-program-to-connect-brands-with-professional-audiences"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/21/roamhril.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

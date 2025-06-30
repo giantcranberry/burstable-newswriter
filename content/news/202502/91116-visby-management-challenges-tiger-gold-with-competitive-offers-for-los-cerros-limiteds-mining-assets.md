@@ -1,0 +1,16 @@
++++
+title = "Visby Management Challenges Tiger Gold with Competitive Offers for Los Cerros Limited's Mining Assets"
+date = "2025-02-12T04:45:09Z"
+draft = false
+summary = "Visby Management has presented two competitive offers to acquire Los Cerros Limited's mining assets in Colombia, challenging the existing agreement with Tiger Gold Corporation and offering shareholders potentially more lucrative alternatives."
+description = "Visby Management presents compelling offers to acquire Los Cerros Limited's Colombia assets, providing important investment capital and options for the company. Shareholders urged to consider Visby's proposals over Tiger Gold Corporation's offer."
+source_link = "https://newsdirect.com/news/visby-management-makes-two-superior-offers-for-los-cerros-limiteds-colombia-assets-including-all-cash-option-224447317"
+enclosure = "https://cdn.newsramp.app/banners/real-estate-2.jpg"
+article_id = 91116
+feed_item_id = 10815
+url = "/202502/91116-visby-management-challenges-tiger-gold-with-competitive-offers-for-los-cerros-limiteds-mining-assets"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/12/pend3qop.webp"
+source = "News Direct"
++++
+
+<p>Visby Management, an international mine operator, has stepped forward with two competitive offers aimed at acquiring Los Cerros Limited's (LCL) Andes and Quinchia mining assets in Colombia. This move directly challenges the current sale agreement LCL has with Tiger Gold Corporation, presenting shareholders with alternative paths that could offer greater financial and strategic benefits.</p><p>The first proposal, Offer A, is a straightforward $6,000,000 AUD all-cash deal, payable within 12 months. This offer allows LCL to retain a 1% net smelter royalty (NSR) on the projects and maintain ownership of the assets until the full payment is completed. Offer B, however, introduces a more complex structure, featuring an initial $2,000,000 AUD payment upon signing. A unique clause in Offer B requires Visby to complete a public listing on a Canadian stock exchange by December 31, 2025. Failure to meet this deadline would result in LCL keeping both the cash consideration and the assets.</p><p>Visby highlights the strengths of their proposals, including full transaction financing and a demonstrated ability to advance mining projects in challenging environments. They argue that their offers provide LCL with immediate investment capital and the opportunity for future gains through retained royalty interests. These proposals emerge as LCL is bound by an agreement with Tiger Gold Corporation, with Visby urging shareholders to reject the current deal in the upcoming February 17, 2025, vote.</p><p>The Visby offers stand out for their flexibility, substantial upfront payments, and the potential for additional future compensation. Offer B, in particular, offers Visby the option to completely buy out the projects with a $9,000,000 AUD cash payment, bypassing the public listing requirement. With the offers valid for 30 days or until necessary approvals are secured, LCL shareholders are presented with a choice that could significantly impact the monetization of their Colombian mining assets.</p>

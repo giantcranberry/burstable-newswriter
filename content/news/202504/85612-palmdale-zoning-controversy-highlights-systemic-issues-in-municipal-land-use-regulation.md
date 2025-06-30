@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521775/quiet-zonin
 enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
 article_id = 85612
 feed_item_id = 12754
-url = "/news/202504/85612-palmdale-zoning-controversy-highlights-systemic-issues-in-municipal-land-use-regulation"
+url = "/202504/85612-palmdale-zoning-controversy-highlights-systemic-issues-in-municipal-land-use-regulation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/15/mintPvaE.webp"
 source = "24-7 Press Release"
 +++

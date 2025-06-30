@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/verizon-accelerating-customer-st
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85693
 feed_item_id = 12485
-url = "/news/202504/85693-verizon-unveils-revolutionary-consumer-business-strategy-with-unprecedented-guarantees"
+url = "/202504/85693-verizon-unveils-revolutionary-consumer-business-strategy-with-unprecedented-guarantees"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/254/3/deep3v82.webp"
 source = "Noticias Newswire"
 +++

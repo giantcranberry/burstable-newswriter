@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/industry-executives-expe
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 84300
 feed_item_id = 14811
-url = "/news/202505/84300-us-offshore-oil-production-set-for-significant-growth-government-agencies-report"
+url = "/202505/84300-us-offshore-oil-production-set-for-significant-growth-government-agencies-report"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/barnPxln.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

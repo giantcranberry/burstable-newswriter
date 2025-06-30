@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701418/stradley-ronon-appoints-jor
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 84266
 feed_item_id = 14943
-url = "/news/202506/84266-stradley-ronon-strengthens-litigation-team-with-key-partner-appointments"
+url = "/202506/84266-stradley-ronon-strengthens-litigation-team-with-key-partner-appointments"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/hikeL6LG.webp"
 source = "citybiz"
 +++

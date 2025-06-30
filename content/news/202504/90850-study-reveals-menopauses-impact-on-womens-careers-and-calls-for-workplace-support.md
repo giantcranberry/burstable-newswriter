@@ -1,0 +1,16 @@
++++
+title = "Study Reveals Menopause's Impact on Women's Careers and Calls for Workplace Support"
+date = "2025-04-03T12:00:13Z"
+draft = false
+summary = "A recent study highlights the significant career challenges women face due to menopause symptoms, urging for more supportive workplace cultures and policies."
+description = "A new report by Aimed Alliance and HR.com's HR Research Institute exposes the lack of support for menopause symptoms in the workplace, impacting women's careers. Learn about the consequences and the importance of addressing this issue for gender equality and workplace productivity."
+source_link = "https://newsworthy.ai/news/202504031472/few-organizations-address-menopause-stigma-affecting-well-being-productivity-and-the-bottom-line"
+enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
+article_id = 90850
+feed_item_id = 12480
+url = "/202504/90850-study-reveals-menopauses-impact-on-womens-careers-and-calls-for-workplace-support"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/254/3/swimKneX.webp"
+source = "Newsworthy.ai"
++++
+
+<p>A recent study conducted by Aimed Alliance and HR.com's HR Research Institute sheds light on the profound career challenges women encounter due to menopause-related symptoms, underscoring the need for more supportive workplace environments. The research, titled 'Understanding the Health Issues of Women in Midlife,' reveals that only 22% of HR professionals feel their organizations are actively working to reduce the stigma around perimenopause and menopause, pointing to a significant gap in workplace support.</p><p>The findings indicate that 81% of respondents acknowledge the impact of menopause symptoms on women's professional lives, with 85% reporting a loss of self-confidence, 68% experiencing presenteeism, and 67% facing reduced engagement at work. Despite these challenges, workplace culture remains largely unsupportive, with only 41% of organizations fostering a positive environment for discussing and addressing these health issues. Alarmingly, 10% of respondents still view discussions about menopause or related health concerns as unprofessional, leading to 61% of women feeling uncomfortable seeking treatment coverage for age-related health issues.</p><p>To combat these issues, the study recommends several accommodations to better support women in the workplace. These include allowing time off for medical appointments (88%), ensuring consistent restroom access (86%), and implementing employee assistance programs (80%). Debbie McGrath, Chief Instigator and CEO of HR.com, highlights the importance of addressing these midlife health issues, noting that ignoring them not only affects individual well-being but also hampers productivity, engagement, and retention.</p><p>This comprehensive research offers valuable insights into the emerging trends and strategies employers can adopt to address these critical workplace challenges. By implementing the recommended accommodations, organizations can take significant steps toward creating a more inclusive and supportive environment for women navigating menopause, ultimately benefiting both employees and employers alike.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521155/diplomatic-
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 85754
 feed_item_id = 12312
-url = "/news/202503/85754-diplomatic-trade-announces-50-million-investment-in-antalyas-luxury-and-medical-tourism-sector"
+url = "/202503/85754-diplomatic-trade-announces-50-million-investment-in-antalyas-luxury-and-medical-tourism-sector"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/29/fondFoma.webp"
 source = "24-7 Press Release"
 +++

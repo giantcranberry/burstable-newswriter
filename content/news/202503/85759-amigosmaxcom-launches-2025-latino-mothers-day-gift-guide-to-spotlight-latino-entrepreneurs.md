@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/amigosmax-announces-call-for-sub
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-3.jpg"
 article_id = 85759
 feed_item_id = 12298
-url = "/news/202503/85759-amigosmaxcom-launches-2025-latino-mothers-day-gift-guide-to-spotlight-latino-entrepreneurs"
+url = "/202503/85759-amigosmaxcom-launches-2025-latino-mothers-day-gift-guide-to-spotlight-latino-entrepreneurs"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/253/28/zestl0Po.webp"
 source = "Noticias Newswire"
 +++

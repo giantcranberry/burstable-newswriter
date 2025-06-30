@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521291/ai-revoluti
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85718
 feed_item_id = 12416
-url = "/news/202504/85718-ai-reshapes-digital-marketing-and-search-technologies-offering-competitive-edge"
+url = "/202504/85718-ai-reshapes-digital-marketing-and-search-technologies-offering-competitive-edge"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/fastvuSy.webp"
 source = "24-7 Press Release"
 +++

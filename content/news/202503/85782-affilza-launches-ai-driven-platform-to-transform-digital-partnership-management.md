@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/affilza-launches-advanced-ai-powered-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/bf2330a225aa02babc8b5889860dc216.jpg"
 article_id = 85782
 feed_item_id = 12230
-url = "/news/202503/85782-affilza-launches-ai-driven-platform-to-transform-digital-partnership-management"
+url = "/202503/85782-affilza-launches-ai-driven-platform-to-transform-digital-partnership-management"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/26/eachp1Tt.webp"
 source = "News Direct"
 +++

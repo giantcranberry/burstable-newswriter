@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702949/top-restructuring-lawyers-k
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85133
 feed_item_id = 15179
-url = "/news/202506/85133-herbert-smith-freehills-kramer-strengthens-bankruptcy-and-restructuring-group-with-key-partner-additions"
+url = "/202506/85133-herbert-smith-freehills-kramer-strengthens-bankruptcy-and-restructuring-group-with-key-partner-additions"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/daveGbvI.webp"
 source = "citybiz"
 +++

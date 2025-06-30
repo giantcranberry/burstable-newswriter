@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/esgold-corp-cse-esau-otc
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 85314
 feed_item_id = 13928
-url = "/news/202505/85314-esgold-corp-identifies-high-priority-exploration-zone-in-quebecs-montauban-project"
+url = "/202505/85314-esgold-corp-identifies-high-priority-exploration-zone-in-quebecs-montauban-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/mossQVqo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

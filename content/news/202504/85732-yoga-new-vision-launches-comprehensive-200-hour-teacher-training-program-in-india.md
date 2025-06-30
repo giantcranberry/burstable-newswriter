@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521203/yoga-new-vi
 enclosure = "https://cdn.newsramp.app/banners/alternative-health-1.jpg"
 article_id = 85732
 feed_item_id = 12377
-url = "/news/202504/85732-yoga-new-vision-launches-comprehensive-200-hour-teacher-training-program-in-india"
+url = "/202504/85732-yoga-new-vision-launches-comprehensive-200-hour-teacher-training-program-in-india"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/1/vastXODH.webp"
 source = "24-7 Press Release"
 +++

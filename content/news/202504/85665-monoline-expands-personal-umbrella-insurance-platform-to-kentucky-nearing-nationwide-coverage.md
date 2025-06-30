@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521539/monoline-ex
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85665
 feed_item_id = 12580
-url = "/news/202504/85665-monoline-expands-personal-umbrella-insurance-platform-to-kentucky-nearing-nationwide-coverage"
+url = "/202504/85665-monoline-expands-personal-umbrella-insurance-platform-to-kentucky-nearing-nationwide-coverage"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/8/coolN3kJ.webp"
 source = "24-7 Press Release"
 +++

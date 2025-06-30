@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/connected-vehicles-are-leaping-
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84345
 feed_item_id = 14678
-url = "/news/202505/84345-iteris-inc-pioneers-connected-vehicle-technology-with-ai-powered-solutions"
+url = "/202505/84345-iteris-inc-pioneers-connected-vehicle-technology-with-ai-powered-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/28/bendDPhs.webp"
 source = "NewMediaWire"
 +++

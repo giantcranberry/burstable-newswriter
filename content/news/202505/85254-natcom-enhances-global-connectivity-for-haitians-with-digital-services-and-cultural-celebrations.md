@@ -8,7 +8,7 @@ source_link = "https://evertise.net/natcom-celebrates-haitian-flag-day-strengthe
 enclosure = "https://cdn.newsramp.app/evertise-ai-pr/newsimage/45feb659f2cd12ae38bc868faff37ec0.png"
 article_id = 85254
 feed_item_id = 14149
-url = "/news/202505/85254-natcom-enhances-global-connectivity-for-haitians-with-digital-services-and-cultural-celebrations"
+url = "/202505/85254-natcom-enhances-global-connectivity-for-haitians-with-digital-services-and-cultural-celebrations"
 qrcode = "https://cdn.newsramp.app/evertise-ai-pr/qrcode/255/14/markAgpc.webp"
 source = "Evertise Digital"
 +++

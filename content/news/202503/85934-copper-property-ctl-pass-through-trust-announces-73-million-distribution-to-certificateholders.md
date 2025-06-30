@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/copper-property-ctl-pass-through-trus
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85934
 feed_item_id = 11699
-url = "/news/202503/85934-copper-property-ctl-pass-through-trust-announces-73-million-distribution-to-certificateholders"
+url = "/202503/85934-copper-property-ctl-pass-through-trust-announces-73-million-distribution-to-certificateholders"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/6/facefr5U.webp"
 source = "News Direct"
 +++

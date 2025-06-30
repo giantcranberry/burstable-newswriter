@@ -1,0 +1,16 @@
++++
+title = "Gerber Ciano Kelly Brady LLP Elevates Six Lawyers to Equity Partnership, Strengthening Firm's Leadership and Expertise"
+date = "2024-08-21T07:05:14Z"
+draft = false
+summary = "Gerber Ciano Kelly Brady LLP's promotion of six lawyers to equity partnership highlights the firm's commitment to internal talent development and its strategic growth in the legal industry."
+description = "Gerber Ciano Kelly Brady LLP recently elevated six lawyers to equity partners, showcasing their expertise and leadership in diverse practice areas. Learn more about this exciting development at Gerber Ciano."
+source_link = "https://www.24-7pressrelease.com/press-release/513630/gerber-ciano-kelly-brady-llp-names-six-new-equity-partners"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0513630_207647.jpg"
+article_id = 92527
+feed_item_id = 5860
+url = "/202408/92527-gerber-ciano-kelly-brady-llp-elevates-six-lawyers-to-equity-partnership-strengthening-firms-leadership-and-expertise"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/248/21/chipkh5L.webp"
+source = "24-7 Press Release"
++++
+
+<p>Gerber Ciano Kelly Brady LLP, a leading law firm based in New York, has announced the elevation of six lawyers to equity partnership, a move that significantly enhances the firm's leadership and expertise across various legal practice areas. The new equity partners, Troy A. Bataille, Brendan T. Fitzpatrick, Erin N. Mackin, Jeffrey Migdalen, Kelly E. Petter, and Marvin N. Romero, bring a wealth of diverse skills and experiences to their roles, further solidifying the firm's position in the legal industry.</p><p>John Jablonski, the firm's Managing Partner, and Co-Chairperson Dennis Brady have both emphasized the importance of these appointments, noting the new partners' commitment to the firm's clients, culture, and core values. This strategic expansion is not only a testament to the firm's dedication to recognizing and fostering internal talent but also reflects its adaptability to the changing needs of the legal landscape.</p><p>The newly elevated partners specialize in a range of legal areas, from litigation and appellate advocacy to insurance solutions and commercial disputes, offering comprehensive services to clients. Their promotions underscore the firm's focus on building a versatile and skilled partnership capable of addressing complex legal challenges across different sectors.</p><p>Recognized in U.S. News – Best Lawyers "Best Law Firms" from 2019 through 2024, Gerber Ciano Kelly Brady LLP's latest move is indicative of its ongoing commitment to excellence and strategic growth. With over 60 lawyers in offices across the United States and in London, the firm continues to lead in providing high-quality legal services with an emphasis on value and efficiency.</p><p>This development is significant for the legal industry, showcasing the importance of nurturing leadership and expertise within law firms. It highlights how diverse specializations and experiences contribute to a robust partnership, enabling firms to meet the evolving demands of their clients effectively. As Gerber Ciano Kelly Brady LLP moves forward, these new equity partners are set to play pivotal roles in guiding the firm's future and upholding its reputation for outstanding legal services.</p>

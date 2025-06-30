@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522908/act-bar-joi
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85218
 feed_item_id = 14295
-url = "/news/202505/85218-act-bar-joins-sprouts-farmers-markets-innovation-program-amplifying-its-mission-of-sustainability-and-social-impact"
+url = "/202505/85218-act-bar-joins-sprouts-farmers-markets-innovation-program-amplifying-its-mission-of-sustainability-and-social-impact"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/17/yawnzF0_.webp"
 source = "24-7 Press Release"
 +++

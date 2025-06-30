@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/6eb8d9d9007026c114a91e2ef20de8f9.png"
 article_id = 85392
 feed_item_id = 13693
-url = "/news/202505/85392-civeo-corporation-reports-mixed-q1-2025-results-amid-canadian-challenges-and-australian-growth"
+url = "/202505/85392-civeo-corporation-reports-mixed-q1-2025-results-amid-canadian-challenges-and-australian-growth"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/1/harpap5Z.webp"
 source = "Reportable"
 +++

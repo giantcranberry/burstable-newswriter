@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/the-chlorine-institute-names-ku
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85648
 feed_item_id = 12627
-url = "/news/202504/85648-chlorine-institute-honors-industry-leaders-for-excellence-in-safety-and-leadership"
+url = "/202504/85648-chlorine-institute-honors-industry-leaders-for-excellence-in-safety-and-leadership"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/9/tiled34u.webp"
 source = "NewMediaWire"
 +++

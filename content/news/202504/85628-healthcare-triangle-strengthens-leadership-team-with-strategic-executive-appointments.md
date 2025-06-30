@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-announces-t
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85628
 feed_item_id = 12690
-url = "/news/202504/85628-healthcare-triangle-strengthens-leadership-team-with-strategic-executive-appointments"
+url = "/202504/85628-healthcare-triangle-strengthens-leadership-team-with-strategic-executive-appointments"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/11/daveCkm5.webp"
 source = "NewMediaWire"
 +++

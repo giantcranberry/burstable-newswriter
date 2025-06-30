@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522878/levelup-lms
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85219
 feed_item_id = 14297
-url = "/news/202505/85219-levelup-study-reveals-significant-reduction-in-employee-onboarding-time-through-innovative-training"
+url = "/202505/85219-levelup-study-reveals-significant-reduction-in-employee-onboarding-time-through-innovative-training"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/17/irisBrVb.webp"
 source = "24-7 Press Release"
 +++

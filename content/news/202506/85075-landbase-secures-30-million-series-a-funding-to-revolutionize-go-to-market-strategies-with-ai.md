@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708644/qa-with-daniel-saks-co-foun
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/b8c27a1f15231f1d3bb0cfa042c2dac8.png"
 article_id = 85075
 feed_item_id = 15880
-url = "/news/202506/85075-landbase-secures-30-million-series-a-funding-to-revolutionize-go-to-market-strategies-with-ai"
+url = "/202506/85075-landbase-secures-30-million-series-a-funding-to-revolutionize-go-to-market-strategies-with-ai"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/even7fEe.webp"
 source = "citybiz"
 +++

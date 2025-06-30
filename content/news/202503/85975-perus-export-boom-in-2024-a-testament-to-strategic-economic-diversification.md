@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/perus-historic-export-growth-expands-
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85975
 feed_item_id = 11604
-url = "/news/202503/85975-perus-export-boom-in-2024-a-testament-to-strategic-economic-diversification"
+url = "/202503/85975-perus-export-boom-in-2024-a-testament-to-strategic-economic-diversification"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/4/gleeJk9r.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/avenue-z-names-whitney-hart-as-ai-foc
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85904
 feed_item_id = 11806
-url = "/news/202503/85904-avenue-z-appoints-whitney-hart-as-chief-strategy-officer-to-lead-ai-optimization-efforts"
+url = "/202503/85904-avenue-z-appoints-whitney-hart-as-chief-strategy-officer-to-lead-ai-optimization-efforts"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/11/healmwb8.webp"
 source = "News Direct"
 +++

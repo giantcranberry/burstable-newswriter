@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703191/meketa-investment-group-wel
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84163
 feed_item_id = 15224
-url = "/news/202506/84163-meketa-investment-group-expands-employee-ownership-with-addition-of-matt-curran"
+url = "/202506/84163-meketa-investment-group-expands-employee-ownership-with-addition-of-matt-curran"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/fineQ5HB.webp"
 source = "citybiz"
 +++

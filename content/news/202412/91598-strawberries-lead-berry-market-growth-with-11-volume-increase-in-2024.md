@@ -1,0 +1,16 @@
++++
+title = "Strawberries Lead Berry Market Growth with 11% Volume Increase in 2024"
+date = "2024-12-05T08:00:16Z"
+draft = false
+summary = "The 2024 State of the Strawberry Category Report reveals significant growth in strawberry sales, highlighting consumer trends and opportunities for retailers."
+description = "The California Strawberry Commission's 2024 State of the Strawberry Category Report highlights the dominance of strawberries in driving berry category sales growth, providing valuable insights for industry professionals to optimize their strategies and capitalize on the momentum of the strawberry category."
+source_link = "https://www.24-7pressrelease.com/press-release/516800/california-strawberry-commission-research-highlights-strength-of-strawberry-retail-promotions"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0516800_211677.jpg"
+article_id = 91598
+feed_item_id = 9152
+url = "/202412/91598-strawberries-lead-berry-market-growth-with-11-volume-increase-in-2024"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2412/5/coolboMR.webp"
+source = "24-7 Press Release"
++++
+
+<p>The California Strawberry Commission's 2024 State of the Strawberry Category Report underscores the fruit's dominance in the fresh berry market, with an 11% year-over-year volume increase. Strawberries now command a 60% share of the berry category volume, contributing an additional 153.6 million pounds in sales, and a 43% share in dollar sales, adding $235.9 million. This growth not only solidifies strawberries' position as a key driver of berry category sales but also reflects changing consumer preferences and market dynamics.</p><p>Organic strawberries are gaining traction, with a 12% volume increase compared to conventional varieties, indicating a shift towards more sustainable and health-conscious options. Packaging trends show a preference for 16 oz. and 32 oz. packages, which account for 98% of sales, with the larger size seeing a 15% volume increase. Regional sales data reveals the Southeast's 14% volume growth leads category development, while the Northeast holds the largest market share, suggesting the need for region-specific marketing strategies.</p><p>Promotional efforts have proven highly effective, with over half of strawberry volume sold on promotion, achieving a 43% volume lift at an average 26% discount. The peak season from April to July saw 652 million pounds sold, generating $1.7 billion in sales, highlighting the importance of seasonal planning for retailers and suppliers.</p><p>Chris Christian of the California Strawberry Commission highlighted the report's findings as a reflection of growing consumer demand and the effectiveness of retail promotions. The report serves as a crucial tool for stakeholders across the supply chain, offering insights into consumer trends, promotional strategies, and inventory management to meet demand and foster growth. For more details, visit <a href='https://www.californiastrawberries.com/retail' rel='nofollow' target='_blank'>https://www.californiastrawberries.com/retail</a>.</p>

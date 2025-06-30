@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521073/kimblades-s
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85764
 feed_item_id = 12281
-url = "/news/202503/85764-kimblade-x-revolutionizes-windshield-wiper-technology-with-record-breaking-kickstarter-success"
+url = "/202503/85764-kimblade-x-revolutionizes-windshield-wiper-technology-with-record-breaking-kickstarter-success"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/28/quizXYo_.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/barrick-gold-divests-its
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85463
 feed_item_id = 13436
-url = "/news/202504/85463-barrick-gold-sells-stake-in-donlin-gold-project-for-1-billion-signaling-strategic-shift-in-mining-industry"
+url = "/202504/85463-barrick-gold-sells-stake-in-donlin-gold-project-for-1-billion-signaling-strategic-shift-in-mining-industry"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/quipGPnR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

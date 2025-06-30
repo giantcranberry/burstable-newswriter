@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521399/venture-cap
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 85692
 feed_item_id = 12486
-url = "/news/202504/85692-venture-capitalist-nick-cooney-ties-book-pre-orders-to-philanthropic-donations"
+url = "/202504/85692-venture-capitalist-nick-cooney-ties-book-pre-orders-to-philanthropic-donations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/mendGCbS.webp"
 source = "24-7 Press Release"
 +++

@@ -1,0 +1,16 @@
++++
+title = "McEwen Mining to Showcase Argentina's Mining Potential at Key Industry Events"
+date = "2024-08-27T11:46:39Z"
+draft = false
+summary = "McEwen Mining is set to highlight Argentina's emerging role in the global energy transition through its participation in upcoming industry events, focusing on the country's copper and lithium reserves."
+description = "McEwen Mining (MUX) to feature in key industry events, showcasing expertise and leadership in gold and silver production. CEO Rob McEwen participated in a panel discussion on Argentina's copper and lithium reserves."
+source_link = "https://rss.investorbrandnetwork.com/ibn-prem/mcewen-mining-nyse-mux-tsx-mux-execs-scheduled-to-participate-in-key-events/"
+enclosure = "https://storage.googleapis.com/investorbrandnetwork.info/ult-prem/mux.png"
+article_id = 92488
+feed_item_id = 6089
+url = "/202408/92488-mcewen-mining-to-showcase-argentinas-mining-potential-at-key-industry-events"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/248/27/bestBhL8.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>McEwen Mining (NYSE: MUX) (TSX: MUX), a leading gold and silver producer with operations across the Americas, is preparing to take center stage at several high-profile industry events. These gatherings are pivotal for discussing Argentina's burgeoning role in the global energy transition, particularly through its vast copper and lithium reserves. The company's engagement begins with CEO Rob McEwen's recent participation in a Fastmarkets webinar, setting the stage for a deeper dive into Argentina's mining sector.</p><p>The company has announced its participation in three significant events, starting with the Jefferies Global Metals and Mining Conference in New York City on September 4-5, 2024. Rob McEwen and Michael Meding, vice president and general manager of McEwen Copper, will present insights into Argentina's mining landscape. The presentation will be accessible <a href='https://ibn.fm/mepjO' rel='nofollow' target='_blank'>here</a>.</p><p>Following this, McEwen Mining will join the H.C. Wainwright 26th Annual Global Investment Conference on September 9, 2024, with a presentation available <a href='https://ibn.fm/S3WAy' rel='nofollow' target='_blank'>here</a>. The series concludes with the 2024 Beaver Creek Precious Metals Summit from September 10-13, where the company's executives will share their vision for Argentina's mining future. Details can be found <a href='https://ibn.fm/oUN5Y' rel='nofollow' target='_blank'>here</a>.</p><p>These events are crucial for McEwen Mining, offering a platform to underscore Argentina's potential in the global energy transition. With a 48.3% stake in McEwen Copper and the development of the Los Azules copper project, the company is at the forefront of exploring Argentina's mineral wealth. The focus on copper and lithium is timely, as these metals are essential for electric vehicles and renewable energy technologies, driving global demand.</p><p>McEwen Mining's participation highlights its commitment to enhancing asset productivity and shareholder value, positioning it as a significant player in the mining industry's future. These presentations provide investors and industry observers with valuable insights into the company's strategies and the evolving dynamics of the global mining sector.</p>

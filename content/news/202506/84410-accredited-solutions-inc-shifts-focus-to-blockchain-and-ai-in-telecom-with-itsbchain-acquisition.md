@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/accredited-solutions-inc-otc-as
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/af33b6601027cf2a3eac28bd505f462d.png"
 article_id = 84410
 feed_item_id = 15672
-url = "/news/202506/84410-accredited-solutions-inc-shifts-focus-to-blockchain-and-ai-in-telecom-with-itsbchain-acquisition"
+url = "/202506/84410-accredited-solutions-inc-shifts-focus-to-blockchain-and-ai-in-telecom-with-itsbchain-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/16/pondoyju.webp"
 source = "NewMediaWire"
 +++

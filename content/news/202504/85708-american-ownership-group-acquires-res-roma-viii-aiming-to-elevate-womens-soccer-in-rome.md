@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/us-based-group-buys-historic-womens-s
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85708
 feed_item_id = 12443
-url = "/news/202504/85708-american-ownership-group-acquires-res-roma-viii-aiming-to-elevate-womens-soccer-in-rome"
+url = "/202504/85708-american-ownership-group-acquires-res-roma-viii-aiming-to-elevate-womens-soccer-in-rome"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/2/keepvHo8.webp"
 source = "News Direct"
 +++

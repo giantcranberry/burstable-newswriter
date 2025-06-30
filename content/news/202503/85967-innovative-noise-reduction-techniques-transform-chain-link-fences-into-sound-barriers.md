@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520316/drown-out-t
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85967
 feed_item_id = 11616
-url = "/news/202503/85967-innovative-noise-reduction-techniques-transform-chain-link-fences-into-sound-barriers"
+url = "/202503/85967-innovative-noise-reduction-techniques-transform-chain-link-fences-into-sound-barriers"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/ellekiBv.webp"
 source = "24-7 Press Release"
 +++

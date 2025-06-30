@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522524/mcclung-log
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85338
 feed_item_id = 13851
-url = "/news/202505/85338-mcclung-logan-equipment-company-expands-into-fishersville-virginia-with-new-full-service-branch"
+url = "/202505/85338-mcclung-logan-equipment-company-expands-into-fishersville-virginia-with-new-full-service-branch"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/7/mailh0Kw.webp"
 source = "24-7 Press Release"
 +++

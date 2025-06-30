@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523664/jonathan-he
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84106
 feed_item_id = 15409
-url = "/news/202506/84106-web3-and-ai-pioneer-jonathan-herman-discusses-the-future-of-legal-profession-with-emerging-technologies"
+url = "/202506/84106-web3-and-ai-pioneer-jonathan-herman-discusses-the-future-of-legal-profession-with-emerging-technologies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/pint9ZEw.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503181463/new-research-only-25-of-p
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 85855
 feed_item_id = 11999
-url = "/news/202503/85855-study-reveals-only-25-of-organizations-have-advanced-payroll-strategies-highlighting-need-for-modernization"
+url = "/202503/85855-study-reveals-only-25-of-organizations-have-advanced-payroll-strategies-highlighting-need-for-modernization"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/18/bendyYUe.webp"
 source = "Newsworthy.ai"
 +++

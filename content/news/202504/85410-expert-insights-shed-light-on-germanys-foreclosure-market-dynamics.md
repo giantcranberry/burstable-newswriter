@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522331/ronny-kazys
 enclosure = "https://cdn.newsramp.app/banners/media-1.jpg"
 article_id = 85410
 feed_item_id = 13635
-url = "/news/202504/85410-expert-insights-shed-light-on-germanys-foreclosure-market-dynamics"
+url = "/202504/85410-expert-insights-shed-light-on-germanys-foreclosure-market-dynamics"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/lineHkSE.webp"
 source = "24-7 Press Release"
 +++

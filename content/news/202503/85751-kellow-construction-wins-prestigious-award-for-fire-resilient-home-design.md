@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521127/kellow-cons
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 85751
 feed_item_id = 12314
-url = "/news/202503/85751-kellow-construction-wins-prestigious-award-for-fire-resilient-home-design"
+url = "/202503/85751-kellow-construction-wins-prestigious-award-for-fire-resilient-home-design"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/29/ellagN3W.webp"
 source = "24-7 Press Release"
 +++

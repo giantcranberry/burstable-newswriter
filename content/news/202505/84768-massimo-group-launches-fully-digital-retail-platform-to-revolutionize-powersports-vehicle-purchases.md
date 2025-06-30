@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-innova
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84768
 feed_item_id = 14814
-url = "/news/202505/84768-massimo-group-launches-fully-digital-retail-platform-to-revolutionize-powersports-vehicle-purchases"
+url = "/202505/84768-massimo-group-launches-fully-digital-retail-platform-to-revolutionize-powersports-vehicle-purchases"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/coolRIF7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

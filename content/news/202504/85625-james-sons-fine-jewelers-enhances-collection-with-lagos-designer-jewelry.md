@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521721/lagos-now-a
 enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
 article_id = 85625
 feed_item_id = 12700
-url = "/news/202504/85625-james-sons-fine-jewelers-enhances-collection-with-lagos-designer-jewelry"
+url = "/202504/85625-james-sons-fine-jewelers-enhances-collection-with-lagos-designer-jewelry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/12/noteDyAe.webp"
 source = "24-7 Press Release"
 +++

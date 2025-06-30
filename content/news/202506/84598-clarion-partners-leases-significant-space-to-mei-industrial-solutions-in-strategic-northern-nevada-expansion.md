@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/clarion-partners-welcomes-mei-industr
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/185493ab8dfdee470fa93d5e44e50a08.jpg"
 article_id = 84598
 feed_item_id = 15379
-url = "/news/202506/84598-clarion-partners-leases-significant-space-to-mei-industrial-solutions-in-strategic-northern-nevada-expansion"
+url = "/202506/84598-clarion-partners-leases-significant-space-to-mei-industrial-solutions-in-strategic-northern-nevada-expansion"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/9/quayHhW7.webp"
 source = "News Direct"
 +++

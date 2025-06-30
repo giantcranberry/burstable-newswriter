@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-drivin
 enclosure = "https://cdn.newsramp.app/banners/sports-2.jpg"
 article_id = 84439
 feed_item_id = 15636
-url = "/news/202506/84439-massimo-group-accelerates-growth-in-the-booming-powersports-industry"
+url = "/202506/84439-massimo-group-accelerates-growth-in-the-booming-powersports-industry"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/quip_VPo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

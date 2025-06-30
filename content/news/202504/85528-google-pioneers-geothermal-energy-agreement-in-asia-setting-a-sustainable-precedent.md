@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/google-signs-geothermal-
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85528
 feed_item_id = 13101
-url = "/news/202504/85528-google-pioneers-geothermal-energy-agreement-in-asia-setting-a-sustainable-precedent"
+url = "/202504/85528-google-pioneers-geothermal-energy-agreement-in-asia-setting-a-sustainable-precedent"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/noontHAJ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

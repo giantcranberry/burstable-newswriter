@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press_release/521439/transform-y
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85682
 feed_item_id = 12513
-url = "/news/202504/85682-magic-fox-orthodontics-pioneers-personalized-dental-care-in-southern-california"
+url = "/202504/85682-magic-fox-orthodontics-pioneers-personalized-dental-care-in-southern-california"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/moonplQj.webp"
 source = "24-7 Press Release"
 +++

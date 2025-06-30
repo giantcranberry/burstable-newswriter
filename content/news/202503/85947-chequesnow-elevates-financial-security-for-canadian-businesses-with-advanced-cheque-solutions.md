@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/chequesnow-ensures-cpa-compliance-with
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/a5ae973c59b52fbba2690bb8482b0eb6.jpg"
 article_id = 85947
 feed_item_id = 11659
-url = "/news/202503/85947-chequesnow-elevates-financial-security-for-canadian-businesses-with-advanced-cheque-solutions"
+url = "/202503/85947-chequesnow-elevates-financial-security-for-canadian-businesses-with-advanced-cheque-solutions"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/6/noonRBIv.webp"
 source = "Press Services"
 +++

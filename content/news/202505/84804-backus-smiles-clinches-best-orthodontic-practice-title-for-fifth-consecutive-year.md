@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523168/backus-smil
 enclosure = "https://cdn.newsramp.app/banners/awards-2.jpg"
 article_id = 84804
 feed_item_id = 14610
-url = "/news/202505/84804-backus-smiles-clinches-best-orthodontic-practice-title-for-fifth-consecutive-year"
+url = "/202505/84804-backus-smiles-clinches-best-orthodontic-practice-title-for-fifth-consecutive-year"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/knob7RcA.webp"
 source = "24-7 Press Release"
 +++

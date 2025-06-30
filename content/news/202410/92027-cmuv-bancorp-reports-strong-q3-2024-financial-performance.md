@@ -1,0 +1,16 @@
++++
+title = "CMUV Bancorp Reports Strong Q3 2024 Financial Performance"
+date = "2024-10-18T13:20:18Z"
+draft = false
+summary = "CMUV Bancorp's unaudited financial results for Q3 2024 highlight significant growth in net income, total assets, and loans, underscoring the resilience and strategic strength of community banks in a dynamic economic environment."
+description = "CMUV Bancorp announces unaudited 3rd Quarter results with net income reaching $1,127,388 and total assets at $315.9 MM. The bank exceeded expectations in net income, total assets, and loans for the first three quarters of 2024."
+source_link = "https://www.newmediawire.com/news/cmuv-bancorp-announces-2024-3rd-quarter-financial-results-7076254"
+enclosure = "https://s3.amazonaws.com/cms.ipressroom.com/270/files/202410/9d533c5d9196a43a_67117b57da846f3067c045a2_1"
+article_id = 92027
+feed_item_id = 7797
+url = "/202410/92027-cmuv-bancorp-reports-strong-q3-2024-financial-performance"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2410/18/healAZXT.webp"
+source = "NewMediaWire"
++++
+
+<p>CMUV Bancorp, the parent company of Community Valley Bank (CVB), has announced its unaudited financial results for the third quarter of 2024, revealing a robust performance with a net income of $1,127,388, or $0.65 per share. The bank's total assets climbed to $315.9 million by the end of September 2024, with total deposits and gross loans reaching $276.3 million and $261.1 million, respectively, showcasing substantial growth in its core operations.</p><p>The bank's Community Bank Leverage Capital ratio stood at 11.71%, significantly above the regulatory threshold for well-capitalized banks, highlighting its financial stability. With non-accrual and past-due loans at a minimal 0.96% and an Allowance for Credit Losses (ACL) of $2,697,627, CMUV Bancorp demonstrates strong asset quality and risk management.</p><p>Shareholders have reason for optimism, with the book value for common stock at $17.30 per share (diluted) and the stock trading at $18.25 on September 30, 2024. The bank's Return on Average Assets (ROAA) and Return on Average Equity (ROAE) were 1.36% and 12.02%, respectively, for the quarter, reflecting efficient management and profitability.</p><p>Year-over-year comparisons reveal notable improvements, with total assets and gross loans increasing from $295.5 million and $223.4 million in Q3 2023 to $315.8 million and $261.1 million in Q3 2024. The bank's net interest income for the first nine months of 2024 rose to $9,445,059 from $8,905,668 in the same period of 2023, despite higher interest expenses, indicating a healthy interest margin.</p><p>CMUV Bancorp's performance not only underscores the resilience of community banks but also signals potential strength in the broader financial sector. The growth in gross loans suggests increased lending activity, which could benefit local businesses and contribute to economic development in the bank's service areas. This success story may inspire other regional financial institutions to focus on strengthening their core businesses and maintaining robust risk management practices.</p>

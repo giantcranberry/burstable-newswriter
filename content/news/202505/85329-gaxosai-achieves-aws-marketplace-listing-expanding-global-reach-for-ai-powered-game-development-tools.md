@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-gaxos-ai-i
 enclosure = "https://cdn.newsramp.app/banners/gaming-3.jpg"
 article_id = 85329
 feed_item_id = 13882
-url = "/news/202505/85329-gaxosai-achieves-aws-marketplace-listing-expanding-global-reach-for-ai-powered-game-development-tools"
+url = "/202505/85329-gaxosai-achieves-aws-marketplace-listing-expanding-global-reach-for-ai-powered-game-development-tools"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/zeroDtw0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

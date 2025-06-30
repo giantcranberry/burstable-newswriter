@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/fti-consulting-appoints-mark-white-as-seni
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84188
 feed_item_id = 15153
-url = "/news/202506/84188-fti-consulting-strengthens-digital-transformation-expertise-with-new-senior-managing-director"
+url = "/202506/84188-fti-consulting-strengthens-digital-transformation-expertise-with-new-senior-managing-director"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/waitw7mw.webp"
 source = "citybiz"
 +++

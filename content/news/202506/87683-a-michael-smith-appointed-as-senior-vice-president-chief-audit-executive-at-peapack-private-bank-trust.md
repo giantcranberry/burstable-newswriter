@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/a-michael-smith-joins-peapack-p
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 87683
 feed_item_id = 15272
-url = "/news/202506/87683-a-michael-smith-appointed-as-senior-vice-president-chief-audit-executive-at-peapack-private-bank-trust"
+url = "/202506/87683-a-michael-smith-appointed-as-senior-vice-president-chief-audit-executive-at-peapack-private-bank-trust"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/5/elleNeG1.webp"
 source = "NewMediaWire"
 +++

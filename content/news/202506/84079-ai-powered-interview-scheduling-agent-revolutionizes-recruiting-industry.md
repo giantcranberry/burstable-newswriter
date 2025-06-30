@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506111523/introducing-fyi-the-world
 enclosure = "https://cdn.newsramp.app/banners/human-resources-1.jpg"
 article_id = 84079
 feed_item_id = 15490
-url = "/news/202506/84079-ai-powered-interview-scheduling-agent-revolutionizes-recruiting-industry"
+url = "/202506/84079-ai-powered-interview-scheduling-agent-revolutionizes-recruiting-industry"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/11/oxen12Bq.webp"
 source = "Newsworthy.ai"
 +++

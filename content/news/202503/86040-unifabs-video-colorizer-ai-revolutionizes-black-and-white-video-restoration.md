@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520155/unifab-laun
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 86040
 feed_item_id = 11502
-url = "/news/202503/86040-unifabs-video-colorizer-ai-revolutionizes-black-and-white-video-restoration"
+url = "/202503/86040-unifabs-video-colorizer-ai-revolutionizes-black-and-white-video-restoration"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/1/duneD1IS.webp"
 source = "24-7 Press Release"
 +++

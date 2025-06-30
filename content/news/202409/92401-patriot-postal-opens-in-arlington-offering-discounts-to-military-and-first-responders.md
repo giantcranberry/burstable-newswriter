@@ -1,0 +1,16 @@
++++
+title = "Patriot Postal Opens in Arlington, Offering Discounts to Military and First Responders"
+date = "2024-09-05T07:29:34Z"
+draft = false
+summary = "Patriot Postal, a new pack & ship store in Arlington, Texas, offers a 10% discount to military personnel and first responders, alongside a wide range of shipping and business services, marking its entry with plans for significant expansion."
+description = "New pack & ship store, Patriot Postal, offers 10% off to military and first responders. Services include shipping, notary, and private mailboxes, with the scent of fresh popcorn. The store plans to open ten locations in the next three years."
+source_link = "https://www.24-7pressrelease.com/press-release/513806/patriot-postal-open-now-at-5100-w-sublett-rd-arlington-tx"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0513806_207834.jpg"
+article_id = 92401
+feed_item_id = 6537
+url = "/202409/92401-patriot-postal-opens-in-arlington-offering-discounts-to-military-and-first-responders"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/249/5/zestYtyF.webp"
+source = "24-7 Press Release"
++++
+
+<p>Patriot Postal has recently opened its doors at 5100 W Sublett Rd in Arlington, Texas, introducing a new option for shipping and business services in the area. The store's name reflects its owners' patriotic values, which are further demonstrated through a 10% discount offered daily to military personnel and first responders. This initiative is part of the store's commitment to giving back to those who serve the nation.</p><p>Owners Brad and Michelle Fry have equipped Patriot Postal with a comprehensive suite of services, including shipping through major carriers like UPS, FedEx, USPS, and DHL, notary and mobile notary services, document shredding, electronic fingerprinting, and the sale of packing materials and office supplies. A standout offering is their private mailboxes, which are available at competitive rates, providing an attractive option for home-based businesses and individuals concerned about package theft.</p><p>Adding a unique touch to the customer experience, Patriot Postal offers free freshly popped popcorn to all visitors, creating a welcoming atmosphere reminiscent of a movie theater. This gesture, along with their wide range of services, underscores the store's focus on customer satisfaction and community engagement.</p><p>With ambitious plans to open ten stores over the next three years, Patriot Postal is set on expanding its footprint beyond Arlington. The company's confidence in its business model and services is evident, as is its commitment to building lasting relationships with its customers. The store's location in the Sublett Center, secured through RDS Real Estate, positions it well to serve the local community and beyond.</p><p>The opening of Patriot Postal not only provides Arlington residents and businesses with more options for their shipping and business needs but also highlights the importance of supporting military personnel and first responders. As the store begins its journey with plans for rapid expansion, its impact on the pack & ship industry in the Arlington area and potentially nationwide is something to watch.</p>

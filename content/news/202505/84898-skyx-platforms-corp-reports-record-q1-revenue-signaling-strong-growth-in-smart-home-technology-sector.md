@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investorknewsbreaks-skyx-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84898
 feed_item_id = 14236
-url = "/news/202505/84898-skyx-platforms-corp-reports-record-q1-revenue-signaling-strong-growth-in-smart-home-technology-sector"
+url = "/202505/84898-skyx-platforms-corp-reports-record-q1-revenue-signaling-strong-growth-in-smart-home-technology-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/cakeHk0p.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

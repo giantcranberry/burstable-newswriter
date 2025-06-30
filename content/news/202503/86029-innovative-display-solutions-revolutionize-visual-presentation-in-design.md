@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520157/square-sign
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 86029
 feed_item_id = 11523
-url = "/news/202503/86029-innovative-display-solutions-revolutionize-visual-presentation-in-design"
+url = "/202503/86029-innovative-display-solutions-revolutionize-visual-presentation-in-design"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/3/rain0Mmf.webp"
 source = "24-7 Press Release"
 +++

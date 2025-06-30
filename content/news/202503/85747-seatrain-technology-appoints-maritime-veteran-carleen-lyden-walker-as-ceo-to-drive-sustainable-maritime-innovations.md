@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/seatrain-technology-appoints-maritime
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/b4e8883ced1ed47302bc5fbf37e03cf6.jpg"
 article_id = 85747
 feed_item_id = 12328
-url = "/news/202503/85747-seatrain-technology-appoints-maritime-veteran-carleen-lyden-walker-as-ceo-to-drive-sustainable-maritime-innovations"
+url = "/202503/85747-seatrain-technology-appoints-maritime-veteran-carleen-lyden-walker-as-ceo-to-drive-sustainable-maritime-innovations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/30/kissGE2Z.webp"
 source = "News Direct"
 +++

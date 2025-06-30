@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703040/digimarc-appoints-carle-qui
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84674
 feed_item_id = 15198
-url = "/news/202506/84674-digimarc-elevates-carle-quinn-to-chief-operating-officer-to-drive-operational-excellence"
+url = "/202506/84674-digimarc-elevates-carle-quinn-to-chief-operating-officer-to-drive-operational-excellence"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/envyTVpD.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520821/former-ener
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 85826
 feed_item_id = 12087
-url = "/news/202503/85826-former-enerkon-solar-international-chairman-files-50-million-defamation-lawsuit-over-alleged-false-reporting"
+url = "/202503/85826-former-enerkon-solar-international-chairman-files-50-million-defamation-lawsuit-over-alleged-false-reporting"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/20/camcTwuB.webp"
 source = "24-7 Press Release"
 +++

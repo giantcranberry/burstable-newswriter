@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/shumate-engineering-presents-breakthr
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84719
 feed_item_id = 15054
-url = "/news/202506/84719-shumate-engineerings-hdac-system-revolutionizes-data-center-cooling"
+url = "/202506/84719-shumate-engineerings-hdac-system-revolutionizes-data-center-cooling"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/3/bakexYmh.webp"
 source = "News Direct"
 +++

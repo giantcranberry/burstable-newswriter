@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-datava
 enclosure = "https://cdn.newsramp.app/ibn/newsimage/010cd12e0df7cb1fcdce32dc3f57cd6a.png"
 article_id = 85359
 feed_item_id = 13786
-url = "/news/202505/85359-datavault-ai-and-kove-forge-strategic-partnership-to-revolutionize-data-monetization-with-secure-tokenized-platform"
+url = "/202505/85359-datavault-ai-and-kove-forge-strategic-partnership-to-revolutionize-data-monetization-with-secure-tokenized-platform"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/5/echoNic6.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

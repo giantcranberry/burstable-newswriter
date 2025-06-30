@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520429/ralph-dange
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85918
 feed_item_id = 11752
-url = "/news/202503/85918-ralph-dangelmaier-launches-1000-scholarship-to-foster-fintech-innovation-among-undergraduates"
+url = "/202503/85918-ralph-dangelmaier-launches-1000-scholarship-to-foster-fintech-innovation-among-undergraduates"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/8/tint2mia.webp"
 source = "24-7 Press Release"
 +++

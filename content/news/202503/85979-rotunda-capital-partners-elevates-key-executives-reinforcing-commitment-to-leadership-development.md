@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/rotunda-capital-partners-announces-pr
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85979
 feed_item_id = 11594
-url = "/news/202503/85979-rotunda-capital-partners-elevates-key-executives-reinforcing-commitment-to-leadership-development"
+url = "/202503/85979-rotunda-capital-partners-elevates-key-executives-reinforcing-commitment-to-leadership-development"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/4/markUNro.webp"
 source = "News Direct"
 +++

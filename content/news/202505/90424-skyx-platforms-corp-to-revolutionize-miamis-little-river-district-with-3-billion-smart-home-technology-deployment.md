@@ -1,0 +1,16 @@
++++
+title = "SKYX Platforms Corp. to Revolutionize Miami's Little River District with $3 Billion Smart Home Technology Deployment"
+date = "2025-05-21T14:40:15Z"
+draft = false
+summary = "SKYX Platforms Corp. partners with SG Holdings to integrate its patented smart home technologies into a massive urban development in Miami, setting a new standard for residential safety and automation."
+description = "SKYX Platforms partners with SG Holdings for a groundbreaking $3 billion smart city project in Miami's Little River District, deploying over 500,000 smart home units. This collaboration showcases the potential for recurring revenue opportunities in the real estate and technology industries."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-platforms-corp-nasdaq-skyx-selected-for-3b-smart-city-development-in-miami/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 90424
+feed_item_id = 14462
+url = "/202505/90424-skyx-platforms-corp-to-revolutionize-miamis-little-river-district-with-3-billion-smart-home-technology-deployment"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/bossnxCE.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SKYX Platforms Corp. has secured a pivotal role in a $3 billion urban development project in Miami's Little River District, marking a significant milestone for smart home technology integration in residential spaces. The collaboration with SG Holdings will involve the installation of over 500,000 units of SKYX's plug-and-play smart home systems across 5,700 planned residential units, including affordable housing options. This initiative not only underscores the growing demand for smart home technologies but also highlights SKYX's leadership in the sector.</p><p>The deployment will feature advanced safety and smart functionalities, such as voice and app controls, 911 emergency calling capabilities, and integrated smoke and carbon monoxide detectors. These features aim to enhance residential safety and convenience, setting a new benchmark for home automation systems. The project is notable for being the first of its kind in Florida, showcasing the potential for widespread adoption of smart home technologies in urban developments.</p><p>Beyond the immediate technological advancements, the contract with SG Holdings opens up multiple recurring revenue streams for SKYX through subscriptions, monitoring services, and future technology integrations. This aspect of the deal underscores the financial viability and long-term growth potential of smart home technologies. With support from both U.S. and global manufacturers, the project also reflects broad industry confidence in SKYX's innovative platforms.</p><p>SKYX's extensive portfolio of over 97 U.S. and global patents and pending applications further solidifies its position as a frontrunner in smart home and building safety technologies. The Miami development serves as a critical proof of concept for the company's approach to integrating smart technologies into residential electrical systems. By focusing on user-friendly and high-quality solutions, SKYX is not only advancing the smart home industry but also contributing to the evolution of modern urban living.</p>

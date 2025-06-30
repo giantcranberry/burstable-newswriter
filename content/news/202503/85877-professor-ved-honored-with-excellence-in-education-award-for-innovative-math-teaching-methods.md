@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520605/prof-ved-wi
 enclosure = "https://cdn.newsramp.app/banners/education-1.jpg"
 article_id = 85877
 feed_item_id = 11894
-url = "/news/202503/85877-professor-ved-honored-with-excellence-in-education-award-for-innovative-math-teaching-methods"
+url = "/202503/85877-professor-ved-honored-with-excellence-in-education-award-for-innovative-math-teaching-methods"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/13/eachPbhP.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/aeon-integrates-tron-network-to-enabl
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/120516ed7bb7688b59dadb0b8c04df90.png"
 article_id = 85128
 feed_item_id = 15238
-url = "/news/202506/85128-aeon-and-tron-network-integration-set-to-transform-retail-payments-with-cryptocurrency"
+url = "/202506/85128-aeon-and-tron-network-integration-set-to-transform-retail-payments-with-cryptocurrency"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/wamcZpaw.webp"
 source = "News Direct"
 +++

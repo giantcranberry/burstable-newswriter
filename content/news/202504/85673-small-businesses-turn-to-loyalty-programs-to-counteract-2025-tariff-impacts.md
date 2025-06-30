@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521484/trumps-2025
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 85673
 feed_item_id = 12540
-url = "/news/202504/85673-small-businesses-turn-to-loyalty-programs-to-counteract-2025-tariff-impacts"
+url = "/202504/85673-small-businesses-turn-to-loyalty-programs-to-counteract-2025-tariff-impacts"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/7/larkVfL_.webp"
 source = "24-7 Press Release"
 +++

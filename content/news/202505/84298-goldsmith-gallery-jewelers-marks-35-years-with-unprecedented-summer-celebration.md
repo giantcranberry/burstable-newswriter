@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523382/goldsmith-g
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 84298
 feed_item_id = 14820
-url = "/news/202505/84298-goldsmith-gallery-jewelers-marks-35-years-with-unprecedented-summer-celebration"
+url = "/202505/84298-goldsmith-gallery-jewelers-marks-35-years-with-unprecedented-summer-celebration"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/31/odorKP46.webp"
 source = "24-7 Press Release"
 +++

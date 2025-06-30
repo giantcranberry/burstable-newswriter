@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708056/living-at-anns-choice-is-mo
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/b44ddf9c21444258c69be4ad626b40c1.png"
 article_id = 85100
 feed_item_id = 15803
-url = "/news/202506/85100-anns-choice-retirement-community-offers-financial-stability-and-vibrant-lifestyle-for-seniors"
+url = "/202506/85100-anns-choice-retirement-community-offers-financial-stability-and-vibrant-lifestyle-for-seniors"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/oxennCU0.webp"
 source = "citybiz"
 +++

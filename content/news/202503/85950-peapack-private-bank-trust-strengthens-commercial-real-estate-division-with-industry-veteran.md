@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/peapack-private-bank-trust-welc
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85950
 feed_item_id = 11653
-url = "/news/202503/85950-peapack-private-bank-trust-strengthens-commercial-real-estate-division-with-industry-veteran"
+url = "/202503/85950-peapack-private-bank-trust-strengthens-commercial-real-estate-division-with-industry-veteran"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/5/knot8PZ0.webp"
 source = "NewMediaWire"
 +++

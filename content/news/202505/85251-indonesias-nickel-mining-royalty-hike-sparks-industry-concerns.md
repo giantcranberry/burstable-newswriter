@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/nickel-miners-in-indones
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 85251
 feed_item_id = 14160
-url = "/news/202505/85251-indonesias-nickel-mining-royalty-hike-sparks-industry-concerns"
+url = "/202505/85251-indonesias-nickel-mining-royalty-hike-sparks-industry-concerns"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/14/smogGmkx.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

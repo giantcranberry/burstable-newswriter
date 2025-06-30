@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/bitcoin-exposure-with-the-risk-
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 85204
 feed_item_id = 14445
-url = "/news/202505/85204-calamos-investments-launches-innovative-bitcoin-etf-to-mitigate-cryptocurrency-risks"
+url = "/202505/85204-calamos-investments-launches-innovative-bitcoin-etf-to-mitigate-cryptocurrency-risks"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/21/jinxfhe1.webp"
 source = "NewMediaWire"
 +++

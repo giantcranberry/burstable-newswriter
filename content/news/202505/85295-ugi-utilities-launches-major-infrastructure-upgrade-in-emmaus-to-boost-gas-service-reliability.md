@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-scheduled-i
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/5e156d20cb8d7fb52ad2c392f29dc234.jpg"
 article_id = 85295
 feed_item_id = 13988
-url = "/news/202505/85295-ugi-utilities-launches-major-infrastructure-upgrade-in-emmaus-to-boost-gas-service-reliability"
+url = "/202505/85295-ugi-utilities-launches-major-infrastructure-upgrade-in-emmaus-to-boost-gas-service-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/9/flaxKL44.webp"
 source = "Reportable"
 +++

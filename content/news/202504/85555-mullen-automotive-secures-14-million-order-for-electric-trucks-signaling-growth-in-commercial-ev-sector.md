@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-mullen
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85555
 feed_item_id = 13041
-url = "/news/202504/85555-mullen-automotive-secures-14-million-order-for-electric-trucks-signaling-growth-in-commercial-ev-sector"
+url = "/202504/85555-mullen-automotive-secures-14-million-order-for-electric-trucks-signaling-growth-in-commercial-ev-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/21/zeroGmWY.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

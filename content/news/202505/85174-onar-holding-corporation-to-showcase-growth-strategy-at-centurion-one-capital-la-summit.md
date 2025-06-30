@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-hol
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85174
 feed_item_id = 14684
-url = "/news/202505/85174-onar-holding-corporation-to-showcase-growth-strategy-at-centurion-one-capital-la-summit"
+url = "/202505/85174-onar-holding-corporation-to-showcase-growth-strategy-at-centurion-one-capital-la-summit"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/takeqhfH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

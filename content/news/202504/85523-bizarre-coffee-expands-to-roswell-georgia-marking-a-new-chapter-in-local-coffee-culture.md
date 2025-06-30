@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522093/bizarre-cof
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 85523
 feed_item_id = 13121
-url = "/news/202504/85523-bizarre-coffee-expands-to-roswell-georgia-marking-a-new-chapter-in-local-coffee-culture"
+url = "/202504/85523-bizarre-coffee-expands-to-roswell-georgia-marking-a-new-chapter-in-local-coffee-culture"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/23/barnfibB.webp"
 source = "24-7 Press Release"
 +++

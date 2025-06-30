@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523063/nt-bird-tou
 enclosure = "https://cdn.newsramp.app/banners/startup-news-1.jpg"
 article_id = 84825
 feed_item_id = 14528
-url = "/news/202505/84825-nt-bird-tours-launches-indigenous-owned-ecotourism-experiences-in-the-northern-territory"
+url = "/202505/84825-nt-bird-tours-launches-indigenous-owned-ecotourism-experiences-in-the-northern-territory"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/22/fondye94.webp"
 source = "24-7 Press Release"
 +++

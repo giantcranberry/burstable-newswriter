@@ -1,0 +1,16 @@
++++
+title = "Actelis Networks Achieves Positive EBITDA and Significant Revenue Growth in Q2 2024"
+date = "2024-08-15T08:15:12Z"
+draft = false
+summary = "Actelis Networks reports a financial turnaround with positive EBITDA and substantial revenue growth, signaling potential for sustainable profitability in the IoT and cybersecurity sectors."
+description = "Actelis Networks reports positive Q2 2024 results, including first-time positive EBITDA, 372% revenue growth, and new product launches. The company's achievements signal its position in the IoT and cybersecurity sectors and potential impact on urban infrastructure and security."
+source_link = "https://newsdirect.com/news/morning-brief-actelis-networks-asns-achieves-positive-ebitda-and-major-revenue-growth-q2-2024-803530985"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 92573
+feed_item_id = 5753
+url = "/202408/92573-actelis-networks-achieves-positive-ebitda-and-significant-revenue-growth-in-q2-2024"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/248/15/take4isQ.webp"
+source = "News Direct"
++++
+
+<p>Actelis Networks (NASDAQ: ASNS) has marked a significant financial milestone in the second quarter of 2024 by achieving positive EBITDA for the first time since 2022, alongside notable revenue growth. This performance underscores the company's potential shift towards sustainable profitability and an enhanced market position in the IoT and cybersecurity industries.</p><p>The company's Q2 2024 financial results highlight a 372% sequential revenue increase from the previous quarter, totaling $3.43 million, which also represents an 81% year-over-year growth. This surge in revenue is complemented by a gross margin improvement to 57%, up from 30% in the prior quarter, reflecting the increasing market demand for Actelis' innovative solutions.</p><p>Cost reduction efforts have played a pivotal role in Actelis' turnaround, with operating expenses decreasing by 20% compared to the same period last year. These measures contributed to reducing the net loss to $78,000 in Q2 2024 from $1.59 million in Q2 2023, culminating in a positive Non-GAAP adjusted EBITDA of $11,000.</p><p>Strategic business achievements have accompanied the financial improvements, including a $2.3 million order from Washington D.C.'s Department of Transportation and the successful deployment of its hybrid-fiber, cyber-hardened solution in Bakersfield, CA. These developments highlight Actelis' growing influence in intelligent transportation and urban infrastructure security.</p><p>The introduction of the GigaLine 800 and GigaLine 900 Multi-Dwelling Unit solutions has sparked market interest, evidenced by ongoing customer trials and a $160,000 order for the GigaLine 800 from a contractor to a major military carrier. To further support its expansion, Actelis raised nearly $5 million in June 2024, strengthening its financial standing to meet Nasdaq's listing requirements.</p><p>Tuvia Barlev, Chairman and CEO of Actelis, expressed satisfaction with the company's progress, indicating a positive trajectory for future growth and innovation in the IoT and cybersecurity sectors.</p>

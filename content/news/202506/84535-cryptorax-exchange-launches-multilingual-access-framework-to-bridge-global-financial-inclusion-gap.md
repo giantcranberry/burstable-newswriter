@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506111539/cryptorax-exchange-launch
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 84535
 feed_item_id = 15524
-url = "/news/202506/84535-cryptorax-exchange-launches-multilingual-access-framework-to-bridge-global-financial-inclusion-gap"
+url = "/202506/84535-cryptorax-exchange-launches-multilingual-access-framework-to-bridge-global-financial-inclusion-gap"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/11/deepKqtA.webp"
 source = "Newsworthy.ai"
 +++

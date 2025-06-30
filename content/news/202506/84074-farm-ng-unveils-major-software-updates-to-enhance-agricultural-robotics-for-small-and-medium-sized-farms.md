@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/farm-ng-latest-user-friendly-software
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/2e49394ae9595a8eff0c05760ca735d0.jpg"
 article_id = 84074
 feed_item_id = 15508
-url = "/news/202506/84074-farm-ng-unveils-major-software-updates-to-enhance-agricultural-robotics-for-small-and-medium-sized-farms"
+url = "/202506/84074-farm-ng-unveils-major-software-updates-to-enhance-agricultural-robotics-for-small-and-medium-sized-farms"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/gulfLyjM.webp"
 source = "News Direct"
 +++

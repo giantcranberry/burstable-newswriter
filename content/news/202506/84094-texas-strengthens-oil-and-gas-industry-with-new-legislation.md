@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/texas-governor-signs-bil
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84094
 feed_item_id = 15438
-url = "/news/202506/84094-texas-strengthens-oil-and-gas-industry-with-new-legislation"
+url = "/202506/84094-texas-strengthens-oil-and-gas-industry-with-new-legislation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/gulf1BxL.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

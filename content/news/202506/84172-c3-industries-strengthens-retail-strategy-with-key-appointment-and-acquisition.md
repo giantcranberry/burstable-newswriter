@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703056/c3-industries-appoints-kris
 enclosure = "https://cdn.newsramp.app/banners/cannabis-2.jpg"
 article_id = 84172
 feed_item_id = 15200
-url = "/news/202506/84172-c3-industries-strengthens-retail-strategy-with-key-appointment-and-acquisition"
+url = "/202506/84172-c3-industries-strengthens-retail-strategy-with-key-appointment-and-acquisition"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/envyNO5U.webp"
 source = "citybiz"
 +++

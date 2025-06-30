@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/hive-completes-first-100mw-infr
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 85350
 feed_item_id = 13815
-url = "/news/202505/85350-hive-digital-technologies-achieves-major-milestone-in-cryptocurrency-mining-expansion"
+url = "/202505/85350-hive-digital-technologies-achieves-major-milestone-in-cryptocurrency-mining-expansion"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/6/diveZSn5.webp"
 source = "NewMediaWire"
 +++

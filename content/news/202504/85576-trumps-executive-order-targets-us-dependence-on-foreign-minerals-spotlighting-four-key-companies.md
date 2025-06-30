@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/four-stocks-to-watch-after-trumps-cri
 enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
 article_id = 85576
 feed_item_id = 12943
-url = "/news/202504/85576-trumps-executive-order-targets-us-dependence-on-foreign-minerals-spotlighting-four-key-companies"
+url = "/202504/85576-trumps-executive-order-targets-us-dependence-on-foreign-minerals-spotlighting-four-key-companies"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/17/seekslvC.webp"
 source = "News Direct"
 +++

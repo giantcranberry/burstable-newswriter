@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-foremo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85390
 feed_item_id = 13694
-url = "/news/202505/85390-foremost-clean-energy-ltd-discovers-uranium-at-hatchet-lake-signaling-potential-for-clean-energy-expansion"
+url = "/202505/85390-foremost-clean-energy-ltd-discovers-uranium-at-hatchet-lake-signaling-potential-for-clean-energy-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/1/noonSUnF.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

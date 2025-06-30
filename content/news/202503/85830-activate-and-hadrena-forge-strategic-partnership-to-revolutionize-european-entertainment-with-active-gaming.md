@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/activate-and-hadrena-join-forces-to-r
 enclosure = "https://cdn.newsramp.app/banners/gaming-3.jpg"
 article_id = 85830
 feed_item_id = 12077
-url = "/news/202503/85830-activate-and-hadrena-forge-strategic-partnership-to-revolutionize-european-entertainment-with-active-gaming"
+url = "/202503/85830-activate-and-hadrena-forge-strategic-partnership-to-revolutionize-european-entertainment-with-active-gaming"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/20/knobaEFX.webp"
 source = "News Direct"
 +++

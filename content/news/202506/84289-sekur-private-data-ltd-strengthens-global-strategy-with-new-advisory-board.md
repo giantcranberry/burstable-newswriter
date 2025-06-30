@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-pr
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84289
 feed_item_id = 14850
-url = "/news/202506/84289-sekur-private-data-ltd-strengthens-global-strategy-with-new-advisory-board"
+url = "/202506/84289-sekur-private-data-ltd-strengthens-global-strategy-with-new-advisory-board"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/kitep_M4.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

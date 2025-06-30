@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/china-races-ahead-in-rev
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85225
 feed_item_id = 14245
-url = "/news/202505/85225-china-emerges-as-global-leader-in-advanced-battery-technology-shaping-future-of-energy-and-industry"
+url = "/202505/85225-china-emerges-as-global-leader-in-advanced-battery-technology-shaping-future-of-energy-and-industry"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/gulfFOEg.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

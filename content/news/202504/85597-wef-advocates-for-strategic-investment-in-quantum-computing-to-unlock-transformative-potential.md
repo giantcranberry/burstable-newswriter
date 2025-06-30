@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/wef-calls-for-more-suppo
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85597
 feed_item_id = 12803
-url = "/news/202504/85597-wef-advocates-for-strategic-investment-in-quantum-computing-to-unlock-transformative-potential"
+url = "/202504/85597-wef-advocates-for-strategic-investment-in-quantum-computing-to-unlock-transformative-potential"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/kiteZ1YR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

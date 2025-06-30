@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85570
 feed_item_id = 12970
-url = "/news/202504/85570-solarbank-corporation-strengthens-data-center-expansion-strategy-with-industry-veteran-jonathan-martone"
+url = "/202504/85570-solarbank-corporation-strengthens-data-center-expansion-strategy-with-industry-veteran-jonathan-martone"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/17/fileKyIi.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

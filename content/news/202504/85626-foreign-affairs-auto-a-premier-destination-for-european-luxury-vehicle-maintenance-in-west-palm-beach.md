@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521697/mercedes-be
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85626
 feed_item_id = 12696
-url = "/news/202504/85626-foreign-affairs-auto-a-premier-destination-for-european-luxury-vehicle-maintenance-in-west-palm-beach"
+url = "/202504/85626-foreign-affairs-auto-a-premier-destination-for-european-luxury-vehicle-maintenance-in-west-palm-beach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/12/kiwiKYwv.webp"
 source = "24-7 Press Release"
 +++

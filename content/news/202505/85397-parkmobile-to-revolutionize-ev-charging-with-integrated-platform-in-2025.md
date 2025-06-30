@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522368/parkopedia-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85397
 feed_item_id = 13677
-url = "/news/202505/85397-parkmobile-to-revolutionize-ev-charging-with-integrated-platform-in-2025"
+url = "/202505/85397-parkmobile-to-revolutionize-ev-charging-with-integrated-platform-in-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/1/pave3xwM.webp"
 source = "24-7 Press Release"
 +++

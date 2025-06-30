@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520231/iuvo-named-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 86005
 feed_item_id = 11554
-url = "/news/202503/86005-iuvo-recognized-on-crns-msp-500-list-for-fifth-consecutive-year"
+url = "/202503/86005-iuvo-recognized-on-crns-msp-500-list-for-fifth-consecutive-year"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/eachLKrl.webp"
 source = "24-7 Press Release"
 +++

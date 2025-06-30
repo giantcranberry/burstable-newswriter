@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703115/one-rock-capital-partners-a
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85129
 feed_item_id = 15220
-url = "/news/202506/85129-one-rock-capital-partners-strengthens-team-with-supply-chain-expert-pau-climent"
+url = "/202506/85129-one-rock-capital-partners-strengthens-team-with-supply-chain-expert-pau-climent"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/nukeeI9x.webp"
 source = "citybiz"
 +++

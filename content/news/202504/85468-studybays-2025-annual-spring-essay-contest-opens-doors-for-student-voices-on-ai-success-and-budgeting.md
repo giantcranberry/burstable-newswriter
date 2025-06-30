@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522153/studybay-op
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85468
 feed_item_id = 13420
-url = "/news/202504/85468-studybays-2025-annual-spring-essay-contest-opens-doors-for-student-voices-on-ai-success-and-budgeting"
+url = "/202504/85468-studybays-2025-annual-spring-essay-contest-opens-doors-for-student-voices-on-ai-success-and-budgeting"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/pinkNC4V.webp"
 source = "24-7 Press Release"
 +++

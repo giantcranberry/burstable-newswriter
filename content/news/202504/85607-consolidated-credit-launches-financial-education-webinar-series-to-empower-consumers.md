@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/consolidated-credit-launches-fre
 enclosure = "https://cdn.newsramp.app/banners/education-3.jpg"
 article_id = 85607
 feed_item_id = 12772
-url = "/news/202504/85607-consolidated-credit-launches-financial-education-webinar-series-to-empower-consumers"
+url = "/202504/85607-consolidated-credit-launches-financial-education-webinar-series-to-empower-consumers"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/254/15/kissI5IT.webp"
 source = "Noticias Newswire"
 +++

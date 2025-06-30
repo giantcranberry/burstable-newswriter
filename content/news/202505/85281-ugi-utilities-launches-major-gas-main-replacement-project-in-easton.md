@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-scheduled-to-begin-addition
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/e1d955b79eec72d118e4427bc83bf773.jpg"
 article_id = 85281
 feed_item_id = 14035
-url = "/news/202505/85281-ugi-utilities-launches-major-gas-main-replacement-project-in-easton"
+url = "/202505/85281-ugi-utilities-launches-major-gas-main-replacement-project-in-easton"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/12/echo9ZAg.webp"
 source = "Reportable"
 +++

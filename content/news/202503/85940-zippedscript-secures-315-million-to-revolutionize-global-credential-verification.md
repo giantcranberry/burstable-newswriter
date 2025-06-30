@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/zippedscript-announces-total-fu
 enclosure = "https://cdn.newsramp.app/banners/education-2.jpg"
 article_id = 85940
 feed_item_id = 11681
-url = "/news/202503/85940-zippedscript-secures-315-million-to-revolutionize-global-credential-verification"
+url = "/202503/85940-zippedscript-secures-315-million-to-revolutionize-global-credential-verification"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/6/lendvOpC.webp"
 source = "NewMediaWire"
 +++

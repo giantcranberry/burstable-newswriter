@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/our-family-office-celebrates-landmark
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/d2a46614609ee934eda59b20f8487a61.jpg"
 article_id = 84818
 feed_item_id = 14548
-url = "/news/202505/84818-our-family-office-expands-into-namibia-with-r12-billion-property-investment"
+url = "/202505/84818-our-family-office-expands-into-namibia-with-r12-billion-property-investment"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/23/lambbE7R.webp"
 source = "News Direct"
 +++

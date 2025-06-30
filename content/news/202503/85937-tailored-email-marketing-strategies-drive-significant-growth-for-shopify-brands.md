@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/from-clicks-to-customers-how-shopify-b
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/ba051512673372aaaec2ab45a27d8ade.jpg"
 article_id = 85937
 feed_item_id = 11690
-url = "/news/202503/85937-tailored-email-marketing-strategies-drive-significant-growth-for-shopify-brands"
+url = "/202503/85937-tailored-email-marketing-strategies-drive-significant-growth-for-shopify-brands"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/6/filoGatO.webp"
 source = "Press Services"
 +++

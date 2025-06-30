@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/zalando-looks-to-ai-to-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85275
 feed_item_id = 14056
-url = "/news/202505/85275-zalando-leads-fashion-e-commerce-into-ai-driven-marketing-era"
+url = "/202505/85275-zalando-leads-fashion-e-commerce-into-ai-driven-marketing-era"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/zeroGR_y.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

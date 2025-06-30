@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520875/dental-impl
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 85817
 feed_item_id = 12116
-url = "/news/202503/85817-bakersfields-new-dental-implant-center-revolutionizes-tooth-replacement-solutions"
+url = "/202503/85817-bakersfields-new-dental-implant-center-revolutionizes-tooth-replacement-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/21/waitNXOM.webp"
 source = "24-7 Press Release"
 +++

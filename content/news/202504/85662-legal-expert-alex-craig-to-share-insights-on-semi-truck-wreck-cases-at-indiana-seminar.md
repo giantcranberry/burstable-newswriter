@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521527/local-truck
 enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
 article_id = 85662
 feed_item_id = 12582
-url = "/news/202504/85662-legal-expert-alex-craig-to-share-insights-on-semi-truck-wreck-cases-at-indiana-seminar"
+url = "/202504/85662-legal-expert-alex-craig-to-share-insights-on-semi-truck-wreck-cases-at-indiana-seminar"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/8/each4Oud.webp"
 source = "24-7 Press Release"
 +++

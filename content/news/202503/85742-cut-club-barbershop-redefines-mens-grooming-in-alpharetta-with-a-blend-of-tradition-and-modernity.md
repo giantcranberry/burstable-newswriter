@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/discover-unmatched-grooming-at-a-premi
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/e26d58a26f3bef6b4629fc1cc477051b.jpg"
 article_id = 85742
 feed_item_id = 12341
-url = "/news/202503/85742-cut-club-barbershop-redefines-mens-grooming-in-alpharetta-with-a-blend-of-tradition-and-modernity"
+url = "/202503/85742-cut-club-barbershop-redefines-mens-grooming-in-alpharetta-with-a-blend-of-tradition-and-modernity"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/31/mielZDvA.webp"
 source = "Press Services"
 +++

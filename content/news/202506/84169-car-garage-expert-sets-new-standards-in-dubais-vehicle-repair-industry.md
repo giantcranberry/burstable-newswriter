@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-offers-comprehensiv
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 84169
 feed_item_id = 15202
-url = "/news/202506/84169-car-garage-expert-sets-new-standards-in-dubais-vehicle-repair-industry"
+url = "/202506/84169-car-garage-expert-sets-new-standards-in-dubais-vehicle-repair-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/silk2cDa.webp"
 source = "News Direct"
 +++

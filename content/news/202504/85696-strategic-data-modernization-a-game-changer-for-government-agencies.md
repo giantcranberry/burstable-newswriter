@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521358/driving-gov
 enclosure = "https://cdn.newsramp.app/banners/government-politics-2.jpg"
 article_id = 85696
 feed_item_id = 12471
-url = "/news/202504/85696-strategic-data-modernization-a-game-changer-for-government-agencies"
+url = "/202504/85696-strategic-data-modernization-a-game-changer-for-government-agencies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/herb_7nl.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702987/ocean-power-technologies-ap
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84178
 feed_item_id = 15181
-url = "/news/202506/84178-ocean-power-technologies-strengthens-leadership-with-appointment-of-jason-weed-as-svp-of-commercial-sales"
+url = "/202506/84178-ocean-power-technologies-strengthens-leadership-with-appointment-of-jason-weed-as-svp-of-commercial-sales"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/mendGFj1.webp"
 source = "citybiz"
 +++

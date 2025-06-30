@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/the-slate-truck-could-us
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85223
 feed_item_id = 14273
-url = "/news/202505/85223-slate-truck-aims-to-democratize-electric-mobility-in-the-pickup-truck-segment"
+url = "/202505/85223-slate-truck-aims-to-democratize-electric-mobility-in-the-pickup-truck-segment"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/nuke8p55.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-ai-announces-strateg
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/51f367245b6ec17eb8041c40e31e6d3e.png"
 article_id = 84416
 feed_item_id = 15658
-url = "/news/202506/84416-neuralbase-ai-and-vibes-multientertainment-forge-strategic-partnership-to-beta-test-bmp-ai-chatbot"
+url = "/202506/84416-neuralbase-ai-and-vibes-multientertainment-forge-strategic-partnership-to-beta-test-bmp-ai-chatbot"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/16/zealKfC5.webp"
 source = "NewMediaWire"
 +++

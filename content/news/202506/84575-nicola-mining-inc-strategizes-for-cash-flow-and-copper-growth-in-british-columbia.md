@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-nicola
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 84575
 feed_item_id = 15430
-url = "/news/202506/84575-nicola-mining-inc-strategizes-for-cash-flow-and-copper-growth-in-british-columbia"
+url = "/202506/84575-nicola-mining-inc-strategizes-for-cash-flow-and-copper-growth-in-british-columbia"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/goldeQWp.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

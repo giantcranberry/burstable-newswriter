@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-roth-capit
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85551
 feed_item_id = 13050
-url = "/news/202504/85551-audioeye-strengthens-market-position-with-successful-secondary-stock-offering"
+url = "/202504/85551-audioeye-strengthens-market-position-with-successful-secondary-stock-offering"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/21/hintWV0h.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

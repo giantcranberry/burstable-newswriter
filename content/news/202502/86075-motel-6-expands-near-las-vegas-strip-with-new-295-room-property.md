@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/motel-6-to-open-new-295-room-property
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 86075
 feed_item_id = 11206
-url = "/news/202502/86075-motel-6-expands-near-las-vegas-strip-with-new-295-room-property"
+url = "/202502/86075-motel-6-expands-near-las-vegas-strip-with-new-295-room-property"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/27/gainuSsy.webp"
 source = "News Direct"
 +++

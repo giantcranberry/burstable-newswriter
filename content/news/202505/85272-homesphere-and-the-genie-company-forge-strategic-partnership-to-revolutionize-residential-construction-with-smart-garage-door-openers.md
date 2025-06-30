@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/smart-garage-doors-smarter-savings-ge
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85272
 feed_item_id = 14072
-url = "/news/202505/85272-homesphere-and-the-genie-company-forge-strategic-partnership-to-revolutionize-residential-construction-with-smart-garage-door-openers"
+url = "/202505/85272-homesphere-and-the-genie-company-forge-strategic-partnership-to-revolutionize-residential-construction-with-smart-garage-door-openers"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/13/lend6bEz.webp"
 source = "News Direct"
 +++

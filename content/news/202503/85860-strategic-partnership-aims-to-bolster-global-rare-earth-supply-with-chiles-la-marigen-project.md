@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85860
 feed_item_id = 11957
-url = "/news/202503/85860-strategic-partnership-aims-to-bolster-global-rare-earth-supply-with-chiles-la-marigen-project"
+url = "/202503/85860-strategic-partnership-aims-to-bolster-global-rare-earth-supply-with-chiles-la-marigen-project"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/17/rice9tAL.webp"
 source = "NewMediaWire"
 +++

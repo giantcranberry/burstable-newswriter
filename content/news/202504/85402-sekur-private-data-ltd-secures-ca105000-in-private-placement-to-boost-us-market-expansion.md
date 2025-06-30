@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-pr
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 85402
 feed_item_id = 13661
-url = "/news/202504/85402-sekur-private-data-ltd-secures-ca105000-in-private-placement-to-boost-us-market-expansion"
+url = "/202504/85402-sekur-private-data-ltd-secures-ca105000-in-private-placement-to-boost-us-market-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/filooxRa.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

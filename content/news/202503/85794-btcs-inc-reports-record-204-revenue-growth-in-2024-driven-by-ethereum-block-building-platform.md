@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/btcs-reports-record-revenue-gro
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 85794
 feed_item_id = 12195
-url = "/news/202503/85794-btcs-inc-reports-record-204-revenue-growth-in-2024-driven-by-ethereum-block-building-platform"
+url = "/202503/85794-btcs-inc-reports-record-204-revenue-growth-in-2024-driven-by-ethereum-block-building-platform"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/25/chipi996.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/russian-scientists-use-x
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85529
 feed_item_id = 13099
-url = "/news/202504/85529-russian-scientists-pioneer-flexible-battery-technology-paving-the-way-for-bendable-smartphones"
+url = "/202504/85529-russian-scientists-pioneer-flexible-battery-technology-paving-the-way-for-bendable-smartphones"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/camcfOGO.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/lisk-incubation-hub-completes-first-a
 enclosure = "https://cdn.newsramp.app/banners/startup-news-2.jpg"
 article_id = 85954
 feed_item_id = 11645
-url = "/news/202503/85954-lisk-blockchain-incubation-hub-empowers-african-web3-startups-with-grants-and-support"
+url = "/202503/85954-lisk-blockchain-incubation-hub-empowers-african-web3-startups-with-grants-and-support"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/5/calmQlIF.webp"
 source = "News Direct"
 +++

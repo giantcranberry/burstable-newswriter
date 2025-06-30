@@ -1,0 +1,16 @@
++++
+title = "Breakthrough in Optical Semantic Communication System Enhances Data Transmission"
+date = "2025-02-24T08:00:22Z"
+draft = false
+summary = "Scientists have developed an optical semantic communication system that significantly improves data transmission capacity and robustness, offering promising solutions for bandwidth-constrained environments."
+description = "Learn about the revolutionary optical communication system using multimode fiber for high spectral efficiency and sentiment analysis applications in this cutting-edge research news."
+source_link = "https://www.24-7pressrelease.com/press-release/519962/optical-semantic-communication-through-multimode-fiber-from-symbol-transmission-to-sentiment-analysis"
+enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
+article_id = 91050
+feed_item_id = 11065
+url = "/202502/91050-breakthrough-in-optical-semantic-communication-system-enhances-data-transmission"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/24/noonAPLc.webp"
+source = "24-7 Press Release"
++++
+
+<p>Researchers from Huazhong University of Science and Technology have unveiled a groundbreaking optical semantic communication system that leverages multimode fiber (MMF) technology to enhance data transmission capabilities. This innovative approach, detailed in a publication in Light Science & Applications, focuses on the transmission of semantic information rather than raw data, marking a significant departure from conventional communication methods.</p><p>Under the leadership of Professor Ming Tang and Dr. Hao Wu, the team utilized intermodal dispersion in multimode fibers to achieve high-dimensional semantic encoding and decoding in the frequency domain. This method has demonstrated a seven-fold increase in transmission capacity over traditional encoding techniques, with the incorporation of PAM-4 technology further boosting spectral efficiency.</p><p>The system's ability to encode semantically similar symbols to adjacent frequencies not only enhances noise tolerance but also facilitates accurate sentiment analysis. This was evidenced in experiments using the IMDb movie review dataset, where the system maintained precise information transmission despite high symbol error rates.</p><p>This development comes at a critical time when conventional communication systems are increasingly challenged by growing bandwidth demands. The semantic communication approach offers a viable solution for environments plagued by bandwidth constraints and noise, potentially revolutionizing data transmission across various sectors.</p><p>Supported by funding from the National Key Research and Development Program of China, the National Natural Science Foundation of China, and the JD project of Hubei Province, this research underscores the global effort to advance communication technologies. With a spectral efficiency of 9.12 bits/s/Hz and zero decoding errors, the optical semantic communication system stands as a testament to the potential of semantic-focused technologies in addressing the limitations of current data transmission methods.</p>

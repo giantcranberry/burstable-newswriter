@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-match-
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85326
 feed_item_id = 13893
-url = "/news/202505/85326-match-group-faces-investor-scrutiny-amid-proxy-battle-and-market-volatility"
+url = "/202505/85326-match-group-faces-investor-scrutiny-amid-proxy-battle-and-market-volatility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/iconz6vu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-thumzup-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85491
 feed_item_id = 13229
-url = "/news/202504/85491-thumzup-media-corp-launches-gibberads-a-lifestyle-ai-agent-marketplace-set-to-transform-personalized-marketing"
+url = "/202504/85491-thumzup-media-corp-launches-gibberads-a-lifestyle-ai-agent-marketplace-set-to-transform-personalized-marketing"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/neonIPU3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

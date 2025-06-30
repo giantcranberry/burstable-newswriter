@@ -1,0 +1,16 @@
++++
+title = "HIVE Digital Technologies Announces Significant Bitcoin Production Growth and Expansion Plans"
+date = "2024-12-17T18:15:06Z"
+draft = false
+summary = "HIVE Digital Technologies reports a 67% year-over-year increase in Bitcoin holdings and plans to double its mining capacity by 2025, positioning itself at the forefront of the green Bitcoin mining and AI-driven data center industries."
+description = "HIVE Digital Technologies is positioned at the forefront of the rapidly growing AI-driven data centers and Bitcoin industries. Learn more about HIVE's strategic investments and sustainable practices in the global economy."
+source_link = "https://newsdirect.com/news/hive-digital-technologies-nasdaq-hive-experiences-monumental-month-amid-tech-tailwinds-triggering-key-production-milestones-and-expansion-452136293"
+enclosure = "https://public.newsdirect.com/452136293/b6zngqK9.png"
+article_id = 91546
+feed_item_id = 9351
+url = "/202412/91546-hive-digital-technologies-announces-significant-bitcoin-production-growth-and-expansion-plans"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2412/17/glowuOkl.webp"
+source = "News Direct"
++++
+
+<p>HIVE Digital Technologies (NASDAQ: HIVE), a Vancouver-based company specializing in green Bitcoin mining and AI-driven data center operations, has reported a significant increase in Bitcoin production and outlined ambitious expansion plans. In November, the company mined 103 Bitcoins, averaging 3.42 BTC per day, which accounts for 1% of the global Bitcoin mining network. This achievement marks a 67% year-over-year growth in its Bitcoin holdings, now totaling 2,713 BTC valued at over $261 million.</p><p>The company's growth trajectory aligns with the increasing global investment in artificial intelligence and Bitcoin, sectors expected to drive data center investments beyond $1 trillion by 2027. HIVE's Co-Founder and Executive Chairman Frank Holmes highlighted November as a pivotal month for the company, which now aims to double its mining capacity to capture 2% of the global network by summer 2025, targeting 15 EH/s of computing power.</p><p>To facilitate this expansion, HIVE has invested in next-generation Bitcoin mining equipment from Bitmain, renowned for its efficiency. These investments are projected to boost annual revenue to $300 million, with a mining margin of $200 million. Beyond Bitcoin, HIVE is enhancing its high-performance computing capabilities with NVIDIA's advanced GPUs, catering to the burgeoning demand for AI applications.</p><p>Wall Street has taken note of HIVE's strategic initiatives, with analysts from Stifel, Cantor Fitzgerald, and Canaccord Genuity setting an average price target of $8, significantly above current levels. This optimism reflects HIVE's unique position at the nexus of the rapidly growing data center market and the Bitcoin mining industry, both of which are experiencing unprecedented demand.</p><p>As the digital economy evolves, HIVE Digital Technologies is leveraging its sustainable mining practices and AI-driven data center operations to solidify its leadership in the blockchain and digital transformation sectors. With strategic investments and a focus on operational efficiency, HIVE is poised to capitalize on the opportunities presented by the digital landscape's ongoing transformation.</p>

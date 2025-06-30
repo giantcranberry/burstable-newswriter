@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/excellence-in-auto-care-trusted-car-g
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84213
 feed_item_id = 15089
-url = "/news/202506/84213-car-garage-expert-sets-new-standards-for-mercedes-benz-care-in-dubai"
+url = "/202506/84213-car-garage-expert-sets-new-standards-for-mercedes-benz-care-in-dubai"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/4/ulnakMIP.webp"
 source = "News Direct"
 +++

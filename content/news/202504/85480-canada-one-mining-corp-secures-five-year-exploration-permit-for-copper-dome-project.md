@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-canada-one-mi
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85480
 feed_item_id = 13260
-url = "/news/202504/85480-canada-one-mining-corp-secures-five-year-exploration-permit-for-copper-dome-project"
+url = "/202504/85480-canada-one-mining-corp-secures-five-year-exploration-permit-for-copper-dome-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/tallKruB.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

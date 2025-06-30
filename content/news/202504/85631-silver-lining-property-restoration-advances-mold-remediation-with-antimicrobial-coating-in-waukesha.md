@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521675/waukesha-mo
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85631
 feed_item_id = 12680
-url = "/news/202504/85631-silver-lining-property-restoration-advances-mold-remediation-with-antimicrobial-coating-in-waukesha"
+url = "/202504/85631-silver-lining-property-restoration-advances-mold-remediation-with-antimicrobial-coating-in-waukesha"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/11/meangSnE.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702397/vertiv-appoints-mike-giresi
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 87692
 feed_item_id = 15096
-url = "/news/202506/87692-vertiv-appoints-mike-giresi-as-global-cio-to-drive-ai-and-digital-transformation"
+url = "/202506/87692-vertiv-appoints-mike-giresi-as-global-cio-to-drive-ai-and-digital-transformation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/faceELAq.webp"
 source = "citybiz"
 +++

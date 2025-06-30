@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523196/inside-the-
 enclosure = "https://cdn.newsramp.app/banners/media-2.jpg"
 article_id = 85176
 feed_item_id = 14656
-url = "/news/202505/85176-new-podcast-chasing-power-to-explore-the-intricacies-of-presidential-campaigns"
+url = "/202505/85176-new-podcast-chasing-power-to-explore-the-intricacies-of-presidential-campaigns"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/epicXtVh.webp"
 source = "24-7 Press Release"
 +++

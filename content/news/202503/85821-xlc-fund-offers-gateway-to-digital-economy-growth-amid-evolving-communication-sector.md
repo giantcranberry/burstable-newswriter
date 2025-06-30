@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/communication-services-fund-xlc-adapt
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85821
 feed_item_id = 12106
-url = "/news/202503/85821-xlc-fund-offers-gateway-to-digital-economy-growth-amid-evolving-communication-sector"
+url = "/202503/85821-xlc-fund-offers-gateway-to-digital-economy-growth-amid-evolving-communication-sector"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/21/envyQVt3.webp"
 source = "News Direct"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Palm Beach County Convention Center to Host Premier Home Show Featuring Innovations and Celebrity Insights"
+date = "2025-05-15T07:05:30Z"
+draft = false
+summary = "The upcoming Home Show at the Palm Beach County Convention Center offers a unique opportunity for homeowners and design enthusiasts to explore the latest in home design, technology, and lifestyle trends, featuring celebrity appearances and expert demonstrations."
+description = "Discover the latest in home design and remodeling at the ultimate event this Memorial Day Weekend! Explore celebrity appearances, designer show house tours, culinary experiences, and top exhibitors at the Palm Beach County Convention Center."
+source_link = "https://www.24-7pressrelease.com/press-release/522833/floridas-largest-home-show-returns-to-palm-beach-for-memorial-day-weekendnow-featuring-craig-conover-designer-vignettes-vip-access-live-culinary-tastings"
+enclosure = "https://cdn.newsramp.app/banners/food-beverage-3.jpg"
+article_id = 90736
+feed_item_id = 14207
+url = "/202505/90736-palm-beach-county-convention-center-to-host-premier-home-show-featuring-innovations-and-celebrity-insights"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/limeViZJ.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Home Show, set to take place at the Palm Beach County Convention Center from May 23–26, 2025, is poised to be a landmark event for homeowners and design aficionados alike. Covering over 100,000 square feet, the event will showcase the latest in home design, renovation, and lifestyle trends, offering attendees a chance to engage with cutting-edge technologies and meet industry celebrities.</p><p>Among the highlights is an appearance by Craig Conover from Bravo's Southern Charm, who will discuss turning personal passions into successful lifestyle brands. Attendees can look forward to VIP experiences including reserved seating, a signed copy of his book, and exclusive meet-and-greet opportunities.</p><p>The event will also feature curated design vignettes by renowned regional designers such as Andrea Mejia, Marina Barghouti, and Josiane A. Raphael, showcasing contemporary trends and innovative styling techniques. Additionally, a live culinary experience with South Florida's top chefs, including Jennifer Parker and Bryan Lopez, will offer cooking demonstrations paired with cocktail presentations, sponsored by leading appliance brands.</p><p>Exhibitors from various sectors of the home improvement industry, including luxury pool builders and cutting-edge flooring solutions providers, will present their latest offerings. Technologies on display will range from impact windows and smart home security to solar energy solutions and custom outdoor living spaces.</p><p>This event is not just an exhibition but a vital platform for discovering the trends and innovations shaping residential environments in South Florida, making it a must-attend for anyone interested in the future of home design and technology.</p>

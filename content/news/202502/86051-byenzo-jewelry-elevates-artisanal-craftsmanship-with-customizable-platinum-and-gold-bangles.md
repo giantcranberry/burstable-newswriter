@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520112/the-artistr
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 86051
 feed_item_id = 11478
-url = "/news/202502/86051-byenzo-jewelry-elevates-artisanal-craftsmanship-with-customizable-platinum-and-gold-bangles"
+url = "/202502/86051-byenzo-jewelry-elevates-artisanal-craftsmanship-with-customizable-platinum-and-gold-bangles"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/28/yogaazXN.webp"
 source = "24-7 Press Release"
 +++

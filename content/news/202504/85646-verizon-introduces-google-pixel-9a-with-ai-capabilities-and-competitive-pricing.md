@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/score-the-new-pixel-9a-at-verizo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85646
 feed_item_id = 12629
-url = "/news/202504/85646-verizon-introduces-google-pixel-9a-with-ai-capabilities-and-competitive-pricing"
+url = "/202504/85646-verizon-introduces-google-pixel-9a-with-ai-capabilities-and-competitive-pricing"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/254/9/warpqbQ0.webp"
 source = "Noticias Newswire"
 +++

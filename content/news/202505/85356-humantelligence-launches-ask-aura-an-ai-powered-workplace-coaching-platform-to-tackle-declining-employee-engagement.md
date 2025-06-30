@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202505061515/humantelligence-unveils-a
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85356
 feed_item_id = 13798
-url = "/news/202505/85356-humantelligence-launches-ask-aura-an-ai-powered-workplace-coaching-platform-to-tackle-declining-employee-engagement"
+url = "/202505/85356-humantelligence-launches-ask-aura-an-ai-powered-workplace-coaching-platform-to-tackle-declining-employee-engagement"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/255/6/swimGfw7.webp"
 source = "Newsworthy.ai"
 +++

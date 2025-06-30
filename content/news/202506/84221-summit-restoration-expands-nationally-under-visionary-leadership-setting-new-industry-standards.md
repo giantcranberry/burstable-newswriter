@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523452/summit-rest
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84221
 feed_item_id = 15062
-url = "/news/202506/84221-summit-restoration-expands-nationally-under-visionary-leadership-setting-new-industry-standards"
+url = "/202506/84221-summit-restoration-expands-nationally-under-visionary-leadership-setting-new-industry-standards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/blurnNgG.webp"
 source = "24-7 Press Release"
 +++

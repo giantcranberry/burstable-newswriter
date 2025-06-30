@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520241/data-center
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 86001
 feed_item_id = 11558
-url = "/news/202503/86001-dcft-introduces-zero-gap-tool-less-blanking-panels-to-revolutionize-data-center-cooling"
+url = "/202503/86001-dcft-introduces-zero-gap-tool-less-blanking-panels-to-revolutionize-data-center-cooling"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/openJnUL.webp"
 source = "24-7 Press Release"
 +++

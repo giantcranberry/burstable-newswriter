@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-mcewen-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85300
 feed_item_id = 13972
-url = "/news/202505/85300-mcewen-mining-inc-announces-strategic-expansion-to-boost-gold-production"
+url = "/202505/85300-mcewen-mining-inc-announces-strategic-expansion-to-boost-gold-production"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/9/lambAQSF.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

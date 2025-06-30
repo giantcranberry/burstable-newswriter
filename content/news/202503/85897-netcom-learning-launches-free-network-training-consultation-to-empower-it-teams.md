@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520488/netcom-lear
 enclosure = "https://cdn.newsramp.app/banners/education-2.jpg"
 article_id = 85897
 feed_item_id = 11829
-url = "/news/202503/85897-netcom-learning-launches-free-network-training-consultation-to-empower-it-teams"
+url = "/202503/85897-netcom-learning-launches-free-network-training-consultation-to-empower-it-teams"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/12/mint6_97.webp"
 source = "24-7 Press Release"
 +++

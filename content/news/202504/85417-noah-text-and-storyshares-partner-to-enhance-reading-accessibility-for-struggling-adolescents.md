@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522353/noah-text-a
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-1.jpg"
 article_id = 85417
 feed_item_id = 13620
-url = "/news/202504/85417-noah-text-and-storyshares-partner-to-enhance-reading-accessibility-for-struggling-adolescents"
+url = "/202504/85417-noah-text-and-storyshares-partner-to-enhance-reading-accessibility-for-struggling-adolescents"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/yogaB2Vk.webp"
 source = "24-7 Press Release"
 +++

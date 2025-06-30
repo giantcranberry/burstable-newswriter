@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521021/taiwan-and-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85777
 feed_item_id = 12243
-url = "/news/202503/85777-taiwan-and-europe-strengthen-tech-ties-in-semiconductors-and-ai"
+url = "/202503/85777-taiwan-and-europe-strengthen-tech-ties-in-semiconductors-and-ai"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/27/pitapicolcHY.webp"
 source = "24-7 Press Release"
 +++

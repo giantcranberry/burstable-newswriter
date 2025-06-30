@@ -1,0 +1,16 @@
++++
+title = "AI Revolutionizes Transportation Infrastructure with Safety and Efficiency Innovations"
+date = "2025-04-15T13:20:08Z"
+draft = false
+summary = "AI technologies like those developed by Iteris are transforming transportation infrastructure by improving traffic management and road safety, addressing the growing challenges of urban mobility."
+description = "Discover how AI is transforming transportation safety and traffic management with Iteris Inc.'s innovative solutions. Learn more about the impact of AI on road safety and traffic flow."
+source_link = "https://www.newmediawire.com/news/ai-can-support-traffic-management-and-transportation-and-iteris-is-helping-demonstrate-that-7080403"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
+article_id = 90620
+feed_item_id = 12765
+url = "/202504/90620-ai-revolutionizes-transportation-infrastructure-with-safety-and-efficiency-innovations"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/15/jinxN76Z.webp"
+source = "NewMediaWire"
++++
+
+<p>The transportation sector is witnessing a significant transformation, thanks to the integration of artificial intelligence (AI) technologies aimed at tackling the escalating challenges of traffic management and road safety. With the global traffic management market expected to surpass $75 billion by 2029, the urgency for innovative solutions has never been more apparent, especially in light of the 16% increase in deadly crashes in the United States between 2018 and 2022.</p><p>AI's ability to analyze traffic patterns in real-time offers a beacon of hope, providing alerts about potential hazards, aiding in collision avoidance, and optimizing routes to mitigate congestion and reduce carbon emissions. Companies at the forefront of this technological revolution, such as Iteris, are leveraging AI to redefine the future of transportation. Their ClearGuide® analytics software exemplifies this shift, processing billions of GPS data points daily across 3.8 million miles of North American roadways, sourced from over 150 public and private entities, to deliver up-to-the-minute traffic updates.</p><p>Among Iteris' groundbreaking innovations is the Vantage Apex® system, which employs Convolutional Neural Networks to identify and categorize road users, including vehicles and pedestrians, even under less-than-ideal visual conditions. This technology not only enhances intersection safety but also lays the groundwork for the integration of connected and autonomous vehicles into the existing infrastructure.</p><p>Beyond conventional traffic management, Iteris is pioneering predictive analytics to forecast crash probabilities at specific intersections. This capability allows transportation agencies to allocate resources more effectively, implementing preventative measures to avert accidents before they occur. As the transportation landscape continues to evolve, the role of AI in ensuring safer, more efficient, and adaptable urban mobility systems is becoming indispensable, marking a new era in infrastructure development.</p>

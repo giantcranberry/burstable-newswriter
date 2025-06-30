@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522383/from-memory
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-3.jpg"
 article_id = 85400
 feed_item_id = 13664
-url = "/news/202504/85400-richard-runyons-storybook-a-new-era-of-personal-storytelling-through-web-series-and-music"
+url = "/202504/85400-richard-runyons-storybook-a-new-era-of-personal-storytelling-through-web-series-and-music"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/voltaWGy.webp"
 source = "24-7 Press Release"
 +++

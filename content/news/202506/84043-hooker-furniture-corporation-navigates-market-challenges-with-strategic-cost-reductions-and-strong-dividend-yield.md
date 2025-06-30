@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-cove
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f2379175c523171c2691ed1f90f5d2be.png"
 article_id = 84043
 feed_item_id = 15616
-url = "/news/202506/84043-hooker-furniture-corporation-navigates-market-challenges-with-strategic-cost-reductions-and-strong-dividend-yield"
+url = "/202506/84043-hooker-furniture-corporation-navigates-market-challenges-with-strategic-cost-reductions-and-strong-dividend-yield"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/13/diveVazz.webp"
 source = "Reportable"
 +++

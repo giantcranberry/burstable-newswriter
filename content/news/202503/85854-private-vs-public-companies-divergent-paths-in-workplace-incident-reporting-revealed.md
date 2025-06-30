@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/the-navex-2025-whistleblowing-benchma
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 85854
 feed_item_id = 12000
-url = "/news/202503/85854-private-vs-public-companies-divergent-paths-in-workplace-incident-reporting-revealed"
+url = "/202503/85854-private-vs-public-companies-divergent-paths-in-workplace-incident-reporting-revealed"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/18/kiwiD0Q9.webp"
 source = "News Direct"
 +++

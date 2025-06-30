@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/core-gaming-gears-up-for-revers
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85901
 feed_item_id = 11813
-url = "/news/202503/85901-core-gamings-strategic-reverse-merger-with-siyata-mobile-signals-ambitious-growth-in-the-mobile-gaming-sector"
+url = "/202503/85901-core-gamings-strategic-reverse-merger-with-siyata-mobile-signals-ambitious-growth-in-the-mobile-gaming-sector"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/11/quizZWUC.webp"
 source = "NewMediaWire"
 +++

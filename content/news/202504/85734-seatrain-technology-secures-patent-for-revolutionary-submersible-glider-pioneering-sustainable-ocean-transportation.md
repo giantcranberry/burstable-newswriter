@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/seatrain-technology-receives-patent-a
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/faf841e90bc6f0417163ce06808a0df2.jpg"
 article_id = 85734
 feed_item_id = 12372
-url = "/news/202504/85734-seatrain-technology-secures-patent-for-revolutionary-submersible-glider-pioneering-sustainable-ocean-transportation"
+url = "/202504/85734-seatrain-technology-secures-patent-for-revolutionary-submersible-glider-pioneering-sustainable-ocean-transportation"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/1/quizjkxL.webp"
 source = "News Direct"
 +++

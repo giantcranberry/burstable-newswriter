@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701937/wtw-appoints-eric-mcmurray-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84732
 feed_item_id = 15006
-url = "/news/202506/84732-wtw-strengthens-leadership-team-to-drive-innovation-in-health-wealth-career-division"
+url = "/202506/84732-wtw-strengthens-leadership-team-to-drive-innovation-in-health-wealth-career-division"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/chefEkn2.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523442/dig-into-th
 enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
 article_id = 84235
 feed_item_id = 15020
-url = "/news/202506/84235-smokey-bones-introduces-affordable-dining-option-with-bones-big-duo"
+url = "/202506/84235-smokey-bones-introduces-affordable-dining-option-with-bones-big-duo"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/meanV0OJ.webp"
 source = "24-7 Press Release"
 +++

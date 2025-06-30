@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/tariffs-rate-cuts-and-rising-de
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/1e4a8ee9aee9c12f6ec6a05be77c4f2c.png"
 article_id = 85088
 feed_item_id = 15844
-url = "/news/202506/85088-us-financial-sector-faces-crossroads-amid-consumer-credit-stress-and-policy-shifts"
+url = "/202506/85088-us-financial-sector-faces-crossroads-amid-consumer-credit-stress-and-policy-shifts"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/18/archjj57.webp"
 source = "NewMediaWire"
 +++

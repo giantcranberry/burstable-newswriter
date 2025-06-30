@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/mariner-expands-independent-platform-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/6b683e239f45d8082851497cfd838e23.jpg"
 article_id = 84013
 feed_item_id = 15710
-url = "/news/202506/84013-mariner-strengthens-independent-advisory-platform-with-strategic-leadership-appointments"
+url = "/202506/84013-mariner-strengthens-independent-advisory-platform-with-strategic-leadership-appointments"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/17/yogaxmKI.webp"
 source = "News Direct"
 +++

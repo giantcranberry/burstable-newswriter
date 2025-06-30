@@ -1,0 +1,16 @@
++++
+title = "OrangeHRM Launches AI-Powered HR Assistant Citra at Inaugural Caribbean HR Summit"
+date = "2025-05-01T07:05:20Z"
+draft = false
+summary = "OrangeHRM's first Caribbean HR Summit in Jamaica showcased the launch of Citra, an AI-powered HR assistant, highlighting the region's embrace of technological innovation in human resources."
+description = "OrangeHRM successfully hosts inaugural Caribbean HR Summit in Kingston, Jamaica, showcasing the latest HR innovations and technology. Learn more about Citra, the AI-powered HR assistant, and the impact of the summit on HR professionals and businesses in the Caribbean region."
+source_link = "https://www.24-7pressrelease.com/press-release/522363/orangehrm-leads-the-future-of-hr-in-the-caribbean-with-inaugural-hr-summit-in-jamaica"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
+article_id = 90517
+feed_item_id = 13671
+url = "/202505/90517-orangehrm-launches-ai-powered-hr-assistant-citra-at-inaugural-caribbean-hr-summit"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/1/swimEQoS.webp"
+source = "24-7 Press Release"
++++
+
+<p>OrangeHRM, a global leader in human resource management solutions, recently marked a significant milestone by hosting its first Caribbean HR Summit in Kingston, Jamaica. This two-day event gathered HR professionals, industry experts, and business leaders to delve into the latest in HR technology and innovative workplace strategies. The summit served as a platform for discussing contemporary HR challenges and opportunities, with notable contributions from speakers like Dr. Carvell N. McLeary of the Jamaica Civil Aviation Authority and leadership development consultant Nick Abbott.</p><p>A standout moment of the summit was the unveiling of Citra, OrangeHRM's next-generation AI-powered HR assistant. Citra is designed to empower HR teams with faster, more intelligent decision-making capabilities, signaling a leap forward in making human resources more intuitive and impactful. The introduction of Citra underscores the potential of AI-driven solutions to transform HR practices across various industries.</p><p>The event also featured the OrangeHRM Masterclass, offering participants hands-on experience in recruitment, onboarding, employee engagement, and mobile innovations. Through interactive workshops and expert clinics, attendees gained insights into optimizing technology to improve workflows and employee experiences. A panel discussion with senior HR leaders from leading Caribbean organizations further explored strategies for navigating HR management during times of change, highlighting the necessity of adaptable HR practices in today's business environment.</p><p>OrangeHRM CEO Sujee Saparamadu emphasized the summit's role in celebrating transformation and showcasing the Caribbean's readiness to adopt technological advancements in HR. This event not only highlights the increasing significance of technology in redefining workplace dynamics but also illustrates how AI-driven tools like Citra can revolutionize HR practices, offering a glimpse into the future of human resources management.</p>

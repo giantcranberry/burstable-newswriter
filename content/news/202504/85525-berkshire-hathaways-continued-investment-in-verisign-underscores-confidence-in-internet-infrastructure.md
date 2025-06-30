@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-berksh
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85525
 feed_item_id = 13110
-url = "/news/202504/85525-berkshire-hathaways-continued-investment-in-verisign-underscores-confidence-in-internet-infrastructure"
+url = "/202504/85525-berkshire-hathaways-continued-investment-in-verisign-underscores-confidence-in-internet-infrastructure"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/keepRB39.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

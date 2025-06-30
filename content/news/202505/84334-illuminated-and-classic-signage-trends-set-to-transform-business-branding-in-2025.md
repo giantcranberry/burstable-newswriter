@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523183/front-signs
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84334
 feed_item_id = 14711
-url = "/news/202505/84334-illuminated-and-classic-signage-trends-set-to-transform-business-branding-in-2025"
+url = "/202505/84334-illuminated-and-classic-signage-trends-set-to-transform-business-branding-in-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/29/mielZrPJ.webp"
 source = "24-7 Press Release"
 +++

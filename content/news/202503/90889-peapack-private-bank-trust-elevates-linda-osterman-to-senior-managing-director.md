@@ -1,0 +1,16 @@
++++
+title = "Peapack Private Bank & Trust Elevates Linda Osterman to Senior Managing Director"
+date = "2025-03-27T13:40:17Z"
+draft = false
+summary = "Linda Osterman's promotion to Senior Managing Director at Peapack Private Bank & Trust highlights her significant contributions to the financial services industry and her role in fostering private wealth relationships."
+description = "Peapack-Gladstone Financial Corporation announces the promotion of Linda Osterman to Senior Managing Director, emphasizing the importance of experience in private wealth relationships. This news showcases the commitment of the company to providing high-quality financial services to clients."
+source_link = "https://www.newmediawire.com/news/linda-osterman-is-promoted-to-senior-managing-director-7080123"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
+article_id = 90889
+feed_item_id = 12258
+url = "/202503/90889-peapack-private-bank-trust-elevates-linda-osterman-to-senior-managing-director"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/27/zealuYLT.webp"
+source = "NewMediaWire"
++++
+
+<p>Peapack Private Bank & Trust has announced the promotion of Linda Osterman to the position of Senior Managing Director, a move that underscores her decades of expertise in the banking sector and her pivotal role in the institution's growth. Osterman, based at the bank's Bedminster headquarters, will continue to spearhead efforts in cultivating private wealth relationships, particularly through residential lending, a domain where she has demonstrated exceptional proficiency.</p><p>Osterman's career spans over forty years, marked by her tenure at prestigious financial institutions such as Mellon Bank, NA, and Summit Bank, where she honed her skills in residential lending before joining Peapack Private in 2013. Her academic background, including a Bachelor of Arts degree from Lehigh University, complements her professional journey, equipping her with a robust foundation in financial services.</p><p>Her promotion is not only a testament to her professional achievements but also reflects her deep-rooted commitment to community service. Osterman's leadership as President of The Tewksbury Education Foundation for over a decade and her ongoing involvement with educational institutions like The Pingry School and Gill St. Bernard's School illustrate her dedication to fostering educational excellence. Additionally, her support for the Greater Somerset County YMCA underscores her commitment to enhancing community well-being.</p><p>Peapack-Gladstone Financial Corporation, the parent company of Peapack Private Bank & Trust, reported total assets of $7.0 billion and assets under management of $11.9 billion as of December 31, 2024. The corporation's emphasis on tailored financial solutions for individuals, families, businesses, and nonprofit organizations aligns with Osterman's client-centric approach, promising continued excellence in service and innovation under her expanded leadership role.</p>

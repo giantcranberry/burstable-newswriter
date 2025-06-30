@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/brera-holdings-plc-nasdaq
 enclosure = "https://cdn.newsramp.app/banners/sports-1.jpg"
 article_id = 85516
 feed_item_id = 13151
-url = "/news/202504/85516-brera-holdings-plc-clears-regulatory-hurdle-in-acquisition-of-ss-juve-stabia"
+url = "/202504/85516-brera-holdings-plc-clears-regulatory-hurdle-in-acquisition-of-ss-juve-stabia"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/23/quayysvq.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

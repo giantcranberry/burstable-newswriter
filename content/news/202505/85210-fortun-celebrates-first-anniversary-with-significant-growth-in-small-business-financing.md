@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/fortun-marks-first-anniversary-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85210
 feed_item_id = 14392
-url = "/news/202505/85210-fortun-celebrates-first-anniversary-with-significant-growth-in-small-business-financing"
+url = "/202505/85210-fortun-celebrates-first-anniversary-with-significant-growth-in-small-business-financing"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/20/bestWJUS.webp"
 source = "NewMediaWire"
 +++

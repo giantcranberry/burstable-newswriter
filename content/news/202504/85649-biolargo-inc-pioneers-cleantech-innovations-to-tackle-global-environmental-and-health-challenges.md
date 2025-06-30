@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/innovation-helps-this-cleantech
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85649
 feed_item_id = 12626
-url = "/news/202504/85649-biolargo-inc-pioneers-cleantech-innovations-to-tackle-global-environmental-and-health-challenges"
+url = "/202504/85649-biolargo-inc-pioneers-cleantech-innovations-to-tackle-global-environmental-and-health-challenges"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/9/noraRjcG.webp"
 source = "NewMediaWire"
 +++

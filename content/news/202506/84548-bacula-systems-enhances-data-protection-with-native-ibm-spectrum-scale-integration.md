@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/bacula-systems-announces-native-gpfs-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84548
 feed_item_id = 15479
-url = "/news/202506/84548-bacula-systems-enhances-data-protection-with-native-ibm-spectrum-scale-integration"
+url = "/202506/84548-bacula-systems-enhances-data-protection-with-native-ibm-spectrum-scale-integration"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/cakeirZW.webp"
 source = "News Direct"
 +++

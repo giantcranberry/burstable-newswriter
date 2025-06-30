@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/ai-helps-grids-in-managi
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85123
 feed_item_id = 15320
-url = "/news/202506/85123-ai-revolutionizes-renewable-energy-management-for-a-sustainable-future"
+url = "/202506/85123-ai-revolutionizes-renewable-energy-management-for-a-sustainable-future"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/fern6Kqf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

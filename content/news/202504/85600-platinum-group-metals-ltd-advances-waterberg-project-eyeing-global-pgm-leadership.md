@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-platinu
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85600
 feed_item_id = 12800
-url = "/news/202504/85600-platinum-group-metals-ltd-advances-waterberg-project-eyeing-global-pgm-leadership"
+url = "/202504/85600-platinum-group-metals-ltd-advances-waterberg-project-eyeing-global-pgm-leadership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/noraZ8ql.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

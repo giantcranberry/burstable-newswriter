@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521433/durabuilt-c
 enclosure = "https://cdn.newsramp.app/banners/real-estate-3.jpg"
 article_id = 85684
 feed_item_id = 12509
-url = "/news/202504/85684-durabuilt-construction-revolutionizes-home-renovations-in-los-altos-with-custom-room-additions"
+url = "/202504/85684-durabuilt-construction-revolutionizes-home-renovations-in-los-altos-with-custom-room-additions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/sageerOd.webp"
 source = "24-7 Press Release"
 +++

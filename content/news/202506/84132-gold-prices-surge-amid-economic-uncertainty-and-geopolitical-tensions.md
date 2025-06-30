@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/gold-edges-up-as-the-dol
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84132
 feed_item_id = 15322
-url = "/news/202506/84132-gold-prices-surge-amid-economic-uncertainty-and-geopolitical-tensions"
+url = "/202506/84132-gold-prices-surge-amid-economic-uncertainty-and-geopolitical-tensions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/dualXO2w.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

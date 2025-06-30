@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-mulle
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85343
 feed_item_id = 13838
-url = "/news/202505/85343-mullen-automotive-advances-urban-sustainability-with-delivery-of-all-electric-commercial-truck-to-nyc"
+url = "/202505/85343-mullen-automotive-advances-urban-sustainability-with-delivery-of-all-electric-commercial-truck-to-nyc"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/6/kiteh9T1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

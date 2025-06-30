@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-quantu
 enclosure = "https://cdn.newsramp.app/ibn/newsimage/b696d574446d40b278acf3b349a1a310.png"
 article_id = 85358
 feed_item_id = 13789
-url = "/news/202505/85358-quantum-biopharma-intensifies-legal-fight-over-alleged-market-manipulation"
+url = "/202505/85358-quantum-biopharma-intensifies-legal-fight-over-alleged-market-manipulation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/5/markkLwy.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

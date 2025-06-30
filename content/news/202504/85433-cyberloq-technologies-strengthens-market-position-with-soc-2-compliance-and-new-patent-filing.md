@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/cyberloq-technologies-inc-issue
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85433
 feed_item_id = 13572
-url = "/news/202504/85433-cyberloq-technologies-strengthens-market-position-with-soc-2-compliance-and-new-patent-filing"
+url = "/202504/85433-cyberloq-technologies-strengthens-market-position-with-soc-2-compliance-and-new-patent-filing"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/29/silk5vw6.webp"
 source = "NewMediaWire"
 +++

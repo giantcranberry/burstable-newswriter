@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-lahontan-gold
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84342
 feed_item_id = 14691
-url = "/news/202505/84342-lahontan-gold-corp-enhances-market-presence-with-strategic-communications-partnership"
+url = "/202505/84342-lahontan-gold-corp-enhances-market-presence-with-strategic-communications-partnership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/filerW5r.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

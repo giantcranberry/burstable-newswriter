@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/trustlayer-launches-coi-tracker-to-sim
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/74a51147b2af39f9e2676e9cb7546958.jpg"
 article_id = 84283
 feed_item_id = 14886
-url = "/news/202506/84283-trustlayer-introduces-free-starter-coi-tracker-to-revolutionize-insurance-verification"
+url = "/202506/84283-trustlayer-introduces-free-starter-coi-tracker-to-revolutionize-insurance-verification"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/rubyKMyM.webp"
 source = "Press Services"
 +++

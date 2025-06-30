@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-hol
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84781
 feed_item_id = 14730
-url = "/news/202505/84781-onar-holding-corps-innovative-marketing-strategy-targets-middle-market-growth"
+url = "/202505/84781-onar-holding-corps-innovative-marketing-strategy-targets-middle-market-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/knobxNEj.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

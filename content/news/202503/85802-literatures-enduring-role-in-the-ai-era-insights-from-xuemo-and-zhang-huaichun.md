@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520895/xuemo-and-z
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85802
 feed_item_id = 12165
-url = "/news/202503/85802-literatures-enduring-role-in-the-ai-era-insights-from-xuemo-and-zhang-huaichun"
+url = "/202503/85802-literatures-enduring-role-in-the-ai-era-insights-from-xuemo-and-zhang-huaichun"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/24/kiwi4Www.webp"
 source = "24-7 Press Release"
 +++

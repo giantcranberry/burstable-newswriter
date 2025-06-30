@@ -1,0 +1,16 @@
++++
+title = "ALFRED PETS, INC Launches ETICAT+, an Eco-Friendly Cat Litter Made from Recycled Coffee Grounds"
+date = "2024-10-31T07:00:13Z"
+draft = false
+summary = "ALFRED PETS, INC introduces ETICAT+, a sustainable cat litter solution on Kickstarter, offering superior odor control and environmental benefits."
+description = "ALFRED PETS, INC launches eco-friendly cat litter ETICAT+ made from recycled coffee grounds on Kickstarter, offering 99.5% odor elimination and a subscription service. Partnerships with key distributors and nonprofits demonstrate a commitment to sustainability and animal welfare."
+source_link = "https://www.24-7pressrelease.com/press-release/515764/eticat-eco-friendly-cat-litter-made-from-recycled-coffee-grounds-launching-on-kickstarter"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0515764_210371.jpg"
+article_id = 91909
+feed_item_id = 8141
+url = "/202410/91909-alfred-pets-inc-launches-eticat-an-eco-friendly-cat-litter-made-from-recycled-coffee-grounds"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2410/31/tallvH8J.webp"
+source = "24-7 Press Release"
++++
+
+<p>ALFRED PETS, INC has unveiled ETICAT+, a groundbreaking eco-friendly cat litter crafted from recycled coffee grounds, now available for backing on Kickstarter. This innovative product not only promises to tackle the environmental issues tied to traditional cat litters but also delivers exceptional odor control and comfort for cats. With a 99.5% odor elimination rate, achieved through the natural absorption properties of coffee grounds, ETICAT+ sets a new benchmark in pet care sustainability.</p><p>The product's development reflects a deep understanding of both environmental and feline health concerns. Through a patented decaffeination process, ETICAT+ ensures safety for cats, while its fragrance-free formula and minimal dust production cater to their sensitive systems. The inclusion of upcycled pulp by-products enhances its clumping and absorbency, making it a practical choice for cat owners.</p><p>ETICAT+ is designed for easy integration with existing litter, offering a seamless transition for those wary of change. Beyond its immediate benefits, ALFRED PETS, INC's commitment to sustainability extends to a future subscription service that will recycle used litter into agricultural fertilizer, further reducing waste.</p><p>The timing of ETICAT+'s launch aligns with growing consumer demand for sustainable products. Traditional litters, particularly those made from bentonite, have been criticized for their environmental toll, while alternatives often fall short in performance. ETICAT+ addresses these gaps, presenting a viable, eco-conscious option.</p><p>Backed by partnerships with Healthy Spot and other organizations, including cat rescue groups and veterinary hospitals, ETICAT+ is poised to make a significant impact. Its success on Kickstarter could herald a shift towards more sustainable pet care products, influencing the industry at large.</p><p>As the campaign kicks off on October 31st, 2024, the potential for ETICAT+ to redefine pet care standards is clear. By merging environmental responsibility with superior functionality, ALFRED PETS, INC is not just offering a product but championing a movement towards a greener future in pet care.</p>

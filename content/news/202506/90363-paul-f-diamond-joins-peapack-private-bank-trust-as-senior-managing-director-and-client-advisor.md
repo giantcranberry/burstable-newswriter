@@ -1,0 +1,16 @@
++++
+title = "Paul F. Diamond Joins Peapack Private Bank & Trust as Senior Managing Director and Client Advisor"
+date = "2025-06-23T14:10:33Z"
+draft = false
+summary = "Paul F. Diamond's appointment at Peapack Private Bank & Trust signifies a strategic enhancement to the bank's wealth management services, leveraging his extensive experience in financial services to benefit high-net-worth clients."
+description = "Paul F. Diamond joins Peapack Private Bank & Trust as Senior Managing Director, bringing 25+ years of financial expertise to enhance wealth management services."
+source_link = "https://www.newmediawire.com/news/paul-f-diamond-cfa-cfp-joins-the-wealth-division-of-peapack-private-7080939"
+enclosure = "https://cdn.newsramp.app/genai/images/256/23/7afc02112aaf0b35ebef9b5100917db6.png"
+article_id = 90363
+feed_item_id = 16017
+url = "/202506/90363-paul-f-diamond-joins-peapack-private-bank-trust-as-senior-managing-director-and-client-advisor"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/23/wallBCTt.webp"
+source = "NewMediaWire"
++++
+
+<p>Paul F. Diamond, CFA, CFP, has been named Senior Managing Director and Client Advisor at Peapack Private Bank & Trust's wealth division, a move that underscores the bank's commitment to strengthening its wealth management services. With over 25 years in the financial services industry, Diamond brings a wealth of experience in portfolio management, relationship management, and risk management, which is expected to significantly benefit the bank's high-net-worth and ultra-high-net-worth clientele.</p><p>Prior to joining Peapack Private, Diamond served as an executive director at JP Morgan Private Bank, where he played a key role in managing client relationships and crafting tailored financial solutions. His career also includes senior investment management roles at PNC Wealth Management and leadership positions at several other prestigious financial institutions, highlighting his comprehensive expertise in the sector.</p><p>Diamond's academic and professional credentials, including a Bachelor of Science in Accounting from West Virginia University and his status as a Chartered Financial Analyst, complement his practical experience. His memberships in the CFA Institute, the New York Society of Security Analysts, and the Global Association of Risk Professionals, along with his FINRA Series 7, 55, and 63 licenses, attest to his qualifications and dedication to excellence in financial services.</p><p>Peapack-Gladstone Financial Corporation, the parent company of Peapack Private Bank & Trust, reported total assets of $7.1 billion and assets under management and/or administration of $11.8 billion as of March 31, 2025. The bank's wealth management division is known for its comprehensive suite of services, including financial, tax, fiduciary, and investment advice, serving a diverse clientele. Diamond's appointment is a clear indication of Peapack Private Bank & Trust's strategy to enhance its advisory services and solidify its reputation as a leader in wealth management.</p>

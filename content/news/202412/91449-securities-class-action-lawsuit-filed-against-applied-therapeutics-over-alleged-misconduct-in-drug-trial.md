@@ -1,0 +1,16 @@
++++
+title = "Securities Class Action Lawsuit Filed Against Applied Therapeutics Over Alleged Misconduct in Drug Trial"
+date = "2024-12-30T14:06:44Z"
+draft = false
+summary = "A securities class action lawsuit against Applied Therapeutics, Inc. alleges false and misleading statements about its drug candidate govorestat, highlighting risks in pharmaceutical investments and the importance of clinical trial integrity."
+description = "Learn about the securities class action lawsuit filed by Kessler Topaz Meltzer & Check, LLP against Applied Therapeutics, Inc. Allegations include failure to adhere to trial protocol for the drug candidate govorestat, posing a risk of FDA rejection. Investors have until February 18, 2025, to seek appointment as a lead plaintiff."
+source_link = "https://www.newmediawire.com/news/xray-announcement-kessler-topaz-meltzer-check-llp-notifies-investors-of-a-class-action-lawsuit-against-dentsply-sirona-inc-xray-7078733"
+enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
+article_id = 91449
+feed_item_id = 9736
+url = "/202412/91449-securities-class-action-lawsuit-filed-against-applied-therapeutics-over-alleged-misconduct-in-drug-trial"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2412/30/face5Glz.webp"
+source = "NewMediaWire"
++++
+
+<p>Kessler Topaz Meltzer & Check, LLP has initiated a securities class action lawsuit against Applied Therapeutics, Inc. (NASDAQ: APLT), targeting the period from January 3, 2024, to December 2, 2024. The lawsuit accuses the company of disseminating false and misleading information about its drug candidate, govorestat, and failing to disclose critical trial protocol deviations and poor clinical practices. These alleged actions may have compromised the trial data's acceptability by the FDA, posing significant risks to investors who relied on the company's disclosures.</p><p>The implications of this lawsuit extend beyond Applied Therapeutics, serving as a cautionary tale for the pharmaceutical industry about the importance of maintaining rigorous clinical trial standards and transparent communication with investors. The case underscores the potential financial and reputational damages companies face when accused of misleading stakeholders, emphasizing the need for investor due diligence in the high-stakes drug development sector.</p><p>With the lead plaintiff deadline set for February 18, 2025, the outcome of this lawsuit could influence not only Applied Therapeutics' future but also set precedents for how clinical trials are conducted and reported in the industry. The legal proceedings will be closely watched by investors and pharmaceutical companies alike, as they may herald stricter scrutiny of clinical trial practices and investor communications.</p><p>This case also highlights the role of legal firms like Kessler Topaz Meltzer & Check, LLP in holding corporations accountable for alleged misconduct, with potential billions in recoveries for affected parties. As the situation develops, the pharmaceutical and biotech sectors may need to reassess their approaches to clinical trials and investor relations to mitigate similar risks.</p>

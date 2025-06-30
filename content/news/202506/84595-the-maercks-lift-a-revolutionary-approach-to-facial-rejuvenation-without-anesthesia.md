@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/the-maercks-institute-unveils-viral-v
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/9859ae029ba172b0248d2e6605aae475.jpg"
 article_id = 84595
 feed_item_id = 15380
-url = "/news/202506/84595-the-maercks-lift-a-revolutionary-approach-to-facial-rejuvenation-without-anesthesia"
+url = "/202506/84595-the-maercks-lift-a-revolutionary-approach-to-facial-rejuvenation-without-anesthesia"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/9/club1te4.webp"
 source = "News Direct"
 +++

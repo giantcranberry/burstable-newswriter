@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neutra-corp-signs-letter-of-int
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85730
 feed_item_id = 12388
-url = "/news/202504/85730-neutra-corp-advances-healthcare-technology-with-strategic-acquisition-of-curaconnectorcom"
+url = "/202504/85730-neutra-corp-advances-healthcare-technology-with-strategic-acquisition-of-curaconnectorcom"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/1/mendJtdz.webp"
 source = "NewMediaWire"
 +++

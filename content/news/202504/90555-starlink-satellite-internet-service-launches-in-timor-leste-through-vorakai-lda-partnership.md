@@ -1,0 +1,16 @@
++++
+title = "Starlink Satellite Internet Service Launches in Timor-Leste Through Vorakai Lda Partnership"
+date = "2025-04-25T02:23:52Z"
+draft = false
+summary = "Vorakai Lda's designation as an authorized reseller of Starlink in Timor-Leste marks a pivotal step in enhancing the country's digital infrastructure and connectivity."
+description = "Vorakai Lda partners with Starlink to bring high-speed internet to Timor-Leste, bridging the digital divide and empowering various sectors. This collaboration is set to revolutionize connectivity and drive economic development in the nation."
+source_link = "https://newsdirect.com/news/vorakai-launches-starlink-high-speed-internet-for-enterprise-in-timor-leste-521483594"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/b9a634dcbc088e87568c7ec590c18a85.png"
+article_id = 90555
+feed_item_id = 13411
+url = "/202504/90555-starlink-satellite-internet-service-launches-in-timor-leste-through-vorakai-lda-partnership"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/25/bold4V0p.webp"
+source = "News Direct"
++++
+
+<p>Vorakai Lda, a prominent technology solutions provider in Timor-Leste, has been officially named an authorized reseller for Starlink satellite internet services, a development poised to significantly enhance the nation's digital infrastructure. This partnership, enabled by Starlink's licensing from the National Communications Authority (ANC-TL) in December 2024, is set to tackle the persistent issue of inadequate internet coverage, especially in areas beyond the capital.</p><p>The introduction of Starlink's low Earth orbit (LEO) satellite technology promises to deliver fast, reliable, and scalable internet access, overcoming the limitations posed by traditional infrastructure. Tammy Kassiou, chair of Vorakai Lda, underscored the critical role of dependable internet in modern infrastructure, highlighting its importance for government services, business activities, educational access, and community connectivity. This initiative aligns with Timor-Leste's vision to emerge as a connected and progressive nation, with ambitions to establish itself as a significant player in global manufacturing.</p><p>Starlink's service offerings in Timor-Leste will include customized packages featuring hardware, installation, and support services, designed to meet the specific needs of the local market. The initiative is expected to open up new avenues for digital education, telehealth services, agricultural innovation, and entrepreneurial ventures by extending high-speed internet to remote and underserved populations.</p><p>Kassiou further elaborated on the broader implications of this technological advancement, viewing it as a strategic move towards national development. By equipping communities and vital sectors with advanced digital tools, the partnership aims to foster economic growth and social advancement. Vorakai Lda's role in this endeavor underscores its commitment to driving technological innovation in Timor-Leste, with the Starlink collaboration representing a crucial milestone in efforts to reduce the digital divide and promote sustainable development across the country.</p>

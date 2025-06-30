@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520324/mbank-kyrgy
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85944
 feed_item_id = 11670
-url = "/news/202503/85944-mbank-kyrgyzstan-expands-global-financial-network-with-uae-dirham-accounts"
+url = "/202503/85944-mbank-kyrgyzstan-expands-global-financial-network-with-uae-dirham-accounts"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/6/harpReKZ.webp"
 source = "24-7 Press Release"
 +++

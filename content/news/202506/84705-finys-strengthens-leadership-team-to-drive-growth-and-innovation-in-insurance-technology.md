@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702378/tim-norman-and-rishi-khetra
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84705
 feed_item_id = 15094
-url = "/news/202506/84705-finys-strengthens-leadership-team-to-drive-growth-and-innovation-in-insurance-technology"
+url = "/202506/84705-finys-strengthens-leadership-team-to-drive-growth-and-innovation-in-insurance-technology"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/maskPr8n.webp"
 source = "citybiz"
 +++

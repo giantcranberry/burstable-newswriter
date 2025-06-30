@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/g6-hospitality-launches-nationwide-fr
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85829
 feed_item_id = 12078
-url = "/news/202503/85829-g6-hospitality-enhances-franchisee-engagement-with-nationwide-meetings"
+url = "/202503/85829-g6-hospitality-enhances-franchisee-engagement-with-nationwide-meetings"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/20/noont9VJ.webp"
 source = "News Direct"
 +++

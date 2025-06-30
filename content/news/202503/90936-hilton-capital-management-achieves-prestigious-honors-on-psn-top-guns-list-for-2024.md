@@ -1,0 +1,16 @@
++++
+title = "Hilton Capital Management Achieves Prestigious Honors on PSN Top Guns List for 2024"
+date = "2025-03-14T13:00:22Z"
+draft = false
+summary = "Hilton Capital Management's recognition on the PSN Top Guns List for its Small & Mid Cap Opportunities and Dividend & Yield strategies underscores its excellence in investment management and market performance."
+description = "Hilton Capital Management garners recognition on the PSN Top Guns List for Q4 2024, showcasing exceptional performance in Small & Mid Cap Opportunities and Dividend & Yield strategies. Learn more about Hilton Capital's consistent outperformance and commitment to disciplined investment management."
+source_link = "https://newsdirect.com/news/hilton-capital-management-named-to-psn-top-guns-list-for-q4-2024-in-two-top-performing-strategies-313950739"
+enclosure = "https://cdn.newsramp.app/banners/awards-2.jpg"
+article_id = 90936
+feed_item_id = 11915
+url = "/202503/90936-hilton-capital-management-achieves-prestigious-honors-on-psn-top-guns-list-for-2024"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/14/cake0unJ.webp"
+source = "News Direct"
++++
+
+<p>Investment management firm Hilton Capital Management has been distinguished with multiple honors on the PSN Top Guns List for the fourth quarter of 2024, showcasing its adept strategic investment approaches and unwavering performance across diverse market segments. The firm's accolades were awarded in two key investment strategies: Small & Mid Cap Opportunities (SMCO) and Dividend & Yield (DIVYS), marking a significant achievement in the competitive landscape of investment management.</p><p>In the SMCO strategy, Hilton Capital was honored with a 6-Star designation in the Small-Mid Cap Universe, alongside 1-Star and 2-Star recognitions in the Mid Value and Small-Mid Value Universes. The Dividend & Yield strategy reached an even higher echelon of recognition, being named Manager of the Decade in the Global Equity Universe. This title not only highlights the strategy's sustained excellence but also its ability to outperform in a fluctuating and challenging market environment over the long term.</p><p>The PSN Top Guns awards are the result of meticulous performance evaluations, where stars are allocated based on both quarterly and annual returns. Achieving a 6-Star ranking demands exceptional performance metrics, including an r-squared of 0.80 or greater relative to style benchmarks and consistent returns that surpass benchmark performance. Craig O'Neill, CEO of Hilton Capital Management, remarked on the importance of these awards, noting they reflect the firm's dedication to disciplined investment management and delivering consistent results for clients.</p><p>With over $3 billion in assets under management as of December 31, 2024, Hilton Capital Management continues to stand out for its commitment to sound decision-making and effective downside protection. The firm's recent accolades on the PSN Top Guns List not only affirm its prowess in navigating intricate market conditions but also its capacity to generate value for a broad spectrum of investors, from institutional to individual. This recognition serves as a testament to Hilton Capital Management's strategic expertise and its significant impact on the investment management industry.</p>

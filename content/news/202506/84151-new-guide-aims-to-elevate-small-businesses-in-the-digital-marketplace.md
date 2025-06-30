@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/unlocking-success-a-step-by-step-guide
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/7555e7d72e1353baedc2456001d90d35.jpg"
 article_id = 84151
 feed_item_id = 15262
-url = "/news/202506/84151-new-guide-aims-to-elevate-small-businesses-in-the-digital-marketplace"
+url = "/202506/84151-new-guide-aims-to-elevate-small-businesses-in-the-digital-marketplace"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/5/knotae5u.webp"
 source = "Press Services"
 +++

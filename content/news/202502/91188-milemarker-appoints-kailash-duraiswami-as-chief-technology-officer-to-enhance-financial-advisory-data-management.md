@@ -1,0 +1,16 @@
++++
+title = "Milemarker Appoints Kailash Duraiswami as Chief Technology Officer to Enhance Financial Advisory Data Management"
+date = "2025-02-03T15:30:12Z"
+draft = false
+summary = "Milemarker's appointment of Kailash Duraiswami as CTO marks a strategic move to bolster its technological capabilities in transforming data management for financial advisory firms."
+description = "Milemarker appoints Kailash Duraiswami as Chief Technology Officer, showcasing the company's commitment to technological advancement and empowering advisory firms. Duraiswami's fintech expertise and leadership will drive transformative solutions in the industry."
+source_link = "https://newsdirect.com/news/milemarker-appoints-kailash-duraiswami-as-chief-technology-officer-859505488"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 91188
+feed_item_id = 10567
+url = "/202502/91188-milemarker-appoints-kailash-duraiswami-as-chief-technology-officer-to-enhance-financial-advisory-data-management"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/3/jadeO_zX.webp"
+source = "News Direct"
++++
+
+<p>Milemarker, a leading technology platform for advisory firms, independent broker-dealers, and registered investment advisors, has announced the appointment of Kailash Duraiswami as its new Chief Technology Officer. This strategic hire is set to significantly enhance the company's mission to revolutionize data management and operational efficiency in the financial advisory sector.</p><p>Duraiswami brings a wealth of fintech innovation experience to Milemarker, most notably as the founder of Pantenix, an AI platform that automated data-entry processes for alternative investments. Pantenix's success and subsequent acquisition by Orion Advisor Solutions in 2021 underscore Duraiswami's expertise in developing transformative financial technologies. His contributions at Orion, particularly in the development of a data streaming platform that won the 2023WealthManagement.comIndustry Award for 'Disruptor,' further highlight his capability to drive technological advancements.</p><p>The financial advisory industry is currently grappling with the challenges of data management and operational efficiency. Milemarker's platform, designed to address these issues through six core use cases including system-to-system synchronization and centralized workflows, stands to benefit immensely from Duraiswami's leadership. His unique blend of financial expertise, stemming from a degree in financial economics from Emory University, and over a decade of experience as a software engineer and entrepreneur, positions him as a pivotal figure in Milemarker's future developments.</p><p>Jud Mackrill, Co-Founder of Milemarker, and Kyle Van Pelt, CEO, have both expressed their confidence in Duraiswami's ability to lead the company's technological innovations. His appointment is seen as a testament to Milemarker's commitment to maintaining its leadership in providing cutting-edge solutions for financial advisory firms. This move not only strengthens Milemarker's technological offerings but also signals potential advancements in how advisory firms manage their data and workflows, marking a significant step forward for the industry at large.</p>

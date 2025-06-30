@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522085/user-first-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85521
 feed_item_id = 13132
-url = "/news/202504/85521-roonyx-champions-user-centered-design-in-digital-solutions-setting-new-industry-standards"
+url = "/202504/85521-roonyx-champions-user-centered-design-in-digital-solutions-setting-new-industry-standards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/23/pearpfei.webp"
 source = "24-7 Press Release"
 +++

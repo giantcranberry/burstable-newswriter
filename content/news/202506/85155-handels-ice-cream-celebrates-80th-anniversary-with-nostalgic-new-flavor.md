@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523423/handels-roa
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 85155
 feed_item_id = 14906
-url = "/news/202506/85155-handels-ice-cream-celebrates-80th-anniversary-with-nostalgic-new-flavor"
+url = "/202506/85155-handels-ice-cream-celebrates-80th-anniversary-with-nostalgic-new-flavor"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/2/hushYJzj.webp"
 source = "24-7 Press Release"
 +++

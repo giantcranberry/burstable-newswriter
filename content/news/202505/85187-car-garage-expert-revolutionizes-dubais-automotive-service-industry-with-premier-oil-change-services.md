@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/dubai-drivers-trust-car-garage-expert
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85187
 feed_item_id = 14551
-url = "/news/202505/85187-car-garage-expert-revolutionizes-dubais-automotive-service-industry-with-premier-oil-change-services"
+url = "/202505/85187-car-garage-expert-revolutionizes-dubais-automotive-service-industry-with-premier-oil-change-services"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/23/apexKOWR.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521959/styled-by-m
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85549
 feed_item_id = 13061
-url = "/news/202504/85549-experienced-hairstylist-michaela-ann-launches-independent-business-in-georgetown-texas"
+url = "/202504/85549-experienced-hairstylist-michaela-ann-launches-independent-business-in-georgetown-texas"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/22/takeHVDD.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "speaker-lineup-for-galfa-reel-talk"
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 85857
 feed_item_id = 11960
-url = "/news/202503/85857-georgia-latino-film-alliance-hosts-legislative-roundtable-to-boost-multicultural-film-production"
+url = "/202503/85857-georgia-latino-film-alliance-hosts-legislative-roundtable-to-boost-multicultural-film-production"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/253/17/veilz5n0.webp"
 source = "Noticias Newswire"
 +++

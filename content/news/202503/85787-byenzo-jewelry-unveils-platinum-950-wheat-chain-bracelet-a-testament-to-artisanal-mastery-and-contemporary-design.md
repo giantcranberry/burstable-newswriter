@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520968/the-art-of-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85787
 feed_item_id = 12217
-url = "/news/202503/85787-byenzo-jewelry-unveils-platinum-950-wheat-chain-bracelet-a-testament-to-artisanal-mastery-and-contemporary-design"
+url = "/202503/85787-byenzo-jewelry-unveils-platinum-950-wheat-chain-bracelet-a-testament-to-artisanal-mastery-and-contemporary-design"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/26/joltM4cD.webp"
 source = "24-7 Press Release"
 +++

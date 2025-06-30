@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202505201529/rchilli-is-all-set-for-as
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84857
 feed_item_id = 14417
-url = "/news/202505/84857-rchilli-to-showcase-ai-powered-recruitment-solutions-at-ascend-2025"
+url = "/202505/84857-rchilli-to-showcase-ai-powered-recruitment-solutions-at-ascend-2025"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/255/20/quizdKP8.webp"
 source = "Newsworthy.ai"
 +++

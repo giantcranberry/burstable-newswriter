@@ -1,0 +1,16 @@
++++
+title = "Mullen Automotive Expands Midwest Presence Through Bollinger Motors Partnership with Broadway Ford Truck Center"
+date = "2024-12-10T18:20:21Z"
+draft = false
+summary = "Mullen Automotive's subsidiary, Bollinger Motors, partners with Broadway Ford Truck Center to expand its electric commercial vehicle market in the Midwest, highlighting the growing shift towards sustainable fleet operations."
+description = "Mullen Automotive's subsidiary, Bollinger Motors, partners with Broadway Ford Truck Center to enhance its Midwest presence, while achieving key milestones in regulatory compliance and commercial electric vehicle production."
+source_link = "https://rss.investorbrandnetwork.com/ult-prem/mullen-nasdaq-muln-subsidiary-expands-midwest-reach-with-broadway-ford-truck-center-partnership/"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
+article_id = 91568
+feed_item_id = 9266
+url = "/202412/91568-mullen-automotive-expands-midwest-presence-through-bollinger-motors-partnership-with-broadway-ford-truck-center"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/2412/10/plumELbR.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Mullen Automotive (NASDAQ: MULN) has announced a strategic partnership between its subsidiary, Bollinger Motors, and Broadway Ford Truck Center in St. Louis, significantly expanding Bollinger's footprint in the Midwest. This collaboration underscores the increasing demand for electric commercial vehicles, with Bollinger's B4 Chassis Cab leading the charge towards sustainable fleet operations.</p><p>The B4 Chassis Cab, an all-electric Class 4 commercial truck, boasts a 158-kilowatt-hour battery and a design optimized for fleet use, offering businesses a greener alternative to traditional trucks. Dennis Phillips, President of Broadway Ford Truck Center, highlighted the partnership's alignment with both companies' commitment to innovation and sustainability in the commercial vehicle sector.</p><p>This partnership is a key component of Mullen Automotive's broader strategy to enhance its presence in the electric vehicle market. With two U.S.-based manufacturing plants and recent achievements such as IRS approval for federal EV tax credits, Mullen is positioning itself as a significant player in the EV sector. The company's vehicles, including the Mullen ONE and Mullen THREE, have received CARB and EPA certifications, further bolstering their appeal to eco-conscious businesses.</p><p>The addition of Broadway Ford Truck Center to Mullen's commercial dealer network, now totaling seven dealers, enhances the company's ability to serve the Midwest, a vital market for commercial vehicles. Moreover, Mullen's Foreign Trade Zone status for its Tunica plant offers financial benefits that could improve its competitiveness in the global market.</p><p>As businesses increasingly seek sustainable transportation solutions, Mullen Automotive's advancements and partnerships, including the recent collaboration with Broadway Ford Truck Center, are pivotal in accelerating the adoption of electric commercial vehicles across the Midwest and beyond, marking a significant step forward in the electrification of fleet operations.</p>

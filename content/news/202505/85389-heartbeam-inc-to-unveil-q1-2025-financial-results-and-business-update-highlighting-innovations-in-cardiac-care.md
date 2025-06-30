@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-heartb
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85389
 feed_item_id = 13695
-url = "/news/202505/85389-heartbeam-inc-to-unveil-q1-2025-financial-results-and-business-update-highlighting-innovations-in-cardiac-care"
+url = "/202505/85389-heartbeam-inc-to-unveil-q1-2025-financial-results-and-business-update-highlighting-innovations-in-cardiac-care"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/1/fast6rT3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

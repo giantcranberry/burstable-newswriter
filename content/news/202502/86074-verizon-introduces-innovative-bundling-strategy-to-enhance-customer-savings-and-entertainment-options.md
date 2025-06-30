@@ -8,7 +8,7 @@ source_link = "verizon-announces-new-savings-benefits"
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-3.jpg"
 article_id = 86074
 feed_item_id = 11219
-url = "/news/202502/86074-verizon-introduces-innovative-bundling-strategy-to-enhance-customer-savings-and-entertainment-options"
+url = "/202502/86074-verizon-introduces-innovative-bundling-strategy-to-enhance-customer-savings-and-entertainment-options"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/252/28/fineR8UJ.webp"
 source = "Noticias Newswire"
 +++

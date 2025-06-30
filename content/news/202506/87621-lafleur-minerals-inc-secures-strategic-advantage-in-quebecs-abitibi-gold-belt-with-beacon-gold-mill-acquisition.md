@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/lafleur-minerals-inc-cse
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/e0906dcc325ad2f52a2dc5a42108fa33.png"
 article_id = 87621
 feed_item_id = 16038
-url = "/news/202506/87621-lafleur-minerals-inc-secures-strategic-advantage-in-quebecs-abitibi-gold-belt-with-beacon-gold-mill-acquisition"
+url = "/202506/87621-lafleur-minerals-inc-secures-strategic-advantage-in-quebecs-abitibi-gold-belt-with-beacon-gold-mill-acquisition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/yarnBGQo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

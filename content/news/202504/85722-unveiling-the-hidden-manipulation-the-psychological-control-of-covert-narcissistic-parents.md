@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521290/covert-narc
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 85722
 feed_item_id = 12403
-url = "/news/202504/85722-unveiling-the-hidden-manipulation-the-psychological-control-of-covert-narcissistic-parents"
+url = "/202504/85722-unveiling-the-hidden-manipulation-the-psychological-control-of-covert-narcissistic-parents"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/1/envy3Ywh.webp"
 source = "24-7 Press Release"
 +++

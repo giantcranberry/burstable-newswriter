@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520428/reed-atamia
 enclosure = "https://cdn.newsramp.app/banners/awards-3.jpg"
 article_id = 85919
 feed_item_id = 11751
-url = "/news/202503/85919-reed-atamian-scholarship-for-entrepreneurs-opens-doors-for-undergraduate-innovators"
+url = "/202503/85919-reed-atamian-scholarship-for-entrepreneurs-opens-doors-for-undergraduate-innovators"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/8/sagem0QH.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523762/supercrowd2
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84488
 feed_item_id = 15598
-url = "/news/202506/84488-supercrowd25-conference-to-spotlight-democratization-of-capital-through-crowdfunding"
+url = "/202506/84488-supercrowd25-conference-to-spotlight-democratization-of-capital-through-crowdfunding"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/13/zestVLDr.webp"
 source = "24-7 Press Release"
 +++

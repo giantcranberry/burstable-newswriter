@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-red-cat-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/886a64f757d55feed9e41e446a162203.png"
 article_id = 85089
 feed_item_id = 15843
-url = "/news/202506/85089-red-cat-holdings-secures-4675-million-in-registered-direct-offering-to-fuel-drone-technology-expansion"
+url = "/202506/85089-red-cat-holdings-secures-4675-million-in-registered-direct-offering-to-fuel-drone-technology-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/pink16ed.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

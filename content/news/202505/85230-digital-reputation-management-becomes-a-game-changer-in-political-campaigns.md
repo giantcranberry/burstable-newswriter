@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522830/intellicate
 enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
 article_id = 85230
 feed_item_id = 14216
-url = "/news/202505/85230-digital-reputation-management-becomes-a-game-changer-in-political-campaigns"
+url = "/202505/85230-digital-reputation-management-becomes-a-game-changer-in-political-campaigns"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/roamXJ1q.webp"
 source = "24-7 Press Release"
 +++

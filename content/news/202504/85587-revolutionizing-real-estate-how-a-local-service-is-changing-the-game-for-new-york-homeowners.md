@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521834/sell-my-hou
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85587
 feed_item_id = 12902
-url = "/news/202504/85587-revolutionizing-real-estate-how-a-local-service-is-changing-the-game-for-new-york-homeowners"
+url = "/202504/85587-revolutionizing-real-estate-how-a-local-service-is-changing-the-game-for-new-york-homeowners"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/16/pintnHm6.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-silvercorp-me
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 84365
 feed_item_id = 14619
-url = "/news/202505/84365-silvercorp-metals-inc-announces-semi-annual-dividend-reinforcing-financial-stability-and-esg-commitment"
+url = "/202505/84365-silvercorp-metals-inc-announces-semi-annual-dividend-reinforcing-financial-stability-and-esg-commitment"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/ulnaqFlL.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

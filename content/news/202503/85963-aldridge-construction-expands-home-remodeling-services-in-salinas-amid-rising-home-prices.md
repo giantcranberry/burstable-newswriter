@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520278/aldridge-co
 enclosure = "https://cdn.newsramp.app/banners/real-estate-3.jpg"
 article_id = 85963
 feed_item_id = 11621
-url = "/news/202503/85963-aldridge-construction-expands-home-remodeling-services-in-salinas-amid-rising-home-prices"
+url = "/202503/85963-aldridge-construction-expands-home-remodeling-services-in-salinas-amid-rising-home-prices"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/yogaWaRO.webp"
 source = "24-7 Press Release"
 +++

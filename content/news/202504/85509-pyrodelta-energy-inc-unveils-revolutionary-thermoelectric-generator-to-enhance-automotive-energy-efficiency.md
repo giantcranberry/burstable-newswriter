@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/pyrodelta-and-first-tellurium-s
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85509
 feed_item_id = 13168
-url = "/news/202504/85509-pyrodelta-energy-inc-unveils-revolutionary-thermoelectric-generator-to-enhance-automotive-energy-efficiency"
+url = "/202504/85509-pyrodelta-energy-inc-unveils-revolutionary-thermoelectric-generator-to-enhance-automotive-energy-efficiency"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/23/silk5_dA.webp"
 source = "NewMediaWire"
 +++

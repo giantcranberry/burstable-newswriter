@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522866/roonyx-stre
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84891
 feed_item_id = 14262
-url = "/news/202505/84891-roonyx-inc-strengthens-bnpl-industry-ties-at-latban-event"
+url = "/202505/84891-roonyx-inc-strengthens-bnpl-industry-ties-at-latban-event"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/16/navyicxv.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/sino-biological-issues-formal-s
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85452
 feed_item_id = 13484
-url = "/news/202504/85452-sino-biological-fortifies-global-supply-chain-amid-trade-uncertainties"
+url = "/202504/85452-sino-biological-fortifies-global-supply-chain-amid-trade-uncertainties"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/28/golde_bN.webp"
 source = "NewMediaWire"
 +++

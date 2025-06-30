@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/spartan-capital-securities-and-
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 87679
 feed_item_id = 15367
-url = "/news/202506/87679-spartan-capital-investor-conference-2025-to-foster-high-value-connections-in-new-york-city"
+url = "/202506/87679-spartan-capital-investor-conference-2025-to-foster-high-value-connections-in-new-york-city"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/9/jadenZMh.webp"
 source = "NewMediaWire"
 +++

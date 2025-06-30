@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-solarb
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85569
 feed_item_id = 12974
-url = "/news/202504/85569-solarbank-corporation-advances-renewable-energy-sector-with-strategic-partnerships-and-projects"
+url = "/202504/85569-solarbank-corporation-advances-renewable-energy-sector-with-strategic-partnerships-and-projects"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/17/jinx5VWc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

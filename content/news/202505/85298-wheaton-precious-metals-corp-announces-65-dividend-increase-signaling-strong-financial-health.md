@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-wheato
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85298
 feed_item_id = 13974
-url = "/news/202505/85298-wheaton-precious-metals-corp-announces-65-dividend-increase-signaling-strong-financial-health"
+url = "/202505/85298-wheaton-precious-metals-corp-announces-65-dividend-increase-signaling-strong-financial-health"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/9/rainzqNV.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703819/dallas-trial-attorney-alex-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84134
 feed_item_id = 15311
-url = "/news/202506/84134-alex-brauer-recognized-by-chambers-usa-for-seventh-consecutive-year-highlighting-excellence-in-commercial-litigation"
+url = "/202506/84134-alex-brauer-recognized-by-chambers-usa-for-seventh-consecutive-year-highlighting-excellence-in-commercial-litigation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/healCgvI.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/new-google-review-management-service-b
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/f29cf8e587344b5ab9924316bd14ef6c.jpg"
 article_id = 85926
 feed_item_id = 11726
-url = "/news/202503/85926-new-google-review-management-service-aims-to-transform-business-online-reputation"
+url = "/202503/85926-new-google-review-management-service-aims-to-transform-business-online-reputation"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/7/ninoJlyk.webp"
 source = "Press Services"
 +++

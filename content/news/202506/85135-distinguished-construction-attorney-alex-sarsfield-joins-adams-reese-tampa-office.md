@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702645/construction-attorney-litig
 enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
 article_id = 85135
 feed_item_id = 15137
-url = "/news/202506/85135-distinguished-construction-attorney-alex-sarsfield-joins-adams-reese-tampa-office"
+url = "/202506/85135-distinguished-construction-attorney-alex-sarsfield-joins-adams-reese-tampa-office"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/larkBrAg.webp"
 source = "citybiz"
 +++

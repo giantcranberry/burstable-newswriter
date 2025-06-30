@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202505271533/hr-com-launches-new-progr
 enclosure = "https://cdn.newsramp.app/banners/human-resources-1.jpg"
 article_id = 84801
 feed_item_id = 14612
-url = "/news/202505/84801-hrcom-launches-subscription-program-to-boost-hr-consultants-professional-visibility"
+url = "/202505/84801-hrcom-launches-subscription-program-to-boost-hr-consultants-professional-visibility"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/255/27/poemBlNZ.webp"
 source = "Newsworthy.ai"
 +++

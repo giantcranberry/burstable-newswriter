@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/hydromer-inc-reports-preliminar
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85658
 feed_item_id = 12593
-url = "/news/202504/85658-hydromer-inc-faces-revenue-decline-amid-strategic-restructuring-and-innovation-push"
+url = "/202504/85658-hydromer-inc-faces-revenue-decline-amid-strategic-restructuring-and-innovation-push"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/8/lineJNB4.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-apple-inc-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85327
 feed_item_id = 13891
-url = "/news/202505/85327-apples-stock-dip-amid-buyback-strategy-signals-long-term-confidence"
+url = "/202505/85327-apples-stock-dip-amid-buyback-strategy-signals-long-term-confidence"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/filoMvHp.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

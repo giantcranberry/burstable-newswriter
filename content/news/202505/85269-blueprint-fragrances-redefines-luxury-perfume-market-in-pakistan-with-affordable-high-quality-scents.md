@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/blueprint-fragrances-expands-in-pakis
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/e51d35c3d6f95619727f4d8f5eb0dfe6.jpg"
 article_id = 85269
 feed_item_id = 14074
-url = "/news/202505/85269-blueprint-fragrances-redefines-luxury-perfume-market-in-pakistan-with-affordable-high-quality-scents"
+url = "/202505/85269-blueprint-fragrances-redefines-luxury-perfume-market-in-pakistan-with-affordable-high-quality-scents"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/13/arch2SDy.webp"
 source = "News Direct"
 +++

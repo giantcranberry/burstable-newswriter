@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520289/signature-g
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85956
 feed_item_id = 11630
-url = "/news/202503/85956-signature-glass-and-windows-enhances-monterey-properties-with-custom-sliding-glass-door-installations"
+url = "/202503/85956-signature-glass-and-windows-enhances-monterey-properties-with-custom-sliding-glass-door-installations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/urgeWtb7.webp"
 source = "24-7 Press Release"
 +++

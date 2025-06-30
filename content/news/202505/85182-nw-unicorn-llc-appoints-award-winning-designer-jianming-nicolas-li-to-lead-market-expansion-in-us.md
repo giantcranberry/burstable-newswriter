@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523130/nw-unicorn-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85182
 feed_item_id = 14586
-url = "/news/202505/85182-nw-unicorn-llc-appoints-award-winning-designer-jianming-nicolas-li-to-lead-market-expansion-in-us"
+url = "/202505/85182-nw-unicorn-llc-appoints-award-winning-designer-jianming-nicolas-li-to-lead-market-expansion-in-us"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/24/lilydl6a.webp"
 source = "24-7 Press Release"
 +++

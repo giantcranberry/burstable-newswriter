@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/esgold-corp-cse-esau-otc
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 84884
 feed_item_id = 14286
-url = "/news/202505/84884-esgold-corp-enhances-leadership-with-strategic-board-appointment-to-advance-montauban-gold-silver-project"
+url = "/202505/84884-esgold-corp-enhances-leadership-with-strategic-board-appointment-to-advance-montauban-gold-silver-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/harpGZKB.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/nicholas-lamorte-joins-the-comm
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85832
 feed_item_id = 12063
-url = "/news/202503/85832-peapack-private-bank-trust-enhances-cre-team-with-industry-veteran-nicholas-lamorte"
+url = "/202503/85832-peapack-private-bank-trust-enhances-cre-team-with-industry-veteran-nicholas-lamorte"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/19/pint_7pD.webp"
 source = "NewMediaWire"
 +++

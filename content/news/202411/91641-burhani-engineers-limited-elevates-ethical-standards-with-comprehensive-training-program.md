@@ -1,0 +1,16 @@
++++
+title = "Burhani Engineers Limited Elevates Ethical Standards with Comprehensive Training Program"
+date = "2024-11-29T08:05:10Z"
+draft = false
+summary = "Burhani Engineers Limited in Kenya has launched a two-week Code of Conduct and Ethics Training program to enhance ethical standards and professional behavior among its employees, setting a benchmark in the engineering industry."
+description = "Burhani Engineers Limited completes comprehensive Code of Conduct and Ethics Training, reinforcing the company's commitment to ethical and professional standards while empowering its workforce. The training serves to highlight the importance of ethical conduct, adherence to laws, and fostering a positive workplace culture."
+source_link = "https://www.24-7pressrelease.com/press-release/516674/burhani-engineers-strengthens-ethical-professional-standards-with-comprehensive-training-programme"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0516674_211514.jpg"
+article_id = 91641
+feed_item_id = 9009
+url = "/202411/91641-burhani-engineers-limited-elevates-ethical-standards-with-comprehensive-training-program"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2411/29/calmV5Qa.webp"
+source = "24-7 Press Release"
++++
+
+<p>Burhani Engineers Limited, a leading engineering firm in Kenya, has recently completed a comprehensive two-week Code of Conduct and Ethics Training program. This initiative, spearheaded by an experienced Compliance Officer, was meticulously designed to align employee behavior with both company policies and national labor laws, covering essential topics such as Anti-Bribery and Anti-Corruption (ABAC), Antitrust and Anti-Fraud measures, and Child Protection policies.</p><p>The training also delved into Conflict of Interest (COI) guidelines, grievance handling procedures, and disciplinary matters, alongside recruitment policies, social media guidelines, and travel protocols. A significant focus was placed on the company's whistleblower policy and third-party due diligence procedures, highlighting the criticality of ethical partnerships.</p><p>By emphasizing the importance of a respectful and inclusive workplace, the program aimed to clarify expected behaviors and foster a culture of mutual respect, free from discrimination and harassment. It also underscored the necessity of compliance with legal standards, empowering employees to act with integrity in all professional endeavors.</p><p>This strategic move by Burhani Engineers Limited not only reinforces its commitment to transparency and accountability but also positions the company as a pioneer in ethical business practices within Kenya's engineering sector. In an era where corporate ethics are increasingly under the microscope, such initiatives are pivotal in building trust with clients and partners, potentially unlocking new business opportunities.</p><p>The breadth of the training program reflects Burhani Engineers' holistic approach to professional development, equipping its workforce with the knowledge to navigate the complexities of today's business environment. As the engineering industry continues to evolve, the firm's focus on ethical conduct and professional standards exemplifies a forward-thinking strategy that could inspire similar actions across the sector.</p>

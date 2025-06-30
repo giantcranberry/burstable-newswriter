@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521580/coming-soon
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-3.jpg"
 article_id = 85653
 feed_item_id = 12613
-url = "/news/202504/85653-new-workbook-aims-to-empower-mental-health-professionals-with-tools-for-growth-and-resilience"
+url = "/202504/85653-new-workbook-aims-to-empower-mental-health-professionals-with-tools-for-growth-and-resilience"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/9/corndEPE.webp"
 source = "24-7 Press Release"
 +++

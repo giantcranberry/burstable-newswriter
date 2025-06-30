@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/zquip-showcases-electrification-solut
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85887
 feed_item_id = 11855
-url = "/news/202503/85887-zquip-to-showcase-modular-energy-system-at-bauma-2025-pioneering-zero-emission-construction-sites"
+url = "/202503/85887-zquip-to-showcase-modular-energy-system-at-bauma-2025-pioneering-zero-emission-construction-sites"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/12/lushnppL.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/the-open-source-approac
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84041
 feed_item_id = 15620
-url = "/news/202506/84041-open-source-ai-development-a-new-era-of-collaborative-innovation"
+url = "/202506/84041-open-source-ai-development-a-new-era-of-collaborative-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/veilC_ut.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

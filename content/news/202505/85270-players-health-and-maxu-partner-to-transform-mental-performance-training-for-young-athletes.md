@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/players-health-and-maxu-partner-to-po
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85270
 feed_item_id = 14070
-url = "/news/202505/85270-players-health-and-maxu-partner-to-transform-mental-performance-training-for-young-athletes"
+url = "/202505/85270-players-health-and-maxu-partner-to-transform-mental-performance-training-for-young-athletes"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/13/roam_Yca.webp"
 source = "News Direct"
 +++

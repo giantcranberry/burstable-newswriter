@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703831/quarterfield-dental-arts-we
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84138
 feed_item_id = 15310
-url = "/news/202506/84138-dr-pooja-soni-ushers-in-a-new-era-at-quarterfield-dental-arts-with-a-focus-on-innovation-and-compassion"
+url = "/202506/84138-dr-pooja-soni-ushers-in-a-new-era-at-quarterfield-dental-arts-with-a-focus-on-innovation-and-compassion"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/dashM7p3.webp"
 source = "citybiz"
 +++

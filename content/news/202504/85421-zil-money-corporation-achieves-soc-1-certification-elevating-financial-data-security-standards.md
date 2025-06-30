@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522313/zil-money-c
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85421
 feed_item_id = 13615
-url = "/news/202504/85421-zil-money-corporation-achieves-soc-1-certification-elevating-financial-data-security-standards"
+url = "/202504/85421-zil-money-corporation-achieves-soc-1-certification-elevating-financial-data-security-standards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/plumIXJP.webp"
 source = "24-7 Press Release"
 +++

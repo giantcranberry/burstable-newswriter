@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/route-runners-auto-transport-strength
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85847
 feed_item_id = 12018
-url = "/news/202503/85847-route-runners-auto-transport-sets-new-standards-in-ohios-vehicle-shipping-industry"
+url = "/202503/85847-route-runners-auto-transport-sets-new-standards-in-ohios-vehicle-shipping-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/18/waitxedG.webp"
 source = "News Direct"
 +++

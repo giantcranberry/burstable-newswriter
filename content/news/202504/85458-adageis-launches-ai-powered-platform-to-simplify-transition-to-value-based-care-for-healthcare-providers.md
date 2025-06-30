@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/adageis-offering-compre
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 85458
 feed_item_id = 13447
-url = "/news/202504/85458-adageis-launches-ai-powered-platform-to-simplify-transition-to-value-based-care-for-healthcare-providers"
+url = "/202504/85458-adageis-launches-ai-powered-platform-to-simplify-transition-to-value-based-care-for-healthcare-providers"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/pendAuPA.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523864/salon-and-s
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/9c4b606dda91b11c0d590a295ea12f2c.png"
 article_id = 84017
 feed_item_id = 15696
-url = "/news/202506/84017-salon-and-spa-galleria-empowers-tenants-with-free-marketing-workshops-and-comprehensive-support"
+url = "/202506/84017-salon-and-spa-galleria-empowers-tenants-with-free-marketing-workshops-and-comprehensive-support"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/17/roamDSZV.webp"
 source = "24-7 Press Release"
 +++

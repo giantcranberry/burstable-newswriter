@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523131/global-voic
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-1.jpg"
 article_id = 84806
 feed_item_id = 14583
-url = "/news/202505/84806-fractured-horizons-exhibition-at-nycxdesign-festival-2025-bridges-cultural-heritage-and-technological-innovation"
+url = "/202505/84806-fractured-horizons-exhibition-at-nycxdesign-festival-2025-bridges-cultural-heritage-and-technological-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/24/odorNwco.webp"
 source = "24-7 Press Release"
 +++

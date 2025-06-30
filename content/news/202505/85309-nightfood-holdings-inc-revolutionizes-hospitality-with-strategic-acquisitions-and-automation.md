@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nightfoo
 enclosure = "https://cdn.newsramp.app/banners/travel-3.jpg"
 article_id = 85309
 feed_item_id = 13943
-url = "/news/202505/85309-nightfood-holdings-inc-revolutionizes-hospitality-with-strategic-acquisitions-and-automation"
+url = "/202505/85309-nightfood-holdings-inc-revolutionizes-hospitality-with-strategic-acquisitions-and-automation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/mildmYNm.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

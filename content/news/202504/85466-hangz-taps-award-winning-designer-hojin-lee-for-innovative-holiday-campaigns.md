@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522175/hojin-lee-l
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85466
 feed_item_id = 13427
-url = "/news/202504/85466-hangz-taps-award-winning-designer-hojin-lee-for-innovative-holiday-campaigns"
+url = "/202504/85466-hangz-taps-award-winning-designer-hojin-lee-for-innovative-holiday-campaigns"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/pendvEZF.webp"
 source = "24-7 Press Release"
 +++

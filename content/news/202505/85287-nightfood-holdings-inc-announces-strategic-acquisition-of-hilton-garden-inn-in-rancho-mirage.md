@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nightfoo
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85287
 feed_item_id = 14016
-url = "/news/202505/85287-nightfood-holdings-inc-announces-strategic-acquisition-of-hilton-garden-inn-in-rancho-mirage"
+url = "/202505/85287-nightfood-holdings-inc-announces-strategic-acquisition-of-hilton-garden-inn-in-rancho-mirage"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/12/mintIOnw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

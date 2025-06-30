@@ -1,0 +1,16 @@
++++
+title = "Civeo Corporation Demonstrates Financial Resilience with Strong Q3 2024 Performance"
+date = "2024-12-29T05:55:55Z"
+draft = false
+summary = "Civeo Corporation's robust Q3 2024 financial results and revised full-year guidance highlight its financial stability and commitment to shareholder value, despite challenges in the Canadian market."
+description = "Stonegate Capital Partners updates coverage on Civeo Corporation, citing positive free cash flow generation and revised full-year 2024 guidance. Learn about the company's financial health, segmented performance, and strategic outlook in this comprehensive update."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-coverage-on-civeo-corporation-nyse-cveo-2024-q3"
+enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
+article_id = 91459
+feed_item_id = 9687
+url = "/202412/91459-civeo-corporation-demonstrates-financial-resilience-with-strong-q3-2024-performance"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/2412/29/mintqXjU.webp"
+source = "Reportable"
++++
+
+<p>Civeo Corporation (NYSE: CVEO) has showcased its financial resilience with a strong performance in Q3 2024, as detailed in Stonegate Capital Partners' updated coverage. The company reported $28.3 million in free cash flow (FCF) for the quarter, continuing its streak of positive FCF generation since 2014. This financial stability is further underscored by Civeo's revision of its full-year 2024 guidance, raising the lower end of its FCF range to $50.0 million and adjusting the midpoint to $55.0 million, signaling confidence in its financial outlook.</p><p>The company's Q3 2024 revenue of $176.3 million exceeded both Stonegate's estimate of $161.1 million and the consensus estimate of $168.8 million. This outperformance was largely attributed to strong pricing and billed rooms volume in the Australian segment, despite a weaker showing in Canada. Civeo's strategic focus on shareholder returns was evident through the repurchase of approximately 515,000 shares worth $14.2 million and a reduction in net debt by $63.0 million year-over-year, achieving a net leverage ratio of 0.3x.</p><p>While the Canadian segment faced significant challenges, including a 39% decrease in revenues and an 85% drop in adjusted EBITDA, the Australian segment flourished with a 33% increase in revenues and a 19% rise in adjusted EBITDA. Looking forward, Civeo has set its full-year 2024 revenue projection between $675 million and $700 million, with adjusted EBITDA expected to range from $83 million to $88 million.</p><p>Stonegate Capital Partners' valuation analyses, including DCF and EV/EBITDA, suggest a promising outlook for Civeo, with share price estimates ranging from $32.29 to $37.83. These figures reflect the market's positive assessment of Civeo's financial health and future prospects. The company's ability to generate consistent free cash flow, coupled with its strategic capital allocation, positions it as a standout in its sector, offering valuable insights for investors and industry leaders alike.</p>

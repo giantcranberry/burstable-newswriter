@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-brera-
 enclosure = "https://cdn.newsramp.app/banners/sports-2.jpg"
 article_id = 85604
 feed_item_id = 12788
-url = "/news/202504/85604-austin-claims-first-league-one-volleyball-championship-with-brera-holdings-global-talent-strategy"
+url = "/202504/85604-austin-claims-first-league-one-volleyball-championship-with-brera-holdings-global-talent-strategy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/hushclp9.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

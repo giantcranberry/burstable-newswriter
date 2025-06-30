@@ -1,0 +1,16 @@
++++
+title = "DENTSPLY SIRONA Faces Securities Class Action Over Byte Aligner Allegations"
+date = "2024-12-31T00:10:18Z"
+draft = false
+summary = "Investors in DENTSPLY SIRONA Inc. are nearing a deadline in a lawsuit alleging the company misled about its Byte aligner product, with implications for the medical device sector and investor confidence."
+description = "Learn about the securities class action lawsuits against DENTSPLY SIRONA Inc. and the lead plaintiff deadline. Understand the alleged misconduct and its impact on investors. Take action by contacting Kessler Topaz Meltzer & Check, LLP for more information."
+source_link = "https://www.newmediawire.com/news/dentsply-sirona-inc-xray-investors-january-27-2025-filing-deadline-in-securities-class-action-contact-kessler-topaz-meltzer-check-llp-7078769"
+enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
+article_id = 91445
+feed_item_id = 9750
+url = "/202412/91445-dentsply-sirona-faces-securities-class-action-over-byte-aligner-allegations"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2412/31/pineBk2E.webp"
+source = "NewMediaWire"
++++
+
+<p>Investors in DENTSPLY SIRONA Inc. (NASDAQ: XRAY) are approaching a critical deadline in a securities class action lawsuit that accuses the company of making false and misleading statements about its Byte direct-to-consumer aligner product. The lawsuit, targeting investors who purchased shares between May 6, 2021, and November 6, 2024, alleges misconduct that could have significant repercussions for the company and the broader medical device industry.</p><p>The complaint, brought forward by Kessler Topaz Meltzer & Check, LLP, contends that DENTSPLY SIRONA engaged in aggressive sales tactics targeting vulnerable populations, including low-income individuals lacking dental care access, without adequate patient screening. This allegedly led to treatments for unsuitable candidates, resulting in patient injuries that the company failed to properly investigate or report to the FDA.</p><p>Furthermore, the lawsuit accuses DENTSPLY SIRONA of materially overstating the goodwill value of Byte, casting doubt on the accuracy of the company's financial statements and business prospects. With the deadline for lead plaintiff applications set for January 27, 2025, the case underscores the critical importance of corporate transparency, regulatory compliance, and ethical sales practices in sustaining investor trust and ensuring patient safety.</p><p>This legal challenge emerges amid growing scrutiny of the direct-to-consumer dental aligner market, potentially heralding stricter industry regulations and heightened emphasis on patient safety protocols. The outcome of this lawsuit could have far-reaching financial implications for DENTSPLY SIRONA and its shareholders, serving as a cautionary tale for companies in the healthcare and medical device sectors about the risks of alleged misconduct.</p><p>As the deadline looms, affected investors must weigh their options carefully, considering the potential impact on their financial recovery and the broader implications for corporate accountability and investor protection in the face of alleged wrongdoing.</p>

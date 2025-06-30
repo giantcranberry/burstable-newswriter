@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85113
 feed_item_id = 15445
-url = "/news/202506/85113-newton-golf-company-inc-appoints-jeff-clayborne-as-cfo-to-drive-growth-and-innovation"
+url = "/202506/85113-newton-golf-company-inc-appoints-jeff-clayborne-as-cfo-to-drive-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/maskWDtR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

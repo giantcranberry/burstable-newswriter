@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520619/marc-adams-
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-1.jpg"
 article_id = 85872
 feed_item_id = 11907
-url = "/news/202503/85872-marc-adams-releases-guidebook-for-entrepreneurs-to-10x-business-value-and-achieve-tax-free-exits"
+url = "/202503/85872-marc-adams-releases-guidebook-for-entrepreneurs-to-10x-business-value-and-achieve-tax-free-exits"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/14/jazzndjV.webp"
 source = "24-7 Press Release"
 +++

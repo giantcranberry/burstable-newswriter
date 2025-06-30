@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/arzopa-introduces-d10-smart-photo-fra
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/151c76fc0085cac7273049ae6f6aad9e.jpg"
 article_id = 85909
 feed_item_id = 11786
-url = "/news/202503/85909-arzopas-d10-smart-photo-frame-redefines-digital-memory-sharing-with-advanced-technology"
+url = "/202503/85909-arzopas-d10-smart-photo-frame-redefines-digital-memory-sharing-with-advanced-technology"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/10/airymqXH.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-transform-your-vehi
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 84376
 feed_item_id = 14590
-url = "/news/202505/84376-dubais-car-garage-expert-sets-new-standards-in-automotive-aesthetics-with-innovative-painting-solutions"
+url = "/202505/84376-dubais-car-garage-expert-sets-new-standards-in-automotive-aesthetics-with-innovative-painting-solutions"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/24/plumEXIW.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522882/dallas-whit
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84881
 feed_item_id = 14289
-url = "/news/202505/84881-dallas-white-granite-the-rising-star-in-luxury-home-construction"
+url = "/202505/84881-dallas-white-granite-the-rising-star-in-luxury-home-construction"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/17/lean3lKl.webp"
 source = "24-7 Press Release"
 +++

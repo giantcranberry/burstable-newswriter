@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/home-charging-phevs-coul
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85122
 feed_item_id = 15319
-url = "/news/202506/85122-home-charging-and-plug-in-hybrids-paving-the-way-for-sustainable-transportation"
+url = "/202506/85122-home-charging-and-plug-in-hybrids-paving-the-way-for-sustainable-transportation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/6/glueOxOZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

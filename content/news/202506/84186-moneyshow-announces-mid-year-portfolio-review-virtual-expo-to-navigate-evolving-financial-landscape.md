@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/moneyshow-presents-the-mi
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 84186
 feed_item_id = 15155
-url = "/news/202506/84186-moneyshow-announces-mid-year-portfolio-review-virtual-expo-to-navigate-evolving-financial-landscape"
+url = "/202506/84186-moneyshow-announces-mid-year-portfolio-review-virtual-expo-to-navigate-evolving-financial-landscape"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/lamb_ap6.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

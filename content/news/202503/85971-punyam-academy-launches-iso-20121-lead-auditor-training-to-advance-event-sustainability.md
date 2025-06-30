@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520257/punyam-acad
 enclosure = "https://cdn.newsramp.app/banners/education-2.jpg"
 article_id = 85971
 feed_item_id = 11608
-url = "/news/202503/85971-punyam-academy-launches-iso-20121-lead-auditor-training-to-advance-event-sustainability"
+url = "/202503/85971-punyam-academy-launches-iso-20121-lead-auditor-training-to-advance-event-sustainability"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/archHrET.webp"
 source = "24-7 Press Release"
 +++

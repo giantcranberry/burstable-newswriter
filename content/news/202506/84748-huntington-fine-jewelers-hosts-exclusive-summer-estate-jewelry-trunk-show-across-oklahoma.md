@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523435/summer-esta
 enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
 article_id = 84748
 feed_item_id = 14926
-url = "/news/202506/84748-huntington-fine-jewelers-hosts-exclusive-summer-estate-jewelry-trunk-show-across-oklahoma"
+url = "/202506/84748-huntington-fine-jewelers-hosts-exclusive-summer-estate-jewelry-trunk-show-across-oklahoma"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/3/cakeIVjx.webp"
 source = "24-7 Press Release"
 +++

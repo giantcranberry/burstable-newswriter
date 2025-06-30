@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/5be15e430c07d05779d863e42d0390f6.png"
 article_id = 85076
 feed_item_id = 15874
-url = "/news/202506/85076-solarbank-corporation-embraces-bitcoin-in-treasury-strategy-signaling-shift-in-corporate-finance"
+url = "/202506/85076-solarbank-corporation-embraces-bitcoin-in-treasury-strategy-signaling-shift-in-corporate-finance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/plumRi2d.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

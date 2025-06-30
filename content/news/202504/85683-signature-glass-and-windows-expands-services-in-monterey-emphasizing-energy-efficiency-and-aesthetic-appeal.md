@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521440/signature-g
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85683
 feed_item_id = 12514
-url = "/news/202504/85683-signature-glass-and-windows-expands-services-in-monterey-emphasizing-energy-efficiency-and-aesthetic-appeal"
+url = "/202504/85683-signature-glass-and-windows-expands-services-in-monterey-emphasizing-energy-efficiency-and-aesthetic-appeal"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/flaxmYAN.webp"
 source = "24-7 Press Release"
 +++

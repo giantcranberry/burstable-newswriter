@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-inc-nasdaq-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/0030618f82795f57dc4f8800a051fc41.png"
 article_id = 86111
 feed_item_id = 15840
-url = "/news/202506/86111-healthcare-triangle-inc-launches-quantumnexis-pioneering-ai-powered-digital-healthcare-solutions"
+url = "/202506/86111-healthcare-triangle-inc-launches-quantumnexis-pioneering-ai-powered-digital-healthcare-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/18/bossSLLB.webp"
 source = "NewMediaWire"
 +++

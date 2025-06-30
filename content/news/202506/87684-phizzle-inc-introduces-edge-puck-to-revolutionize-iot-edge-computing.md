@@ -8,7 +8,7 @@ source_link = "https://phizzle.reportablenews.com/pr/phizzle-to-launch-technical
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/ac5c0120dbddabec42a2663e0bc34702.png"
 article_id = 87684
 feed_item_id = 15219
-url = "/news/202506/87684-phizzle-inc-introduces-edge-puck-to-revolutionize-iot-edge-computing"
+url = "/202506/87684-phizzle-inc-introduces-edge-puck-to-revolutionize-iot-edge-computing"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/5/lamb7F5U.webp"
 source = "Reportable"
 +++

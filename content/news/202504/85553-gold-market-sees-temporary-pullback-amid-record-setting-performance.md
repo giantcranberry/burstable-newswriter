@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/golds-rally-hits-the-bra
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85553
 feed_item_id = 13045
-url = "/news/202504/85553-gold-market-sees-temporary-pullback-amid-record-setting-performance"
+url = "/202504/85553-gold-market-sees-temporary-pullback-amid-record-setting-performance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/21/iris1Lwy.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

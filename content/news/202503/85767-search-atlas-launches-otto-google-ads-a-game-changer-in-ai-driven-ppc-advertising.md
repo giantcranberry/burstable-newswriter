@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/search-atlas-revolutionizes-ppc-with-o
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/1c58359744ea437f558c6d2315bc4a51.png"
 article_id = 85767
 feed_item_id = 12266
-url = "/news/202503/85767-search-atlas-launches-otto-google-ads-a-game-changer-in-ai-driven-ppc-advertising"
+url = "/202503/85767-search-atlas-launches-otto-google-ads-a-game-changer-in-ai-driven-ppc-advertising"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/27/poemzMJH.webp"
 source = "Press Services"
 +++

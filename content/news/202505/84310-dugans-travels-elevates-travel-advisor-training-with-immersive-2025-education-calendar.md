@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523330/dugans-trav
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84310
 feed_item_id = 14784
-url = "/news/202505/84310-dugans-travels-elevates-travel-advisor-training-with-immersive-2025-education-calendar"
+url = "/202505/84310-dugans-travels-elevates-travel-advisor-training-with-immersive-2025-education-calendar"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/30/ideaeUKr.webp"
 source = "24-7 Press Release"
 +++

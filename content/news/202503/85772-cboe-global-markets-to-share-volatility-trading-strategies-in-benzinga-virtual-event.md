@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/benzinga-virtual-events-present
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85772
 feed_item_id = 12255
-url = "/news/202503/85772-cboe-global-markets-to-share-volatility-trading-strategies-in-benzinga-virtual-event"
+url = "/202503/85772-cboe-global-markets-to-share-volatility-trading-strategies-in-benzinga-virtual-event"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/27/iconmoyf.webp"
 source = "NewMediaWire"
 +++

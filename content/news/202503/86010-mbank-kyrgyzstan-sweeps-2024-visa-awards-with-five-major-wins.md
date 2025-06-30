@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520098/mbank-kyrgy
 enclosure = "https://cdn.newsramp.app/banners/awards-2.jpg"
 article_id = 86010
 feed_item_id = 11542
-url = "/news/202503/86010-mbank-kyrgyzstan-sweeps-2024-visa-awards-with-five-major-wins"
+url = "/202503/86010-mbank-kyrgyzstan-sweeps-2024-visa-awards-with-five-major-wins"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/3/nukehp4E.webp"
 source = "24-7 Press Release"
 +++

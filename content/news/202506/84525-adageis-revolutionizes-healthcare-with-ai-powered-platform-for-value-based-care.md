@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/adageis-allows-healthcar
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84525
 feed_item_id = 15515
-url = "/news/202506/84525-adageis-revolutionizes-healthcare-with-ai-powered-platform-for-value-based-care"
+url = "/202506/84525-adageis-revolutionizes-healthcare-with-ai-powered-platform-for-value-based-care"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/mark3IGo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

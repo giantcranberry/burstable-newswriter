@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521183/the-wish-co
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85716
 feed_item_id = 12419
-url = "/news/202504/85716-downtown-mystics-new-album-the-wish-set-to-uplift-global-audiences-with-positive-vibes"
+url = "/202504/85716-downtown-mystics-new-album-the-wish-set-to-uplift-global-audiences-with-positive-vibes"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/chipOgBM.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702320/all-in-one-cre-software-mak
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84168
 feed_item_id = 15207
-url = "/news/202506/84168-cove-secures-strategic-growth-investment-to-revolutionize-commercial-real-estate-management"
+url = "/202506/84168-cove-secures-strategic-growth-investment-to-revolutionize-commercial-real-estate-management"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/ideazxvr.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202504241507/newsramp-partners-with-pr
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 85498
 feed_item_id = 13204
-url = "/news/202504/85498-strategic-partnership-aims-to-revolutionize-content-syndication-and-amplification"
+url = "/202504/85498-strategic-partnership-aims-to-revolutionize-content-syndication-and-amplification"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/254/24/veilWFCi.webp"
 source = "Newsworthy.ai"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/trump-pledges-support-to
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85202
 feed_item_id = 14454
-url = "/news/202505/85202-us-and-uae-forge-200-billion-ai-partnership-under-trumps-leadership"
+url = "/202505/85202-us-and-uae-forge-200-billion-ai-partnership-under-trumps-leadership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/limeh6HR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

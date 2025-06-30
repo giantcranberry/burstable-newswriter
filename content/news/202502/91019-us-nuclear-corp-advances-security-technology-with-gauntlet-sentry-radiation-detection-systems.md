@@ -1,0 +1,16 @@
++++
+title = "US Nuclear Corp. Advances Security Technology with Gauntlet Sentry Radiation Detection Systems"
+date = "2025-02-26T13:45:19Z"
+draft = false
+summary = "US Nuclear Corp. is enhancing border and facility security through its Gauntlet Sentry Radiation Detection Systems, alongside exploring strategic financial and operational efficiencies."
+description = "US Nuclear Corp. announces quotes for Gauntlet Sentry Radiation Detection Systems and potential merger, signaling growth and cost-saving initiatives. Learn how these strategic moves can impact the company's future."
+source_link = "https://www.newmediawire.com/news/us-nuclear-corp-announces-the-first-quote-requests-for-50-100-gauntlet-sentry-radiation-detection-systems-for-border-security-7079579"
+enclosure = "https://cdn.newsramp.app/banners/science-3.jpg"
+article_id = 91019
+feed_item_id = 11163
+url = "/202502/91019-us-nuclear-corp-advances-security-technology-with-gauntlet-sentry-radiation-detection-systems"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/252/26/numbAvJ2.webp"
+source = "NewMediaWire"
++++
+
+<p>US Nuclear Corp. has initiated the process of quoting and delivering up to 80 Gauntlet Sentry Radiation Detection Systems to a border state housing nuclear reactor sites, showcasing a leap forward in security technology. The Gauntlet Sentry system, developed by US Nuclear Corp., is designed for comprehensive detection, capable of identifying radiation and explosives, thereby offering a robust solution for enhancing security measures.</p><p>Bob Goldstein, President of US Nuclear Corp., underscored the system's adaptability, pointing to its wide-ranging applications from border security to safeguarding government buildings and military installations. A notable feature of the Gauntlet Sentry system is its ability to detect Tritium, an essential component in nuclear fusion research, further broadening its utility in critical security and scientific applications.</p><p>The company's Overhoff Technology division has seen a notable increase in demand, recently finalizing a significant deal for 10 400SB and 15 357Rm Tritium air monitors, with an estimated value of $500,000, set for delivery in the second quarter. This uptick in orders reflects the growing need for advanced radiation detection solutions in various sectors.</p><p>On the financial front, US Nuclear Corp. is engaged in advanced merger discussions that could bolster its annual revenues by $4-5 million and net income by $1-1.5 million. These discussions, expected to conclude in the second quarter following due diligence, highlight the company's strategic approach to growth and market expansion.</p><p>Operational efficiencies are also a key focus for US Nuclear Corp., with the merger of its Los Angeles and Ohio operations over halfway complete. This consolidation is anticipated to yield substantial cost savings, estimated at $60-80,000 per month, or nearly $1 million annually, contributing approximately $0.02 per share in savings. These initiatives underscore US Nuclear Corp.'s dedication to innovation, strategic growth, and operational excellence in the fields of radiation detection and security technology.</p>

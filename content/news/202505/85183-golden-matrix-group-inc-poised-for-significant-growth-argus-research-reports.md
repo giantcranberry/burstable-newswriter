@@ -8,7 +8,7 @@ source_link = "https://meridianbet.reportablenews.com/pr/argus-research-reaffirm
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/5b0717a42d147a80b5339fb69c22286e.png"
 article_id = 85183
 feed_item_id = 14576
-url = "/news/202505/85183-golden-matrix-group-inc-poised-for-significant-growth-argus-research-reports"
+url = "/202505/85183-golden-matrix-group-inc-poised-for-significant-growth-argus-research-reports"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/23/jolty98o.webp"
 source = "Reportable"
 +++

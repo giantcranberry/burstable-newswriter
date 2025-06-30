@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/blackwell-3d-retains-sajjad-hus
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85913
 feed_item_id = 11774
-url = "/news/202503/85913-blackwell-3d-construction-corp-appoints-sajjad-hussain-to-spearhead-dubai-south-project"
+url = "/202503/85913-blackwell-3d-construction-corp-appoints-sajjad-hussain-to-spearhead-dubai-south-project"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/10/ninae_6q.webp"
 source = "NewMediaWire"
 +++

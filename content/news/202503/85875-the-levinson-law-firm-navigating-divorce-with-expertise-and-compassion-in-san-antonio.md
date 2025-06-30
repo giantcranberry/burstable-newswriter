@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520606/the-levinso
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 85875
 feed_item_id = 11905
-url = "/news/202503/85875-the-levinson-law-firm-navigating-divorce-with-expertise-and-compassion-in-san-antonio"
+url = "/202503/85875-the-levinson-law-firm-navigating-divorce-with-expertise-and-compassion-in-san-antonio"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/14/dualFA_n.webp"
 source = "24-7 Press Release"
 +++

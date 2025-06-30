@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/abolishing-the-irs-risks-for-taxpayers
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/ca5e219730ab23b5c8c66be591959816.jpg"
 article_id = 86046
 feed_item_id = 11482
-url = "/news/202502/86046-proposed-overhaul-of-us-tax-system-could-replace-irs-with-tariff-based-revenue-service"
+url = "/202502/86046-proposed-overhaul-of-us-tax-system-could-replace-irs-with-tariff-based-revenue-service"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/252/28/hushT6Rp.webp"
 source = "Press Services"
 +++

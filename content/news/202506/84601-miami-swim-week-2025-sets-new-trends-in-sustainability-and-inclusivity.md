@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521205/miami-swim-
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-2.jpg"
 article_id = 84601
 feed_item_id = 15378
-url = "/news/202506/84601-miami-swim-week-2025-sets-new-trends-in-sustainability-and-inclusivity"
+url = "/202506/84601-miami-swim-week-2025-sets-new-trends-in-sustainability-and-inclusivity"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/9/flax1eUB.webp"
 source = "24-7 Press Release"
 +++

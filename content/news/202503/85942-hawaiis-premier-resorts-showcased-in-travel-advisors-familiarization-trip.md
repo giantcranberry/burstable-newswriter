@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520348/dugans-trav
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85942
 feed_item_id = 11673
-url = "/news/202503/85942-hawaiis-premier-resorts-showcased-in-travel-advisors-familiarization-trip"
+url = "/202503/85942-hawaiis-premier-resorts-showcased-in-travel-advisors-familiarization-trip"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/6/lossc49G.webp"
 source = "24-7 Press Release"
 +++

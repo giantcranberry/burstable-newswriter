@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/why-converting-evs-into-
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84116
 feed_item_id = 15375
-url = "/news/202506/84116-innovative-hybrid-conversion-of-evs-paves-the-way-for-greener-transportation"
+url = "/202506/84116-innovative-hybrid-conversion-of-evs-paves-the-way-for-greener-transportation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/yoga6yZ0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

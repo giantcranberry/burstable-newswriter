@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523574/hexrate-int
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84622
 feed_item_id = 15332
-url = "/news/202506/84622-hexrate-pioneers-ethical-ai-driven-instagram-growth-solutions"
+url = "/202506/84622-hexrate-pioneers-ethical-ai-driven-instagram-growth-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/7/quipgJqX.webp"
 source = "24-7 Press Release"
 +++

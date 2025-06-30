@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/four-seasons-arrives-in-coconut-
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 84777
 feed_item_id = 14757
-url = "/news/202505/84777-four-seasons-unveils-luxury-residential-project-in-miamis-coconut-grove"
+url = "/202505/84777-four-seasons-unveils-luxury-residential-project-in-miamis-coconut-grove"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/255/29/rainvHWt.webp"
 source = "Noticias Newswire"
 +++

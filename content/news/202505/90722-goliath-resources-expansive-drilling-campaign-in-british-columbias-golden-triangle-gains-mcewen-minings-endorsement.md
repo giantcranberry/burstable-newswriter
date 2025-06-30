@@ -1,0 +1,16 @@
++++
+title = "Goliath Resources' Expansive Drilling Campaign in British Columbia's Golden Triangle Gains McEwen Mining's Endorsement"
+date = "2025-05-28T13:50:08Z"
+draft = false
+summary = "Goliath Resources Limited's 40,000-meter drilling campaign at the Golddigger Property, aimed at expanding the Surebet high-grade gold discovery, receives strong support from McEwen Mining, highlighting the project's potential to uncover significant gold deposits in British Columbia's Golden Triangle."
+description = "Goliath Resources Limited launches largest drill program at Golddigger Property in British Columbia's Golden Triangle, with McEwen Mining applauding their data-driven approach. The focus on high-grade gold expansion and unlocking further value demonstrates the potential for growth and success in the region."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-mcewen-mining-inc-nyse-mux-tsx-mux-recognizes-goliath-resources-tsx-v-got-otcqb-gotrf-as-40000-meter-drill-campaign-launches-at-surebet-discovery/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 90722
+feed_item_id = 14683
+url = "/202505/90722-goliath-resources-expansive-drilling-campaign-in-british-columbias-golden-triangle-gains-mcewen-minings-endorsement"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/28/veilaVkZ.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Goliath Resources Limited has announced a comprehensive 40,000-meter drilling campaign at the Golddigger Property in British Columbia's Golden Triangle, focusing on the expansion of the Surebet high-grade gold discovery. This ambitious 2025 exploration program is designed to further understand and develop the mineralized system by targeting both lateral and vertical expansions, with a particular focus on exploring multiple feeder dykes and structural intersections.</p><p>Having already completed over 92,000 meters of drilling, Goliath Resources has leveraged advanced geological modeling developed in collaboration with the Colorado School of Mines. This data-driven approach has led to the identification of Eocene-aged dykes as significant hosts of high-grade gold deposits, a revelation that underscores the untapped potential of the area.</p><p>The project has garnered strong support from McEwen Mining, a leading gold and silver producer with operations worldwide. McEwen Mining's endorsement highlights the strategic importance of Goliath Resources' exploration efforts in the Golden Triangle, a region renowned for its mineral potential. The drilling campaign represents a critical step in unraveling the geological complexities of the area, with implications for the future of gold mining in Canada.</p><p>The collaboration between Goliath Resources and academic institutions like the Colorado School of Mines exemplifies the innovative approaches being employed to unlock the value of the vertically stacked vein system at the Golddigger Property. With the backing of industry leaders such as McEwen Mining, the project is poised to make significant contributions to the understanding and development of high-grade gold deposits in British Columbia's Golden Triangle.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/ethema-files-annual-report-7080
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84807
 feed_item_id = 14582
-url = "/news/202505/84807-ethema-health-corporation-reports-growth-and-expansion-amid-challenges"
+url = "/202505/84807-ethema-health-corporation-reports-growth-and-expansion-amid-challenges"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/23/herbPvMk.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523159/the-new-tra
 enclosure = "https://cdn.newsramp.app/banners/travel-2.jpg"
 article_id = 84370
 feed_item_id = 14606
-url = "/news/202505/84370-the-guide-a-revolutionary-device-enhancing-traveler-safety-launches-on-kickstarter"
+url = "/202505/84370-the-guide-a-revolutionary-device-enhancing-traveler-safety-launches-on-kickstarter"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/fastthOy.webp"
 source = "24-7 Press Release"
 +++

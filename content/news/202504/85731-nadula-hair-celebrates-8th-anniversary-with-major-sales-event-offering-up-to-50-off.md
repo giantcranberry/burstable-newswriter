@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521201/nadula-cele
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-3.jpg"
 article_id = 85731
 feed_item_id = 12376
-url = "/news/202504/85731-nadula-hair-celebrates-8th-anniversary-with-major-sales-event-offering-up-to-50-off"
+url = "/202504/85731-nadula-hair-celebrates-8th-anniversary-with-major-sales-event-offering-up-to-50-off"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/1/epicFpAP.webp"
 source = "24-7 Press Release"
 +++

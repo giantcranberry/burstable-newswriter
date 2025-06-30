@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/wytec-begins-sales-of-its-multi
 enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
 article_id = 85846
 feed_item_id = 12019
-url = "/news/202503/85846-wytec-international-launches-ai-powered-gunshot-detection-system-under-new-government-contract"
+url = "/202503/85846-wytec-international-launches-ai-powered-gunshot-detection-system-under-new-government-contract"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/18/icyJ3zn.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-s-upcoming-system-upgrades-
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/dec56bdc345f1603f0dbf5ec7693b1d1.jpg"
 article_id = 85889
 feed_item_id = 11851
-url = "/news/202503/85889-ugi-utilities-launches-major-gas-main-replacement-project-in-emmaus-pennsylvania"
+url = "/202503/85889-ugi-utilities-launches-major-gas-main-replacement-project-in-emmaus-pennsylvania"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/12/tile1H_O.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/bloomberg-intelligence-s
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85585
 feed_item_id = 12918
-url = "/news/202504/85585-gold-prices-could-skyrocket-to-4000-per-ounce-predicts-bloomberg-strategist"
+url = "/202504/85585-gold-prices-could-skyrocket-to-4000-per-ounce-predicts-bloomberg-strategist"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/16/ninap3tU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

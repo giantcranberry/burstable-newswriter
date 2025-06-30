@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/the-american-states-wher
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85403
 feed_item_id = 13655
-url = "/news/202504/85403-electric-vehicle-adoption-surges-as-long-term-savings-outweigh-initial-costs"
+url = "/202504/85403-electric-vehicle-adoption-surges-as-long-term-savings-outweigh-initial-costs"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/camcHRRJ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

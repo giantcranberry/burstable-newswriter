@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520485/benefits-of
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 85886
 feed_item_id = 11859
-url = "/news/202503/85886-the-critical-role-of-family-law-attorneys-in-child-custody-cases"
+url = "/202503/85886-the-critical-role-of-family-law-attorneys-in-child-custody-cases"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/13/poemHo2j.webp"
 source = "24-7 Press Release"
 +++

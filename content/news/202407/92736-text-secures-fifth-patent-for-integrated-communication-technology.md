@@ -1,0 +1,16 @@
++++
+title = "Text Secures Fifth Patent for Integrated Communication Technology"
+date = "2024-07-29T09:40:10Z"
+draft = false
+summary = "Text's latest patent for integrating asynchronous and real-time communication channels could revolutionize business and customer interactions, enhancing efficiency and user experience."
+description = "Text, a global leader in B2B text communication solutions, secures its fifth patent in the United States. The patented &#34;system and method&#34; enables the seamless integration of asynchronous communication channels with real-time communication within a single platform, offering increased efficiency, user experience, and accessibility for individuals and organizations."
+source_link = "https://newsdirect.com/news/text-patents-a-method-for-combining-asynchronous-and-real-time-communication-143788012"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 92736
+feed_item_id = 5313
+url = "/202407/92736-text-secures-fifth-patent-for-integrated-communication-technology"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/247/29/flaxHWgO.webp"
+source = "News Direct"
++++
+
+<p>Text, a global leader in B2B text communication solutions, has recently been awarded its fifth patent by the United States Patent and Trademark Office (USPTO). This patent introduces a system and method that seamlessly integrates asynchronous communication channels with real-time communication within a single platform. This innovation is set to address the modern demand for flexible communication solutions, enabling users to switch between different modes of interaction without the need to change platforms.</p><p>Konrad Kruk, Head of Widget and the patent's author, highlights the technology's ability to cater to diverse communication needs. Whether it's the immediacy of real-time interaction or the convenience of asynchronous messaging, Text's solution ensures that businesses can adapt to their customers' preferences without compromising on efficiency or experience. The technology not only streamlines communication but also enhances record-keeping for legal and compliance purposes, making it a valuable tool across various industries.</p><p>Katarzyna Rogowska, head of Text's legal department, underscores the significance of this achievement, noting it reinforces Text's reputation as a technological innovator. With its potential to transform customer service, remote work, and collaborative projects, this patented technology could set a new benchmark for integrated communication platforms.</p><p>Formerly known as LiveChat, Text has a strong presence in the global market, with its products serving thousands of companies worldwide. This latest patent not only cements its position as a leader in the communication technology sector but also signals its commitment to pioneering solutions that meet the evolving needs of businesses and individuals alike. As the demand for more efficient and integrated communication solutions grows, Text's innovative approach offers a promising glimpse into the future of digital interaction.</p>

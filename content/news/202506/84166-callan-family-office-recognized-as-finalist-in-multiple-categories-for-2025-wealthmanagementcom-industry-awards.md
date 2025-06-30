@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/callan-family-office-named-a-finalist
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84166
 feed_item_id = 15213
-url = "/news/202506/84166-callan-family-office-recognized-as-finalist-in-multiple-categories-for-2025-wealthmanagementcom-industry-awards"
+url = "/202506/84166-callan-family-office-recognized-as-finalist-in-multiple-categories-for-2025-wealthmanagementcom-industry-awards"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/navyHNcY.webp"
 source = "News Direct"
 +++

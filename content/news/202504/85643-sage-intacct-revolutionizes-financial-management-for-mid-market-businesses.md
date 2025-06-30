@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521314/is-your-bus
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85643
 feed_item_id = 12645
-url = "/news/202504/85643-sage-intacct-revolutionizes-financial-management-for-mid-market-businesses"
+url = "/202504/85643-sage-intacct-revolutionizes-financial-management-for-mid-market-businesses"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/10/tintWTqu.webp"
 source = "24-7 Press Release"
 +++

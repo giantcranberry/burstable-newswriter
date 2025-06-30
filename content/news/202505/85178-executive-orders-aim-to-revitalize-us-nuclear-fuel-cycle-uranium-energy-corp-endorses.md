@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-uraniu
 enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
 article_id = 85178
 feed_item_id = 14628
-url = "/news/202505/85178-executive-orders-aim-to-revitalize-us-nuclear-fuel-cycle-uranium-energy-corp-endorses"
+url = "/202505/85178-executive-orders-aim-to-revitalize-us-nuclear-fuel-cycle-uranium-energy-corp-endorses"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/viben5nz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

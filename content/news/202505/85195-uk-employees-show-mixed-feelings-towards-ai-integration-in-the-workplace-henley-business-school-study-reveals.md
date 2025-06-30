@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/study-finds-employees-o
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85195
 feed_item_id = 14485
-url = "/news/202505/85195-uk-employees-show-mixed-feelings-towards-ai-integration-in-the-workplace-henley-business-school-study-reveals"
+url = "/202505/85195-uk-employees-show-mixed-feelings-towards-ai-integration-in-the-workplace-henley-business-school-study-reveals"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/22/takeArc6.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

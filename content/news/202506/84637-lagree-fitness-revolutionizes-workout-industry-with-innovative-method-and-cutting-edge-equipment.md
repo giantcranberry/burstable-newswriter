@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702692/qa-with-sebastien-lagree-fo
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 84637
 feed_item_id = 15307
-url = "/news/202506/84637-lagree-fitness-revolutionizes-workout-industry-with-innovative-method-and-cutting-edge-equipment"
+url = "/202506/84637-lagree-fitness-revolutionizes-workout-industry-with-innovative-method-and-cutting-edge-equipment"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/iconDDG9.webp"
 source = "citybiz"
 +++

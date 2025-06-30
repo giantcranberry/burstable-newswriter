@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/b855a50c5ceb3afb62bf77fb79750e39.jpg"
 article_id = 85430
 feed_item_id = 13581
-url = "/news/202504/85430-alliance-resource-partners-navigates-market-challenges-with-strategic-adaptability-in-q1-2025"
+url = "/202504/85430-alliance-resource-partners-navigates-market-challenges-with-strategic-adaptability-in-q1-2025"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/29/joinbM72.webp"
 source = "Reportable"
 +++

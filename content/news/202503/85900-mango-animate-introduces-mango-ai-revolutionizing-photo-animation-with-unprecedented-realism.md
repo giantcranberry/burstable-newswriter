@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520481/mango-ai-an
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85900
 feed_item_id = 11821
-url = "/news/202503/85900-mango-animate-introduces-mango-ai-revolutionizing-photo-animation-with-unprecedented-realism"
+url = "/202503/85900-mango-animate-introduces-mango-ai-revolutionizing-photo-animation-with-unprecedented-realism"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/12/lendpTOr.webp"
 source = "24-7 Press Release"
 +++

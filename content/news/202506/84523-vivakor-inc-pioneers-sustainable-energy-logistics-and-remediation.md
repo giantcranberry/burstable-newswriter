@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-why-vi
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84523
 feed_item_id = 15521
-url = "/news/202506/84523-vivakor-inc-pioneers-sustainable-energy-logistics-and-remediation"
+url = "/202506/84523-vivakor-inc-pioneers-sustainable-energy-logistics-and-remediation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/nina9vV_.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

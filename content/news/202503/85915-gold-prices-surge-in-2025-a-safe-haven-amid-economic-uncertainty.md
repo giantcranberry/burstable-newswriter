@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/mining-for-profits-the-top-gold-stock
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85915
 feed_item_id = 11770
-url = "/news/202503/85915-gold-prices-surge-in-2025-a-safe-haven-amid-economic-uncertainty"
+url = "/202503/85915-gold-prices-surge-in-2025-a-safe-haven-amid-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/10/ableerC9.webp"
 source = "News Direct"
 +++

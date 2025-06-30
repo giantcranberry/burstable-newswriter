@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85207
 feed_item_id = 14422
-url = "/news/202505/85207-solarbank-corporation-unveils-strategic-renewable-energy-expansion-amid-100-million-deal"
+url = "/202505/85207-solarbank-corporation-unveils-strategic-renewable-energy-expansion-amid-100-million-deal"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/milk3lRf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

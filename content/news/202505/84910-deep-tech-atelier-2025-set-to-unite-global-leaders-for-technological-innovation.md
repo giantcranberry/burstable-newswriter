@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522803/roonyx-expl
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 84910
 feed_item_id = 14211
-url = "/news/202505/84910-deep-tech-atelier-2025-set-to-unite-global-leaders-for-technological-innovation"
+url = "/202505/84910-deep-tech-atelier-2025-set-to-unite-global-leaders-for-technological-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/ninobeiE.webp"
 source = "24-7 Press Release"
 +++

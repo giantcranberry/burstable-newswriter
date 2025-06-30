@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/m-finance-launches-deepseek-ai-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85695
 feed_item_id = 12482
-url = "/news/202504/85695-m-finance-launches-ai-powered-tool-to-revolutionize-forex-and-bullion-market-analysis"
+url = "/202504/85695-m-finance-launches-ai-powered-tool-to-revolutionize-forex-and-bullion-market-analysis"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/3/clubzUVC.webp"
 source = "NewMediaWire"
 +++

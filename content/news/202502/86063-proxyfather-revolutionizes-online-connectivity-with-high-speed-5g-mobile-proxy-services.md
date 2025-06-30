@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/elevate-your-online-experience-with-th
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/1f02e79e52e97e202379ede48a68ff76.jpg"
 article_id = 86063
 feed_item_id = 11239
-url = "/news/202502/86063-proxyfather-revolutionizes-online-connectivity-with-high-speed-5g-mobile-proxy-services"
+url = "/202502/86063-proxyfather-revolutionizes-online-connectivity-with-high-speed-5g-mobile-proxy-services"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/252/28/eachwr1i.webp"
 source = "Press Services"
 +++

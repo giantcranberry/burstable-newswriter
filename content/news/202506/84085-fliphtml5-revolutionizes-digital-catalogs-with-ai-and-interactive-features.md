@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523676/fliphtml5-s
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84085
 feed_item_id = 15465
-url = "/news/202506/84085-fliphtml5-revolutionizes-digital-catalogs-with-ai-and-interactive-features"
+url = "/202506/84085-fliphtml5-revolutionizes-digital-catalogs-with-ai-and-interactive-features"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/11/lamb_HEY.webp"
 source = "24-7 Press Release"
 +++

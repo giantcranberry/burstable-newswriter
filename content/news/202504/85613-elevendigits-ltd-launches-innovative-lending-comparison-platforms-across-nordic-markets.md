@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521789/elevendigit
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 85613
 feed_item_id = 12755
-url = "/news/202504/85613-elevendigits-ltd-launches-innovative-lending-comparison-platforms-across-nordic-markets"
+url = "/202504/85613-elevendigits-ltd-launches-innovative-lending-comparison-platforms-across-nordic-markets"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/15/arch2Ub8.webp"
 source = "24-7 Press Release"
 +++

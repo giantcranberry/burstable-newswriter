@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522554/gift-card-o
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85321
 feed_item_id = 13903
-url = "/news/202505/85321-onlinecheckwritercom-introduces-innovative-gift-card-solution-to-streamline-digital-payments"
+url = "/202505/85321-onlinecheckwritercom-introduces-innovative-gift-card-solution-to-streamline-digital-payments"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/8/fileKcxt.webp"
 source = "24-7 Press Release"
 +++

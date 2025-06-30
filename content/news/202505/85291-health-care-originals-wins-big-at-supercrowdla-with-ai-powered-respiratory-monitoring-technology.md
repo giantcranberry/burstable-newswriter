@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522665/health-care
 enclosure = "https://cdn.newsramp.app/banners/awards-3.jpg"
 article_id = 85291
 feed_item_id = 14003
-url = "/news/202505/85291-health-care-originals-wins-big-at-supercrowdla-with-ai-powered-respiratory-monitoring-technology"
+url = "/202505/85291-health-care-originals-wins-big-at-supercrowdla-with-ai-powered-respiratory-monitoring-technology"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/11/oxenmDqY.webp"
 source = "24-7 Press Release"
 +++

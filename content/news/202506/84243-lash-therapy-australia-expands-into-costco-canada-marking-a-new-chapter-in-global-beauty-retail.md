@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/lash-therapy-continues-to-grow-intern
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 84243
 feed_item_id = 14998
-url = "/news/202506/84243-lash-therapy-australia-expands-into-costco-canada-marking-a-new-chapter-in-global-beauty-retail"
+url = "/202506/84243-lash-therapy-australia-expands-into-costco-canada-marking-a-new-chapter-in-global-beauty-retail"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/3/eachOpuy.webp"
 source = "News Direct"
 +++

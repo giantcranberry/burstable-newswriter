@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520256/lincplus-re
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85969
 feed_item_id = 11607
-url = "/news/202503/85969-lincplus-introduces-next-generation-nas-devices-to-transform-data-storage"
+url = "/202503/85969-lincplus-introduces-next-generation-nas-devices-to-transform-data-storage"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/ovalPmIR.webp"
 source = "24-7 Press Release"
 +++

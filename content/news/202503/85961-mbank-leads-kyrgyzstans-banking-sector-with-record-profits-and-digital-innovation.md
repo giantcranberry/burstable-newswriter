@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520260/mbank-tops-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85961
 feed_item_id = 11619
-url = "/news/202503/85961-mbank-leads-kyrgyzstans-banking-sector-with-record-profits-and-digital-innovation"
+url = "/202503/85961-mbank-leads-kyrgyzstans-banking-sector-with-record-profits-and-digital-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/filejf9L.webp"
 source = "24-7 Press Release"
 +++

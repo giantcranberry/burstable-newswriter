@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-will-launch
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84367
 feed_item_id = 14617
-url = "/news/202505/84367-healthcare-triangle-launches-quantumnexis-to-revolutionize-healthcare-with-generative-ai"
+url = "/202505/84367-healthcare-triangle-launches-quantumnexis-to-revolutionize-healthcare-with-generative-ai"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/27/numbmo2T.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-innersco
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-1.jpg"
 article_id = 85492
 feed_item_id = 13228
-url = "/news/202504/85492-innerscope-hearing-technologies-launches-otchealthmartcom-to-revolutionize-access-to-affordable-healthcare-products"
+url = "/202504/85492-innerscope-hearing-technologies-launches-otchealthmartcom-to-revolutionize-access-to-affordable-healthcare-products"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/larkiCFl.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

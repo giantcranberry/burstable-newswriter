@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523103/plus-1-app-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84823
 feed_item_id = 14534
-url = "/news/202505/84823-plus-1-app-launches-to-revolutionize-social-connections-through-shared-experiences"
+url = "/202505/84823-plus-1-app-launches-to-revolutionize-social-connections-through-shared-experiences"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/leanC0Br.webp"
 source = "24-7 Press Release"
 +++

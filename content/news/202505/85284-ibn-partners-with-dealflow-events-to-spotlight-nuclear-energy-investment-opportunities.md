@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-ibn-ta
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85284
 feed_item_id = 14025
-url = "/news/202505/85284-ibn-partners-with-dealflow-events-to-spotlight-nuclear-energy-investment-opportunities"
+url = "/202505/85284-ibn-partners-with-dealflow-events-to-spotlight-nuclear-energy-investment-opportunities"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/12/nino7pDN.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

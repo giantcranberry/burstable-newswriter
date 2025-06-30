@@ -1,0 +1,16 @@
++++
+title = "PathAI Introduces AIM-IHC Breast Panel for Enhanced Breast Cancer Diagnostics"
+date = "2024-12-09T15:05:13Z"
+draft = false
+summary = "PathAI's new AIM-IHC Breast Panel leverages AI to improve the accuracy and efficiency of breast cancer biomarker quantification, marking a significant advancement in pathology."
+description = "PathAI launches the AIM-IHC Breast Panel, a comprehensive set of AI-assisted algorithms designed to quantify critical breast cancer biomarkers, enhancing precision and workflow efficiency for pathology labs."
+source_link = "https://newsdirect.com/news/pathai-launches-aim-ihc-breast-panel-on-aisight-r-platform-to-streamline-breast-cancer-biomarker-quantification-and-improve-pathologist-efficiency-183049207"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
+article_id = 91576
+feed_item_id = 9230
+url = "/202412/91576-pathai-introduces-aim-ihc-breast-panel-for-enhanced-breast-cancer-diagnostics"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2412/9/epicTyC3.webp"
+source = "News Direct"
++++
+
+<p>PathAI has launched the AIM-IHC Breast Panel, a cutting-edge AI-powered tool designed to revolutionize breast cancer diagnostics by quantifying key biomarkers with high accuracy. This innovation, available on the AISight® Image Management System, aims to standardize and enhance the reliability of immunohistochemistry (IHC) image analysis, addressing a critical need in pathology.</p><p>The AIM-IHC Breast Panel features automated tissue segmentation and the detection of on-slide controls, distinguishing between invasive and non-invasive cancer areas. This capability not only streamlines pathologist workflows but also improves the precision of invasive cancer segmentation, offering a significant leap forward in diagnostic processes.</p><p>Andrew Beck, CEO of PathAI, highlighted the tool's role in advancing precision pathology, stating the company's dedication to empowering pathologists with AI technology for more accurate and efficient assessments. The panel's introduction is a response to the challenges of traditional biomarker quantification methods, such as the labor-intensive Ki-67 scoring, by providing automated, percentage-based results for positive cancer cells.</p><p>Part of PathAI's broader suite of AI solutions on the AISight® IMS, the AIM-IHC Breast Panel is set to transform pathology labs by centralizing workflows and integrating AI-driven tools. This not only promises to enhance the quality of breast cancer diagnostics and research but also has the potential to improve treatment decisions and patient outcomes.</p><p>Currently, the technology is designated for research use in the United States, while in Europe, the UK, and Switzerland, the AISight Dx system has achieved CE-IVD marking, complying with in vitro diagnostic medical device regulations. As PathAI expands its AI-powered offerings, the pathology field stands on the brink of a significant shift towards more efficient, accurate, and streamlined diagnostic processes.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/skkynet-reports-record-breaking
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85853
 feed_item_id = 12001
-url = "/news/202503/85853-skkynet-cloud-systems-reports-stellar-q1-2025-financial-growth-driven-by-industrial-data-communications-demand"
+url = "/202503/85853-skkynet-cloud-systems-reports-stellar-q1-2025-financial-growth-driven-by-industrial-data-communications-demand"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/18/barn3luP.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-standa
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85342
 feed_item_id = 13846
-url = "/news/202505/85342-standard-lithium-and-equinor-propose-groundbreaking-lithium-royalty-framework-in-arkansas"
+url = "/202505/85342-standard-lithium-and-equinor-propose-groundbreaking-lithium-royalty-framework-in-arkansas"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/6/jade16XE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

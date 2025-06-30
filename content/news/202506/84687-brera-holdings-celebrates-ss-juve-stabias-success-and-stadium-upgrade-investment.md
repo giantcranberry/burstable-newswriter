@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-brera-
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 84687
 feed_item_id = 15139
-url = "/news/202506/84687-brera-holdings-celebrates-ss-juve-stabias-success-and-stadium-upgrade-investment"
+url = "/202506/84687-brera-holdings-celebrates-ss-juve-stabias-success-and-stadium-upgrade-investment"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/larkMT6d.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

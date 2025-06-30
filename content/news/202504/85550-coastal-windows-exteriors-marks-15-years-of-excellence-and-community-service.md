@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522035/coastal-win
 enclosure = "https://cdn.newsramp.app/banners/non-profit-2.jpg"
 article_id = 85550
 feed_item_id = 13059
-url = "/news/202504/85550-coastal-windows-exteriors-marks-15-years-of-excellence-and-community-service"
+url = "/202504/85550-coastal-windows-exteriors-marks-15-years-of-excellence-and-community-service"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/22/fineI3Ht.webp"
 source = "24-7 Press Release"
 +++

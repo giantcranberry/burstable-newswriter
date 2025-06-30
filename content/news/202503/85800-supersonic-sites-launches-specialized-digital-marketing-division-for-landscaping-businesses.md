@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520948/a-new-era-f
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 85800
 feed_item_id = 12177
-url = "/news/202503/85800-supersonic-sites-launches-specialized-digital-marketing-division-for-landscaping-businesses"
+url = "/202503/85800-supersonic-sites-launches-specialized-digital-marketing-division-for-landscaping-businesses"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/25/xeno9IoX.webp"
 source = "24-7 Press Release"
 +++

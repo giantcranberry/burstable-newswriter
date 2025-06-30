@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521487/summitbound
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 85675
 feed_item_id = 12535
-url = "/news/202504/85675-meticulosity-acquires-summitbound-marketing-to-expand-inbound-marketing-capabilities"
+url = "/202504/85675-meticulosity-acquires-summitbound-marketing-to-expand-inbound-marketing-capabilities"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/6/knobxy6R.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/visionstate-provides-strategic-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85912
 feed_item_id = 11775
-url = "/news/202503/85912-visionstate-corp-pioneers-ai-and-technology-innovations-in-facility-management"
+url = "/202503/85912-visionstate-corp-pioneers-ai-and-technology-innovations-in-facility-management"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/10/oxenXG4e.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/tech-ceos-turn-to-ai-av
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85169
 feed_item_id = 14739
-url = "/news/202505/85169-ai-avatars-revolutionize-corporate-earnings-presentations"
+url = "/202505/85169-ai-avatars-revolutionize-corporate-earnings-presentations"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/vastFu92.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/nafas-2025-media-day-highlights-groun
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85442
 feed_item_id = 13551
-url = "/news/202504/85442-emerging-technologies-revolutionize-fleet-management-at-2025-nafa-expo"
+url = "/202504/85442-emerging-technologies-revolutionize-fleet-management-at-2025-nafa-expo"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/28/pinki_ef.webp"
 source = "News Direct"
 +++

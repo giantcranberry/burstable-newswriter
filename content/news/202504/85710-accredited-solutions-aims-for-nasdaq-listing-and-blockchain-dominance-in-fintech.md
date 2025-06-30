@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/accredited-solutions-otc-asii-i
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85710
 feed_item_id = 12442
-url = "/news/202504/85710-accredited-solutions-aims-for-nasdaq-listing-and-blockchain-dominance-in-fintech"
+url = "/202504/85710-accredited-solutions-aims-for-nasdaq-listing-and-blockchain-dominance-in-fintech"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/2/barnx6Ky.webp"
 source = "NewMediaWire"
 +++

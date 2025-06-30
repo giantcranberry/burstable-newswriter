@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-sprout
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 84316
 feed_item_id = 14766
-url = "/news/202505/84316-sprout-social-inc-garners-analyst-confidence-amid-market-challenges"
+url = "/202505/84316-sprout-social-inc-garners-analyst-confidence-amid-market-challenges"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/quitoVDa.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

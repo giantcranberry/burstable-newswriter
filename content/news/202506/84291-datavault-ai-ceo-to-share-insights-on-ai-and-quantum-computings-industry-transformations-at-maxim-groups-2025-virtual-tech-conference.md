@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-datavaul
 enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
 article_id = 84291
 feed_item_id = 14848
-url = "/news/202506/84291-datavault-ai-ceo-to-share-insights-on-ai-and-quantum-computings-industry-transformations-at-maxim-groups-2025-virtual-tech-conference"
+url = "/202506/84291-datavault-ai-ceo-to-share-insights-on-ai-and-quantum-computings-industry-transformations-at-maxim-groups-2025-virtual-tech-conference"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/diveHLeV.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Marqeta Faces Securities Class Action Lawsuits Over Alleged Misleading Statements"
+date = "2024-12-30T15:06:04Z"
+draft = false
+summary = "Marqeta, Inc. is under scrutiny as securities class action lawsuits allege the company made false and misleading statements about its business outlook, impacting investors and highlighting regulatory challenges in the fintech sector."
+description = "Learn about the securities fraud class action lawsuit filed against Marqeta, Inc. by Kessler Topaz Meltzer & Check, LLP. Investors have until February 7, 2025, to seek appointment as lead plaintiff representatives. Take action now to protect your investment."
+source_link = "https://www.newmediawire.com/news/mq-investor-alert-contact-kessler-topaz-meltzer-check-llp-about-the-securities-fraud-class-action-lawsuit-filed-against-marqeta-inc-mq-7078757"
+enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
+article_id = 91447
+feed_item_id = 9739
+url = "/202412/91447-marqeta-faces-securities-class-action-lawsuits-over-alleged-misleading-statements"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2412/30/pavexzRY.webp"
+source = "NewMediaWire"
++++
+
+<p>Multiple securities class action lawsuits have been filed against Marqeta, Inc. (NASDAQ: MQ) in the United States District Court for the Northern District of California, alleging the company made materially false and misleading statements about its business outlook. These allegations concern investors who purchased or acquired Marqeta securities between May 7, 2024, and November 4, 2024, with the law firm of Kessler Topaz Meltzer & Check, LLP alerting investors to the approaching lead plaintiff deadline of February 7, 2025.</p><p>The complaints accuse Marqeta of understating regulatory challenges and failing to disclose the need to reduce its guidance for the fourth quarter of 2024, rendering its statements about business operations and prospects materially false and misleading. This situation poses significant implications for Marqeta investors and the fintech sector at large, potentially indicating a pattern of misleading investor communication and underscoring the importance of regulatory compliance and transparency.</p><p>Investors affected by these alleged misrepresentations are encouraged to consider their legal options, with the lead plaintiff role offering a chance to direct litigation and select counsel. Kessler Topaz Meltzer & Check, LLP, known for handling complex securities fraud cases, is providing information to affected investors, noting that serving as a lead plaintiff is not a prerequisite for sharing in any potential recovery.</p><p>This case highlights the challenges in the fintech sector, where innovation often outpaces regulatory compliance and risk management, reminding investors of the importance of due diligence. The outcome could influence how fintech companies communicate with investors and manage regulatory challenges, setting precedents for investor protection and corporate accountability in an increasingly scrutinized market environment.</p>

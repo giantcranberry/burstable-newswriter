@@ -1,0 +1,16 @@
++++
+title = "VueReal Strengthens Leadership Team with Appointment of Robert Selley as Chief Commercial Officer"
+date = "2025-02-11T14:50:29Z"
+draft = false
+summary = "VueReal appoints Robert Selley as CCO to drive global sales and business development, leveraging his 25 years of semiconductor industry experience to expand the company's market presence in key sectors."
+description = "VueReal announces the appointment of Robert Selley as Chief Commercial Officer, signaling a strategic move to drive global expansion and growth in the semiconductor industry. Mr. Selley's extensive experience will help accelerate VueReal's market presence and drive transformative solutions for customers."
+source_link = "https://vuereal.reportablenews.com/pr/vuereal-appoints-robert-selley-as-chief-commercial-officer"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/1e7fbba70d141f987127893426e64091.png"
+article_id = 91130
+feed_item_id = 10760
+url = "/202502/91130-vuereal-strengthens-leadership-team-with-appointment-of-robert-selley-as-chief-commercial-officer"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/252/11/jinxVhZu.webp"
+source = "Reportable"
++++
+
+<p>VueReal, a leader in MicroSolid Printing™ technology, has announced the appointment of Robert Selley as its new Chief Commercial Officer (CCO), a strategic move aimed at bolstering the company's commercial operations and market expansion efforts. Selley's extensive 25-year career in the semiconductor industry, including leadership roles at Nova Semiconductor, FormFactor, Cascade Microtech, and MKS, equips him with the expertise to drive VueReal's growth in lighting, consumer electronics, automotive, AR/VR, and healthcare sectors.</p><p>This appointment is timely, following VueReal's successful USD $40.5 million Series C funding round, which is set to scale production and enhance the company's global ecosystem. Selley's role will focus on overseeing global sales and business development, leveraging his proven track record in building high-performing teams and fostering key customer relationships to achieve revenue and margin growth.</p><p>Reza Chaji, VueReal's CEO, highlighted the strategic alignment of Selley's experience with the company's mission to innovate and deliver cutting-edge solutions. Tim Baxter, Chairman of the Board, also noted Selley's potential to accelerate the adoption of VueReal's platform and bring transformative solutions to the market.</p><p>Selley's academic credentials, including a bachelor's degree in International Business with a focus on Japanese studies from California State University Fullerton and an MBA from California State University San Marcos, complement his professional achievements. His addition to VueReal's leadership team underscores the company's commitment to innovation and expansion in the competitive semiconductor technology landscape.</p><p>The appointment of Selley is part of VueReal's broader strategy to strengthen its leadership team, with recent hires in semiconductor engineering, engineering, and operations. These strategic moves are designed to position VueReal for accelerated growth in the microLED display and micro semiconductor markets, signaling the company's ambition to lead in the rapidly evolving technology sector.</p>

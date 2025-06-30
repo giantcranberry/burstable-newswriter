@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/texas-mineral-resources-chairma
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85711
 feed_item_id = 12432
-url = "/news/202504/85711-texas-mineral-resources-chairman-to-highlight-domestic-mineral-production-at-harvard-business-school-conference"
+url = "/202504/85711-texas-mineral-resources-chairman-to-highlight-domestic-mineral-production-at-harvard-business-school-conference"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/2/camczK0u.webp"
 source = "NewMediaWire"
 +++

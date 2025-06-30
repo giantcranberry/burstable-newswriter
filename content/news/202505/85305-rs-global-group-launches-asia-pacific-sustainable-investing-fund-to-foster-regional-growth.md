@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522592/rs-global-g
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85305
 feed_item_id = 13957
-url = "/news/202505/85305-rs-global-group-launches-asia-pacific-sustainable-investing-fund-to-foster-regional-growth"
+url = "/202505/85305-rs-global-group-launches-asia-pacific-sustainable-investing-fund-to-foster-regional-growth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/9/knobygDX.webp"
 source = "24-7 Press Release"
 +++

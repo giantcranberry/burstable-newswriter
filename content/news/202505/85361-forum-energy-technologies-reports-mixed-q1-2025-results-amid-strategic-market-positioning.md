@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/a8913cea9cee62215b83071d6fc84ec2.jpg"
 article_id = 85361
 feed_item_id = 13784
-url = "/news/202505/85361-forum-energy-technologies-reports-mixed-q1-2025-results-amid-strategic-market-positioning"
+url = "/202505/85361-forum-energy-technologies-reports-mixed-q1-2025-results-amid-strategic-market-positioning"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/5/clubyNSE.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ai-is-bound-to-replace-
 enclosure = "https://cdn.newsramp.app/banners/media-2.jpg"
 article_id = 84897
 feed_item_id = 14239
-url = "/news/202505/84897-ais-role-in-the-workplace-balancing-potential-with-prudence"
+url = "/202505/84897-ais-role-in-the-workplace-balancing-potential-with-prudence"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/knotk3eQ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

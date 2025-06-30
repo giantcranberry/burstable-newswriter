@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521593/hco-merges-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85645
 feed_item_id = 12642
-url = "/news/202504/85645-hco-and-lee-garner-cpa-merge-to-enhance-financial-services-offerings"
+url = "/202504/85645-hco-and-lee-garner-cpa-merge-to-enhance-financial-services-offerings"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/10/knobLbxE.webp"
 source = "24-7 Press Release"
 +++

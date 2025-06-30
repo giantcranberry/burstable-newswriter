@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/dubais-car-garage-expert-opens-all-in
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85151
 feed_item_id = 14967
-url = "/news/202506/85151-car-garage-expert-launches-exclusive-mercedes-benz-service-center-in-dubai"
+url = "/202506/85151-car-garage-expert-launches-exclusive-mercedes-benz-service-center-in-dubai"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/3/airyIdl0.webp"
 source = "News Direct"
 +++

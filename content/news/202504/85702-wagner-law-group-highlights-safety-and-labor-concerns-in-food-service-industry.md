@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521370/starbucks-c
 enclosure = "https://cdn.newsramp.app/banners/insurance-1.jpg"
 article_id = 85702
 feed_item_id = 12462
-url = "/news/202504/85702-wagner-law-group-highlights-safety-and-labor-concerns-in-food-service-industry"
+url = "/202504/85702-wagner-law-group-highlights-safety-and-labor-concerns-in-food-service-industry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/fastAJ2J.webp"
 source = "24-7 Press Release"
 +++

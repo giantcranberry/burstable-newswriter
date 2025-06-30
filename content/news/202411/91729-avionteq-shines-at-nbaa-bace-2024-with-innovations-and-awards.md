@@ -1,0 +1,16 @@
++++
+title = "AvionTEq Shines at NBAA-BACE 2024 with Innovations and Awards"
+date = "2024-11-18T08:00:08Z"
+draft = false
+summary = "AvionTEq's successful participation in NBAA-BACE 2024 highlights its commitment to aviation safety and efficiency through innovative test solutions and industry recognition."
+description = "AvionTEq's success at the 2024 NBAA-BACE and receipt of the 2024 Premier Partner Award from Flight Data Systems demonstrate the company's commitment to excellence and innovation in aviation testing and safety. Don't miss out on the exclusive promotions offered during the event and the upcoming trade shows."
+source_link = "https://www.24-7pressrelease.com/press-release/516281/avionteq-wraps-up-successful-nbaa-bace-2024-announces-the-uts100-raffle-winner"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0516281_211023.jpg"
+article_id = 91729
+feed_item_id = 8661
+url = "/202411/91729-avionteq-shines-at-nbaa-bace-2024-with-innovations-and-awards"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2411/18/riceC6bR.webp"
+source = "24-7 Press Release"
++++
+
+<p>AvionTEq, a leader in aviation test equipment, made a significant impact at the 2024 NBAA Business Aviation Convention & Exhibition (NBAA-BACE) by showcasing advanced avionics test solutions and engaging with industry professionals. The event, held from October 22-24 at the Las Vegas Convention Center, was a platform for AvionTEq to demonstrate its dedication to innovation and safety in aviation.</p><p>One of the highlights was the UTS100 raffle, which saw Dale Baker, Chief Mechanic of Clay Lacy Aviation, winning the grand prize. This event not only drew attention but also showcased AvionTEq's commitment to equipping aviation professionals with state-of-the-art tools. Furthermore, the company was honored with the 2024 Premier Partner Award by Flight Data Systems, a testament to its excellence in aviation testing and safety support.</p><p>AvionTEq also offered exclusive promotions at the convention, including a free accessory kit with certain purchases, discounts on services, and a free iPad with selected item purchases, aimed at enhancing operational efficiency and connectivity for attendees.</p><p>Looking forward, AvionTEq announced its participation in several upcoming trade shows, including VERTICON 2025, the AEA Convention 2025, and MRO Americas 2025, along with a return to next year's NBAA Show. These appearances underscore the company's ongoing commitment to industry engagement and innovation.</p><p>Fred Bostani, CEO of AvionTEq, expressed gratitude for the recognition and enthusiasm for future events, highlighting the company's role in advancing aviation safety and efficiency. AvionTEq's achievements and future plans emphasize the importance of technological advancement and collaboration in maintaining high standards in the aviation industry.</p><p>For aviation professionals, AvionTEq's involvement in major industry events offers a glimpse into the latest in avionics testing technology, ensuring access to reliable and up-to-date equipment. This commitment not only benefits the industry but also contributes to safer and more efficient air travel worldwide.</p>

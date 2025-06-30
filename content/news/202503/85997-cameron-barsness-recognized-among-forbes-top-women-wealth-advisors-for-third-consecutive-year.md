@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520236/cameron-bar
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
 article_id = 85997
 feed_item_id = 11563
-url = "/news/202503/85997-cameron-barsness-recognized-among-forbes-top-women-wealth-advisors-for-third-consecutive-year"
+url = "/202503/85997-cameron-barsness-recognized-among-forbes-top-women-wealth-advisors-for-third-consecutive-year"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/meangxYp.webp"
 source = "24-7 Press Release"
 +++

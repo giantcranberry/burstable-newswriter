@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520068/breacherai-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 86088
 feed_item_id = 11183
-url = "/news/202502/86088-breacherai-launches-innovative-platform-to-combat-ai-powered-deepfake-threats"
+url = "/202502/86088-breacherai-launches-innovative-platform-to-combat-ai-powered-deepfake-threats"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/27/lushNdFw.webp"
 source = "24-7 Press Release"
 +++

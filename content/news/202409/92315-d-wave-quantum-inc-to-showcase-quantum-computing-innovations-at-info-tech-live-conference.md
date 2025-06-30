@@ -1,0 +1,16 @@
++++
+title = "D-Wave Quantum Inc. to Showcase Quantum Computing Innovations at Info-Tech LIVE Conference"
+date = "2024-09-12T13:45:13Z"
+draft = false
+summary = "D-Wave Quantum Inc. will highlight the practical applications and growing importance of quantum computing at the Info-Tech LIVE conference, demonstrating its potential to transform industries."
+description = "D-Wave Quantum Inc. (QBTS) to participate in Info-Tech LIVE conference as a featured keynote speaker to discuss real-world hybrid-quantum use cases and the impact of quantum optimization on organizational efficiencies and competitiveness."
+source_link = "https://rss.investorbrandnetwork.com/ult-prem/d-wave-quantum-nyse-qbts-to-participate-in-upcoming-info-tech-live-event/"
+enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
+article_id = 92315
+feed_item_id = 6792
+url = "/202409/92315-d-wave-quantum-inc-to-showcase-quantum-computing-innovations-at-info-tech-live-conference"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/249/12/zero2Qv7.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing, is set to make a significant impact at the upcoming Info-Tech LIVE conference, an event that gathers professionals keen on the latest in technology and business solutions. Alexander Condello, D-Wave's director of algorithms, tools, and performance, will take the stage as a keynote speaker to discuss the real-world applications of hybrid-quantum technology. His presentation, titled 'Exponential IT in Motion,' will shed light on how industries like logistics and retail are leveraging quantum solutions to overcome complex computational challenges.</p><p>The involvement of D-Wave in this prestigious event highlights the escalating relevance of quantum computing in solving intricate business problems. Condello's insights into quantum optimization underscore its critical role in enhancing organizational efficiencies and competitiveness. 'Quantum optimization's growing commercial and government adoption is evidence of its impact on organizational efficiencies, competitiveness and, ultimately, the bottom line,' Condello remarked, pointing out the limitations of traditional computing methods in achieving these outcomes.</p><p>D-Wave's participation is not just a testament to its pioneering status in the quantum computing realm but also an opportunity for attendees to explore the technology's transformative potential. With a clientele that includes Mastercard, Deloitte, and Siemens Healthineers, among others, D-Wave's technology has proven its versatility across various sectors, including AI, drug discovery, and financial modeling.</p><p>The conference serves as a pivotal platform for demystifying quantum computing for a broader audience, showcasing its applications beyond theoretical research. As businesses increasingly encounter complex challenges in data analysis and optimization, quantum computing emerges as a viable solution to problems beyond the reach of classical computers. D-Wave's presentation at Info-Tech LIVE is anticipated to offer a glimpse into the future of quantum computing, emphasizing its capacity to revolutionize industries by addressing some of the most daunting computational challenges.</p>

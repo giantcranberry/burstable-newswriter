@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/raadr-inc-doing-business-as-tel
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85556
 feed_item_id = 13032
-url = "/news/202504/85556-telvantis-reports-strong-revenue-growth-signaling-strategic-transformation-success"
+url = "/202504/85556-telvantis-reports-strong-revenue-growth-signaling-strategic-transformation-success"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/21/deepEwMr.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/xfinity-and-comcast-business-services
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84076
 feed_item_id = 15504
-url = "/news/202506/84076-comcasts-rio-rancho-expansion-marks-a-digital-milestone-for-over-20000-homes-and-businesses"
+url = "/202506/84076-comcasts-rio-rancho-expansion-marks-a-digital-milestone-for-over-20000-homes-and-businesses"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/zeroRgsq.webp"
 source = "News Direct"
 +++

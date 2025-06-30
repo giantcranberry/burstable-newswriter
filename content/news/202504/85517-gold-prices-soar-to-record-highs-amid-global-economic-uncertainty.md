@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/gold-reaches-new-high-as
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85517
 feed_item_id = 13149
-url = "/news/202504/85517-gold-prices-soar-to-record-highs-amid-global-economic-uncertainty"
+url = "/202504/85517-gold-prices-soar-to-record-highs-amid-global-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/23/yarnCVNs.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

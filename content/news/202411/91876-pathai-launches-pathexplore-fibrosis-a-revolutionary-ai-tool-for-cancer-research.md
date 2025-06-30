@@ -1,0 +1,16 @@
++++
+title = "PathAI Launches PathExplore™ Fibrosis, a Revolutionary AI Tool for Cancer Research"
+date = "2024-11-04T15:00:13Z"
+draft = false
+summary = "PathAI introduces PathExplore™ Fibrosis, an AI tool that transforms the analysis of fibrosis and collagen in cancer research, offering new insights into tumor biology and therapeutic responses."
+description = "PathAI introduces PathExplore™ Fibrosis, an AI-powered tool for fibrosis and collagen quantification in cancer research. This breakthrough offers new insights into tumor biology and drug efficacy, presenting a significant advancement in oncology translational research."
+source_link = "https://newsdirect.com/news/pathai-launches-pathexplore-fibrosis-an-ai-powered-pathology-breakthrough-in-fibrosis-collagen-and-fiber-quantification-directly-from-whole-slide-images-258876425"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
+article_id = 91876
+feed_item_id = 8218
+url = "/202411/91876-pathai-launches-pathexplore-fibrosis-a-revolutionary-ai-tool-for-cancer-research"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2411/4/hushWaLx.webp"
+source = "News Direct"
++++
+
+<p>PathAI has unveiled PathExplore™ Fibrosis, a cutting-edge AI tool designed to enhance the analysis of fibrosis, collagen, and fiber quantification in cancer research. This tool, operating on the AISight® Translational Research platform, enables researchers to study these critical elements from whole-slide images of H&E-stained tissue, marking a significant leap forward in oncology research.</p><p>The innovation lies in its ability to analyze fibrosis morphology and spatial organization within the tumor microenvironment directly from standard pathology images. This breakthrough eliminates the need for specialized microscopy, democratizing access to vital insights into tumor biology and drug efficacy. Fibrosis and collagen fibers, recognized as key biomarkers in cancer progression, metastasis, and immune response, can now be studied more comprehensively.</p><p>Ben Glass, VP of Product and Translational Research at PathAI, highlighted the tool's transformative potential, noting its ability to scale understanding of disease biology and foster the development of new therapies. Dr. Eric Walk, Chief Medical Officer, emphasized the tool's comprehensive analysis capabilities, offering researchers a multidimensional view of the tumor microenvironment.</p><p>PathAI will showcase PathExplore™ Fibrosis at the Society of Immunotherapy of Cancer conference (SITC 2024), presenting studies that demonstrate its application in analyzing stromal collagen features and the pancreatic cancer tumor microenvironment from H&E-stained images. These studies underscore the tool's potential to uncover new insights into cancer biology and treatment responses.</p><p>With its foundation in precision pathology solutions and AI-powered models validated by over 15 million annotations, PathExplore™ Fibrosis stands to significantly impact cancer research and drug development. By facilitating a deeper and more accessible analysis of the tumor microenvironment, PathAI's technology paves the way for more targeted and effective cancer treatments.</p>

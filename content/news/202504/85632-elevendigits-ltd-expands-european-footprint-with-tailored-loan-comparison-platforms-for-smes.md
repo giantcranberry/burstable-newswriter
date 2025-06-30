@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521599/elevendigit
 enclosure = "https://cdn.newsramp.app/banners/startup-news-3.jpg"
 article_id = 85632
 feed_item_id = 12681
-url = "/news/202504/85632-elevendigits-ltd-expands-european-footprint-with-tailored-loan-comparison-platforms-for-smes"
+url = "/202504/85632-elevendigits-ltd-expands-european-footprint-with-tailored-loan-comparison-platforms-for-smes"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/11/pintO8AG.webp"
 source = "24-7 Press Release"
 +++

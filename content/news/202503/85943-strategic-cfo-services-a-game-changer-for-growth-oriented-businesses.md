@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520349/cfo-service
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85943
 feed_item_id = 11674
-url = "/news/202503/85943-strategic-cfo-services-a-game-changer-for-growth-oriented-businesses"
+url = "/202503/85943-strategic-cfo-services-a-game-changer-for-growth-oriented-businesses"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/6/yawnDvBE.webp"
 source = "24-7 Press Release"
 +++

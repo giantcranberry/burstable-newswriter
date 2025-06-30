@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/raadr-inc-doing-business-as-tel
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85726
 feed_item_id = 12392
-url = "/news/202504/85726-telvantis-completes-final-debt-remediation-paving-way-for-future-growth"
+url = "/202504/85726-telvantis-completes-final-debt-remediation-paving-way-for-future-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/1/irisPBtm.webp"
 source = "NewMediaWire"
 +++

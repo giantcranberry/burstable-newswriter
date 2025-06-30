@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-set-to-get-
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/76c8621f42d315507cdd015494e4c230.jpg"
 article_id = 84839
 feed_item_id = 14476
-url = "/news/202505/84839-ugi-utilities-launches-major-infrastructure-upgrade-in-harrisburg"
+url = "/202505/84839-ugi-utilities-launches-major-infrastructure-upgrade-in-harrisburg"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/21/duneOyFB.webp"
 source = "Reportable"
 +++

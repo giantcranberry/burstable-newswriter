@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/select-sector-spdr-etfs-strategic-inv
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85894
 feed_item_id = 11836
-url = "/news/202503/85894-select-sector-spdr-etfs-a-strategic-tool-for-modern-investors"
+url = "/202503/85894-select-sector-spdr-etfs-a-strategic-tool-for-modern-investors"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/12/yogaPc5k.webp"
 source = "News Direct"
 +++

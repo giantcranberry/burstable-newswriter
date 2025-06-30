@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520726/canadians-s
 enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
 article_id = 85845
 feed_item_id = 12027
-url = "/news/202503/85845-online-auctions-offer-canadians-a-cost-effective-shopping-alternative-amid-economic-pressures"
+url = "/202503/85845-online-auctions-offer-canadians-a-cost-effective-shopping-alternative-amid-economic-pressures"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/19/pinedWhD.webp"
 source = "24-7 Press Release"
 +++

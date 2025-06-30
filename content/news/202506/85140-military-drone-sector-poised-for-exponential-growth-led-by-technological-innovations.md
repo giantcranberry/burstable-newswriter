@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/the-future-of-warfare-is-here-4-milit
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85140
 feed_item_id = 15085
-url = "/news/202506/85140-military-drone-sector-poised-for-exponential-growth-led-by-technological-innovations"
+url = "/202506/85140-military-drone-sector-poised-for-exponential-growth-led-by-technological-innovations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/4/xenom1MA.webp"
 source = "News Direct"
 +++

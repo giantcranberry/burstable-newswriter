@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703097/rocketgraph-appoints-walt-m
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84671
 feed_item_id = 15205
-url = "/news/202506/84671-rocketgraph-strengthens-leadership-with-appointment-of-walt-maguire-as-vice-president-of-product"
+url = "/202506/84671-rocketgraph-strengthens-leadership-with-appointment-of-walt-maguire-as-vice-president-of-product"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/lambQ1tQ.webp"
 source = "citybiz"
 +++

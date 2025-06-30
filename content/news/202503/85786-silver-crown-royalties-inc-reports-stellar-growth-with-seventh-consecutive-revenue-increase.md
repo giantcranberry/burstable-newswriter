@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/scri-announces-seventh-consecut
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85786
 feed_item_id = 12219
-url = "/news/202503/85786-silver-crown-royalties-inc-reports-stellar-growth-with-seventh-consecutive-revenue-increase"
+url = "/202503/85786-silver-crown-royalties-inc-reports-stellar-growth-with-seventh-consecutive-revenue-increase"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/26/jazzMfbL.webp"
 source = "NewMediaWire"
 +++

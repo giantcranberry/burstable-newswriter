@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-p
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85277
 feed_item_id = 14054
-url = "/news/202505/85277-skyx-platforms-corp-to-unveil-first-quarter-2025-financial-results-and-strategic-insights"
+url = "/202505/85277-skyx-platforms-corp-to-unveil-first-quarter-2025-financial-results-and-strategic-insights"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/jolt2CQ1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521069/federal-cou
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 85779
 feed_item_id = 12240
-url = "/news/202503/85779-federal-court-rules-titan-submersible-lawsuit-to-proceed-in-state-court-highlighting-safety-and-accountability-in-deep-sea-exploration"
+url = "/202503/85779-federal-court-rules-titan-submersible-lawsuit-to-proceed-in-state-court-highlighting-safety-and-accountability-in-deep-sea-exploration"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/27/kiwi6xIH.webp"
 source = "24-7 Press Release"
 +++

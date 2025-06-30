@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/industry-first-dfs-marketplace-launch
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/b2abd4d560d82671d41d8ade894e149c.jpg"
 article_id = 85784
 feed_item_id = 12228
-url = "/news/202503/85784-wire-industries-revolutionizes-fantasy-sports-with-innovative-secondary-marketplace"
+url = "/202503/85784-wire-industries-revolutionizes-fantasy-sports-with-innovative-secondary-marketplace"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/26/mosslqwg.webp"
 source = "News Direct"
 +++

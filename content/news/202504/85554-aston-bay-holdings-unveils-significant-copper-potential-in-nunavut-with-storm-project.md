@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-aston-b
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85554
 feed_item_id = 13042
-url = "/news/202504/85554-aston-bay-holdings-unveils-significant-copper-potential-in-nunavut-with-storm-project"
+url = "/202504/85554-aston-bay-holdings-unveils-significant-copper-potential-in-nunavut-with-storm-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/21/ideaDn5x.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

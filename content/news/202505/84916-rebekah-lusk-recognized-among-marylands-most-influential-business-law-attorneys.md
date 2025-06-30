@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522807/rebekah-lus
 enclosure = "https://cdn.newsramp.app/banners/awards-3.jpg"
 article_id = 84916
 feed_item_id = 14192
-url = "/news/202505/84916-rebekah-lusk-recognized-among-marylands-most-influential-business-law-attorneys"
+url = "/202505/84916-rebekah-lusk-recognized-among-marylands-most-influential-business-law-attorneys"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/lendf36e.webp"
 source = "24-7 Press Release"
 +++

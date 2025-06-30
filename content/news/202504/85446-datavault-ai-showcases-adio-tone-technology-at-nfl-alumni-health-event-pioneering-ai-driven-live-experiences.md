@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-datavault-
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85446
 feed_item_id = 13531
-url = "/news/202504/85446-datavault-ai-showcases-adio-tone-technology-at-nfl-alumni-health-event-pioneering-ai-driven-live-experiences"
+url = "/202504/85446-datavault-ai-showcases-adio-tone-technology-at-nfl-alumni-health-event-pioneering-ai-driven-live-experiences"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/28/lunavQGc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

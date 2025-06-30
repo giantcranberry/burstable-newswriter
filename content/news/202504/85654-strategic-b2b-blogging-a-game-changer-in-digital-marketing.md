@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521550/b2b-bloggin
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 85654
 feed_item_id = 12611
-url = "/news/202504/85654-strategic-b2b-blogging-a-game-changer-in-digital-marketing"
+url = "/202504/85654-strategic-b2b-blogging-a-game-changer-in-digital-marketing"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/9/bendnOF0.webp"
 source = "24-7 Press Release"
 +++

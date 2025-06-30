@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/blackwell-3d-inks-deal-to-expan
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85987
 feed_item_id = 11589
-url = "/news/202503/85987-blackwell-3d-construction-corp-expands-into-dubais-booming-real-estate-market-with-sustainable-residential-project"
+url = "/202503/85987-blackwell-3d-construction-corp-expands-into-dubais-booming-real-estate-market-with-sustainable-residential-project"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/4/quayoxzo.webp"
 source = "NewMediaWire"
 +++

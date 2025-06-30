@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522715/captain-osc
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-1.jpg"
 article_id = 85260
 feed_item_id = 14137
-url = "/news/202505/85260-maritime-safety-expert-captain-oscar-pott-releases-essential-guide-to-prevent-boating-accidents"
+url = "/202505/85260-maritime-safety-expert-captain-oscar-pott-releases-essential-guide-to-prevent-boating-accidents"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/14/pitapico8bmv.webp"
 source = "24-7 Press Release"
 +++

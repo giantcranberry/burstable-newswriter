@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/from-basement-studio-suc
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85111
 feed_item_id = 15456
-url = "/news/202506/85111-claude-zdanows-journey-from-teenage-entrepreneur-to-ai-marketing-visionary"
+url = "/202506/85111-claude-zdanows-journey-from-teenage-entrepreneur-to-ai-marketing-visionary"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/deepikba.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

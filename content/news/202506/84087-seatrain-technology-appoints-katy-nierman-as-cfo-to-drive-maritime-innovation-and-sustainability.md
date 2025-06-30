@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/seatraintm-technology-appoints-katy-n
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/640f370a59228b355226e8f44e1ecff8.jpg"
 article_id = 84087
 feed_item_id = 15463
-url = "/news/202506/84087-seatrain-technology-appoints-katy-nierman-as-cfo-to-drive-maritime-innovation-and-sustainability"
+url = "/202506/84087-seatrain-technology-appoints-katy-nierman-as-cfo-to-drive-maritime-innovation-and-sustainability"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/ella5LzM.webp"
 source = "News Direct"
 +++

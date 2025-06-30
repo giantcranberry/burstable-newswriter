@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/wallid-unveils-3-year-forecast-and-st
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84102
 feed_item_id = 15421
-url = "/news/202506/84102-wallidco-ltd-forecasts-ai-powered-e-commerce-boom-outlines-strategic-roadmap-for-merchants"
+url = "/202506/84102-wallidco-ltd-forecasts-ai-powered-e-commerce-boom-outlines-strategic-roadmap-for-merchants"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/beanwEf3.webp"
 source = "News Direct"
 +++

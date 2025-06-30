@@ -6,10 +6,9 @@ summary = "Clarion Partners' investment in Highmark, a 162-unit development in B
 description = "Clarion Partners and Wentworth Property Company introduce Highmark, a 162-unit luxury rental community in Bozeman, MT, offering modern living in a Qualified Opportunity Zone."
 source_link = "https://newsdirect.com/news/clarion-partners-makes-first-investment-in-bozeman-montana-market-216378875"
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/6f150869e3bce4336d29dd4014d62909.jpg"
-featured = true
 article_id = 87618
 feed_item_id = 16042
-url = "/news/202506/87618-clarion-partners-invests-in-bozemans-highmark-development-to-address-housing-needs"
+url = "/202506/87618-clarion-partners-invests-in-bozemans-highmark-development-to-address-housing-needs"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/23/hushHwKI.webp"
 source = "News Direct"
 +++

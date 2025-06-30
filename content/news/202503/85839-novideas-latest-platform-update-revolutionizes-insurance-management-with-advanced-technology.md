@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/novidea-unveils-key-policy-claims-and
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85839
 feed_item_id = 12043
-url = "/news/202503/85839-novideas-latest-platform-update-revolutionizes-insurance-management-with-advanced-technology"
+url = "/202503/85839-novideas-latest-platform-update-revolutionizes-insurance-management-with-advanced-technology"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/19/gulfURsB.webp"
 source = "News Direct"
 +++

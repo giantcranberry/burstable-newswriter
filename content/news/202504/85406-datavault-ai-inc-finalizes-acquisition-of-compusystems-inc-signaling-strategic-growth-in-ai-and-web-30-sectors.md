@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-datavault-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85406
 feed_item_id = 13647
-url = "/news/202504/85406-datavault-ai-inc-finalizes-acquisition-of-compusystems-inc-signaling-strategic-growth-in-ai-and-web-30-sectors"
+url = "/202504/85406-datavault-ai-inc-finalizes-acquisition-of-compusystems-inc-signaling-strategic-growth-in-ai-and-web-30-sectors"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/evenXFyH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

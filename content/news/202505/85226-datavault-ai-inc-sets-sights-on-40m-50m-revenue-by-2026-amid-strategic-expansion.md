@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investorknewsbreaks-datav
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85226
 feed_item_id = 14240
-url = "/news/202505/85226-datavault-ai-inc-sets-sights-on-40m-50m-revenue-by-2026-amid-strategic-expansion"
+url = "/202505/85226-datavault-ai-inc-sets-sights-on-40m-50m-revenue-by-2026-amid-strategic-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/jadeGeCF.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Doubleview Gold Corp's Hat Project Unveils Significant Mineral Resource Estimate"
+date = "2024-07-26T05:30:04Z"
+draft = false
+summary = "Doubleview Gold Corp announces a maiden Mineral Resource Estimate for the Hat project, highlighting its potential to impact the global supply of copper, cobalt, and scandium, crucial for renewable energy and high-tech industries."
+description = "Doubleview Gold Corp announces maiden mineral resource estimate for Hat project in British Columbia, highlighting rich copper, cobalt, and potential scandium content"
+source_link = "https://newsdirect.com/news/doubleview-gold-corp-releases-maiden-mineral-resource-estimate-for-hat-project-716393707"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 92751
+feed_item_id = 5266
+url = "/202407/92751-doubleview-gold-corps-hat-project-unveils-significant-mineral-resource-estimate"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/247/26/lendyFTR.webp"
+source = "News Direct"
++++
+
+<p>Doubleview Gold Corp has reached a pivotal milestone with the announcement of its maiden Mineral Resource Estimate for the Hat project in northwestern British Columbia. The project boasts 627 million tonnes of indicated resources and 477 million tonnes of inferred resources, with only 15% of the explored area accounted for, indicating vast potential for expansion. The focus on high-grade material has yielded an estimate of 970 million tonnes of deposits rich in copper, gold, cobalt, and silver, with scandium production also on the horizon.</p><p>The significance of the Hat project extends beyond its mineral wealth. The potential for scandium production is particularly critical, given North America's reliance on imports from China and Russia. Scandium's applications in aerospace and defense industries make this development a strategic advancement for domestic supply chains. Furthermore, the project's copper and cobalt resources are poised to support the burgeoning demand in renewable energy and electric vehicle production sectors.</p><p>Doubleview Gold Corp's journey from exploration in 1993 to the current resource estimate underscores the long-term commitment required in mining development. The company's plans for further drilling and environmental studies reflect a balanced approach to expansion and sustainability. This development not only enhances Doubleview's position in the mining sector but also contributes to British Columbia's reputation as a mineral-rich region.</p><p>The Hat project's progress is a testament to the potential rewards of dedicated exploration and development efforts. As Doubleview Gold Corp advances towards mining development, the implications for the global supply of critical metals and the strategic reduction of import dependencies are profound. The mining industry and investors are keenly observing the project's trajectory, which may set a precedent for future developments in the region and influence market dynamics for essential metals.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522341/celebrate-m
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85418
 feed_item_id = 13619
-url = "/news/202504/85418-chef-point-bar-restaurant-to-host-unique-mothers-day-celebration-with-exclusive-tasting-menu"
+url = "/202504/85418-chef-point-bar-restaurant-to-host-unique-mothers-day-celebration-with-exclusive-tasting-menu"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/pink2MEs.webp"
 source = "24-7 Press Release"
 +++

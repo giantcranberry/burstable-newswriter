@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523095/gaelix-mari
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84820
 feed_item_id = 14546
-url = "/news/202505/84820-gaelix-marine-service-launches-nordav-tender-and-jet-ski-lifting-systems-revolutionizing-marine-vessel-storage"
+url = "/202505/84820-gaelix-marine-service-launches-nordav-tender-and-jet-ski-lifting-systems-revolutionizing-marine-vessel-storage"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/herb1pYD.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/achieve-marketing-success-with-cnc-mar
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/c5bc605121cbc379c5a0a5665ad6bf6f.jpg"
 article_id = 85667
 feed_item_id = 12562
-url = "/news/202504/85667-cnc-marketing-group-elevates-arizona-businesses-with-tailored-digital-marketing-solutions"
+url = "/202504/85667-cnc-marketing-group-elevates-arizona-businesses-with-tailored-digital-marketing-solutions"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/7/paleg2o3.webp"
 source = "Press Services"
 +++

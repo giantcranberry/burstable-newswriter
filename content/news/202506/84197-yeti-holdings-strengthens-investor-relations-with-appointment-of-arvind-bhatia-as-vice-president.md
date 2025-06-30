@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702558/yeti-appoints-arvind-bhatia
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84197
 feed_item_id = 15132
-url = "/news/202506/84197-yeti-holdings-strengthens-investor-relations-with-appointment-of-arvind-bhatia-as-vice-president"
+url = "/202506/84197-yeti-holdings-strengthens-investor-relations-with-appointment-of-arvind-bhatia-as-vice-president"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/dualfIoe.webp"
 source = "citybiz"
 +++

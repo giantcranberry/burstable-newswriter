@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523451/neurologik-
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85143
 feed_item_id = 15072
-url = "/news/202506/85143-neurologikio-revolutionizes-manufacturing-with-ai-agents-capable-of-complex-technical-tasks"
+url = "/202506/85143-neurologikio-revolutionizes-manufacturing-with-ai-agents-capable-of-complex-technical-tasks"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/frogviTr.webp"
 source = "24-7 Press Release"
 +++

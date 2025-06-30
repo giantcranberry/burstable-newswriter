@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-sobrsa
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
 article_id = 85247
 feed_item_id = 14167
-url = "/news/202505/85247-sobrsafe-strengthens-leadership-team-to-advance-alcohol-detection-technology"
+url = "/202505/85247-sobrsafe-strengthens-leadership-team-to-advance-alcohol-detection-technology"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/14/keepffNr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

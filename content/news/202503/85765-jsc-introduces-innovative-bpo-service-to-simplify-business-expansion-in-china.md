@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521075/jsc-launche
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85765
 feed_item_id = 12279
-url = "/news/202503/85765-jsc-introduces-innovative-bpo-service-to-simplify-business-expansion-in-china"
+url = "/202503/85765-jsc-introduces-innovative-bpo-service-to-simplify-business-expansion-in-china"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/28/besttFRd.webp"
 source = "24-7 Press Release"
 +++

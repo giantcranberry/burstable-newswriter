@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/wheelchair-users-can-no
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84302
 feed_item_id = 14808
-url = "/news/202505/84302-ai-powered-exoskeleton-revolutionizes-mobility-for-individuals-with-disabilities"
+url = "/202505/84302-ai-powered-exoskeleton-revolutionizes-mobility-for-individuals-with-disabilities"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/lambjXCB.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

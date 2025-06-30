@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522025/fully-promo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85547
 feed_item_id = 13064
-url = "/news/202504/85547-fully-promoted-marks-25-years-with-strategic-ai-partnership-and-growth-vision"
+url = "/202504/85547-fully-promoted-marks-25-years-with-strategic-ai-partnership-and-growth-vision"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/22/odorJ6P2.webp"
 source = "24-7 Press Release"
 +++

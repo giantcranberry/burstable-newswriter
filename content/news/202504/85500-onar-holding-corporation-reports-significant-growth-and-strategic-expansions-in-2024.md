@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-onar-h
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85500
 feed_item_id = 13199
-url = "/news/202504/85500-onar-holding-corporation-reports-significant-growth-and-strategic-expansions-in-2024"
+url = "/202504/85500-onar-holding-corporation-reports-significant-growth-and-strategic-expansions-in-2024"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/silkpWWx.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

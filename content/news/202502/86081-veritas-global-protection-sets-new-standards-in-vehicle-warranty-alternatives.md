@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520097/veritas-glo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 86081
 feed_item_id = 11191
-url = "/news/202502/86081-veritas-global-protection-sets-new-standards-in-vehicle-warranty-alternatives"
+url = "/202502/86081-veritas-global-protection-sets-new-standards-in-vehicle-warranty-alternatives"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/27/quiz_L2Y.webp"
 source = "24-7 Press Release"
 +++

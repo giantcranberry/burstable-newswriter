@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-standa
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84779
 feed_item_id = 14755
-url = "/news/202505/84779-arkansas-approves-landmark-lithium-royalty-rate-paving-the-way-for-domestic-production"
+url = "/202505/84779-arkansas-approves-landmark-lithium-royalty-rate-paving-the-way-for-domestic-production"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/pear4oIw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

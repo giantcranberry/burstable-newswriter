@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/hno-international-signs-agreement-wit
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85727
 feed_item_id = 12391
-url = "/news/202504/85727-hno-international-and-zhuhai-topower-launch-5-million-hydrogen-energy-pilot-in-china"
+url = "/202504/85727-hno-international-and-zhuhai-topower-launch-5-million-hydrogen-energy-pilot-in-china"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/1/iconQOlM.webp"
 source = "News Direct"
 +++

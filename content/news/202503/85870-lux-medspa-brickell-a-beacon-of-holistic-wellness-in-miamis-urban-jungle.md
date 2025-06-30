@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/lux-medspa-brickells-founder-featured-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/92dbea281c2a15af792dd65da033ab50.jpg"
 article_id = 85870
 feed_item_id = 11920
-url = "/news/202503/85870-lux-medspa-brickell-a-beacon-of-holistic-wellness-in-miamis-urban-jungle"
+url = "/202503/85870-lux-medspa-brickell-a-beacon-of-holistic-wellness-in-miamis-urban-jungle"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/14/neonchnw.webp"
 source = "Press Services"
 +++

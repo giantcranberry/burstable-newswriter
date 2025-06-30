@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/daguerlogistics-announces-ai-powered-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85815
 feed_item_id = 12124
-url = "/news/202503/85815-daguer-logistics-unveils-ai-powered-platform-to-revolutionize-shipping-operations"
+url = "/202503/85815-daguer-logistics-unveils-ai-powered-platform-to-revolutionize-shipping-operations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/22/pineJhza.webp"
 source = "News Direct"
 +++

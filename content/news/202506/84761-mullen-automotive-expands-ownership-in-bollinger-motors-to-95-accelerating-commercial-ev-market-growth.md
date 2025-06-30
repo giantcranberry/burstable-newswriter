@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/greencarnewsbreaks-mullen
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84761
 feed_item_id = 14856
-url = "/news/202506/84761-mullen-automotive-expands-ownership-in-bollinger-motors-to-95-accelerating-commercial-ev-market-growth"
+url = "/202506/84761-mullen-automotive-expands-ownership-in-bollinger-motors-to-95-accelerating-commercial-ev-market-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/2/airyUDUU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

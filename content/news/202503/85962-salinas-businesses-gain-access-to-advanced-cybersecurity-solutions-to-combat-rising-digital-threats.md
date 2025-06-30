@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520277/adaptive-in
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85962
 feed_item_id = 11620
-url = "/news/202503/85962-salinas-businesses-gain-access-to-advanced-cybersecurity-solutions-to-combat-rising-digital-threats"
+url = "/202503/85962-salinas-businesses-gain-access-to-advanced-cybersecurity-solutions-to-combat-rising-digital-threats"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/flax3vDk.webp"
 source = "24-7 Press Release"
 +++

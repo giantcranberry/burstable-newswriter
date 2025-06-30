@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520284/dw-excavati
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85960
 feed_item_id = 11626
-url = "/news/202503/85960-dw-excavation-expands-paving-services-in-santa-rosa-and-sonoma-county-to-meet-growing-infrastructure-demands"
+url = "/202503/85960-dw-excavation-expands-paving-services-in-santa-rosa-and-sonoma-county-to-meet-growing-infrastructure-demands"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/icydP8p.webp"
 source = "24-7 Press Release"
 +++

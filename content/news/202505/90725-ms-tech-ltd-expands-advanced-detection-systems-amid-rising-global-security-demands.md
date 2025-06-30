@@ -1,0 +1,16 @@
++++
+title = "MS Tech Ltd. Expands Advanced Detection Systems Amid Rising Global Security Demands"
+date = "2025-05-28T07:00:25Z"
+draft = false
+summary = "MS Tech Ltd. has enhanced global security by deploying advanced, non-radioactive detection systems across Europe and Southeast Asia, addressing the increased need for sophisticated security technologies due to geopolitical tensions."
+description = "MS Tech Ltd. announces successful deployment of EXPLOSCAN, DUOSCAN, and THREATSCAN detection systems in response to global conflicts. Learn how advanced nanotechnology sensors are enhancing security measures and replacing outdated technology."
+source_link = "https://www.24-7pressrelease.com/press-release/523181/ms-tech-announces-its-homeland-security-defense-division-has-deployed-its-exploscan-duoscan-and-threatscan-detection-systems-across-europe-and-south-east-asia"
+enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
+article_id = 90725
+feed_item_id = 14660
+url = "/202505/90725-ms-tech-ltd-expands-advanced-detection-systems-amid-rising-global-security-demands"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/knotRbLj.webp"
+source = "24-7 Press Release"
++++
+
+<p>MS Tech Ltd. has taken significant steps to bolster security measures across Europe and Southeast Asia by installing state-of-the-art explosives and narcotics detection systems. This expansion comes at a critical time, as geopolitical tensions, particularly between India and Pakistan, alongside ongoing conflicts in the Middle East and Eastern Europe, have heightened the demand for advanced security solutions. The company's homeland security division has successfully deployed its EXPLOSCAN, DUOSCAN, and THREATSCAN systems in more than 35 airports and border control checkpoints, marking a pivotal advancement in global security infrastructure.</p><p>The technology behind these deployments, as highlighted by CEO Doron Shalom, relies on High-Frequency Quartz Crystal Microbalance (HF-QCM) nanotechnology sensors. These sensors represent a leap forward from older, radioactive-based systems, offering safer, more reliable detection capabilities. The EXPLOSCAN, DUOSCAN, LIQUISCAN, MULTISCAN, and THREATSCAN systems are equipped with proprietary non-radioactive sensors that feature self-calibrating and self-cleaning functions. Their ability to operate under extreme environmental conditions—ranging from severe temperatures to high humidity and dust—ensures their effectiveness across a wide range of security-critical sectors.</p><p>These sectors include aviation, transportation, military installations, and border control, among others. The deployment of MS Tech's systems underscores a shift towards more environmentally friendly and innovative security technologies. By focusing on non-radioactive solutions, MS Tech not only addresses the immediate security needs but also sets a new standard for the future of homeland security. The company's efforts reflect the growing importance of integrating advanced, sustainable technologies into global security frameworks to navigate the complexities of today's geopolitical landscape.</p>

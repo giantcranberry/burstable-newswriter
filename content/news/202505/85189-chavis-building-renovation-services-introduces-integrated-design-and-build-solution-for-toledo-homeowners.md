@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522997/chavis-buil
 enclosure = "https://cdn.newsramp.app/banners/real-estate-2.jpg"
 article_id = 85189
 feed_item_id = 14543
-url = "/news/202505/85189-chavis-building-renovation-services-introduces-integrated-design-and-build-solution-for-toledo-homeowners"
+url = "/202505/85189-chavis-building-renovation-services-introduces-integrated-design-and-build-solution-for-toledo-homeowners"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/joke_iD1.webp"
 source = "24-7 Press Release"
 +++

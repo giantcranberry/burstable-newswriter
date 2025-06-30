@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/five-years-of-excellence-for-heil-law-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/945f0ed2ddc34e996c3cf4e41aac255c.jpg"
 article_id = 85951
 feed_item_id = 11647
-url = "/news/202503/85951-heil-law-firm-recognized-as-a-leader-in-car-accident-representation-in-texas"
+url = "/202503/85951-heil-law-firm-recognized-as-a-leader-in-car-accident-representation-in-texas"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/5/pondkm0p.webp"
 source = "Press Services"
 +++

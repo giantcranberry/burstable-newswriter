@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520205/who-provide
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85991
 feed_item_id = 11570
-url = "/news/202503/85991-deep-links-revolutionize-payment-technology-enhancing-efficiency-and-security"
+url = "/202503/85991-deep-links-revolutionize-payment-technology-enhancing-efficiency-and-security"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/quayGbu7.webp"
 source = "24-7 Press Release"
 +++

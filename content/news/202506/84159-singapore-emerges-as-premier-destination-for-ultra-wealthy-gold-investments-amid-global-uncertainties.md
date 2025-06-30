@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/the-ultra-wealthy-are-op
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 84159
 feed_item_id = 15230
-url = "/news/202506/84159-singapore-emerges-as-premier-destination-for-ultra-wealthy-gold-investments-amid-global-uncertainties"
+url = "/202506/84159-singapore-emerges-as-premier-destination-for-ultra-wealthy-gold-investments-amid-global-uncertainties"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/filet2Qm.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

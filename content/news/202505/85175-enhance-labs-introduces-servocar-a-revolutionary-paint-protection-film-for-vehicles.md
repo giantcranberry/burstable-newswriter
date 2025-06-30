@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523179/servocar-18
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85175
 feed_item_id = 14655
-url = "/news/202505/85175-enhance-labs-introduces-servocar-a-revolutionary-paint-protection-film-for-vehicles"
+url = "/202505/85175-enhance-labs-introduces-servocar-a-revolutionary-paint-protection-film-for-vehicles"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/veilOXZl.webp"
 source = "24-7 Press Release"
 +++

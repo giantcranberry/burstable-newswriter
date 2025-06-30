@@ -8,7 +8,7 @@ source_link = "https://meridianbet.reportablenews.com/pr/expanse-gmgi-completes-
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/b4f939490f7bff8c2ea95373120ed900.jpg"
 article_id = 85220
 feed_item_id = 14282
-url = "/news/202505/85220-expanse-studios-expands-us-market-presence-with-strategic-integrations-and-new-slot-game"
+url = "/202505/85220-expanse-studios-expands-us-market-presence-with-strategic-integrations-and-new-slot-game"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/16/envyjcwO.webp"
 source = "Reportable"
 +++

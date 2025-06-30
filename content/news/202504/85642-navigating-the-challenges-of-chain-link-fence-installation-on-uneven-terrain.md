@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521614/installing-
 enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
 article_id = 85642
 feed_item_id = 12644
-url = "/news/202504/85642-navigating-the-challenges-of-chain-link-fence-installation-on-uneven-terrain"
+url = "/202504/85642-navigating-the-challenges-of-chain-link-fence-installation-on-uneven-terrain"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/10/flax8yZI.webp"
 source = "24-7 Press Release"
 +++

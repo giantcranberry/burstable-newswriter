@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/exquisite-custom-homes-for-every-famil
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/e498d89d3051c61a144fca630cb9fbdb.jpg"
 article_id = 85668
 feed_item_id = 12556
-url = "/news/202504/85668-ballard-custom-homes-redefines-luxury-home-building-with-personalized-and-sustainable-approaches"
+url = "/202504/85668-ballard-custom-homes-redefines-luxury-home-building-with-personalized-and-sustainable-approaches"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/7/airyqbsb.webp"
 source = "Press Services"
 +++

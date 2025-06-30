@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-announces-t
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85851
 feed_item_id = 12003
-url = "/news/202503/85851-healthcare-triangle-inc-welcomes-sujatha-ramesh-as-new-coo-to-drive-operational-and-technological-advancements"
+url = "/202503/85851-healthcare-triangle-inc-welcomes-sujatha-ramesh-as-new-coo-to-drive-operational-and-technological-advancements"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/18/fastJNhG.webp"
 source = "NewMediaWire"
 +++

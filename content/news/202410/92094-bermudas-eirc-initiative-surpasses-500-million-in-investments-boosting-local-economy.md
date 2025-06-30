@@ -1,0 +1,16 @@
++++
+title = "Bermuda's EIRC Initiative Surpasses $500 Million in Investments, Boosting Local Economy"
+date = "2024-10-10T18:40:14Z"
+draft = false
+summary = "Bermuda's Economic Investment Residential Certificate program has achieved over $500 million in investments, highlighting its role in attracting global investors and stimulating economic growth."
+description = "The Bermuda Business Development Agency (BDA) announces that the Economic Investment Residential Certificate (EIRC) initiative has surpassed $500 million in investments, reinforcing Bermuda's position as a premier destination for global investors. The EIRC offers permanent residency in Bermuda with a minimum investment of $2.5 million, driving economic growth and strengthening personal connections to the island."
+source_link = "https://newsdirect.com/news/the-bermuda-business-development-agency-bda-leads-economic-growth-as-eirc-initiative-surpasses-500-million-milestone-982416134"
+enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
+article_id = 92094
+feed_item_id = 7554
+url = "/202410/92094-bermudas-eirc-initiative-surpasses-500-million-in-investments-boosting-local-economy"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/10/frogedDZ.webp"
+source = "News Direct"
++++
+
+<p>The Bermuda Business Development Agency (BDA) has announced a significant milestone for its Economic Investment Residential Certificate (EIRC) initiative, with investments exceeding $500 million. This achievement not only underscores Bermuda's attractiveness to global investors but also the program's substantial impact on the island's economy since its launch in 2021.</p><p>The EIRC program, requiring a minimum investment of $2.5 million, offers permanent residency to high-net-worth individuals from countries such as the United States, United Kingdom, Canada, and Spain. Investors have the option to channel their funds into real estate, new or existing local businesses, or social causes, fostering a diverse economic impact. To date, 58 applications have been approved, with investments totaling $212 million in new businesses, $231 million in real estate, $49 million in existing enterprises, and $6 million in social ventures.</p><p>The Honourable Jason Hayward, Minister of Economy and Labour, highlighted the program's dual benefits of attracting investment and encouraging wealthy individuals to make Bermuda their home, thereby creating long-term economic opportunities. Kyle Rogers of the BDA pointed out that reaching the $500 million mark reflects Bermuda's unique appeal as a business and lifestyle destination.</p><p>Jonathan Halata, an EIRC participant, shared his positive experience, emphasizing the program's ease of application and the BDA's exceptional service. His investments in projects like Azura and Nautilus have not only enriched Bermuda's tourism infrastructure but also generated employment, showcasing the program's broader societal benefits.</p><p>The EIRC initiative's success is a testament to Bermuda's strategic approach to economic development, leveraging its global appeal to attract investments that benefit both the economy and the community. As the program continues to grow, it is set to further enhance Bermuda's economic landscape and its standing as a preferred destination for international investors.</p>

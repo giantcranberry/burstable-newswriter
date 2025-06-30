@@ -1,0 +1,16 @@
++++
+title = "ASTRO America Launches Re-VAMMP to Modernize Virginia's Manufacturing Sector with Metal Additive Manufacturing Workshops"
+date = "2025-01-28T17:20:11Z"
+draft = false
+summary = "ASTRO America's Re-VAMMP initiative is set to transform Virginia's manufacturing landscape by equipping independent machine shops with advanced metal additive manufacturing skills, crucial for the defense industrial base."
+description = "ASTRO America partners with GENEDGE, the Department of Defense, and Virginia Tech for workshops to boost metal additive manufacturing capabilities in Virginia. Learn how these collaborations support defense manufacturing and modernization efforts."
+source_link = "https://newsdirect.com/news/astro-america-partners-with-genedge-department-of-defense-and-virginia-tech-for-metal-additive-manufacturing-workshops-495634719"
+enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
+article_id = 91231
+feed_item_id = 10415
+url = "/202501/91231-astro-america-launches-re-vammp-to-modernize-virginias-manufacturing-sector-with-metal-additive-manufacturing-workshops"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/251/28/herb_NWV.webp"
+source = "News Direct"
++++
+
+<p>ASTRO America is spearheading a transformative initiative aimed at revitalizing Virginia's manufacturing sector through the Reconfigure Virginia's Manufacturers for Modernization Program (Re-VAMMP). This program is designed to empower independent machine shops with the essential skills and knowledge required to integrate metal additive manufacturing into their operations. By focusing on the fundamentals of this advanced technology and its critical role in today's manufacturing processes, the workshops aim to demonstrate how its adoption can lead to reduced production costs, enhanced reliability, and broader operational capabilities.</p><p>Neal Orringer, President of ASTRO America, highlighted the importance of these workshops, pointing out the vital role independent manufacturers play in the defense manufacturing supply chain. The initiative seeks to foster innovation and technological advancement among these shops to align with the dynamic needs of the defense industry. With contributions from guest speakers Griffin Keller and Kevin Nims, representing AUSTAL USA and the Navy Additive Manufacturing Center of Excellence respectively, participants will gain valuable insights into assistance programs that could facilitate their qualification for U.S. Navy supply chain opportunities.</p><p>Scheduled across four key locations in Virginia—Norfolk on January 28, Richmond on January 30, Weyers Cave on February 18, and Roanoke on February 20—each workshop promises a full day of intensive training from 9:30 a.m. to 5 p.m. This collaborative endeavor, involving ASTRO America, GENEDGE, the Department of Defense, and Virginia Tech, underscores a strategic commitment to bolstering Virginia's manufacturing ecosystem and securing its position as a leader in advanced manufacturing technologies.</p>

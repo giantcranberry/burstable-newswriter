@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701382/treliant-appoints-bobbie-pa
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84744
 feed_item_id = 14946
-url = "/news/202506/84744-treliant-strengthens-financial-crimes-and-fraud-solutions-team-with-key-hire"
+url = "/202506/84744-treliant-strengthens-financial-crimes-and-fraud-solutions-team-with-key-hire"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/swimenfl.webp"
 source = "citybiz"
 +++

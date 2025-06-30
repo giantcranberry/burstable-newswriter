@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/ai-chatbot-development-services-for-di
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/417e591ac30e776cb5124cf0e75242e5.jpg"
 article_id = 84226
 feed_item_id = 15046
-url = "/news/202506/84226-greener-seo-launches-ai-chatbot-services-to-transform-customer-engagement"
+url = "/202506/84226-greener-seo-launches-ai-chatbot-services-to-transform-customer-engagement"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/3/camcCX41.webp"
 source = "Press Services"
 +++

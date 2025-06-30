@@ -1,0 +1,16 @@
++++
+title = "Datavault AI Inc. Completes Strategic Acquisition of CompuSystems Inc. Assets to Bolster Growth"
+date = "2025-05-20T13:25:24Z"
+draft = false
+summary = "Datavault AI Inc. enhances its revenue-generating capabilities and technological offerings through the acquisition of CompuSystems Inc. assets, signaling a significant step in its expansion strategy."
+description = "Datavault AI (NASDAQ: DVLT) announced the acquisition of CompuSystems Inc. assets, positioning itself to automate revenue-generating deployments in sports, entertainment, and event markets. The news showcases the company's growth strategy and potential impact on various industries."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-datavault-ai-inc-nasdaq-dvlt-finalizes-csi-acquisition-projects-strong-revenue-growth/"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
+article_id = 90430
+feed_item_id = 14395
+url = "/202505/90430-datavault-ai-inc-completes-strategic-acquisition-of-compusystems-inc-assets-to-bolster-growth"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/20/dave4F8U.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Datavault AI Inc. (NASDAQ: DVLT) has finalized its acquisition of CompuSystems Inc. (CSI) assets, a move that significantly advances the company's strategic growth objectives. This acquisition is expected to not only expand Datavault's revenue streams across various industries but also to solidify its position in the technology sector. CEO Nathaniel Bradley emphasized the importance of this acquisition, projecting that CSI will contribute between $12 million and $15 million in revenue in the latter half of 2025, with an additional $15 million to $20 million expected in 2026.</p><p>In a strategic leadership decision, John Mark LoGiurato has been named president of the CSI Division, receiving 500,000 restricted stock units that vest based on time and revenue milestones. This appointment reflects Datavault's dedication to leveraging the acquired assets to their fullest potential. The company's cloud-based platform, known for its AI experience, valuation, and monetization capabilities within the Web 3.0 ecosystem, stands to benefit greatly from this acquisition.</p><p>Datavault AI's technology suite serves a wide range of industries, including sports, entertainment, events, biotech, education, fintech, real estate, healthcare, and energy. The integration of CSI's assets is poised to enhance the company's Information Data Exchange (IDE) capabilities, facilitating the creation of digital twins and secure metadata object attachments. This development is a testament to Datavault's commitment to automating and scaling its revenue-generating deployments.</p><p>The acquisition is a strategic fit for Datavault AI, aligning with its goals to advance AI and machine learning automation, third-party integration, analytics, and marketing automation technologies. With a strong emphasis on responsible AI development, Datavault is set to offer comprehensive data solutions that prioritize integrity. This move not only underscores the company's growth trajectory but also its potential to make a lasting impact on the industries it serves.</p>

@@ -1,0 +1,16 @@
++++
+title = "Copper Property CTL Pass Through Trust Announces Key Conference Call for Stakeholders"
+date = "2024-11-05T18:50:10Z"
+draft = false
+summary = "The Copper Property CTL Pass Through Trust's upcoming conference call will provide stakeholders with crucial updates on financial performance and liquidation strategies of properties acquired from J.C. Penney, offering insights into the retail real estate market."
+description = "Copper Property CTL Pass Through Trust schedules live conference call to discuss recent financial and operating results. Members of the management team will provide insights and answer questions. Visit the Trust's website for more information."
+source_link = "https://newsdirect.com/news/copper-property-ctl-pass-through-trust-schedules-live-call-to-discuss-recent-financial-and-operating-results-595728935"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 91852
+feed_item_id = 8258
+url = "/202411/91852-copper-property-ctl-pass-through-trust-announces-key-conference-call-for-stakeholders"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2411/5/echoJHhY.webp"
+source = "News Direct"
++++
+
+<p>The Copper Property CTL Pass Through Trust has scheduled a live conference call for November 12, 2024, at 12:00 pm Eastern Time, to discuss its financial and operating results. This event is pivotal for investors and market analysts seeking direct communication with the Trust's leadership, including a question and answer session for deeper insights.</p><p>Financial performance details from the monthly report ending October 31, 2024, and the Form 10-Q for the quarter ended September 30, 2024, will be covered. These reports, to be filed before the call, will allow participants to review the Trust's progress in liquidating 160 retail properties and 6 warehouse distribution centers acquired from J.C. Penney.</p><p>Accessibility is a key feature of this conference call, with options including a toll-free number for U.S. and Canadian participants, an international dial-in, and a webcast available via the Trust's website at <a href='https://www.ctltrust.net' rel='nofollow' target='_blank'>https://www.ctltrust.net</a>. A replay service will also be available for 30 days post-call, ensuring wide access to the information shared.</p><p>The Trust's status as a liquidating trust for tax purposes adds complexity and interest to the discussion, with potential implications for investors. The call may shed light on how this status influences operations and the strategy for maximizing value from the properties.</p><p>This conference call is not just a routine update but a significant opportunity for stakeholders to gauge the health of the retail real estate sector, especially in the context of major retailer bankruptcies. The insights provided could influence investment decisions and offer a clearer understanding of the challenges and opportunities in liquidating large-scale retail properties.</p><p>For those seeking more detailed information, the Trust's SEC filings and reports are available on their website, providing a comprehensive backdrop to the discussions expected during the conference call.</p>

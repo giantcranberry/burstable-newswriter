@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-datavault-
 enclosure = "https://cdn.newsramp.app/ibn/newsimage/29fc4d9473601ed8a9a512012a738d8e.png"
 article_id = 85387
 feed_item_id = 13709
-url = "/news/202505/85387-datavault-ai-inc-unveils-3d-nft-easter-eggs-at-white-house-historical-association-event"
+url = "/202505/85387-datavault-ai-inc-unveils-3d-nft-easter-eggs-at-white-house-historical-association-event"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/1/coolFqS9.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

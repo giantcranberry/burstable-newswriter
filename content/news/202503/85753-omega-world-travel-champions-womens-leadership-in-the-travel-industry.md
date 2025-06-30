@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521156/omega-world
 enclosure = "https://cdn.newsramp.app/banners/travel-2.jpg"
 article_id = 85753
 feed_item_id = 12313
-url = "/news/202503/85753-omega-world-travel-champions-womens-leadership-in-the-travel-industry"
+url = "/202503/85753-omega-world-travel-champions-womens-leadership-in-the-travel-industry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/29/ninazmj0.webp"
 source = "24-7 Press Release"
 +++

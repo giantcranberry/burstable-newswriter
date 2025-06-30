@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/brera-holdings-plc-nasdaq
 enclosure = "https://cdn.newsramp.app/banners/sports-1.jpg"
 article_id = 85265
 feed_item_id = 14114
-url = "/news/202505/85265-brera-holdings-plc-pioneers-sustainable-growth-in-football-investments-with-strategic-multi-club-ownership-model"
+url = "/202505/85265-brera-holdings-plc-pioneers-sustainable-growth-in-football-investments-with-strategic-multi-club-ownership-model"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/herb71l5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

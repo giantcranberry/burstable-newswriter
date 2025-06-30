@@ -1,0 +1,16 @@
++++
+title = "Fully Promoted Marks 25th Anniversary with Significant Expansion and Industry Recognition"
+date = "2025-01-30T08:05:14Z"
+draft = false
+summary = "Fully Promoted celebrates its 25th anniversary with notable growth, expanding its franchise network and achieving industry recognition, signaling strong resilience and leadership in the branded apparel and promotional products sector."
+description = "Fully Promoted celebrates 25 years with strong 2024 performance and growth plans for 2025, projecting a 10% sales increase. The leading distributor of branded apparel and promotional products demonstrates commitment to innovation and exceptional service, positioning itself as a leader in the industry."
+source_link = "https://www.24-7pressrelease.com/press-release/519280/fully-promoted-opens-27-new-locations-and-achieves-systemwide-sales-growth-leading-into-25th-year-of-business"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 91214
+feed_item_id = 10480
+url = "/202501/91214-fully-promoted-marks-25th-anniversary-with-significant-expansion-and-industry-recognition"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/251/30/pondpkO2.webp"
+source = "24-7 Press Release"
++++
+
+<p>Fully Promoted, a leader in the branded apparel and promotional products industry, is celebrating its 25th anniversary with remarkable growth and expansion. The company has recently opened 17 new locations in the United States and 10 international sites, including its first in Darwin, Australia, marking a significant milestone in its global presence. With 30 domestic franchise agreements signed in 2024, Fully Promoted is set to open 23 new units across the country, contributing to a 5% increase in system-wide sales in the U.S. and setting sights on a 10% growth target for 2025.</p><p>Originally founded as EmbroidMe in 2000 by Ray Titus, a franchise industry veteran, the company rebranded to Fully Promoted in 2016 to better reflect its wide array of branding and marketing solutions. Today, it operates over 270 locations worldwide, each individually owned and operated, showcasing the brand's expansive reach and franchisee success.</p><p>The company's excellence and leadership have not gone unnoticed. Fully Promoted has been named a Top 40 Distributor by the Advertising Specialty Institute for 19 consecutive years and ranked #423 on Entrepreneur magazine's 2025 Franchise 500. It stands as the sole franchise in the Embroidery & Screen Printing category, underscoring its unique position in the industry.</p><p>Andrew Titus, President of Fully Promoted, emphasized the company's dedication to growth, particularly highlighting the rapid expansion of locations with dedicated sales teams. With 11 new domestic locations currently in development, Fully Promoted's robust pipeline signals continued growth and opportunity for franchisees.</p><p>As Fully Promoted approaches its 25th anniversary, the company plans to celebrate this milestone at a brand convention in Fort Worth, Texas. The event will honor long-standing franchise owners and reflect on the company's journey, achievements, and the bright future ahead. Part of the United Franchise Group, Fully Promoted leverages a global network and extensive franchising expertise to maintain its industry-leading position and drive further success.</p>

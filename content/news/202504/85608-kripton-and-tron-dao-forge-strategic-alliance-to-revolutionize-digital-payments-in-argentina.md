@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/kripton-selects-tron-and-tether-to-dr
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/409e6e7dae35c796f7ae12eece61eae7.png"
 article_id = 85608
 feed_item_id = 12770
-url = "/news/202504/85608-kripton-and-tron-dao-forge-strategic-alliance-to-revolutionize-digital-payments-in-argentina"
+url = "/202504/85608-kripton-and-tron-dao-forge-strategic-alliance-to-revolutionize-digital-payments-in-argentina"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/15/dashr_CY.webp"
 source = "News Direct"
 +++

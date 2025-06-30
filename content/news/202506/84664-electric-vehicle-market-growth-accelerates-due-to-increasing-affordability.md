@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/increasing-affordability
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84664
 feed_item_id = 15232
-url = "/news/202506/84664-electric-vehicle-market-growth-accelerates-due-to-increasing-affordability"
+url = "/202506/84664-electric-vehicle-market-growth-accelerates-due-to-increasing-affordability"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/tallerkw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/the-financial-revolution-unfolds-ai-q
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85850
 feed_item_id = 12014
-url = "/news/202503/85850-ai-and-quantum-encryption-set-to-revolutionize-financial-fraud-prevention"
+url = "/202503/85850-ai-and-quantum-encryption-set-to-revolutionize-financial-fraud-prevention"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/18/openzV8z.webp"
 source = "News Direct"
 +++

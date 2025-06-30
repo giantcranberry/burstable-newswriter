@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/raadr-inc-doing-business-as-tel
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85352
 feed_item_id = 13811
-url = "/news/202505/85352-telvantis-announces-1-million-share-buyback-program-to-boost-shareholder-value"
+url = "/202505/85352-telvantis-announces-1-million-share-buyback-program-to-boost-shareholder-value"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/6/seekvr6S.webp"
 source = "NewMediaWire"
 +++

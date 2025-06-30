@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/ballast-rock-private-wealth-is-named-
 enclosure = "https://cdn.newsramp.app/banners/awards-2.jpg"
 article_id = 87688
 feed_item_id = 15138
-url = "/news/202506/87688-ballast-rock-private-wealth-recognized-as-finalist-in-wealth-management-2025-industry-awards"
+url = "/202506/87688-ballast-rock-private-wealth-recognized-as-finalist-in-wealth-management-2025-industry-awards"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/4/fondPWAP.webp"
 source = "News Direct"
 +++

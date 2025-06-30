@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522343/gl-homes-ex
 enclosure = "https://cdn.newsramp.app/banners/real-estate-3.jpg"
 article_id = 85378
 feed_item_id = 13728
-url = "/news/202505/85378-gl-homes-expands-55-residential-market-in-florida-with-four-new-communities"
+url = "/202505/85378-gl-homes-expands-55-residential-market-in-florida-with-four-new-communities"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/2/davezcqK.webp"
 source = "24-7 Press Release"
 +++

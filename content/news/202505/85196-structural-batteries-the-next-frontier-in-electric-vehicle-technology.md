@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/structural-batteries-cou
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 85196
 feed_item_id = 14486
-url = "/news/202505/85196-structural-batteries-the-next-frontier-in-electric-vehicle-technology"
+url = "/202505/85196-structural-batteries-the-next-frontier-in-electric-vehicle-technology"
 qrcode = "None"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503101453/hr-must-secure-a-seat-at-
 enclosure = "https://cdn.newsramp.app/banners/human-resources-3.jpg"
 article_id = 85914
 feed_item_id = 11771
-url = "/news/202503/85914-hr-professionals-face-critical-skill-gaps-in-strategic-leadership-new-study-reveals"
+url = "/202503/85914-hr-professionals-face-critical-skill-gaps-in-strategic-leadership-new-study-reveals"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/10/airyOlMz.webp"
 source = "Newsworthy.ai"
 +++

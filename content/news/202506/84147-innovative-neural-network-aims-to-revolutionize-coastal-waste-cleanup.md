@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/yandex-open-sources-neural-network-fo
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 84147
 feed_item_id = 15279
-url = "/news/202506/84147-innovative-neural-network-aims-to-revolutionize-coastal-waste-cleanup"
+url = "/202506/84147-innovative-neural-network-aims-to-revolutionize-coastal-waste-cleanup"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/5/ulna_tSC.webp"
 source = "News Direct"
 +++

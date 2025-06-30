@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503271473/texas-global-business-llc
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85773
 feed_item_id = 12254
-url = "/news/202503/85773-strategic-partnership-aims-to-bring-western-balkan-brands-to-north-american-markets"
+url = "/202503/85773-strategic-partnership-aims-to-bring-western-balkan-brands-to-north-american-markets"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/27/clubB47F.webp"
 source = "Newsworthy.ai"
 +++

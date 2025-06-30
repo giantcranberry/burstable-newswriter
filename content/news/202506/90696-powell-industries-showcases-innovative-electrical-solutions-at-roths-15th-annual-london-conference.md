@@ -1,0 +1,16 @@
++++
+title = "Powell Industries Showcases Innovative Electrical Solutions at ROTH’s 15th Annual London Conference"
+date = "2025-06-23T18:11:00Z"
+draft = false
+summary = "Powell Industries Inc. highlighted its custom-engineered electrical energy solutions at ROTH’s 15th Annual London Conference, underscoring its role in key industries and potential growth areas."
+description = "Discover how Powell Industries (NASDAQ: POWL) is leading in electrical energy solutions and its coverage at the 15th Annual London Conference by IBN."
+source_link = "https://rss.investorbrandnetwork.com/iw/powell-industries-inc-nasdaq-powl-featured-in-coverage-of-roths-15th-annual-london-conference/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/23/07f6b9edbe0cc9f6bf49384f0437bcf1.png"
+article_id = 90696
+feed_item_id = 16036
+url = "/202506/90696-powell-industries-showcases-innovative-electrical-solutions-at-roths-15th-annual-london-conference"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/moonGRva.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Powell Industries Inc. (NASDAQ: POWL), a prominent player in the electrical energy sector, recently took part in ROTH’s 15th Annual London Conference, an event that spotlighted the company's innovative solutions for electrical energy distribution, control, and monitoring. The conference, covered by the InvestorBrandNetwork (IBN), served as a platform for Powell Industries to demonstrate its expertise in protecting motors, transformers, and other electrically powered equipment, catering to a broad range of industries including oil and gas, petrochemicals, and electric utilities.</p><p>The participation of Powell Industries in this prestigious conference underscores the company's commitment to innovation and its ability to serve diverse markets such as the light rail traction power market, universities, original equipment manufacturers, and government entities. This versatility not only highlights Powell Industries' broad expertise but also positions the company as a key player in the evolving electrical energy sector.</p><p>IBN’s virtual coverage of the event provided investors and the online investment community with valuable insights into Powell Industries and other participating companies. Through a custom-built portal, attendees were able to access detailed summaries, market research tools, and direct links to company websites, enabling a thorough evaluation of investment opportunities. The extensive reach of the conference, amplified by IBN’s strategic use of social media and syndicated articles, ensured that Powell Industries' innovations and potential were visible to a wide audience of investors.</p><p>For those interested in learning more about Powell Industries and its offerings, the company's website at <a href='https://www.powellind.com' rel='nofollow' target='_blank'>https://www.powellind.com</a> provides comprehensive information. Additionally, IBN’s coverage of the 15th Annual London Conference can be viewed at <a href='https://ibn.fm/RothLondon2025' rel='nofollow' target='_blank'>https://ibn.fm/RothLondon2025</a>, offering further details on the event and its participants.</p>

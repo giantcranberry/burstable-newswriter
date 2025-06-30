@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/massimo-group-nasdaq-mamo
 enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
 article_id = 85241
 feed_item_id = 14179
-url = "/news/202505/85241-massimo-group-launches-digital-retail-platform-to-revolutionize-powersports-equipment-purchasing"
+url = "/202505/85241-massimo-group-launches-digital-retail-platform-to-revolutionize-powersports-equipment-purchasing"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/14/mild_pH4.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/dubais-trusted-auto-car-garage-expert
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85163
 feed_item_id = 14802
-url = "/news/202505/85163-car-garage-expert-sets-new-standards-in-dubais-automotive-repair-industry"
+url = "/202505/85163-car-garage-expert-sets-new-standards-in-dubais-automotive-repair-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/30/hushWVe1.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/new-career-center-for-project-managers
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/752ebfb5893c6d3379bc972aeac920d3.jpg"
 article_id = 84875
 feed_item_id = 14337
-url = "/news/202505/84875-apmic-and-ym-careers-launch-innovative-career-center-for-project-management-professionals"
+url = "/202505/84875-apmic-and-ym-careers-launch-innovative-career-center-for-project-management-professionals"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/255/19/joltp4UI.webp"
 source = "Press Services"
 +++

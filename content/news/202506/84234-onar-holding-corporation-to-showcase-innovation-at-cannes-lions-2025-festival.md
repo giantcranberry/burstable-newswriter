@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-hol
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84234
 feed_item_id = 15021
-url = "/news/202506/84234-onar-holding-corporation-to-showcase-innovation-at-cannes-lions-2025-festival"
+url = "/202506/84234-onar-holding-corporation-to-showcase-innovation-at-cannes-lions-2025-festival"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/fondHEHY.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

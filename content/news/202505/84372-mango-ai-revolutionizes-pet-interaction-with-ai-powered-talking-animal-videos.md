@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523158/mango-ai-he
 enclosure = "https://cdn.newsramp.app/banners/education-1.jpg"
 article_id = 84372
 feed_item_id = 14604
-url = "/news/202505/84372-mango-ai-revolutionizes-pet-interaction-with-ai-powered-talking-animal-videos"
+url = "/202505/84372-mango-ai-revolutionizes-pet-interaction-with-ai-powered-talking-animal-videos"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/milkaI9S.webp"
 source = "24-7 Press Release"
 +++

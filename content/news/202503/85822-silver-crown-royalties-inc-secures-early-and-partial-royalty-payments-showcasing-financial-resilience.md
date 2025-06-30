@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/silver-crown-confirms-receipt-o
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85822
 feed_item_id = 12105
-url = "/news/202503/85822-silver-crown-royalties-inc-secures-early-and-partial-royalty-payments-showcasing-financial-resilience"
+url = "/202503/85822-silver-crown-royalties-inc-secures-early-and-partial-royalty-payments-showcasing-financial-resilience"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/21/wallnhP5.webp"
 source = "NewMediaWire"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Bluepeak Wins 2024 Digital Inclusivity Award for Bridging the Digital Divide"
+date = "2024-08-09T15:00:14Z"
+draft = false
+summary = "Bluepeak's recognition by BroadbandNow for its efforts in promoting digital equity highlights the importance of accessible, affordable high-speed internet in underserved communities."
+description = "Bluepeak has been honored with BroadbandNow’s 2024 Digital Inclusivity Award for their efforts to bring affordable, reliable, and high-quality internet access to underserved and unserved communities, closing the digital divide in the United States."
+source_link = "https://newsdirect.com/news/bluepeak-named-winner-of-broadbandnows-digital-inclusivity-award-503254228"
+enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
+article_id = 92615
+feed_item_id = 5619
+url = "/202408/92615-bluepeak-wins-2024-digital-inclusivity-award-for-bridging-the-digital-divide"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/248/9/wolfbVl1.webp"
+source = "News Direct"
++++
+
+<p>Bluepeak, a leading high-speed fiber internet provider, has been awarded the 2024 Digital Inclusivity Award by BroadbandNow, recognizing its commitment to closing the digital divide in the United States. This award celebrates Bluepeak's innovative strategies and community-focused initiatives aimed at providing affordable, reliable internet access to underserved and unserved areas, marking a significant milestone in the pursuit of digital equity nationwide.</p><p>The Digital Inclusivity Award acknowledges Bluepeak's comprehensive approach to digital inclusion, evaluating factors such as service affordability, accessibility, and efforts to promote digital literacy. Bluepeak's initiatives, including affordable service plans, partnerships with local organizations, and investments in technology, have not only enhanced connectivity but also empowered communities by facilitating education, remote work, and economic growth.</p><p>Rich Fish, Bluepeak's CEO, expressed pride in the company's achievement, emphasizing the team's dedication to making high-speed internet accessible to all, regardless of location. Lana Frank, Chief Commercial Officer, detailed the company's efforts, such as offering tailored service plans and leveraging cutting-edge technology to extend reach and reliability. These initiatives reflect Bluepeak's holistic approach to digital inclusivity, addressing both the infrastructure and educational needs of communities.</p><p>This recognition comes at a pivotal moment, as the demand for reliable internet access has surged, highlighting the critical role of connectivity in modern life. Bluepeak's efforts align with national objectives to ensure all Americans have access to high-speed internet, underscoring the transformative potential of digital equity in fostering community development and economic opportunities.</p><p>Bluepeak's expansion across the Great Plains and Midwest, including significant infrastructure projects, demonstrates its ongoing commitment to its mission. The company's recognition as a leader in digital inclusivity sets a new benchmark for internet service providers, showcasing the impact of innovative, community-centered approaches in addressing the digital divide.</p>

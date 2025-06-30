@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520159/future100-i
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 86035
 feed_item_id = 11499
-url = "/news/202503/86035-uaes-future100-initiative-aims-to-revolutionize-entrepreneurship-and-technology-sectors"
+url = "/202503/86035-uaes-future100-initiative-aims-to-revolutionize-entrepreneurship-and-technology-sectors"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/1/epic2Qgl.webp"
 source = "24-7 Press Release"
 +++

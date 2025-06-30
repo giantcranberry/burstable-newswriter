@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521850/sell-my-hou
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85588
 feed_item_id = 12903
-url = "/news/202504/85588-providence-home-buying-service-revolutionizes-real-estate-with-fast-cash-based-transactions"
+url = "/202504/85588-providence-home-buying-service-revolutionizes-real-estate-with-fast-cash-based-transactions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/16/nukeHoXy.webp"
 source = "24-7 Press Release"
 +++

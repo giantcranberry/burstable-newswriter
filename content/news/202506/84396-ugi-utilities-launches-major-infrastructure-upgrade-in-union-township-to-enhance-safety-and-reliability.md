@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-in-union-to
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/0ef65cc2628c4fe76a6ef9232292fdbd.jpg"
 article_id = 84396
 feed_item_id = 15689
-url = "/news/202506/84396-ugi-utilities-launches-major-infrastructure-upgrade-in-union-township-to-enhance-safety-and-reliability"
+url = "/202506/84396-ugi-utilities-launches-major-infrastructure-upgrade-in-union-township-to-enhance-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/16/roamAu8Q.webp"
 source = "Reportable"
 +++

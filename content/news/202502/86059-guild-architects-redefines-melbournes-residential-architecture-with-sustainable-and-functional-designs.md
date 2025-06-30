@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/guild-architects-leading-residential-a
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/80fa4e260e2493eaf8f11379c2db65b1.png"
 article_id = 86059
 feed_item_id = 11242
-url = "/news/202502/86059-guild-architects-redefines-melbournes-residential-architecture-with-sustainable-and-functional-designs"
+url = "/202502/86059-guild-architects-redefines-melbournes-residential-architecture-with-sustainable-and-functional-designs"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/252/28/jazzRrhP.webp"
 source = "Press Services"
 +++

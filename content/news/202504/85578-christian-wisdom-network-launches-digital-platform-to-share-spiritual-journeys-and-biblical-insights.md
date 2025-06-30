@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521918/christian-w
 enclosure = "https://cdn.newsramp.app/banners/non-profit-1.jpg"
 article_id = 85578
 feed_item_id = 12942
-url = "/news/202504/85578-christian-wisdom-network-launches-digital-platform-to-share-spiritual-journeys-and-biblical-insights"
+url = "/202504/85578-christian-wisdom-network-launches-digital-platform-to-share-spiritual-journeys-and-biblical-insights"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/17/urgeCjRR.webp"
 source = "24-7 Press Release"
 +++

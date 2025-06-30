@@ -1,0 +1,16 @@
++++
+title = "Huntington Fine Jewelers' Annual Trunk Show Offers Exclusive Jewelry Pieces at Half Price"
+date = "2025-04-12T07:05:16Z"
+draft = false
+summary = "Huntington Fine Jewelers' Annual Trunk Show presents a unique opportunity for jewelry enthusiasts to acquire rare and exquisite pieces at 50% off, showcasing a curated selection from international sources across multiple Oklahoma locations this April."
+description = "Huntington Fine Jewelers presents Annual Trunk Show with curated fine jewelry pieces at 50% off. Explore unique designs in Oklahoma and RSVP for a spot today."
+source_link = "https://www.24-7pressrelease.com/press-release/521710/huntington-fine-jewelers-hosts-annual-april-trunk-show"
+enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
+article_id = 90627
+feed_item_id = 12699
+url = "/202504/90627-huntington-fine-jewelers-annual-trunk-show-offers-exclusive-jewelry-pieces-at-half-price"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/12/pineqxKL.webp"
+source = "24-7 Press Release"
++++
+
+<p>Huntington Fine Jewelers is set to host its Annual Trunk Show this April, offering jewelry aficionados a chance to purchase unique and high-quality pieces at unprecedented discounts. The event will feature a meticulously curated collection of international jewelry, handpicked by the company's global buyer, ensuring a selection of rare and exquisite items not commonly found in retail stores.</p><p>The trunk show will make stops in several Oklahoma cities, including Yukon, Midwest City, Norman, Shawnee, Stillwater, and Oklahoma City, making it accessible to a wide range of customers across the region. Each location will showcase a rotating selection of jewelry, with new pieces arriving daily, providing a fresh and dynamic shopping experience for attendees.</p><p>A standout feature of this year's event is the aggressive pricing strategy, with selected pieces available at 50% off their original prices. These discounts are made possible through the company's international buyer, who sources one-of-a-kind designs from premier global suppliers at close-out prices. This approach not only offers significant savings to customers but also introduces them to unique jewelry that stands out for its craftsmanship and design.</p><p>With over 35 years of experience in the Oklahoma City area, Huntington Fine Jewelers has established itself as a trusted name in fine jewelry, known for its high-quality engagement rings, wedding bands, and Swiss-made timepieces. The Annual Trunk Show is a continuation of the company's commitment to providing its clientele with access to exceptional and carefully selected jewelry collections.</p><p>For those interested in attending the event and exploring the exclusive offerings, more information on locations and timings can be found by visiting <a href='https://www.huntingtonfinejewelers.com/contact-us' rel='nofollow' target='_blank'>Huntington Fine Jewelers locations</a>. This trunk show represents a rare opportunity for collectors and jewelry lovers to acquire extraordinary pieces at values that are as exceptional as the items themselves.</p>

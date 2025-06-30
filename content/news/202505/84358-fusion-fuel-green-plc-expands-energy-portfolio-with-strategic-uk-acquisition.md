@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-fusion
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84358
 feed_item_id = 14644
-url = "/news/202505/84358-fusion-fuel-green-plc-expands-energy-portfolio-with-strategic-uk-acquisition"
+url = "/202505/84358-fusion-fuel-green-plc-expands-energy-portfolio-with-strategic-uk-acquisition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/bossoaju.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

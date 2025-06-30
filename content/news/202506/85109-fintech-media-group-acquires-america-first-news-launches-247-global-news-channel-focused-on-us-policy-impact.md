@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/fintech-media-group-acquires-america-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/941230044342683abd5ee81e71f79956.jpg"
 article_id = 85109
 feed_item_id = 15494
-url = "/news/202506/85109-fintech-media-group-acquires-america-first-news-launches-247-global-news-channel-focused-on-us-policy-impact"
+url = "/202506/85109-fintech-media-group-acquires-america-first-news-launches-247-global-news-channel-focused-on-us-policy-impact"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/11/plumzi_G.webp"
 source = "News Direct"
 +++

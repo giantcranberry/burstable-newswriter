@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523837/dublin-wome
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/65071edd6c6a5891e9f7dfe4f08484ef.png"
 article_id = 84031
 feed_item_id = 15649
-url = "/news/202506/84031-the-wagner-law-group-champions-justice-for-sexual-abuse-survivors-at-fci-dublin"
+url = "/202506/84031-the-wagner-law-group-champions-justice-for-sexual-abuse-survivors-at-fci-dublin"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/15/quipVAnj.webp"
 source = "24-7 Press Release"
 +++

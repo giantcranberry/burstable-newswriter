@@ -1,0 +1,16 @@
++++
+title = "Jubi Brand Expands Access to Plant-Based Wellness Shots in MAPCO Stores Nationwide"
+date = "2025-06-10T10:10:27Z"
+draft = false
+summary = "Jubi Brand's launch of functional wellness shots in 229 MAPCO convenience stores marks a significant step towards making plant-based wellness products more accessible to consumers, reflecting a growing demand for natural alternatives to traditional energy products."
+description = "Jubi Brand launches its functional botanical beverages in 229 MAPCO stores, offering clean, plant-based wellness shots for energy, focus, and recovery. Discover more at drinkjubi.com."
+source_link = "https://newsdirect.com/news/jubi-brand-launches-in-229-mapco-locations-across-the-us-441604245"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 90389
+feed_item_id = 15416
+url = "/202506/90389-jubi-brand-expands-access-to-plant-based-wellness-shots-in-mapco-stores-nationwide"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/pink0M_p.webp"
+source = "News Direct"
++++
+
+<p>Jubi Brand has achieved a notable milestone in its quest to make plant-based wellness products more accessible by introducing its full range of functional wellness shots in 229 MAPCO convenience stores across the United States. This move underscores the brand's dedication to incorporating botanical wellness into the daily routines of consumers, providing a clean and effective alternative to conventional energy products.</p><p>The product lineup features Jubi's flagship offerings, including Focus + Mood, Energy + Clarity, and Recovery + Calm formulas. These beverages are designed with clean, plant-based ingredients to enhance energy, focus, and overall well-being, setting them apart from traditional energy products by eliminating crashes and unnecessary additives.</p><p>Matt Delmore, Chief Marketing Officer at Jubi Brand, remarked on the significance of this expansion, stating, 'Our expansion into MAPCO represents a pivotal milestone for Jubi.' He highlighted the brand's objective to ensure high-performance wellness products are easily accessible to consumers in their daily environments, such as where they live, work, and travel.</p><p>At participating MAPCO locations, Jubi's products will be featured in specially designated wellness displays, offering consumers a convenient option for clean energy, mental clarity, and recovery solutions on the go. This collaboration with MAPCO is a strategic effort by Jubi to extend its retail footprint across the nation, advancing its goal of integrating botanical wellness into the mainstream consumer experience.</p><p>This expansion is not only a significant achievement for Jubi Brand but also indicative of a broader trend in the wellness industry towards natural, plant-based alternatives to traditional energy and wellness products. By positioning its products in convenience stores, Jubi is catering to the modern consumer's need for wellness solutions that align with a fast-paced lifestyle.</p>

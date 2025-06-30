@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neo-battery-materials-to-partic
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85208
 feed_item_id = 14411
-url = "/news/202505/85208-neo-battery-materials-to-showcase-silicon-anode-innovations-at-ladenburg-thalmann-innovation-expo2025"
+url = "/202505/85208-neo-battery-materials-to-showcase-silicon-anode-innovations-at-ladenburg-thalmann-innovation-expo2025"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/20/beanx3Yb.webp"
 source = "NewMediaWire"
 +++

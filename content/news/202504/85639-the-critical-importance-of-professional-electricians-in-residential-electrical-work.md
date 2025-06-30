@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/switched-on-london-highlights-the-val
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85639
 feed_item_id = 12656
-url = "/news/202504/85639-the-critical-importance-of-professional-electricians-in-residential-electrical-work"
+url = "/202504/85639-the-critical-importance-of-professional-electricians-in-residential-electrical-work"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/10/joinyZro.webp"
 source = "News Direct"
 +++

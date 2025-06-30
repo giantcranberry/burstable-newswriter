@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/vorakai-launches-starlink-high-speed-
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/eab6a05dfec9b046d884a1f2690ee09e.png"
 article_id = 85489
 feed_item_id = 13231
-url = "/news/202504/85489-timor-leste-embarks-on-digital-transformation-with-starlink-partnership"
+url = "/202504/85489-timor-leste-embarks-on-digital-transformation-with-starlink-partnership"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/24/mosshadE.webp"
 source = "News Direct"
 +++

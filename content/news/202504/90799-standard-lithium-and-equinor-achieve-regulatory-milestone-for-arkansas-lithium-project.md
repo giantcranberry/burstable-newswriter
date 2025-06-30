@@ -1,0 +1,16 @@
++++
+title = "Standard Lithium and Equinor Achieve Regulatory Milestone for Arkansas Lithium Project"
+date = "2025-04-25T02:22:51Z"
+draft = false
+summary = "The Arkansas Oil and Gas Commission's approval of the Reynolds Unit for Phase I of the South West Arkansas Project marks a significant advancement in domestic lithium production, supporting renewable energy and electric vehicle manufacturing."
+description = "Standard Lithium, in collaboration with Equinor, secures Arkansas Oil and Gas Commission approval for Phase I of the South West Arkansas Project. Learn more about the milestone towards commercial lithium production and its impact on the renewable energy industry."
+source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-standard-lithium-ltd-nyse-american-sli-jv-gains-unanimous-approval-for-reynolds-brine-unit-in-arkansas/"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
+article_id = 90799
+feed_item_id = 13246
+url = "/202504/90799-standard-lithium-and-equinor-achieve-regulatory-milestone-for-arkansas-lithium-project"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/clubltK0.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Standard Lithium Ltd., in collaboration with Equinor, has reached a pivotal regulatory milestone with the Arkansas Oil and Gas Commission's unanimous approval of the Reynolds Unit for Phase I of the South West Arkansas Project. This approval is a cornerstone for the joint venture's lithium development strategy, setting the stage for the production of 22,500 tonnes of battery-quality lithium carbonate annually from a 20,854-acre brine unit, with commercial production aimed for 2028.</p><p>The project's location in the Smackover Formation, renowned for its high-quality lithium-brine resources and existing infrastructure, positions it as a key player in the lithium market. Standard Lithium's commitment to sustainable development and its innovative direct lithium extraction and purification process are central to the project's design, promising a scalable and environmentally conscious approach to lithium production.</p><p>Strategic partnerships, such as the one with Equinor ASA, are instrumental in advancing the United States' lithium production capabilities. The South West Arkansas Project is poised to make a substantial contribution to domestic battery material supply chains, potentially diminishing the country's dependence on international lithium sources. This development is timely, as the demand for lithium, driven by renewable energy technologies and the electric vehicle industry, continues to escalate globally.</p><p>The approval of the Reynolds Unit not only facilitates the joint venture's progress toward a final investment decision and royalty rate determination expected in May but also highlights the critical role of lithium in achieving global electrification and sustainability goals. As the world shifts towards cleaner energy solutions, projects like the South West Arkansas Project are essential in meeting the increasing demand for battery materials and supporting the transition to a low-carbon economy.</p>

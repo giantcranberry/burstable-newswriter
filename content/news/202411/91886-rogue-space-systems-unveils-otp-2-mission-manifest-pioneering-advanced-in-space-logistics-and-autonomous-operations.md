@@ -1,0 +1,16 @@
++++
+title = "Rogue Space Systems Unveils OTP-2 Mission Manifest, Pioneering Advanced In-Space Logistics and Autonomous Operations"
+date = "2024-11-04T08:00:13Z"
+draft = false
+summary = "Rogue Space Systems Corporation's OTP-2 mission, set for February 2025, marks a significant advancement in in-space logistics and autonomous operations, featuring cutting-edge technologies that could revolutionize space exploration and infrastructure."
+description = "Rogue Space Systems Corporation announces its next mission featuring new mission capabilities and a compliment of commercial hosted payloads, including the testing of developments in mission operations and algorithms for future In-Space Logistics services. The mission will also feature cutting-edge payloads and the potential for future in-space services."
+source_link = "https://www.24-7pressrelease.com/press-release/515833/rogue-announces-full-manifest-of-their-next-mission-otp-2"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0515833_210462.png"
+article_id = 91886
+feed_item_id = 8203
+url = "/202411/91886-rogue-space-systems-unveils-otp-2-mission-manifest-pioneering-advanced-in-space-logistics-and-autonomous-operations"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2411/4/joinn0rH.webp"
+source = "24-7 Press Release"
++++
+
+<p>Rogue Space Systems Corporation has announced the full manifest for its OTP-2 mission, a pivotal step towards achieving advanced in-space logistics services and autonomous operations, with a launch scheduled no earlier than February 2025. The mission will test Rogue's Scalable Compute Platform (SCP) and ASTRA autonomy system, aiming to autonomously manage spacecraft health and operational goals, a leap forward in space technology.</p><p>The OTP-2 spacecraft will be equipped with five optical sensors and a star tracker, enhancing its observational and navigational capabilities. These features, interfacing directly with the SCP, enable real-time processing and decision-making, setting the stage for future missions like OTP-3, which will demonstrate advanced Rendezvous and Proximity Operations (RPO) capabilities.</p><p>Highlighting the mission's innovative payloads, Forward Edge AI's Isidore Quantum® Space Encryptor promises to secure communications in space with quantum-resistant encryption. Meanwhile, IVO Limited's Quantum Drive, a propellant-free pure electric propulsion system, could significantly reduce spacecraft mass and complexity, potentially transforming space mission economics.</p><p>Jon Beam, Rogue's CEO, underscored the mission's significance, stating it propels the company towards its vision of reliable in-space service provision. The OTP-2 mission is a cornerstone of Rogue's strategy to industrialize space, featuring Waypoint™ stations and Orbots™ as part of a robotic workforce, aiming for a sustainable space economy.</p><p>The OTP-2 mission's success could herald a new era of efficient, autonomous spacecraft, crucial for the future of space exploration and infrastructure. With the OTP-3 mission on the horizon, offering opportunities for industry participation, Rogue Space Systems continues to lead in the commercial space sector's rapid innovation.</p>

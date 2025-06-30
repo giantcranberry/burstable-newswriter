@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702776/merchant-appoints-rich-poli
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84181
 feed_item_id = 15169
-url = "/news/202506/84181-merchant-appoints-rich-policastro-as-managing-director-to-strengthen-financial-services-ecosystem"
+url = "/202506/84181-merchant-appoints-rich-policastro-as-managing-director-to-strengthen-financial-services-ecosystem"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/plum7uyW.webp"
 source = "citybiz"
 +++

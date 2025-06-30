@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/search-atlas-unveils-new-ai-seo-servic
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/aa7e75c3ea6f734352dd90b5990b309d.jpg"
 article_id = 84379
 feed_item_id = 14578
-url = "/news/202505/84379-search-atlas-revolutionizes-digital-marketing-with-ai-powered-seo-services"
+url = "/202505/84379-search-atlas-revolutionizes-digital-marketing-with-ai-powered-seo-services"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/255/23/mint3aTL.webp"
 source = "Press Services"
 +++

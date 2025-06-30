@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/solarbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84725
 feed_item_id = 15035
-url = "/news/202506/84725-solarbank-corporation-launches-69-mw-community-solar-project-in-nova-scotia"
+url = "/202506/84725-solarbank-corporation-launches-69-mw-community-solar-project-in-nova-scotia"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/icy67By.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

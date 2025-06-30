@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522365/levelup-lau
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85395
 feed_item_id = 13680
-url = "/news/202505/85395-levelup-lms-enhances-corporate-training-with-advanced-tracking-and-mobile-accessibility"
+url = "/202505/85395-levelup-lms-enhances-corporate-training-with-advanced-tracking-and-mobile-accessibility"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/1/seekXBOW.webp"
 source = "24-7 Press Release"
 +++

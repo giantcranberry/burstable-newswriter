@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/nephros-to-host-analyst-and-inv
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 84347
 feed_item_id = 14675
-url = "/news/202505/84347-nephros-inc-to-unveil-strategic-growth-plans-and-innovations-in-water-safety-technologies-at-virtual-investor-event"
+url = "/202505/84347-nephros-inc-to-unveil-strategic-growth-plans-and-innovations-in-water-safety-technologies-at-virtual-investor-event"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/28/pear1Oft.webp"
 source = "NewMediaWire"
 +++

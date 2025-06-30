@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-nightf
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85388
 feed_item_id = 13696
-url = "/news/202505/85388-nightfood-holdings-inc-announces-leadership-overhaul-to-spearhead-ai-and-hospitality-innovation"
+url = "/202505/85388-nightfood-holdings-inc-announces-leadership-overhaul-to-spearhead-ai-and-hospitality-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/1/ninaNQnu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-knight
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85297
 feed_item_id = 13984
-url = "/news/202505/85297-knightscope-joins-auvsi-to-shape-the-future-of-autonomous-security-and-robotics-policy"
+url = "/202505/85297-knightscope-joins-auvsi-to-shape-the-future-of-autonomous-security-and-robotics-policy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/9/chipyksC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

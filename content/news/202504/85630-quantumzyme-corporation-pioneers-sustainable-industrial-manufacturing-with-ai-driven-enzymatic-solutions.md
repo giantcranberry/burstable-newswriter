@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/quantumzyme-advancing-enzymatic
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 85630
 feed_item_id = 12689
-url = "/news/202504/85630-quantumzyme-corporation-pioneers-sustainable-industrial-manufacturing-with-ai-driven-enzymatic-solutions"
+url = "/202504/85630-quantumzyme-corporation-pioneers-sustainable-industrial-manufacturing-with-ai-driven-enzymatic-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/11/boldmzs1.webp"
 source = "NewMediaWire"
 +++

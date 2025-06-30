@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/unlock-powerful-seo-solutions-with-adv
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/1211c319529f0ad79751270374b709b2.jpg"
 article_id = 85916
 feed_item_id = 11759
-url = "/news/202503/85916-new-ai-driven-seo-platform-set-to-transform-digital-marketing-strategies"
+url = "/202503/85916-new-ai-driven-seo-platform-set-to-transform-digital-marketing-strategies"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/9/knobjtyA.webp"
 source = "Press Services"
 +++

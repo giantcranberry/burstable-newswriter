@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/why-the-crypto-bill-in-t
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 85267
 feed_item_id = 14112
-url = "/news/202505/85267-senate-democrats-block-crypto-regulatory-measure-signaling-shift-in-political-support-for-digital-currencies"
+url = "/202505/85267-senate-democrats-block-crypto-regulatory-measure-signaling-shift-in-political-support-for-digital-currencies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/calm2P9s.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

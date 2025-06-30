@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703169/b-riley-securities-appoints
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84666
 feed_item_id = 15222
-url = "/news/202506/84666-b-riley-securities-strengthens-real-estate-investment-banking-team-with-eric-dobi"
+url = "/202506/84666-b-riley-securities-strengthens-real-estate-investment-banking-team-with-eric-dobi"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/numbhs5K.webp"
 source = "citybiz"
 +++

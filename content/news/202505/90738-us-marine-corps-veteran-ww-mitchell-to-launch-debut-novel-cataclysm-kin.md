@@ -1,0 +1,16 @@
++++
+title = "U.S. Marine Corps Veteran W.W. Mitchell to Launch Debut Novel 'Cataclysm Kin'"
+date = "2025-05-15T07:05:29Z"
+draft = false
+summary = "W.W. Mitchell, a U.S. Marine Corps veteran, is set to release his debut novel 'Cataclysm Kin,' a dark fantasy that explores themes of divine trauma and ancient conflicts, marking the beginning of a seven-book series and showcasing his journey from personal struggles to creative resilience."
+description = "Discover the journey of Marine Corps veteran W.W. Mitchell as he releases his debut novel Cataclysm Kin, a captivating horror-fantasy saga. Learn how Mitchell's personal struggles shaped his storytelling vision and paved the way for a new literary universe filled with cosmic terror and redemptive power."
+source_link = "https://www.24-7pressrelease.com/press-release/522666/from-homelessness-to-horror-fiction-veteran-ww-mitchell-unleashes-cataclysm-kin-a-dark-fantasy-epic-on-july-15th"
+enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-2.jpg"
+article_id = 90738
+feed_item_id = 14203
+url = "/202505/90738-us-marine-corps-veteran-ww-mitchell-to-launch-debut-novel-cataclysm-kin"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/deepta9E.webp"
+source = "24-7 Press Release"
++++
+
+<p>W.W. Mitchell, a U.S. Marine Corps veteran, is preparing to launch his debut novel, 'Cataclysm Kin,' on July 15th. This dark fantasy novel, the first in a planned seven-book series, delves into the lives of two celestial sisters, Edith and Bethany, whose transformed relationship could precipitate a realm-collapsing conflict. Mitchell's narrative weaves together mythology, psychological exploration, and apocalyptic themes, offering a story that challenges genre boundaries.</p><p>Mitchell's journey to authorship is as compelling as his novel. After serving in the military, he faced personal challenges, including homelessness and depression, during which writing became a beacon of hope. This period of adversity led to the creation of Trigonic Press, an independent publishing house aimed at fostering multimedia storytelling. 'Cataclysm Kin' not only represents Mitchell's literary debut but also his triumph over personal struggles.</p><p>The novel explores profound themes such as divine trauma and the thin line between salvation and destruction. Mitchell describes his work as a bold blend of genres, featuring characters that are both epic in scale and deeply human. Beyond the book, Mitchell's creative vision extends into multimedia, with a limited series pilot for 'Cataclysm Kin' in early production and his second novel, 'The Legend of Sky City,' being considered for a feature film adaptation.</p><p>'Cataclysm Kin' will be available in various formats, including paperback, hardcover, and digital, allowing readers to immerse themselves in Mitchell's intricate narrative world. This launch is not just a milestone in Mitchell's career but also a testament to the power of resilience and creativity in overcoming life's challenges.</p>

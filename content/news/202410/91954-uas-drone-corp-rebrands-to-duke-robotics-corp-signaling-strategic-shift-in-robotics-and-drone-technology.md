@@ -1,0 +1,16 @@
++++
+title = "UAS Drone Corp. Rebrands to DUKE Robotics Corp., Signaling Strategic Shift in Robotics and Drone Technology"
+date = "2024-10-29T10:05:10Z"
+draft = false
+summary = "UAS Drone Corp. announces its rebranding to DUKE Robotics Corp., reflecting a strategic realignment towards expanding its innovative technology in military and civilian applications."
+description = "UAS Drone Corp. (OTCQB: USDR) is rebranding as Duke Robotics Corp with a new ticker symbol, DUKR, effective November 4, 2024. The company's CEO, Yossef Balucka, emphasized that this change aligns with their strategic vision to expand the reach of their innovative technology across multiple fields and applications."
+source_link = "https://newsdirect.com/news/uas-drone-corp-to-rebrand-as-duke-robotics-corp-new-ticker-symbol-dukr-963624270"
+enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
+article_id = 91954
+feed_item_id = 8058
+url = "/202410/91954-uas-drone-corp-rebrands-to-duke-robotics-corp-signaling-strategic-shift-in-robotics-and-drone-technology"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/29/markGr0o.webp"
+source = "News Direct"
++++
+
+<p>UAS Drone Corp. (OTCQB: USDR) is set to undergo a significant transformation, rebranding as DUKE Robotics Corp. with a new ticker symbol 'DUKR', effective at the market open on November 4, 2024. This change underscores the company's strategic realignment to better reflect its corporate identity and future aspirations in the robotics and drone technology sector.</p><p>CEO Yossef Balucka highlighted that the rebranding reinforces the company's identity as DUKE Robotics and aligns with its vision to broaden the application of its technology. This strategic move comes amidst rapid industry growth, with increasing demand for advanced solutions in both military and civilian sectors. DUKE Robotics Corp., through its subsidiary Duke Robotics Ltd., has been pioneering in developing systems like TIKAD, an advanced robotic system for remote, real-time firearm operation via UAVs, and the IC Drone, a robotic solution for cleaning electric utility insulators.</p><p>The rebranding is poised to enhance the company's market positioning and investor appeal, aligning its corporate name with its operational focus on advanced stabilization and autonomous solutions. Despite the name and ticker symbol change, the company's CUSIP number and transfer agent will remain the same, ensuring trading and shareholder continuity.</p><p>As DUKE Robotics Corp. embarks on this new chapter, the industry is keenly observing how this rebranding will influence its market presence and ability to leverage opportunities in high-growth technology fields, including AI, robotics, and unmanned aerial systems. More information is available on the company's website at <a href='https://www.dukeroboticsys.com' rel='nofollow' target='_blank'>https://www.dukeroboticsys.com</a> or through SEC filings at <a href='https://www.sec.gov' rel='nofollow' target='_blank'>https://www.sec.gov</a>.</p>

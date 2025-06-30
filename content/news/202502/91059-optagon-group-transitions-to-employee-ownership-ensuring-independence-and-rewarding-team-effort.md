@@ -1,0 +1,16 @@
++++
+title = "Optagon Group Transitions to Employee Ownership, Ensuring Independence and Rewarding Team Effort"
+date = "2025-02-21T08:00:22Z"
+draft = false
+summary = "Optagon Group's shift to employee ownership underscores a commitment to independence and team recognition, setting a progressive example in business management."
+description = "Coventry-based Optagon Group transitions to Employee Ownership Trust, empowering workforce to control company's destiny. Skyseal's commitment to exceptional roofing solutions highlighted through modern products and services."
+source_link = "https://www.24-7pressrelease.com/press-release/519904/skyseal-is-now-proudly-owned-by-its-employees"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 91059
+feed_item_id = 11038
+url = "/202502/91059-optagon-group-transitions-to-employee-ownership-ensuring-independence-and-rewarding-team-effort"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/21/lamb8ztQ.webp"
+source = "24-7 Press Release"
++++
+
+<p>Optagon Group, a Coventry-based leader in roofing materials, has embarked on a transformative journey by transitioning to an employee-owned business model. This strategic move involves the transfer of majority ownership to its workforce of 50 through an Employee Ownership Trust (EOT), marking a significant shift in the company's governance and operational ethos. The decision, spearheaded by founders Tom and Tina Cullingford, came after they turned down a lucrative acquisition offer, choosing instead to preserve the company's independence and acknowledge the collective contributions of their team.</p><p>The transition not only reinforces the company's commitment to its employees but also introduces a new chapter in its leadership structure. Tom Cullingford remains at the helm as managing director, with Antony Murray and Zoe George stepping into roles as legal directors. Murray highlighted the transition as a testament to the team's dedication and a unique opportunity for deeper organizational engagement.</p><p>BCMS, a specialist in employee-owned corporate finance, played a pivotal role in advising Optagon Group through this transition. The Cullingfords lauded BCMS for their expert guidance and hands-on support, which ensured a seamless transfer of ownership.</p><p>Under its new ownership model, Optagon Group continues to innovate through its key brands, including Skyseal, which offers cutting-edge roofing solutions. The company's 3D configurator remains a standout feature, allowing customers to tailor roof solutions to their precise needs. This move to employee ownership is not just a change in structure but a forward-thinking approach to business that empowers employees, fosters motivation, and drives performance by giving workers a direct stake in the company's success.</p><p>This development is significant for leaders in business and technology, as it exemplifies how traditional industries can adopt innovative ownership models to enhance competitiveness and employee satisfaction. The implications of Optagon Group's transition extend beyond the roofing industry, offering insights into the potential benefits of employee ownership in fostering sustainable business growth and organizational resilience.</p>

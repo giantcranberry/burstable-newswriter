@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/moneyshow-masters-symposi
 enclosure = "https://cdn.newsramp.app/banners/government-politics-1.jpg"
 article_id = 84090
 feed_item_id = 15452
-url = "/news/202506/84090-moneyshow-masters-symposium-las-vegas-2025-navigating-the-great-money-reset"
+url = "/202506/84090-moneyshow-masters-symposium-las-vegas-2025-navigating-the-great-money-reset"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/ninaXY5y.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

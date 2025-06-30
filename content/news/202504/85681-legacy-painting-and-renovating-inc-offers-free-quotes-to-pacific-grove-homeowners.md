@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521438/legacy-pain
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85681
 feed_item_id = 12512
-url = "/news/202504/85681-legacy-painting-and-renovating-inc-offers-free-quotes-to-pacific-grove-homeowners"
+url = "/202504/85681-legacy-painting-and-renovating-inc-offers-free-quotes-to-pacific-grove-homeowners"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/limejXd4.webp"
 source = "24-7 Press Release"
 +++

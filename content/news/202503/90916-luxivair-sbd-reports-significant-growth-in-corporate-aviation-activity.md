@@ -1,0 +1,16 @@
++++
+title = "Luxivair SBD Reports Significant Growth in Corporate Aviation Activity"
+date = "2025-03-20T07:00:30Z"
+draft = false
+summary = "Luxivair SBD at San Bernardino International Airport sees a 10% increase in corporate flights in 2024, highlighting its strategic advantages and comprehensive services in the corporate aviation sector."
+description = "Luxivair SBD at San Bernardino International Airport reports significant growth in corporate aviation activity, inviting attendees to discover its offerings at the 2025 NBAA Schedulers & Dispatchers Conference. Learn more about the FBO's luxurious amenities and competitive pricing in Southern California."
+source_link = "https://www.24-7pressrelease.com/press-release/520679/luxivair-sbd-reports-strong-growth-in-corporate-aircraft-activity"
+enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
+article_id = 90916
+feed_item_id = 12072
+url = "/202503/90916-luxivair-sbd-reports-significant-growth-in-corporate-aviation-activity"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/20/glowIfEO.webp"
+source = "24-7 Press Release"
++++
+
+<p>Luxivair SBD, a fixed-base operator located at San Bernardino International Airport, has reported a notable increase in corporate aviation activity, with 9,890 corporate flights recorded in 2024. This marks a 10% rise from the previous year and an impressive 114% growth over the past five years. The facility's strategic location, just 60 miles from Los Angeles, offers a cost-effective and convenient alternative to the region's more congested airports.</p><p>Mark Gibbs, the Airport's Director of Aviation, pointed out the facility's strategic benefits, including its ability to provide wide-open skies and easy access, avoiding the crowded airspace typical of the area. Luxivair SBD is set to present its achievements at the 2025 NBAA Schedulers & Dispatchers Conference in New Orleans, an event that Wendy McConaughey, Luxivair SBD's Manager, believes aligns with the company's approach to aviation services.</p><p>The Luxivair SBD facility boasts a two-story atrium with travertine floors and floor-to-ceiling windows that offer stunning views of the San Bernardino Mountains. It is equipped with a range of amenities such as an advanced conference room, flight planning area, crew lounge, exercise room, and a theater with stadium seating. The FBO provides comprehensive services including ground support, concierge professionals, premium courtesy vehicles, and car rentals, including hydrogen vehicles. Additionally, on-site U.S. Customs and Immigration facilities make it particularly appealing for international flights, while on-field maintenance, repair, and overhaul businesses ensure aircraft are kept in optimal condition.</p><p>With competitive pricing and no facility fees, Luxivair SBD continues to establish itself as a preferred choice for corporate aviation, offering a viable alternative to the more congested facilities in Southern California. The consistent growth in its operations underscores the facility's rising prominence in the corporate aviation industry.</p>

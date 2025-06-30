@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-mullen
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85598
 feed_item_id = 12804
-url = "/news/202504/85598-mullen-automotive-marks-milestone-with-first-sale-of-all-electric-cargo-van"
+url = "/202504/85598-mullen-automotive-marks-milestone-with-first-sale-of-all-electric-cargo-van"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/loft8RCg.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-beeline-
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84191
 feed_item_id = 15144
-url = "/news/202506/84191-beeline-holdings-inc-introduces-innovative-home-equity-access-product-using-stablecoins"
+url = "/202506/84191-beeline-holdings-inc-introduces-innovative-home-equity-access-product-using-stablecoins"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/flax2uRE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

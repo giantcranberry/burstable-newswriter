@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/latino-wall-street-and-fintech-tv-mak
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-2.jpg"
 article_id = 85827
 feed_item_id = 12082
-url = "/news/202503/85827-latino-wall-street-and-fintechtv-partner-to-democratize-financial-education-for-spanish-speaking-investors"
+url = "/202503/85827-latino-wall-street-and-fintechtv-partner-to-democratize-financial-education-for-spanish-speaking-investors"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/20/takemL4c.webp"
 source = "News Direct"
 +++

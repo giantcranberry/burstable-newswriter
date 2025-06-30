@@ -1,0 +1,16 @@
++++
+title = "Exovera Strengthens Leadership with Former CIA Executive to Advance AI-Driven Security Solutions"
+date = "2025-06-03T08:30:05Z"
+draft = false
+summary = "Exovera appoints Jennifer Moffatt, a former CIA Chief of Strategic Partnerships, as Vice President for Business Development to leverage her expertise in OSINT and counterterrorism for enhancing the company's AI-driven security technologies."
+description = "Exovera appoints former CIA executive Jennifer Moffatt as VP for Business Development, enhancing its AI-driven security solutions with her expertise in open source intelligence."
+source_link = "https://www.citybiz.co/article/701347/exovera-hires-former-cia-executive-jennifer-moffatt-as-vice-president-for-business-development/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 90716
+feed_item_id = 14949
+url = "/202506/90716-exovera-strengthens-leadership-with-former-cia-executive-to-advance-ai-driven-security-solutions"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/paleLYpL.webp"
+source = "citybiz"
++++
+
+<p>Exovera, a leader in AI-driven solutions for risk reduction and security enhancement, has announced the appointment of Jennifer Moffatt as Vice President for Business Development. Moffatt, who recently retired from the Central Intelligence Agency (CIA) as the Chief of Strategic Partnerships at the Open Source Enterprise, brings a wealth of experience in open source intelligence (OSINT) and counterterrorism to Exovera.</p><p>During her tenure at the CIA, Moffatt was instrumental in leading enterprise-wide outreach and engagement efforts with foreign partners, private industry, academia, and intelligence community stakeholders. Her global service across three CIA directorates, both overseas and in the Washington, D.C. area, underscores her deep understanding of OSINT's strategic value and tradecraft.</p><p>Moffatt expressed her enthusiasm for Exovera's exoINSIGHTTM, a Digital Intelligence, Surveillance, and Reconnaissance (D-ISR) system, noting its unique capability to collect and analyze open source information in disconnected environments. The system employs artificial intelligence to provide early indications and warnings, facilitate research across large data sets, and support full-spectrum information operations.</p><p>Bob Sogegian, CEO of Exovera, highlighted Moffatt's firsthand understanding of OSINT's strategic value as a key asset in identifying opportunities for impactful outcomes. Her expertise is expected to drive the company's efforts in customizing and deploying exoINSIGHT to support a broad spectrum of operations, further solidifying Exovera's position as a provider of transformational technology that turns data into actionable insight.</p><p>This strategic hire underscores Exovera's commitment to enhancing its capabilities in data collection and analysis, particularly in challenging environments. Moffatt's leadership and experience are anticipated to play a pivotal role in advancing the company's mission to deliver innovative solutions that address the complexities of modern security challenges.</p>

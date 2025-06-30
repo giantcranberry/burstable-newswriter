@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202503251465/rchilli-expands-beyond-pa
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85791
 feed_item_id = 12199
-url = "/news/202503/85791-rchilli-introduces-ai-powered-recruitment-tools-to-transform-talent-acquisition"
+url = "/202503/85791-rchilli-introduces-ai-powered-recruitment-tools-to-transform-talent-acquisition"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/253/25/roamrlcS.webp"
 source = "Newsworthy.ai"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522627/jmk5-holdin
 enclosure = "https://cdn.newsramp.app/banners/real-estate-2.jpg"
 article_id = 85304
 feed_item_id = 13956
-url = "/news/202505/85304-world-gym-texas-city-embarks-on-new-chapter-under-local-ownership-signaling-growth-for-mainland-city-centre"
+url = "/202505/85304-world-gym-texas-city-embarks-on-new-chapter-under-local-ownership-signaling-growth-for-mainland-city-centre"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/9/arch088A.webp"
 source = "24-7 Press Release"
 +++

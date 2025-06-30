@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/space-exploration-will-continue
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 84829
 feed_item_id = 14511
-url = "/news/202505/84829-private-sector-fuels-space-exploration-amid-nasa-budget-cuts"
+url = "/202505/84829-private-sector-fuels-space-exploration-amid-nasa-budget-cuts"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/22/filej7zz.webp"
 source = "NewMediaWire"
 +++

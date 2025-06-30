@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703104/blink-charging-names-michae
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84165
 feed_item_id = 15214
-url = "/news/202506/84165-blink-charging-co-appoints-michael-bercovich-as-new-cfo-to-drive-strategic-growth"
+url = "/202506/84165-blink-charging-co-appoints-michael-bercovich-as-new-cfo-to-drive-strategic-growth"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/jazzYyYr.webp"
 source = "citybiz"
 +++

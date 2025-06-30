@@ -1,0 +1,16 @@
++++
+title = "Mullen Automotive Expands Bollinger Motors' Retail Network into California's Central Valley"
+date = "2024-09-12T13:45:14Z"
+draft = false
+summary = "Mullen Automotive's strategic expansion into California's Central Valley through its subsidiary Bollinger Motors and partnership with Affinity Truck Center marks a significant step in the commercial EV market, offering potential growth and cleaner transportation solutions."
+description = "Mullen Automotive (NASDAQ: MULN) announces addition of Affinity Truck Center to its retail network, expanding its presence in the electric vehicle market."
+source_link = "https://rss.investorbrandnetwork.com/ult-prem/mullen-nasdaq-muln-subsidiary-gains-strong-foothold-in-californias-central-valley/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 92314
+feed_item_id = 6793
+url = "/202409/92314-mullen-automotive-expands-bollinger-motors-retail-network-into-californias-central-valley"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/249/12/frogawDl.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Mullen Automotive, an emerging electric vehicle (EV) manufacturer, has announced a strategic expansion of its subsidiary Bollinger Motors' retail network into California's Central Valley, partnering with Affinity Truck Center. This partnership leverages Affinity's 44-year history in the transportation industry and its extensive presence in the region, including sales locations in Bakersfield and Fresno, and service centers in Paso Robles and Salinas.</p><p>Jim Connelly, Chief Revenue Officer of Bollinger, highlighted the partnership's significance, noting Affinity's capability to support Bollinger's electrification efforts in the Central Valley. This expansion is part of Mullen Automotive's broader strides in the EV industry, including the commencement of commercial vehicle production in Tunica, Mississippi, and receiving IRS approval for federal EV tax credits on its commercial vehicles, offering up to $7,500 per vehicle to eligible customers.</p><p>Mullen's product lineup, featuring the Mullen ONE and Mullen THREE, both CARB and EPA certified, is now available across the United States. The expansion into California's Central Valley, a region pivotal to the state's agricultural and logistics industries, underscores Mullen's commitment to the commercial EV market and the transition to cleaner transportation options.</p><p>This strategic move not only positions Mullen and Bollinger to meet the growing demand for electric commercial vehicles in a key economic region but also leverages local market knowledge and customer relationships through established dealers like Affinity Truck Center. The expansion enhances Bollinger's sales and service capabilities, crucial for the adoption of new vehicle technologies in the Central Valley.</p><p>As the EV industry evolves, Mullen Automotive's expansion and partnership strategy may significantly contribute to the electrification of commercial fleets, aligning with California's leadership in EV adoption and stringent emissions regulations. This development signals Mullen's potential for growth in the competitive electric vehicle market, emphasizing the importance of a robust retail and service network in accelerating EV adoption.</p>

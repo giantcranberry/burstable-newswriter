@@ -1,0 +1,16 @@
++++
+title = "AI Study Reveals Generational Perceptions and Biases in AI-Generated Imagery"
+date = "2024-09-23T14:00:17Z"
+draft = false
+summary = "A groundbreaking study by AIport and Turing Post uncovers how AI models depict different generations, highlighting cultural biases and the importance of diverse training data."
+description = "A joint research project by AIport and Turing Post reveals how AI perceives Baby Boomers, Gen X, Millennials, and Gen Z, offering insights into generational differences and societal stereotypes."
+source_link = "https://newsdirect.com/news/ai-unpacks-generational-stereotypes-highlighting-key-differences-but-beer-bridges-the-gap-726579514"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
+article_id = 92252
+feed_item_id = 7043
+url = "/202409/92252-ai-study-reveals-generational-perceptions-and-biases-in-ai-generated-imagery"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/249/23/dualFLLo.webp"
+source = "News Direct"
++++
+
+<p>A recent study conducted by AIport and Turing Post has provided new insights into how artificial intelligence perceives and portrays different generations, uncovering both expected stereotypes and surprising nuances. The research analyzed over 1200 AI-generated images across four models, including Stable Diffusion, Midjourney, YandexART, and ERNIE-ViLG, to explore societal views of Baby Boomers, Gen X, Millennials, and Gen Z.</p><p>One of the most notable findings was the depiction of Baby Boomers, which contradicted the carefree stereotype often associated with them. Instead, models like Midjourney portrayed Boomers as introspective or somber, possibly reflecting disillusionment with unfulfilled ideals from the 1960s. In contrast, ERNIE-ViLG, likely influenced by collectivist cultural datasets, showed 93% of Boomers smiling, underscoring the impact of cultural differences on AI perceptions.</p><p>Gen Z was depicted in vibrant and diverse scenarios, aligning with their reputation for individuality and inclusivity. Meanwhile, Gen X appeared to be the least understood generation, with fewer defining features, possibly due to limited training data. However, a consistent stereotype identified was their fondness for flannel shirts, a nod to the 1990s grunge scene.</p><p>The study also revealed an unexpected commonality across all generations: the presence of beer in 34% of the images, suggesting some cultural elements transcend generational divides. These findings highlight the biases inherent in AI training data and the need for diverse datasets to ensure accurate and fair representations.</p><p>Senior Engineer and Sociologist Stephanie Kirmer emphasized the importance of critically analyzing AI-generated content, noting the uncertainty in whether the representations reflect self-identity or external media portrayals. This research underscores the ethical considerations in AI development and the necessity for ongoing research to address biases and improve cultural representation in AI technologies.</p>

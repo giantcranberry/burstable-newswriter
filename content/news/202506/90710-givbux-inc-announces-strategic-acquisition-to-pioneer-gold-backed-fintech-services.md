@@ -1,0 +1,16 @@
++++
+title = "GivBux Inc. Announces Strategic Acquisition to Pioneer Gold-Backed Fintech Services"
+date = "2025-06-18T14:20:53Z"
+draft = false
+summary = "GivBux Inc. finalizes a Share Exchange Agreement to acquire Charter House Financial AU, marking a strategic shift towards gold-backed financial services and setting a new industry precedent."
+description = "GivBux Inc. acquires Charter House Financial AU, shifting focus to gold-backed financial services, aiming to merge precious metals with digital payments for enhanced user experience."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-givbux-inc-otc-gbux-finalizes-deal-to-acquire-charter-house-refocuses-on-gold-backed-fintech-expansion/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/a6a9df04a666e0b0f9a1ff45ffad26f7.png"
+article_id = 90710
+feed_item_id = 15848
+url = "/202506/90710-givbux-inc-announces-strategic-acquisition-to-pioneer-gold-backed-fintech-services"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/riceuSll.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>GivBux Inc. (OTC: GBUX), renowned for its Super App and charitable giving platform, has taken a significant step towards diversifying its financial services by finalizing a Share Exchange Agreement to acquire 100% of Charter House Financial AU. This acquisition, anticipated to close by July 13, 2025, represents a strategic pivot for GivBux towards integrating gold-backed financial services into its digital payment ecosystem. By leveraging Charter House's asset-backed infrastructure and global networks, GivBux aims to combine the stability of precious metals with the convenience of digital payments.</p><p>Anthony Capazze, the founder of Charter House and a veteran in gold markets and finance, has projected that this venture could generate up to $200 million in revenue in its first full year. This projection highlights the potential of merging fintech innovations with the reliability of gold-backed assets. In light of this new direction, GivBux has decided to cancel previously announced acquisitions, including a $39 million deal with VitorganAmerica.shop, due to due diligence and funding challenges.</p><p>The acquisition is expected to significantly enhance the GivBux Super App's offerings, providing users with more diversified and secure financial services. Currently, the app enables users to make purchases at over 100 national retailers and earn cash back for charitable giving. The integration of Charter House's capabilities is set to expand these functionalities further, offering users unprecedented access to gold-backed financial products.</p><p>This strategic move by GivBux not only marks a milestone in its corporate evolution but also signals a growing trend among fintech companies to explore asset-backed financial solutions. By pioneering the integration of digital payments with precious metals, GivBux is setting a new standard in the industry, potentially influencing consumer expectations and encouraging other companies to adopt similar models. This shift towards more tangible and secure financial products in the digital age could redefine the landscape of fintech services, offering users a blend of innovation and stability.</p>

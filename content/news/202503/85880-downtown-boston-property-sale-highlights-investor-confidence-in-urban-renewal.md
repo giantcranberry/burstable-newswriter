@@ -8,7 +8,7 @@ source_link = "https://bradvisors.reportablenews.com/pr/boston-realty-advisors-r
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/ed760f3e4df8001a7ff53c0dd4513f97.jpg"
 article_id = 85880
 feed_item_id = 11887
-url = "/news/202503/85880-downtown-boston-property-sale-highlights-investor-confidence-in-urban-renewal"
+url = "/202503/85880-downtown-boston-property-sale-highlights-investor-confidence-in-urban-renewal"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/13/dashas33.webp"
 source = "Reportable"
 +++

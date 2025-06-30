@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522445/dr-barbara-
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 85366
 feed_item_id = 13766
-url = "/news/202505/85366-dr-barbara-becker-holstein-offers-free-ebook-to-empower-girls-and-women"
+url = "/202505/85366-dr-barbara-becker-holstein-offers-free-ebook-to-empower-girls-and-women"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/3/knotmEXd.webp"
 source = "24-7 Press Release"
 +++

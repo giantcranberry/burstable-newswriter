@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522397/sabeer-nell
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85381
 feed_item_id = 13725
-url = "/news/202505/85381-zilus-launches-revolutionary-virtual-card-service-to-transform-digital-payments"
+url = "/202505/85381-zilus-launches-revolutionary-virtual-card-service-to-transform-digital-payments"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/2/faceLXnY.webp"
 source = "24-7 Press Release"
 +++

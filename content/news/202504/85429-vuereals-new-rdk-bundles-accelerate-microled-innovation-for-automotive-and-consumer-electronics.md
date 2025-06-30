@@ -8,7 +8,7 @@ source_link = "https://vuereal.reportablenews.com/pr/vuereal-expands-reference-d
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f406a2546ee6cfc291baaefb4b88246a.jpg"
 article_id = 85429
 feed_item_id = 13580
-url = "/news/202504/85429-vuereals-new-rdk-bundles-accelerate-microled-innovation-for-automotive-and-consumer-electronics"
+url = "/202504/85429-vuereals-new-rdk-bundles-accelerate-microled-innovation-for-automotive-and-consumer-electronics"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/29/rubyeQni.webp"
 source = "Reportable"
 +++

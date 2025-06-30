@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/comprehensive-garage-door-repair-solut
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/bee6450455e3e28251d3be52a4bb81b6.jpg"
 article_id = 85593
 feed_item_id = 12883
-url = "/news/202504/85593-trusty-garage-door-repair-sets-the-standard-for-home-safety-and-convenience-in-dallas-fort-worth"
+url = "/202504/85593-trusty-garage-door-repair-sets-the-standard-for-home-safety-and-convenience-in-dallas-fort-worth"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/16/zealsWKf.webp"
 source = "Press Services"
 +++

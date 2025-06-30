@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/700927/trump-media-raises-2-4-bill
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84211
 feed_item_id = 15091
-url = "/news/202506/84211-trump-media-and-technology-group-secures-244-billion-in-funding-eyes-bitcoin-treasury"
+url = "/202506/84211-trump-media-and-technology-group-secures-244-billion-in-funding-eyes-bitcoin-treasury"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/flaxKUEe.webp"
 source = "citybiz"
 +++

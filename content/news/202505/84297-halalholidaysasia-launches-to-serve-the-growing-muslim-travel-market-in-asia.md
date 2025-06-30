@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/halal-holidays-officially-launches-ha
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/d9a2ca3ad0fd3ed191d7461719296ad8.jpg"
 article_id = 84297
 feed_item_id = 14825
-url = "/news/202505/84297-halalholidaysasia-launches-to-serve-the-growing-muslim-travel-market-in-asia"
+url = "/202505/84297-halalholidaysasia-launches-to-serve-the-growing-muslim-travel-market-in-asia"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/31/odorWW8P.webp"
 source = "News Direct"
 +++

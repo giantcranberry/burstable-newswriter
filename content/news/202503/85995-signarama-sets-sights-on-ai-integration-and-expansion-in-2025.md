@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520233/signarama-r
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85995
 feed_item_id = 11562
-url = "/news/202503/85995-signarama-sets-sights-on-ai-integration-and-expansion-in-2025"
+url = "/202503/85995-signarama-sets-sights-on-ai-integration-and-expansion-in-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/corns0oT.webp"
 source = "24-7 Press Release"
 +++

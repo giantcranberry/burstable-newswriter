@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522718/club-cruise
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85259
 feed_item_id = 14136
-url = "/news/202505/85259-southwest-airlines-overhauls-travel-model-with-new-fare-structure-and-baggage-fees"
+url = "/202505/85259-southwest-airlines-overhauls-travel-model-with-new-fare-structure-and-baggage-fees"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/14/airy9L_u.webp"
 source = "24-7 Press Release"
 +++

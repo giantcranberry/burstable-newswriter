@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523607/local-stude
 enclosure = "https://cdn.newsramp.app/banners/education-3.jpg"
 article_id = 85120
 feed_item_id = 15331
-url = "/news/202506/85120-mr-test-prep-revolutionizes-college-admissions-preparation-with-hybrid-tutoring-approach"
+url = "/202506/85120-mr-test-prep-revolutionizes-college-admissions-preparation-with-hybrid-tutoring-approach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/6/deepDpuo.webp"
 source = "24-7 Press Release"
 +++

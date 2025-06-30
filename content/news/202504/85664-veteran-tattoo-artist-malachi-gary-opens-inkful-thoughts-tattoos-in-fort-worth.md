@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521322/inkful-thou
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85664
 feed_item_id = 12578
-url = "/news/202504/85664-veteran-tattoo-artist-malachi-gary-opens-inkful-thoughts-tattoos-in-fort-worth"
+url = "/202504/85664-veteran-tattoo-artist-malachi-gary-opens-inkful-thoughts-tattoos-in-fort-worth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/8/harp0Rx8.webp"
 source = "24-7 Press Release"
 +++

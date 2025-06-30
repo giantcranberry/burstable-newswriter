@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522145/get-coffeed
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 85504
 feed_item_id = 13179
-url = "/news/202504/85504-midwest-startup-get-coffeed-gains-national-spotlight-with-innovative-caffeinated-candy-chews"
+url = "/202504/85504-midwest-startup-get-coffeed-gains-national-spotlight-with-innovative-caffeinated-candy-chews"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/24/coolH4FN.webp"
 source = "24-7 Press Release"
 +++

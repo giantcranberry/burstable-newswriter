@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/the-crypto-company-appoints-for
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85985
 feed_item_id = 11590
-url = "/news/202503/85985-the-crypto-company-strengthens-advisory-board-with-appointment-of-tech-veteran-phillip-shoemaker"
+url = "/202503/85985-the-crypto-company-strengthens-advisory-board-with-appointment-of-tech-veteran-phillip-shoemaker"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/4/gluei_fi.webp"
 source = "NewMediaWire"
 +++

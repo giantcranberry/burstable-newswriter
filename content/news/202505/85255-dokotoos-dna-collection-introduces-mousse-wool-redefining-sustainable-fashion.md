@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/dokotoo-introduces-new-dna-collection
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 85255
 feed_item_id = 14147
-url = "/news/202505/85255-dokotoos-dna-collection-introduces-mousse-wool-redefining-sustainable-fashion"
+url = "/202505/85255-dokotoos-dna-collection-introduces-mousse-wool-redefining-sustainable-fashion"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/14/faceyxrN.webp"
 source = "News Direct"
 +++

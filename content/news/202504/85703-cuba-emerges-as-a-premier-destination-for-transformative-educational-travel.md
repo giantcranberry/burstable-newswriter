@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521362/discover-ta
 enclosure = "https://cdn.newsramp.app/banners/government-politics-2.jpg"
 article_id = 85703
 feed_item_id = 12459
-url = "/news/202504/85703-cuba-emerges-as-a-premier-destination-for-transformative-educational-travel"
+url = "/202504/85703-cuba-emerges-as-a-premier-destination-for-transformative-educational-travel"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/dualvWRM.webp"
 source = "24-7 Press Release"
 +++

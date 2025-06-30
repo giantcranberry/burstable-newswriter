@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/struggling-with-rental-property-manage
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/a05bf86de46a832fed13493628c809a7.jpg"
 article_id = 84874
 feed_item_id = 14336
-url = "/news/202505/84874-kunkel-wittenauer-group-offers-professional-property-management-solutions-in-southern-illinois"
+url = "/202505/84874-kunkel-wittenauer-group-offers-professional-property-management-solutions-in-southern-illinois"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/255/19/lilye5PO.webp"
 source = "Press Services"
 +++

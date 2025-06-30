@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/frequency-forward-files-fcc-petition-
 enclosure = "https://cdn.newsramp.app/banners/media-2.jpg"
 article_id = 85619
 feed_item_id = 12734
-url = "/news/202504/85619-frequency-forward-challenges-sinclairs-broadcast-license-transfers-to-rincon-broadcasting-group"
+url = "/202504/85619-frequency-forward-challenges-sinclairs-broadcast-license-transfers-to-rincon-broadcasting-group"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/14/rendy4Ss.webp"
 source = "News Direct"
 +++

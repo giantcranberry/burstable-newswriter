@@ -1,0 +1,16 @@
++++
+title = "Investments & Wealth Institute's Academy Wins Prestigious 2024 WealthManagement.com Industry Award"
+date = "2024-09-06T21:00:12Z"
+draft = false
+summary = "The Investments & Wealth Institute's Academy has been recognized for its innovative online learning platform, highlighting its impact on professional education in the financial services sector."
+description = "Investments & Wealth Institute wins the Industry Association category in the WealthManagement.com 2024 Industry Awards for its Investments & Wealth Academy, underscoring the commitment to informing the expertise and strengthening the credentials of financial service professionals and advisors."
+source_link = "https://newsdirect.com/news/investments-and-wealth-academy-wins-best-in-industry-association-in-the-wealthmanagement-com-2024-wealthie-awards-168429986"
+enclosure = "https://public.newsdirect.com/168429986/3tJ9FwlA.png"
+article_id = 92371
+feed_item_id = 6595
+url = "/202409/92371-investments-wealth-institutes-academy-wins-prestigious-2024-wealthmanagementcom-industry-award"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/249/6/camcC0_G.webp"
+source = "News Direct"
++++
+
+<p>The Investments & Wealth Institute (IWI) has been honored with the Industry Association category award at the WealthManagement.com 2024 Industry Awards, known as the 'Wealthies', for its Investments & Wealth Academy. This platform, launched in November 2023, has set a new standard for professional education in the financial services industry by offering a wide range of educational content tailored to advisors at all levels of their careers.</p><p>The Wealthies, celebrating their 10th anniversary, are unique in their focus on recognizing achievements that contribute to the success of financial advisors. This year's competition saw over 1,000 entries from more than 400 companies, making the Institute's victory a notable achievement. The Academy's innovative approach to learning, including on-demand webinars, microcourses, and comprehensive certificate programs, distinguished it among a record number of nominations.</p><p>Sean Walters, CAE®, CEO of the Institute, highlighted the Academy's role in serving advisors across generations and skill levels with practical, academically rigorous content. The award not only acknowledges the platform's quality but also the Institute's commitment to enhancing the expertise of financial professionals worldwide. With a judging process that evaluates innovation, creativity, and delivery methods, the Academy's recognition underscores its effectiveness in meeting the industry's evolving needs.</p><p>At a time of rapid change and increasing complexity in financial services, the Academy's success underscores the critical importance of continuous education. Its global reach, impacting over 20,000 practitioners in more than 40 countries annually, demonstrates the universal value of its educational offerings. This accolade sets a benchmark for excellence in professional education, reinforcing the Institute's dedication to advancing the financial advisory profession through high-quality, practical learning solutions.</p>

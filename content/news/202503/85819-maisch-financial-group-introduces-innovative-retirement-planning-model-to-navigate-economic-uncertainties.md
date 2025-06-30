@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/maisch-financial-group-launches-propr
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/aa82eb3e567f95d784757cc2fc5b31b6.png"
 article_id = 85819
 feed_item_id = 12114
-url = "/news/202503/85819-maisch-financial-group-introduces-innovative-retirement-planning-model-to-navigate-economic-uncertainties"
+url = "/202503/85819-maisch-financial-group-introduces-innovative-retirement-planning-model-to-navigate-economic-uncertainties"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/21/knottLiU.webp"
 source = "News Direct"
 +++

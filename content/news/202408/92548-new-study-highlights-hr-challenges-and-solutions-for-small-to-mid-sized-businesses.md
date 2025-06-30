@@ -1,0 +1,16 @@
++++
+title = "New Study Highlights HR Challenges and Solutions for Small to Mid-Sized Businesses"
+date = "2024-08-20T12:05:09Z"
+draft = false
+summary = "A recent study by HR.com's HR Research Institute and UKG reveals the pressing HR challenges SMBs face, including talent retention and company culture, and underscores the role of technology in addressing these issues."
+description = "New research report reveals challenges and solutions for HR in small and mid-sized businesses. Learn how strategic HR approaches and technology investments can help SMBs thrive in a competitive environment."
+source_link = "https://newsworthy.ai/news/202408201241/actionable-strategies-unveiled-to-help-smbs-tackle-major-hr-challenges-new-study-by-ukg-and-the-hr-research-institute"
+enclosure = "https://cdn.filestackcontent.com/x7FYuwltR0mUXOslvbfI"
+article_id = 92548
+feed_item_id = 5831
+url = "/202408/92548-new-study-highlights-hr-challenges-and-solutions-for-small-to-mid-sized-businesses"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/248/20/ableGLV0.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Small and mid-sized businesses (SMBs) are navigating a complex landscape of human resources challenges, as detailed in a new study by HR.com's HR Research Institute in collaboration with UKG. The research, titled 'HR Decision-Making in Small to Mid-Sized Businesses,' sheds light on the hurdles organizations with fewer than 500 employees encounter, from retaining top talent to fostering a positive workplace culture and hiring qualified staff.</p><p>With 60% of HR professionals in SMBs identifying talent retention as their primary concern, the study underscores the competitive pressures these businesses face. Additionally, 58% struggle with maintaining a supportive employee culture, and 56% find hiring qualified employees challenging. Notably, only 35% prioritize employee reskilling and upskilling, despite the critical role of continuous learning in today's economy.</p><p>The study also reveals a disparity in HR priorities based on the maturity of an organization's HR functions. More mature HR operations focus on enhancing manager skills and quality hiring, whereas less developed ones are preoccupied with basic compliance issues. A pivotal finding is the significant impact of HR technology on addressing these challenges, with more mature organizations leveraging strategic and advanced HR tech solutions to streamline operations and improve decision-making.</p><p>Julie Develin of UKG highlights the transformative potential of HR technology for SMBs, stating it enables lean HR teams to operate strategically and support business scaling. The study, available for download, proposes actionable strategies like adopting strategic HR approaches and investing in technology to enhance employee experience and operational efficiency.</p><p>Debbie McGrath of HR.com emphasizes that strategic investments in HR technology could be a game-changer for SMBs, enabling them to navigate HR challenges more effectively and compete in a demanding business environment. This research provides SMBs with a blueprint for overcoming HR obstacles, focusing on talent retention, culture, and technology to drive success.</p>

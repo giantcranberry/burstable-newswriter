@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/koinfold-launches-official-disc
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 85544
 feed_item_id = 13077
-url = "/news/202504/85544-koinfold-launches-discord-server-to-strengthen-crypto-community-engagement"
+url = "/202504/85544-koinfold-launches-discord-server-to-strengthen-crypto-community-engagement"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/22/ulnaQ77V.webp"
 source = "NewMediaWire"
 +++

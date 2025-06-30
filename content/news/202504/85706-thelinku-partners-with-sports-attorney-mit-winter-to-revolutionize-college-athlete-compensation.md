@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/thelinku-and-nil-sports-attorney-mit-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85706
 feed_item_id = 12445
-url = "/news/202504/85706-thelinku-partners-with-sports-attorney-mit-winter-to-revolutionize-college-athlete-compensation"
+url = "/202504/85706-thelinku-partners-with-sports-attorney-mit-winter-to-revolutionize-college-athlete-compensation"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/2/ruby0uFX.webp"
 source = "News Direct"
 +++

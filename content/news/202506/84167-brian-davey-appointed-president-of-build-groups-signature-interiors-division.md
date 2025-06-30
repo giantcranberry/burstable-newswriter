@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703100/build-group-appoints-brian-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84167
 feed_item_id = 15210
-url = "/news/202506/84167-brian-davey-appointed-president-of-build-groups-signature-interiors-division"
+url = "/202506/84167-brian-davey-appointed-president-of-build-groups-signature-interiors-division"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/odorjhYu.webp"
 source = "citybiz"
 +++

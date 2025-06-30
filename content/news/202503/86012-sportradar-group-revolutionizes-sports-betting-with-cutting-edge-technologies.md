@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/the-future-of-sports-betting-sp
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 86012
 feed_item_id = 11541
-url = "/news/202503/86012-sportradar-group-revolutionizes-sports-betting-with-cutting-edge-technologies"
+url = "/202503/86012-sportradar-group-revolutionizes-sports-betting-with-cutting-edge-technologies"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/3/ferncunQ.webp"
 source = "NewMediaWire"
 +++

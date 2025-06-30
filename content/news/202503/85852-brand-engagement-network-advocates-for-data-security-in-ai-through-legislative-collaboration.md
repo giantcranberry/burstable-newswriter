@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/ai-has-great-power-data-securit
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85852
 feed_item_id = 12002
-url = "/news/202503/85852-brand-engagement-network-advocates-for-data-security-in-ai-through-legislative-collaboration"
+url = "/202503/85852-brand-engagement-network-advocates-for-data-security-in-ai-through-legislative-collaboration"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/18/evenEG9Y.webp"
 source = "NewMediaWire"
 +++

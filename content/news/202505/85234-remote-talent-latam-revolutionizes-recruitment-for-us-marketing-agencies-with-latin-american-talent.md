@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522832/remote-tale
 enclosure = "https://cdn.newsramp.app/banners/human-resources-2.jpg"
 article_id = 85234
 feed_item_id = 14206
-url = "/news/202505/85234-remote-talent-latam-revolutionizes-recruitment-for-us-marketing-agencies-with-latin-american-talent"
+url = "/202505/85234-remote-talent-latam-revolutionizes-recruitment-for-us-marketing-agencies-with-latin-american-talent"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/duneGq9B.webp"
 source = "24-7 Press Release"
 +++

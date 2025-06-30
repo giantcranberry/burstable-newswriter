@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702352/jopari-solutions-appoints-j
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85141
 feed_item_id = 15082
-url = "/news/202506/85141-jopari-solutions-strengthens-leadership-team-with-appointment-of-jeff-pirino-as-chief-growth-officer"
+url = "/202506/85141-jopari-solutions-strengthens-leadership-team-with-appointment-of-jeff-pirino-as-chief-growth-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/bakeecG8.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/247-water-damage-restoration-services-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/454bd65dd9e78a8238c951c1d91219e9.jpg"
 article_id = 85833
 feed_item_id = 12062
-url = "/news/202503/85833-ss-water-restoration-elevates-property-recovery-with-advanced-technology-and-swift-response"
+url = "/202503/85833-ss-water-restoration-elevates-property-recovery-with-advanced-technology-and-swift-response"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/19/cornSXiT.webp"
 source = "Press Services"
 +++

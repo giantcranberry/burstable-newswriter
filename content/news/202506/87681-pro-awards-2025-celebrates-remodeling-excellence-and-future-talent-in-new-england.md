@@ -8,7 +8,7 @@ source_link = "https://pro-new-england.reportablenews.com/pr/pro-new-england-cel
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/47e9fa4f1accec7b77ef896519f3ae38.png"
 article_id = 87681
 feed_item_id = 15353
-url = "/news/202506/87681-pro-awards-2025-celebrates-remodeling-excellence-and-future-talent-in-new-england"
+url = "/202506/87681-pro-awards-2025-celebrates-remodeling-excellence-and-future-talent-in-new-england"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/9/lamb0tbF.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523176/byenzo-jewe
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84353
 feed_item_id = 14664
-url = "/news/202505/84353-byenzo-jewelry-unveils-limited-edition-hammer-pendant-a-symbol-of-power-and-legacy"
+url = "/202505/84353-byenzo-jewelry-unveils-limited-edition-hammer-pendant-a-symbol-of-power-and-legacy"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/28/epicUBrA.webp"
 source = "24-7 Press Release"
 +++

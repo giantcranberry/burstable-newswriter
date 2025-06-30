@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521032/plan-smart-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85778
 feed_item_id = 12239
-url = "/news/202503/85778-fast-guard-service-unveils-nationwide-event-security-initiative-for-2025"
+url = "/202503/85778-fast-guard-service-unveils-nationwide-event-security-initiative-for-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/27/vastuAev.webp"
 source = "24-7 Press Release"
 +++

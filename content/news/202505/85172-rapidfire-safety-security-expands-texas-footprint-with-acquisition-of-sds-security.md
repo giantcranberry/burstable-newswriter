@@ -8,7 +8,7 @@ source_link = "https://newsroom.prkarma.com/rapidfire/news_release/1660"
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/5966128ae98d577636eaf0934670c47d.jpg"
 article_id = 85172
 feed_item_id = 14703
-url = "/news/202505/85172-rapidfire-safety-security-expands-texas-footprint-with-acquisition-of-sds-security"
+url = "/202505/85172-rapidfire-safety-security-expands-texas-footprint-with-acquisition-of-sds-security"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/255/28/lilysQT0.webp"
 source = "PR Karma"
 +++

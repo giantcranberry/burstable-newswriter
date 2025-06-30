@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521388/luvme-hair-
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 85689
 feed_item_id = 12494
-url = "/news/202504/85689-luvme-hairs-spring-summer-2025-sale-offers-significant-discounts-on-premium-wigs"
+url = "/202504/85689-luvme-hairs-spring-summer-2025-sale-offers-significant-discounts-on-premium-wigs"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/neonj3cF.webp"
 source = "24-7 Press Release"
 +++

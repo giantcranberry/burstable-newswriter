@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/cure-hydration-expands-nationwide-ret
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/d6da76ed9fb5738a7db2d2f007eb400a.jpg"
 article_id = 85637
 feed_item_id = 12661
-url = "/news/202504/85637-cure-hydration-expands-nationwide-in-whole-foods-market-offering-health-conscious-hydration-solutions"
+url = "/202504/85637-cure-hydration-expands-nationwide-in-whole-foods-market-offering-health-conscious-hydration-solutions"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/10/airyV7bx.webp"
 source = "News Direct"
 +++

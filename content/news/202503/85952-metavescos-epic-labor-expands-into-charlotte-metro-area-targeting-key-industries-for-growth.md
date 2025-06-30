@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/metavesco-s-epic-labor-expands-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85952
 feed_item_id = 11646
-url = "/news/202503/85952-metavescos-epic-labor-expands-into-charlotte-metro-area-targeting-key-industries-for-growth"
+url = "/202503/85952-metavescos-epic-labor-expands-into-charlotte-metro-area-targeting-key-industries-for-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/5/mielBtnC.webp"
 source = "NewMediaWire"
 +++

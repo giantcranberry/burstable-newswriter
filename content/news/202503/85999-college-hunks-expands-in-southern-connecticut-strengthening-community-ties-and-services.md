@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520229/college-hun
 enclosure = "https://cdn.newsramp.app/banners/non-profit-3.jpg"
 article_id = 85999
 feed_item_id = 11556
-url = "/news/202503/85999-college-hunks-expands-in-southern-connecticut-strengthening-community-ties-and-services"
+url = "/202503/85999-college-hunks-expands-in-southern-connecticut-strengthening-community-ties-and-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/kissyjU8.webp"
 source = "24-7 Press Release"
 +++

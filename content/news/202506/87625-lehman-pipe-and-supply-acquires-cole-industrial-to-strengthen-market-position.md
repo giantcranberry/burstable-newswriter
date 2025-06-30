@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/lehman-pipe-announces-strategic-acqui
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 87625
 feed_item_id = 16026
-url = "/news/202506/87625-lehman-pipe-and-supply-acquires-cole-industrial-to-strengthen-market-position"
+url = "/202506/87625-lehman-pipe-and-supply-acquires-cole-industrial-to-strengthen-market-position"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/23/cornIHU9.webp"
 source = "News Direct"
 +++

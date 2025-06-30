@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521384/bzbgear-joi
 enclosure = "https://cdn.newsramp.app/banners/gaming-3.jpg"
 article_id = 85687
 feed_item_id = 12496
-url = "/news/202504/85687-bzbgear-and-8k-association-to-showcase-next-gen-8k-technology-at-nab-show-2025"
+url = "/202504/85687-bzbgear-and-8k-association-to-showcase-next-gen-8k-technology-at-nab-show-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/knobDbew.webp"
 source = "24-7 Press Release"
 +++

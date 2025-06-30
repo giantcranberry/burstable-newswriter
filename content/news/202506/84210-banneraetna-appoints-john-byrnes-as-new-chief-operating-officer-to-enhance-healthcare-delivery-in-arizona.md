@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702372/banneraetna-appoints-john-b
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
 article_id = 84210
 feed_item_id = 15092
-url = "/news/202506/84210-banneraetna-appoints-john-byrnes-as-new-chief-operating-officer-to-enhance-healthcare-delivery-in-arizona"
+url = "/202506/84210-banneraetna-appoints-john-byrnes-as-new-chief-operating-officer-to-enhance-healthcare-delivery-in-arizona"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/iconB_eq.webp"
 source = "citybiz"
 +++

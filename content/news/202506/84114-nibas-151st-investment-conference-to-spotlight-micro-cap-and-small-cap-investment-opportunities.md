@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/b2i-digital-highlights-the-nati
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84114
 feed_item_id = 15377
-url = "/news/202506/84114-nibas-151st-investment-conference-to-spotlight-micro-cap-and-small-cap-investment-opportunities"
+url = "/202506/84114-nibas-151st-investment-conference-to-spotlight-micro-cap-and-small-cap-investment-opportunities"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/9/filocHmu.webp"
 source = "NewMediaWire"
 +++

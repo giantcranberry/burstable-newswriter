@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/d9a46a63205942e6d775c68a5b334040.webp"
 article_id = 85948
 feed_item_id = 11657
-url = "/news/202503/85948-oppfi-reports-stellar-q4-2024-financial-performance-with-significant-revenue-and-net-income-growth"
+url = "/202503/85948-oppfi-reports-stellar-q4-2024-financial-performance-with-significant-revenue-and-net-income-growth"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/5/boldhXbS.webp"
 source = "Reportable"
 +++

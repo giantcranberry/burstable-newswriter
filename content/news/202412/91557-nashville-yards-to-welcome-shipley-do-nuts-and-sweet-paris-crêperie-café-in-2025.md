@@ -1,0 +1,16 @@
++++
+title = "Nashville Yards to Welcome Shipley Do-Nuts and Sweet Paris Crêperie & Café in 2025"
+date = "2024-12-12T18:45:17Z"
+draft = false
+summary = "The announcement of Shipley Do-Nuts and Sweet Paris Crêperie & Café opening flagship locations at Nashville Yards in 2025 highlights the development's role in enhancing Nashville's culinary and cultural landscape."
+description = "Southwest Value Partners, AEG, and Virentes Hospitality announce the opening of Shipley Do-Nuts and Sweet Paris Crêperie & Café flagship locations at Nashville Yards in 2025, adding to the vibrant entertainment and dining scene in Nashville."
+source_link = "https://www.24-7pressrelease.com/press-release/517026/shipley-do-nuts-and-sweet-paris-cr%C3%AAperie-caf%C3%A9-to-open-flagship-locations-at-nashville-yards"
+enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
+article_id = 91557
+feed_item_id = 9307
+url = "/202412/91557-nashville-yards-to-welcome-shipley-do-nuts-and-sweet-paris-crêperie-café-in-2025"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2412/12/smoglF86.webp"
+source = "24-7 Press Release"
++++
+
+<p>The announcement that Shipley Do-Nuts and Sweet Paris Crêperie & Café will open flagship locations at Nashville Yards in 2025 marks a significant addition to Nashville's burgeoning entertainment and business district. This development, revealed by Southwest Value Partners, AEG, and Virentes Hospitality, underscores the strategic expansion of both brands into a key urban development, enriching the culinary diversity of Music City.</p><p>Shipley Do-Nuts, known for its handcrafted donuts and kolaches, will open in May 2025 in the creative office building on Church Street, offering over 60 menu items. Sweet Paris Crêperie & Café, making its Tennessee debut, will open in June 2025 at The Pinnacle, Nashville Yards' premier indoor live music and event venue, marking its 20th location with a menu of artisanal crêpes and beverages.</p><p>This expansion is part of the 19-acre Nashville Yards project, envisioned as a walkable, urban community with a mix of hospitality, retail, entertainment, and residential spaces. Jim D'Aquila of Virentes Partners Group highlighted Nashville Yards as a pivotal multi-use development, with these eateries serving as flagship locations that reflect the dynamic spirit of the area.</p><p>The inclusion of Shipley Do-Nuts and Sweet Paris Crêperie & Café aligns with Nashville Yards' objective to provide diverse dining options, enhancing the experience for visitors, workers, and residents. Ted Tanner of AEG noted the strategic value of these additions, anticipating they will become popular destinations within the development.</p><p>For Shipley Do-Nuts, with over 360 locations, and Sweet Paris, expanding to its 20th outlet, this move represents significant brand growth. Their arrival at Nashville Yards, alongside other major developments like The Pinnacle's opening, signals the area's emergence as a central hub for entertainment and urban living in Nashville.</p><p>This development not only introduces new dining options but also signifies Nashville's evolution as a cultural and business magnet, attracting quality establishments that bolster the city's dynamic urban identity.</p>

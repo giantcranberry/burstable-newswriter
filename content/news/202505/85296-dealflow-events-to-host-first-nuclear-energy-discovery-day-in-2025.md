@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-spotli
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85296
 feed_item_id = 13986
-url = "/news/202505/85296-dealflow-events-to-host-first-nuclear-energy-discovery-day-in-2025"
+url = "/202505/85296-dealflow-events-to-host-first-nuclear-energy-discovery-day-in-2025"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/9/riftNbms.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

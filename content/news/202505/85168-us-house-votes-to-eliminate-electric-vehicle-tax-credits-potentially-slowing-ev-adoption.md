@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/us-house-votes-to-elimin
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 85168
 feed_item_id = 14742
-url = "/news/202505/85168-us-house-votes-to-eliminate-electric-vehicle-tax-credits-potentially-slowing-ev-adoption"
+url = "/202505/85168-us-house-votes-to-eliminate-electric-vehicle-tax-credits-potentially-slowing-ev-adoption"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/odoraUJI.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

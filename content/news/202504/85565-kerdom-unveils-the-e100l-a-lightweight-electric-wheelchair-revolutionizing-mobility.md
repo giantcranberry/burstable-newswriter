@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/kerdom-launches-the-e100l-model-dx04-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85565
 feed_item_id = 12990
-url = "/news/202504/85565-kerdom-unveils-the-e100l-a-lightweight-electric-wheelchair-revolutionizing-mobility"
+url = "/202504/85565-kerdom-unveils-the-e100l-a-lightweight-electric-wheelchair-revolutionizing-mobility"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/18/bakePyU2.webp"
 source = "News Direct"
 +++

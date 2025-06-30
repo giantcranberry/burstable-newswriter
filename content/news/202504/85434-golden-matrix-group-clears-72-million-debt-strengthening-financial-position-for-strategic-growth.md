@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-matrix-group-repays-and-
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85434
 feed_item_id = 13571
-url = "/news/202504/85434-golden-matrix-group-clears-72-million-debt-strengthening-financial-position-for-strategic-growth"
+url = "/202504/85434-golden-matrix-group-clears-72-million-debt-strengthening-financial-position-for-strategic-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/29/corn87Fr.webp"
 source = "NewMediaWire"
 +++

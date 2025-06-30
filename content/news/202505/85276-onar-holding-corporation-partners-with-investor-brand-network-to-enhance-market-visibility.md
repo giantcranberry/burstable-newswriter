@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-hol
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85276
 feed_item_id = 14053
-url = "/news/202505/85276-onar-holding-corporation-partners-with-investor-brand-network-to-enhance-market-visibility"
+url = "/202505/85276-onar-holding-corporation-partners-with-investor-brand-network-to-enhance-market-visibility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/13/gulfs7Y2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investorknewsbreaks-g-min
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85228
 feed_item_id = 14229
-url = "/news/202505/85228-g-mining-ventures-corp-reports-strong-q1-2025-results-with-significant-advances-in-gold-production-and-project-development"
+url = "/202505/85228-g-mining-ventures-corp-reports-strong-q1-2025-results-with-significant-advances-in-gold-production-and-project-development"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/plumbRAc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

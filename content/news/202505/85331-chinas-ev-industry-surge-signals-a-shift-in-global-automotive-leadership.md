@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/is-the-us-ready-as-chinas
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85331
 feed_item_id = 13876
-url = "/news/202505/85331-chinas-ev-industry-surge-signals-a-shift-in-global-automotive-leadership"
+url = "/202505/85331-chinas-ev-industry-surge-signals-a-shift-in-global-automotive-leadership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/evenxtGD.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

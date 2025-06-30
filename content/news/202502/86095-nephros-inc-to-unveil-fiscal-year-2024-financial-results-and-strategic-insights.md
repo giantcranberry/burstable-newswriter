@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/nephros-schedules-conference-ca
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 86095
 feed_item_id = 11176
-url = "/news/202502/86095-nephros-inc-to-unveil-fiscal-year-2024-financial-results-and-strategic-insights"
+url = "/202502/86095-nephros-inc-to-unveil-fiscal-year-2024-financial-results-and-strategic-insights"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/252/26/ableg4XX.webp"
 source = "NewMediaWire"
 +++

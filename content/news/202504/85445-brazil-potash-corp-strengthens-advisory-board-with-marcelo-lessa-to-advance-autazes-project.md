@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-brazil-pot
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85445
 feed_item_id = 13540
-url = "/news/202504/85445-brazil-potash-corp-strengthens-advisory-board-with-marcelo-lessa-to-advance-autazes-project"
+url = "/202504/85445-brazil-potash-corp-strengthens-advisory-board-with-marcelo-lessa-to-advance-autazes-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/28/wolf8kGD.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

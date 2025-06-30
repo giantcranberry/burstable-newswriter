@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523266/economic-un
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85171
 feed_item_id = 14715
-url = "/news/202505/85171-digital-entrepreneurship-rises-as-a-strategic-response-to-economic-uncertainty"
+url = "/202505/85171-digital-entrepreneurship-rises-as-a-strategic-response-to-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/29/herbZVGn.webp"
 source = "24-7 Press Release"
 +++

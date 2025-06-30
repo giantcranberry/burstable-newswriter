@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/german-study-finds-elect
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85571
 feed_item_id = 12956
-url = "/news/202504/85571-electric-vehicles-outperform-gasoline-cars-in-reliability-adac-study-finds"
+url = "/202504/85571-electric-vehicles-outperform-gasoline-cars-in-reliability-adac-study-finds"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/17/blurtr4T.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

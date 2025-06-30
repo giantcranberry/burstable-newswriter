@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/brera-holdings-plc-nasdaq
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85119
 feed_item_id = 15370
-url = "/news/202506/85119-brera-holdings-and-toronto-blizzard-forge-path-for-global-youth-soccer-talent"
+url = "/202506/85119-brera-holdings-and-toronto-blizzard-forge-path-for-global-youth-soccer-talent"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/glow4U6O.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

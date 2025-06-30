@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/fintech-tv-acquires-bull-street-media
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/5f922f064fd539ca7ee24c759f969677.jpg"
 article_id = 85542
 feed_item_id = 13078
-url = "/news/202504/85542-fintechtv-acquires-bull-street-media-to-expand-financial-news-reach"
+url = "/202504/85542-fintechtv-acquires-bull-street-media-to-expand-financial-news-reach"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/22/glue1ANu.webp"
 source = "News Direct"
 +++

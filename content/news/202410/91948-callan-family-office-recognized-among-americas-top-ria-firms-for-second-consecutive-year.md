@@ -1,0 +1,16 @@
++++
+title = "Callan Family Office Recognized Among America's Top RIA Firms for Second Consecutive Year"
+date = "2024-10-29T19:05:12Z"
+draft = false
+summary = "Callan Family Office's inclusion in the 2024 Forbes/SHOOK list highlights its rapid growth and commitment to providing specialized wealth management services for ultra-high-net-worth families."
+description = "Callan Family Office has been recognized on the 2024 Forbes/SHOOK list of Top RIA Firms for the second year, highlighting its commitment to serving ultra-high-net-worth families and achieving significant milestones in 2024."
+source_link = "https://newsdirect.com/news/callan-family-office-named-to-the-2024-forbes-shook-list-of-americas-top-ria-firms-120337974"
+enclosure = "https://public.newsdirect.com/120337974/TjjFnWsU.png"
+article_id = 91948
+feed_item_id = 8085
+url = "/202410/91948-callan-family-office-recognized-among-americas-top-ria-firms-for-second-consecutive-year"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/29/bossnzA0.webp"
+source = "News Direct"
++++
+
+<p>Callan Family Office has been named to the 2024 Forbes/SHOOK list of America's Top RIA Firms for the second consecutive year, a recognition that highlights the firm's rapid growth and dedication to serving ultra-high-net-worth families. The Forbes/SHOOK list, featuring 250 top-performing registered investment advisory firms managing over $1.6 trillion in assets, is the result of a rigorous selection process involving thousands of interviews and evaluations.</p><p>Jack Ginter, CEO of Callan Family Office, expressed pride in the firm's achievement, emphasizing its deep experience in managing substantial wealth for ultra-high-net-worth families. Since its launch in 2022, Callan Family Office has distinguished itself through innovation, research, and technology, with 23 partners focused on developing solutions that help families achieve their financial goals.</p><p>In 2024, the firm reached several milestones, including surpassing $6 billion in assets under administration and expanding its service offerings. These achievements, coupled with the Forbes/SHOOK recognition, underscore the firm's commitment to growth and innovation in the wealth management sector.</p><p>For ultra-high-net-worth individuals and families, Callan Family Office's inclusion on the list serves as a testament to its expertise and reliability. The recognition also highlights the increasing demand for specialized wealth management services tailored to clients with unique financial needs.</p><p>The firm's rapid ascent since its establishment in 2022 demonstrates the effectiveness of its approach and the value it provides to its clients. For the broader financial services industry, Callan Family Office's success underscores the importance of specialized services in managing concentrated wealth.</p><p>Callan Family Office's recognition on the Forbes/SHOOK list, achieved without any fee paid to Forbes or SHOOK, validates its standing in the industry and its commitment to excellence. As the firm continues to expand, its repeated inclusion on the list serves as a benchmark for its success and a promise of continued dedication to serving the complex needs of ultra-high-net-worth families across the United States.</p>

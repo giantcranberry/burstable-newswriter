@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/monster-energy-continues-the-launch-o
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85835
 feed_item_id = 12057
-url = "/news/202503/85835-monster-energy-unveils-irish-crème-flavor-at-chicagos-st-patricks-day-parade"
+url = "/202503/85835-monster-energy-unveils-irish-crème-flavor-at-chicagos-st-patricks-day-parade"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/19/fernUqgQ.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sobrsafe
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85185
 feed_item_id = 14554
-url = "/news/202505/85185-sobrsafe-inc-reports-strong-q1-2025-financial-results-amid-advancements-in-alcohol-detection-technology"
+url = "/202505/85185-sobrsafe-inc-reports-strong-q1-2025-financial-results-amid-advancements-in-alcohol-detection-technology"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/23/cakeliLG.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

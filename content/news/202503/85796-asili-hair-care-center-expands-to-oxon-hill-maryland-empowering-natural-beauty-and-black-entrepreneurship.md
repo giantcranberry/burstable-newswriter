@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520942/asili-hair-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85796
 feed_item_id = 12181
-url = "/news/202503/85796-asili-hair-care-center-expands-to-oxon-hill-maryland-empowering-natural-beauty-and-black-entrepreneurship"
+url = "/202503/85796-asili-hair-care-center-expands-to-oxon-hill-maryland-empowering-natural-beauty-and-black-entrepreneurship"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/25/jinxDu3F.webp"
 source = "24-7 Press Release"
 +++

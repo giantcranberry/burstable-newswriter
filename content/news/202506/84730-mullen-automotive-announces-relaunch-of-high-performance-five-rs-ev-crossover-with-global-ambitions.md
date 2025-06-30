@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-mulle
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84730
 feed_item_id = 15007
-url = "/news/202506/84730-mullen-automotive-announces-relaunch-of-high-performance-five-rs-ev-crossover-with-global-ambitions"
+url = "/202506/84730-mullen-automotive-announces-relaunch-of-high-performance-five-rs-ev-crossover-with-global-ambitions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/quizFLof.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

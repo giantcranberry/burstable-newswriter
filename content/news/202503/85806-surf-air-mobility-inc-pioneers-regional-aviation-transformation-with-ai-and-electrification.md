@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/2e4e73eef9af90ed3e928e794c375c4b.jpg"
 article_id = 85806
 feed_item_id = 12152
-url = "/news/202503/85806-surf-air-mobility-inc-pioneers-regional-aviation-transformation-with-ai-and-electrification"
+url = "/202503/85806-surf-air-mobility-inc-pioneers-regional-aviation-transformation-with-ai-and-electrification"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/24/rain1se_.webp"
 source = "Reportable"
 +++

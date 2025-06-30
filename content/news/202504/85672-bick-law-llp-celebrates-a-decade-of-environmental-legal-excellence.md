@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521462/bick-law-ll
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85672
 feed_item_id = 12539
-url = "/news/202504/85672-bick-law-llp-celebrates-a-decade-of-environmental-legal-excellence"
+url = "/202504/85672-bick-law-llp-celebrates-a-decade-of-environmental-legal-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/7/chipRbx7.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/gold-bulls-make-a-comeba
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85443
 feed_item_id = 13542
-url = "/news/202504/85443-gold-prices-surge-amid-escalating-trade-tensions-between-us-and-china"
+url = "/202504/85443-gold-prices-surge-amid-escalating-trade-tensions-between-us-and-china"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/28/voltjR_w.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

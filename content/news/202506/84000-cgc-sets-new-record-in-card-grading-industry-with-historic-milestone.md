@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/cgc-is-the-hobbys-fastest-growin
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/808b6ed47e1c52c3a06a14696e943db8.png"
 article_id = 84000
 feed_item_id = 15784
-url = "/news/202506/84000-cgc-sets-new-record-in-card-grading-industry-with-historic-milestone"
+url = "/202506/84000-cgc-sets-new-record-in-card-grading-industry-with-historic-milestone"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/256/17/islegg6v.webp"
 source = "Noticias Newswire"
 +++

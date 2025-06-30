@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520893/montreal-ap
 enclosure = "https://cdn.newsramp.app/banners/travel-2.jpg"
 article_id = 85813
 feed_item_id = 12130
-url = "/news/202503/85813-montreal-aparthotel-expands-rental-portfolio-to-meet-diverse-traveler-needs"
+url = "/202503/85813-montreal-aparthotel-expands-rental-portfolio-to-meet-diverse-traveler-needs"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/23/chipQkYe.webp"
 source = "24-7 Press Release"
 +++

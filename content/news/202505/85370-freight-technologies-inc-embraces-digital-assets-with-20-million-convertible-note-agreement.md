@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/techmediabreaks-freight-t
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-1.jpg"
 article_id = 85370
 feed_item_id = 13755
-url = "/news/202505/85370-freight-technologies-inc-embraces-digital-assets-with-20-million-convertible-note-agreement"
+url = "/202505/85370-freight-technologies-inc-embraces-digital-assets-with-20-million-convertible-note-agreement"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/2/dunetG38.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

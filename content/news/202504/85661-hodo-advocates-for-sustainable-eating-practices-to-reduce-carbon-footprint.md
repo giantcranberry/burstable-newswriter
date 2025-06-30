@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521541/celebrate-e
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85661
 feed_item_id = 12581
-url = "/news/202504/85661-hodo-advocates-for-sustainable-eating-practices-to-reduce-carbon-footprint"
+url = "/202504/85661-hodo-advocates-for-sustainable-eating-practices-to-reduce-carbon-footprint"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/8/filoA8Rs.webp"
 source = "24-7 Press Release"
 +++

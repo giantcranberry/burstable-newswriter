@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/comcast-to-connect-70-000-homes-and-b
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/c1cb93b7e4a1299480d8c38f537cbc9e.jpg"
 article_id = 84330
 feed_item_id = 14723
-url = "/news/202505/84330-comcasts-fiber-internet-expansion-to-revolutionize-bryan-college-station-connectivity"
+url = "/202505/84330-comcasts-fiber-internet-expansion-to-revolutionize-bryan-college-station-connectivity"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/29/smogU0V7.webp"
 source = "News Direct"
 +++

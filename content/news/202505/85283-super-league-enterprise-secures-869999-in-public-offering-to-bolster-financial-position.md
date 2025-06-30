@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/currency/currencynewsbreaks-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85283
 feed_item_id = 14027
-url = "/news/202505/85283-super-league-enterprise-secures-869999-in-public-offering-to-bolster-financial-position"
+url = "/202505/85283-super-league-enterprise-secures-869999-in-public-offering-to-bolster-financial-position"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/12/hikej_5h.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

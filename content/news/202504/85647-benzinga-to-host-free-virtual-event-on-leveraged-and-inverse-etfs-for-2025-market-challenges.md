@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/benzinga-announces-free-virtual
 enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
 article_id = 85647
 feed_item_id = 12628
-url = "/news/202504/85647-benzinga-to-host-free-virtual-event-on-leveraged-and-inverse-etfs-for-2025-market-challenges"
+url = "/202504/85647-benzinga-to-host-free-virtual-event-on-leveraged-and-inverse-etfs-for-2025-market-challenges"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/9/fernfv5_.webp"
 source = "NewMediaWire"
 +++

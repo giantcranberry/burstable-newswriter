@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521459/coastal-win
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85676
 feed_item_id = 12527
-url = "/news/202504/85676-coastal-windows-exteriors-ranks-among-top-woman-owned-remodeling-firms-nationally"
+url = "/202504/85676-coastal-windows-exteriors-ranks-among-top-woman-owned-remodeling-firms-nationally"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/5/bend27BA.webp"
 source = "24-7 Press Release"
 +++

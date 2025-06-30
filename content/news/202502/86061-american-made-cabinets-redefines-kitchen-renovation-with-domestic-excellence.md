@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/american-craftsmanship-in-every-cabine
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/e5175f0c0b5bf5b6111470f445045367.jpg"
 article_id = 86061
 feed_item_id = 11238
-url = "/news/202502/86061-american-made-cabinets-redefines-kitchen-renovation-with-domestic-excellence"
+url = "/202502/86061-american-made-cabinets-redefines-kitchen-renovation-with-domestic-excellence"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/252/28/camci_4g.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/mitesco-inc-and-united-powers-l
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85704
 feed_item_id = 12457
-url = "/news/202504/85704-mitescos-centcore-data-center-forges-strategic-partnership-with-united-powers-to-expand-cloud-computing-solutions"
+url = "/202504/85704-mitescos-centcore-data-center-forges-strategic-partnership-with-united-powers-to-expand-cloud-computing-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/2/calmZ18n.webp"
 source = "NewMediaWire"
 +++

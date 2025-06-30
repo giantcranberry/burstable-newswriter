@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522112/ehnote-at-a
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85473
 feed_item_id = 13341
-url = "/news/202504/85473-ehnote-unveils-ophthalmology-20-at-ascrs-annual-meeting-revolutionizing-eye-care-practices"
+url = "/202504/85473-ehnote-unveils-ophthalmology-20-at-ascrs-annual-meeting-revolutionizing-eye-care-practices"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/joindiQl.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/miningnewsbreaks-esgold-c
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 85126
 feed_item_id = 15251
-url = "/news/202506/85126-esgold-corp-emerges-as-a-key-player-in-the-gold-mining-industry-amid-rising-prices"
+url = "/202506/85126-esgold-corp-emerges-as-a-key-player-in-the-gold-mining-industry-amid-rising-prices"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/lamb75at.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

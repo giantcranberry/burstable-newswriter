@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-fifty-
 enclosure = "https://cdn.newsramp.app/ibn/newsimage/16b55a89c2a5d038aacb741cae871035.png"
 article_id = 85407
 feed_item_id = 13648
-url = "/news/202504/85407-fifty-1-labs-launches-biosentry-division-and-appoints-new-ceo-to-spearhead-advanced-biohazard-detection-technologies"
+url = "/202504/85407-fifty-1-labs-launches-biosentry-division-and-appoints-new-ceo-to-spearhead-advanced-biohazard-detection-technologies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/pintwvGJ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

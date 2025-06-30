@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522054/a-new-rare-
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
 article_id = 85546
 feed_item_id = 13063
-url = "/news/202504/85546-philip-salmon-company-rare-books-revitalizes-bostons-literary-scene-with-a-blend-of-tradition-and-innovation"
+url = "/202504/85546-philip-salmon-company-rare-books-revitalizes-bostons-literary-scene-with-a-blend-of-tradition-and-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/22/quizoKMm.webp"
 source = "24-7 Press Release"
 +++

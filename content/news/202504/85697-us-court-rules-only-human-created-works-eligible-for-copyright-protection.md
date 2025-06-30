@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521099/the-patent-
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 85697
 feed_item_id = 12472
-url = "/news/202504/85697-us-court-rules-only-human-created-works-eligible-for-copyright-protection"
+url = "/202504/85697-us-court-rules-only-human-created-works-eligible-for-copyright-protection"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/boss1WLH.webp"
 source = "24-7 Press Release"
 +++

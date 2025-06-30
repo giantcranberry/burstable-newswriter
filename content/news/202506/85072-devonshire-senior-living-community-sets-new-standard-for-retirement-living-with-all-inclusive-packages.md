@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708731/devonshires-predictable-cos
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/6dc36581b05ead1182ed95487b7ead7a.png"
 article_id = 85072
 feed_item_id = 15887
-url = "/news/202506/85072-devonshire-senior-living-community-sets-new-standard-for-retirement-living-with-all-inclusive-packages"
+url = "/202506/85072-devonshire-senior-living-community-sets-new-standard-for-retirement-living-with-all-inclusive-packages"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/urget_mZ.webp"
 source = "citybiz"
 +++

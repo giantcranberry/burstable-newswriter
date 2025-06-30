@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-energy-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85575
 feed_item_id = 12951
-url = "/news/202504/85575-energy-fuels-inc-achieves-breakthrough-in-domestic-rare-earth-oxide-production"
+url = "/202504/85575-energy-fuels-inc-achieves-breakthrough-in-domestic-rare-earth-oxide-production"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/17/evenYD_d.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

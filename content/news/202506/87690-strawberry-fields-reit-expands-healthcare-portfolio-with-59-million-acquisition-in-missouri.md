@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-strawb
 enclosure = "https://cdn.newsramp.app/banners/real-estate-1.jpg"
 article_id = 87690
 feed_item_id = 15111
-url = "/news/202506/87690-strawberry-fields-reit-expands-healthcare-portfolio-with-59-million-acquisition-in-missouri"
+url = "/202506/87690-strawberry-fields-reit-expands-healthcare-portfolio-with-59-million-acquisition-in-missouri"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/4/pinkTJoV.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

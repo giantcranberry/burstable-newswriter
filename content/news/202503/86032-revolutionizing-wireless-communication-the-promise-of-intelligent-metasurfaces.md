@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520162/progress-on
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 86032
 feed_item_id = 11504
-url = "/news/202503/86032-revolutionizing-wireless-communication-the-promise-of-intelligent-metasurfaces"
+url = "/202503/86032-revolutionizing-wireless-communication-the-promise-of-intelligent-metasurfaces"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/1/ellet1P4.webp"
 source = "24-7 Press Release"
 +++

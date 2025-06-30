@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523710/us-global-m
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85110
 feed_item_id = 15458
-url = "/news/202506/85110-us-global-mail-expands-national-footprint-with-new-delaware-facility-to-meet-growing-demand-for-secure-mail-management"
+url = "/202506/85110-us-global-mail-expands-national-footprint-with-new-delaware-facility-to-meet-growing-demand-for-secure-mail-management"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/oval3SDL.webp"
 source = "24-7 Press Release"
 +++

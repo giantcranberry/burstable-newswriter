@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/eco-wave-power-to-participate-i
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85288
 feed_item_id = 14008
-url = "/news/202505/85288-eco-wave-power-to-showcase-global-renewable-energy-innovations-at-ladenburg-thalmann-innovation-expo25"
+url = "/202505/85288-eco-wave-power-to-showcase-global-renewable-energy-innovations-at-ladenburg-thalmann-innovation-expo25"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/12/gold1O90.webp"
 source = "NewMediaWire"
 +++

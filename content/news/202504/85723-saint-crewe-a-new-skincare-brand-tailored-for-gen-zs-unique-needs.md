@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/introducing-saint-crewe-the-new-clini
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-2.jpg"
 article_id = 85723
 feed_item_id = 12402
-url = "/news/202504/85723-saint-crewe-a-new-skincare-brand-tailored-for-gen-zs-unique-needs"
+url = "/202504/85723-saint-crewe-a-new-skincare-brand-tailored-for-gen-zs-unique-needs"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/1/joltxyxn.webp"
 source = "News Direct"
 +++

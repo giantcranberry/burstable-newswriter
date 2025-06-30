@@ -1,0 +1,16 @@
++++
+title = "Seoul Innovation Forum at CES 2025 Fosters Global Startup Collaboration"
+date = "2025-02-05T18:05:32Z"
+draft = false
+summary = "The Seoul Innovation Forum at CES 2025 introduced a multinational startup competition platform, highlighting global collaboration and innovation in the startup ecosystem."
+description = "Seoul Business Agency (SBA) shines at CES 2025 with the Seoul Innovation Forum, a multi-national startup competition. E-Magy B.V. from the Netherlands emerges as the Grand Winner, emphasizing global collaboration and innovation."
+source_link = "https://www.24-7pressrelease.com/press-release/519468/hyun-woo-kim-ceo-of-seoul-business-agency-seoul-innovation-forum-at-ces-will-step-up-as-a-global-platform-for-startup-collaboration-and-inspiration"
+enclosure = "https://cdn.newsramp.app/banners/events-2.jpg"
+article_id = 91174
+feed_item_id = 10622
+url = "/202502/91174-seoul-innovation-forum-at-ces-2025-fosters-global-startup-collaboration"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/5/fastPPWm.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Seoul Business Agency (SBA) marked a significant milestone at CES 2025 in Las Vegas with the successful operation of the Seoul Pavilion and the introduction of the Seoul Innovation Forum. This innovative platform brought together startups from South Korea, Japan, Taiwan, Switzerland, and the Netherlands for a collaborative showcase and competition. The event underscored the importance of international cooperation in fostering innovation and growth within the startup ecosystem.</p><p>At the heart of the forum was an inter-country IR pitching competition, where startups presented their innovations to a global panel of media judges. E-Magy B.V. from the Netherlands emerged as the Grand Winner, with Japan's BionicM and South Korea's Apollon securing First and Second Runner-Up positions, respectively. This competition not only highlighted the global diversity of innovation but also set a precedent for future collaborative efforts among startups from different countries.</p><p>Beyond the competition, the forum facilitated a cross-border collaboration discussion, where representatives from various national institutions shared insights into startup support programs. This exchange of ideas and strategies is pivotal for startups looking to scale and succeed in the global market. Hyun Woo Kim, CEO of SBA, emphasized the forum's role as a first-of-its-kind platform for national organizations and startups to collaborate in a competitive yet supportive environment.</p><p>The Seoul Innovation Forum is set to become a cornerstone event at future CES conferences, with plans for ongoing support for participating companies. This initiative represents a strategic effort to bridge entrepreneurial talent across borders, offering startups a unique opportunity to gain visibility, network, and access resources critical for their growth. The forum's success at CES 2025 signals a promising future for international startup collaboration, with potential impacts on innovation, economic growth, and the global startup landscape.</p>

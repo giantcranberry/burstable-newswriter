@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523658/wondering-i
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-1.jpg"
 article_id = 87678
 feed_item_id = 15402
-url = "/news/202506/87678-new-book-by-david-w-craig-aims-to-simplify-the-process-of-hiring-the-right-attorney"
+url = "/202506/87678-new-book-by-david-w-craig-aims-to-simplify-the-process-of-hiring-the-right-attorney"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/pinkkioj.webp"
 source = "24-7 Press Release"
 +++

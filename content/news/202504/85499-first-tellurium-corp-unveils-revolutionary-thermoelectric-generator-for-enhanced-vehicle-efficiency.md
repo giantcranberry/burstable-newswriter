@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-first-t
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85499
 feed_item_id = 13202
-url = "/news/202504/85499-first-tellurium-corp-unveils-revolutionary-thermoelectric-generator-for-enhanced-vehicle-efficiency"
+url = "/202504/85499-first-tellurium-corp-unveils-revolutionary-thermoelectric-generator-for-enhanced-vehicle-efficiency"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/hintIRuQ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

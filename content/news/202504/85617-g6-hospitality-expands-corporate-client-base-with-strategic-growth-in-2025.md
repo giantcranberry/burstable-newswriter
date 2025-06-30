@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/g6-hospitality-adds-over-150-corporat
 enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
 article_id = 85617
 feed_item_id = 12738
-url = "/news/202504/85617-g6-hospitality-expands-corporate-client-base-with-strategic-growth-in-2025"
+url = "/202504/85617-g6-hospitality-expands-corporate-client-base-with-strategic-growth-in-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/14/fileegvd.webp"
 source = "News Direct"
 +++

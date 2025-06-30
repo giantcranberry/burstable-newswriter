@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520227/exhibit-g-l
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 85989
 feed_item_id = 11576
-url = "/news/202503/85989-miami-attorney-giselle-gutierrez-shares-insights-on-mentorship-for-young-legal-professionals"
+url = "/202503/85989-miami-attorney-giselle-gutierrez-shares-insights-on-mentorship-for-young-legal-professionals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/4/gainsakV.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521374/mower-mount
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85700
 feed_item_id = 12468
-url = "/news/202504/85700-sisel-international-announces-mower-mountain-2025-a-catalyst-for-wellness-distributor-growth"
+url = "/202504/85700-sisel-international-announces-mower-mountain-2025-a-catalyst-for-wellness-distributor-growth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/3/plum52yw.webp"
 source = "24-7 Press Release"
 +++

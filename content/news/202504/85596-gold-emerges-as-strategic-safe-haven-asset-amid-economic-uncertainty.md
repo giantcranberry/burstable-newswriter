@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/gold-reaffirms-its-safe-h
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85596
 feed_item_id = 12802
-url = "/news/202504/85596-gold-emerges-as-strategic-safe-haven-asset-amid-economic-uncertainty"
+url = "/202504/85596-gold-emerges-as-strategic-safe-haven-asset-amid-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/15/wait_0bE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

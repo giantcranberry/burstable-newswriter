@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/consolidated-credit-and-nova-southeas
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/d9a3aceaa6acda6d7a6639fba1b7204c.jpg"
 article_id = 85564
 feed_item_id = 12992
-url = "/news/202504/85564-new-study-reveals-link-between-credit-card-usage-and-entertainment-spending-across-demographics"
+url = "/202504/85564-new-study-reveals-link-between-credit-card-usage-and-entertainment-spending-across-demographics"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/18/smogXkF1.webp"
 source = "News Direct"
 +++

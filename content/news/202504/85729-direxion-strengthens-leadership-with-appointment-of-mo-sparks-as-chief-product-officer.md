@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/direxion-appoints-mo-sparks-as-chief-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85729
 feed_item_id = 12390
-url = "/news/202504/85729-direxion-strengthens-leadership-with-appointment-of-mo-sparks-as-chief-product-officer"
+url = "/202504/85729-direxion-strengthens-leadership-with-appointment-of-mo-sparks-as-chief-product-officer"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/1/ovaluRQ1.webp"
 source = "News Direct"
 +++

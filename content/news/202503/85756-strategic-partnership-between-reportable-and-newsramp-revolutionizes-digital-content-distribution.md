@@ -8,7 +8,7 @@ source_link = "https://newsroom.reportablenews.com/pr/reportable-and-newsramp-te
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/c3ce564fff2c74b566cf37afdde59d7d.png"
 article_id = 85756
 feed_item_id = 12302
-url = "/news/202503/85756-strategic-partnership-between-reportable-and-newsramp-revolutionizes-digital-content-distribution"
+url = "/202503/85756-strategic-partnership-between-reportable-and-newsramp-revolutionizes-digital-content-distribution"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/28/barnrJel.webp"
 source = "Reportable"
 +++

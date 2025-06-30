@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202505141525/only-1-in-3-organizations
 enclosure = "https://cdn.newsramp.app/banners/legal-3.jpg"
 article_id = 85253
 feed_item_id = 14150
-url = "/news/202505/85253-study-reveals-critical-gaps-in-employment-law-compliance-among-organizations"
+url = "/202505/85253-study-reveals-critical-gaps-in-employment-law-compliance-among-organizations"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/255/14/lamb22eO.webp"
 source = "Newsworthy.ai"
 +++

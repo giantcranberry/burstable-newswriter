@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/707960/neovera-strengthens-adversa
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/cef52c3f1a14f4e5d0b8acdac97b3813.png"
 article_id = 85090
 feed_item_id = 15835
-url = "/news/202506/85090-neoveras-acquisition-of-greenway-solutions-marks-a-strategic-leap-in-fraud-defense"
+url = "/202506/85090-neoveras-acquisition-of-greenway-solutions-marks-a-strategic-leap-in-fraud-defense"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/tintUeVb.webp"
 source = "citybiz"
 +++

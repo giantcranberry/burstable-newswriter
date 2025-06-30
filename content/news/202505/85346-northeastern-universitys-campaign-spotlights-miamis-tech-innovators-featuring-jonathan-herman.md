@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522514/jonathan-he
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85346
 feed_item_id = 13835
-url = "/news/202505/85346-northeastern-universitys-campaign-spotlights-miamis-tech-innovators-featuring-jonathan-herman"
+url = "/202505/85346-northeastern-universitys-campaign-spotlights-miamis-tech-innovators-featuring-jonathan-herman"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/6/sagelB6_.webp"
 source = "24-7 Press Release"
 +++

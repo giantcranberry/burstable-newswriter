@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/truchoice-announces-3-part-webinar-se
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85902
 feed_item_id = 11808
-url = "/news/202503/85902-truchoice-financial-group-unveils-webinar-series-on-retirement-tax-planning-and-income-strategies"
+url = "/202503/85902-truchoice-financial-group-unveils-webinar-series-on-retirement-tax-planning-and-income-strategies"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/11/face9I9r.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/beeline-holdings-inc-na
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84237
 feed_item_id = 15017
-url = "/news/202506/84237-beeline-holdings-inc-achieves-1-billion-in-loan-originations-with-38-growth-in-2024"
+url = "/202506/84237-beeline-holdings-inc-achieves-1-billion-in-loan-originations-with-38-growth-in-2024"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/yogaDtCg.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

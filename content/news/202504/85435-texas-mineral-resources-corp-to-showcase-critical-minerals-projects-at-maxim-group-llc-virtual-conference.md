@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/texas-mineral-resources-chairma
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85435
 feed_item_id = 13567
-url = "/news/202504/85435-texas-mineral-resources-corp-to-showcase-critical-minerals-projects-at-maxim-group-llc-virtual-conference"
+url = "/202504/85435-texas-mineral-resources-corp-to-showcase-critical-minerals-projects-at-maxim-group-llc-virtual-conference"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/29/mielFryd.webp"
 source = "NewMediaWire"
 +++

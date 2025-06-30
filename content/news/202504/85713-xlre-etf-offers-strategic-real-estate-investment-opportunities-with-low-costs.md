@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/xlre-etf-provides-comprehensive-acces
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85713
 feed_item_id = 12429
-url = "/news/202504/85713-xlre-etf-offers-strategic-real-estate-investment-opportunities-with-low-costs"
+url = "/202504/85713-xlre-etf-offers-strategic-real-estate-investment-opportunities-with-low-costs"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/2/lossjyF_.webp"
 source = "News Direct"
 +++

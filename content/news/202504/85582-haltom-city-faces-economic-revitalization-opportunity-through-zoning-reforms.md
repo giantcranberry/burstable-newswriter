@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520223/haltom-city
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85582
 feed_item_id = 12929
-url = "/news/202504/85582-haltom-city-faces-economic-revitalization-opportunity-through-zoning-reforms"
+url = "/202504/85582-haltom-city-faces-economic-revitalization-opportunity-through-zoning-reforms"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/17/linewKtl.webp"
 source = "24-7 Press Release"
 +++

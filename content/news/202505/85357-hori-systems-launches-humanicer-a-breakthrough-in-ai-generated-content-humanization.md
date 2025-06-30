@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522500/humanicer-l
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85357
 feed_item_id = 13796
-url = "/news/202505/85357-hori-systems-launches-humanicer-a-breakthrough-in-ai-generated-content-humanization"
+url = "/202505/85357-hori-systems-launches-humanicer-a-breakthrough-in-ai-generated-content-humanization"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/5/urge7jMM.webp"
 source = "24-7 Press Release"
 +++

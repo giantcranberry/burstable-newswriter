@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/blackwell-3d-appoints-urban-aur
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85659
 feed_item_id = 12592
-url = "/news/202504/85659-blackwell-3d-construction-corp-partners-with-urban-aura-interiors-for-dubai-south-project"
+url = "/202504/85659-blackwell-3d-construction-corp-partners-with-urban-aura-interiors-for-dubai-south-project"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/8/lambp7yD.webp"
 source = "NewMediaWire"
 +++

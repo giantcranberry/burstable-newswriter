@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702521/konovo-names-tim-albury-as-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85138
 feed_item_id = 15128
-url = "/news/202506/85138-konovo-strengthens-leadership-with-new-cfo-to-drive-healthcare-intelligence-innovation"
+url = "/202506/85138-konovo-strengthens-leadership-with-new-cfo-to-drive-healthcare-intelligence-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/maskP3sR.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522485/deeptarget-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85354
 feed_item_id = 13803
-url = "/news/202505/85354-unlocking-the-goldmine-how-financial-institutions-can-leverage-customer-data-for-competitive-advantage"
+url = "/202505/85354-unlocking-the-goldmine-how-financial-institutions-can-leverage-customer-data-for-competitive-advantage"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/6/epictvKp.webp"
 source = "24-7 Press Release"
 +++

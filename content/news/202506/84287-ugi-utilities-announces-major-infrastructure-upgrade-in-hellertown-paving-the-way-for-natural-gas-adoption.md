@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-upgrades-starting-next-week
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/9f536d745fc20d859b61d6312dc6438f.jpg"
 article_id = 84287
 feed_item_id = 14859
-url = "/news/202506/84287-ugi-utilities-announces-major-infrastructure-upgrade-in-hellertown-paving-the-way-for-natural-gas-adoption"
+url = "/202506/84287-ugi-utilities-announces-major-infrastructure-upgrade-in-hellertown-paving-the-way-for-natural-gas-adoption"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/2/mendyWo6.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/financial-gravity-welcomes-new-family
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85712
 feed_item_id = 12431
-url = "/news/202504/85712-financial-gravity-companies-welcomes-will-sparks-as-family-office-director-to-enhance-personalized-financial-planning-in-west-texas"
+url = "/202504/85712-financial-gravity-companies-welcomes-will-sparks-as-family-office-director-to-enhance-personalized-financial-planning-in-west-texas"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/2/barnRbtT.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/tgi-fridays-is-pouring-it-on-strong-w
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-3.jpg"
 article_id = 85271
 feed_item_id = 14071
-url = "/news/202505/85271-tgi-fridays-unveils-bold-menu-transformation-to-elevate-dining-experience"
+url = "/202505/85271-tgi-fridays-unveils-bold-menu-transformation-to-elevate-dining-experience"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/13/vasth6h3.webp"
 source = "News Direct"
 +++

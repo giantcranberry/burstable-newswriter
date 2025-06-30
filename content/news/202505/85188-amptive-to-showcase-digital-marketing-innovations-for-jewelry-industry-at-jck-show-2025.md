@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523129/amptive-at-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85188
 feed_item_id = 14542
-url = "/news/202505/85188-amptive-to-showcase-digital-marketing-innovations-for-jewelry-industry-at-jck-show-2025"
+url = "/202505/85188-amptive-to-showcase-digital-marketing-innovations-for-jewelry-industry-at-jck-show-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/23/pintNkTC.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703317/12-moore-van-allen-practice
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 84657
 feed_item_id = 15255
-url = "/news/202506/84657-moore-van-allen-pllc-recognized-as-national-leader-in-legal-industry-by-chambers-usa"
+url = "/202506/84657-moore-van-allen-pllc-recognized-as-national-leader-in-legal-industry-by-chambers-usa"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/bestASY6.webp"
 source = "citybiz"
 +++

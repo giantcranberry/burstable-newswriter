@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/golf-gear-direct-introduces-groundbre
 enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
 article_id = 85640
 feed_item_id = 12657
-url = "/news/202504/85640-golf-recognized-as-a-comprehensive-wellness-activity-with-broad-health-benefits"
+url = "/202504/85640-golf-recognized-as-a-comprehensive-wellness-activity-with-broad-health-benefits"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/10/eachbj7y.webp"
 source = "News Direct"
 +++

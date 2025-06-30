@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-mulle
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85112
 feed_item_id = 15448
-url = "/news/202506/85112-mullen-automotive-resolves-legal-disputes-strengthens-focus-on-ev-production"
+url = "/202506/85112-mullen-automotive-resolves-legal-disputes-strengthens-focus-on-ev-production"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/10/dualzSkZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

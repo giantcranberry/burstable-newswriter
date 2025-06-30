@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522101/fit-after-5
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 85522
 feed_item_id = 13133
-url = "/news/202504/85522-fit-after-50-a-holistic-guide-to-wellness-for-women-navigating-midlife"
+url = "/202504/85522-fit-after-50-a-holistic-guide-to-wellness-for-women-navigating-midlife"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/23/bossxNp2.webp"
 source = "24-7 Press Release"
 +++

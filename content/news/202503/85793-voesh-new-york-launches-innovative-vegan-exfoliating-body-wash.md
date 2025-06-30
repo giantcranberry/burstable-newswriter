@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/voesh-new-york-launches-the-ultimate-
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-3.jpg"
 article_id = 85793
 feed_item_id = 12197
-url = "/news/202503/85793-voesh-new-york-launches-innovative-vegan-exfoliating-body-wash"
+url = "/202503/85793-voesh-new-york-launches-innovative-vegan-exfoliating-body-wash"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/25/wallgzz1.webp"
 source = "News Direct"
 +++

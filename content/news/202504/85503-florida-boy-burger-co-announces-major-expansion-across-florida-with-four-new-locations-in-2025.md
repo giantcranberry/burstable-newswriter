@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/florida-boy-burger-co-co-founder-roge
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85503
 feed_item_id = 13184
-url = "/news/202504/85503-florida-boy-burger-co-announces-major-expansion-across-florida-with-four-new-locations-in-2025"
+url = "/202504/85503-florida-boy-burger-co-announces-major-expansion-across-florida-with-four-new-locations-in-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/24/pitapicoyvXt.webp"
 source = "News Direct"
 +++

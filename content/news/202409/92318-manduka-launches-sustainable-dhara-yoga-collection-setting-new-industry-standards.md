@@ -1,0 +1,16 @@
++++
+title = "Manduka Launches Sustainable Dhara Yoga Collection, Setting New Industry Standards"
+date = "2024-09-12T13:05:13Z"
+draft = false
+summary = "Manduka introduces the Dhara collection, a sustainable activewear line for women, marking a significant step towards environmental consciousness in the yoga and wellness industry."
+description = "Manduka launches the Dhara yoga apparel collection, featuring sustainable and eco-friendly activewear designed for comfort and movement. The collection is made with 88% recycled materials and free from harmful chemicals."
+source_link = "https://newsdirect.com/news/manduka-r-launches-the-dhara-yoga-apparel-collection-for-women-719754032"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
+article_id = 92318
+feed_item_id = 6784
+url = "/202409/92318-manduka-launches-sustainable-dhara-yoga-collection-setting-new-industry-standards"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/249/12/milk6QJS.webp"
+source = "News Direct"
++++
+
+<p>Manduka has taken a bold step towards sustainability with the launch of its Dhara collection, a five-piece line of women's yoga apparel made from 88% recycled materials. This initiative underscores the company's commitment to environmental stewardship while maintaining the high-performance standards it is known for. The Dhara collection, meaning 'earth,' is designed to cater to the increasing consumer demand for eco-friendly activewear that does not compromise on quality or functionality.</p><p>The collection includes the Dhara Bra, Dhara Capri Legging, Dhara Tank, and Dhara Legging, each crafted to offer comfort, support, and style for yoga practitioners. Available in a variety of colors, these pieces are free from harmful chemicals such as pesticides, BPA, PFAS, and formaldehyde, making them a safer choice for consumers and the planet. Prices range from $58 to $90, with availability through <a href='https://www.manduka.com' rel='nofollow' target='_blank'>www.manduka.com</a>, yoga studios, and select national retailers.</p><p>Pamela Levine, CEO of Manduka, highlighted the collection's role in the company's broader sustainability goals, aiming to set new benchmarks for the industry by 2025. This launch not only reflects Manduka's leadership in sustainable innovation but also signals a shift in the activewear market towards more environmentally responsible practices. As consumers increasingly prioritize sustainability, the Dhara collection offers a compelling blend of eco-consciousness and performance, potentially influencing broader changes in the fashion and wellness sectors.</p><p>The introduction of the Dhara collection is a testament to the growing importance of sustainability in consumer goods, particularly in the activewear industry. By integrating recycled materials and eliminating harmful chemicals, Manduka is paving the way for other brands to follow, demonstrating that it is possible to achieve both environmental and performance excellence. For yoga enthusiasts and fitness lovers, the Dhara collection provides an opportunity to align their practice with their values, making a positive impact on the planet without compromising on the quality of their activewear.</p>

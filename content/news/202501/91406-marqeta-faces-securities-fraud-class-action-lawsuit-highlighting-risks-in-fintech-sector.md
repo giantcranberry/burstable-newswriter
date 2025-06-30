@@ -1,0 +1,16 @@
++++
+title = "Marqeta Faces Securities Fraud Class Action Lawsuit, Highlighting Risks in Fintech Sector"
+date = "2025-01-04T19:05:16Z"
+draft = false
+summary = "A securities fraud class action lawsuit against Marqeta, Inc. underscores the critical importance of transparency and regulatory compliance in the fintech industry, with potential implications for investors and the sector at large."
+description = "Kessler Topaz Meltzer & Check, LLP alerts investors of securities class action lawsuits against Marqeta, Inc., citing alleged misconduct. Investors advised to act by lead plaintiff deadline to seek potential recovery of losses."
+source_link = "https://www.newmediawire.com/news/class-action-announcement-for-marqeta-inc-investors-a-securities-fraud-class-action-lawsuit-was-filed-against-marqeta-inc-contact-kessler-topaz-meltzer-check-llp-7078833"
+enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
+article_id = 91406
+feed_item_id = 9844
+url = "/202501/91406-marqeta-faces-securities-fraud-class-action-lawsuit-highlighting-risks-in-fintech-sector"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/251/4/pavex1ez.webp"
+source = "NewMediaWire"
++++
+
+<p>Investors in Marqeta, Inc. (NASDAQ: MQ) are confronting potential financial setbacks following the filing of a securities fraud class action lawsuit in the United States District Court for the Northern District of California. The lawsuit, brought to light by Kessler Topaz Meltzer & Check, LLP, pertains to investors who engaged in the purchase or acquisition of Marqeta securities from May 7, 2024, to November 4, 2024. It accuses Marqeta and its executives of disseminating materially false and misleading statements regarding the company's business operations and future prospects during this timeframe.</p><p>Central to the lawsuit are allegations that Marqeta significantly downplayed the regulatory hurdles impacting its business trajectory and neglected to inform investors of an impending reduction in its fourth-quarter 2024 guidance. Such claims, if validated, could tarnish Marqeta's standing in the fintech sector, a domain where regulatory adherence and precise financial forecasting are paramount.</p><p>The legal proceedings offer a stark reminder of the vital role that transparency and accurate disclosure play in public companies. They also highlight the mechanism of securities litigation as a means to address alleged corporate misrepresentations that may adversely affect investors. With a deadline of February 7, 2025, for affected investors to apply for the lead plaintiff position, the case is poised to attract considerable attention from both the investment community and industry analysts.</p><p>Kessler Topaz Meltzer & Check, LLP, known for its expertise in prosecuting class actions globally, emphasizes the importance of investor vigilance and the need for consultation with financial and legal experts to navigate potential securities fraud. The unfolding lawsuit against Marqeta may set a precedent for how fintech firms communicate regulatory and financial challenges to their stakeholders, marking a pivotal moment for corporate accountability in the sector.</p>

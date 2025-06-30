@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522710/notify-expa
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85280
 feed_item_id = 14038
-url = "/news/202505/85280-notify-expands-in-wisconsin-to-modernize-senior-living-communication-systems"
+url = "/202505/85280-notify-expands-in-wisconsin-to-modernize-senior-living-communication-systems"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/13/hush3L43.webp"
 source = "24-7 Press Release"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Leawo Software Enhances Prof. Media for Mac with Critical Updates in Version 13.0.3"
+date = "2024-08-12T07:00:14Z"
+draft = false
+summary = "Leawo Software's latest update to Prof. Media for Mac resolves audio and disc menu customization issues, enhancing the digital media experience for Mac users."
+description = "Leawo Software releases Prof. Media for Mac v13.0.3, addressing audio playback and disc menu issues to provide a smoother and more enjoyable digital entertainment experience for Mac users and digital media enthusiasts."
+source_link = "https://www.24-7pressrelease.com/press-release/513317/leawo-software-released-newest-prof-media-for-mac-v1303-by-fixing-audio-missing-issue-in-51-audio-aac-output-and-disc-menu-background-customization-issue-of-blu-ray-burner"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 92609
+feed_item_id = 5643
+url = "/202408/92609-leawo-software-enhances-prof-media-for-mac-with-critical-updates-in-version-1303"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/248/12/filoOGCo.webp"
+source = "24-7 Press Release"
++++
+
+<p>Leawo Software has released version 13.0.3 of Prof. Media for Mac, introducing significant improvements aimed at enhancing the user experience for digital media conversion and creation. This update specifically addresses issues related to audio output in 5.1 Audio AAC files and disc menu background customization in the Blu-ray Burner module, marking a notable advancement for professionals and enthusiasts alike.</p><p>The first major fix in this update resolves the problem of missing audio during the playback of files converted with the 5.1 Audio AAC codec. This issue had previously affected the quality of audio output, but the new version ensures seamless playback with high-quality sound, thereby improving the overall media consumption experience.</p><p>Additionally, the update removes a previous limitation in the Blu-ray Creator module that restricted customized disc menu backgrounds to a 5-second duration. This enhancement allows users more flexibility and creativity in designing menus for DVD, Blu-ray, and 4K Blu-ray discs, catering to the needs of content creators looking for personalized disc authoring solutions.</p><p>Prof. Media for Mac v13.0.3 is available for download, offering both a free trial and a registered version at $79.95 for annual renewal, with a current 41% discount as part of Leawo's monthly promotion. The software's comprehensive features, including an internal video editor and a 2D to 3D converter, make it a versatile tool for handling a wide range of media formats, from high-resolution 4K content to standard audio and video files.</p><p>This update reflects Leawo Software's dedication to addressing user feedback and adapting to the evolving demands of digital media production. By focusing on specific user concerns and enhancing functionality, Leawo continues to solidify its position as a key player in the digital multimedia solutions industry, offering reliable and efficient tools for Mac users engaged in media conversion and creation.</p>

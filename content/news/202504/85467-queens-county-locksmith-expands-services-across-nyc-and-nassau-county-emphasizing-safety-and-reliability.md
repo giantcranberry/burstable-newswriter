@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522183/queens-coun
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85467
 feed_item_id = 13428
-url = "/news/202504/85467-queens-county-locksmith-expands-services-across-nyc-and-nassau-county-emphasizing-safety-and-reliability"
+url = "/202504/85467-queens-county-locksmith-expands-services-across-nyc-and-nassau-county-emphasizing-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/openap5w.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/irs-layoffs-raise-concerns-for-tax-fil
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/881a8c5ab56fde3900b814f22b6a6fcd.jpg"
 article_id = 85888
 feed_item_id = 11853
-url = "/news/202503/85888-irs-workforce-reduction-threatens-to-disrupt-upcoming-tax-season"
+url = "/202503/85888-irs-workforce-reduction-threatens-to-disrupt-upcoming-tax-season"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/12/veilWSqI.webp"
 source = "Press Services"
 +++

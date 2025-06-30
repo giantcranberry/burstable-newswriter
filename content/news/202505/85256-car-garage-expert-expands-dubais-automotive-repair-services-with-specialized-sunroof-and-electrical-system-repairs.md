@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/car-garage-expert-sets-new-standard-f
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85256
 feed_item_id = 14148
-url = "/news/202505/85256-car-garage-expert-expands-dubais-automotive-repair-services-with-specialized-sunroof-and-electrical-system-repairs"
+url = "/202505/85256-car-garage-expert-expands-dubais-automotive-repair-services-with-specialized-sunroof-and-electrical-system-repairs"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/14/clubmIVA.webp"
 source = "News Direct"
 +++

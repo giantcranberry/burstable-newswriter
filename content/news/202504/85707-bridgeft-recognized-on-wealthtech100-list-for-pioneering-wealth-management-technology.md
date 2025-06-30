@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/bridgeft-recognized-as-leading-techno
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85707
 feed_item_id = 12444
-url = "/news/202504/85707-bridgeft-recognized-on-wealthtech100-list-for-pioneering-wealth-management-technology"
+url = "/202504/85707-bridgeft-recognized-on-wealthtech100-list-for-pioneering-wealth-management-technology"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/2/warpcXz9.webp"
 source = "News Direct"
 +++

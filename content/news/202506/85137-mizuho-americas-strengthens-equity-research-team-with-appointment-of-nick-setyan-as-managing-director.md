@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702564/mizuho-americas-appoints-ni
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85137
 feed_item_id = 15127
-url = "/news/202506/85137-mizuho-americas-strengthens-equity-research-team-with-appointment-of-nick-setyan-as-managing-director"
+url = "/202506/85137-mizuho-americas-strengthens-equity-research-team-with-appointment-of-nick-setyan-as-managing-director"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/poembe0A.webp"
 source = "citybiz"
 +++

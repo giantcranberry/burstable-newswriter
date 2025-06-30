@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/golden-matrix-subsidiary-meridi
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85828
 feed_item_id = 12081
-url = "/news/202503/85828-golden-matrix-groups-meridianbet-secures-definitive-federal-license-in-brazil-paving-the-way-for-nationwide-betting-operations"
+url = "/202503/85828-golden-matrix-groups-meridianbet-secures-definitive-federal-license-in-brazil-paving-the-way-for-nationwide-betting-operations"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/20/best_e70.webp"
 source = "NewMediaWire"
 +++

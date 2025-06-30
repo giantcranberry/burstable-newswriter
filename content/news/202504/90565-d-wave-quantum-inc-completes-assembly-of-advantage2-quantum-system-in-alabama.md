@@ -1,0 +1,16 @@
++++
+title = "D-Wave Quantum Inc. Completes Assembly of Advantage2 Quantum System in Alabama"
+date = "2025-04-24T17:50:15Z"
+draft = false
+summary = "D-Wave Quantum Inc. has completed the physical assembly of its Advantage2 annealing quantum system in Huntsville, Alabama, marking a significant step forward in quantum computing infrastructure with potential applications in defense and space asset management."
+description = "D-Wave Quantum Inc. completes assembly of quantum system at Davidson Technologies' headquarters, marking a significant advancement in quantum computing technology for defense applications. The milestone signifies progress in space asset management and autonomous systems optimization."
+source_link = "https://rss.investorbrandnetwork.com/bdc/billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-advances-u-s-quantum-infrastructure-with-davidson-installation-milestone/"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
+article_id = 90565
+feed_item_id = 13227
+url = "/202504/90565-d-wave-quantum-inc-completes-assembly-of-advantage2-quantum-system-in-alabama"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/urgeJ7E_.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>D-Wave Quantum Inc. has reached a pivotal moment in the advancement of quantum computing by finalizing the physical assembly of its Advantage2 annealing quantum system at Davidson Technologies' headquarters in Huntsville, Alabama. This development signifies the first on-premises quantum system of its kind in the state, currently in the final stages of calibration and testing prior to becoming fully operational.</p><p>The Advantage2 system, a product of the collaboration between D-Wave and Davidson Technologies, is tailored to enhance mission-critical quantum optimization tasks. Its applications are vast, including but not limited to space asset management and the coordination of autonomous systems, with a special emphasis on meeting the stringent requirements of the U.S. Department of Defense.</p><p>A private ribbon-cutting event held on April 23 celebrated this technological milestone, emphasizing the strategic value of integrating quantum computing into critical infrastructure. The alliance between D-Wave and Davidson Technologies highlights the increasing role of quantum computing in cutting-edge technology and defense industries.</p><p>D-Wave stands as a leader in the commercial quantum computing arena, with its portfolio encompassing both annealing and gate-model quantum computers. The company's Advantage quantum systems, which include more than 5,000 qubits, are accessible via on-premises or cloud-based platforms, offering remarkable reliability with 99.9% availability and uptime.</p><p>Over 100 entities currently leverage D-Wave's technology, with more than 200 million problems processed through their Advantage and Advantage2 systems. This widespread adoption underscores the versatility and impact of quantum computing across various domains such as optimization, artificial intelligence, and scientific research, showcasing the revolutionary capabilities of quantum technologies.</p>

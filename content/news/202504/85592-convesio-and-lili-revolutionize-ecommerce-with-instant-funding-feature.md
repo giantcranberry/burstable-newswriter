@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521700/convesio-in
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85592
 feed_item_id = 12887
-url = "/news/202504/85592-convesio-and-lili-revolutionize-ecommerce-with-instant-funding-feature"
+url = "/202504/85592-convesio-and-lili-revolutionize-ecommerce-with-instant-funding-feature"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/16/diveKUDB.webp"
 source = "24-7 Press Release"
 +++

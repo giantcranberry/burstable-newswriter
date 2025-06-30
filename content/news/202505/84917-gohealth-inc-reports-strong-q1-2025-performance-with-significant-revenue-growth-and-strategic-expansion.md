@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/ffd8808272bb5efef20720492743afb5.jpg"
 article_id = 84917
 feed_item_id = 14187
-url = "/news/202505/84917-gohealth-inc-reports-strong-q1-2025-performance-with-significant-revenue-growth-and-strategic-expansion"
+url = "/202505/84917-gohealth-inc-reports-strong-q1-2025-performance-with-significant-revenue-growth-and-strategic-expansion"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/255/14/voltTpLv.webp"
 source = "Reportable"
 +++

@@ -1,0 +1,16 @@
++++
+title = "StreamVantage and Adelaide Launch High-Attention CTV Advertising Marketplace"
+date = "2025-01-22T12:15:12Z"
+draft = false
+summary = "StreamVantage and Adelaide have introduced a targeting marketplace for Connected Television advertising, leveraging Adelaide's Attention Unit metric to optimize ad placements and campaign effectiveness."
+description = "Adelaide and StreamVantage team up to introduce the first targeting marketplace for high-attention CTV content, providing advertisers with impactful placement opportunities. This collaboration revolutionizes CTV advertising by offering high-attention targeting options, driving better performance and signaling a shift towards more effective ad strategies in the FAST and AVOD ecosystems."
+source_link = "https://newsdirect.com/news/streamvantage-and-adelaide-announce-first-ever-high-attention-ctv-ad-targeting-marketplace-specifically-for-fast-and-avod-720906251"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 91280
+feed_item_id = 10252
+url = "/202501/91280-streamvantage-and-adelaide-launch-high-attention-ctv-advertising-marketplace"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/251/22/ulna0mO3.webp"
+source = "News Direct"
++++
+
+<p>StreamVantage and Adelaide have unveiled a new targeting marketplace aimed at revolutionizing Connected Television (CTV) advertising by enabling advertisers to pinpoint and secure high-attention ad placements. This marketplace facilitates campaign launches across Free Ad-Supported Streaming Television (FAST) and Advertising-Supported Video On Demand (AVOD) platforms, utilizing transaction methods such as programmatic guaranteed, private marketplace, and managed service approaches.</p><p>At the heart of this initiative is Adelaide's Attention Unit (AU) metric, a machine-learning model designed to forecast the likelihood of a media placement capturing viewer attention. The AU metric integrates eye-tracking data from sources like TVision, alongside device signals and outcome data, to evaluate the effectiveness of advertising placements. An initial study by Adelaide in collaboration with VIZIO demonstrated that FAST channels exceed general CTV attention benchmarks by 20–25%, underscoring the efficacy of this targeted advertising strategy.</p><p>Greg Smith, Founder and CEO of StreamVantage, highlighted the significance of this partnership, stating it offers advertisers access to premium placements in a highly competitive market. Marc Guldimann, CEO of Adelaide, echoed this sentiment, emphasizing the partnership's role in enhancing the accessibility of high-attention ad inventory for media buyers and maximizing campaign impact.</p><p>This marketplace marks a pivotal development in CTV advertising, providing advertisers with advanced targeting tools to reach engaged audiences more effectively, thereby potentially boosting advertising ROI. The collaboration between StreamVantage and Adelaide sets a new standard for precision and efficiency in digital advertising, catering to the evolving needs of brands and agencies in the streaming era.</p>

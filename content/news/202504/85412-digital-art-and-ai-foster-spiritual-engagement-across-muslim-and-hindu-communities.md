@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522357/new-communi
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85412
 feed_item_id = 13637
-url = "/news/202504/85412-digital-art-and-ai-foster-spiritual-engagement-across-muslim-and-hindu-communities"
+url = "/202504/85412-digital-art-and-ai-foster-spiritual-engagement-across-muslim-and-hindu-communities"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/rainieP4.webp"
 source = "24-7 Press Release"
 +++

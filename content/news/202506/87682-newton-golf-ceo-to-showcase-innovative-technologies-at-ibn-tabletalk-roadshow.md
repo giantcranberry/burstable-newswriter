@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 87682
 feed_item_id = 15352
-url = "/news/202506/87682-newton-golf-ceo-to-showcase-innovative-technologies-at-ibn-tabletalk-roadshow"
+url = "/202506/87682-newton-golf-ceo-to-showcase-innovative-technologies-at-ibn-tabletalk-roadshow"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/mendzojt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

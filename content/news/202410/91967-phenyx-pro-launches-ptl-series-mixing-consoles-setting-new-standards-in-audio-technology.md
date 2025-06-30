@@ -1,0 +1,16 @@
++++
+title = "Phenyx Pro Launches PTL Series Mixing Consoles, Setting New Standards in Audio Technology"
+date = "2024-10-28T07:05:12Z"
+draft = false
+summary = "Phenyx Pro introduces the PTL Series mixing consoles, featuring advanced routing, extensive connectivity, and wireless capabilities, marking a significant advancement for audio professionals."
+description = "Phenyx Pro launches the new PTL Series mixing consoles, offering enhanced input/output capabilities, advanced routing options, extensive connectivity, diverse effects, and wireless streaming. The consoles provide balanced stereo sound, personalized monitor mixes, and routing flexibility, with built-in DSP effects and Bluetooth streaming for seamless audio integration."
+source_link = "https://www.24-7pressrelease.com/press-release/515593/phenyx-pro-unveils-ptl-series-mixers-a-new-level-of-flexibility-and-performance"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0515593_210116.jpg"
+article_id = 91967
+feed_item_id = 8014
+url = "/202410/91967-phenyx-pro-launches-ptl-series-mixing-consoles-setting-new-standards-in-audio-technology"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2410/28/ninoy1hX.webp"
+source = "24-7 Press Release"
++++
+
+<p>Phenyx Pro has recently unveiled the PTL Series mixing consoles, including the PTL-600 and PTL-800 models, which are set to redefine professional audio mixing with their advanced features and versatility. These consoles are designed to meet the demands of sound engineers, musicians, and audio professionals across various settings, from live performances to corporate events.</p><p>The PTL Series stands out for its enhanced input/output capabilities, offering 4 or 6 dedicated XLR and TRS inputs for seamless integration with diverse audio sources. This flexibility is essential for professionals navigating the complexities of modern audio environments. Moreover, the series introduces sophisticated routing options, such as pre-fader and post-fader AUX sends, enabling precise control over monitor mixes and sound reinforcement, a critical feature for live performances.</p><p>Another notable advancement is the mixers' effects capabilities, including a 3-band EQ per channel and 16 built-in DSP effects, providing users with professional-grade audio enhancements. The inclusion of Bluetooth streaming and USB connectivity with a 48kHz/24bit sampling rate further underscores the PTL Series' commitment to versatility and high-fidelity audio reproduction.</p><p>The launch of the PTL Series by Phenyx Pro not only addresses the common challenges faced by audio professionals but also sets a new benchmark in mixer technology. With its combination of advanced features, user-friendly design, and robust connectivity options, the PTL Series is poised to become an indispensable tool for audio professionals seeking precision and reliability in their work. For more details, product information is available on the <a href='https://phenyxpro.com/products/ptl-600' rel='nofollow' target='_blank'>Phenyx Pro website</a> for the PTL-600 and <a href='https://phenyxpro.com/products/ptl-800' rel='nofollow' target='_blank'>PTL-800</a> models.</p>

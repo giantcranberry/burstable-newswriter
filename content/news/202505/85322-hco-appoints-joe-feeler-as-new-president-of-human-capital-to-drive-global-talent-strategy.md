@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522584/hco-welcome
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85322
 feed_item_id = 13904
-url = "/news/202505/85322-hco-appoints-joe-feeler-as-new-president-of-human-capital-to-drive-global-talent-strategy"
+url = "/202505/85322-hco-appoints-joe-feeler-as-new-president-of-human-capital-to-drive-global-talent-strategy"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/8/lime6hS0.webp"
 source = "24-7 Press Release"
 +++

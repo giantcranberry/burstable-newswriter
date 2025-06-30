@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520290/coastal-pip
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85957
 feed_item_id = 11631
-url = "/news/202503/85957-coastal-pipeline-inc-expands-foundation-excavation-services-in-monterey-county-amid-construction-boom"
+url = "/202503/85957-coastal-pipeline-inc-expands-foundation-excavation-services-in-monterey-county-amid-construction-boom"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/5/bendQm1c.webp"
 source = "24-7 Press Release"
 +++

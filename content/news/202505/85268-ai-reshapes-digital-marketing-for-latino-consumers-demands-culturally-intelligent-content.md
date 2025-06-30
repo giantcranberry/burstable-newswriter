@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/how-spanish-seo-and-ai-search-can-hel
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/5292a73541fa211966b055433e78a420.jpg"
 article_id = 85268
 feed_item_id = 14073
-url = "/news/202505/85268-ai-reshapes-digital-marketing-for-latino-consumers-demands-culturally-intelligent-content"
+url = "/202505/85268-ai-reshapes-digital-marketing-for-latino-consumers-demands-culturally-intelligent-content"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/13/evenMYPu.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523643/introducing
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84108
 feed_item_id = 15406
-url = "/news/202506/84108-metacube-global-unveils-the-metacube-square-in-songdo-pioneering-the-future-of-immersive-entertainment"
+url = "/202506/84108-metacube-global-unveils-the-metacube-square-in-songdo-pioneering-the-future-of-immersive-entertainment"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/meanZuVX.webp"
 source = "24-7 Press Release"
 +++

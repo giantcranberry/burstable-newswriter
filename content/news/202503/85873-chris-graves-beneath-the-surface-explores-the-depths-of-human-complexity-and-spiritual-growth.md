@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520628/chris-grave
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-2.jpg"
 article_id = 85873
 feed_item_id = 11908
-url = "/news/202503/85873-chris-graves-beneath-the-surface-explores-the-depths-of-human-complexity-and-spiritual-growth"
+url = "/202503/85873-chris-graves-beneath-the-surface-explores-the-depths-of-human-complexity-and-spiritual-growth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/14/voltQRMO.webp"
 source = "24-7 Press Release"
 +++

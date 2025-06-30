@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/openai-expresses-intere
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85404
 feed_item_id = 13652
-url = "/news/202504/85404-openai-eyes-google-chrome-acquisition-amid-antitrust-case-signaling-expansion-beyond-ai"
+url = "/202504/85404-openai-eyes-google-chrome-acquisition-amid-antitrust-case-signaling-expansion-beyond-ai"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/duneAwBi.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

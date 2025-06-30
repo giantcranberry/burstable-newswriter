@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/onar-holding-corp-onar-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84454
 feed_item_id = 15626
-url = "/news/202506/84454-onar-holding-corp-pioneers-ai-driven-marketing-for-middle-market-growth"
+url = "/202506/84454-onar-holding-corp-pioneers-ai-driven-marketing-for-middle-market-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/zealc86e.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521164/adaptive-in
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85748
 feed_item_id = 12327
-url = "/news/202503/85748-adaptive-information-systems-empowers-monterey-bay-area-small-businesses-with-tailored-it-solutions"
+url = "/202503/85748-adaptive-information-systems-empowers-monterey-bay-area-small-businesses-with-tailored-it-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/29/fondFGWj.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/kamada-q1-results-double-digit-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84080
 feed_item_id = 15488
-url = "/news/202506/84080-kamada-ltd-reports-strong-q1-2025-growth-with-revenue-up-17-and-adjusted-ebitda-surging-54"
+url = "/202506/84080-kamada-ltd-reports-strong-q1-2025-growth-with-revenue-up-17-and-adjusted-ebitda-surging-54"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/11/chiplo7B.webp"
 source = "NewMediaWire"
 +++

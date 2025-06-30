@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703268/glover-lawrence-joins-seda-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
 article_id = 85127
 feed_item_id = 15240
-url = "/news/202506/85127-seda-experts-llc-strengthens-leadership-with-appointment-of-glover-lawrence-as-managing-director"
+url = "/202506/85127-seda-experts-llc-strengthens-leadership-with-appointment-of-glover-lawrence-as-managing-director"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/mossnj5G.webp"
 source = "citybiz"
 +++

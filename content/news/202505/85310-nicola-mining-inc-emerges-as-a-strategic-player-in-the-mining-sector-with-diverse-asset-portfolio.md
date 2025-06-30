@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-nicola-
 enclosure = "https://cdn.newsramp.app/banners/science-3.jpg"
 article_id = 85310
 feed_item_id = 13942
-url = "/news/202505/85310-nicola-mining-inc-emerges-as-a-strategic-player-in-the-mining-sector-with-diverse-asset-portfolio"
+url = "/202505/85310-nicola-mining-inc-emerges-as-a-strategic-player-in-the-mining-sector-with-diverse-asset-portfolio"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/8/tallX6sE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

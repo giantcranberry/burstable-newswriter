@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/navigating-the-tax-legal-landscape-in-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/308e6eebd73798427e593a446f58a390.jpg"
 article_id = 84282
 feed_item_id = 14885
-url = "/news/202506/84282-navigating-tax-debt-in-los-angeles-how-j-david-tax-law-is-making-a-difference"
+url = "/202506/84282-navigating-tax-debt-in-los-angeles-how-j-david-tax-law-is-making-a-difference"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/pendBj36.webp"
 source = "Press Services"
 +++

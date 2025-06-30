@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-underway-in
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/8b44d27de3a78be7b76033446166f232.jpg"
 article_id = 85724
 feed_item_id = 12401
-url = "/news/202504/85724-ugi-utilities-launches-major-infrastructure-upgrade-in-hazle-township"
+url = "/202504/85724-ugi-utilities-launches-major-infrastructure-upgrade-in-hazle-township"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/1/raincF7_.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/2025-state-of-small-business-sur
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85209
 feed_item_id = 14410
-url = "/news/202505/85209-smbs-accelerate-digital-transformation-with-ai-and-cybersecurity-investments"
+url = "/202505/85209-smbs-accelerate-digital-transformation-with-ai-and-cybersecurity-investments"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/255/20/iconQbh1.webp"
 source = "Noticias Newswire"
 +++

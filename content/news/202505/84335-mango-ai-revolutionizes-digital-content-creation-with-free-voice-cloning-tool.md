@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523234/mango-ais-f
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-1.jpg"
 article_id = 84335
 feed_item_id = 14712
-url = "/news/202505/84335-mango-ai-revolutionizes-digital-content-creation-with-free-voice-cloning-tool"
+url = "/202505/84335-mango-ai-revolutionizes-digital-content-creation-with-free-voice-cloning-tool"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/29/ableIspq.webp"
 source = "24-7 Press Release"
 +++

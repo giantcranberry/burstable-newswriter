@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-why-onar
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 84809
 feed_item_id = 14579
-url = "/news/202505/84809-onar-holding-corp-revolutionizes-marketing-services-with-ai-driven-agency-network"
+url = "/202505/84809-onar-holding-corp-revolutionizes-marketing-services-with-ai-driven-agency-network"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/23/ninaBPwr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

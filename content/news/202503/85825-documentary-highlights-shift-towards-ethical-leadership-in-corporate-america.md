@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520849/new-documen
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85825
 feed_item_id = 12098
-url = "/news/202503/85825-documentary-highlights-shift-towards-ethical-leadership-in-corporate-america"
+url = "/202503/85825-documentary-highlights-shift-towards-ethical-leadership-in-corporate-america"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/21/zero8mnw.webp"
 source = "24-7 Press Release"
 +++

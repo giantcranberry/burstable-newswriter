@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-knightsc
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85496
 feed_item_id = 13216
-url = "/news/202504/85496-knightscope-secures-over-12-million-in-new-contracts-expanding-its-autonomous-security-solutions-nationwide"
+url = "/202504/85496-knightscope-secures-over-12-million-in-new-contracts-expanding-its-autonomous-security-solutions-nationwide"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/24/numb1WP1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

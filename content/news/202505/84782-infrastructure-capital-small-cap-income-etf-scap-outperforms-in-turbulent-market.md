@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/with-lightweight-competitors-po
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84782
 feed_item_id = 14729
-url = "/news/202505/84782-infrastructure-capital-small-cap-income-etf-scap-outperforms-in-turbulent-market"
+url = "/202505/84782-infrastructure-capital-small-cap-income-etf-scap-outperforms-in-turbulent-market"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/29/yawnK28g.webp"
 source = "NewMediaWire"
 +++

@@ -1,0 +1,16 @@
++++
+title = "U Power and SAIC Motor-CP Partner to Revolutionize EV Infrastructure in Thailand with Battery-Swapping Technology"
+date = "2025-02-12T13:45:10Z"
+draft = false
+summary = "The collaboration between U Power Limited and SAIC Motor-CP introduces battery-swapping technology to Thailand's commercial transportation sector, aiming to reduce charging times and accelerate EV adoption."
+description = "Discover how U Power and SAIC Motor-CP are revolutionizing EV charging in Thailand with quick battery swaps. This partnership aims to accelerate EV adoption in the commercial transportation sector and set a model for sustainable transportation."
+source_link = "https://newsdirect.com/news/a-fully-charged-ev-battery-in-minutes-u-power-and-saic-motor-cp-team-up-to-make-it-a-reality-in-thailand-881449871"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/d6737cd5ae02f0be467f92f92cc75dec.png"
+article_id = 91112
+feed_item_id = 10828
+url = "/202502/91112-u-power-and-saic-motor-cp-partner-to-revolutionize-ev-infrastructure-in-thailand-with-battery-swapping-technology"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/12/navyPUff.webp"
+source = "News Direct"
++++
+
+<p>The partnership between U Power Limited and SAIC Motor-CP marks a significant step forward in the evolution of electric vehicle (EV) infrastructure in Thailand. By focusing on the commercial transportation sector, particularly taxi and ride-hailing services, the collaboration introduces U Power's UOTTA battery-swapping technology. This innovation promises to replace depleted EV batteries with fully charged ones in under five minutes, addressing two of the most significant barriers to EV adoption: long charging times and range anxiety.</p><p>Thailand's taxi and ride-sharing market, with over 300,000 vehicles, presents a vast opportunity for this technology. Projections suggest that 50% of these vehicles could transition to electric within five years, spurred by the country's EV3.5 policy. This policy, offering subsidies and reduced taxes on batteries, is expected to fuel annual EV adoption growth rates of 30% to 40%. U Power's plan to deploy 500 to 750 battery-swapping stations across major urban centers is poised to support this growth, creating a robust infrastructure for the burgeoning EV market.</p><p>Adapting the battery-swapping technology to Thailand's tropical climate involves significant engineering challenges, including the development of a localized battery management system and integration with the national power grid. However, by targeting the commercial sector first, the companies anticipate more stable revenue streams and a quicker return on investment, setting a precedent for future expansions into consumer markets.</p><p>Li Jia, Chairman and CEO of U Power, and SAIC Motor-CP's President Feng Zhao both underscored the strategic importance of this partnership. They highlighted its potential to not only transform Thailand's commercial transportation sector but also to serve as a replicable model for other markets. As the world intensifies efforts to reduce carbon emissions, innovative solutions like battery swapping could be pivotal in facilitating the global transition to electric mobility, making this partnership a critical development in the EV industry.</p>

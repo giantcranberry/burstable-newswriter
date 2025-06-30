@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/how-robotics-technology-
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/89fcabdfaf70a5a851bb24160ff39901.png"
 article_id = 87649
 feed_item_id = 15949
-url = "/news/202506/87649-medical-robotics-market-set-to-skyrocket-transforming-healthcare-delivery"
+url = "/202506/87649-medical-robotics-market-set-to-skyrocket-transforming-healthcare-delivery"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/isleN7cT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

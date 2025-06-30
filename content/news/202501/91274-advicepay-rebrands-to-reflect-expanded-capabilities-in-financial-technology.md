@@ -1,0 +1,16 @@
++++
+title = "AdvicePay Rebrands to Reflect Expanded Capabilities in Financial Technology"
+date = "2025-01-22T15:05:17Z"
+draft = false
+summary = "AdvicePay's corporate rebranding highlights its growth and enhanced technological offerings, positioning it as a key player in transforming fee-for-service financial planning into a mainstream industry segment."
+description = "Discover how AdvicePay's updated brand identity signals a shift towards comprehensive financial planning solutions. Learn about the platform's growth, expanded capabilities, and impact on revenue generation for financial professionals."
+source_link = "https://newsdirect.com/news/advicepay-unveils-updated-corporate-branding-to-reflect-evolution-of-its-platform-939643009"
+enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
+article_id = 91274
+feed_item_id = 10265
+url = "/202501/91274-advicepay-rebrands-to-reflect-expanded-capabilities-in-financial-technology"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/251/22/ellaQB0G.webp"
+source = "News Direct"
++++
+
+<p>Financial technology platform AdvicePay has announced a comprehensive rebranding, marking a significant milestone in its evolution and service offering to financial professionals. This rebranding includes a new logo, updated color palette, and refined messaging, all designed to reflect the platform's expanded technological capabilities and its journey from a basic payments platform to a multifaceted solution.</p><p>Since its public launch in 2018, AdvicePay, founded by financial industry experts Michael Kitces and Alan Moore, has grown to serve over 11,000 advisors. The platform has processed more than 1.5 million transactions, totaling approximately $770 million in financial planning fees from over 245,000 clients. This growth underscores the platform's significant impact on the financial planning industry.</p><p>The rebranding signifies AdvicePay's transition into offering a broader range of services, including eSignature, billing and payments, engagement workflow, approvals, and deliverables tracking. CEO Alan Moore highlighted the company's pivotal role in making fee-for-service planning a mainstream segment within the financial industry. Shannon Beck, Head of Sales & Marketing, added that the new brand identity represents boldness, trustworthiness, and confidence, mirroring the platform's enhanced capabilities and its mission to prove financial planning can be both profitable and instrumental in building relationships with new client demographics.</p><p>AdvicePay distinguishes itself in the financial technology space by acting as a direct revenue generator for financial professionals. Its support for fee-for-service models enables advisors, ranging from solo practitioners to large broker-dealers, to adopt innovative billing strategies and achieve sustainable revenue growth. This rebranding not only reflects AdvicePay's growth and expanded offerings but also its commitment to leading the transformation of financial planning into a more accessible and profitable service for professionals and their clients alike.</p>

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/synaptics-and-vbox-communications-col
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85666
 feed_item_id = 12567
-url = "/news/202504/85666-synaptics-and-vbox-communications-to-unveil-nextgen-tv-solutions-at-nab-show-2025"
+url = "/202504/85666-synaptics-and-vbox-communications-to-unveil-nextgen-tv-solutions-at-nab-show-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/7/zealgpig.webp"
 source = "News Direct"
 +++

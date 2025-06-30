@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521854/stephanie-v
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85591
 feed_item_id = 12890
-url = "/news/202504/85591-coastal-windows-exteriors-a-beacon-of-entrepreneurial-success-and-community-impact"
+url = "/202504/85591-coastal-windows-exteriors-a-beacon-of-entrepreneurial-success-and-community-impact"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/16/echosrIZ.webp"
 source = "24-7 Press Release"
 +++

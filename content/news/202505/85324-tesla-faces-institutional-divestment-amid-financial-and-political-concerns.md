@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-tesla
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85324
 feed_item_id = 13896
-url = "/news/202505/85324-tesla-faces-institutional-divestment-amid-financial-and-political-concerns"
+url = "/202505/85324-tesla-faces-institutional-divestment-amid-financial-and-political-concerns"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/limeeKYP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

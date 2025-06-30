@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523613/la-jolla-je
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85115
 feed_item_id = 15403
-url = "/news/202506/85115-c-blackburn-jewelers-revolutionizes-custom-jewelry-design-with-advanced-technology"
+url = "/202506/85115-c-blackburn-jewelers-revolutionizes-custom-jewelry-design-with-advanced-technology"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/navybowG.webp"
 source = "24-7 Press Release"
 +++

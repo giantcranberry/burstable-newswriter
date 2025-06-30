@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-energy
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 84737
 feed_item_id = 14981
-url = "/news/202506/84737-energy-fuels-inc-achieves-record-uranium-production-strengthening-us-nuclear-energy-sector"
+url = "/202506/84737-energy-fuels-inc-achieves-record-uranium-production-strengthening-us-nuclear-energy-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/hushCVIU.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

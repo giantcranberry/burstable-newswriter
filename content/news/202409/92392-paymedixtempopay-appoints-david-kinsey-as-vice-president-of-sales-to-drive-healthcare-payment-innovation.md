@@ -1,0 +1,16 @@
++++
+title = "PayMedix/TempoPay Appoints David Kinsey as Vice President of Sales to Drive Healthcare Payment Innovation"
+date = "2024-09-05T16:46:52Z"
+draft = false
+summary = "David Kinsey's appointment as Vice President of Sales at PayMedix/TempoPay marks a strategic move to expand the company's innovative healthcare payment solutions, addressing the critical need for affordable access to healthcare services."
+description = "PayMedix/TempoPay announces the appointment of David Kinsey as Vice President of Sales, signaling a period of accelerated growth. Kinsey will lead sales initiatives for innovative healthcare payment solutions."
+source_link = "https://newsdirect.com/news/paymedix-tempopay-names-david-kinsey-vice-president-of-sales-757645407"
+enclosure = "https://cdn.newsramp.app/banners/sales-1.jpg"
+article_id = 92392
+feed_item_id = 6558
+url = "/202409/92392-paymedixtempopay-appoints-david-kinsey-as-vice-president-of-sales-to-drive-healthcare-payment-innovation"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/249/5/pear_jFH.webp"
+source = "News Direct"
++++
+
+<p>PayMedix/TempoPay has announced the appointment of David Kinsey as its new Vice President of Sales, a strategic decision aimed at bolstering the company's mission to provide interest-free financing for healthcare services. Kinsey's extensive background in the healthcare and employee benefits industry positions him as a key player in driving growth and building strategic relationships, particularly in the Southeast region.</p><p>Tom Policelli, CEO of PayMedix/TempoPay, highlighted the growing interest in the company's flexible financing solutions as employers and health systems seek ways to lower healthcare costs. Kinsey's previous achievements, including a 60% growth over five years at Aetna and recognition with the Chairman's Leadership Award, underscore his capability to enhance PayMedix/TempoPay's market presence.</p><p>Kinsey expressed enthusiasm about joining PayMedix/TempoPay, citing the company's solution as a transformative approach to mitigating high out-of-pocket healthcare costs. His focus will be on expanding the company's reach to employers, thereby improving employee retention and reducing absenteeism through financial security for healthcare expenses.</p><p>Brian Marsella, President of PayMedix/TempoPay, emphasized the significance of Kinsey's role in demonstrating the value of their solution to various stakeholders in the healthcare ecosystem. The company's approach aims to prevent care avoidance by ensuring timely access to financial resources, thereby improving health outcomes and reducing overall costs.</p><p>With a history of processing over $5 billion in medical payments, PayMedix/TempoPay's solutions, including the TempoPay Visa® card, offer a comprehensive strategy to tackle the issue of healthcare affordability. Kinsey's appointment reflects the company's commitment to innovation in the face of rising healthcare costs, signaling potential shifts in the healthcare payment and employee benefits landscape.</p>

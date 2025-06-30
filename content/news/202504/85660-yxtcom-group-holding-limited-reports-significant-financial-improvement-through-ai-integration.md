@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/yxt-com-cuts-loss-by-59-9-in-20
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85660
 feed_item_id = 12590
-url = "/news/202504/85660-yxtcom-group-holding-limited-reports-significant-financial-improvement-through-ai-integration"
+url = "/202504/85660-yxtcom-group-holding-limited-reports-significant-financial-improvement-through-ai-integration"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/8/nora5q1y.webp"
 source = "NewMediaWire"
 +++

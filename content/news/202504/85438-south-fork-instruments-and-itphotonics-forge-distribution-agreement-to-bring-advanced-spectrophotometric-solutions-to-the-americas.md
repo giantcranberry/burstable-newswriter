@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522273/south-fork-
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 85438
 feed_item_id = 13560
-url = "/news/202504/85438-south-fork-instruments-and-itphotonics-forge-distribution-agreement-to-bring-advanced-spectrophotometric-solutions-to-the-americas"
+url = "/202504/85438-south-fork-instruments-and-itphotonics-forge-distribution-agreement-to-bring-advanced-spectrophotometric-solutions-to-the-americas"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/29/bake4Gg6.webp"
 source = "24-7 Press Release"
 +++

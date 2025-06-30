@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/sarnoff-media-joins-minivela/"
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84075
 feed_item_id = 15507
-url = "/news/202506/84075-minivela-strengthens-leadership-with-media-veteran-cristina-sarnoff-to-scale-bilingual-drama-shorts-platform"
+url = "/202506/84075-minivela-strengthens-leadership-with-media-veteran-cristina-sarnoff-to-scale-bilingual-drama-shorts-platform"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/256/11/duneYXTv.webp"
 source = "Noticias Newswire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-tesla
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85325
 feed_item_id = 13894
-url = "/news/202505/85325-lehigh-county-pension-board-halts-new-investments-in-tesla-amid-growing-institutional-skepticism"
+url = "/202505/85325-lehigh-county-pension-board-halts-new-investments-in-tesla-amid-growing-institutional-skepticism"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/gleedl5G.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

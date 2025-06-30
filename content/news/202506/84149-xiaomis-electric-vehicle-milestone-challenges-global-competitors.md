@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/phone-giant-xiaomi-deliv
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84149
 feed_item_id = 15268
-url = "/news/202506/84149-xiaomis-electric-vehicle-milestone-challenges-global-competitors"
+url = "/202506/84149-xiaomis-electric-vehicle-milestone-challenges-global-competitors"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/5/riceJoon.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522971/dental-impl
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 85213
 feed_item_id = 14379
-url = "/news/202505/85213-palmdales-new-dental-implant-center-revolutionizes-patient-care-with-advanced-technologies"
+url = "/202505/85213-palmdales-new-dental-implant-center-revolutionizes-patient-care-with-advanced-technologies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/20/jokerNCh.webp"
 source = "24-7 Press Release"
 +++

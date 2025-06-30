@@ -1,0 +1,16 @@
++++
+title = "Mullen Automotive Expands Global Reach with $210 Million EV Shipment to UAE"
+date = "2024-09-05T16:47:01Z"
+draft = false
+summary = "Mullen Automotive's shipment of electric vehicles to the UAE under a $210 million contract marks a significant step in its global expansion and the growing demand for sustainable transportation solutions."
+description = "Mullen Automotive ships 3,000 EV vans and trucks to Volt Mobility in the UAE, marking a major milestone for the company's global expansion and the growing demand for commercial EVs."
+source_link = "https://rss.investorbrandnetwork.com/ult-prem/mullen-nasdaq-muln-completes-first-shipment-of-vehicles-purchased-by-volt-mobility/"
+enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
+article_id = 92384
+feed_item_id = 6572
+url = "/202409/92384-mullen-automotive-expands-global-reach-with-210-million-ev-shipment-to-uae"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/249/5/jinxIt4m.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Mullen Automotive, a California-based electric vehicle (EV) manufacturer, has embarked on a significant global expansion by shipping its first batch of vehicles to Volt Mobility in the United Arab Emirates (UAE). This initial shipment is part of a $210 million purchase agreement, signaling a major advancement for Mullen's commercial EV business and its international market penetration.</p><p>The contract entails the delivery of 3,000 Class 1 and Class 3 EV cargo vans and trucks over 16 months to Volt Mobility, which will lease these vehicles to major corporate clients in the UAE, including logistics leaders UPS, DHL, and FedEx. This partnership not only introduces Mullen to the Middle Eastern market but also reflects the increasing shift towards eco-friendly transportation in the logistics sector.</p><p>David Michery, CEO of Mullen Automotive, highlighted the importance of this milestone, noting the company's commitment to supporting the launch in Dubai. This move follows Mullen's recent expansion into Europe, reinforcing its status as an emerging force in the global EV market. The successful fulfillment of this contract could pave the way for further international opportunities, especially in regions transitioning to greener transportation options.</p><p>Mullen's recent achievements, including the start of commercial production at its Mississippi plant and IRS approval for federal EV tax credits, underscore its growing capabilities. Additionally, certifications from the California Air Resource Board and the EPA for its vehicles, along with eligibility for significant purchase incentives, enhance Mullen's market appeal in the U.S. and abroad.</p><p>The company's strategic initiatives, such as expanding its dealer network and securing Foreign Trade Zone status for its manufacturing center, are poised to bolster its competitiveness in international markets. The partnership with Volt Mobility not only represents a lucrative revenue stream for Mullen but also contributes to the adoption of sustainable transportation in the Middle East, a region historically dominated by fossil fuels.</p>

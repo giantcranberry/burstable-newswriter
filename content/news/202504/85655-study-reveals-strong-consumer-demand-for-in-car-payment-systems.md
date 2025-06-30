@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521542/2025-user-e
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85655
 feed_item_id = 12605
-url = "/news/202504/85655-study-reveals-strong-consumer-demand-for-in-car-payment-systems"
+url = "/202504/85655-study-reveals-strong-consumer-demand-for-in-car-payment-systems"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/9/rubyopHT.webp"
 source = "24-7 Press Release"
 +++

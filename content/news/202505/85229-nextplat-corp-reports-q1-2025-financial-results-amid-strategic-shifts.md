@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-nextpla
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85229
 feed_item_id = 14230
-url = "/news/202505/85229-nextplat-corp-reports-q1-2025-financial-results-amid-strategic-shifts"
+url = "/202505/85229-nextplat-corp-reports-q1-2025-financial-results-amid-strategic-shifts"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/pearSxpy.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

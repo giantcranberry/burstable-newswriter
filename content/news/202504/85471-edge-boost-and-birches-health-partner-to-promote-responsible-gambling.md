@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/edge-boost-announces-responsible-gami
 enclosure = "https://cdn.newsramp.app/banners/gambling-betting-2.jpg"
 article_id = 85471
 feed_item_id = 13415
-url = "/news/202504/85471-edge-boost-and-birches-health-partner-to-promote-responsible-gambling"
+url = "/202504/85471-edge-boost-and-birches-health-partner-to-promote-responsible-gambling"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/25/waitSdwT.webp"
 source = "News Direct"
 +++

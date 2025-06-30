@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/brera-holdings-plc-nasdaq
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84050
 feed_item_id = 15587
-url = "/news/202506/84050-brera-holdings-plc-celebrates-ss-juve-stabias-historic-season-and-strategic-growth"
+url = "/202506/84050-brera-holdings-plc-celebrates-ss-juve-stabias-historic-season-and-strategic-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/12/camcNgtk.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-moneys
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85514
 feed_item_id = 13155
-url = "/news/202504/85514-moneyshows-masters-symposium-aims-to-equip-investors-for-2025-market-challenges"
+url = "/202504/85514-moneyshows-masters-symposium-aims-to-equip-investors-for-2025-market-challenges"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/23/gulfd3P0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

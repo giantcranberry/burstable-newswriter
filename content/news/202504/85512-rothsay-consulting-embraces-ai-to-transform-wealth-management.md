@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/rothsay-consulting-integrates-ai-to-a
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85512
 feed_item_id = 13165
-url = "/news/202504/85512-rothsay-consulting-embraces-ai-to-transform-wealth-management"
+url = "/202504/85512-rothsay-consulting-embraces-ai-to-transform-wealth-management"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/23/jinxl1FX.webp"
 source = "News Direct"
 +++

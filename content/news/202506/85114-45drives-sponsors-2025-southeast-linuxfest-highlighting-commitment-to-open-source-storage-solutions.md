@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/45drives-joins-southeast-linuxf
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85114
 feed_item_id = 15427
-url = "/news/202506/85114-45drives-sponsors-2025-southeast-linuxfest-highlighting-commitment-to-open-source-storage-solutions"
+url = "/202506/85114-45drives-sponsors-2025-southeast-linuxfest-highlighting-commitment-to-open-source-storage-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/10/vibeCLYK.webp"
 source = "NewMediaWire"
 +++

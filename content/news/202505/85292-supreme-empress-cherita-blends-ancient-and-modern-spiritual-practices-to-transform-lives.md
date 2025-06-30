@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522664/supreme-emp
 enclosure = "https://cdn.newsramp.app/banners/religion-spirituality-3.jpg"
 article_id = 85292
 feed_item_id = 14002
-url = "/news/202505/85292-supreme-empress-cherita-blends-ancient-and-modern-spiritual-practices-to-transform-lives"
+url = "/202505/85292-supreme-empress-cherita-blends-ancient-and-modern-spiritual-practices-to-transform-lives"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/11/riceWRwF.webp"
 source = "24-7 Press Release"
 +++

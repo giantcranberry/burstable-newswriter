@@ -8,7 +8,7 @@ source_link = "https://the-pr-club.reportablenews.com/pr/pr-club-announces-2025-
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/e30c7a26f0cbf26dbb8c041b20f09dd4.png"
 article_id = 85426
 feed_item_id = 13596
-url = "/news/202504/85426-pr-club-announces-sponsors-for-57th-annual-bell-ringer-awards-highlighting-innovation-in-communications"
+url = "/202504/85426-pr-club-announces-sponsors-for-57th-annual-bell-ringer-awards-highlighting-innovation-in-communications"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/29/lushFbcJ.webp"
 source = "Reportable"
 +++

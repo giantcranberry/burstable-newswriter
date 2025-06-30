@@ -1,0 +1,16 @@
++++
+title = "NowSecure Expands Mobile PTaaS to Cover Streaming and Gaming Platforms Amid Rising Security Concerns"
+date = "2024-10-30T14:30:21Z"
+draft = false
+summary = "NowSecure's expansion of its Pen Testing as a Service (PTaaS) to include streaming and gaming platforms addresses critical security vulnerabilities in an increasingly connected digital ecosystem."
+description = "NowSecure expands its mobile app security testing service to include popular streaming, gaming, and media platforms such as Roku, WebOS, Tizen, Android TV OS, PlayStation, Xbox, tvOS, and HarmonyOS. This expansion helps organizations mitigate risks, protect user data, and comply with privacy mandates across a full spectrum of operating systems."
+source_link = "https://newsdirect.com/news/nowsecure-launches-ptaas-to-secure-roku-webos-tizen-androidtv-and-tvos-apps-300273162"
+enclosure = "https://cdn.newsramp.app/banners/gaming-3.jpg"
+article_id = 91921
+feed_item_id = 8128
+url = "/202410/91921-nowsecure-expands-mobile-ptaas-to-cover-streaming-and-gaming-platforms-amid-rising-security-concerns"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/30/herbOnuc.webp"
+source = "News Direct"
++++
+
+<p>NowSecure has announced a significant expansion of its mobile Pen Testing as a Service (PTaaS) offering, now encompassing security, privacy, and compliance testing for applications on popular streaming and gaming platforms. This move is timely, as the surge in apps on connected devices introduces new security challenges, with platforms handling sensitive data becoming prime targets for cybercriminals.</p><p>The enhanced PTaaS service by NowSecure is designed to tackle the unique security requirements of platforms such as Roku, WebOS, Tizen, Android TV OS, PlayStation, Xbox, tvOS, and HarmonyOS. Alan Snyder, CEO of NowSecure, highlighted the importance of this expansion, noting its role in protecting user data and ensuring compliance with privacy mandates across a diverse range of operating systems.</p><p>Security vulnerabilities on these platforms could allow attackers to access sensitive data, including user credentials and payment information, or even take control of apps and IoT devices. NowSecure's cloud subscription-based PTaaS offers a comprehensive solution, providing on-demand penetration testing to identify vulnerabilities, integrate with existing systems, and offer detailed reporting for remediation.</p><p>Michael Krueger, senior director of application security services at NowSecure, emphasized the necessity of securing apps on connected devices to protect customers and ensure safe digital experiences. The expanded PTaaS service is tailored to address specific security concerns on each platform, from authentication and API security on Roku to secure data transmission on Tizen and WebOS.</p><p>This expansion by NowSecure is a critical development in the face of evolving digital threats, offering companies the tools to mitigate risks of breaches, regulatory fines, and damage to brand reputation. By providing actionable insights and continuous security testing, NowSecure aims to safeguard the digital ecosystem as it becomes increasingly integral to daily life.</p>

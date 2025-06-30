@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/smartlifeco-unveils-new-range-of-eco-c
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/d480d4b1f752bafe21737722af66c5f4.jpg"
 article_id = 86049
 feed_item_id = 11483
-url = "/news/202502/86049-smartlifeco-introduces-eco-friendly-floss-picks-merging-dental-health-with-sustainability"
+url = "/202502/86049-smartlifeco-introduces-eco-friendly-floss-picks-merging-dental-health-with-sustainability"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/252/28/milklvcZ.webp"
 source = "Press Services"
 +++

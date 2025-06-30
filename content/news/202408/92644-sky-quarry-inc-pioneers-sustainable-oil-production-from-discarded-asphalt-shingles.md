@@ -1,0 +1,16 @@
++++
+title = "Sky Quarry Inc. Pioneers Sustainable Oil Production from Discarded Asphalt Shingles"
+date = "2024-08-06T12:40:16Z"
+draft = false
+summary = "Sky Quarry Inc. introduces an innovative method to convert waste asphalt shingles into sustainable oil, addressing global oil demand and environmental concerns."
+description = "Discover how Sky Quarry Inc. is revolutionizing clean energy with its innovative asphalt shingle recycling technology, addressing the growing demand for oil and environmental impact while offering potential profitability and industry impact."
+source_link = "https://newsdirect.com/news/oil-demand-isnt-going-away-but-does-it-have-to-be-at-the-expense-of-the-environment-sky-quarry-says-no-812889858"
+enclosure = "https://public.newsdirect.com/812889858/rIIJOEyN.png"
+article_id = 92644
+feed_item_id = 5519
+url = "/202408/92644-sky-quarry-inc-pioneers-sustainable-oil-production-from-discarded-asphalt-shingles"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/248/6/evenME2x.webp"
+source = "News Direct"
++++
+
+<p>As the world grapples with increasing oil demand alongside the urgent need for environmental conservation, Sky Quarry Inc. has introduced a groundbreaking solution that marries these two seemingly opposing needs. The company's innovative approach involves converting discarded asphalt roofing shingles into a sustainable source of oil, a move that could significantly impact both the energy sector and waste management practices.</p><p>The International Energy Agency (IEA) reports that oil demand has returned to pre-COVID levels, driven largely by the manufacturing sector's reliance on oil-based products. This demand is further fueled by recent surges in U.S. manufacturing investments, particularly in sectors requiring oil-derived materials. Sky Quarry's technology taps into the approximately 15 million tons of asphalt shingles discarded annually, which contain about 25% asphalt bitumen oil. This untapped resource represents around 20 million barrels of oil wasted each year, a potential goldmine for sustainable fuel production.</p><p>With the $65 billion Infrastructure Bill passed in November 2021, which includes significant funding for road and bridge repairs requiring millions of tons of asphalt bitumen, Sky Quarry's timing couldn't be more opportune. The company has strategically acquired the PR Spring bitumen extraction facility in Utah and the Eagle Springs Refinery in Nevada, positioning itself to process up to 5,000 barrels of bitumen oil daily. At the core of their operation is the ECOSolv technology, a patent-protected process that efficiently recovers bitumen from waste shingles, offering a product that competes with virgin materials in performance and cost.</p><p>Sky Quarry's initiative not only addresses the pressing issue of oil demand but also aligns with the growing trend of environmentally responsible investments. The company's focus on creating a closed-loop system for bitumen recovery could set a new standard in the clean energy market, where sustainability and efficiency are increasingly becoming key investment criteria. As the energy sector continues to evolve, Sky Quarry's innovative approach may well represent a significant step forward in achieving a more sustainable and circular economy in oil production and waste management.</p>

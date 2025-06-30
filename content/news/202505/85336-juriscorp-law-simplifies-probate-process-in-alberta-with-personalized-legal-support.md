@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522536/juriscorp-l
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85336
 feed_item_id = 13864
-url = "/news/202505/85336-juriscorp-law-simplifies-probate-process-in-alberta-with-personalized-legal-support"
+url = "/202505/85336-juriscorp-law-simplifies-probate-process-in-alberta-with-personalized-legal-support"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/7/bosshZrv.webp"
 source = "24-7 Press Release"
 +++

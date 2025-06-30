@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523898/new-podcast
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/ff7f92f6727290e028cee3ba837ddf1d.png"
 article_id = 85096
 feed_item_id = 15817
-url = "/news/202506/85096-podcast-midlife-crisis-bomb-drop-and-beyond-sparks-global-conversation-on-mental-health-reform"
+url = "/202506/85096-podcast-midlife-crisis-bomb-drop-and-beyond-sparks-global-conversation-on-mental-health-reform"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/openeMm0.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/dnb-financial-group-unveils-next-gene
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 84424
 feed_item_id = 15645
-url = "/news/202506/84424-dnb-financial-group-unveils-ai-powered-software-suite-to-revolutionize-enterprise-operations"
+url = "/202506/84424-dnb-financial-group-unveils-ai-powered-software-suite-to-revolutionize-enterprise-operations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/14/bendY_u3.webp"
 source = "News Direct"
 +++

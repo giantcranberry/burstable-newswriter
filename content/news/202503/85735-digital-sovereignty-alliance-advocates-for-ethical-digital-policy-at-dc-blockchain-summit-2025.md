@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/digital-sovereignty-alliance-strength
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/ae580c8dc4d678f4ae9534d31dc0487f.png"
 article_id = 85735
 feed_item_id = 12371
-url = "/news/202503/85735-digital-sovereignty-alliance-advocates-for-ethical-digital-policy-at-dc-blockchain-summit-2025"
+url = "/202503/85735-digital-sovereignty-alliance-advocates-for-ethical-digital-policy-at-dc-blockchain-summit-2025"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/31/deepTIMD.webp"
 source = "News Direct"
 +++

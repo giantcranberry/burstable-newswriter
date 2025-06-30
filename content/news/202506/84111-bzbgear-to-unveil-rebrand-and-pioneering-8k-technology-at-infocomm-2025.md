@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523674/bzbgear-to-
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 84111
 feed_item_id = 15396
-url = "/news/202506/84111-bzbgear-to-unveil-rebrand-and-pioneering-8k-technology-at-infocomm-2025"
+url = "/202506/84111-bzbgear-to-unveil-rebrand-and-pioneering-8k-technology-at-infocomm-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/10/yawncQhJ.webp"
 source = "24-7 Press Release"
 +++

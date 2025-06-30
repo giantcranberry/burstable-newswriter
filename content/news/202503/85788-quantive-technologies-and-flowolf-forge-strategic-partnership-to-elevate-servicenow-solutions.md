@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520971/quantive-te
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85788
 feed_item_id = 12218
-url = "/news/202503/85788-quantive-technologies-and-flowolf-forge-strategic-partnership-to-elevate-servicenow-solutions"
+url = "/202503/85788-quantive-technologies-and-flowolf-forge-strategic-partnership-to-elevate-servicenow-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/26/cakeufEK.webp"
 source = "24-7 Press Release"
 +++

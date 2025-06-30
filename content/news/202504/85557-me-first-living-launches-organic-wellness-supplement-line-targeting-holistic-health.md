@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/prioritizing-wellness-with-organic-cey
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/32a82c17704b13f94d304db3c63af6b4.jpg"
 article_id = 85557
 feed_item_id = 13027
-url = "/news/202504/85557-me-first-living-launches-organic-wellness-supplement-line-targeting-holistic-health"
+url = "/202504/85557-me-first-living-launches-organic-wellness-supplement-line-targeting-holistic-health"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/21/navyI_T3.webp"
 source = "Press Services"
 +++

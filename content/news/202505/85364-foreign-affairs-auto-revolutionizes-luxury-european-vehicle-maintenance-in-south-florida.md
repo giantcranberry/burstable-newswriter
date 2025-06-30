@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522458/south-flori
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85364
 feed_item_id = 13771
-url = "/news/202505/85364-foreign-affairs-auto-revolutionizes-luxury-european-vehicle-maintenance-in-south-florida"
+url = "/202505/85364-foreign-affairs-auto-revolutionizes-luxury-european-vehicle-maintenance-in-south-florida"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/4/plumhj64.webp"
 source = "24-7 Press Release"
 +++

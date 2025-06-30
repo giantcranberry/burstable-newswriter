@@ -1,0 +1,16 @@
++++
+title = "SurgePays Secures $7 Million to Fuel Expansion and Drive National Launch of LinkUp Mobile"
+date = "2025-05-14T16:00:31Z"
+draft = false
+summary = "SurgePays, Inc. has secured a $7 million senior secured convertible note to support its strategic expansion, including the national launch of LinkUp Mobile and the expansion of its MVNE wholesale platform, aiming for over $200 million in revenue by 2025."
+description = "SurgePays (Nasdaq: SURG) enters into $7 million convertible note agreement with institutional shareholder to support national launch of LinkUp Mobile and MVNE wholesale platform. Management projects over $200 million in revenue by 2025."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-surgepays-inc-nasdaq-surg-secures-7m-convertible-note-to-fuel-linkup-mobile-launch-and-wholesale-expansion/"
+enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
+article_id = 90442
+feed_item_id = 14177
+url = "/202505/90442-surgepays-secures-7-million-to-fuel-expansion-and-drive-national-launch-of-linkup-mobile"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/14/frogjMVe.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Wireless and fintech company SurgePays, Inc. has recently secured a $7 million senior secured convertible note, a strategic move aimed at fueling its expansion efforts. This financing agreement, arranged with an existing institutional shareholder, includes $6 million in cash and a repurchase of 333,333 shares, marking a significant step in the company's growth trajectory.</p><p>The two-year note comes with conversion terms set at $4.00 per share, a premium over the current market price, and includes a prepayment option at a 2% premium. This arrangement not only provides SurgePays with the necessary capital but also offers financial flexibility, enabling the company to navigate its expansion plans more effectively.</p><p>This capital infusion is timely for SurgePays, especially following its recent integration with AT&T on April 1. The company plans to utilize the funding to accelerate the national launch of LinkUp Mobile and to expand its mobile virtual network enabler (MVNE) wholesale platform. These initiatives are part of SurgePays' broader strategy to enhance its service offerings and technological infrastructure in the competitive telecommunications and fintech sectors.</p><p>With ambitious targets set by management, including projections of over $200 million in revenue and positive cash flow from operations by the end of 2025, SurgePays is positioning itself as a key player in providing wireless connectivity and financial services to underserved communities. The company's unique dual role as both a mobile virtual network operator and enabler, coupled with its proprietary point-of-sale platform used in thousands of retail locations nationwide, underscores its potential to scale across retail and wholesale wireless channels.</p><p>The strategic financing underscores SurgePays' commitment to leveraging its technological infrastructure and service offerings to meet the growing demands of the telecommunications and fintech industries. This move not only highlights the company's growth ambitions but also its potential to make a significant impact on underserved communities by providing them with access to essential wireless and financial services.</p>

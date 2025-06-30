@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/ctrpro-launches-cutting-edge-free-sto
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/34a5f2b6c9a39a58098772f063ade970.jpg"
 article_id = 85804
 feed_item_id = 12163
-url = "/news/202503/85804-ctrprobots-ai-powered-stock-indicator-revolutionizes-canadian-market-analysis"
+url = "/202503/85804-ctrprobots-ai-powered-stock-indicator-revolutionizes-canadian-market-analysis"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/24/moonGH9C.webp"
 source = "News Direct"
 +++

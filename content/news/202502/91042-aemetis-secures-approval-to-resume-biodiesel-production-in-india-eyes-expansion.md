@@ -1,0 +1,16 @@
++++
+title = "Aemetis Secures Approval to Resume Biodiesel Production in India, Eyes Expansion"
+date = "2025-02-24T13:10:14Z"
+draft = false
+summary = "Aemetis's subsidiary, Universal Biofuels, has received approval to restart biodiesel production in India, marking a significant step towards meeting the country's growing demand for renewable fuels and supporting its environmental policies."
+description = "Aemetis restarts biodiesel production in India, Universal Biofuels plans expansion. News showcases commitment to sustainability and environmental impact in reducing air pollution."
+source_link = "https://www.newmediawire.com/news/aemetis-india-plant-approved-by-government-to-restart-biodiesel-production-7079533"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
+article_id = 91042
+feed_item_id = 11082
+url = "/202502/91042-aemetis-secures-approval-to-resume-biodiesel-production-in-india-eyes-expansion"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/252/24/fernHcXC.webp"
+source = "NewMediaWire"
++++
+
+<p>Aemetis, a leading renewable fuels company with operations in the United States and India, has recently obtained the necessary approval from the local Pollution Control Board to recommence biodiesel production at its India-based plant. This development, announced on February 22, 2025, enables Universal Biofuels, a subsidiary of Aemetis, to resume the manufacturing of biodiesel and refined glycerin at its facility in Kakinada, Andhra Pradesh. The plant boasts an annual production capacity of 80 million gallons, underscoring its pivotal role in India's biofuels sector.</p><p>Eric McAfee, Chairman and CEO of Aemetis, highlighted that the temporary halt in production was utilized for essential maintenance activities, ensuring the plant's operational efficiency. Despite the shutdown, the company managed to fulfill its delivery commitments thanks to maintained inventory levels. This strategic pause and subsequent approval to restart operations come at a critical time as India seeks to address the environmental and health challenges posed by its petroleum diesel market, which consumes approximately 25 billion gallons annually.</p><p>India's National Biofuels Policy has set a 5% biodiesel blend target to mitigate air pollution and foster new markets for agricultural and waste products. However, the current implementation stands at only about 1%, indicating significant growth potential for companies like Universal Biofuels. With $58 million in allocations already secured for 2025 deliveries to government-owned oil marketing companies, and shipments expected to commence in March, Universal Biofuels is well-positioned to contribute to India's renewable energy goals.</p><p>Looking ahead, Aemetis plans to expand Universal Biofuels' production capacity to over 200 million gallons per year, aiming to meet the projected annual biodiesel demand of 1.2 billion gallons. This expansion strategy includes exploring access to renewable oil feedstocks, potentially incorporating imported resources such as soybeans from the United States. These initiatives align with India's supportive policies for renewable fuel production and imported feedstock, positioning Aemetis as a key player in the country's transition to sustainable energy solutions.</p>

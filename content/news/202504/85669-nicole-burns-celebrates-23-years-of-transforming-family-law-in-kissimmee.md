@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/nicole-burns-a-23-year-journey-in-divo
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/1c6d213c01ac5689120167b0a147345f.jpg"
 article_id = 85669
 feed_item_id = 12557
-url = "/news/202504/85669-nicole-burns-celebrates-23-years-of-transforming-family-law-in-kissimmee"
+url = "/202504/85669-nicole-burns-celebrates-23-years-of-transforming-family-law-in-kissimmee"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/254/7/oval1bAe.webp"
 source = "Press Services"
 +++

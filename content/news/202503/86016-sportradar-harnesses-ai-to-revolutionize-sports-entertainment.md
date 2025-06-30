@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/betting-on-the-future-how-sport
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 86016
 feed_item_id = 11539
-url = "/news/202503/86016-sportradar-harnesses-ai-to-revolutionize-sports-entertainment"
+url = "/202503/86016-sportradar-harnesses-ai-to-revolutionize-sports-entertainment"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/3/yarnnVgk.webp"
 source = "NewMediaWire"
 +++

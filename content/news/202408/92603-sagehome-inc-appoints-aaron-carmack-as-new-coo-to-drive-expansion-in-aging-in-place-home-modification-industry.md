@@ -1,0 +1,16 @@
++++
+title = "SageHome Inc. Appoints Aaron Carmack as New COO to Drive Expansion in Aging-in-Place Home Modification Industry"
+date = "2024-08-13T07:00:14Z"
+draft = false
+summary = "SageHome Inc. strengthens its executive team with the appointment of Aaron Carmack as COO, aiming to accelerate growth and expand its national presence in the aging-in-place home modification sector."
+description = "Experienced retail executive Aaron Carmack appointed as COO of SageHome, signaling growth and innovative solutions for stylish home modifications for seniors."
+source_link = "https://www.24-7pressrelease.com/press-release/513337/sagehome-inc-appoints-aaron-carmack-as-chief-operating-officer"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0513337_207304.png"
+article_id = 92603
+feed_item_id = 5675
+url = "/202408/92603-sagehome-inc-appoints-aaron-carmack-as-new-coo-to-drive-expansion-in-aging-in-place-home-modification-industry"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/248/13/smogVDwD.webp"
+source = "24-7 Press Release"
++++
+
+<p>SageHome Inc., the leading provider of aging-in-place bath remodeling services in the United States, has announced Aaron Carmack as its new Chief Operating Officer (COO). This move is strategic for SageHome as it aims to bolster its growth and extend its footprint across the nation. Carmack's extensive background in sales and operations within the retail home improvement sector, including significant roles at Home Depot and Rogers Electric, positions him as a key player in SageHome's expansion efforts.</p><p>In his new role, Carmack will oversee SageHome's core operations and manage the General Managers of its seven trading brands. His focus will be on driving the company's growth through both organic means and strategic acquisitions, while maintaining high service standards. Collaborating closely with Joe Gorman, SageHome's President and CEO, Carmack's expertise is expected to be pivotal in scaling the business and achieving its ambitious goals.</p><p>Gorman highlighted Carmack's operational excellence and its alignment with SageHome's growth trajectory. Carmack expressed enthusiasm for the opportunity, citing SageHome's strong structure, value proposition, and investor support as key factors in its readiness to capitalize on growth opportunities. SageHome's mission to provide senior-friendly living spaces through stylish home modifications is increasingly relevant, given the rising demand for such services. The company's focus on bathroom remodeling addresses a critical safety need for seniors, contributing to societal well-being across its 24-state service area.</p><p>SageHome operates through seven regional brands, each catering to specific areas, ensuring localized service and expertise. With Carmack's leadership, SageHome is set to enhance its industry leadership, leveraging his experience in scaling businesses to meet the growing demand for aging-in-place solutions. This appointment underscores SageHome's commitment to innovation and excellence in serving the senior community, marking a significant step forward in its mission to make homes safer and more comfortable for aging individuals.</p>

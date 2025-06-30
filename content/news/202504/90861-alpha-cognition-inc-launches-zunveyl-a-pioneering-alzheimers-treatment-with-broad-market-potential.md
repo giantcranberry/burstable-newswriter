@@ -1,0 +1,16 @@
++++
+title = "Alpha Cognition Inc. Launches ZUNVEYL, a Pioneering Alzheimer's Treatment with Broad Market Potential"
+date = "2025-04-01T20:20:21Z"
+draft = false
+summary = "Alpha Cognition Inc.'s FDA-approved ZUNVEYL offers a novel approach to Alzheimer's treatment, with significant implications for patient care and the pharmaceutical industry."
+description = "Stonegate Capital Partners provides an update on Alpha Cognition Inc. (NASDAQ: ACOG) and its achievements in 2025, including FDA approval for ZUNVEYL and promising developments in treating Alzheimer's and traumatic brain injury. The company's strong financial performance and strategic partnerships indicate potential for continued growth and positive impact on patient care."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-coverage-on-alpha-cognition-inc-nasdaq-acog-q4-2024"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/d684d0adf9ba7f7914afe5abb71a6709.webp"
+article_id = 90861
+feed_item_id = 12409
+url = "/202504/90861-alpha-cognition-inc-launches-zunveyl-a-pioneering-alzheimers-treatment-with-broad-market-potential"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/254/1/volt22IR.webp"
+source = "Reportable"
++++
+
+<p>Alpha Cognition Inc. has introduced ZUNVEYL, an innovative oral therapy for Alzheimer's disease, marking a pivotal development in neurodegenerative care. Approved by the FDA in July 2024, ZUNVEYL's unique delivery system aims to reduce gastrointestinal absorption, thereby minimizing side effects that often lead to treatment discontinuation. This advancement addresses a critical challenge in Alzheimer's management, where over half of patients cease treatment within a year.</p><p>The potential market for ZUNVEYL is vast, with 7 million Americans affected by Alzheimer's and more than 11 million prescriptions issued annually. The therapy's enhanced tolerability, coupled with 65-70% insurance coverage and zero co-pay, enhances its accessibility and adoption prospects. Alpha Cognition's strategic initiatives, including a $44.0 million licensing agreement with China Medical Systems Holdings and U.S. intellectual property protection through 2044, underscore the drug's significant market opportunity and long-term growth potential.</p><p>Beyond Alzheimer's, Alpha Cognition is investigating ZUNVEYL's efficacy in treating traumatic brain injuries, particularly those resulting from bomb blasts, in collaboration with the U.S. Department of Defense. Preliminary studies have shown promising results, indicating the drug's versatility and potential to address other critical medical needs.</p><p>Financially, Alpha Cognition is well-positioned for success, with $48.5 million in cash and equivalents at the end of 2024 and a $52.8 million raise from its NASDAQ listing. The company's experienced commercialization team has already launched ZUNVEYL in the U.S. market, with early adoption rates meeting expectations. Analysts from Stonegate Capital Partners have valued the company between $30.07 and $40.89 per share, reflecting confidence in its strategic direction and the transformative potential of ZUNVEYL in the Alzheimer's treatment landscape.</p>

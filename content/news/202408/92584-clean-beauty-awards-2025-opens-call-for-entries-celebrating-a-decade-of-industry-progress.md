@@ -1,0 +1,16 @@
++++
+title = "Clean Beauty Awards 2025 Opens Call for Entries, Celebrating a Decade of Industry Progress"
+date = "2024-08-14T07:00:14Z"
+draft = false
+summary = "The Clean Beauty Awards 2025 has initiated its call for brand entries, marking its 10th anniversary and highlighting the evolution and global impact of the clean beauty industry."
+description = "Clean Beauty Awards 2025: Call for Entries for Safer Skincare Products"
+source_link = "https://www.24-7pressrelease.com/press-release/513411/call-for-entries-open-for-2025-clean-beauty-awards-a-decade-of-defining-excellence-in-clean-beauty"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0513411_207398.png"
+article_id = 92584
+feed_item_id = 5712
+url = "/202408/92584-clean-beauty-awards-2025-opens-call-for-entries-celebrating-a-decade-of-industry-progress"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/248/14/bean46Yy.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Clean Beauty Awards, recognized as the premier event for celebrating excellence in the clean beauty sector, has officially opened its call for brand entries for the 2025 awards. This year's announcement is particularly significant as it commemorates the 10th anniversary of the awards, reflecting on a decade of advancements and growth within the clean beauty industry. Organized by CertClean, the leading certification body for safer skincare in North America, the Clean Beauty Awards have been instrumental in promoting health and sustainability in beauty products.</p><p>What sets the Clean Beauty Awards apart is its commitment to a transparent and unbiased judging process. A panel of over 70 clean beauty experts, advocates, and influencers evaluates the entries, ensuring that the recognition is based on merit rather than popularity. Jenise Lee, CEO of CertClean, underscores the awards' role in enhancing the credibility of the clean beauty industry and fostering consumer trust through the recognition of outstanding products.</p><p>The call for entries began on August 14, 2024, with early bird registration available until October 1, 2024. Brands have until October 31, 2024, to submit their products, with fees ranging from $129 to $199 USD. The judging will occur from November 2024 to February 2025, culminating in the winners' announcement in March 2025. Products can be entered into 22 categories, showcasing the diversity of the clean beauty market.</p><p>Since its inception in 2015, the Clean Beauty Awards have grown significantly, with the 9th annual awards attracting over 170 entries from across the globe. This growth underscores the increasing importance and reach of clean beauty. As the industry continues to evolve, the Clean Beauty Awards play a pivotal role in setting benchmarks for excellence and encouraging the development of safer, more sustainable beauty products. The 10th anniversary not only celebrates past achievements but also looks forward to influencing the future direction of the clean beauty movement.</p>

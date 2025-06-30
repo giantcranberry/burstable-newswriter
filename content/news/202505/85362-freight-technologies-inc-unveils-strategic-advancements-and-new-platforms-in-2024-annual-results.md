@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-freight-
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85362
 feed_item_id = 13782
-url = "/news/202505/85362-freight-technologies-inc-unveils-strategic-advancements-and-new-platforms-in-2024-annual-results"
+url = "/202505/85362-freight-technologies-inc-unveils-strategic-advancements-and-new-platforms-in-2024-annual-results"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/5/hintGqvi.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

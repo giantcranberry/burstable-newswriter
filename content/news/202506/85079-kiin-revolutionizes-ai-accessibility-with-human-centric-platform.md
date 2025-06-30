@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/kiin-the-human-centric-ai-toolbox-des
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/eab054a086e2ab32c2440a6d02367ab6.png"
 article_id = 85079
 feed_item_id = 15871
-url = "/news/202506/85079-kiin-revolutionizes-ai-accessibility-with-human-centric-platform"
+url = "/202506/85079-kiin-revolutionizes-ai-accessibility-with-human-centric-platform"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/neongohE.webp"
 source = "News Direct"
 +++

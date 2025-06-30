@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/westbound-and-down-announces-reg-cf-i
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-3.jpg"
 article_id = 85783
 feed_item_id = 12229
-url = "/news/202503/85783-colorado-craft-brewery-westbound-down-launches-crowdfunding-for-national-expansion"
+url = "/202503/85783-colorado-craft-brewery-westbound-down-launches-crowdfunding-for-national-expansion"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/26/finev5nL.webp"
 source = "News Direct"
 +++

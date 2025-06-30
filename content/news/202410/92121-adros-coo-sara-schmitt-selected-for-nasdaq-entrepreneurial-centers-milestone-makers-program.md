@@ -1,0 +1,16 @@
++++
+title = "Adro's COO Sara Schmitt Selected for Nasdaq Entrepreneurial Center's Milestone Makers Program"
+date = "2024-10-08T13:20:11Z"
+draft = false
+summary = "Sara Schmitt, COO of Adro, joins the Nasdaq Entrepreneurial Center's Milestone Makers Fall 2024 cohort, highlighting Adro's impact on financial inclusion for international students and workers in the U.S."
+description = "Adro announces COO Sara Schmitt's selection for Nasdaq Entrepreneurial Center's Milestone Makers Fall 2024 cohort, underscoring the company's commitment to financial access for international students and workers."
+source_link = "https://newsdirect.com/news/adro-coo-sara-schmitt-selected-for-nasdaq-entrepreneurial-centers-milestone-makers-114238591"
+enclosure = "https://public.newsdirect.com/114238591/pb72s72c.jpg"
+article_id = 92121
+feed_item_id = 7463
+url = "/202410/92121-adros-coo-sara-schmitt-selected-for-nasdaq-entrepreneurial-centers-milestone-makers-program"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/8/deepaMSn.webp"
+source = "News Direct"
++++
+
+<p>Sara Schmitt, Chief Operating Officer and co-founder of Adro, has been selected for the Nasdaq Entrepreneurial Center's Milestone Makers Fall 2024 cohort, a testament to Adro's growing influence in the fintech sector and its commitment to financial services for international students and workers in the United States. The Milestone Makers program, aligning with the United Nations' 17 sustainable development goals, offers Schmitt and other founders personalized mentorship over 12 weeks to achieve critical business milestones, culminating in a graduation ceremony in New York City's Times Square.</p><p>Schmitt's selection underscores Adro's mission to address the financial challenges faced by international newcomers, offering no-fee checking, savings, and credit card products. This initiative fills a significant market gap, as traditional financial services often remain inaccessible to this demographic. Schmitt's background, including her tenure at Epic, an MBA from Cornell University, and experience at Amazon, equips her with the expertise to lead Adro in its mission.</p><p>Adro's inclusion in the Milestone Makers program not only validates its innovative approach but also emphasizes the importance of financial inclusion in sustainable development. The program's resources and mentorship could significantly aid Adro in scaling its impact, benefiting more international students and workers. Adro's recent achievements, such as raising a $1.5M pre-seed round and joining the 2024 Hudson Valley Venture Hub Accelerator, further demonstrate its commitment to growth and industry engagement.</p><p>As global mobility increases, fintech solutions like Adro's are crucial for ensuring seamless integration into the U.S. financial system. Schmitt's participation in the Milestone Makers program marks a pivotal moment for Adro, potentially enhancing its strategies and reach to support more international newcomers. This recognition not only highlights Adro's potential to make a substantial impact in financial inclusion but also signals a broader acknowledgment of the role such initiatives play in economic integration and sustainable development.</p>

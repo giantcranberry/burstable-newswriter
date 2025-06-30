@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/enhanced-workflow-for-agents-mojo-dial
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/043da495612523da2a1920d5fdfe5230.jpg"
 article_id = 84759
 feed_item_id = 14888
-url = "/news/202506/84759-mojo-dialer-and-high-level-crm-integration-set-to-revolutionize-real-estate-sales"
+url = "/202506/84759-mojo-dialer-and-high-level-crm-integration-set-to-revolutionize-real-estate-sales"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/2/volthlO8.webp"
 source = "Press Services"
 +++

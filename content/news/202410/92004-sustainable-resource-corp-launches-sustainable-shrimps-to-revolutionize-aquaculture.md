@@ -1,0 +1,16 @@
++++
+title = "Sustainable Resource Corp Launches Sustainable Shrimps to Revolutionize Aquaculture"
+date = "2024-10-22T12:50:13Z"
+draft = false
+summary = "Sustainable Resource Corp introduces Sustainable Shrimps, offering innovative land-based shrimp farming solutions to enhance sustainability and profitability in the aquaculture industry."
+description = "Sustainable Resource Corp has launched Sustainable Shrimps, a land-based shrimp farming brand, with innovative technology to support the growing aquaculture industry. The global shrimp market, valued at USD 50bn today, is expected to reach a USD 103bn valuation by 2032."
+source_link = "https://newsdirect.com/news/sustainable-resource-corp-creates-sustainable-shrimps-brand-to-cater-for-consultancy-services-and-technology-sales-687020918"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 92004
+feed_item_id = 7876
+url = "/202410/92004-sustainable-resource-corp-launches-sustainable-shrimps-to-revolutionize-aquaculture"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/22/chefM4tb.webp"
+source = "News Direct"
++++
+
+<p>Sustainable Resource Corp has unveiled its new brand, Sustainable Shrimps, dedicated to transforming shrimp farming through land-based Recirculating Aquaculture Systems (RAS). This initiative represents a leap forward in sustainable seafood production, offering both indoor and outdoor farming solutions that promise higher profitability and environmental benefits.</p><p>The cornerstone of Sustainable Shrimps' technology is an advanced water circulation system that supports water recycling and minimal liquid discharge, ensuring optimal growing conditions. This system not only maintains high water quality but also claims to be nine times more profitable than conventional shrimp farming methods. The brand extends its offerings to include consultancy services, equipment delivery, and onsite training, covering essential practices like feeding, growth analysis, and water quality management.</p><p>Andy Farley, CEO of Sustainable Resource Corp, highlights the collaborative essence of the aquaculture industry, emphasizing the role of Sustainable Shrimps in fostering technological advancements and sustainable practices. With the global shrimp market valued at USD 50 billion and expected to grow at a 9.5% CAGR to USD 103 billion by 2032, the timing of this launch is pivotal.</p><p>Sustainable Shrimps emerges as a response to the increasing demand for shrimp and the urgent need for sustainable food production methods. By integrating generations of aquaculture expertise with cutting-edge RAS technology, Sustainable Resource Corp aims to mitigate the environmental impacts of traditional shrimp farming, such as overfishing and habitat destruction, while enhancing production efficiency.</p><p>The implications of Sustainable Shrimps' launch are profound, offering a model for sustainable aquaculture that could inspire similar innovations across the seafood industry. This development not only addresses the environmental challenges associated with shrimp farming but also sets a new standard for profitability and sustainability in aquaculture, potentially reshaping the future of seafood production worldwide.</p>

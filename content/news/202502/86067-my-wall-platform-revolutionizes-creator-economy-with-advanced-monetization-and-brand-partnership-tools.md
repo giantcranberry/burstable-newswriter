@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/my-wall-transforms-the-creator-econom
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/02a0c5e9de8efaacd9f839da26362a09.jpg"
 article_id = 86067
 feed_item_id = 11224
-url = "/news/202502/86067-my-wall-platform-revolutionizes-creator-economy-with-advanced-monetization-and-brand-partnership-tools"
+url = "/202502/86067-my-wall-platform-revolutionizes-creator-economy-with-advanced-monetization-and-brand-partnership-tools"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/28/barnVFX2.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/chinas-catl-unveils-a-so
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
 article_id = 85464
 feed_item_id = 13434
-url = "/news/202504/85464-catl-unveils-groundbreaking-sodium-ion-and-fast-charging-ev-batteries"
+url = "/202504/85464-catl-unveils-groundbreaking-sodium-ion-and-fast-charging-ev-batteries"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/mildi8Hy.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

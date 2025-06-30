@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/pepe-coins-dominance-challenged-carda
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/ec48eec25764b48c26e7f49b0123226a.png"
 article_id = 85932
 feed_item_id = 11706
-url = "/news/202503/85932-cutoshi-emerges-as-a-new-contender-in-the-memefi-sector-offering-utility-beyond-viral-appeal"
+url = "/202503/85932-cutoshi-emerges-as-a-new-contender-in-the-memefi-sector-offering-utility-beyond-viral-appeal"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/7/urgemuWD.webp"
 source = "News Direct"
 +++

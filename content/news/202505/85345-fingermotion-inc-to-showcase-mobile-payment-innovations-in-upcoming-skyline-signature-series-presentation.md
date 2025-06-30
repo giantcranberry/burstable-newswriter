@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-fingermo
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85345
 feed_item_id = 13836
-url = "/news/202505/85345-fingermotion-inc-to-showcase-mobile-payment-innovations-in-upcoming-skyline-signature-series-presentation"
+url = "/202505/85345-fingermotion-inc-to-showcase-mobile-payment-innovations-in-upcoming-skyline-signature-series-presentation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/6/chip7gxE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

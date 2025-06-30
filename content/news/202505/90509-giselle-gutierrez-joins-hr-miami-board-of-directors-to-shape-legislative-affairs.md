@@ -1,0 +1,16 @@
++++
+title = "Giselle Gutierrez Joins HR Miami Board of Directors to Shape Legislative Affairs"
+date = "2025-05-02T07:05:24Z"
+draft = false
+summary = "Giselle Gutierrez, a labor and employment law expert, has been appointed to the HR Miami Board of Directors, where she will influence legislative trends and advocate for the HR community."
+description = "Giselle Gutierrez joins HR Miami Board of Directors as Director of Legislative Affairs. Learn how her appointment impacts workplace advocacy and legal compliance in South Florida."
+source_link = "https://www.24-7pressrelease.com/press-release/522424/giselle-gutierrez-of-exhibit-g-law-firm-appointed-to-hr-miami-board-of-directors-as-director-of-legislative-affairs"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
+article_id = 90509
+feed_item_id = 13733
+url = "/202505/90509-giselle-gutierrez-joins-hr-miami-board-of-directors-to-shape-legislative-affairs"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/2/icongukY.webp"
+source = "24-7 Press Release"
++++
+
+<p>Giselle Gutierrez, the founding attorney of Exhibit G Law Firm, has been appointed to the Board of Directors for HR Miami, a key professional association for human resources professionals in Miami-Dade County. In her role as Director of Legislative Affairs, Gutierrez is set to significantly influence the organization's strategies regarding legal and policy developments impacting the HR sector.</p><p>HR Miami, affiliated with the Society for Human Resource Management (SHRM) and the HR Florida State Council, offers its members a range of professional development opportunities. These include educational events, certification study groups, legal updates, and networking platforms. Gutierrez's responsibilities will encompass monitoring legislative trends, advocating on behalf of the HR community, and keeping members abreast of crucial changes in employment law and workplace regulations.</p><p>With a legal practice centered on labor and employment law, Gutierrez has a wealth of experience representing clients before the National Labor Relations Board and the Equal Employment Opportunity Commission. Her expertise covers workplace safety, equality, and compliance, addressing various employment issues such as wage disputes, discrimination cases, whistleblower lawsuits, and employment contract litigation.</p><p>Gutierrez is recognized for her holistic approach to legal advocacy, assisting both employers and employees in navigating the complexities of employment law. Beyond her legal practice, she is committed to professional development, conducting training seminars on labor laws and volunteering with esteemed legal organizations like the Florida Bar Association and Cuban American Bar Association.</p><p>Her appointment to the HR Miami Board of Directors marks a pivotal moment for integrating legal expertise with human resources professional growth. Through her efforts to track legislative trends and offer strategic guidance, Gutierrez is poised to empower HR professionals in adapting to the dynamic landscape of workplace regulations.</p>

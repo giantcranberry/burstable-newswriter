@@ -1,0 +1,16 @@
++++
+title = "Green Lantern Solar Repurposes Gravel Operation into Clean Energy Hub"
+date = "2025-01-15T13:45:11Z"
+draft = false
+summary = "Green Lantern Solar's innovative project transforms an unused gravel operation into a 500 kW(AC) solar facility, serving local entities and showcasing sustainable land use."
+description = "Green Lantern Solar announces the sale of its Brighton Solar project to Sea Oak Capital, LLC, showcasing the transformation of unproductive land into a valuable clean energy source. The project benefits nearby farms, the Town of Brighton, and the Newport Ambulance Service, aligning with Green Lantern's commitment to long-term revenue streams for rural landowners and businesses."
+source_link = "https://newsdirect.com/news/green-lantern-solar-transforms-reclaimed-gravel-pit-in-brighton-vt-into-clean-energy-resource-sells-project-to-sea-oak-capital-944978963"
+enclosure = "https://cdn.newsramp.app/banners/non-profit-3.jpg"
+article_id = 91334
+feed_item_id = 10100
+url = "/202501/91334-green-lantern-solar-repurposes-gravel-operation-into-clean-energy-hub"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/251/15/echoj0MP.webp"
+source = "News Direct"
++++
+
+<p>Green Lantern Solar has successfully repurposed an unused portion of a family-owned gravel operation into a productive clean energy resource, demonstrating the potential for underutilized land spaces to contribute to renewable energy solutions. The 500 kW(AC) solar project now serves multiple local entities, including nearby farms, the Town of Brighton, and the Newport Ambulance Service, which provides coverage across 18 towns in three Vermont counties.</p><p>This initiative represents a strategic approach to renewable energy development, turning an unproductive site into a valuable source of clean electricity. Through collaboration with the landowner, Green Lantern Solar not only facilitated the generation of clean energy but also ensured the property met all requirements of existing land use permits. David Carpenter, VP of Development & Chief Legal Officer at Green Lantern Solar, highlighted the project's alignment with their mission to deliver clean energy, create income opportunities for landowners, and revitalize underused spaces.</p><p>Sea Oak Capital, the acquirer of the project, sees community solar initiatives as integral to its growth strategy. Dan Poydenis, CEO of Sea Oak Capital, emphasized the transaction's role in advancing Vermont's renewable energy goals and offering significant energy cost savings for local businesses. This project is part of a growing trend of innovative solar development, illustrating how renewable energy can be seamlessly integrated into various landscapes.</p><p>The transformation of a previously unproductive gravel pit into a solar facility by Green Lantern Solar serves as a model for sustainable land use, generating both economic and environmental benefits. The partnership between Green Lantern Solar and Sea Oak Capital highlights the importance of strategic collaborations in promoting community-focused renewable energy solutions. Such projects not only bolster clean energy generation but also deliver measurable economic advantages to local communities, marking a significant step forward in the transition to sustainable energy sources.</p>

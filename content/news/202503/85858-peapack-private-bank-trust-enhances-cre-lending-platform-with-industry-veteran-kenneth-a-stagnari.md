@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/kenneth-a-stagnari-joins-peapac
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85858
 feed_item_id = 11959
-url = "/news/202503/85858-peapack-private-bank-trust-enhances-cre-lending-platform-with-industry-veteran-kenneth-a-stagnari"
+url = "/202503/85858-peapack-private-bank-trust-enhances-cre-lending-platform-with-industry-veteran-kenneth-a-stagnari"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/17/navyFANe.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523450/netcom-lear
 enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
 article_id = 85142
 feed_item_id = 15071
-url = "/news/202506/85142-netcom-learning-to-showcase-ai-powered-training-solutions-at-cisco-live-2025"
+url = "/202506/85142-netcom-learning-to-showcase-ai-powered-training-solutions-at-cisco-live-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/4/pinebQhL.webp"
 source = "24-7 Press Release"
 +++

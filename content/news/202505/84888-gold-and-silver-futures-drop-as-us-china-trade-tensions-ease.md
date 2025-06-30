@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/gold-sees-red-as-us-chin
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84888
 feed_item_id = 14274
-url = "/news/202505/84888-gold-and-silver-futures-drop-as-us-china-trade-tensions-ease"
+url = "/202505/84888-gold-and-silver-futures-drop-as-us-china-trade-tensions-ease"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/16/yawnZeh2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/revolutionizing-fan-engagement-
 enclosure = "https://cdn.newsramp.app/banners/sports-1.jpg"
 article_id = 85785
 feed_item_id = 12226
-url = "/news/202503/85785-sportradar-enhances-global-sports-engagement-through-advanced-technology"
+url = "/202503/85785-sportradar-enhances-global-sports-engagement-through-advanced-technology"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/26/dash_Z9X.webp"
 source = "NewMediaWire"
 +++

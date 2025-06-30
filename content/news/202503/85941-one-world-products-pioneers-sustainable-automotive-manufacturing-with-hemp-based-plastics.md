@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/one-world-products-isiah-thomas
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85941
 feed_item_id = 11675
-url = "/news/202503/85941-one-world-products-pioneers-sustainable-automotive-manufacturing-with-hemp-based-plastics"
+url = "/202503/85941-one-world-products-pioneers-sustainable-automotive-manufacturing-with-hemp-based-plastics"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/6/fastsUOs.webp"
 source = "NewMediaWire"
 +++

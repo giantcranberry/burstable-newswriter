@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701660/donaldson-appoints-richard-
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84260
 feed_item_id = 14952
-url = "/news/202506/84260-donaldson-company-elevates-richard-lewis-to-chief-operating-officer-role"
+url = "/202506/84260-donaldson-company-elevates-richard-lewis-to-chief-operating-officer-role"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/lenderou.webp"
 source = "citybiz"
 +++

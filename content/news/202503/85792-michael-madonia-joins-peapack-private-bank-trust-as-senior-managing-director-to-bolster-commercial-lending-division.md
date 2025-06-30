@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/michael-madonia-joins-peapack-p
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 85792
 feed_item_id = 12198
-url = "/news/202503/85792-michael-madonia-joins-peapack-private-bank-trust-as-senior-managing-director-to-bolster-commercial-lending-division"
+url = "/202503/85792-michael-madonia-joins-peapack-private-bank-trust-as-senior-managing-director-to-bolster-commercial-lending-division"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/25/elleVQIY.webp"
 source = "NewMediaWire"
 +++

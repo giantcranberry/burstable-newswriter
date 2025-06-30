@@ -1,0 +1,16 @@
++++
+title = "Innovation Beverage Group Appoints Genevieve Jodhan as Chief Sales Officer to Drive Market Expansion"
+date = "2024-10-08T12:50:12Z"
+draft = false
+summary = "Innovation Beverage Group strengthens its leadership team with the appointment of Genevieve Jodhan as CSO, aiming to enhance its market share and innovation in the beverage industry."
+description = "Innovation Beverage Group Limited (NASDAQ: IBG) appoints Genevieve Jodhan as Chief Sales Officer (CSO) after becoming publicly traded. The company aims to expand its portfolio of innovative brands and redefine the future of beverages."
+source_link = "https://newsdirect.com/news/innovation-beverage-group-nasdaq-ibg-welcomes-former-angustora-holdings-ceo-genevieve-jodhan-as-chief-sales-officer-630573085"
+enclosure = "https://public.newsdirect.com/630573085/064wpHqZ.png"
+article_id = 92123
+feed_item_id = 7460
+url = "/202410/92123-innovation-beverage-group-appoints-genevieve-jodhan-as-chief-sales-officer-to-drive-market-expansion"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/8/lambeEnT.webp"
+source = "News Direct"
++++
+
+<p>Innovation Beverage Group Limited (NASDAQ: IBG), an Australian beverage company, has announced the appointment of Genevieve Jodhan as its new Chief Sales Officer (CSO), marking a strategic move to bolster its market presence and innovation in the beverage sector. Jodhan, with her extensive experience in the beverage alcohol industry, including her role as the first female CEO of Angostura Holdings Ltd, is expected to leverage her expertise and industry connections to drive IBG's sales growth and market expansion.</p><p>The appointment follows IBG's successful public offering on the Nasdaq, where it raised $5.4 million, underscoring the company's ambitious growth plans. Dean Huge, CEO of IBG, highlighted Jodhan's strong industry network and her instrumental role in re-engineering distribution models and strategic brand re-positioning at Angostura as key assets for IBG's future success.</p><p>IBG's portfolio includes 60 formulations across 13 alcoholic and non-alcoholic brands, with a focus on expanding its innovative products in the North American market. Jodhan praised IBG's creativity in product development, particularly its cocktail bitters and non-alcoholic drinks, which are gaining popularity among bartenders and consumers alike.</p><p>The company has already established significant industry partnerships, including an exclusive distribution agreement with Coca-Cola Europacific Partners for its Australian Bitters brand. Additionally, IBG utilizes proprietary direct-to-consumer channels to scale and integrate its owned brands, leveraging technology and a vertically integrated supply chain to disrupt traditional beverage market pathways.</p><p>For investors and industry observers, Jodhan's appointment signals IBG's commitment to assembling a leadership team capable of executing its growth strategy. Her role is anticipated to be pivotal in IBG's efforts to redefine the beverage market and capitalize on emerging consumer trends, further solidifying its position as a disruptive innovator in the industry.</p>

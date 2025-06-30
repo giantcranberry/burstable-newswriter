@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-vivako
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85164
 feed_item_id = 14801
-url = "/news/202505/85164-vivakor-inc-announces-special-dividend-in-adapti-inc-shares-to-shareholders"
+url = "/202505/85164-vivakor-inc-announces-special-dividend-in-adapti-inc-shares-to-shareholders"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/30/seekk7K0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

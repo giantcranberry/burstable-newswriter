@@ -1,0 +1,16 @@
++++
+title = "Meridianbet's AI-Driven Marketing Earns Spot on Oracle's Global Customer Reference Page"
+date = "2025-02-07T13:00:30Z"
+draft = false
+summary = "Meridianbet, Golden Matrix Group's sports betting and iGaming division, has been recognized on Oracle's Global Customer Reference Page for its innovative use of AI in marketing and customer engagement, marking a significant achievement for the Southeast European betting industry."
+description = "Meridianbet, the sports betting and iGaming division of Golden Matrix Group, is recognized for its AI-driven customer engagement and automation on Oracle’s Global Customer Reference Page. Learn how this innovative approach is transforming the sports betting and iGaming industry."
+source_link = "https://meridianbet.reportablenews.com/pr/meridianbet-gmgi-listed-on-oracle-s-global-tech-reference-page"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/cf5cf0d074b992273918f98d42f830ea.jpg"
+article_id = 91145
+feed_item_id = 10715
+url = "/202502/91145-meridianbets-ai-driven-marketing-earns-spot-on-oracles-global-customer-reference-page"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/252/7/lilyxUbT.webp"
+source = "Reportable"
++++
+
+<p>Meridianbet, the sports betting and iGaming division of Golden Matrix Group, has achieved a notable distinction by being featured on Oracle's Global Customer Reference Page. This recognition underscores Meridianbet's innovative application of AI-driven marketing and automation technologies, setting a benchmark for the industry in Southeast Europe.</p><p>The company's inclusion on Oracle's prestigious page highlights its advanced real-time marketing system, which leverages Oracle's enterprise tools to facilitate instant customer segmentation and personalized engagement. By analyzing player activity patterns, Meridianbet's AI-powered platform identifies the most opportune moments for targeted interactions, thereby enhancing customer retention and marketing efficiency.</p><p>Meridianbet's technology stands out for its ability to deliver highly personalized offers based on individual player preferences and behaviors, moving beyond generic promotional strategies. This precision not only maximizes marketing impact but also ensures adherence to cost control and regulatory compliance standards.</p><p>Beyond its consumer-facing applications, Meridianbet's AI-driven engagement model offers scalable solutions for B2B partners, enabling them to optimize customer acquisition costs, personalize user interactions, and improve retention strategies. The company's ownership of its technological infrastructure from the outset places it among the top 5% of gaming companies, facilitating rapid innovation and seamless AI integration.</p><p>The recent acquisition of a Brazilian operating license further validates Meridianbet's technological prowess, having successfully met the industry's stringent tech certification requirements. This achievement reinforces Meridianbet's position as a leader in the sports betting and iGaming sector, driven by a commitment to technological excellence and innovation.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/innovative-designs-projects-ove
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85211
 feed_item_id = 14393
-url = "/news/202505/85211-innovative-designs-inc-projects-stellar-q2-growth-driven-by-insultex-house-wrap-demand"
+url = "/202505/85211-innovative-designs-inc-projects-stellar-q2-growth-driven-by-insultex-house-wrap-demand"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/20/mend9slN.webp"
 source = "NewMediaWire"
 +++

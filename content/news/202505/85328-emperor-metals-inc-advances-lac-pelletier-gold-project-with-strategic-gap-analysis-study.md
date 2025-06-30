@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-empero
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-2.jpg"
 article_id = 85328
 feed_item_id = 13886
-url = "/news/202505/85328-emperor-metals-inc-advances-lac-pelletier-gold-project-with-strategic-gap-analysis-study"
+url = "/202505/85328-emperor-metals-inc-advances-lac-pelletier-gold-project-with-strategic-gap-analysis-study"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/7/voltbLLf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

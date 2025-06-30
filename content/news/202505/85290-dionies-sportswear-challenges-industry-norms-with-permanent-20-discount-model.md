@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522670/dionies-spo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85290
 feed_item_id = 14005
-url = "/news/202505/85290-dionies-sportswear-challenges-industry-norms-with-permanent-20-discount-model"
+url = "/202505/85290-dionies-sportswear-challenges-industry-norms-with-permanent-20-discount-model"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/12/epicFgzu.webp"
 source = "24-7 Press Release"
 +++

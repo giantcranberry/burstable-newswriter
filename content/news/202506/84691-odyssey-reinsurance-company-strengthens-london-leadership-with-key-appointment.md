@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702507/odysseyre-appoints-matthew-
 enclosure = "https://cdn.newsramp.app/banners/insurance-2.jpg"
 article_id = 84691
 feed_item_id = 15129
-url = "/news/202506/84691-odyssey-reinsurance-company-strengthens-london-leadership-with-key-appointment"
+url = "/202506/84691-odyssey-reinsurance-company-strengthens-london-leadership-with-key-appointment"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/4/tile8lin.webp"
 source = "citybiz"
 +++

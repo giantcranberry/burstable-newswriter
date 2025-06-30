@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/comcast-breaks-ground-in-the-rural-ar
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85263
 feed_item_id = 14125
-url = "/news/202505/85263-comcast-expands-broadband-access-in-rural-fresno-county-with-4-billion-investment"
+url = "/202505/85263-comcast-expands-broadband-access-in-rural-fresno-county-with-4-billion-investment"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/13/leanuPdw.webp"
 source = "News Direct"
 +++

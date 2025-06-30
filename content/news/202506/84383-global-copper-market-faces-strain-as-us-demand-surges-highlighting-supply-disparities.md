@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/copper-supply-disparitie
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/b05f414908b59135ff6309b1830b2ac3.png"
 article_id = 84383
 feed_item_id = 15749
-url = "/news/202506/84383-global-copper-market-faces-strain-as-us-demand-surges-highlighting-supply-disparities"
+url = "/202506/84383-global-copper-market-faces-strain-as-us-demand-surges-highlighting-supply-disparities"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/taroXY6f.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

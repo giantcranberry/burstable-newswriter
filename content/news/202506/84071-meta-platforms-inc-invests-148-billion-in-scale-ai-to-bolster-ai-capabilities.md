@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-meta-p
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84071
 feed_item_id = 15518
-url = "/news/202506/84071-meta-platforms-inc-invests-148-billion-in-scale-ai-to-bolster-ai-capabilities"
+url = "/202506/84071-meta-platforms-inc-invests-148-billion-in-scale-ai-to-bolster-ai-capabilities"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/filoBzDt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

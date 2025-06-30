@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/new-alvarez-and-marsal-report-on-tari
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/3c54b69cbbf473d1816bbedee6618f13.png"
 article_id = 85083
 feed_item_id = 15855
-url = "/news/202506/85083-alvarez-marsal-report-urges-retailers-to-act-now-amid-global-trade-turmoil"
+url = "/202506/85083-alvarez-marsal-report-urges-retailers-to-act-now-amid-global-trade-turmoil"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/heal1kzW.webp"
 source = "News Direct"
 +++

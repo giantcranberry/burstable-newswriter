@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/expert-digital-marketing-services-in-b
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/b0147e75f8c284b646d278077484035d.jpg"
 article_id = 85891
 feed_item_id = 11842
-url = "/news/202503/85891-get-found-revolutionizing-digital-marketing-for-birmingham-businesses"
+url = "/202503/85891-get-found-revolutionizing-digital-marketing-for-birmingham-businesses"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/12/riceVKfU.webp"
 source = "Press Services"
 +++

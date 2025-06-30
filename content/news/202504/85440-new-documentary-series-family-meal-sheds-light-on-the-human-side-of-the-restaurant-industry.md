@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522291/family-meal
 enclosure = "https://cdn.newsramp.app/banners/food-beverage-2.jpg"
 article_id = 85440
 feed_item_id = 13557
-url = "/news/202504/85440-new-documentary-series-family-meal-sheds-light-on-the-human-side-of-the-restaurant-industry"
+url = "/202504/85440-new-documentary-series-family-meal-sheds-light-on-the-human-side-of-the-restaurant-industry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/29/divexdYw.webp"
 source = "24-7 Press Release"
 +++

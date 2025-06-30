@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/tether-studios-celebrates-11-years-of
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85450
 feed_item_id = 13486
-url = "/news/202504/85450-tether-studios-celebrates-11-years-of-innovation-in-mobile-gaming"
+url = "/202504/85450-tether-studios-celebrates-11-years-of-innovation-in-mobile-gaming"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/28/gain0oZG.webp"
 source = "News Direct"
 +++

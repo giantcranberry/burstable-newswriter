@@ -1,0 +1,16 @@
++++
+title = "Golden Matrix Group's Meridianbet Launches AI-Powered Bet Recommender"
+date = "2024-10-25T12:20:14Z"
+draft = false
+summary = "Meridianbet, a subsidiary of Golden Matrix Group, introduces an AI-powered Bet Recommender to personalize sports betting experiences, marking a significant advancement in online gaming technology."
+description = "Golden Matrix Group Inc. (NASDAQ: GMGI) launches AI-powered Bet Recommender by Meridianbet, setting a new standard in personalized sports betting with the latest AI-driven technology to enhance user experience and optimize betting decisions."
+source_link = "https://www.newmediawire.com/news/golden-matrix-group-subsidiary-meridianbet-launches-revolutionary-ai-powered-bet-recommender-7076306"
+enclosure = "https://s3.amazonaws.com/cms.ipressroom.com/270/files/202410/0d8c705385bd8ddf_6719ceebda846f3069c04ab7_1"
+article_id = 91974
+feed_item_id = 7987
+url = "/202410/91974-golden-matrix-groups-meridianbet-launches-ai-powered-bet-recommender"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2410/25/hushkTww.webp"
+source = "NewMediaWire"
++++
+
+<p>Golden Matrix Group Inc. (NASDAQ: GMGI) has announced a groundbreaking development in the online gaming sector through its subsidiary Meridianbet. The launch of an AI-powered Bet Recommender is set to revolutionize the sports betting experience by offering personalized, real-time betting suggestions to users. This innovative tool analyzes extensive sports data and odds to provide tailored recommendations, enhancing decision-making for bettors.</p><p>The Bet Recommender is integrated into Meridianbet's fifth-generation sports betting and online casino platform, Atlas. Known for its microservice-based architecture, Atlas ensures high resilience and flexibility, supporting over 110,000 events monthly. This platform's ability to adapt between on-premise and cloud-based installations underscores its robust performance and scalability.</p><p>Meridianbet's expertise, spanning over 20 years in the gaming industry, has enabled the development of this cutting-edge technology. Operating in more than 20 markets globally, the company's diverse portfolio across B2B, B2C, retail, and online gaming verticals highlights its leadership in proprietary technology development. The AI Bet Recommender exemplifies Meridianbet's commitment to innovation, offering unparalleled control and scalability in the competitive gaming landscape.</p><p>This advancement aligns with Golden Matrix Group's strategic focus on leveraging technology to enhance operational excellence in the sports betting and iGaming sectors. The AI Bet Recommender not only improves user experience but also opens up discussions on responsible gaming and the need for regulatory oversight to ensure fair play and consumer protection.</p><p>The integration of AI into sports betting platforms like Meridianbet's could significantly alter how bettors interact with these services. As the technology evolves, its impact on user behavior, industry standards, and regulatory frameworks will be critical to monitor. The launch of the AI Bet Recommender marks a pivotal moment in the application of artificial intelligence in the gaming industry, promising to set new benchmarks for personalized gaming experiences worldwide.</p>

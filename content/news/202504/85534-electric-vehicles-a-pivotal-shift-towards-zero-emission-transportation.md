@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/why-evs-help-in-combatin
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85534
 feed_item_id = 13094
-url = "/news/202504/85534-electric-vehicles-a-pivotal-shift-towards-zero-emission-transportation"
+url = "/202504/85534-electric-vehicles-a-pivotal-shift-towards-zero-emission-transportation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/22/riceirni.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

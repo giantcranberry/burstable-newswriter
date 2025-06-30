@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522992/chavis-buil
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 84853
 feed_item_id = 14436
-url = "/news/202505/84853-chavis-building-renovation-services-revolutionizes-home-construction-in-perrysburg-with-integrated-approach"
+url = "/202505/84853-chavis-building-renovation-services-revolutionizes-home-construction-in-perrysburg-with-integrated-approach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/21/faceMZvA.webp"
 source = "24-7 Press Release"
 +++

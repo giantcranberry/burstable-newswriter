@@ -1,0 +1,16 @@
++++
+title = "Dalia Mogahed Joins Origins Consulting Group as Senior Adviser & Trainer to Combat Islamophobia"
+date = "2025-01-07T08:05:20Z"
+draft = false
+summary = "Origins Consulting Group appoints Dalia Mogahed, a renowned Islamophobia scholar, to enhance diversity and inclusion efforts amid rising global anti-Muslim hate."
+description = "Origins Consulting Group welcomes Dalia Mogahed, renowned Islamophobia scholar, as Senior Adviser & Trainer. Mogahed's addition brings critical insights to combat bias and promote inclusivity in organizations."
+source_link = "https://www.24-7pressrelease.com/press-release/517612/globally-renowned-scholar-dalia-mogahed-joins-origins-consulting-group-as-senior-adviser-on-islamophobia"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 91389
+feed_item_id = 9894
+url = "/202501/91389-dalia-mogahed-joins-origins-consulting-group-as-senior-adviser-trainer-to-combat-islamophobia"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/251/7/noragWOQ.webp"
+source = "24-7 Press Release"
++++
+
+<p>Origins Consulting Group has announced the appointment of Dalia Mogahed, a world-renowned Islamophobia scholar, as their new Senior Adviser & Trainer. This strategic move aims to address the increasing incidents of anti-Muslim hate globally by providing organizations with actionable strategies to foster empathy, understanding, and inclusion.</p><p>Mogahed's extensive background includes co-authoring 'Who Speaks for Islam? What a Billion Muslims Really Think,' based on the largest modern global study of Muslim communities. Her previous roles as the Executive Director of the Gallup Center for Muslim Studies and leading research at the Institute for Social Policy and Understanding (ISPU) highlight her deep expertise in the field.</p><p>Her influence extends beyond academia, with her TED Talk, 'What It's Like to Be Muslim in America,' being recognized as one of the top TED Talks of 2016. This acclaim underscores her role as a pivotal figure in interfaith dialogue and combating anti-Muslim bias, making her appointment timely and relevant.</p><p>Farah Salam-Hottle, President of Origins Consulting Group, emphasized the importance of Mogahed's role, especially in light of the global surge in anti-Muslim hate. Mogahed's expertise in Islamophobia training and understanding Muslim identity in the workplace is expected to significantly contribute to the organization's mission of advancing diversity, equity, and inclusion.</p><p>Origins Consulting Group's partnership with The Empathy University (TEU) enhances its ability to deliver comprehensive solutions worldwide. With Mogahed's addition, the group is poised to expand its offerings in Islamophobia training, providing organizations with the tools to create more inclusive and empathetic work environments.</p><p>This appointment marks a critical step in the fight against Islamophobia, offering organizations access to Mogahed's knowledge and strategies. As the demand for inclusive environments grows, the expertise of scholars like Mogahed becomes increasingly essential in professional and social contexts.</p>

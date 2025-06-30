@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nano-nuc
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84328
 feed_item_id = 14733
-url = "/news/202505/84328-nano-nuclear-energy-inc-secures-105-million-to-fuel-microreactor-development-and-space-applications"
+url = "/202505/84328-nano-nuclear-energy-inc-secures-105-million-to-fuel-microreactor-development-and-space-applications"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/29/quitpvk2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-launches-redesigned-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84249
 feed_item_id = 14978
-url = "/news/202506/84249-bmp-ai-announces-beta-launch-of-enhanced-workflow-and-business-chatbot-platform"
+url = "/202506/84249-bmp-ai-announces-beta-launch-of-enhanced-workflow-and-business-chatbot-platform"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/3/pinkt8d1.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/protospace-mfg-announces-proud-
 enclosure = "https://cdn.newsramp.app/banners/science-3.jpg"
 article_id = 84734
 feed_item_id = 14997
-url = "/news/202506/84734-protospace-mfg-sponsors-international-rocket-engineering-competition-2025-to-foster-aerospace-innovation"
+url = "/202506/84734-protospace-mfg-sponsors-international-rocket-engineering-competition-2025-to-foster-aerospace-innovation"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/3/taro3KlF.webp"
 source = "NewMediaWire"
 +++

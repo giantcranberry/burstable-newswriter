@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521254/list-of-top
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85720
 feed_item_id = 12414
-url = "/news/202504/85720-semfirms-unveils-top-web-design-agencies-for-april-2025-guiding-businesses-to-digital-excellence"
+url = "/202504/85720-semfirms-unveils-top-web-design-agencies-for-april-2025-guiding-businesses-to-digital-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/2/glowo3qa.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522238/foreign-aff
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 85453
 feed_item_id = 13472
-url = "/news/202504/85453-foreign-affairs-auto-elevates-european-car-maintenance-in-west-palm-beach"
+url = "/202504/85453-foreign-affairs-auto-elevates-european-car-maintenance-in-west-palm-beach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/27/lineNJRF.webp"
 source = "24-7 Press Release"
 +++

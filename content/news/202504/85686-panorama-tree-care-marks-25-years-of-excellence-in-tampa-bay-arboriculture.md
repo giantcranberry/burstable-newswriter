@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521387/panorama-tr
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85686
 feed_item_id = 12501
-url = "/news/202504/85686-panorama-tree-care-marks-25-years-of-excellence-in-tampa-bay-arboriculture"
+url = "/202504/85686-panorama-tree-care-marks-25-years-of-excellence-in-tampa-bay-arboriculture"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/riftHA6d.webp"
 source = "24-7 Press Release"
 +++

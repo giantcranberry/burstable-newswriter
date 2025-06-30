@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/navex-launches-ai-training-to-educate
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85881
 feed_item_id = 11875
-url = "/news/202503/85881-navex-launches-specialized-training-course-for-eu-ai-act-compliance"
+url = "/202503/85881-navex-launches-specialized-training-course-for-eu-ai-act-compliance"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/13/numbdc5Y.webp"
 source = "News Direct"
 +++

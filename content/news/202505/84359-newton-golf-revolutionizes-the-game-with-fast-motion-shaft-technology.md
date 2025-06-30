@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/newton-golf-company-inc-n
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84359
 feed_item_id = 14637
-url = "/news/202505/84359-newton-golf-revolutionizes-the-game-with-fast-motion-shaft-technology"
+url = "/202505/84359-newton-golf-revolutionizes-the-game-with-fast-motion-shaft-technology"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/quitFvhx.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

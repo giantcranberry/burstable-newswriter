@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/focus-universal-inc-to-particip
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85349
 feed_item_id = 13820
-url = "/news/202505/85349-focus-universal-inc-to-showcase-revolutionary-iot-and-financial-reporting-technologies-at-expo25"
+url = "/202505/85349-focus-universal-inc-to-showcase-revolutionary-iot-and-financial-reporting-technologies-at-expo25"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/6/sage1mKS.webp"
 source = "NewMediaWire"
 +++

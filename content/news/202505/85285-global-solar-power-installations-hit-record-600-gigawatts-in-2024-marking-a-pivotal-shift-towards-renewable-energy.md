@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/2024-saw-almost-600-gw-o
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85285
 feed_item_id = 14020
-url = "/news/202505/85285-global-solar-power-installations-hit-record-600-gigawatts-in-2024-marking-a-pivotal-shift-towards-renewable-energy"
+url = "/202505/85285-global-solar-power-installations-hit-record-600-gigawatts-in-2024-marking-a-pivotal-shift-towards-renewable-energy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/12/gulfhdJe.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

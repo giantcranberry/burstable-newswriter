@@ -1,0 +1,16 @@
++++
+title = "Clay Cooley Auto Group Expands into Arlington with Acquisition of Don Davis Dealership"
+date = "2024-11-09T08:05:17Z"
+draft = false
+summary = "Clay Cooley Auto Group's acquisition of Don Davis Chrysler Jeep Dodge Ram in Arlington marks a strategic expansion, promising enhanced services and customer care under the trusted Clay Cooley brand."
+description = "Clay Cooley Auto Group announces the acquisition of Don Davis Chrysler Jeep Dodge Ram in Arlington, Texas, marking a significant milestone in the company's ongoing expansion and commitment to delivering superior automotive experiences across North Texas."
+source_link = "https://www.24-7pressrelease.com/press-release/516056/clay-cooley-auto-group-broadens-reach-in-arlington-with-acquisition-and-rebranding-of-don-davis-chrysler-jeep-dodge-ram"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0516056_210724.jpeg"
+article_id = 91792
+feed_item_id = 8400
+url = "/202411/91792-clay-cooley-auto-group-expands-into-arlington-with-acquisition-of-don-davis-dealership"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2411/9/lilyGA1p.webp"
+source = "24-7 Press Release"
++++
+
+<p>Clay Cooley Auto Group has taken a significant step in its strategic growth plan by acquiring Don Davis Chrysler Jeep Dodge Ram in Arlington, Texas, now rebranded as Clay Cooley Chrysler Jeep Dodge Ram. This move not only celebrates the group's 25th anniversary but also reinforces its commitment to the North Texas region with a promise of integrity, customer care, and enhanced service options.</p><p>Chase Cooley highlighted the acquisition's importance, stating it's an opportunity to deepen the group's relationship with Arlington by introducing expanded services and top-tier customer support. The rebranding brings the auto group's quarter-century reputation for transparency, quality, and customer loyalty to Arlington, ensuring a seamless transition for existing customers and a memorable dealership experience for new visitors.</p><p>This expansion is a testament to Clay Cooley Auto Group's leadership in the Dallas-Fort Worth automotive market, offering a diverse range of vehicles across various brands. The acquisition not only solidifies their market position but also invests in the Arlington community, promising economic benefits and job opportunities while influencing the local automotive market's competitive landscape.</p><p>For Arlington and surrounding area consumers, the acquisition means access to a broader selection of vehicles and services under the esteemed Clay Cooley brand. The dealership is expected to uphold the high standards of quality and service synonymous with Clay Cooley Auto Group, adapting to future automotive trends and consumer preferences in the evolving market.</p><p>The rebranding of Don Davis Chrysler Jeep Dodge Ram to Clay Cooley Chrysler Jeep Dodge Ram signifies a new era for both the dealership and the auto group, showcasing the importance of strategic growth and community engagement in the automotive retail sector's dynamic environment.</p>

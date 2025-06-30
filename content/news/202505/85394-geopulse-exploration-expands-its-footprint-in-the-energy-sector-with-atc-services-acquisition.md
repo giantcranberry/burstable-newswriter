@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/geopulse-exploration-inc-comple
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-2.jpg"
 article_id = 85394
 feed_item_id = 13683
-url = "/news/202505/85394-geopulse-exploration-expands-its-footprint-in-the-energy-sector-with-atc-services-acquisition"
+url = "/202505/85394-geopulse-exploration-expands-its-footprint-in-the-energy-sector-with-atc-services-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/1/eachlLwA.webp"
 source = "NewMediaWire"
 +++

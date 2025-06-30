@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703239/smartruckhd-appoints-jeff-e
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84661
 feed_item_id = 15236
-url = "/news/202506/84661-smartruckhd-strengthens-leadership-with-appointment-of-jeff-engle-as-director-of-business-development"
+url = "/202506/84661-smartruckhd-strengthens-leadership-with-appointment-of-jeff-engle-as-director-of-business-development"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/lamb9QG9.webp"
 source = "citybiz"
 +++

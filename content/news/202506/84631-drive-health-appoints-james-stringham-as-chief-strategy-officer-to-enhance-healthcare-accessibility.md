@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703679/drive-health-appoints-james
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84631
 feed_item_id = 15317
-url = "/news/202506/84631-drive-health-appoints-james-stringham-as-chief-strategy-officer-to-enhance-healthcare-accessibility"
+url = "/202506/84631-drive-health-appoints-james-stringham-as-chief-strategy-officer-to-enhance-healthcare-accessibility"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/6/paverWo4.webp"
 source = "citybiz"
 +++

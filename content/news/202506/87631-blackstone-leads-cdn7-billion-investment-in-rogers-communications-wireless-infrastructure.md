@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709319/blackstone-completes-cdn7-b
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/93ac9488c62a7e2729ee375483e3dd82.png"
 article_id = 87631
 feed_item_id = 16010
-url = "/news/202506/87631-blackstone-leads-cdn7-billion-investment-in-rogers-communications-wireless-infrastructure"
+url = "/202506/87631-blackstone-leads-cdn7-billion-investment-in-rogers-communications-wireless-infrastructure"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/23/evenEiZ1.webp"
 source = "citybiz"
 +++

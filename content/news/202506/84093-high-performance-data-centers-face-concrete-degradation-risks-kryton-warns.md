@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/kryton-international-urges-durable-co
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84093
 feed_item_id = 15449
-url = "/news/202506/84093-high-performance-data-centers-face-concrete-degradation-risks-kryton-warns"
+url = "/202506/84093-high-performance-data-centers-face-concrete-degradation-risks-kryton-warns"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/10/neon6229.webp"
 source = "News Direct"
 +++

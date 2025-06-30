@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521917/comprehensi
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
 article_id = 85577
 feed_item_id = 12941
-url = "/news/202504/85577-new-guide-enhances-confined-space-emergency-preparedness-for-safety-professionals"
+url = "/202504/85577-new-guide-enhances-confined-space-emergency-preparedness-for-safety-professionals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/17/maskyTNg.webp"
 source = "24-7 Press Release"
 +++

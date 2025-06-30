@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524077/safe-harbor
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/7626cd19805d6132619ed76475642111.png"
 article_id = 87642
 feed_item_id = 15975
-url = "/news/202506/87642-national-class-action-lawsuit-accuses-safe-harbor-marinas-of-deceptive-billing-practices"
+url = "/202506/87642-national-class-action-lawsuit-accuses-safe-harbor-marinas-of-deceptive-billing-practices"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/21/clubpcUQ.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/aloe-semiconductor-showcases-160-gbau
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85721
 feed_item_id = 12404
-url = "/news/202504/85721-aloe-semiconductor-unveils-160-gbaud-silicon-photonic-modulator-pioneering-future-of-optical-communications"
+url = "/202504/85721-aloe-semiconductor-unveils-160-gbaud-silicon-photonic-modulator-pioneering-future-of-optical-communications"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/1/harpyy30.webp"
 source = "News Direct"
 +++

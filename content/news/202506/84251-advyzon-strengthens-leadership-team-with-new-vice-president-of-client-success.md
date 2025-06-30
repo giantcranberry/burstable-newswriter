@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701739/advyzon-appoints-clark-rich
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 84251
 feed_item_id = 14975
-url = "/news/202506/84251-advyzon-strengthens-leadership-team-with-new-vice-president-of-client-success"
+url = "/202506/84251-advyzon-strengthens-leadership-team-with-new-vice-president-of-client-success"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/note1lt8.webp"
 source = "citybiz"
 +++

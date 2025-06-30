@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/cw/chinesenewsbreaks-fingerm
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84122
 feed_item_id = 15355
-url = "/news/202506/84122-fingermotion-inc-and-zhejiang-jincheng-automotive-forge-strategic-partnership-to-revolutionize-emergency-response-vehicles"
+url = "/202506/84122-fingermotion-inc-and-zhejiang-jincheng-automotive-forge-strategic-partnership-to-revolutionize-emergency-response-vehicles"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/9/lunajOHn.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

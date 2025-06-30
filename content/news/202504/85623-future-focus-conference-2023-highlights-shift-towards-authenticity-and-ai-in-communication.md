@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/the-pr-net-future-focus-2025-brings-t
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85623
 feed_item_id = 12719
-url = "/news/202504/85623-future-focus-conference-2023-highlights-shift-towards-authenticity-and-ai-in-communication"
+url = "/202504/85623-future-focus-conference-2023-highlights-shift-towards-authenticity-and-ai-in-communication"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/14/beanXjDk.webp"
 source = "News Direct"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Celsius Holdings Faces Securities Class Action Over Alleged Misleading Statements to Investors"
+date = "2025-01-04T16:15:17Z"
+draft = false
+summary = "A securities class action lawsuit against Celsius Holdings, Inc. alleges the company made false and misleading statements to investors, highlighting the critical need for transparency and accurate financial reporting in public companies."
+description = "Learn about the securities fraud lawsuit filed against Celsius Holdings, Inc. by Kessler Topaz Meltzer & Check, LLP. Investors have until January 21, 2025, to participate. This news underscores the importance of accurate financial reporting and transparency in the corporate sector."
+source_link = "https://www.newmediawire.com/news/celh-investor-alert-a-securities-fraud-class-action-lawsuit-has-been-filed-against-celsius-holdings-inc-7078830"
+enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
+article_id = 91409
+feed_item_id = 9841
+url = "/202501/91409-celsius-holdings-faces-securities-class-action-over-alleged-misleading-statements-to-investors"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/251/4/yogaLl1O.webp"
+source = "NewMediaWire"
++++
+
+<p>A securities class action lawsuit has been filed against Celsius Holdings, Inc. (NASDAQ: CELH), accusing the company of making false and misleading statements to investors from February 29, 2024, to September 4, 2024. The lawsuit, initiated by Kessler Topaz Meltzer & Check, LLP, aims to represent investors who bought or acquired Celsius common stock during this timeframe. The complaint centers on allegations that Celsius significantly overestimated demand by overselling inventory to Pepsi, leading to an unsustainable sales rate and a misleading portrayal of the company's financial health.</p><p>The lawsuit further contends that Celsius did not disclose the impending reduction in Pepsi's purchases, which would adversely affect the company's sales and financial outlook. This alleged omission has raised questions about the accuracy of Celsius' reported business metrics and future prospects during the Class Period. The legal action underscores the vital role of truthful financial disclosures in enabling investors to make well-informed decisions, with potential repercussions for Celsius and its shareholders.</p><p>With the lead plaintiff deadline scheduled for January 21, 2025, affected investors have the opportunity to come forward as lead plaintiff representatives. This case not only highlights the inherent risks of investing in public markets but also emphasizes the protective measures afforded by securities laws against deceptive financial practices.</p><p>The implications of this lawsuit extend beyond Celsius Holdings, potentially influencing inventory management strategies and manufacturer-distributor relationships within the beverage industry. It may also lead to heightened scrutiny of financial reporting standards among consumer goods companies. As the case progresses, its outcomes could set important precedents for corporate governance and the enforcement of investor protections in similar future disputes.</p>

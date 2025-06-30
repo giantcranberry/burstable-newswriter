@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/sonia-lugo-joins-peapack-privat
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85166
 feed_item_id = 14769
-url = "/news/202505/85166-peapack-private-bank-trust-expands-into-long-island-with-sonia-lugo-at-the-helm"
+url = "/202505/85166-peapack-private-bank-trust-expands-into-long-island-with-sonia-lugo-at-the-helm"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/29/zeroezZ1.webp"
 source = "NewMediaWire"
 +++

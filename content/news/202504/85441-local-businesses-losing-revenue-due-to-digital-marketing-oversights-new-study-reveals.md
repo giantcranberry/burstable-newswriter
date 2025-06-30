@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522188/hidden-digi
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85441
 feed_item_id = 13552
-url = "/news/202504/85441-local-businesses-losing-revenue-due-to-digital-marketing-oversights-new-study-reveals"
+url = "/202504/85441-local-businesses-losing-revenue-due-to-digital-marketing-oversights-new-study-reveals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/29/harpHFfQ.webp"
 source = "24-7 Press Release"
 +++

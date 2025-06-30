@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702412/joseph-demattos-triple-latt
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c3708c48fb2d326095ef33b273e31ec9.jpg"
 article_id = 84659
 feed_item_id = 15254
-url = "/news/202506/84659-leadership-in-crisis-nino-asanis-blueprint-for-resilient-business-growth"
+url = "/202506/84659-leadership-in-crisis-nino-asanis-blueprint-for-resilient-business-growth"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/silkZkF3.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-ecgi-holdi
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84736
 feed_item_id = 14980
-url = "/news/202506/84736-ecgi-holdings-inc-invests-in-truetoform-to-revolutionize-e-commerce-with-ai-and-3d-computer-vision"
+url = "/202506/84736-ecgi-holdings-inc-invests-in-truetoform-to-revolutionize-e-commerce-with-ai-and-3d-computer-vision"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/irisabSO.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

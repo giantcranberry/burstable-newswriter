@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522620/hellonation
 enclosure = "https://cdn.newsramp.app/banners/local-regional-1.jpg"
 article_id = 85236
 feed_item_id = 14193
-url = "/news/202505/85236-hellonation-introduces-edvertising-a-new-era-of-meaningful-marketing"
+url = "/202505/85236-hellonation-introduces-edvertising-a-new-era-of-meaningful-marketing"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/ricePXRB.webp"
 source = "24-7 Press Release"
 +++

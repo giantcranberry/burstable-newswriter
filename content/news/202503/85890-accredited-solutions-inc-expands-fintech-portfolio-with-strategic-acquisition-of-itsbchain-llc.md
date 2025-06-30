@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/accredited-solutions-inc-otc-as
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 85890
 feed_item_id = 11849
-url = "/news/202503/85890-accredited-solutions-inc-expands-fintech-portfolio-with-strategic-acquisition-of-itsbchain-llc"
+url = "/202503/85890-accredited-solutions-inc-expands-fintech-portfolio-with-strategic-acquisition-of-itsbchain-llc"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/12/fernqIXH.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522698/addison-woo
 enclosure = "https://cdn.newsramp.app/banners/awards-2.jpg"
 article_id = 85282
 feed_item_id = 14034
-url = "/news/202505/85282-purdue-students-innovative-bakery-concept-wins-young-entrepreneur-scholarship"
+url = "/202505/85282-purdue-students-innovative-bakery-concept-wins-young-entrepreneur-scholarship"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/12/urgeOmjC.webp"
 source = "24-7 Press Release"
 +++

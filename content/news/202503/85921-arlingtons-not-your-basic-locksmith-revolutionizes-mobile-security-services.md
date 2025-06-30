@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/your-trusted-locksmith-expert-in-arlin
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/f917d15d991d6372242f3df935c87c18.jpg"
 article_id = 85921
 feed_item_id = 11740
-url = "/news/202503/85921-arlingtons-not-your-basic-locksmith-revolutionizes-mobile-security-services"
+url = "/202503/85921-arlingtons-not-your-basic-locksmith-revolutionizes-mobile-security-services"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/253/7/archfzFR.webp"
 source = "Press Services"
 +++

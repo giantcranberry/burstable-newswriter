@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523909/autel-energ
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/820014f223ed6ab17888438ec15efa27.png"
 article_id = 85099
 feed_item_id = 15814
-url = "/news/202506/85099-autel-energy-revolutionizes-ev-charging-with-new-flagship-products"
+url = "/202506/85099-autel-energy-revolutionizes-ev-charging-with-new-flagship-products"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/jokeHvtf.webp"
 source = "24-7 Press Release"
 +++

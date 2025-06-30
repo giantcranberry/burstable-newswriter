@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/704318/qa-with-pablo-barreiro-chai
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b816a8d611398baf8c08a4d643aa9d5d.jpg"
 article_id = 84067
 feed_item_id = 15531
-url = "/news/202506/84067-fortec-modern-real-estate-pioneers-100-million-fund-to-address-childcare-deserts"
+url = "/202506/84067-fortec-modern-real-estate-pioneers-100-million-fund-to-address-childcare-deserts"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/quayXFrK.webp"
 source = "citybiz"
 +++

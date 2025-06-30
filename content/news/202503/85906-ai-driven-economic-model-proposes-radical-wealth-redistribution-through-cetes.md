@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520458/an-open-let
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 85906
 feed_item_id = 11793
-url = "/news/202503/85906-ai-driven-economic-model-proposes-radical-wealth-redistribution-through-cetes"
+url = "/202503/85906-ai-driven-economic-model-proposes-radical-wealth-redistribution-through-cetes"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/11/tallHcaw.webp"
 source = "24-7 Press Release"
 +++

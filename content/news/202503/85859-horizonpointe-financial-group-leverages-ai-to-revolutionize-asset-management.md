@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/horizonpointe-financial-group-and-chi
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85859
 feed_item_id = 11958
-url = "/news/202503/85859-horizonpointe-financial-group-leverages-ai-to-revolutionize-asset-management"
+url = "/202503/85859-horizonpointe-financial-group-leverages-ai-to-revolutionize-asset-management"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/17/glee3aR1.webp"
 source = "News Direct"
 +++

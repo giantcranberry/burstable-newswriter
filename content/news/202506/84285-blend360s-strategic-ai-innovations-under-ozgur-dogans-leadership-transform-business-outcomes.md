@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/700194/qa-with-ozgur-dogan-co-foun
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84285
 feed_item_id = 14862
-url = "/news/202506/84285-blend360s-strategic-ai-innovations-under-ozgur-dogans-leadership-transform-business-outcomes"
+url = "/202506/84285-blend360s-strategic-ai-innovations-under-ozgur-dogans-leadership-transform-business-outcomes"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/2/sageVdlw.webp"
 source = "citybiz"
 +++

@@ -1,0 +1,16 @@
++++
+title = "PONS Recognized with WIPO Global Award for Innovations in Mobile Ultrasound Technology"
+date = "2024-07-22T07:00:12Z"
+draft = false
+summary = "PONS's receipt of the WIPO Global Award highlights its significant contributions to making ultrasound technology more accessible and affordable, especially in underserved communities."
+description = "PONS has been recognized with the esteemed WIPO Global Award for its dedication to innovation and robust intellectual property (IP) foundations. The award acknowledges PONS's inventive approach to making ultrasound imaging accessible and affordable for all, addressing the limited amount of diverse data available on disease progress and medical imaging challenges in rural and low-income communities."
+source_link = "https://www.24-7pressrelease.com/press-release/512614/wipo-honours-pons-with-global-accolade-for-innovation-and-ip-excellence"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0512614_206440.png"
+article_id = 92806
+feed_item_id = 5143
+url = "/202407/92806-pons-recognized-with-wipo-global-award-for-innovations-in-mobile-ultrasound-technology"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/247/22/kite3MP7.webp"
+source = "24-7 Press Release"
++++
+
+<p>PONS has been honored as one of the top nine companies globally with the WIPO Global Award, a testament to its groundbreaking work in mobile ultrasound technology. The World Intellectual Property Organization recognized PONS for its innovative integration of navigation, image enhancement, and AI-driven characterization in ultrasound devices, aiming to democratize access to medical imaging in rural and low-income areas.</p><p>The award underscores the importance of intellectual property rights in fostering innovation and commercial success among small and medium-sized enterprises. PONS's technology, which enhances ultrasound images to expert-level quality without the need for costly hardware, represents a leap forward in making diagnostic tools more accessible worldwide.</p><p>Soner Hacihaliloglu, Founder & CEO of PONS, highlighted the company's commitment to advancing healthcare through technology and strategic IP use. This approach not only drives the company's growth but also addresses critical healthcare challenges, such as the scarcity of disease progression data.</p><p>Marcelo Di Pietro of WIPO pointed out that PONS's achievements illustrate how SMEs can leverage IP rights for societal benefit. The company's AI models for ultrasound imaging are set to transform healthcare delivery in remote areas by improving disease risk assessment outside traditional hospital settings.</p><p>This accolade from WIPO not only validates PONS's technological and business strategies but also sets a benchmark for innovation in the healthcare technology sector. By enhancing the accessibility of ultrasound imaging, PONS is playing a pivotal role in the global effort to provide equitable healthcare solutions, promising to improve health outcomes for underserved populations.</p>

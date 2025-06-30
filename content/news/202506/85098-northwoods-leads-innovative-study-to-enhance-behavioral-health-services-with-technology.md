@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523739/northwoods-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/b64cdf71cd626f9644cc7194375fd2a5.png"
 article_id = 85098
 feed_item_id = 15813
-url = "/news/202506/85098-northwoods-leads-innovative-study-to-enhance-behavioral-health-services-with-technology"
+url = "/202506/85098-northwoods-leads-innovative-study-to-enhance-behavioral-health-services-with-technology"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/milkTaI8.webp"
 source = "24-7 Press Release"
 +++

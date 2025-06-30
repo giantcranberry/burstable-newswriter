@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-lelantos
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
 article_id = 85201
 feed_item_id = 14455
-url = "/news/202505/85201-lelantos-holdings-unveils-2025-renewable-energy-strategy-aimed-at-veterans-and-low-income-communities"
+url = "/202505/85201-lelantos-holdings-unveils-2025-renewable-energy-strategy-aimed-at-veterans-and-low-income-communities"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/21/pitapicoBYLv.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

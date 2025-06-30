@@ -1,0 +1,16 @@
++++
+title = "WETEX 2024 Set to Showcase Global Sustainability Innovations in Dubai"
+date = "2024-10-03T07:00:12Z"
+draft = false
+summary = "The 26th Water, Energy, Technology and Environment Exhibition (WETEX) in Dubai will gather 2,800 companies from 65 countries to explore sustainable solutions, highlighting the event's critical role in global sustainability efforts."
+description = "DEWA's 26th WETEX Exhibition in Dubai showcases global sustainability efforts, unifying expertise and achieving sustainability through innovation and technology."
+source_link = "https://www.24-7pressrelease.com/press-release/514896/the-26th-wetex-attracts-68-local-and-international-sponsors"
+enclosure = "https://www.24-7pressrelease.com/attachments/051/press_release_distribution_0514896_209190.jpg"
+article_id = 92160
+feed_item_id = 7344
+url = "/202410/92160-wetex-2024-set-to-showcase-global-sustainability-innovations-in-dubai"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2410/3/ruby719E.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Dubai Electricity and Water Authority (DEWA) is preparing to host the 26th edition of the Water, Energy, Technology and Environment Exhibition (WETEX) from October 1-3, 2024, at the Dubai World Trade Centre. With 68 sponsors and 37 partners, this year's WETEX is recognized as the largest exhibition of its kind in the region and a key global event in the sustainability sector.</p><p>Spanning 87,494 square meters, WETEX 2024 will feature 2,800 companies from 65 countries, including 21 international pavilions. The exhibition will cover essential sectors for sustainable development such as energy, water, green development, decarbonization, green mobility, green hydrogen, and sustainable cities. HE Saeed Mohammed Al Tayer, MD&CEO of DEWA and Founder and Chairman of WETEX, highlighted the exhibition's significance as a global platform for fostering collaboration and innovation in sustainability.</p><p>Industry leaders like Abu Dhabi Future Energy Company (Masdar), Dubai Roads and Transport Authority (RTA), and international technology giants such as Siemens and Siemens Energy are among the principal sponsors, showcasing the global importance of the event. The diverse sponsorship tiers, including Principal, Titanium, Platinum, Strategic, and Gold, reflect the wide range of industries committed to advancing sustainable technologies.</p><p>WETEX 2024's focus on green technologies and sustainable development comes at a crucial time as the world seeks solutions to combat climate change and transition to cleaner energy sources. The exhibition will highlight advancements in renewable energy and eco-friendly transportation, offering a platform for industry professionals, researchers, and policymakers to explore emerging trends and forge partnerships.</p><p>The event underscores Dubai's leadership in sustainable development, bringing together a vast array of international companies and experts to drive innovation and shape the future of sustainability globally. With its comprehensive coverage of sustainable sectors and the participation of leading global entities, WETEX 2024 is poised to make a significant impact on the sustainability landscape.</p>

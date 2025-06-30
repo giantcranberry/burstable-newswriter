@@ -1,0 +1,16 @@
++++
+title = "UGI Utilities, Inc. Launches Major Gas Main Replacement Project in Lancaster"
+date = "2024-12-29T05:53:01Z"
+draft = false
+summary = "UGI Utilities, Inc. begins a significant gas main replacement project in Lancaster, enhancing safety and reliability while offering local homes and businesses the opportunity to convert to natural gas."
+description = "UGI Utilities, Inc. embarks on a gas main replacement project in Lancaster to improve safety and reliability. Learn how this initiative could impact residents and businesses along the project route."
+source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-in-lancaster-could-fuel-natural-gas-conversions"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
+article_id = 91465
+feed_item_id = 9671
+url = "/202412/91465-ugi-utilities-inc-launches-major-gas-main-replacement-project-in-lancaster"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/2412/29/wamc0wPT.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities, Inc. is initiating a comprehensive gas main replacement project in Lancaster, starting December 13, aimed at improving the safety and reliability of natural gas service. This project, expected to conclude by the end of February, will impact several key streets, including Laurel Street, Hebrank Street, New Dorwart Street, Hazel Street, and Groff Avenue, marking a significant step in infrastructure enhancement.</p><p>The initiative not only underscores UGI's dedication to infrastructure maintenance but also presents a timely opportunity for residents and businesses along the project route to consider switching to natural gas. The upgrades may simplify and reduce the costs associated with such conversions, aligning with the growing shift towards cleaner energy sources and contributing to Lancaster's energy sustainability objectives.</p><p>Construction will occur Monday through Friday, from 7 am to 5 pm, leading to expected disruptions such as road closures, detours, and temporary gas service interruptions. UGI has outlined plans to manage these challenges, including property access for necessary inspections and relighting, with the project's timeline adaptable to weather conditions and other variables to ensure safety and efficiency.</p><p>For the Lancaster community, this project represents a long-term investment in the city's energy infrastructure, promising enhanced energy efficiency and potential cost savings for those opting for natural gas conversions. UGI Utilities, Inc., serving over 740,000 customers, continues its commitment to upgrading utility infrastructure, with this Lancaster project being a part of their broader service area improvements.</p><p>Residents and businesses in the affected areas are encouraged to stay updated on the construction schedule and any adjustments. Despite the temporary inconveniences, the project is poised to deliver enduring benefits, including improved infrastructure and the advantages of natural gas access, fostering a positive impact on the community's energy landscape.</p>

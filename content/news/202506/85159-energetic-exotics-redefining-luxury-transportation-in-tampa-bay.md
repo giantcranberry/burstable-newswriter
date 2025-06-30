@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/699028/qa-with-marlon-and-jessica-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85159
 feed_item_id = 14866
-url = "/news/202506/85159-energetic-exotics-redefining-luxury-transportation-in-tampa-bay"
+url = "/202506/85159-energetic-exotics-redefining-luxury-transportation-in-tampa-bay"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/2/airyMg49.webp"
 source = "citybiz"
 +++

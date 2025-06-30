@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-nvidia
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84073
 feed_item_id = 15517
-url = "/news/202506/84073-nvidias-quantum-computing-announcement-sparks-market-rally"
+url = "/202506/84073-nvidias-quantum-computing-announcement-sparks-market-rally"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/11/fondptvu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/goldmanpeakted-launches-advanced-free
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 85816
 feed_item_id = 12117
-url = "/news/202503/85816-goldmanpeakted-launches-ai-powered-stock-analysis-tool-for-asx-investors"
+url = "/202503/85816-goldmanpeakted-launches-ai-powered-stock-analysis-tool-for-asx-investors"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/21/lushJ8A0.webp"
 source = "News Direct"
 +++

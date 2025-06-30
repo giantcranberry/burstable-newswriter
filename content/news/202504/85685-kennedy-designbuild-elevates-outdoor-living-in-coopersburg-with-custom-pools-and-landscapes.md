@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521434/kennedy-des
 enclosure = "https://cdn.newsramp.app/banners/lifestyle-culture-1.jpg"
 article_id = 85685
 feed_item_id = 12510
-url = "/news/202504/85685-kennedy-designbuild-elevates-outdoor-living-in-coopersburg-with-custom-pools-and-landscapes"
+url = "/202504/85685-kennedy-designbuild-elevates-outdoor-living-in-coopersburg-with-custom-pools-and-landscapes"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/4/chiptuK7.webp"
 source = "24-7 Press Release"
 +++

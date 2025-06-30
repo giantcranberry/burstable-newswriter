@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523069/cambrian-an
 enclosure = "https://cdn.newsramp.app/banners/awards-3.jpg"
 article_id = 84826
 feed_item_id = 14516
-url = "/news/202505/84826-cambrians-innovative-water-reuse-project-with-anheuser-busch-wins-global-water-award"
+url = "/202505/84826-cambrians-innovative-water-reuse-project-with-anheuser-busch-wins-global-water-award"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/22/lambAIGK.webp"
 source = "24-7 Press Release"
 +++

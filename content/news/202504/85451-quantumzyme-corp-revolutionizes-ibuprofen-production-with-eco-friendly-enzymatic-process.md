@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/quantumzyme-highlights-benefits
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 85451
 feed_item_id = 13485
-url = "/news/202504/85451-quantumzyme-corp-revolutionizes-ibuprofen-production-with-eco-friendly-enzymatic-process"
+url = "/202504/85451-quantumzyme-corp-revolutionizes-ibuprofen-production-with-eco-friendly-enzymatic-process"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/254/28/veilungq.webp"
 source = "NewMediaWire"
 +++

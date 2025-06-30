@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524009/diamond-car
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/e18d6500d878398603c8273e2c73546c.png"
 article_id = 87664
 feed_item_id = 15892
-url = "/news/202506/87664-diamond-care-transportation-expands-services-to-meet-growing-demand-for-accessible-transportation"
+url = "/202506/87664-diamond-care-transportation-expands-services-to-meet-growing-demand-for-accessible-transportation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/19/harp327_.webp"
 source = "24-7 Press Release"
 +++

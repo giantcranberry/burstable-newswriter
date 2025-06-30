@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/meta-signs-650-mw-solar-
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 85177
 feed_item_id = 14642
-url = "/news/202505/85177-metas-major-solar-energy-investment-powers-ai-and-data-centers-towards-sustainability"
+url = "/202505/85177-metas-major-solar-energy-investment-powers-ai-and-data-centers-towards-sustainability"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/27/ulna1CWW.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

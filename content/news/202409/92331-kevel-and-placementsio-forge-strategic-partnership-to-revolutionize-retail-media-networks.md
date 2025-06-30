@@ -1,0 +1,16 @@
++++
+title = "Kevel and Placements.io Forge Strategic Partnership to Revolutionize Retail Media Networks"
+date = "2024-09-11T13:05:13Z"
+draft = false
+summary = "The collaboration between Kevel and Placements.io introduces a unified platform for retailers and ecommerce brands to efficiently manage and scale their retail media networks, marking a pivotal shift in the digital advertising landscape."
+description = "Kevel and Placements.io announce a strategic partnership to empower retailers and ecommerce brands with unparalleled flexibility and precision in managing, optimizing, and scaling their retail media networks."
+source_link = "https://newsdirect.com/news/kevel-and-placements-io-announce-strategic-partnership-to-address-unique-challenges-in-retail-media-584367142"
+enclosure = "https://cdn.newsramp.app/banners/retail-3.jpg"
+article_id = 92331
+feed_item_id = 6740
+url = "/202409/92331-kevel-and-placementsio-forge-strategic-partnership-to-revolutionize-retail-media-networks"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/249/11/knotYkLn.webp"
+source = "News Direct"
++++
+
+<p>The strategic partnership between Kevel, an API-first ad serving company, and Placements.io, a leading revenue management platform, is set to transform the retail media landscape by offering a comprehensive solution for managing and scaling retail media networks. This collaboration integrates Kevel's Retail Media Cloud™ with Placements.io's revenue management system, providing retailers and ecommerce brands with the tools to manage, monetize, and scale their ad inventory in-house.</p><p>James Avery, CEO of Kevel, highlighted the partnership's alignment with the companies' shared vision to enhance the internet's advertising ecosystem. The unified platform promises enhanced customization, seamless integration, scalable solutions, and improved ROI, addressing the critical needs of the retail media sector. Edwin Fu, Founder and CEO of Placements.io, emphasized the partnership's potential to unlock new revenue opportunities by streamlining ad inventory management and maximizing ad spend efficiency.</p><p>This partnership arrives at a time when retail media is witnessing significant growth, with businesses seeking efficient ways to manage their ad operations while maintaining control over data and reporting. The integration of Kevel's API infrastructure with Placements.io's order and billing management capabilities offers a unified approach to ad operations, sales, and finance, showcasing the true value of advertising in the retail media space.</p><p>By combining their strengths, Kevel and Placements.io are leading the charge in empowering retailers to build custom, privacy-first, and revenue-generating ad platforms. This collaboration not only addresses the current challenges faced by the retail media industry but also sets a precedent for future innovations in digital advertising. As the sector continues to evolve, such partnerships are crucial for businesses aiming to navigate the complexities of the digital marketplace and capitalize on the opportunities presented by retail media networks.</p>

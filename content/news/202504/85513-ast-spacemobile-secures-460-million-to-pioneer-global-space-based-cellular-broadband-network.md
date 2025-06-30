@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-ast-spac
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 85513
 feed_item_id = 13156
-url = "/news/202504/85513-ast-spacemobile-secures-460-million-to-pioneer-global-space-based-cellular-broadband-network"
+url = "/202504/85513-ast-spacemobile-secures-460-million-to-pioneer-global-space-based-cellular-broadband-network"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/23/yarnVNDK.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

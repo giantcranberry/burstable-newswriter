@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/why-gold-could-reach-400
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 85405
 feed_item_id = 13651
-url = "/news/202504/85405-golds-unprecedented-rally-eyeing-4000-per-ounce-by-2025"
+url = "/202504/85405-golds-unprecedented-rally-eyeing-4000-per-ounce-by-2025"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/30/blurXM3E.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

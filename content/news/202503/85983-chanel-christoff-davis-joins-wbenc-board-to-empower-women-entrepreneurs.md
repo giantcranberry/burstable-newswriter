@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/chanel-christoff-davis-appointed-to-w
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85983
 feed_item_id = 11593
-url = "/news/202503/85983-chanel-christoff-davis-joins-wbenc-board-to-empower-women-entrepreneurs"
+url = "/202503/85983-chanel-christoff-davis-joins-wbenc-board-to-empower-women-entrepreneurs"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/4/sagek3w0.webp"
 source = "News Direct"
 +++

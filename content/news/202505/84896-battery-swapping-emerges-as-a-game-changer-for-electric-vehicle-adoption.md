@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/battery-swapping-offers-
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84896
 feed_item_id = 14242
-url = "/news/202505/84896-battery-swapping-emerges-as-a-game-changer-for-electric-vehicle-adoption"
+url = "/202505/84896-battery-swapping-emerges-as-a-game-changer-for-electric-vehicle-adoption"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/255/15/tallJdI3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

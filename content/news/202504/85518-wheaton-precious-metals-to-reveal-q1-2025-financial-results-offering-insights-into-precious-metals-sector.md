@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-wheato
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85518
 feed_item_id = 13138
-url = "/news/202504/85518-wheaton-precious-metals-to-reveal-q1-2025-financial-results-offering-insights-into-precious-metals-sector"
+url = "/202504/85518-wheaton-precious-metals-to-reveal-q1-2025-financial-results-offering-insights-into-precious-metals-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/23/jadeOAPJ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

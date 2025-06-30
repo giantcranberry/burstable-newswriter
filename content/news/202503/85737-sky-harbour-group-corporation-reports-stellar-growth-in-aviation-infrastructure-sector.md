@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-part
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/ff5cbe93c6e26ecf617456a7ce723174.png"
 article_id = 85737
 feed_item_id = 12360
-url = "/news/202503/85737-sky-harbour-group-corporation-reports-stellar-growth-in-aviation-infrastructure-sector"
+url = "/202503/85737-sky-harbour-group-corporation-reports-stellar-growth-in-aviation-infrastructure-sector"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/31/fernvTL9.webp"
 source = "Reportable"
 +++

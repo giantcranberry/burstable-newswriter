@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/anthropic-ceo-warns-of-
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84245
 feed_item_id = 14990
-url = "/news/202506/84245-anthropic-ceo-warns-of-ais-potential-to-disrupt-job-market-urges-preparation-for-future"
+url = "/202506/84245-anthropic-ceo-warns-of-ais-potential-to-disrupt-job-market-urges-preparation-for-future"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/3/mend1GJM.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

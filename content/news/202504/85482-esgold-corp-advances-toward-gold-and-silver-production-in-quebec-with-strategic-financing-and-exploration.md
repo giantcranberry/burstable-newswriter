@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/esgold-corp-cse-esau-otc
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
 article_id = 85482
 feed_item_id = 13257
-url = "/news/202504/85482-esgold-corp-advances-toward-gold-and-silver-production-in-quebec-with-strategic-financing-and-exploration"
+url = "/202504/85482-esgold-corp-advances-toward-gold-and-silver-production-in-quebec-with-strategic-financing-and-exploration"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/25/roam5w_5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

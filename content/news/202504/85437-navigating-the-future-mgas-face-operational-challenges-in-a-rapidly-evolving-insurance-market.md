@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/novidea-provides-insights-on-the-five
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 85437
 feed_item_id = 13565
-url = "/news/202504/85437-navigating-the-future-mgas-face-operational-challenges-in-a-rapidly-evolving-insurance-market"
+url = "/202504/85437-navigating-the-future-mgas-face-operational-challenges-in-a-rapidly-evolving-insurance-market"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/254/29/vastLnfv.webp"
 source = "News Direct"
 +++

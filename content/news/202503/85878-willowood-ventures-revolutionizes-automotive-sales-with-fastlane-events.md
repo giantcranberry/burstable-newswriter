@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/520587/meta-market
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 85878
 feed_item_id = 11890
-url = "/news/202503/85878-willowood-ventures-revolutionizes-automotive-sales-with-fastlane-events"
+url = "/202503/85878-willowood-ventures-revolutionizes-automotive-sales-with-fastlane-events"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/13/frogMdWq.webp"
 source = "24-7 Press Release"
 +++

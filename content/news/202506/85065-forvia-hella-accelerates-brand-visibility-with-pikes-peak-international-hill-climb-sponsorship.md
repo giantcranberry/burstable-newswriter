@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/hella-heads-to-pikes-peak-with-robb-h
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/eb9a6c2495cad68aeddb52f2d7ba53ec.jpg"
 article_id = 85065
 feed_item_id = 15910
-url = "/news/202506/85065-forvia-hella-accelerates-brand-visibility-with-pikes-peak-international-hill-climb-sponsorship"
+url = "/202506/85065-forvia-hella-accelerates-brand-visibility-with-pikes-peak-international-hill-climb-sponsorship"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/19/pendkdHg.webp"
 source = "News Direct"
 +++

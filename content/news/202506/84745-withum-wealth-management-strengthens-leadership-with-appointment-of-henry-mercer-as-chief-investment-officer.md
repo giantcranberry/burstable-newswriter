@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701380/henry-mercer-named-chief-in
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-2.jpg"
 article_id = 84745
 feed_item_id = 14947
-url = "/news/202506/84745-withum-wealth-management-strengthens-leadership-with-appointment-of-henry-mercer-as-chief-investment-officer"
+url = "/202506/84745-withum-wealth-management-strengthens-leadership-with-appointment-of-henry-mercer-as-chief-investment-officer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/joinRCR9.webp"
 source = "citybiz"
 +++

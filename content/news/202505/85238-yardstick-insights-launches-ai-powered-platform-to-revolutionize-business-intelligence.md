@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522757/yardstick-i
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 85238
 feed_item_id = 14190
-url = "/news/202505/85238-yardstick-insights-launches-ai-powered-platform-to-revolutionize-business-intelligence"
+url = "/202505/85238-yardstick-insights-launches-ai-powered-platform-to-revolutionize-business-intelligence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/15/wall9LpE.webp"
 source = "24-7 Press Release"
 +++

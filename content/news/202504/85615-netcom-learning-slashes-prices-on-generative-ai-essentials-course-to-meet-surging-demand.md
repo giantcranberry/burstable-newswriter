@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/521757/netcom-lear
 enclosure = "https://cdn.newsramp.app/banners/education-1.jpg"
 article_id = 85615
 feed_item_id = 12753
-url = "/news/202504/85615-netcom-learning-slashes-prices-on-generative-ai-essentials-course-to-meet-surging-demand"
+url = "/202504/85615-netcom-learning-slashes-prices-on-generative-ai-essentials-course-to-meet-surging-demand"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/15/paleGbce.webp"
 source = "24-7 Press Release"
 +++

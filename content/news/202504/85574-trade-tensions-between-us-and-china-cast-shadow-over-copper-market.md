@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/demand-for-copper-could-
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 85574
 feed_item_id = 12955
-url = "/news/202504/85574-trade-tensions-between-us-and-china-cast-shadow-over-copper-market"
+url = "/202504/85574-trade-tensions-between-us-and-china-cast-shadow-over-copper-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/254/17/ricegNAf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

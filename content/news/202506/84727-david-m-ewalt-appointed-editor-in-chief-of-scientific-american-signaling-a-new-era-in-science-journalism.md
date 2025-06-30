@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/702053/scientific-american-appoint
 enclosure = "https://cdn.newsramp.app/banners/media-1.jpg"
 article_id = 84727
 feed_item_id = 15028
-url = "/news/202506/84727-david-m-ewalt-appointed-editor-in-chief-of-scientific-american-signaling-a-new-era-in-science-journalism"
+url = "/202506/84727-david-m-ewalt-appointed-editor-in-chief-of-scientific-american-signaling-a-new-era-in-science-journalism"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/vast92BS.webp"
 source = "citybiz"
 +++

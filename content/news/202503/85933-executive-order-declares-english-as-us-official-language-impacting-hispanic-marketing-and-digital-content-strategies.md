@@ -8,7 +8,7 @@ source_link = "trumps-executive-order-on-english-as-official-language"
 enclosure = "https://cdn.newsramp.app/noticias-newswire/newsimage/ae81e747f81deb954e3f3161d06f678b.jpg"
 article_id = 85933
 feed_item_id = 11702
-url = "/news/202503/85933-executive-order-declares-english-as-us-official-language-impacting-hispanic-marketing-and-digital-content-strategies"
+url = "/202503/85933-executive-order-declares-english-as-us-official-language-impacting-hispanic-marketing-and-digital-content-strategies"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/253/6/ninauEVr.webp"
 source = "Noticias Newswire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/abvc-and-biolite-japan-implemen
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 86097
 feed_item_id = 11175
-url = "/news/202502/86097-abvc-biopharma-and-biolite-japan-forge-strategic-alliance-to-boost-japans-biotech-industry-globally"
+url = "/202502/86097-abvc-biopharma-and-biolite-japan-forge-strategic-alliance-to-boost-japans-biotech-industry-globally"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/252/26/poemx1IL.webp"
 source = "NewMediaWire"
 +++

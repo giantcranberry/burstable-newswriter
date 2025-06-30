@@ -1,0 +1,16 @@
++++
+title = "Rising Demand for Critical Minerals Sparks Global Supply Chain and Security Concerns"
+date = "2024-10-09T10:10:14Z"
+draft = false
+summary = "The increasing global demand for critical minerals like antimony and tin is reshaping supply chains, national security strategies, and investment opportunities, with significant implications for defense, renewable energy, and technology sectors."
+description = "The demand for critical minerals like antimony and tin is rising due to global tensions and supply chain constraints. Military Metals Corp., Perpetua Resources Corp., United States Antimony Corporation, and Nova Minerals Limited are key players in the industry, making strategic moves to capitalize on the growing demand. Investors and industry stakeholders should closely monitor their activities as they play a crucial role in the evolving landscape of mining and defense technology."
+source_link = "https://newsdirect.com/news/rising-global-tensions-drive-demand-for-defense-metals-key-players-to-watch-898630912"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
+article_id = 92114
+feed_item_id = 7483
+url = "/202410/92114-rising-demand-for-critical-minerals-sparks-global-supply-chain-and-security-concerns"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2410/9/lilyZjBY.webp"
+source = "News Direct"
++++
+
+<p>The surge in demand for critical minerals such as antimony and tin, driven by geopolitical tensions and supply chain pressures, is highlighting their strategic importance in defense technology, renewable energy, and advanced manufacturing. Countries are now prioritizing the security of domestic supplies, with the United States and European Union implementing measures like the Defense Production Act and the Critical Raw Materials Act to bolster local resources.</p><p>Companies like Military Metals Corp., Perpetua Resources Corp., United States Antimony Corporation (USAC), and Nova Minerals Limited are leading the charge in meeting this demand. Military Metals Corp. has acquired the West Gore Antimony Project in Nova Scotia, while Perpetua Resources Corp. is advancing its Stibnite Gold Project in Idaho, potentially becoming the sole U.S. source of mined antimony. USAC is expanding its operations through strategic acquisitions, and Nova Minerals Limited is accelerating its feasibility study for the Estelle Gold Project in Alaska.</p><p>These initiatives reflect the critical role of these minerals in global supply chains and national security, with potential to influence industries from defense to renewable energy. The shift towards securing domestic supplies may also alter global trade dynamics and geopolitical relationships, as nations vie for access to these essential resources.</p><p>Investors and industry stakeholders are advised to monitor these developments closely, as the strategic value of critical minerals continues to rise in a complex global environment. Companies leading in exploration and production are poised to benefit from favorable market trends and government support in the foreseeable future.</p>

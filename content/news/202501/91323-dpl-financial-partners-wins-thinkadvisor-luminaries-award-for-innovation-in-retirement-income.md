@@ -1,0 +1,16 @@
++++
+title = "DPL Financial Partners Wins ThinkAdvisor Luminaries Award for Innovation in Retirement Income"
+date = "2025-01-16T08:05:19Z"
+draft = false
+summary = "DPL Financial Partners has been awarded the ThinkAdvisor Luminaries award for its innovative contributions to making annuities more accessible and transparent for registered investment advisors and their clients."
+description = "DPL Financial Partners receives prestigious ThinkAdvisor Luminaries Award for their groundbreaking work in revolutionizing annuities and enhancing retirement planning solutions for advisors and clients. Learn more about their innovative approach to secure income and technology-driven solutions."
+source_link = "https://www.24-7pressrelease.com/press-release/518169/dpl-financial-partners-wins-thinkadvisor-luminaries-award-for-innovation-in-retirement-income"
+enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
+article_id = 91323
+feed_item_id = 10126
+url = "/202501/91323-dpl-financial-partners-wins-thinkadvisor-luminaries-award-for-innovation-in-retirement-income"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/251/16/quitlRfJ.webp"
+source = "24-7 Press Release"
++++
+
+<p>DPL Financial Partners has been recognized with a ThinkAdvisor Luminaries award in the Retirement Income Firm Award – Innovation category, acknowledging its pivotal role in revolutionizing the annuity market for registered investment advisors (RIAs). This accolade underscores DPL's dedication to enhancing the accessibility and transparency of annuities for financial advisors and their clientele. David Lau, the founder and CEO of DPL, highlighted the importance of annuities in retirement planning, noting the historical challenges posed by their complex commissioned structures and lack of technological integration.</p><p>The ThinkAdvisor Luminaries Award, celebrating its fourth year, honors those who are setting new standards of excellence in the financial services sector. DPL's innovative strategies in altering the industry's view on the use of annuities by fiduciary advisors were particularly commended. A cornerstone of DPL's achievement is its Breakaway Accelerator Program, designed to assist advisors in moving client annuity assets into an advisory framework. Additionally, DPL has introduced proprietary tools and technologies that seamlessly integrate with top wealth management platforms, thereby broadening the accessibility of annuities across various advisory models.</p><p>This recognition marks the second occasion DPL has been honored by the Luminaries Awards, following David Lau's receipt of an executive leadership award in 2021. The award reflects DPL's unwavering commitment to offering low-cost, commission-free annuities that enhance the long-term retirement financial strategies of clients. Through its comprehensive educational programs and technological advancements, DPL is leading the charge in establishing annuities as fundamental elements of holistic financial planning, providing both advisors and consumers with more adaptable and clear retirement income options.</p>

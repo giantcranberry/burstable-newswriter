@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/market-alert-dariohealth-receives-3-p
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-2.jpg"
 article_id = 84878
 feed_item_id = 14303
-url = "/news/202505/84878-dariohealths-strategic-pivot-and-growth-potential-captivates-financial-analysts"
+url = "/202505/84878-dariohealths-strategic-pivot-and-growth-potential-captivates-financial-analysts"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/255/19/cooltl35.webp"
 source = "News Direct"
 +++

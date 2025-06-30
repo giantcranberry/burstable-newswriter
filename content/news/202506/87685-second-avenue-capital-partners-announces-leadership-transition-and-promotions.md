@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703131/second-avenue-capital-partn
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 87685
 feed_item_id = 15216
-url = "/news/202506/87685-second-avenue-capital-partners-announces-leadership-transition-and-promotions"
+url = "/202506/87685-second-avenue-capital-partners-announces-leadership-transition-and-promotions"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/5/joltqX7f.webp"
 source = "citybiz"
 +++

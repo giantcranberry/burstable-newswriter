@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/522308/foreign-aff
 enclosure = "https://cdn.newsramp.app/banners/local-regional-2.jpg"
 article_id = 85420
 feed_item_id = 13614
-url = "/news/202504/85420-foreign-affairs-auto-a-benchmark-for-european-auto-repair-excellence-in-west-palm-beach"
+url = "/202504/85420-foreign-affairs-auto-a-benchmark-for-european-auto-repair-excellence-in-west-palm-beach"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/30/knobe1Hb.webp"
 source = "24-7 Press Release"
 +++

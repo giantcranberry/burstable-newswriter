@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523205/shala-hormo
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 84362
 feed_item_id = 14634
-url = "/news/202505/84362-shala-hormone-health-launches-innovative-affiliate-program-to-empower-women-in-wellness"
+url = "/202505/84362-shala-hormone-health-launches-innovative-affiliate-program-to-empower-women-in-wellness"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/255/27/veilxpqg.webp"
 source = "24-7 Press Release"
 +++
