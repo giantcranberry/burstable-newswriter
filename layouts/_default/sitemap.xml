@@ -1,48 +1,65 @@
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- $posts := where .Site.RegularPages "Section" "news" -}}
+{{- $postsByMonth := dict -}}
+
+{{- /* Group posts by year-month based on URL */ -}}
+{{- range $posts -}}
+  {{- $yearMonth := "" -}}
+  {{- if .Params.url -}}
+    {{- $urlParts := split .Params.url "/" -}}
+    {{- if gt (len $urlParts) 1 -}}
+      {{- $potentialYearMonth := index $urlParts 1 -}}
+      {{- if and (eq (len $potentialYearMonth) 6) (strings.HasPrefix $potentialYearMonth "20") -}}
+        {{- $yearMonth = $potentialYearMonth -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Fallback to date-based grouping if URL doesn't contain YYYYMM */ -}}
+  {{- if not $yearMonth -}}
+    {{- $year := .Date.Format "2006" -}}
+    {{- $month := .Date.Format "01" -}}
+    {{- $yearMonth = printf "%s%s" $year $month -}}
+  {{- end -}}
+  
+  {{- $existing := index $postsByMonth $yearMonth -}}
+  {{- if $existing -}}
+    {{- $postsByMonth = merge $postsByMonth (dict $yearMonth ($existing | append .)) -}}
+  {{- else -}}
+    {{- $postsByMonth = merge $postsByMonth (dict $yearMonth (slice .)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Generate individual monthly sitemap files using resources - silent operations */ -}}
+{{- range $yearMonth, $monthPosts := $postsByMonth -}}
+  {{- $sitemapContent := printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n" -}}
+  {{- range $monthPosts -}}
+    {{- $sitemapContent = printf "%s  <url>\n    <loc>%s</loc>\n    <lastmod>%s</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n" $sitemapContent .Permalink (.Date.Format "2006-01-02") -}}
+  {{- end -}}
+  {{- $sitemapContent = printf "%s</urlset>" $sitemapContent -}}
+  {{- $resource := $sitemapContent | resources.FromString (printf "sitemaps/%s.xml" $yearMonth) -}}
+  {{- $_ := $resource.Publish -}}
+{{- end -}}
+
+{{- /* Generate pages sitemap - silent operation */ -}}
+{{- $pagesContent := printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n" -}}
+{{- $pagesContent = printf "%s  <url>\n    <loc>%s</loc>\n    <lastmod>%s</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n" $pagesContent .Site.BaseURL (now.Format "2006-01-02") -}}
+{{- $pagesContent = printf "%s  <url>\n    <loc>%scontact/</loc>\n    <lastmod>%s</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n" $pagesContent .Site.BaseURL (now.Format "2006-01-02") -}}
+{{- $pagesContent = printf "%s</urlset>" $pagesContent -}}
+{{- $pagesResource := $pagesContent | resources.FromString "sitemaps/pages.xml" -}}
+{{- $_ := $pagesResource.Publish -}}
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {{- $posts := where .Site.RegularPages "Section" "news" }}
-  {{- $postsByMonth := dict }}
-
-  {{- /* Group posts by year-month based on URL */ -}}
-  {{- range $posts }}
-    {{- $yearMonth := "" }}
-    {{- if .Params.url }}
-      {{- $urlParts := split .Params.url "/" }}
-      {{- if gt (len $urlParts) 1 }}
-        {{- $potentialYearMonth := index $urlParts 1 }}
-        {{- if and (eq (len $potentialYearMonth) 6) (strings.HasPrefix $potentialYearMonth "20") }}
-          {{- $yearMonth = $potentialYearMonth }}
-        {{- end }}
-      {{- end }}
-    {{- end }}
-    
-    {{- /* Fallback to date-based grouping if URL doesn't contain YYYYMM */ -}}
-    {{- if not $yearMonth }}
-      {{- $year := .Date.Format "2006" }}
-      {{- $month := .Date.Format "01" }}
-      {{- $yearMonth = printf "%s%s" $year $month }}
-    {{- end }}
-    
-    {{- $existing := index $postsByMonth $yearMonth }}
-    {{- if $existing }}
-      {{- $postsByMonth = merge $postsByMonth (dict $yearMonth ($existing | append .)) }}
-    {{- else }}
-      {{- $postsByMonth = merge $postsByMonth (dict $yearMonth (slice .)) }}
-    {{- end }}
-  {{- end }}
-
-  {{- /* Generate sitemap entries for each month */ -}}
-  {{- range $yearMonth, $monthPosts := $postsByMonth }}
-    {{- $latestPost := index (sort $monthPosts "Date" "desc") 0 }}
+{{- range $yearMonth, $monthPosts := $postsByMonth }}
+  {{- $latestPost := index (sort $monthPosts "Date" "desc") 0 }}
   <sitemap>
-    <loc>{{ $.Site.BaseURL }}/sitemaps/{{ $yearMonth }}.xml</loc>
+    <loc>{{ $.Site.BaseURL }}sitemaps/{{ $yearMonth }}.xml</loc>
     <lastmod>{{ $latestPost.Date.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
   </sitemap>
-  {{- end }}
+{{- end }}
 
   <!-- Main pages sitemap -->
   <sitemap>
-    <loc>{{ $.Site.BaseURL }}/sitemaps/pages.xml</loc>
+    <loc>{{ $.Site.BaseURL }}sitemaps/pages.xml</loc>
     <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
   </sitemap>
 </sitemapindex>
