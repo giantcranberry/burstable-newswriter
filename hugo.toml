@@ -1,10 +1,9 @@
-baseURL = "https://newswriter.ai"
+baseURL = "https://newswriter.ai/news"
 languageCode = 'en-us'
 title = 'Newswriter Business and Technology News'
 theme = 'newsjockey-hugo'
 disablePathToLower = false
 removePathAccents = false
-author = 'Newswriter Staff'
 uglyURLs = false
 canonifyURLs = true
 
@@ -14,7 +13,7 @@ canonifyURLs = true
 
 [params]
   description = "Newswriter.ai Curated Business and Technology News"
-  author = "Newswriter Staff"
+  author = 'Newswriter Staff'
   mainSections = ["news"]
   newsSection = ""
 
