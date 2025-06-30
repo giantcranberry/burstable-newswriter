@@ -1,4 +1,4 @@
-baseURL = "https://newswriter.ai"
+baseURL = "https://newswriter.ai/news"
 languageCode = 'en-us'
 title = 'Newswriter Business and Technology News'
 theme = 'newsjockey-hugo'
