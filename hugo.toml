@@ -1,43 +1,56 @@
 baseURL = "https://newswriter.ai"
-languageCde = 'en-us'
+languageCode = 'en-us'
 title = 'Newswriter Business and Technology News'
 theme = 'newsjockey-hugo'
+disablePathToLower = false
+removePathAccents = false
+author = 'Newswriter Staff'
+uglyURLs = false
+canonifyURLs = true
+
+# IMPORTANT: Comment out or remove permalink configuration to allow frontmatter URL control
+# [permalinks]
+#   news = "/:year:month/:slug/"
 
 [params]
   description = "Newswriter.ai Curated Business and Technology News"
   author = "Newswriter Staff"
+  mainSections = ["news"]
+  newsSection = ""
 
-  
 [menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "News"
-    url = "/news/"
+    name = "Articles"
+    url = "/"
     weight = 2
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 3
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-# Disable default sitemap generation
-disableKinds = ["sitemap"]
-
+# Custom output formats for sitemaps
 [outputFormats]
   [outputFormats.sitemap]
     mediaType = "application/xml"
     baseName = "sitemap"
     isPlainText = true
-    protocol = "xml://"
 
 [outputs]
-  home = ["HTML"]
-  section = ["HTML", "sitemap"]
-  page = ["HTML", "sitemap"]
+  home = ["HTML", "sitemap"]
+  section = ["HTML"]
+  page = ["HTML"]
+
+# Sitemap configuration
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.8
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

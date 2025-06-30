@@ -1,0 +1,48 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- $posts := where .Site.RegularPages "Section" "news" }}
+  {{- $postsByMonth := dict }}
+
+  {{- /* Group posts by year-month based on URL */ -}}
+  {{- range $posts }}
+    {{- $yearMonth := "" }}
+    {{- if .Params.url }}
+      {{- $urlParts := split .Params.url "/" }}
+      {{- if gt (len $urlParts) 1 }}
+        {{- $potentialYearMonth := index $urlParts 1 }}
+        {{- if and (eq (len $potentialYearMonth) 6) (strings.HasPrefix $potentialYearMonth "20") }}
+          {{- $yearMonth = $potentialYearMonth }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    
+    {{- /* Fallback to date-based grouping if URL doesn't contain YYYYMM */ -}}
+    {{- if not $yearMonth }}
+      {{- $year := .Date.Format "2006" }}
+      {{- $month := .Date.Format "01" }}
+      {{- $yearMonth = printf "%s%s" $year $month }}
+    {{- end }}
+    
+    {{- $existing := index $postsByMonth $yearMonth }}
+    {{- if $existing }}
+      {{- $postsByMonth = merge $postsByMonth (dict $yearMonth ($existing | append .)) }}
+    {{- else }}
+      {{- $postsByMonth = merge $postsByMonth (dict $yearMonth (slice .)) }}
+    {{- end }}
+  {{- end }}
+
+  {{- /* Generate sitemap entries for each month */ -}}
+  {{- range $yearMonth, $monthPosts := $postsByMonth }}
+    {{- $latestPost := index (sort $monthPosts "Date" "desc") 0 }}
+  <sitemap>
+    <loc>{{ $.Site.BaseURL }}/sitemaps/{{ $yearMonth }}.xml</loc>
+    <lastmod>{{ $latestPost.Date.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  {{- end }}
+
+  <!-- Main pages sitemap -->
+  <sitemap>
+    <loc>{{ $.Site.BaseURL }}/sitemaps/pages.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+</sitemapindex>
