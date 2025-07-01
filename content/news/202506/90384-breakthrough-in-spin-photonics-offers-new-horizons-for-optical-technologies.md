@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523920/dispersion-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/da4e1663e02479af834562dd04581442.png"
 article_id = 90384
 feed_item_id = 15826
-url = "/202506/90384-breakthrough-in-spin-photonics-offers-new-horizons-for-optical-technologies"
+url = "/news/202506/90384-breakthrough-in-spin-photonics-offers-new-horizons-for-optical-technologies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/boldLxne.webp"
 source = "24-7 Press Release"
 +++

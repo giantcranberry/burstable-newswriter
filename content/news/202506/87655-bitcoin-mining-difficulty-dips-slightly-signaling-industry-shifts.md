@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/the-difficulty-of-mining
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/4e0687627eb0189b9675907258f3ad95.png"
 article_id = 87655
 feed_item_id = 15931
-url = "/202506/87655-bitcoin-mining-difficulty-dips-slightly-signaling-industry-shifts"
+url = "/news/202506/87655-bitcoin-mining-difficulty-dips-slightly-signaling-industry-shifts"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/bendVLr4.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

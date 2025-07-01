@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524066/elite-eleva
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/bd89ca9d733de382f0bf2173e76071c9.png"
 article_id = 90367
 feed_item_id = 15987
-url = "/202506/90367-elite-elevators-india-launches-x300-indias-first-ce-certified-gearless-home-elevator"
+url = "/news/202506/90367-elite-elevators-india-launches-x300-indias-first-ce-certified-gearless-home-elevator"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/openWy3C.webp"
 source = "24-7 Press Release"
 +++

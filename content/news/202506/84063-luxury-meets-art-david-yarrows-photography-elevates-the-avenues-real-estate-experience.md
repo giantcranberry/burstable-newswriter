@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/705756/lions-and-tigers-models-and
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/bb04cd019ba143bb3a659aaf6f4a84f3.jpg"
 article_id = 84063
 feed_item_id = 15548
-url = "/202506/84063-luxury-meets-art-david-yarrows-photography-elevates-the-avenues-real-estate-experience"
+url = "/news/202506/84063-luxury-meets-art-david-yarrows-photography-elevates-the-avenues-real-estate-experience"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/bakerRlT.webp"
 source = "citybiz"
 +++

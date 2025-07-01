@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/704239/qa-with-joseph-powell-princ
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3372bd797d3fe9c1c18432ba2afb0284.jpg"
 article_id = 84068
 feed_item_id = 15530
-url = "/202506/84068-joseph-h-powell-blending-pragmatism-with-innovation-in-architecture"
+url = "/news/202506/84068-joseph-h-powell-blending-pragmatism-with-innovation-in-architecture"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/lunah8Gf.webp"
 source = "citybiz"
 +++

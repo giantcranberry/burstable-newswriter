@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524381/art-in-the-
 enclosure = "https://cdn.newsramp.app/genai/images/256/28/a187ce8ebdcdf197077f6d0bfc19ee36.png"
 article_id = 90290
 feed_item_id = 16271
-url = "/202506/90290-opulands-landscape-design-construction-transforms-bay-area-outdoor-spaces-into-immersive-art-galleries"
+url = "/news/202506/90290-opulands-landscape-design-construction-transforms-bay-area-outdoor-spaces-into-immersive-art-galleries"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/28/loftNsOS.webp"
 source = "24-7 Press Release"
 +++

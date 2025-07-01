@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-drivin
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84034
 feed_item_id = 15635
-url = "/202506/84034-massimo-group-strategically-positions-itself-in-the-expanding-powersports-and-recreational-watercraft-markets"
+url = "/news/202506/84034-massimo-group-strategically-positions-itself-in-the-expanding-powersports-and-recreational-watercraft-markets"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/evenGS9o.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

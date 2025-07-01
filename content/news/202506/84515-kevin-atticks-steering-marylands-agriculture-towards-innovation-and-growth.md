@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701626/david-nevins-interviews-kev
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/068e9231df65c1a6e2766a75a4443ec1.jpg"
 article_id = 84515
 feed_item_id = 15537
-url = "/202506/84515-kevin-atticks-steering-marylands-agriculture-towards-innovation-and-growth"
+url = "/news/202506/84515-kevin-atticks-steering-marylands-agriculture-towards-innovation-and-growth"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/joinhE9s.webp"
 source = "citybiz"
 +++

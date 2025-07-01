@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/weekly-inflows-into-cryp
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/0a2492085e48299d2d930a710299b0b7.png"
 article_id = 87656
 feed_item_id = 15932
-url = "/202506/87656-cryptocurrency-investment-products-see-19-billion-inflows-amid-market-resilience"
+url = "/news/202506/87656-cryptocurrency-investment-products-see-19-billion-inflows-amid-market-resilience"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/elletdHH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

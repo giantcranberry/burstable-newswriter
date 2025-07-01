@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/american-battery-materials-announces-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/3b2fe03da50c6a0aae5891cef3f6187a.png"
 article_id = 85091
 feed_item_id = 15834
-url = "/202506/85091-american-battery-materials-expands-to-magnesium-recovery-in-utahs-paradox-basin"
+url = "/news/202506/85091-american-battery-materials-expands-to-magnesium-recovery-in-utahs-paradox-basin"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/smogE6h7.webp"
 source = "News Direct"
 +++

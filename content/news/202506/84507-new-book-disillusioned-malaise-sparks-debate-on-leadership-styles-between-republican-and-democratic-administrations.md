@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523761/author-mich
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-3.jpg"
 article_id = 84507
 feed_item_id = 15558
-url = "/202506/84507-new-book-disillusioned-malaise-sparks-debate-on-leadership-styles-between-republican-and-democratic-administrations"
+url = "/news/202506/84507-new-book-disillusioned-malaise-sparks-debate-on-leadership-styles-between-republican-and-democratic-administrations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/rainp9Mo.webp"
 source = "24-7 Press Release"
 +++

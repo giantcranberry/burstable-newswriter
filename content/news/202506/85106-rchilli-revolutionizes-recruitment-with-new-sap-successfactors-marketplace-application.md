@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506121542/rchilli-launches-applicat
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 85106
 feed_item_id = 15590
-url = "/202506/85106-rchilli-revolutionizes-recruitment-with-new-sap-successfactors-marketplace-application"
+url = "/news/202506/85106-rchilli-revolutionizes-recruitment-with-new-sap-successfactors-marketplace-application"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/12/corninXH.webp"
 source = "Newsworthy.ai"
 +++

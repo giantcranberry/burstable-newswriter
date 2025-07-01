@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-s-bmp-ai-platform-ex
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/d8c564a6bd38943cec412f6fd0454af9.png"
 article_id = 90336
 feed_item_id = 16118
-url = "/202506/90336-neuralbase-ai-launches-pilot-program-with-dubai-restaurants-to-revolutionize-service-industry-with-ai-chatbots"
+url = "/news/202506/90336-neuralbase-ai-launches-pilot-program-with-dubai-restaurants-to-revolutionize-service-industry-with-ai-chatbots"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/25/nora64Pq.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/rankulate-launches-to-help-businesses
 enclosure = "https://cdn.newsramp.app/banners/startup-news-2.jpg"
 article_id = 90307
 feed_item_id = 16209
-url = "/202506/90307-rankulate-launches-to-streamline-seo-strategies-for-businesses"
+url = "/news/202506/90307-rankulate-launches-to-streamline-seo-strategies-for-businesses"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/camcAnIS.webp"
 source = "News Direct"
 +++

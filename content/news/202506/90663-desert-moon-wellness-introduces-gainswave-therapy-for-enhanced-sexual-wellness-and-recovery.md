@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/desert-moon-wellness-introduces-gainsw
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/9f823fd75cceebf8f49cdd0a45432ac7.jpg"
 article_id = 90663
 feed_item_id = 16265
-url = "/202506/90663-desert-moon-wellness-introduces-gainswave-therapy-for-enhanced-sexual-wellness-and-recovery"
+url = "/news/202506/90663-desert-moon-wellness-introduces-gainswave-therapy-for-enhanced-sexual-wellness-and-recovery"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/28/fineH9ma.webp"
 source = "Press Services"
 +++

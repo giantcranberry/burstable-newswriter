@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708720/avery-points-predictable-co
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/bb739d020bd3e7c946b6cf3ff3100cfc.png"
 article_id = 85068
 feed_item_id = 15890
-url = "/202506/85068-erickson-senior-livings-innovative-model-redefines-retirement-comfort-and-financial-security"
+url = "/news/202506/85068-erickson-senior-livings-innovative-model-redefines-retirement-comfort-and-financial-security"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/silkXP3x.webp"
 source = "citybiz"
 +++

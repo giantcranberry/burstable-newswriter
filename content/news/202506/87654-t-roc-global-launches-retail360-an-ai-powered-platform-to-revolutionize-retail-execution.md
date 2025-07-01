@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/t-roc-global-s-retail360-ushers
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/58dba5bd7012c2d9099aaa7a13f834c4.png"
 article_id = 87654
 feed_item_id = 15934
-url = "/202506/87654-t-roc-global-launches-retail360-an-ai-powered-platform-to-revolutionize-retail-execution"
+url = "/news/202506/87654-t-roc-global-launches-retail360-an-ai-powered-platform-to-revolutionize-retail-execution"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/20/rushJfhq.webp"
 source = "NewMediaWire"
 +++

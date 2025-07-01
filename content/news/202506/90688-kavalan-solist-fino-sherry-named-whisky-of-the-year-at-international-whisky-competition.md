@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524219/kavalan-win
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/90d1bff43e25a1b560ae4704270d7aab.png"
 article_id = 90688
 feed_item_id = 16103
-url = "/202506/90688-kavalan-solist-fino-sherry-named-whisky-of-the-year-at-international-whisky-competition"
+url = "/news/202506/90688-kavalan-solist-fino-sherry-named-whisky-of-the-year-at-international-whisky-competition"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/pintFvdK.webp"
 source = "24-7 Press Release"
 +++

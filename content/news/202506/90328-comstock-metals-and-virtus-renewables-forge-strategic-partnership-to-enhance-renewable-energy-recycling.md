@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-channe
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/f327d485bf0aaeba1d1d070d9e0d10c2.png"
 article_id = 90328
 feed_item_id = 16141
-url = "/202506/90328-comstock-metals-and-virtus-renewables-forge-strategic-partnership-to-enhance-renewable-energy-recycling"
+url = "/news/202506/90328-comstock-metals-and-virtus-renewables-forge-strategic-partnership-to-enhance-renewable-energy-recycling"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/urgeSOmE.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

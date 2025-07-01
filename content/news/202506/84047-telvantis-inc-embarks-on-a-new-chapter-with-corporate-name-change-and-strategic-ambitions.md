@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/rdar-announces-filing-of-corpor
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84047
 feed_item_id = 15607
-url = "/202506/84047-telvantis-inc-embarks-on-a-new-chapter-with-corporate-name-change-and-strategic-ambitions"
+url = "/news/202506/84047-telvantis-inc-embarks-on-a-new-chapter-with-corporate-name-change-and-strategic-ambitions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/13/ponddWAj.webp"
 source = "NewMediaWire"
 +++

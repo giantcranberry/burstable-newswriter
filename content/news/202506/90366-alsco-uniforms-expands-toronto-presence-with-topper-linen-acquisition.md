@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524099/alsco-unifo
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/04799840e0a1cab972efcf9714d4ba91.png"
 article_id = 90366
 feed_item_id = 15986
-url = "/202506/90366-alsco-uniforms-expands-toronto-presence-with-topper-linen-acquisition"
+url = "/news/202506/90366-alsco-uniforms-expands-toronto-presence-with-topper-linen-acquisition"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/yawn17hm.webp"
 source = "24-7 Press Release"
 +++

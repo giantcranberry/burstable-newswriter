@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-brera-
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/69f0e4a168a608bcb3e2019eed1a1210.png"
 article_id = 90373
 feed_item_id = 15954
-url = "/202506/90373-brera-holdings-plc-advances-global-football-strategy-with-strategic-acquisition-and-innovative-broadcasting"
+url = "/news/202506/90373-brera-holdings-plc-advances-global-football-strategy-with-strategic-acquisition-and-innovative-broadcasting"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/cornYRQO.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

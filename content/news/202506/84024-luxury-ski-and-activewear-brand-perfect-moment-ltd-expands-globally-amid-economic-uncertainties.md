@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/beyond-the-slopes-perfect-momen
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/84e05ac58298b288a2248b8cb9cd8fd7.png"
 article_id = 84024
 feed_item_id = 15666
-url = "/202506/84024-luxury-ski-and-activewear-brand-perfect-moment-ltd-expands-globally-amid-economic-uncertainties"
+url = "/news/202506/84024-luxury-ski-and-activewear-brand-perfect-moment-ltd-expands-globally-amid-economic-uncertainties"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/16/icyp1Ue.webp"
 source = "NewMediaWire"
 +++

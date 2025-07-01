@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/701624/david-nevins-interviews-mic
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/240fe03ce2e642b91d147e01e16c0bbd.jpg"
 article_id = 84517
 feed_item_id = 15536
-url = "/202506/84517-from-racetracks-to-storytelling-michelle-st-johns-journey-in-journalism-and-non-fiction-production"
+url = "/news/202506/84517-from-racetracks-to-storytelling-michelle-st-johns-journey-in-journalism-and-non-fiction-production"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/eachAeMs.webp"
 source = "citybiz"
 +++

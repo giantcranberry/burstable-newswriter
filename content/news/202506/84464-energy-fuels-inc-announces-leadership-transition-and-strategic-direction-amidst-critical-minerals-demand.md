@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/billiondollarbreaks-ener
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84464
 feed_item_id = 15615
-url = "/202506/84464-energy-fuels-inc-announces-leadership-transition-and-strategic-direction-amidst-critical-minerals-demand"
+url = "/news/202506/84464-energy-fuels-inc-announces-leadership-transition-and-strategic-direction-amidst-critical-minerals-demand"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/rushGvsa.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

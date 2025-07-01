@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523752/strategic-g
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84504
 feed_item_id = 15556
-url = "/202506/84504-navigating-negative-google-reviews-a-strategic-approach-for-businesses"
+url = "/news/202506/84504-navigating-negative-google-reviews-a-strategic-approach-for-businesses"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/apexSmVv.webp"
 source = "24-7 Press Release"
 +++

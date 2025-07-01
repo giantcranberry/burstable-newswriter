@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-why-sil
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/9e665d96bb5986990548bbaa0b910e9e.png"
 article_id = 90374
 feed_item_id = 15953
-url = "/202506/90374-silvercorp-metals-inc-strategically-positions-for-sustainable-growth-in-global-mining-sector"
+url = "/news/202506/90374-silvercorp-metals-inc-strategically-positions-for-sustainable-growth-in-global-mining-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/zealhzNX.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

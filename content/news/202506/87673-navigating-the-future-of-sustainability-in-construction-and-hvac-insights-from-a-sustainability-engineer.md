@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/707361/qa-with-jenna-prasad-sustai
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/9e03c2d466e2dc65d744c0b5177b4505.png"
 article_id = 87673
 feed_item_id = 15791
-url = "/202506/87673-navigating-the-future-of-sustainability-in-construction-and-hvac-insights-from-a-sustainability-engineer"
+url = "/news/202506/87673-navigating-the-future-of-sustainability-in-construction-and-hvac-insights-from-a-sustainability-engineer"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/nora_jD_.webp"
 source = "citybiz"
 +++

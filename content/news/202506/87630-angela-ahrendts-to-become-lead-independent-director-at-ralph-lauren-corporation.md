@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709324/ralph-lauren-announces-upda
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/9fdb438591b5d1d0af1623b06befc160.png"
 article_id = 87630
 feed_item_id = 16009
-url = "/202506/87630-angela-ahrendts-to-become-lead-independent-director-at-ralph-lauren-corporation"
+url = "/news/202506/87630-angela-ahrendts-to-become-lead-independent-director-at-ralph-lauren-corporation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/23/riftK5sd.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/noa-lithium-strikes-critical-water-a-
 enclosure = "https://cdn.newsramp.app/banners/science-3.jpg"
 article_id = 90695
 feed_item_id = 16074
-url = "/202506/90695-noa-lithium-brines-inc-discovers-fresh-water-source-at-rio-grande-project-boosting-lithium-production-prospects"
+url = "/news/202506/90695-noa-lithium-brines-inc-discovers-fresh-water-source-at-rio-grande-project-boosting-lithium-production-prospects"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/lushziBA.webp"
 source = "News Direct"
 +++

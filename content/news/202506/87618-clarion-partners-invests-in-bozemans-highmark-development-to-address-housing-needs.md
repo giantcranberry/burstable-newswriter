@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/clarion-partners-makes-first-investme
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/6f150869e3bce4336d29dd4014d62909.jpg"
 article_id = 87618
 feed_item_id = 16042
-url = "/202506/87618-clarion-partners-invests-in-bozemans-highmark-development-to-address-housing-needs"
+url = "/news/202506/87618-clarion-partners-invests-in-bozemans-highmark-development-to-address-housing-needs"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/23/hushHwKI.webp"
 source = "News Direct"
 +++

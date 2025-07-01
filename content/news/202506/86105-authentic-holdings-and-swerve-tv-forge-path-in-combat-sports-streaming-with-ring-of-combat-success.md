@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-authentic-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/2a982535a40150c3384d1bc27417b24a.png"
 article_id = 86105
 feed_item_id = 15870
-url = "/202506/86105-authentic-holdings-and-swerve-tv-forge-path-in-combat-sports-streaming-with-ring-of-combat-success"
+url = "/news/202506/86105-authentic-holdings-and-swerve-tv-forge-path-in-combat-sports-streaming-with-ring-of-combat-success"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/mendsQka.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

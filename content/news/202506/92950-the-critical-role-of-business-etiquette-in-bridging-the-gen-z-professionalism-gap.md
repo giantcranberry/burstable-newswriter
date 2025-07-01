@@ -1,0 +1,16 @@
++++
+title = "The Critical Role of Business Etiquette in Bridging the Gen Z Professionalism Gap"
+date = "2025-06-18T06:10:48Z"
+draft = false
+summary = "As the workforce evolves post-pandemic, the importance of business etiquette and soft skills for Gen Z professionals becomes increasingly evident, with National Business Etiquette Week highlighting strategies for bridging this gap."
+description = "Pamela Eyring discusses the importance of business etiquette for Gen Z's workforce success, offering solutions for professionals and organizations during National Business Etiquette Week."
+source_link = "https://www.citybiz.co/article/706849/qa-with-pamela-eyring-psow-president-for-national-business-etiquette-week/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/18/c828599957773ac5468aacfa6b4de53b.png"
+article_id = 92950
+feed_item_id = 15794
+url = "/news/202506/92950-the-critical-role-of-business-etiquette-in-bridging-the-gen-z-professionalism-gap"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/rushJKhV.webp"
+source = "citybiz"
++++
+
+<p>The global business landscape is witnessing a significant shift as Gen Z enters the workforce, bringing with it the challenges of a professionalism gap exacerbated by the pandemic. Pamela Eyring, president and owner of The Protocol School of Washington, underscores the indispensable role of business etiquette in shaping the success of new professionals. The transition to remote work and learning environments has left many young professionals without the crucial soft skills necessary for negotiating, networking, and public speaking, making them less attractive to potential employers.</p><p>A Gartner report reveals that nearly 50% of Gen Z employees feel the pandemic has hindered their educational and career aspirations. This sentiment is echoed by hiring managers who cite underdeveloped soft skills as a major concern. National Business Etiquette Week, scheduled from June 9-15, 2025, serves as a pivotal moment to address these challenges, emphasizing the need for early talent to acquire the competencies required for professional success and effective organizational representation.</p><p>Eyring proposes actionable strategies for organizations to mitigate this gap, including the integration of etiquette into onboarding processes, mentorship programs, and formal training initiatives. For young professionals, adopting an observant and inquisitive approach, prioritizing professionalism, honing networking skills, and adhering to digital etiquette are vital steps toward enhancing their professional demeanor. Eyring challenges the notion that soft skills are merely common sense, advocating instead for their recognition as 'power skills' essential for fostering communication, collaboration, and client relationships.</p><p>This focus on business etiquette and soft skills development is not just about individual advancement but about ensuring the readiness of the emerging workforce to meet the demands of a rapidly changing professional environment. National Business Etiquette Week offers a timely opportunity for both organizations and young professionals to invest in these foundational skills, paving the way for a more competent and confident generation of leaders.</p>

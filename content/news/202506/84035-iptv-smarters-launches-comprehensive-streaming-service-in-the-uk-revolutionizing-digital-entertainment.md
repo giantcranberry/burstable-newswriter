@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/iptv-smarters-announces-launch-of-com
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84035
 feed_item_id = 15634
-url = "/202506/84035-iptv-smarters-launches-comprehensive-streaming-service-in-the-uk-revolutionizing-digital-entertainment"
+url = "/news/202506/84035-iptv-smarters-launches-comprehensive-streaming-service-in-the-uk-revolutionizing-digital-entertainment"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/13/zesteHKY.webp"
 source = "News Direct"
 +++

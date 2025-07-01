@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/verizon-americas-most-reliable-5
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/b0543f1a2113e10c59b0530c12ad9b0c.png"
 article_id = 90347
 feed_item_id = 16085
-url = "/202506/90347-verizon-revolutionizes-customer-service-with-ai-powered-innovations"
+url = "/news/202506/90347-verizon-revolutionizes-customer-service-with-ai-powered-innovations"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/256/24/jadeMzO7.webp"
 source = "Noticias Newswire"
 +++

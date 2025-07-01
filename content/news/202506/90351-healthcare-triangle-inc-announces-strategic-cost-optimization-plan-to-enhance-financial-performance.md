@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-inc-nasdaq-
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/b4956d701b9354b9924729cf1f045970.png"
 article_id = 90351
 feed_item_id = 16072
-url = "/202506/90351-healthcare-triangle-inc-announces-strategic-cost-optimization-plan-to-enhance-financial-performance"
+url = "/news/202506/90351-healthcare-triangle-inc-announces-strategic-cost-optimization-plan-to-enhance-financial-performance"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/24/flaxCfRd.webp"
 source = "NewMediaWire"
 +++

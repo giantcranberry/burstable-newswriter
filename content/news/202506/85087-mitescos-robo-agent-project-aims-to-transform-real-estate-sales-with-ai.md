@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/mitesco-advances-on-robo-agent-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/8e6f934135ff16f103afe4a352bcd46d.png"
 article_id = 85087
 feed_item_id = 15845
-url = "/202506/85087-mitescos-robo-agent-project-aims-to-transform-real-estate-sales-with-ai"
+url = "/news/202506/85087-mitescos-robo-agent-project-aims-to-transform-real-estate-sales-with-ai"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/18/zestwTlf.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-blusky-ai-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/41baca40aa56d2126eb0e6592e5c3f8a.png"
 article_id = 84001
 feed_item_id = 15783
-url = "/202506/84001-blusky-ai-inc-elevates-market-position-with-transition-to-otcid-tier"
+url = "/news/202506/84001-blusky-ai-inc-elevates-market-position-with-transition-to-otcid-tier"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/tint4Cjy.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

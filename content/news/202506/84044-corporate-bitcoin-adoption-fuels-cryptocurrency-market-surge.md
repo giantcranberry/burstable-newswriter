@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/bitcoin-american-crypto-
 enclosure = "https://cdn.newsramp.app/banners/crypto-blockchain-3.jpg"
 article_id = 84044
 feed_item_id = 15611
-url = "/202506/84044-corporate-bitcoin-adoption-fuels-cryptocurrency-market-surge"
+url = "/news/202506/84044-corporate-bitcoin-adoption-fuels-cryptocurrency-market-surge"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/mielmi8C.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

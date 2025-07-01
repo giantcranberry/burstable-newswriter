@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523987/roonyx-ceo-
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/4d5a327ab5a74366fffde344faa5681f.png"
 article_id = 86104
 feed_item_id = 15898
-url = "/202506/86104-roonyx-ceo-highlights-fintech-innovations-and-strategic-expansion-at-istanbul-fintech-week-2025"
+url = "/news/202506/86104-roonyx-ceo-highlights-fintech-innovations-and-strategic-expansion-at-istanbul-fintech-week-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/19/blurKESx.webp"
 source = "24-7 Press Release"
 +++

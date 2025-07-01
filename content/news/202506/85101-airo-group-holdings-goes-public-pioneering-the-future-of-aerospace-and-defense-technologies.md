@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/706809/qa-with-dr-chirinjeev-kathu
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/c090df5a6d272857dc1ee62d0bed89d4.png"
 article_id = 85101
 feed_item_id = 15795
-url = "/202506/85101-airo-group-holdings-goes-public-pioneering-the-future-of-aerospace-and-defense-technologies"
+url = "/news/202506/85101-airo-group-holdings-goes-public-pioneering-the-future-of-aerospace-and-defense-technologies"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/wallCfyK.webp"
 source = "citybiz"
 +++

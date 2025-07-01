@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-heartb
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/758bb84b138ab13a4195274a4438182e.png"
 article_id = 86109
 feed_item_id = 15853
-url = "/202506/86109-heartbeam-inc-advances-digital-cardiac-care-with-new-us-patents"
+url = "/news/202506/86109-heartbeam-inc-advances-digital-cardiac-care-with-new-us-patents"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/navyBMxP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

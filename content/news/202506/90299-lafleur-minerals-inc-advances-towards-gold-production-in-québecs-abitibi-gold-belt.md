@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-lafleu
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/bfe3a8366052c15cb19ae03beb2cec04.png"
 article_id = 90299
 feed_item_id = 16242
-url = "/202506/90299-lafleur-minerals-inc-advances-towards-gold-production-in-québecs-abitibi-gold-belt"
+url = "/news/202506/90299-lafleur-minerals-inc-advances-towards-gold-production-in-québecs-abitibi-gold-belt"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/miel8DLW.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

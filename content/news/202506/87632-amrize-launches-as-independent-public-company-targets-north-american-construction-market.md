@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709372/amrize-debuts-as-independen
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/ec6385a6fe4f915ea745662ca8ef8f2d.png"
 article_id = 87632
 feed_item_id = 16007
-url = "/202506/87632-amrize-launches-as-independent-public-company-targets-north-american-construction-market"
+url = "/news/202506/87632-amrize-launches-as-independent-public-company-targets-north-american-construction-market"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/23/rainL5fO.webp"
 source = "citybiz"
 +++

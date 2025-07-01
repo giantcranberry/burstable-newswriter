@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524094/william-ste
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/3f87fbff9c91291ee7f4730f13dd050d.png"
 article_id = 90370
 feed_item_id = 15972
-url = "/202506/90370-cardiff-revolutionizes-small-business-financing-with-speed-and-transparency"
+url = "/news/202506/90370-cardiff-revolutionizes-small-business-financing-with-speed-and-transparency"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/21/hint6UwI.webp"
 source = "24-7 Press Release"
 +++

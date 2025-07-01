@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-drivin
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84437
 feed_item_id = 15638
-url = "/202506/84437-massimo-group-capitalizes-on-powersports-boom-with-strategic-domestic-manufacturing-and-innovation"
+url = "/news/202506/84437-massimo-group-capitalizes-on-powersports-boom-with-strategic-domestic-manufacturing-and-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/paleWUjs.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

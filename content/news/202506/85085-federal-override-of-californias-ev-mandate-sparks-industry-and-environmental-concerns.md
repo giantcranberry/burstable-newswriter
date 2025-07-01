@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/trump-signs-measure-overr
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/beb8011670245871f466ec8019395cbf.png"
 article_id = 85085
 feed_item_id = 15846
-url = "/202506/85085-federal-override-of-californias-ev-mandate-sparks-industry-and-environmental-concerns"
+url = "/news/202506/85085-federal-override-of-californias-ev-mandate-sparks-industry-and-environmental-concerns"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/sageHn_M.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

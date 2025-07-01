@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-platinum-grou
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/8aba1c5c061adce31015fc7ed8f10524.png"
 article_id = 90303
 feed_item_id = 16221
-url = "/202506/90303-platinum-group-metals-ltd-capitalizes-on-surging-pgm-prices-with-strategic-waterberg-project"
+url = "/news/202506/90303-platinum-group-metals-ltd-capitalizes-on-surging-pgm-prices-with-strategic-waterberg-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/tintNP3L.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

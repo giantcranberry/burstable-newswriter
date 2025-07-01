@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524095/syvantis-te
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/0535e52de86edc987a740bff69362e42.png"
 article_id = 87636
 feed_item_id = 15989
-url = "/202506/87636-syvantis-technologies-inc-recognized-on-incs-2025-best-workplaces-list"
+url = "/news/202506/87636-syvantis-technologies-inc-recognized-on-incs-2025-best-workplaces-list"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/ulna2Pj_.webp"
 source = "24-7 Press Release"
 +++

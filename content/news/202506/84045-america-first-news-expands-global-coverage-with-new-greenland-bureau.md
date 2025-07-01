@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/america-first-news-expands-global-cov
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 84045
 feed_item_id = 15609
-url = "/202506/84045-america-first-news-expands-global-coverage-with-new-greenland-bureau"
+url = "/news/202506/84045-america-first-news-expands-global-coverage-with-new-greenland-bureau"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/13/riftgyxI.webp"
 source = "News Direct"
 +++

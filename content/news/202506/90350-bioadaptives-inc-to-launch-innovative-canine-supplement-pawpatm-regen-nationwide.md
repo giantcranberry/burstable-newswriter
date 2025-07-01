@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-bioada
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/1cffd1e03d3078764b425178994ba666.png"
 article_id = 90350
 feed_item_id = 16078
-url = "/202506/90350-bioadaptives-inc-to-launch-innovative-canine-supplement-pawpatm-regen-nationwide"
+url = "/news/202506/90350-bioadaptives-inc-to-launch-innovative-canine-supplement-pawpatm-regen-nationwide"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/roam_9II.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

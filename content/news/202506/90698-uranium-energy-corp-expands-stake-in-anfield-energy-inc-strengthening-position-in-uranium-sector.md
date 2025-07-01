@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-uraniu
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/8ddf354abfbf43c94838ab0959493d8c.png"
 article_id = 90698
 feed_item_id = 16032
-url = "/202506/90698-uranium-energy-corp-expands-stake-in-anfield-energy-inc-strengthening-position-in-uranium-sector"
+url = "/news/202506/90698-uranium-energy-corp-expands-stake-in-anfield-energy-inc-strengthening-position-in-uranium-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/diveNg6C.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

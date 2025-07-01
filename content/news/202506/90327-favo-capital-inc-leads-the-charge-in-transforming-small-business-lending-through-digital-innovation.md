@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-favo-c
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/6c2d73d9d3a5cec17f4679aa30800d64.png"
 article_id = 90327
 feed_item_id = 16142
-url = "/202506/90327-favo-capital-inc-leads-the-charge-in-transforming-small-business-lending-through-digital-innovation"
+url = "/news/202506/90327-favo-capital-inc-leads-the-charge-in-transforming-small-business-lending-through-digital-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/fond7XjQ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

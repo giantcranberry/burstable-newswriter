@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709182/walmart-and-cole-hauers-fre
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/2b79907f29d54939c59ad9272db83225.jpg"
 article_id = 87645
 feed_item_id = 15964
-url = "/202506/87645-walmart-and-free-rein-coffee-honor-veterans-and-spotlight-us-manufacturing-commitment"
+url = "/news/202506/87645-walmart-and-free-rein-coffee-honor-veterans-and-spotlight-us-manufacturing-commitment"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/barnmsTj.webp"
 source = "citybiz"
 +++

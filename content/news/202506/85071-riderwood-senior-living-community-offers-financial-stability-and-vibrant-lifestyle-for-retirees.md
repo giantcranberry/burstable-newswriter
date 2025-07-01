@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708741/at-riderwood-predictable-co
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/918f79fab39c8fa640c6cdf2404985ac.png"
 article_id = 85071
 feed_item_id = 15885
-url = "/202506/85071-riderwood-senior-living-community-offers-financial-stability-and-vibrant-lifestyle-for-retirees"
+url = "/news/202506/85071-riderwood-senior-living-community-offers-financial-stability-and-vibrant-lifestyle-for-retirees"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/hushmtnN.webp"
 source = "citybiz"
 +++

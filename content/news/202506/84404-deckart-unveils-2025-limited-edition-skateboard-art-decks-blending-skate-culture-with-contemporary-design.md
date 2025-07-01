@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/deckart-launches-striking-new-collect
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/43aad46b9e0735d8ace285347e779c36.png"
 article_id = 84404
 feed_item_id = 15705
-url = "/202506/84404-deckart-unveils-2025-limited-edition-skateboard-art-decks-blending-skate-culture-with-contemporary-design"
+url = "/news/202506/84404-deckart-unveils-2025-limited-edition-skateboard-art-decks-blending-skate-culture-with-contemporary-design"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/17/yawnQf5L.webp"
 source = "News Direct"
 +++

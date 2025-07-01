@@ -1,0 +1,16 @@
++++
+title = "Trillion Energy International Inc. Settles Debt with Share Issuance to Management and Consultants"
+date = "2025-06-30T13:20:34Z"
+draft = false
+summary = "Trillion Energy International Inc. has strategically settled $386,295.42 in debt by issuing 7,725,908 common shares to its directors, officers, and consultants, highlighting a prudent financial management approach within regulatory frameworks."
+description = "Trillion Energy issues shares to settle debt, focusing on oil and gas in Europe and Türkiye. Learn more about their strategy and market impact."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-trillion-energy-international-inc-cse-tcf-otcqb-trlef-settles-386k-debt-with-share-issuance-to-insiders-and-consultants/"
+enclosure = "https://cdn.newsramp.app/genai/images/256/30/d9613208e2130450281019633e5b8451.png"
+article_id = 93067
+feed_item_id = 16297
+url = "/news/202506/93067-trillion-energy-international-inc-settles-debt-with-share-issuance-to-management-and-consultants"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/30/dualybLZ.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Trillion Energy International Inc. (CSE: TCF) (OTCQB: TRLEF) has taken a significant step in managing its financial obligations by settling $386,295.42 in debt through the issuance of 7,725,908 common shares at $0.05 per share. This transaction, which includes a related-party component involving the issuance of 3.9 million shares to management, was conducted under the exemptions provided by MI 61-101, given the transaction's value does not exceed 25% of the company's market capitalization. The shares issued are subject to a standard four-month-plus-one-day hold period, in compliance with Canadian securities law.</p><p>This strategic move by Trillion Energy International Inc. not only addresses its immediate financial liabilities but also reflects its commitment to maintaining a strong relationship with its directors, officers, and consultants. By opting for share issuance as a method of debt settlement, the company demonstrates a forward-looking approach to financial management, ensuring it remains agile in the competitive and volatile energy sector. Trillion Energy, with its focus on oil and natural gas production in Europe and Türkiye, continues to explore opportunities and tackle challenges in the global energy market.</p><p>The implications of this announcement are multifaceted. For the company, it represents a balanced approach to debt management and stakeholder engagement. For the industry, it underscores the importance of innovative financial strategies in sustaining operations and fostering growth. For investors and market watchers, this development offers insights into Trillion Energy's financial health and strategic priorities, potentially influencing investment decisions. Further details on this transaction can be found on the company's profile at <a href='https://ibn.fm/Vttps' rel='nofollow' target='_blank'>https://ibn.fm/Vttps</a>.</p>

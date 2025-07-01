@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/lafleur-minerals-inc-cse
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/4960391a1610a0d3eb4cf5bb3d6845f6.png"
 article_id = 84005
 feed_item_id = 15762
-url = "/202506/84005-lafleur-minerals-inc-positions-itself-as-a-key-player-in-the-abitibi-gold-belt"
+url = "/news/202506/84005-lafleur-minerals-inc-positions-itself-as-a-key-player-in-the-abitibi-gold-belt"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/smog1APt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

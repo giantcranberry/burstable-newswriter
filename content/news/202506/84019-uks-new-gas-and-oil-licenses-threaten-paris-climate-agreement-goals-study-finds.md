@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tg/scientists-say-proposed-n
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/2c5a38a5fd2a4a5e5059c92eb160c182.png"
 article_id = 84019
 feed_item_id = 15683
-url = "/202506/84019-uks-new-gas-and-oil-licenses-threaten-paris-climate-agreement-goals-study-finds"
+url = "/news/202506/84019-uks-new-gas-and-oil-licenses-threaten-paris-climate-agreement-goals-study-finds"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/urgews9D.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

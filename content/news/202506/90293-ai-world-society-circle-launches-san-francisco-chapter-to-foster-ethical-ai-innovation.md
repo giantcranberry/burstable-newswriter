@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/ai-world-society-circle-p
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/230d660ced57a84fc92a24393d50f9b0.png"
 article_id = 90293
 feed_item_id = 16259
-url = "/202506/90293-ai-world-society-circle-launches-san-francisco-chapter-to-foster-ethical-ai-innovation"
+url = "/news/202506/90293-ai-world-society-circle-launches-san-francisco-chapter-to-foster-ethical-ai-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/wall66S2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/favo-capital-inc-favo-ali
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 84458
 feed_item_id = 15627
-url = "/202506/84458-favo-capital-secures-8-million-investment-to-bridge-the-smb-credit-gap-and-accelerate-nasdaq-uplisting"
+url = "/news/202506/84458-favo-capital-secures-8-million-investment-to-bridge-the-smb-credit-gap-and-accelerate-nasdaq-uplisting"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/filoyyL8.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

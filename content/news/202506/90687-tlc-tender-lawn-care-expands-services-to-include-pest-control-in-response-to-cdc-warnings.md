@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524170/tlc-tender-
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/79f05ff8f90a62b21cb48ad84f64349e.png"
 article_id = 90687
 feed_item_id = 16109
-url = "/202506/90687-tlc-tender-lawn-care-expands-services-to-include-pest-control-in-response-to-cdc-warnings"
+url = "/news/202506/90687-tlc-tender-lawn-care-expands-services-to-include-pest-control-in-response-to-cdc-warnings"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/chef90dL.webp"
 source = "24-7 Press Release"
 +++

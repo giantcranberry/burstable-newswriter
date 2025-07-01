@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/amazon-anticipates-layi
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/c68500e2ecab91863386321fa30107c3.png"
 article_id = 90675
 feed_item_id = 16195
-url = "/202506/90675-amazon-considers-workforce-reduction-as-ai-capabilities-expand"
+url = "/news/202506/90675-amazon-considers-workforce-reduction-as-ai-capabilities-expand"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/volt5FtZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

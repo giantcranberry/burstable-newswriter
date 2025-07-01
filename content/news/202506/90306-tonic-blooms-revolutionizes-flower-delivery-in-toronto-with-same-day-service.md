@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/tonic-blooms-introduces-flower-delive
 enclosure = "https://cdn.newsramp.app/banners/retail-1.jpg"
 article_id = 90306
 feed_item_id = 16211
-url = "/202506/90306-tonic-blooms-revolutionizes-flower-delivery-in-toronto-with-same-day-service"
+url = "/news/202506/90306-tonic-blooms-revolutionizes-flower-delivery-in-toronto-with-same-day-service"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/envy3Rjl.webp"
 source = "News Direct"
 +++

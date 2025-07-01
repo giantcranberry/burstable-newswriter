@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/gold-holds-steady-as-ded
 enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
 article_id = 84491
 feed_item_id = 15573
-url = "/202506/84491-precious-metals-market-dynamics-gold-steadies-as-silver-and-palladium-reach-decade-highs-amid-dedollarization-trend"
+url = "/news/202506/84491-precious-metals-market-dynamics-gold-steadies-as-silver-and-palladium-reach-decade-highs-amid-dedollarization-trend"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/12/icyMo1p.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/british-firm-gets-approv
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/fbfd128b18eaba9605b13dba0787bccf.png"
 article_id = 87651
 feed_item_id = 15951
-url = "/202506/87651-rml-groups-varevolt-battery-pack-receives-certification-set-to-revolutionize-ev-market"
+url = "/news/202506/87651-rml-groups-varevolt-battery-pack-receives-certification-set-to-revolutionize-ev-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/keepoNX2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

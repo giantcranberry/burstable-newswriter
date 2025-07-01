@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-datavaul
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/71f9a4af5d827616201694baadae5a04.png"
 article_id = 84008
 feed_item_id = 15751
-url = "/202506/84008-datavault-ai-and-brookhaven-national-laboratory-pioneer-ai-driven-biofuel-crop-optimization"
+url = "/news/202506/84008-datavault-ai-and-brookhaven-national-laboratory-pioneer-ai-driven-biofuel-crop-optimization"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/glue8k8e.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

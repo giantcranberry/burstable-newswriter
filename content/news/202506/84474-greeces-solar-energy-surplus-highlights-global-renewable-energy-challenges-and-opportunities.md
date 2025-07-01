@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/sunny-greece-grapples-wi
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 84474
 feed_item_id = 15612
-url = "/202506/84474-greeces-solar-energy-surplus-highlights-global-renewable-energy-challenges-and-opportunities"
+url = "/news/202506/84474-greeces-solar-energy-surplus-highlights-global-renewable-energy-challenges-and-opportunities"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/glee0fqO.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

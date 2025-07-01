@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523729/prefabricat
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84060
 feed_item_id = 15553
-url = "/202506/84060-prefabricated-steel-structures-revolutionizing-the-global-construction-industry"
+url = "/news/202506/84060-prefabricated-steel-structures-revolutionizing-the-global-construction-industry"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/pintCtK9.webp"
 source = "24-7 Press Release"
 +++

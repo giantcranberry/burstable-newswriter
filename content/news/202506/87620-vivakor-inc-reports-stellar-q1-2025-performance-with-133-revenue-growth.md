@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/vivakor-inc-nasdaq-vivk-a
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/50d6f4a4f18d697ae7839496c87fd697.png"
 article_id = 87620
 feed_item_id = 16040
-url = "/202506/87620-vivakor-inc-reports-stellar-q1-2025-performance-with-133-revenue-growth"
+url = "/news/202506/87620-vivakor-inc-reports-stellar-q1-2025-performance-with-133-revenue-growth"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/pinel5tg.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

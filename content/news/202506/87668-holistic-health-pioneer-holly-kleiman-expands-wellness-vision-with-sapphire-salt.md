@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523969/marquis-who
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/f94f325f0b15fbcd265c4476e4c3a8fd.png"
 article_id = 87668
 feed_item_id = 15821
-url = "/202506/87668-holistic-health-pioneer-holly-kleiman-expands-wellness-vision-with-sapphire-salt"
+url = "/news/202506/87668-holistic-health-pioneer-holly-kleiman-expands-wellness-vision-with-sapphire-salt"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/benduX8n.webp"
 source = "24-7 Press Release"
 +++

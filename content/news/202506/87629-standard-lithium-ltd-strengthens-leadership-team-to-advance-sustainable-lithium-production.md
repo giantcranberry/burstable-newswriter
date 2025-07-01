@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-standa
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/8f9cca4da7fbe0700b62618fe4a20f7f.png"
 article_id = 87629
 feed_item_id = 16013
-url = "/202506/87629-standard-lithium-ltd-strengthens-leadership-team-to-advance-sustainable-lithium-production"
+url = "/news/202506/87629-standard-lithium-ltd-strengthens-leadership-team-to-advance-sustainable-lithium-production"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/ninaxYQF.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

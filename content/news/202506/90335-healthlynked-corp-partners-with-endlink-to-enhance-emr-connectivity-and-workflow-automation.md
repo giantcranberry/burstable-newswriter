@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-healthl
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/9e3845f792ed19959f448e52a22f67f5.png"
 article_id = 90335
 feed_item_id = 16125
-url = "/202506/90335-healthlynked-corp-partners-with-endlink-to-enhance-emr-connectivity-and-workflow-automation"
+url = "/news/202506/90335-healthlynked-corp-partners-with-endlink-to-enhance-emr-connectivity-and-workflow-automation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/flaxJERz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

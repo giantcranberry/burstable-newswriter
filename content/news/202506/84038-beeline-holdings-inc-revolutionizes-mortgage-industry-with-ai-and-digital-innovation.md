@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-why-beel
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-3.jpg"
 article_id = 84038
 feed_item_id = 15630
-url = "/202506/84038-beeline-holdings-inc-revolutionizes-mortgage-industry-with-ai-and-digital-innovation"
+url = "/news/202506/84038-beeline-holdings-inc-revolutionizes-mortgage-industry-with-ai-and-digital-innovation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/13/maskzeSC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

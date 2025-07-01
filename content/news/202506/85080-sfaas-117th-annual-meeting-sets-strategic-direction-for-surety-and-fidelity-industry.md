@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/sfaa-members-elect-board-leadership-o
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/f14b260301f09eda8881eb384c37f6d4.png"
 article_id = 85080
 feed_item_id = 15866
-url = "/202506/85080-sfaas-117th-annual-meeting-sets-strategic-direction-for-surety-and-fidelity-industry"
+url = "/news/202506/85080-sfaas-117th-annual-meeting-sets-strategic-direction-for-surety-and-fidelity-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/numbcTwD.webp"
 source = "News Direct"
 +++

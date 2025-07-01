@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/consolidated-credit-highlights-misuse
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/d7b3f7434d85d51484fc76a150ac8bb1.png"
 article_id = 90380
 feed_item_id = 15914
-url = "/202506/90380-survey-reveals-hispanic-families-struggle-with-credit-card-debt-amid-financial-literacy-gap"
+url = "/news/202506/90380-survey-reveals-hispanic-families-struggle-with-credit-card-debt-amid-financial-literacy-gap"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/19/evenejHX.webp"
 source = "News Direct"
 +++

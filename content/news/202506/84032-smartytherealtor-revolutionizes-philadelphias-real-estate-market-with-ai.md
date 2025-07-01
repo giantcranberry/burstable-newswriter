@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/revolutionizing-real-estate-sales-with
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/9c430a265a1126af920c3c89585715a7.jpg"
 article_id = 84032
 feed_item_id = 15647
-url = "/202506/84032-smartytherealtor-revolutionizes-philadelphias-real-estate-market-with-ai"
+url = "/news/202506/84032-smartytherealtor-revolutionizes-philadelphias-real-estate-market-with-ai"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/15/mielcUUH.webp"
 source = "Press Services"
 +++

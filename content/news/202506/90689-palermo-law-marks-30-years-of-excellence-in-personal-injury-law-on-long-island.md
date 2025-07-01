@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524189/palermo-law
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/30a96c766d87b91f08e080a39e938f5d.png"
 article_id = 90689
 feed_item_id = 16104
-url = "/202506/90689-palermo-law-marks-30-years-of-excellence-in-personal-injury-law-on-long-island"
+url = "/news/202506/90689-palermo-law-marks-30-years-of-excellence-in-personal-injury-law-on-long-island"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/gainDcex.webp"
 source = "24-7 Press Release"
 +++

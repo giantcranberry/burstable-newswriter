@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/gms-electric-vehicle-sal
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/5a8e0e041541c1a438b18dd5fa45ebcb.png"
 article_id = 90673
 feed_item_id = 16197
-url = "/202506/90673-gm-nears-milestone-in-us-ev-market-challenging-teslas-dominance"
+url = "/news/202506/90673-gm-nears-milestone-in-us-ev-market-challenging-teslas-dominance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/kiwi6Vm2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

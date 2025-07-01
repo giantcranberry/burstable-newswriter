@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-ibn-na
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/15f6bad570e02d492b0457161e7da431.png"
 article_id = 87624
 feed_item_id = 16030
-url = "/202506/87624-ibn-named-media-partner-for-3rd-annual-ai-world-week-shaping-the-future-of-innovation-and-investment"
+url = "/news/202506/87624-ibn-named-media-partner-for-3rd-annual-ai-world-week-shaping-the-future-of-innovation-and-investment"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/rubyx6P7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

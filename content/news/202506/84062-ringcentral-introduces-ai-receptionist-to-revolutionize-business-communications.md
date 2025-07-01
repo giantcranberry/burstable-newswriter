@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/705770/ringcentral-ai-receptionist
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 84062
 feed_item_id = 15549
-url = "/202506/84062-ringcentral-introduces-ai-receptionist-to-revolutionize-business-communications"
+url = "/news/202506/84062-ringcentral-introduces-ai-receptionist-to-revolutionize-business-communications"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/linesr3e.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-skyx-pla
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/321987b46c1288dbd3a276ca955df360.png"
 article_id = 90700
 feed_item_id = 16021
-url = "/202506/90700-skyx-platforms-corp-announces-surge-in-demand-for-innovative-smart-ceiling-fan-and-heater"
+url = "/news/202506/90700-skyx-platforms-corp-announces-surge-in-demand-for-innovative-smart-ceiling-fan-and-heater"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/hike61o6.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

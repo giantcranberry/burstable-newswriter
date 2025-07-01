@@ -8,7 +8,7 @@ source_link = "https://chemify.reportablenews.com/pr/chemify-launches-the-world-
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f32f0a7f617d4344917af618c402ffb0.png"
 article_id = 90377
 feed_item_id = 15926
-url = "/202506/90377-chemify-launches-worlds-first-ai-driven-chemputation-facility-in-glasgow"
+url = "/news/202506/90377-chemify-launches-worlds-first-ai-driven-chemputation-facility-in-glasgow"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/20/noraY6mo.webp"
 source = "Reportable"
 +++

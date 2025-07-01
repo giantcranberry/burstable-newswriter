@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524212/verdigris-t
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/0360cc5ab9765c8f7e50e15f4c4dad8c.png"
 article_id = 90341
 feed_item_id = 16106
-url = "/202506/90341-verdigris-technologies-and-energyhub-360-forge-strategic-partnership-to-revolutionize-energy-management-in-commercial-real-estate"
+url = "/news/202506/90341-verdigris-technologies-and-energyhub-360-forge-strategic-partnership-to-revolutionize-energy-management-in-commercial-real-estate"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/beanTWcH.webp"
 source = "24-7 Press Release"
 +++

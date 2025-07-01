@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523980/garveecom-h
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/9b442c3b6c71813f8f93358c5cd4d806.png"
 article_id = 90709
 feed_item_id = 15895
-url = "/202506/90709-garveecom-highlights-energy-star-certified-air-conditioners-for-summer-cooling-needs"
+url = "/news/202506/90709-garveecom-highlights-energy-star-certified-air-conditioners-for-summer-cooling-needs"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/19/pinklWGj.webp"
 source = "24-7 Press Release"
 +++

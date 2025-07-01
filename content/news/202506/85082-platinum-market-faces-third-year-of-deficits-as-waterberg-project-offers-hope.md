@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/platinum-group-metals-lt
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/5db8d5c057eb89c598eba7d903ff784d.png"
 article_id = 85082
 feed_item_id = 15864
-url = "/202506/85082-platinum-market-faces-third-year-of-deficits-as-waterberg-project-offers-hope"
+url = "/news/202506/85082-platinum-market-faces-third-year-of-deficits-as-waterberg-project-offers-hope"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/wamcR_Ej.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524228/us-sourcing
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/bd6ce9fd2dc2e7be3f56cdffedc92c22.png"
 article_id = 90319
 feed_item_id = 16172
-url = "/202506/90319-us-businesses-turn-to-india-for-cnc-machining-solutions-to-diversify-supply-chains"
+url = "/news/202506/90319-us-businesses-turn-to-india-for-cnc-machining-solutions-to-diversify-supply-chains"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/26/epicBFUN.webp"
 source = "24-7 Press Release"
 +++

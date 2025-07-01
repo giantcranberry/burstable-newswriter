@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524236/lake-tahoe-
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/15dd3cd4b18b0457fa60277c0f5f781b.png"
 article_id = 90682
 feed_item_id = 16135
-url = "/202506/90682-lake-tahoe-boating-tragedy-highlights-need-for-enhanced-safety-measures"
+url = "/news/202506/90682-lake-tahoe-boating-tragedy-highlights-need-for-enhanced-safety-measures"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/rendFPD0.webp"
 source = "24-7 Press Release"
 +++

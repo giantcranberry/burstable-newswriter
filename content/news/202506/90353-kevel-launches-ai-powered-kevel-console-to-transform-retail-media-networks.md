@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/kevel-unveils-kevel-console-a-new-ai-
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 90353
 feed_item_id = 16068
-url = "/202506/90353-kevel-launches-ai-powered-kevel-console-to-transform-retail-media-networks"
+url = "/news/202506/90353-kevel-launches-ai-powered-kevel-console-to-transform-retail-media-networks"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/goldFsno.webp"
 source = "News Direct"
 +++

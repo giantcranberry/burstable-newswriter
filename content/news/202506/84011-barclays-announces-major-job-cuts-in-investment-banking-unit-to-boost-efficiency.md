@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/barclays-to-slash-over-2
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/8c453c4fb9993b488aff46bcc236deec.png"
 article_id = 84011
 feed_item_id = 15731
-url = "/202506/84011-barclays-announces-major-job-cuts-in-investment-banking-unit-to-boost-efficiency"
+url = "/news/202506/84011-barclays-announces-major-job-cuts-in-investment-banking-unit-to-boost-efficiency"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/dualsRvt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

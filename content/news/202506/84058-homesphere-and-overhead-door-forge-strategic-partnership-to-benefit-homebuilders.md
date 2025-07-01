@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/homesphere-and-overhead-door-announce
 enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-1.jpg"
 article_id = 84058
 feed_item_id = 15562
-url = "/202506/84058-homesphere-and-overhead-door-forge-strategic-partnership-to-benefit-homebuilders"
+url = "/news/202506/84058-homesphere-and-overhead-door-forge-strategic-partnership-to-benefit-homebuilders"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/12/diveviwA.webp"
 source = "News Direct"
 +++

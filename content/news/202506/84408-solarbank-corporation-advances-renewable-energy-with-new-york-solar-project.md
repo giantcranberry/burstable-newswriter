@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-solarban
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/2dc842f4e9fb809a4fe930e2b1634326.png"
 article_id = 84408
 feed_item_id = 15685
-url = "/202506/84408-solarbank-corporation-advances-renewable-energy-with-new-york-solar-project"
+url = "/news/202506/84408-solarbank-corporation-advances-renewable-energy-with-new-york-solar-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/leantNL5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/lezdo-techmed-launches-seamless-medic
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/69d9bc1cdcd5596be72e74aa20b9d4ce.png"
 article_id = 85084
 feed_item_id = 15854
-url = "/202506/85084-lezdo-techmed-introduces-casedrive-a-revolutionary-billing-system-for-medical-record-review-industry"
+url = "/news/202506/85084-lezdo-techmed-introduces-casedrive-a-revolutionary-billing-system-for-medical-record-review-industry"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/flaxaLlB.webp"
 source = "News Direct"
 +++

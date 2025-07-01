@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524017/navee-st3-p
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/dee4d74a052123323a8d8dd0e0061c11.png"
 article_id = 87660
 feed_item_id = 15918
-url = "/202506/87660-navee-st3-pro-electric-scooter-redefining-urban-and-off-road-mobility"
+url = "/news/202506/87660-navee-st3-pro-electric-scooter-redefining-urban-and-off-road-mobility"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/20/icon7BSc.webp"
 source = "24-7 Press Release"
 +++

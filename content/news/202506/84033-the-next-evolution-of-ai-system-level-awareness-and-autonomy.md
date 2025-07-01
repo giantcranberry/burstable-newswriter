@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/andrew-evan-watkins-predicts-the-next
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84033
 feed_item_id = 15646
-url = "/202506/84033-the-next-evolution-of-ai-system-level-awareness-and-autonomy"
+url = "/news/202506/84033-the-next-evolution-of-ai-system-level-awareness-and-autonomy"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/14/plumM7er.webp"
 source = "News Direct"
 +++

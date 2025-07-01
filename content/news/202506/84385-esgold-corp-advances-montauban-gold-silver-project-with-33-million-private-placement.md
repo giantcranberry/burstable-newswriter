@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-esgold-corp-c
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/d2ae36a2bf0f83f2ff5cee4e8d5fa9f5.png"
 article_id = 84385
 feed_item_id = 15750
-url = "/202506/84385-esgold-corp-advances-montauban-gold-silver-project-with-33-million-private-placement"
+url = "/news/202506/84385-esgold-corp-advances-montauban-gold-silver-project-with-33-million-private-placement"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/loss03oC.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

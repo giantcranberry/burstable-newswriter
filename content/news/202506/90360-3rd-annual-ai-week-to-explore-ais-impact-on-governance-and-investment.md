@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/national-press-club-will-
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/a89b9d1abd703df02c3adb87093c6993.png"
 article_id = 90360
 feed_item_id = 16037
-url = "/202506/90360-3rd-annual-ai-week-to-explore-ais-impact-on-governance-and-investment"
+url = "/news/202506/90360-3rd-annual-ai-week-to-explore-ais-impact-on-governance-and-investment"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/chef6b_Z.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

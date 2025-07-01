@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/copper-smelters-face-dou
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/42d0c71aa40f1a1128276c4f68164d4b.png"
 article_id = 90674
 feed_item_id = 16198
-url = "/202506/90674-copper-smelters-face-supply-challenges-as-market-dynamics-shift"
+url = "/news/202506/90674-copper-smelters-face-supply-challenges-as-market-dynamics-shift"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/archuOOM.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

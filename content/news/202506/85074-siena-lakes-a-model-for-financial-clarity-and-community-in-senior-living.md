@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708689/at-siena-lakes-predictable-
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/4b892938a25a75a356765edf791d5201.png"
 article_id = 85074
 feed_item_id = 15884
-url = "/202506/85074-siena-lakes-a-model-for-financial-clarity-and-community-in-senior-living"
+url = "/news/202506/85074-siena-lakes-a-model-for-financial-clarity-and-community-in-senior-living"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/bestpBiC.webp"
 source = "citybiz"
 +++

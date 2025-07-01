@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/powell-industries-inc-nas
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/07f6b9edbe0cc9f6bf49384f0437bcf1.png"
 article_id = 90696
 feed_item_id = 16036
-url = "/202506/90696-powell-industries-showcases-innovative-electrical-solutions-at-roths-15th-annual-london-conference"
+url = "/news/202506/90696-powell-industries-showcases-innovative-electrical-solutions-at-roths-15th-annual-london-conference"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/moonGRva.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

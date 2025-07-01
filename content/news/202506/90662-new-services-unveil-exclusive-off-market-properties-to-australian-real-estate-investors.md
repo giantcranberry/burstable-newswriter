@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/unlock-exclusive-off-market-real-estat
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/660dde6567d024f3f445ce2d6d48dcf2.jpg"
 article_id = 90662
 feed_item_id = 16266
-url = "/202506/90662-new-services-unveil-exclusive-off-market-properties-to-australian-real-estate-investors"
+url = "/news/202506/90662-new-services-unveil-exclusive-off-market-properties-to-australian-real-estate-investors"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/28/calmsI3i.webp"
 source = "Press Services"
 +++

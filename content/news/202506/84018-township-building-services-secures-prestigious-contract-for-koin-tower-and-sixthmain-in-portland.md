@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523874/township-wi
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/4e1590fd9b5234206949210d8a68c72b.png"
 article_id = 84018
 feed_item_id = 15697
-url = "/202506/84018-township-building-services-secures-prestigious-contract-for-koin-tower-and-sixthmain-in-portland"
+url = "/news/202506/84018-township-building-services-secures-prestigious-contract-for-koin-tower-and-sixthmain-in-portland"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/17/clubP2zw.webp"
 source = "24-7 Press Release"
 +++

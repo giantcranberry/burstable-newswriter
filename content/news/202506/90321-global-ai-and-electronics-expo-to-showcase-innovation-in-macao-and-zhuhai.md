@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/first-global-smart-machinery-and-elec
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/63a479b5e924e6a0af9e2066875098b6.jpg"
 article_id = 90321
 feed_item_id = 16157
-url = "/202506/90321-global-ai-and-electronics-expo-to-showcase-innovation-in-macao-and-zhuhai"
+url = "/news/202506/90321-global-ai-and-electronics-expo-to-showcase-innovation-in-macao-and-zhuhai"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/mild2hyY.webp"
 source = "News Direct"
 +++

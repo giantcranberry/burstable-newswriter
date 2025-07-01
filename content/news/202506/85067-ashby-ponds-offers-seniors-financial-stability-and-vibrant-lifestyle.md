@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708717/ashby-ponds-predictable-cos
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/e921bb0a0a4f7b99d12053812ce9b061.png"
 article_id = 85067
 feed_item_id = 15889
-url = "/202506/85067-ashby-ponds-offers-seniors-financial-stability-and-vibrant-lifestyle"
+url = "/news/202506/85067-ashby-ponds-offers-seniors-financial-stability-and-vibrant-lifestyle"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/elle9i6h.webp"
 source = "citybiz"
 +++

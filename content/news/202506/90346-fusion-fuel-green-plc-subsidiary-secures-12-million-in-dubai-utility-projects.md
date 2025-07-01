@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-fusion
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/45c30e7c43bf54be7bae53338db9b60a.png"
 article_id = 90346
 feed_item_id = 16086
-url = "/202506/90346-fusion-fuel-green-plc-subsidiary-secures-12-million-in-dubai-utility-projects"
+url = "/news/202506/90346-fusion-fuel-green-plc-subsidiary-secures-12-million-in-dubai-utility-projects"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/cool6tk3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

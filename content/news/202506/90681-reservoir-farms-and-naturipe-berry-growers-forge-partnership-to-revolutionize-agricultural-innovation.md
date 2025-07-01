@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/the-reservoir-and-naturipe-berry-grow
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/fcc0fd16de711a85209aa1ea8a51400f.png"
 article_id = 90681
 feed_item_id = 16137
-url = "/202506/90681-reservoir-farms-and-naturipe-berry-growers-forge-partnership-to-revolutionize-agricultural-innovation"
+url = "/news/202506/90681-reservoir-farms-and-naturipe-berry-growers-forge-partnership-to-revolutionize-agricultural-innovation"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/25/kissq9vG.webp"
 source = "News Direct"
 +++

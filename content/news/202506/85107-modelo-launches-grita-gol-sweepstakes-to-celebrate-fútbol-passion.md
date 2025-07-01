@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/golazo-modelo-stuns-rec-team/"
 enclosure = "https://cdn.newsramp.app/banners/sports-3.jpg"
 article_id = 85107
 feed_item_id = 15576
-url = "/202506/85107-modelo-launches-grita-gol-sweepstakes-to-celebrate-fútbol-passion"
+url = "/news/202506/85107-modelo-launches-grita-gol-sweepstakes-to-celebrate-fútbol-passion"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/256/12/riceKPnM.webp"
 source = "Noticias Newswire"
 +++

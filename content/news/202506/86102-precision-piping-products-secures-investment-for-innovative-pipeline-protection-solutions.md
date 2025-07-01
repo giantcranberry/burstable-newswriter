@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708847/7-seas-capital-co-leads-inv
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/8e5a3ff0e656160346fc3b32cc8d19a7.png"
 article_id = 86102
 feed_item_id = 15903
-url = "/202506/86102-precision-piping-products-secures-investment-for-innovative-pipeline-protection-solutions"
+url = "/news/202506/86102-precision-piping-products-secures-investment-for-innovative-pipeline-protection-solutions"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/bossHsi1.webp"
 source = "citybiz"
 +++

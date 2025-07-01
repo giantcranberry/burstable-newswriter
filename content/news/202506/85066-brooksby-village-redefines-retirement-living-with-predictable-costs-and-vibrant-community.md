@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708727/brooksby-villages-predictab
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/4d2a8aefaff9d5783613f0373d534fd0.png"
 article_id = 85066
 feed_item_id = 15888
-url = "/202506/85066-brooksby-village-redefines-retirement-living-with-predictable-costs-and-vibrant-community"
+url = "/news/202506/85066-brooksby-village-redefines-retirement-living-with-predictable-costs-and-vibrant-community"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/rushpm8m.webp"
 source = "citybiz"
 +++

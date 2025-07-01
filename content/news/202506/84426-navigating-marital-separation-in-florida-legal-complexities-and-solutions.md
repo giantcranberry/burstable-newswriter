@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523807/understandi
 enclosure = "https://cdn.newsramp.app/banners/legal-1.jpg"
 article_id = 84426
 feed_item_id = 15642
-url = "/202506/84426-navigating-marital-separation-in-florida-legal-complexities-and-solutions"
+url = "/news/202506/84426-navigating-marital-separation-in-florida-legal-complexities-and-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/14/icyM8Ax.webp"
 source = "24-7 Press Release"
 +++

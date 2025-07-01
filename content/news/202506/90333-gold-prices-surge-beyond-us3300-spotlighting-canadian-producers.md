@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/near-term-production-ass
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/65dd0dfd19e34f75e2eacb9a8512d273.png"
 article_id = 90333
 feed_item_id = 16128
-url = "/202506/90333-gold-prices-surge-beyond-us3300-spotlighting-canadian-producers"
+url = "/news/202506/90333-gold-prices-surge-beyond-us3300-spotlighting-canadian-producers"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/quitikrt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

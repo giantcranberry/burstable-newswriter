@@ -6,10 +6,9 @@ summary = "Scale Ability emerges as a digital marketing agency specializing in G
 description = "Discover how Scale Ability's innovative digital marketing strategies empower service businesses to achieve sustainable growth through Google Ads and SEO."
 source_link = "https://mediawiretoday.com/new-agency-launches-to-help-service-businesses-succeed-369734"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/d78e05d02be0af3d8e29f16c6b9c08ab.jpg"
-featured = true
 article_id = 90286
 feed_item_id = 16280
-url = "/202506/90286-scale-ability-launches-as-a-digital-marketing-agency-focused-on-service-oriented-businesses"
+url = "/news/202506/90286-scale-ability-launches-as-a-digital-marketing-agency-focused-on-service-oriented-businesses"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/29/frogdm5H.webp"
 source = "Press Services"
 +++

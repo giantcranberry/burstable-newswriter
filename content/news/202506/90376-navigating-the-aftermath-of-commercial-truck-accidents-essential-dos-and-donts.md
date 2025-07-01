@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/critical-commercial-truck-accident-dos
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/e61ab5f8514e069a6015ee3b051bff27.png"
 article_id = 90376
 feed_item_id = 15929
-url = "/202506/90376-navigating-the-aftermath-of-commercial-truck-accidents-essential-dos-and-donts"
+url = "/news/202506/90376-navigating-the-aftermath-of-commercial-truck-accidents-essential-dos-and-donts"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/20/yogazjiX.webp"
 source = "Press Services"
 +++

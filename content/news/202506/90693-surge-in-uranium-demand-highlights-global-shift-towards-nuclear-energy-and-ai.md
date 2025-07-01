@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/uraa-taps-into-rising-uranium-d
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/575ac8ecba5991f63b2e1c15ab773bfb.png"
 article_id = 90693
 feed_item_id = 16076
-url = "/202506/90693-surge-in-uranium-demand-highlights-global-shift-towards-nuclear-energy-and-ai"
+url = "/news/202506/90693-surge-in-uranium-demand-highlights-global-shift-towards-nuclear-energy-and-ai"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/24/bake_BVC.webp"
 source = "NewMediaWire"
 +++

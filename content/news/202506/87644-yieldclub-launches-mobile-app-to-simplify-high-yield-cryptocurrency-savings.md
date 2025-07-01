@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709244/yieldclub-unveils-easy-to-u
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/443c2053313273fe59577184c395b11e.png"
 article_id = 87644
 feed_item_id = 15962
-url = "/202506/87644-yieldclub-launches-mobile-app-to-simplify-high-yield-cryptocurrency-savings"
+url = "/news/202506/87644-yieldclub-launches-mobile-app-to-simplify-high-yield-cryptocurrency-savings"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/ulna25EF.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/onar-holding-corp-onar-w
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/565a1ab100cff78328e12da22f9dd09d.png"
 article_id = 90304
 feed_item_id = 16218
-url = "/202506/90304-onar-holding-corp-pioneers-integrated-ai-and-marketing-strategy-for-middle-market-companies"
+url = "/news/202506/90304-onar-holding-corp-pioneers-integrated-ai-and-marketing-strategy-for-middle-market-companies"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/boldmNcB.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

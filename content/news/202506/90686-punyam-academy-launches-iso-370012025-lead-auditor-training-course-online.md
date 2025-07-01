@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524184/punyam-acad
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/697b2e4621f3340bd81f19f9d0ac4294.png"
 article_id = 90686
 feed_item_id = 16108
-url = "/202506/90686-punyam-academy-launches-iso-370012025-lead-auditor-training-course-online"
+url = "/news/202506/90686-punyam-academy-launches-iso-370012025-lead-auditor-training-course-online"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/fernAUBy.webp"
 source = "24-7 Press Release"
 +++

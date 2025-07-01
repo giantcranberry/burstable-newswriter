@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/dondego-launches-real-time-cultural-g
 enclosure = "https://cdn.newsramp.app/banners/travel-1.jpg"
 article_id = 90352
 feed_item_id = 16069
-url = "/202506/90352-dondego-launches-enhanced-real-time-cultural-guide-for-barcelona"
+url = "/news/202506/90352-dondego-launches-enhanced-real-time-cultural-guide-for-barcelona"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/epicW6q7.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/vertical-iq-and-ignite-sales-partner-
 enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
 article_id = 90316
 feed_item_id = 16179
-url = "/202506/90316-vertical-iq-and-ignite-sales-partner-to-enhance-financial-institutions-industry-intelligence-access"
+url = "/news/202506/90316-vertical-iq-and-ignite-sales-partner-to-enhance-financial-institutions-industry-intelligence-access"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/kisso5L5.webp"
 source = "News Direct"
 +++

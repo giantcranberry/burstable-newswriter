@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/why-renewable-energy-gli
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/391ab3e419fd706be5d54bebb8511409.png"
 article_id = 84389
 feed_item_id = 15738
-url = "/202506/84389-iberian-peninsula-blackout-sparks-debate-on-renewable-energy-reliability"
+url = "/news/202506/84389-iberian-peninsula-blackout-sparks-debate-on-renewable-energy-reliability"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/mintzeqq.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

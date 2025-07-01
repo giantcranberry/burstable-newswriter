@@ -8,7 +8,7 @@ source_link = "https://bioutah-1.reportablenews.com/pr/bioutah-and-utah-s-life-s
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f7f912c523754f1ecc3503abcabcd44a.png"
 article_id = 84467
 feed_item_id = 15614
-url = "/202506/84467-utahs-life-sciences-sector-takes-center-stage-at-bio-international-convention"
+url = "/news/202506/84467-utahs-life-sciences-sector-takes-center-stage-at-bio-international-convention"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/13/wall19jK.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708883/qa-with-brian-carlson-ceo-o
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/e85ee3b7265af52b04a4cef39a5c33a4.png"
 article_id = 90705
 feed_item_id = 15956
-url = "/202506/90705-storytime-ai-revolutionizes-literacy-education-with-generative-ai-platform"
+url = "/news/202506/90705-storytime-ai-revolutionizes-literacy-education-with-generative-ai-platform"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/ideaPofR.webp"
 source = "citybiz"
 +++

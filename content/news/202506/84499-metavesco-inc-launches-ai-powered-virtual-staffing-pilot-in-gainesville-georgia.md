@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/metavesco-s-epic-labor-to-launc
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84499
 feed_item_id = 15570
-url = "/202506/84499-metavesco-inc-launches-ai-powered-virtual-staffing-pilot-in-gainesville-georgia"
+url = "/news/202506/84499-metavesco-inc-launches-ai-powered-virtual-staffing-pilot-in-gainesville-georgia"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/12/lofttLWK.webp"
 source = "NewMediaWire"
 +++

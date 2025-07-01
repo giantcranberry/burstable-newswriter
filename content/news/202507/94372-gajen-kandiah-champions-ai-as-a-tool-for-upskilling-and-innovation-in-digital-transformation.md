@@ -1,0 +1,16 @@
++++
+title = "Gajen Kandiah Champions AI as a Tool for Upskilling and Innovation in Digital Transformation"
+date = "2025-07-01T08:00:38Z"
+draft = false
+summary = "Gajen Kandiah's journey and leadership in digital transformation and AI highlight the importance of upskilling employees and ethical technology use to foster innovation and resilience in the face of change."
+description = "Gajen Kandiah shares his journey from Sri Lanka to leading AI innovation at Hitachi Digital, emphasizing responsible AI and the power of resilience in tech leadership."
+source_link = "https://www.citybiz.co/article/710951/qa-with-gajen-kandiah-global-technology-leader-and-former-president-and-chief-operating-officer-hitachi-digital/"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
+article_id = 94372
+feed_item_id = 16346
+url = "/news/202507/94372-gajen-kandiah-champions-ai-as-a-tool-for-upskilling-and-innovation-in-digital-transformation"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/noonz5uE.webp"
+source = "citybiz"
++++
+
+<p>Gajen Kandiah, a leader in digital transformation and AI, has carved a path from his origins in war-torn Sri Lanka to spearheading global technology initiatives at Hitachi Digital and Cognizant. His leadership, characterized by empathy, decisiveness, and a commitment to innovation, offers valuable insights into the evolving landscape of technology and business.</p><p>Kandiah advocates for a model of AI implementation that prioritizes upskilling employees over replacing them, a stance that challenges conventional approaches to automation. His 12-week 'AI Guilds' initiative exemplifies how technology can augment human capabilities, ensuring inclusivity in the digital era. This approach not only addresses the skills gap but also fosters a culture of continuous learning and adaptation.</p><p>From his experiences at Cognizant and Hitachi, Kandiah shares critical leadership lessons: the strategic importance of investing during economic downturns, empowering those closest to customers, and the necessity of scenario planning. His leadership philosophy emphasizes transparency, active listening, and cultivating a culture of curiosity and ownership, which are essential for building trust and driving innovation within teams.</p><p>Kandiah's personal and professional journey underscores the value of resilience and adaptability. He views every challenge as an opportunity for growth and reinvention, principles that are increasingly relevant in today's fast-paced technological landscape. His focus on ethical AI use and improving lives through technology reflects a broader commitment to ensuring that digital transformation benefits humanity as a whole.</p><p>Currently, Kandiah is exploring the vast potential of AI to revolutionize industries and enhance quality of life. His work serves as a reminder of the importance of guiding technological advancement with ethical considerations and a human-centric approach. For business and technology leaders, Kandiah's insights offer a roadmap for navigating the complexities of digital transformation while fostering innovation and resilience.</p>

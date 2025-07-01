@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506251547/cyprusauction-trading-cen
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/aa23578a5b582ef9de0eff92e5799840.png"
 article_id = 90334
 feed_item_id = 16127
-url = "/202506/90334-cyprusauction-trading-center-enhances-global-cryptocurrency-trading-framework"
+url = "/news/202506/90334-cyprusauction-trading-center-enhances-global-cryptocurrency-trading-framework"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/25/pitapico5dBa.webp"
 source = "Newsworthy.ai"
 +++

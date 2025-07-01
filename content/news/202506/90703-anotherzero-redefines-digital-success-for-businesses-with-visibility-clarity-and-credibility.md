@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/how-anotherzero-solves-the-visibility-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/f1a8060c6f506c1c0b4c31c730de0611.jpg"
 article_id = 90703
 feed_item_id = 15969
-url = "/202506/90703-anotherzero-redefines-digital-success-for-businesses-with-visibility-clarity-and-credibility"
+url = "/news/202506/90703-anotherzero-redefines-digital-success-for-businesses-with-visibility-clarity-and-credibility"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/21/harp3_ue.webp"
 source = "Press Services"
 +++

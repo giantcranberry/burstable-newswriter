@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/bila-solars-indiana-factory-commences
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/22e749e1eeafa5c703d9038999a62144.png"
 article_id = 84028
 feed_item_id = 15661
-url = "/202506/84028-bila-solar-launches-us-production-with-new-indianapolis-factory-boosting-domestic-clean-energy-manufacturing"
+url = "/news/202506/84028-bila-solar-launches-us-production-with-new-indianapolis-factory-boosting-domestic-clean-energy-manufacturing"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/16/noraU6Ub.webp"
 source = "News Direct"
 +++

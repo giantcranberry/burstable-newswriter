@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524013/novapads-un
 enclosure = "https://cdn.newsramp.app/genai/images/256/22/83117e9120bce3b5f12224c53d4394ae.png"
 article_id = 87639
 feed_item_id = 15980
-url = "/202506/87639-novapads-unveils-model-y-mattress-pro-a-game-changer-for-tesla-camping"
+url = "/news/202506/87639-novapads-unveils-model-y-mattress-pro-a-game-changer-for-tesla-camping"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/22/harpyrFs.webp"
 source = "24-7 Press Release"
 +++

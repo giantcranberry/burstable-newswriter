@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523769/her-side-of
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 84051
 feed_item_id = 15586
-url = "/202506/84051-dr-madelyn-blair-honored-with-lifetime-achievement-award-for-pioneering-storytelling-in-organizations"
+url = "/news/202506/84051-dr-madelyn-blair-honored-with-lifetime-achievement-award-for-pioneering-storytelling-in-organizations"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/calm7twp.webp"
 source = "24-7 Press Release"
 +++

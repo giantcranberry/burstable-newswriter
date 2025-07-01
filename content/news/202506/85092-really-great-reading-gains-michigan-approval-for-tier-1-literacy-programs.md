@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708208/really-great-reading-expand
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/495995fae04d1d44203bafcac7dde6e9.png"
 article_id = 85092
 feed_item_id = 15833
-url = "/202506/85092-really-great-reading-gains-michigan-approval-for-tier-1-literacy-programs"
+url = "/news/202506/85092-really-great-reading-gains-michigan-approval-for-tier-1-literacy-programs"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/warpR4Si.webp"
 source = "citybiz"
 +++

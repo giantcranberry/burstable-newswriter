@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/706880/qa-with-john-cassidy-sior-l
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1654b9222121dc7b00a5cc746ce9551b.jpg"
 article_id = 90372
 feed_item_id = 15958
-url = "/202506/90372-lee-associates-of-illinois-thrives-through-culture-and-innovative-compensation"
+url = "/news/202506/90372-lee-associates-of-illinois-thrives-through-culture-and-innovative-compensation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/oval8EER.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-brera-
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/cbc65867be246618f3436e049c5bb20a.png"
 article_id = 90365
 feed_item_id = 16005
-url = "/202506/90365-brera-holdings-plc-acquires-majority-stake-in-italian-serie-b-club-ss-juve-stabia-srl"
+url = "/news/202506/90365-brera-holdings-plc-acquires-majority-stake-in-italian-serie-b-club-ss-juve-stabia-srl"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/noteIIFs.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

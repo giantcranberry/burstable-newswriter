@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/back-to-the-doctors-office-as-telehea
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 90308
 feed_item_id = 16208
-url = "/202506/90308-telehealth-decline-signals-resurgence-of-in-person-medical-visits-and-demand-for-medical-office-space"
+url = "/news/202506/90308-telehealth-decline-signals-resurgence-of-in-person-medical-visits-and-demand-for-medical-office-space"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/ideauYn1.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709129/dot-ai-a-leader-in-asset-in
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/8113d60f43136066ff7c07c5ce47a8a2.png"
 article_id = 90704
 feed_item_id = 15966
-url = "/202506/90704-dot-ai-completes-business-combination-with-shoulderup-technology-acquisition-corp-set-to-trade-on-nasdaq"
+url = "/news/202506/90704-dot-ai-completes-business-combination-with-shoulderup-technology-acquisition-corp-set-to-trade-on-nasdaq"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/lushjpTt.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://evertise.net/natcom-natcash-drives-digital-finance-adopti
 enclosure = "https://cdn.newsramp.app/evertise-ai-pr/newsimage/8c10f27d4387992d2b786d6b17de176f.jpg"
 article_id = 84048
 feed_item_id = 15606
-url = "/202506/84048-natcom-expands-natcash-services-to-enhance-financial-inclusion-in-haiti"
+url = "/news/202506/84048-natcom-expands-natcash-services-to-enhance-financial-inclusion-in-haiti"
 qrcode = "https://cdn.newsramp.app/evertise-ai-pr/qrcode/256/13/keepXQFT.webp"
 source = "Evertise Digital"
 +++

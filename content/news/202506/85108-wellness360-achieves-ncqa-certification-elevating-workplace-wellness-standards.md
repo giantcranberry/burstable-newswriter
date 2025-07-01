@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523745/wellness360
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 85108
 feed_item_id = 15555
-url = "/202506/85108-wellness360-achieves-ncqa-certification-elevating-workplace-wellness-standards"
+url = "/news/202506/85108-wellness360-achieves-ncqa-certification-elevating-workplace-wellness-standards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/12/openPT4r.webp"
 source = "24-7 Press Release"
 +++

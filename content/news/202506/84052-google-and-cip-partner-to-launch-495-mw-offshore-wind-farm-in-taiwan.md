@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/google-teams-up-with-cip
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84052
 feed_item_id = 15585
-url = "/202506/84052-google-and-cip-partner-to-launch-495-mw-offshore-wind-farm-in-taiwan"
+url = "/news/202506/84052-google-and-cip-partner-to-launch-495-mw-offshore-wind-farm-in-taiwan"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/12/poeml3F7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

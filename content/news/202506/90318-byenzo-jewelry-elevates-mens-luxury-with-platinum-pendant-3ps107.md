@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524227/from-seoul-
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/e36c077321a1198bdc16fb5477cd90b8.png"
 article_id = 90318
 feed_item_id = 16171
-url = "/202506/90318-byenzo-jewelry-elevates-mens-luxury-with-platinum-pendant-3ps107"
+url = "/news/202506/90318-byenzo-jewelry-elevates-mens-luxury-with-platinum-pendant-3ps107"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/26/gold4fuA.webp"
 source = "24-7 Press Release"
 +++

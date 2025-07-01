@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/insurers-are-concerned-a
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/90aca076050bf88f824f5acc7ae0d9bf.png"
 article_id = 87626
 feed_item_id = 16025
-url = "/202506/87626-rising-fire-incidents-on-ev-carrying-ships-prompt-insurance-industry-concerns"
+url = "/news/202506/87626-rising-fire-incidents-on-ev-carrying-ships-prompt-insurance-industry-concerns"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/clubxU8K.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

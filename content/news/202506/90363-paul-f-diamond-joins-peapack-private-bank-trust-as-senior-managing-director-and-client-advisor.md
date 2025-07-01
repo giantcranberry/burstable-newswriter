@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/paul-f-diamond-cfa-cfp-joins-th
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/7afc02112aaf0b35ebef9b5100917db6.png"
 article_id = 90363
 feed_item_id = 16017
-url = "/202506/90363-paul-f-diamond-joins-peapack-private-bank-trust-as-senior-managing-director-and-client-advisor"
+url = "/news/202506/90363-paul-f-diamond-joins-peapack-private-bank-trust-as-senior-managing-director-and-client-advisor"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/23/wallBCTt.webp"
 source = "NewMediaWire"
 +++

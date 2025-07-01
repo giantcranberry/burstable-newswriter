@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523858/couplesreha
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/f27f0110e73f3838e9142805d43dae74.png"
 article_id = 84016
 feed_item_id = 15695
-url = "/202506/84016-luxury-rehab-centers-for-couples-now-more-accessible-with-insurance-coverage"
+url = "/news/202506/84016-luxury-rehab-centers-for-couples-now-more-accessible-with-insurance-coverage"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/17/waitO1Ft.webp"
 source = "24-7 Press Release"
 +++

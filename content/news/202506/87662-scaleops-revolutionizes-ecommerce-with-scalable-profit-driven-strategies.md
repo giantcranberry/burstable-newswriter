@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524027/scale-opera
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/19066023f2ce239cc040d0159c1dc2b6.png"
 article_id = 87662
 feed_item_id = 15915
-url = "/202506/87662-scaleops-revolutionizes-ecommerce-with-scalable-profit-driven-strategies"
+url = "/news/202506/87662-scaleops-revolutionizes-ecommerce-with-scalable-profit-driven-strategies"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/20/nukeAa5W.webp"
 source = "24-7 Press Release"
 +++

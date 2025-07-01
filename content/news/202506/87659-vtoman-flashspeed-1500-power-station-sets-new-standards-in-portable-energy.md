@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524016/vtoman-flas
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/fd10917b5070fd63a0167810e7e3d348.png"
 article_id = 87659
 feed_item_id = 15917
-url = "/202506/87659-vtoman-flashspeed-1500-power-station-sets-new-standards-in-portable-energy"
+url = "/news/202506/87659-vtoman-flashspeed-1500-power-station-sets-new-standards-in-portable-energy"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/20/ella_r3V.webp"
 source = "24-7 Press Release"
 +++

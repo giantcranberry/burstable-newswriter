@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524226/garveecom-s
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/ba54221b0ca744500f0f5570208ee8a2.png"
 article_id = 90680
 feed_item_id = 16160
-url = "/202506/90680-garveecom-revolutionizes-ac-purchasing-and-installation-ahead-of-2025-hvac-regulatory-changes"
+url = "/news/202506/90680-garveecom-revolutionizes-ac-purchasing-and-installation-ahead-of-2025-hvac-regulatory-changes"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/26/irisXDhw.webp"
 source = "24-7 Press Release"
 +++

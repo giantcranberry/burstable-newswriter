@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523919/tracking-th
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/654db9c20927793c92a89442893b4893.png"
 article_id = 90383
 feed_item_id = 15825
-url = "/202506/90383-chinas-revolutionary-environmental-monitoring-system-sets-new-global-standard"
+url = "/news/202506/90383-chinas-revolutionary-environmental-monitoring-system-sets-new-global-standard"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/goldaNTh.webp"
 source = "24-7 Press Release"
 +++

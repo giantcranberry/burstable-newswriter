@@ -1,0 +1,16 @@
++++
+title = "Structured Skills Frameworks Key to Unlocking Talent Mobility Potential, Study Finds"
+date = "2025-06-23T12:01:07Z"
+draft = false
+summary = "A recent study highlights the critical role of structured skills frameworks in enhancing internal mobility programs, with only 8% of organizations currently equipped with such frameworks."
+description = "Discover how structured skills frameworks can transform internal mobility programs, improving retention and business outcomes, according to the latest HR Research Institute report."
+source_link = "https://newsworthy.ai/news/202506231544/skills-frameworks-are-key-to-unlocking-talent-mobility-success-study-by-hr-research-institute-in-partnership-with-shl"
+enclosure = "https://cdn.newsramp.app/genai/images/256/23/52b3f96de4f54af304ce810b5dee6bed.png"
+article_id = 94390
+feed_item_id = 15999
+url = "/news/202506/94390-structured-skills-frameworks-key-to-unlocking-talent-mobility-potential-study-finds"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/23/leanCGtI.webp"
+source = "Newsworthy.ai"
++++
+
+<p>A study by the HR Research Institute, in collaboration with SHL, titled 'Talent Mobility Programs 2025,' underscores the importance of structured skills frameworks in maximizing the effectiveness of internal mobility programs. Despite 54% of HR professionals noting improvements in retention and business outcomes from these programs, the absence of a streamlined skills framework significantly limits their potential. Currently, a mere 8% of organizations possess such frameworks, with many facing obstacles like overly complex skill libraries and vague role descriptions.</p><p>The research further indicates that organizations which evaluate both employee skills and job requirements are more successful in aligning individuals with appropriate roles. Nonetheless, more than half of the participants struggle with the translation and measurement of skills using existing frameworks. Key challenges to effective talent mobility include a managerial bias towards external hiring, constrained budgets, and reliance on obsolete technology.</p><p>Debbie McGrath, CEO of HR.com, highlights the integral connection between reskilling initiatives and internal mobility, stressing the importance of a transparent understanding of employee capabilities and job demands for successful implementation. The report advocates for integrating mobility into fundamental talent strategies, educating managers on the benefits of internal progression, adopting scalable technological solutions, and enhancing skills frameworks as crucial measures for organizations to overcome existing hurdles.</p><p>These findings call on HR leaders to focus on developing comprehensive skills frameworks to fully leverage talent mobility as a means to improve retention, foster employee development, and enhance workforce flexibility. The complete report, offering practical recommendations for HR professionals looking to refine their internal mobility approaches, is accessible for free download.</p>

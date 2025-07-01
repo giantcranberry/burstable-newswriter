@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-vision-m
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/3555320a84c314eb8bb4318efc2ccab9.png"
 article_id = 87623
 feed_item_id = 16029
-url = "/202506/87623-vision-marine-technologies-acquires-nautical-ventures-group-pioneering-north-americas-first-combined-electric-boat-propulsion-and-dealership-platform"
+url = "/news/202506/87623-vision-marine-technologies-acquires-nautical-ventures-group-pioneering-north-americas-first-combined-electric-boat-propulsion-and-dealership-platform"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/knobxUaF.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

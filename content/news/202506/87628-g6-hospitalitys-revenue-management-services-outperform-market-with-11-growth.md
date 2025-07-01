@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/g6-hospitalitys-revenue-management-pr
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 87628
 feed_item_id = 16014
-url = "/202506/87628-g6-hospitalitys-revenue-management-services-outperform-market-with-11-growth"
+url = "/news/202506/87628-g6-hospitalitys-revenue-management-services-outperform-market-with-11-growth"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/23/elleg3HV.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524042/ana-miranda
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/d0df1addb6baf629e544447a92b27a70.png"
 article_id = 90706
 feed_item_id = 15912
-url = "/202506/90706-ana-mirandas-phonedemic-sparks-global-conversation-on-device-addiction-and-human-connection"
+url = "/news/202506/90706-ana-mirandas-phonedemic-sparks-global-conversation-on-device-addiction-and-human-connection"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/19/boldgeu3.webp"
 source = "24-7 Press Release"
 +++

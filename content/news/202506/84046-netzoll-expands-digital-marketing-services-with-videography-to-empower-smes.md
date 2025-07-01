@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/netzoll-unveils-new-website-and-expan
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 84046
 feed_item_id = 15608
-url = "/202506/84046-netzoll-expands-digital-marketing-services-with-videography-to-empower-smes"
+url = "/news/202506/84046-netzoll-expands-digital-marketing-services-with-videography-to-empower-smes"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/13/barnanPh.webp"
 source = "News Direct"
 +++

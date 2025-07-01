@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-aegis-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/5b53dbe62e51c711982086da1d5ec97c.png"
 article_id = 86108
 feed_item_id = 15867
-url = "/202506/86108-stardust-power-secures-43-million-in-public-offering-to-advance-lithium-processing-facility"
+url = "/news/202506/86108-stardust-power-secures-43-million-in-public-offering-to-advance-lithium-processing-facility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/ninahUPl.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

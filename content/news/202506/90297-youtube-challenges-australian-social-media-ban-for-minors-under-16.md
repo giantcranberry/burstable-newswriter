@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/youtube-pushes-back-as-a
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/3efe19e2ea09b069049aeba0e9a9d7b4.png"
 article_id = 90297
 feed_item_id = 16247
-url = "/202506/90297-youtube-challenges-australian-social-media-ban-for-minors-under-16"
+url = "/news/202506/90297-youtube-challenges-australian-social-media-ban-for-minors-under-16"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/epicISmL.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

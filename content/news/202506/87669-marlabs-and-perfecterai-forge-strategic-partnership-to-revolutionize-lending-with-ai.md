@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523956/marlabs-and
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/1022ed0765914fdf2f9111fe277f0ad2.png"
 article_id = 87669
 feed_item_id = 15816
-url = "/202506/87669-marlabs-and-perfecterai-forge-strategic-partnership-to-revolutionize-lending-with-ai"
+url = "/news/202506/87669-marlabs-and-perfecterai-forge-strategic-partnership-to-revolutionize-lending-with-ai"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/paveTVtA.webp"
 source = "24-7 Press Release"
 +++

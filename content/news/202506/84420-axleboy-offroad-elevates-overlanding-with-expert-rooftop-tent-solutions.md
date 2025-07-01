@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/choosing-the-right-rooftop-tent-for-re
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/c11abd2aa187ec7cb89836ae71312be2.jpg"
 article_id = 84420
 feed_item_id = 15656
-url = "/202506/84420-axleboy-offroad-elevates-overlanding-with-expert-rooftop-tent-solutions"
+url = "/news/202506/84420-axleboy-offroad-elevates-overlanding-with-expert-rooftop-tent-solutions"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/16/jazzTL4L.webp"
 source = "Press Services"
 +++

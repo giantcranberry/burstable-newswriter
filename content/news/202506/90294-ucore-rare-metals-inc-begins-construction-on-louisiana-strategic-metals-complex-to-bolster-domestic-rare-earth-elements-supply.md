@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/esg/ucore-rare-metals-inc-ts
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/f28f538bfe18add2cbc1b57d56e5d297.png"
 article_id = 90294
 feed_item_id = 16257
-url = "/202506/90294-ucore-rare-metals-inc-begins-construction-on-louisiana-strategic-metals-complex-to-bolster-domestic-rare-earth-elements-supply"
+url = "/news/202506/90294-ucore-rare-metals-inc-begins-construction-on-louisiana-strategic-metals-complex-to-bolster-domestic-rare-earth-elements-supply"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/barnZV06.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

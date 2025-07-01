@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/electric-vehicle-sales-a
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/b0b4b0994b669c8c9a9614d515e5ecb6.png"
 article_id = 84381
 feed_item_id = 15748
-url = "/202506/84381-europes-electric-vehicle-market-shows-signs-of-recovery-amid-challenges"
+url = "/news/202506/84381-europes-electric-vehicle-market-shows-signs-of-recovery-amid-challenges"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/duneNDkb.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

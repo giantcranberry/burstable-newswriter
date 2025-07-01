@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/ford-warns-of-possible-b
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/04eb95aec6e9be9c4c9fee2ac3d40d7b.png"
 article_id = 90331
 feed_item_id = 16131
-url = "/202506/90331-ford-warns-of-job-losses-at-michigan-ev-battery-plant-amid-subsidy-cuts-debate"
+url = "/news/202506/90331-ford-warns-of-job-losses-at-michigan-ev-battery-plant-amid-subsidy-cuts-debate"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/glee0jL1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++
