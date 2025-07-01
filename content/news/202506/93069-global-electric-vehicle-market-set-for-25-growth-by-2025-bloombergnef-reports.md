@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/bloombergnef-foresees-th
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/b4ab5f2188405b4f49836999f7f08498.png"
 article_id = 93069
 feed_item_id = 16252
-url = "/news/202506/93069-global-electric-vehicle-market-set-for-25-growth-by-2025-bloombergnef-reports"
+url = "/202506/93069-global-electric-vehicle-market-set-for-25-growth-by-2025-bloombergnef-reports"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/bendkcou.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

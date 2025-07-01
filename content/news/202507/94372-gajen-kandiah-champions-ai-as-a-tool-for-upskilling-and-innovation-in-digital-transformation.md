@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/710951/qa-with-gajen-kandiah-globa
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
 article_id = 94372
 feed_item_id = 16346
-url = "/news/202507/94372-gajen-kandiah-champions-ai-as-a-tool-for-upskilling-and-innovation-in-digital-transformation"
+url = "/202507/94372-gajen-kandiah-champions-ai-as-a-tool-for-upskilling-and-innovation-in-digital-transformation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/noonz5uE.webp"
 source = "citybiz"
 +++

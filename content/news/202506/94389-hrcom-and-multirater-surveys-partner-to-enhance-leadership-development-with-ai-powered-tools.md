@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506241545/multirater-surveys-and-hr
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/739b46cd988f2237a058f36782f2c46f.png"
 article_id = 94389
 feed_item_id = 16061
-url = "/news/202506/94389-hrcom-and-multirater-surveys-partner-to-enhance-leadership-development-with-ai-powered-tools"
+url = "/202506/94389-hrcom-and-multirater-surveys-partner-to-enhance-leadership-development-with-ai-powered-tools"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/24/dive0mHm.webp"
 source = "Newsworthy.ai"
 +++

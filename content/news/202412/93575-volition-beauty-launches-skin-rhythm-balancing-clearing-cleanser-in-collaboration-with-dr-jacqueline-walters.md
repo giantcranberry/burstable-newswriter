@@ -1,0 +1,16 @@
++++
+title = "Volition Beauty Launches Skin Rhythm™ Balancing & Clearing Cleanser in Collaboration with Dr. Jacqueline Walters"
+date = "2024-12-04T13:00:17Z"
+draft = false
+summary = "Volition Beauty introduces a groundbreaking cleanser developed with Dr. Jacqueline Walters, targeting hormonal skin issues with a clean, cosmetic-grade formula."
+description = "Volition Beauty and Dr. Jacqueline Walters collaborate to launch Skin Rhythm™ Balancing & Clearing Cleanser, a transformative product tackling adult skin challenges linked to hormonal imbalances. Available on volitionbeauty.com and ulta.com, the cleanser complements Dr. Walters’ bestselling 2021 Skin Rhythm™ Balancing & Clearing Serum."
+source_link = "https://newsworthy.ai/news/202412041375/volition-beauty-introduces-skin-rhythmtm-balancing-clearing-cleanser"
+enclosure = "https://cdn.filestackcontent.com/fm47HfedSwyaHw2weOFH"
+article_id = 93575
+feed_item_id = 9119
+url = "/202412/93575-volition-beauty-launches-skin-rhythm-balancing-clearing-cleanser-in-collaboration-with-dr-jacqueline-walters"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/2412/4/hikem91A.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Volition Beauty has announced the launch of its latest innovation, the Skin Rhythm™ Balancing & Clearing Cleanser, developed in collaboration with Dr. Jacqueline Walters. This product is designed to address adult skin problems caused by hormonal imbalances, offering a clean, cosmetic-grade solution that maintains the efficacy of Dr. Walters' original prescription-based formula. Priced at $35 for a 4 fl oz bottle, the cleanser targets a variety of skin concerns including adult acne, uneven skin tone, and dryness, while being gentle enough for eczema-prone or irritated skin.</p><p>The cleanser's formula is enriched with key ingredients such as Niacinamide for oil balance and acne scar reduction, Salicylic Acid for exfoliation and blemish minimization, and Bakuchiol, a natural retinol alternative, for anti-aging benefits. Additional ingredients like Mandelic Acid, Azelaic Acid, and CoQ10 further enhance the product's ability to improve skin texture, brighten the complexion, and combat signs of aging.</p><p>Following the success of their previous collaboration, the Skin Rhythm™ Balancing & Clearing Serum, this new cleanser is intended to complement the serum, providing a more holistic approach to skincare for individuals dealing with hormonal skin issues. Dr. Walters highlighted the necessity of this product based on her clinical experience, noting the demand for a cleanser that could accompany the serum in addressing hormonal skin concerns.</p><p>This launch signifies a notable advancement in the skincare industry, merging medical expertise with clean beauty principles to offer a product that fills the gap between prescription treatments and over-the-counter options. The Skin Rhythm™ Balancing & Clearing Cleanser is now available for purchase on <a href='https://volitionbeauty.com' rel='nofollow' target='_blank'>volitionbeauty.com</a> and <a href='https://ulta.com' rel='nofollow' target='_blank'>ulta.com</a>, reinforcing Volition Beauty's dedication to clean, effective skincare solutions.</p>

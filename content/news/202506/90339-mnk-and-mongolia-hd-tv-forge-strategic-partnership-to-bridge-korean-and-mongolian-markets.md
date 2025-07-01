@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524220/mnk-partner
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/417f8bbe18ec402556ade2a671fb2404.png"
 article_id = 90339
 feed_item_id = 16115
-url = "/news/202506/90339-mnk-and-mongolia-hd-tv-forge-strategic-partnership-to-bridge-korean-and-mongolian-markets"
+url = "/202506/90339-mnk-and-mongolia-hd-tv-forge-strategic-partnership-to-bridge-korean-and-mongolian-markets"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/dave4Ff8.webp"
 source = "24-7 Press Release"
 +++

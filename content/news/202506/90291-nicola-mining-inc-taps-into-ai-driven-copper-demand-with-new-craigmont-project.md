@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-powering-ai-n
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/9e22303fb8fa84863b1fd5e322559c78.png"
 article_id = 90291
 feed_item_id = 16261
-url = "/news/202506/90291-nicola-mining-inc-taps-into-ai-driven-copper-demand-with-new-craigmont-project"
+url = "/202506/90291-nicola-mining-inc-taps-into-ai-driven-copper-demand-with-new-craigmont-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/voltqfZm.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

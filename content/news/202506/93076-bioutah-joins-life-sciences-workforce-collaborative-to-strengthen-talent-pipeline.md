@@ -8,7 +8,7 @@ source_link = "https://bioutah-1.reportablenews.com/pr/bioutah-champions-nationa
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/94fab09edd649b7495537ad5ebd765c4.jpg"
 article_id = 93076
 feed_item_id = 16087
-url = "/news/202506/93076-bioutah-joins-life-sciences-workforce-collaborative-to-strengthen-talent-pipeline"
+url = "/202506/93076-bioutah-joins-life-sciences-workforce-collaborative-to-strengthen-talent-pipeline"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/24/luna7Aa_.webp"
 source = "Reportable"
 +++

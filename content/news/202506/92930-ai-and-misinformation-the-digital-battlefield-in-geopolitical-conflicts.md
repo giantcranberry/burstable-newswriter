@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/the-conflict-between-is
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/704657bad0bedb03a665c5bf591b4e6b.png"
 article_id = 92930
 feed_item_id = 16091
-url = "/news/202506/92930-ai-and-misinformation-the-digital-battlefield-in-geopolitical-conflicts"
+url = "/202506/92930-ai-and-misinformation-the-digital-battlefield-in-geopolitical-conflicts"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/ninaWfiZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

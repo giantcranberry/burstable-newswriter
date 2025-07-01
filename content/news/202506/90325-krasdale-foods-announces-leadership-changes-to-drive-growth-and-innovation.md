@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/krasdale-foods-announces-new-appointm
 enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
 article_id = 90325
 feed_item_id = 16151
-url = "/news/202506/90325-krasdale-foods-announces-leadership-changes-to-drive-growth-and-innovation"
+url = "/202506/90325-krasdale-foods-announces-leadership-changes-to-drive-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/25/tallc0sk.webp"
 source = "News Direct"
 +++

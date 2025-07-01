@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/renewable-energy-solutio
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/5bad4ae29f4b5def21b6919c54897289.png"
 article_id = 90296
 feed_item_id = 16249
-url = "/news/202506/90296-wef-highlights-renewable-energys-broader-benefits-beyond-clean-power"
+url = "/202506/90296-wef-highlights-renewable-energys-broader-benefits-beyond-clean-power"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/harpEKC5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

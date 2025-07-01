@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523802/pinehurst-s
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 84485
 feed_item_id = 15601
-url = "/news/202506/84485-pioneering-school-safety-sandhills-classical-christian-school-adopts-wearable-panic-button-technology"
+url = "/202506/84485-pioneering-school-safety-sandhills-classical-christian-school-adopts-wearable-panic-button-technology"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/13/quipDIkv.webp"
 source = "24-7 Press Release"
 +++

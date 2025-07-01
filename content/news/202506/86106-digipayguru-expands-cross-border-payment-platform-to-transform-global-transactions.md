@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/digipayguru-expands-global-reach-with
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/d6995a3f2c2d3b69341b465e803d8c8c.png"
 article_id = 86106
 feed_item_id = 15869
-url = "/news/202506/86106-digipayguru-expands-cross-border-payment-platform-to-transform-global-transactions"
+url = "/202506/86106-digipayguru-expands-cross-border-payment-platform-to-transform-global-transactions"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/gain2hoM.webp"
 source = "News Direct"
 +++

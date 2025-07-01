@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/706391/qa-with-jason-didday-head-o
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/b5203d7c9f7c8f0a4322019565d59e5b.png"
 article_id = 85103
 feed_item_id = 15797
-url = "/news/202506/85103-jason-didday-joins-vroozi-to-revolutionize-procurement-through-strategic-partnerships"
+url = "/202506/85103-jason-didday-joins-vroozi-to-revolutionize-procurement-through-strategic-partnerships"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/nukeFiRQ.webp"
 source = "citybiz"
 +++

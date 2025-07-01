@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/from-chaos-to-control-the-virtu
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/ba1ee5a116a5b8847be1913bcdd42c26.png"
 article_id = 93072
 feed_item_id = 16188
-url = "/news/202506/93072-virtus-infracap-us-preferred-stock-etf-gains-attention-amid-market-volatility"
+url = "/202506/93072-virtus-infracap-us-preferred-stock-etf-gains-attention-amid-market-volatility"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/26/hush4stO.webp"
 source = "NewMediaWire"
 +++

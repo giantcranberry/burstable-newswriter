@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/silvercorp-metals-inc-ny
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/51718b69ce174e3f4760ea236b2285a8.png"
 article_id = 92918
 feed_item_id = 16149
-url = "/news/202506/92918-silvercorp-metals-inc-reports-stellar-fiscal-2025-fourth-quarter-performance"
+url = "/202506/92918-silvercorp-metals-inc-reports-stellar-fiscal-2025-fourth-quarter-performance"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/yarnWGCH.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

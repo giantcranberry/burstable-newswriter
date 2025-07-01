@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524070/marquis-who
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/55f3c34f5676e808aeb0d8cd7f0e9b2b.png"
 article_id = 90368
 feed_item_id = 15988
-url = "/news/202506/90368-acoustic-innovations-highlight-the-role-of-sound-design-in-enhancing-human-health-and-productivity"
+url = "/202506/90368-acoustic-innovations-highlight-the-role-of-sound-design-in-enhancing-human-health-and-productivity"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/quizYhRw.webp"
 source = "24-7 Press Release"
 +++

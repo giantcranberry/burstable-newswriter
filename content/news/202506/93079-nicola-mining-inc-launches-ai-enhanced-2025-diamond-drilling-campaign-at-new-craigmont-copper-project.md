@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-nicola-
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/62d83973ae058ab80453b86ebd19dbc8.png"
 article_id = 93079
 feed_item_id = 15938
-url = "/news/202506/93079-nicola-mining-inc-launches-ai-enhanced-2025-diamond-drilling-campaign-at-new-craigmont-copper-project"
+url = "/202506/93079-nicola-mining-inc-launches-ai-enhanced-2025-diamond-drilling-campaign-at-new-craigmont-copper-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/loftUB46.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

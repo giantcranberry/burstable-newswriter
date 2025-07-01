@@ -8,7 +8,7 @@ source_link = "https://keep-a-breast-foundation.reportablenews.com/pr/i-love-boo
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/1883f540103bfaf93fa32cafe09fb373.jpg"
 article_id = 90292
 feed_item_id = 16260
-url = "/news/202506/90292-keep-a-breast-foundation-rides-y2k-nostalgia-wave-to-boost-breast-cancer-awareness-and-sales"
+url = "/202506/90292-keep-a-breast-foundation-rides-y2k-nostalgia-wave-to-boost-breast-cancer-awareness-and-sales"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/27/rice8lXO.webp"
 source = "Reportable"
 +++

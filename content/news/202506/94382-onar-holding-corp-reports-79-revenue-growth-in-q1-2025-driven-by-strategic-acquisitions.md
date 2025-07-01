@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-hol
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/2df6c93ed53b60efebc27518fab2d00d.png"
 article_id = 94382
 feed_item_id = 16309
-url = "/news/202506/94382-onar-holding-corp-reports-79-revenue-growth-in-q1-2025-driven-by-strategic-acquisitions"
+url = "/202506/94382-onar-holding-corp-reports-79-revenue-growth-in-q1-2025-driven-by-strategic-acquisitions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/30/diveWyFG.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

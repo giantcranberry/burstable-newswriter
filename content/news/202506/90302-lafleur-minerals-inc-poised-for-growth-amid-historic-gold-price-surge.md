@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-lafleur
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/f1ab4bec41c2a259903c4b92486bb4e1.png"
 article_id = 90302
 feed_item_id = 16223
-url = "/news/202506/90302-lafleur-minerals-inc-poised-for-growth-amid-historic-gold-price-surge"
+url = "/202506/90302-lafleur-minerals-inc-poised-for-growth-amid-historic-gold-price-surge"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/eachGaXF.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

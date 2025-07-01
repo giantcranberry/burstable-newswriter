@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/706416/qa-with-richard-carter-co-f
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/73bcb41aee2a48ae237a780f69769f80.png"
 article_id = 85102
 feed_item_id = 15796
-url = "/news/202506/85102-lopay-revolutionizes-payment-processing-for-small-businesses-with-low-fees-and-instant-payouts"
+url = "/202506/85102-lopay-revolutionizes-payment-processing-for-small-businesses-with-low-fees-and-instant-payouts"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/epicj2Bc.webp"
 source = "citybiz"
 +++

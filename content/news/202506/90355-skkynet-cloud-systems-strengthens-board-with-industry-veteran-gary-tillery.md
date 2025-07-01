@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/skkynet-appoints-gary-tillery-t
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/357e246a4227b4eb043767ba7528aa3f.png"
 article_id = 90355
 feed_item_id = 16066
-url = "/news/202506/90355-skkynet-cloud-systems-strengthens-board-with-industry-veteran-gary-tillery"
+url = "/202506/90355-skkynet-cloud-systems-strengthens-board-with-industry-veteran-gary-tillery"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/24/chip0MEv.webp"
 source = "NewMediaWire"
 +++

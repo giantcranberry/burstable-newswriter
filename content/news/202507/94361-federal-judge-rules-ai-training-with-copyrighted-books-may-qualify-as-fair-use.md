@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/federal-judge-rules-ai-
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/b3a5ada3840ac02b43a7847204721641.png"
 article_id = 94361
 feed_item_id = 16391
-url = "/news/202507/94361-federal-judge-rules-ai-training-with-copyrighted-books-may-qualify-as-fair-use"
+url = "/202507/94361-federal-judge-rules-ai-training-with-copyrighted-books-may-qualify-as-fair-use"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/1/meanCYh0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

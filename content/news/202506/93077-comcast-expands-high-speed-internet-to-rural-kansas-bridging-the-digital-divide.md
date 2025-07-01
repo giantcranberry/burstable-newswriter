@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/comcast-connects-more-than-4-000-home
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/893624bf68e48c783457c2268fd83379.jpg"
 article_id = 93077
 feed_item_id = 16065
-url = "/news/202506/93077-comcast-expands-high-speed-internet-to-rural-kansas-bridging-the-digital-divide"
+url = "/202506/93077-comcast-expands-high-speed-internet-to-rural-kansas-bridging-the-digital-divide"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/veil_3MA.webp"
 source = "News Direct"
 +++

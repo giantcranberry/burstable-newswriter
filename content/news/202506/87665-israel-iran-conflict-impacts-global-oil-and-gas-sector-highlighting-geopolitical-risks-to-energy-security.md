@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/the-oil-gas-sector-is-al
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/64a413ab796d031b9a3acae19e990918.png"
 article_id = 87665
 feed_item_id = 15852
-url = "/news/202506/87665-israel-iran-conflict-impacts-global-oil-and-gas-sector-highlighting-geopolitical-risks-to-energy-security"
+url = "/202506/87665-israel-iran-conflict-impacts-global-oil-and-gas-sector-highlighting-geopolitical-risks-to-energy-security"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/volt5REN.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

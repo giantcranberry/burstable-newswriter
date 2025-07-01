@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709279/thompson-thrift-celebrates-
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/dc0e13152bed367dd45617a94ec643af.png"
 article_id = 87646
 feed_item_id = 15960
-url = "/news/202506/87646-thompson-thrift-unveils-the-hadley-a-luxury-rental-community-in-north-port-florida"
+url = "/202506/87646-thompson-thrift-unveils-the-hadley-a-luxury-rental-community-in-north-port-florida"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/gainthl2.webp"
 source = "citybiz"
 +++

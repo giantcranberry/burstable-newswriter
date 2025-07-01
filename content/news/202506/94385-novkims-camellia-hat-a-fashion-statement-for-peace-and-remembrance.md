@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524400/novkim-fash
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/e6991eff0c0448e81dec2477c81385ab.png"
 article_id = 94385
 feed_item_id = 16286
-url = "/news/202506/94385-novkims-camellia-hat-a-fashion-statement-for-peace-and-remembrance"
+url = "/202506/94385-novkims-camellia-hat-a-fashion-statement-for-peace-and-remembrance"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/30/yogaZSWT.webp"
 source = "24-7 Press Release"
 +++

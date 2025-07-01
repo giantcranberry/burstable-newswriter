@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-as-gold-conti
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/c480a54b8db715ff7ab278995db3b898.png"
 article_id = 90323
 feed_item_id = 16154
-url = "/news/202506/90323-lahontan-gold-corp-highlights-nevadas-mineral-wealth-amid-economic-uncertainty"
+url = "/202506/90323-lahontan-gold-corp-highlights-nevadas-mineral-wealth-amid-economic-uncertainty"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/gluecqBn.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

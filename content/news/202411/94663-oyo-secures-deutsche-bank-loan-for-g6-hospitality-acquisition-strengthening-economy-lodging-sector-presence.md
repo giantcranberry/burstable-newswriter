@@ -1,0 +1,16 @@
++++
+title = "OYO Secures Deutsche Bank Loan for G6 Hospitality Acquisition, Strengthening Economy Lodging Sector Presence"
+date = "2024-11-18T13:50:12Z"
+draft = false
+summary = "OYO's strategic acquisition of G6 Hospitality, backed by a Deutsche Bank loan, marks a significant expansion in the economy lodging sector, promising enhanced competition and technological integration in the hospitality industry."
+description = "OYO secures commitment from Deutsche Bank to finance G6 Hospitality acquisition, reports first-ever profit and positive EBITDA growth, demonstrating stability and growth potential."
+source_link = "https://newsdirect.com/news/oyo-enters-commitment-with-deutsche-for-a-loan-facility-949035781"
+enclosure = "https://cdn.newsramp.app/banners/finance-2.jpg"
+article_id = 94663
+feed_item_id = 8677
+url = "/202411/94663-oyo-secures-deutsche-bank-loan-for-g6-hospitality-acquisition-strengthening-economy-lodging-sector-presence"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2411/18/openH6j5.webp"
+source = "News Direct"
++++
+
+<p>Oravel Stays Limited, known globally as OYO, has achieved a pivotal milestone in its expansion strategy by securing a loan commitment from Deutsche Bank AG New York Branch and Deutsche Bank Securities Inc. This financial support is earmarked for the acquisition of G6 Hospitality, the parent company behind the Motel 6 and Studio 6 brands, signaling OYO's ambitious push into the North American economy lodging market.</p><p>The acquisition is a testament to OYO's robust financial health, highlighted by its first-ever profit after tax of approximately ₹17 million and a remarkable 215% growth in Adjusted EBITDA to $105 million in FY 23-24. This financial upturn is further bolstered by a $175 million equity funding round, showcasing strong investor confidence in OYO's business model and growth trajectory.</p><p>By integrating the well-established Motel 6 and Studio 6 brands into its portfolio, OYO is set to redefine the economy lodging segment. This move not only expands OYO's market presence but also introduces its technology-driven approach to a wider audience, potentially revolutionizing guest experiences and operational efficiencies across the hospitality industry.</p><p>The implications of this acquisition extend beyond OYO's corporate growth. It heralds increased competition in the economy lodging sector and promises consumers more diverse and improved lodging options. The fusion of OYO's innovative technology with G6 Hospitality's brand legacy could elevate service standards and booking experiences, setting new benchmarks for the industry.</p><p>Deutsche Bank's loan commitment underscores the financial community's confidence in OYO's vision and operational model. As OYO continues to expand its global footprint, its strategic acquisitions and financial achievements are poised to influence the hospitality industry's future, particularly in budget and mid-scale lodging. The industry awaits the outcomes of this merger, which may well dictate new trends in consolidation and technological integration.</p>

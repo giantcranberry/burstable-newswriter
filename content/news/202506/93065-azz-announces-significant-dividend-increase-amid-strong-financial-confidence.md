@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-channe
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/c3c77ef9ae4e3299fdce70afe176f40e.png"
 article_id = 93065
 feed_item_id = 16302
-url = "/news/202506/93065-azz-announces-significant-dividend-increase-amid-strong-financial-confidence"
+url = "/202506/93065-azz-announces-significant-dividend-increase-amid-strong-financial-confidence"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/30/rainCibs.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

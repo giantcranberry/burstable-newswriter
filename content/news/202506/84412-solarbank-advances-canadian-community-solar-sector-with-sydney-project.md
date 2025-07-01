@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-solarban
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/7139d2c9600724d58cb3fa30101a13d1.png"
 article_id = 84412
 feed_item_id = 15671
-url = "/news/202506/84412-solarbank-advances-canadian-community-solar-sector-with-sydney-project"
+url = "/202506/84412-solarbank-advances-canadian-community-solar-sector-with-sydney-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/flaxjmF0.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

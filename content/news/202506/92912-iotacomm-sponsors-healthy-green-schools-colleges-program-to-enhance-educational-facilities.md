@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/iotacomm-r-sponsors-healthy-green-sch
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 92912
 feed_item_id = 16215
-url = "/news/202506/92912-iotacomm-sponsors-healthy-green-schools-colleges-program-to-enhance-educational-facilities"
+url = "/202506/92912-iotacomm-sponsors-healthy-green-schools-colleges-program-to-enhance-educational-facilities"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/joinMKRl.webp"
 source = "News Direct"
 +++

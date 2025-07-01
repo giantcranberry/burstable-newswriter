@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-givbux-i
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/a6a9df04a666e0b0f9a1ff45ffad26f7.png"
 article_id = 90710
 feed_item_id = 15848
-url = "/news/202506/90710-givbux-inc-announces-strategic-acquisition-to-pioneer-gold-backed-fintech-services"
+url = "/202506/90710-givbux-inc-announces-strategic-acquisition-to-pioneer-gold-backed-fintech-services"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/riceuSll.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

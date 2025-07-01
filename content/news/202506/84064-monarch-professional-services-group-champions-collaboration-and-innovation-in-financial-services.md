@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703294/qa-with-lee-farabaugh-presi
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84064
 feed_item_id = 15534
-url = "/news/202506/84064-monarch-professional-services-group-champions-collaboration-and-innovation-in-financial-services"
+url = "/202506/84064-monarch-professional-services-group-champions-collaboration-and-innovation-in-financial-services"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/pink7O73.webp"
 source = "citybiz"
 +++

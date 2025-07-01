@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-emperor-metal
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/095eced97195fbc9ce16ba76eb0ecf5b.png"
 article_id = 90671
 feed_item_id = 16204
-url = "/news/202506/90671-emperor-metals-and-globex-mining-unveil-significant-gold-discovery-in-quebec"
+url = "/202506/90671-emperor-metals-and-globex-mining-unveil-significant-gold-discovery-in-quebec"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/mail2IVu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

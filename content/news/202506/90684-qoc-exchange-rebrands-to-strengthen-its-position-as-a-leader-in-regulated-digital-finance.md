@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506251546/qoc-exchange-unveils-new-
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/e34f148e5d327bdb3e507e2b9872ad54.png"
 article_id = 90684
 feed_item_id = 16133
-url = "/news/202506/90684-qoc-exchange-rebrands-to-strengthen-its-position-as-a-leader-in-regulated-digital-finance"
+url = "/202506/90684-qoc-exchange-rebrands-to-strengthen-its-position-as-a-leader-in-regulated-digital-finance"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/25/face1qIA.webp"
 source = "Newsworthy.ai"
 +++

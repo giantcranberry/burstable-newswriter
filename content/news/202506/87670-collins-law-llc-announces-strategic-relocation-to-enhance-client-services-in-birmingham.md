@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523927/birmingham-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/556455f8221c6a920fdcaa8bff296ee4.png"
 article_id = 87670
 feed_item_id = 15810
-url = "/news/202506/87670-collins-law-llc-announces-strategic-relocation-to-enhance-client-services-in-birmingham"
+url = "/202506/87670-collins-law-llc-announces-strategic-relocation-to-enhance-client-services-in-birmingham"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/divex0RW.webp"
 source = "24-7 Press Release"
 +++

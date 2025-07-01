@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/congos-extended-cobalt-e
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/a9c3d4bc7c891af3ccb8f3076f4427a0.png"
 article_id = 93068
 feed_item_id = 16296
-url = "/news/202506/93068-congos-extended-cobalt-export-moratorium-fails-to-significantly-impact-global-prices"
+url = "/202506/93068-congos-extended-cobalt-export-moratorium-fails-to-significantly-impact-global-prices"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/30/fastdKcr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

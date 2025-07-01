@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524211/the-pillars
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/dbb124be9d22b4d2ecfe266d3fe8690e.png"
 article_id = 90690
 feed_item_id = 16105
-url = "/news/202506/90690-the-pillars-hotel-club-opens-reservations-for-2025-fort-lauderdale-international-boat-show"
+url = "/202506/90690-the-pillars-hotel-club-opens-reservations-for-2025-fort-lauderdale-international-boat-show"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/filo27CQ.webp"
 source = "24-7 Press Release"
 +++

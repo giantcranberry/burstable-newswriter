@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523918/arc-clean-t
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/ade6410249526db70183441e59cc53d6.png"
 article_id = 90382
 feed_item_id = 15824
-url = "/news/202506/90382-arc-clean-technology-and-deep-atomic-partner-to-power-data-centers-with-nuclear-energy"
+url = "/202506/90382-arc-clean-technology-and-deep-atomic-partner-to-power-data-centers-with-nuclear-energy"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/numbaGZM.webp"
 source = "24-7 Press Release"
 +++

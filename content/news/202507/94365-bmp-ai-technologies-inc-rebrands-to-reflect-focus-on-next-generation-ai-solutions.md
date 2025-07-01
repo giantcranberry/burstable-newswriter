@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-to-change-name-to-bm
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/ed0709d707eacbba0cf91d35a1ed7ecb.png"
 article_id = 94365
 feed_item_id = 16374
-url = "/news/202507/94365-bmp-ai-technologies-inc-rebrands-to-reflect-focus-on-next-generation-ai-solutions"
+url = "/202507/94365-bmp-ai-technologies-inc-rebrands-to-reflect-focus-on-next-generation-ai-solutions"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/1/echoX6jt.webp"
 source = "NewMediaWire"
 +++

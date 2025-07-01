@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/milemarker-elevates-vp-of-growth-and-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/f82f09abfbb9c18d2bf230882c0a2878.png"
 article_id = 90381
 feed_item_id = 15841
-url = "/news/202506/90381-jessica-perez-promoted-to-partner-at-milemarker-signaling-growth-in-wealth-management-technology"
+url = "/202506/90381-jessica-perez-promoted-to-partner-at-milemarker-signaling-growth-in-wealth-management-technology"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/noon6d37.webp"
 source = "News Direct"
 +++

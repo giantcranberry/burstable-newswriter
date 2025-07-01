@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/credit-card-misuse-among-hispani
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/da660bdf618b899906af7d1469eac302.png"
 article_id = 84394
 feed_item_id = 15693
-url = "/news/202506/84394-survey-reveals-credit-card-misuse-among-hispanic-families-highlights-need-for-financial-education"
+url = "/202506/84394-survey-reveals-credit-card-misuse-among-hispanic-families-highlights-need-for-financial-education"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/256/16/quizumhW.webp"
 source = "Noticias Newswire"
 +++

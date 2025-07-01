@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/fixed-rates-flexible-strategy-h
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/b2b2e2b0dda705503c1ef40d188e884b.png"
 article_id = 86110
 feed_item_id = 15839
-url = "/news/202506/86110-infrastructure-capital-bond-income-etf-bnds-offers-strategic-advantage-in-volatile-market"
+url = "/202506/86110-infrastructure-capital-bond-income-etf-bnds-offers-strategic-advantage-in-volatile-market"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/18/plumnohA.webp"
 source = "NewMediaWire"
 +++

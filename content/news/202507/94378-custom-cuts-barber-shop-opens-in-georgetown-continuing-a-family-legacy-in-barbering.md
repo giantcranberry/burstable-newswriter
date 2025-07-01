@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524305/custom-cuts
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/b219c2322b6b1f473596c830e75b77e5.png"
 article_id = 94378
 feed_item_id = 16327
-url = "/news/202507/94378-custom-cuts-barber-shop-opens-in-georgetown-continuing-a-family-legacy-in-barbering"
+url = "/202507/94378-custom-cuts-barber-shop-opens-in-georgetown-continuing-a-family-legacy-in-barbering"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/1/linejpkn.webp"
 source = "24-7 Press Release"
 +++

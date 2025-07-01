@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/qr-tiger-highlights-explosive-growth-
 enclosure = "https://cdn.newsramp.app/banners/finance-1.jpg"
 article_id = 90354
 feed_item_id = 16067
-url = "/news/202506/90354-venmo-qr-codes-spearhead-contactless-payment-revolution"
+url = "/202506/90354-venmo-qr-codes-spearhead-contactless-payment-revolution"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/chefYMm3.webp"
 source = "News Direct"
 +++

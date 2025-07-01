@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/the-importance-of-building-inspections
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/1d8e19342198b39668d9eb9ec9038360.jpg"
 article_id = 90287
 feed_item_id = 16276
-url = "/news/202506/90287-the-critical-role-of-building-inspectors-in-safeguarding-new-home-investments"
+url = "/202506/90287-the-critical-role-of-building-inspectors-in-safeguarding-new-home-investments"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/28/lambQsH8.webp"
 source = "Press Services"
 +++

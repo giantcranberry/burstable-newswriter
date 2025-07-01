@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/comcast-connects-more-than-4-000-home
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/cd560b12528cb71bb62cb0cef3959af8.jpg"
 article_id = 93078
 feed_item_id = 16062
-url = "/news/202506/93078-comcast-expands-next-generation-network-to-paola-and-hillsdale-kansas-enhancing-digital-infrastructure"
+url = "/202506/93078-comcast-expands-next-generation-network-to-paola-and-hillsdale-kansas-enhancing-digital-infrastructure"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/mendekxo.webp"
 source = "News Direct"
 +++

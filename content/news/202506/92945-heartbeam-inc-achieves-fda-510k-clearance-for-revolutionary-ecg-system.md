@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-heartbe
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/3c271c39aa7c30b298a64d6220c9ce22.png"
 article_id = 92945
 feed_item_id = 15937
-url = "/news/202506/92945-heartbeam-inc-achieves-fda-510k-clearance-for-revolutionary-ecg-system"
+url = "/202506/92945-heartbeam-inc-achieves-fda-510k-clearance-for-revolutionary-ecg-system"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/quitJIuT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

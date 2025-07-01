@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524260/top-korea-g
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/bb0d833ee318ed72144e62d2923ed78b.png"
 article_id = 90320
 feed_item_id = 16173
-url = "/news/202506/90320-kc-glass-materials-co-ltd-sets-the-standard-for-sustainable-and-custom-glass-packaging-solutions"
+url = "/202506/90320-kc-glass-materials-co-ltd-sets-the-standard-for-sustainable-and-custom-glass-packaging-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/26/boldZLcy.webp"
 source = "24-7 Press Release"
 +++

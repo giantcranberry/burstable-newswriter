@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/705963/johnny-black-interviews-joh
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/56f28f23bea385324b8f853bfd57ebef.jpg"
 article_id = 84029
 feed_item_id = 15651
-url = "/news/202506/84029-mackenzie-capitals-strategic-insights-highlight-commercial-real-estates-evolving-landscape"
+url = "/202506/84029-mackenzie-capitals-strategic-insights-highlight-commercial-real-estates-evolving-landscape"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/16/mossWCy1.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-sekur-
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/1e31b4b5cfe9aceb1938d26020447be8.png"
 article_id = 94362
 feed_item_id = 16376
-url = "/news/202507/94362-sekur-private-data-ltd-secures-ca17-million-in-private-placement-to-fuel-global-expansion"
+url = "/202507/94362-sekur-private-data-ltd-secures-ca17-million-in-private-placement-to-fuel-global-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/1/each7U3y.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

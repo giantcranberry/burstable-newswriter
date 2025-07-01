@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/brera-holdings-plc-nasdaq
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/97a6e97234bfc4b73e17391bd910fb4f.png"
 article_id = 92921
 feed_item_id = 16147
-url = "/news/202506/92921-brera-holdings-plc-and-toronto-blizzard-corp-forge-strategic-partnership-to-tap-into-694-billion-youth-sports-market"
+url = "/202506/92921-brera-holdings-plc-and-toronto-blizzard-corp-forge-strategic-partnership-to-tap-into-694-billion-youth-sports-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/even1oVp.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

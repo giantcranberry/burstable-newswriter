@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/why-you-should-get-a-homebuyer-survey-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/42d189a13bd4565549896125fd335b29.jpg"
 article_id = 92910
 feed_item_id = 16250
-url = "/news/202506/92910-the-critical-role-of-level-2-homebuyer-surveys-in-property-investment"
+url = "/202506/92910-the-critical-role-of-level-2-homebuyer-surveys-in-property-investment"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/27/beangIdR.webp"
 source = "Press Services"
 +++

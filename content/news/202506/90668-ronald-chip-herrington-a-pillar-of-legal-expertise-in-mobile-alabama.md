@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524298/mobile-divo
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/2f45788da9573af5b539b6cb2a4def7a.png"
 article_id = 90668
 feed_item_id = 16231
-url = "/news/202506/90668-ronald-chip-herrington-a-pillar-of-legal-expertise-in-mobile-alabama"
+url = "/202506/90668-ronald-chip-herrington-a-pillar-of-legal-expertise-in-mobile-alabama"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/27/cakewMhX.webp"
 source = "24-7 Press Release"
 +++

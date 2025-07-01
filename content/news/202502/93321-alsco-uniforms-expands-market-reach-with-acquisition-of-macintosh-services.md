@@ -1,0 +1,16 @@
++++
+title = "Alsco Uniforms Expands Market Reach with Acquisition of MacIntosh Services"
+date = "2025-02-05T18:05:30Z"
+draft = false
+summary = "Alsco Uniforms' acquisition of MacIntosh Services enhances its operational footprint in Pennsylvania and New Jersey, reinforcing its position as a global leader in uniform and linen laundry services."
+description = "Alsco Uniforms expands its presence in Pennsylvania and New Jersey with the acquisition of MacIntosh Services, reinforcing its commitment to growth and customer service excellence. The strategic move includes rebranding MacIntosh's Bethlehem location as Alsco Uniforms, showcasing quality products and laundry services to new markets."
+source_link = "https://www.24-7pressrelease.com/press-release/519467/alsco-uniforms-continues-aggressive-growth-plans-announces-acquisition-of-macintosh-services"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
+article_id = 93321
+feed_item_id = 10614
+url = "/202502/93321-alsco-uniforms-expands-market-reach-with-acquisition-of-macintosh-services"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/5/hushprJq.webp"
+source = "24-7 Press Release"
++++
+
+<p>Alsco Uniforms has solidified its market presence in the northeastern United States through the acquisition of MacIntosh Services, a well-established Pennsylvania-based linen and uniform provider. This strategic move includes MacIntosh's Bethlehem location, marking a significant expansion for Alsco in the Pennsylvania and New Jersey markets. The acquisition is a testament to Alsco's aggressive growth strategy, following recent purchases such as Churchill Linen, and underscores its commitment to broadening its service capabilities and market reach.</p><p>CEO Bob Steiner highlighted the importance of maintaining the relationship-driven approach that has been a hallmark of MacIntosh Services' success. The integration of MacIntosh's operations into Alsco's framework is designed to preserve the high service standards that customers have come to expect. James Rodgers, Jr., president of MacIntosh Services, expressed optimism about the acquisition, viewing it as an opportunity to strengthen customer relationships under the Alsco umbrella.</p><p>With over 80 mixed-processing facilities across North America and a customer base exceeding 350,000 in 13 countries, Alsco Uniforms is a dominant force in the uniform and linen service industry. The company offers a wide range of services, including hygienically clean uniforms, linens, and essential workplace supplies, catering to various industries. Chief Operating Officer Jim Kearns pointed to strategic acquisitions and investments in sales and service teams as pivotal to Alsco's expansion strategy.</p><p>The rebranding of MacIntosh's Bethlehem location and fleet to align with Alsco's branding is underway, with completion expected in the coming months. This acquisition not only enhances Alsco's operational footprint but also reinforces its 135-year heritage as a leading provider in the industry. The move is indicative of Alsco's ongoing evolution and its dedication to meeting the growing demands of its diverse clientele.</p>

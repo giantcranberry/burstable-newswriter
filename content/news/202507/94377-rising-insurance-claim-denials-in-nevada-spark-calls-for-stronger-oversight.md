@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524309/las-vegas-i
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/ee234c0ae006b17aa50d5300fec8400c.png"
 article_id = 94377
 feed_item_id = 16324
-url = "/news/202507/94377-rising-insurance-claim-denials-in-nevada-spark-calls-for-stronger-oversight"
+url = "/202507/94377-rising-insurance-claim-denials-in-nevada-spark-calls-for-stronger-oversight"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/1/mielo4Qy.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/707862/joe-demattos-interviews-bil
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9b2f68ca3f66b0febb2120d555c1f5a4.jpg"
 article_id = 92951
 feed_item_id = 15789
-url = "/news/202506/92951-bill-novellis-leadership-legacy-merging-marketing-with-social-causes-for-impact"
+url = "/202506/92951-bill-novellis-leadership-legacy-merging-marketing-with-social-causes-for-impact"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/knotyihL.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/rising-concerns-over-systemic-risks-i
 enclosure = "https://cdn.newsramp.app/banners/science-2.jpg"
 article_id = 94368
 feed_item_id = 16357
-url = "/news/202507/94368-study-warns-of-systemic-risks-in-us-leveraged-loan-market"
+url = "/202507/94368-study-warns-of-systemic-risks-in-us-leveraged-loan-market"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/257/1/eacheVwW.webp"
 source = "News Direct"
 +++

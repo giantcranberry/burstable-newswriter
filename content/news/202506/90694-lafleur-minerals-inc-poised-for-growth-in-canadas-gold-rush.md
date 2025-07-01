@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-lafleur-miner
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/007c5fd4badc17c51a1e7d35534caf9b.png"
 article_id = 90694
 feed_item_id = 16075
-url = "/news/202506/90694-lafleur-minerals-inc-poised-for-growth-in-canadas-gold-rush"
+url = "/202506/90694-lafleur-minerals-inc-poised-for-growth-in-canadas-gold-rush"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/glueG3Yr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

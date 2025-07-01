@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/707165/qa-with-zohar-gilad-ceo-and
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/ea009ed6394ada730f1bf9b41a029123.png"
 article_id = 92949
 feed_item_id = 15793
-url = "/news/202506/92949-ai-revolutionizes-e-commerce-with-personalized-shopping-experiences"
+url = "/202506/92949-ai-revolutionizes-e-commerce-with-personalized-shopping-experiences"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/poem6x8x.webp"
 source = "citybiz"
 +++

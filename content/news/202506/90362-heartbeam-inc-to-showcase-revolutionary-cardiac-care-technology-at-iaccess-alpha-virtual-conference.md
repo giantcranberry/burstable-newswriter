@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-heartb
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/64b4651722c39a3c402abe68c6825dc8.png"
 article_id = 90362
 feed_item_id = 16019
-url = "/news/202506/90362-heartbeam-inc-to-showcase-revolutionary-cardiac-care-technology-at-iaccess-alpha-virtual-conference"
+url = "/202506/90362-heartbeam-inc-to-showcase-revolutionary-cardiac-care-technology-at-iaccess-alpha-virtual-conference"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/flaxhhpu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

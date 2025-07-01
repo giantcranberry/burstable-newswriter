@@ -1,0 +1,16 @@
++++
+title = "Kryton International's Smart Concrete Solution Tackles 'Concrete Cancer' in Sports Venues"
+date = "2024-12-03T17:10:18Z"
+draft = false
+summary = "Kryton International introduces a groundbreaking solution to 'concrete cancer', promising to extend the lifespan of sports venues significantly, especially with the 2028 Olympic Games and new stadium constructions on the horizon."
+description = "Kryton International offers a cure for the “concrete cancer” that has plagued major sports venues around the U.S., highlighting the importance of using Smart Concrete solutions to ensure the long-term durability of iconic buildings."
+source_link = "https://newsdirect.com/news/kryton-international-offers-cure-for-the-concrete-cancer-that-has-plagued-major-sports-venues-around-the-u-s-958433540"
+enclosure = "https://cdn.newsramp.app/banners/science-3.jpg"
+article_id = 94609
+feed_item_id = 9095
+url = "/202412/94609-kryton-internationals-smart-concrete-solution-tackles-concrete-cancer-in-sports-venues"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2412/3/daveJPzj.webp"
+source = "News Direct"
++++
+
+<p>As the United States prepares for the 2028 Olympic Games in Los Angeles and the construction of new sports facilities like the Major League Baseball stadium in Las Vegas, the issue of 'concrete cancer' has emerged as a critical challenge. Kryton International, a leader in Smart Concrete solutions, offers a promising remedy to this pervasive problem, which threatens the structural integrity of major sports venues across the country.</p><p>'Concrete cancer', or alkali-aggregate-reaction, occurs when water infiltrates concrete containing reactive aggregates, leading to microscopic cracks that can drastically shorten a structure's lifespan. High-profile cases, such as those at Kauffman Stadium, home of the Kansas City Royals, highlight the urgency of addressing this issue. Kevin Yuers, Kryton's vice president of product development, underscores the preventable nature of this condition with the right additives in concrete mixtures.</p><p>Kryton's Krystol Internal Membrane (KIM) has undergone extensive testing at the University of Hawaii and the University of Ottawa, proving its efficacy in autonomously repairing microcracks and preventing water penetration. This innovation is timely, offering a solution to ensure the longevity of new and existing sports facilities. Yuers emphasizes the economic and structural benefits of adopting Smart Concrete technologies, cautioning against the short-term cost savings that could lead to premature facility degradation.</p><p>The potential impact of Kryton's technology extends beyond immediate construction projects, promising to revolutionize the maintenance and durability of sports infrastructure. By addressing 'concrete cancer' at its source, Kryton International is setting a new standard for the construction industry, ensuring that today's investments in sports venues will endure for future generations. For more details on Kryton's solutions, visit <a href='https://www.kryton.com' rel='nofollow' target='_blank'>https://www.kryton.com</a>.</p>

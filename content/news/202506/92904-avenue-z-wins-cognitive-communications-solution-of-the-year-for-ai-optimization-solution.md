@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/avenue-z-wins-ai-breakthrough-award-f
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-2.jpg"
 article_id = 92904
 feed_item_id = 16293
-url = "/news/202506/92904-avenue-z-wins-cognitive-communications-solution-of-the-year-for-ai-optimization-solution"
+url = "/202506/92904-avenue-z-wins-cognitive-communications-solution-of-the-year-for-ai-optimization-solution"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/30/archmgQ3.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/expecting-turbulent-times-throu
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/677f09bc925d37ae379a9dea826e1053.png"
 article_id = 90685
 feed_item_id = 16132
-url = "/news/202506/90685-direxion-webinar-to-explore-leveraged-and-inverse-etfs-amid-2025-market-volatility"
+url = "/202506/90685-direxion-webinar-to-explore-leveraged-and-inverse-etfs-amid-2025-market-volatility"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/25/yogaRq2R.webp"
 source = "NewMediaWire"
 +++

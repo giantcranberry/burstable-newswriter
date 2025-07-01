@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-trilli
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/d9613208e2130450281019633e5b8451.png"
 article_id = 93067
 feed_item_id = 16297
-url = "/news/202506/93067-trillion-energy-international-inc-settles-debt-with-share-issuance-to-management-and-consultants"
+url = "/202506/93067-trillion-energy-international-inc-settles-debt-with-share-issuance-to-management-and-consultants"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/30/dualybLZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/705791/28-libertys-halo-venue-host
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/27302f5e70243eaccb452b31de017a93.jpg"
 article_id = 84509
 feed_item_id = 15547
-url = "/news/202506/84509-diors-legacy-showcased-at-new-yorks-halo-venue-in-landmark-exhibition"
+url = "/202506/84509-diors-legacy-showcased-at-new-yorks-halo-venue-in-landmark-exhibition"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/mielC8hs.webp"
 source = "citybiz"
 +++

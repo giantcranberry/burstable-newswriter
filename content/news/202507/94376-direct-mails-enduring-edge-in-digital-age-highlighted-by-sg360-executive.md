@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/712828/qa-with-tedd-aurelius-evp-m
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-3.jpg"
 article_id = 94376
 feed_item_id = 16339
-url = "/news/202507/94376-direct-mails-enduring-edge-in-digital-age-highlighted-by-sg360-executive"
+url = "/202507/94376-direct-mails-enduring-edge-in-digital-age-highlighted-by-sg360-executive"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/pavewi7H.webp"
 source = "citybiz"
 +++

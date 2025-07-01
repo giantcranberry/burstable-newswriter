@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/from-exploration-to-exec
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/40802ce21957ed3a11fbf44e43b04d0e.png"
 article_id = 90364
 feed_item_id = 16016
-url = "/news/202506/90364-gold-prices-surge-spotlighting-lafleur-minerals-inc-as-a-key-player-in-canadas-mining-sector"
+url = "/202506/90364-gold-prices-surge-spotlighting-lafleur-minerals-inc-as-a-key-player-in-canadas-mining-sector"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/roamS66R.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

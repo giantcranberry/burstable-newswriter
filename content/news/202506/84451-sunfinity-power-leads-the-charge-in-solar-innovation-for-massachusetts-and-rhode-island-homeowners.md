@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/premier-solar-installer-leading-the-wa
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/6c6fd7aaa6c6472b9479422c59f56f03.jpg"
 article_id = 84451
 feed_item_id = 15628
-url = "/news/202506/84451-sunfinity-power-leads-the-charge-in-solar-innovation-for-massachusetts-and-rhode-island-homeowners"
+url = "/202506/84451-sunfinity-power-leads-the-charge-in-solar-innovation-for-massachusetts-and-rhode-island-homeowners"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/13/noonkRIk.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/argentina-emerges-as-uranium-explorat
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/ed199ad8b36c07dbf6f8816648def555.png"
 article_id = 84406
 feed_item_id = 15687
-url = "/news/202506/84406-argentinas-uranium-exploration-positions-it-as-a-key-player-in-global-nuclear-energy-supply"
+url = "/202506/84406-argentinas-uranium-exploration-positions-it-as-a-key-player-in-global-nuclear-energy-supply"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/16/jadefOiV.webp"
 source = "News Direct"
 +++

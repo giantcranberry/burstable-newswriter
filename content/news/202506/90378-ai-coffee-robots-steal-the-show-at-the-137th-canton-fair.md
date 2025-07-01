@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524015/at-the-137t
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/07553790d92f165c653562686a318dce.png"
 article_id = 90378
 feed_item_id = 15924
-url = "/news/202506/90378-ai-coffee-robots-steal-the-show-at-the-137th-canton-fair"
+url = "/202506/90378-ai-coffee-robots-steal-the-show-at-the-137th-canton-fair"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/20/warp9zTM.webp"
 source = "24-7 Press Release"
 +++

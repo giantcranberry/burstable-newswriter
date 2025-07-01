@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-lanter
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/93a1be0d29e0e6149175ae01badea6fa.png"
 article_id = 84434
 feed_item_id = 15673
-url = "/news/202506/84434-lantern-pharmas-ai-driven-drug-lp-300-shows-promise-in-treating-advanced-non-small-cell-lung-cancer"
+url = "/202506/84434-lantern-pharmas-ai-driven-drug-lp-300-shows-promise-in-treating-advanced-non-small-cell-lung-cancer"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/16/pintkF70.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

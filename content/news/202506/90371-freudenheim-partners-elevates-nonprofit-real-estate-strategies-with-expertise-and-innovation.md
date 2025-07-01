@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709128/qa-with-ellie-cullinan-chri
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/371ccd8406667b363e6658c123e3b6ec.png"
 article_id = 90371
 feed_item_id = 15957
-url = "/news/202506/90371-freudenheim-partners-elevates-nonprofit-real-estate-strategies-with-expertise-and-innovation"
+url = "/202506/90371-freudenheim-partners-elevates-nonprofit-real-estate-strategies-with-expertise-and-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/fastSwss.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524001/kantor-kant
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/e6ec63ce9bab90c5308f58787dc898b9.png"
 article_id = 90708
 feed_item_id = 15894
-url = "/news/202506/90708-kantor-kantor-llp-recognized-in-chambers-usa-2025-small-and-medium-firm-spotlight-for-california"
+url = "/202506/90708-kantor-kantor-llp-recognized-in-chambers-usa-2025-small-and-medium-firm-spotlight-for-california"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/19/faceaOTM.webp"
 source = "24-7 Press Release"
 +++

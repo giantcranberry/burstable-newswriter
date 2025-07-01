@@ -1,0 +1,16 @@
++++
+title = "HIVE Digital Technologies Expands Bitcoin Mining Infrastructure with Strategic Acquisition in Paraguay"
+date = "2025-02-06T13:55:11Z"
+draft = false
+summary = "HIVE Digital Technologies' acquisition of a 200 MW facility in Paraguay marks a significant step towards its goal of increasing global hashrate to 25 EH/s by 2025, leveraging Paraguay's renewable energy and crypto-friendly policies."
+description = "HIVE Digital Technologies expands its global footprint with the acquisition of a 200 MW facility in Paraguay, positioning for explosive growth in Bitcoin mining. The company aims to quadruple its hash rate capacity in 2025, targeting $500 million in annual revenue by Q3."
+source_link = "https://newsdirect.com/news/hive-digital-technologies-acquires-paraguay-bitcoin-mining-site-targets-317-hashrate-growth-by-september-2025-164900956"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/f97566b63e800477d1493ff523647340.png"
+article_id = 94486
+feed_item_id = 10690
+url = "/202502/94486-hive-digital-technologies-expands-bitcoin-mining-infrastructure-with-strategic-acquisition-in-paraguay"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/6/calmbY24.webp"
+source = "News Direct"
++++
+
+<p>HIVE Digital Technologies has taken a decisive step towards bolstering its Bitcoin mining capabilities with the acquisition of a 200 MW facility in Yguazú, Paraguay, from Bitfarms. This move is a cornerstone of the company's strategy to escalate its global hashrate from 6 EH/s to an ambitious 25 EH/s by September 2025, potentially marking a 317% growth. The facility in Paraguay complements HIVE's existing 100 MW operation in the country, capitalizing on the region's renewable hydroelectric energy and supportive regulatory environment for cryptocurrency mining.</p><p>In 2024, HIVE showcased robust performance by mining 1,772 Bitcoin and increasing its Bitcoin holdings to 2,805, a 65% rise from the previous year. With the cryptocurrency market showing bullish trends, HIVE is poised to quadruple its hash rate capacity by 2025. The United States, now home to HIVE's headquarters in San Antonio, Texas, dominates the global Bitcoin mining scene, accounting for over 40% of the global hashrate. HIVE's expansion is designed to secure about 3% of the global Bitcoin network, underscoring its growing influence in the sector.</p><p>Operational efficiency is at the heart of HIVE's strategy, with the company aiming for an impressive 16.5 joules per terahash (J/TH) in miner fleet efficiency. This focus on efficiency, combined with a lean team structure, could enable HIVE to generate $20 million in revenue per employee annually, potentially outperforming tech behemoths like Apple and Nvidia in revenue-per-employee metrics. With a target of reaching 430 MW capacity by the third quarter of 2025 and setting an annual revenue goal of $500 million, HIVE Digital Technologies is carving out a significant niche in the global Bitcoin mining industry through a blend of technological innovation, sustainable energy use, and aggressive expansion plans.</p>

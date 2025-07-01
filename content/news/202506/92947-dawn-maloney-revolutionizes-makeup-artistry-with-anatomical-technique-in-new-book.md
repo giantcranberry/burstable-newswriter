@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/dawn-maloney-announces-the-release-of
 enclosure = "https://cdn.newsramp.app/banners/books-publishing-3.jpg"
 article_id = 92947
 feed_item_id = 15930
-url = "/news/202506/92947-dawn-maloney-revolutionizes-makeup-artistry-with-anatomical-technique-in-new-book"
+url = "/202506/92947-dawn-maloney-revolutionizes-makeup-artistry-with-anatomical-technique-in-new-book"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/20/irishLFp.webp"
 source = "News Direct"
 +++

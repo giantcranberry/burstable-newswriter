@@ -1,0 +1,16 @@
++++
+title = "Towerstone Accountants Launches Inheritance Tax Advisory Service Ahead of 2027 Pension Taxation Changes"
+date = "2025-02-24T11:00:12Z"
+draft = false
+summary = "Towerstone Accountants introduces a specialized service to help individuals navigate upcoming inheritance tax changes on unspent pension funds, offering strategies to minimize tax liabilities and protect wealth."
+description = "Towerstone Accountants has introduced an Inheritance Tax Advisory Service to address the implications of the impending pension tax alterations. Learn how proactive planning can protect your wealth and minimize tax obligations with tailored strategies."
+source_link = "https://newsdirect.com/news/towerstone-accountants-launches-inheritance-tax-advisory-service-amid-upcoming-pension-tax-changes-428352309"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/ae11deeea209337c869a003ff5c49695.png"
+article_id = 93233
+feed_item_id = 11075
+url = "/202502/93233-towerstone-accountants-launches-inheritance-tax-advisory-service-ahead-of-2027-pension-taxation-changes"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/24/pondpV7A.webp"
+source = "News Direct"
++++
+
+<p>Towerstone Accountants has unveiled a new Inheritance Tax Advisory Service aimed at assisting individuals in preparing for significant changes to pension taxation rules set to take effect in 2027. These changes will subject unspent pension funds to a 40% Inheritance Tax (IHT), a shift that could pose considerable financial challenges for families unprepared for the new regulations.</p><p>The service is designed to offer strategic advice on managing pension assets in anticipation of these tax law adjustments. Christina Odgers, Managing Director at Towerstone Accountants, highlighted the necessity of forward-thinking financial planning, pointing out that many have historically planned their finances under the assumption that pensions would remain exempt from inheritance tax considerations.</p><p>Among the strategies the advisory service will provide are optimized pension withdrawals, early gifting plans, and alternative investment approaches. Clients will also receive guidance on utilizing HMRC's tax-free gifting rules and investing in Business Relief-qualifying assets as methods to safeguard their wealth from inheritance taxes.</p><p>Personalized consultations form a core part of the service, focusing on estate structuring, the establishment of trusts, and how to make the most of tax allowances available to spouses, civil partners, and charitable donations. Laura Stevenson, the firm's Estate Planning Expert, underscored the urgency of acting promptly, cautioning that postponing planning could lead to significant tax disadvantages.</p><p>This initiative by Towerstone Accountants is a proactive measure to address the forthcoming regulatory changes that are expected to have a profound effect on how individuals and families approach wealth preservation. By offering customized financial strategies, the firm seeks to empower clients to protect their financial legacies against the backdrop of these evolving tax laws.</p>

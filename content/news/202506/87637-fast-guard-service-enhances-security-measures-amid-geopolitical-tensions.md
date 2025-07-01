@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524111/heightened-
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/e4de2cdc938adde90031d4e7db542bbf.png"
 article_id = 87637
 feed_item_id = 15990
-url = "/news/202506/87637-fast-guard-service-enhances-security-measures-amid-geopolitical-tensions"
+url = "/202506/87637-fast-guard-service-enhances-security-measures-amid-geopolitical-tensions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/ulnaIBIe.webp"
 source = "24-7 Press Release"
 +++

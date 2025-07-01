@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/american-drone-dominance-4-uas-stocks
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/b113188d2ebb6967ebb940e332d2661d.png"
 article_id = 86113
 feed_item_id = 15837
-url = "/news/202506/86113-us-drone-industry-set-for-transformation-following-presidential-executive-orders"
+url = "/202506/86113-us-drone-industry-set-for-transformation-following-presidential-executive-orders"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/bosssRLJ.webp"
 source = "News Direct"
 +++

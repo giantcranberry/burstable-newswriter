@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/712898/american-pest-announces-pes
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 94371
 feed_item_id = 16350
-url = "/news/202507/94371-american-pest-launches-pest-prime-week-with-exclusive-offers-for-residential-and-commercial-customers"
+url = "/202507/94371-american-pest-launches-pest-prime-week-with-exclusive-offers-for-residential-and-commercial-customers"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/pendNhUW.webp"
 source = "citybiz"
 +++

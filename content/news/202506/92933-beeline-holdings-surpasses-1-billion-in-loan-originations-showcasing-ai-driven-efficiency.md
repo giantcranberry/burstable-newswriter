@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-beelin
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/ce4fbeb6b6be9abe87d2762a7a1577b7.png"
 article_id = 92933
 feed_item_id = 16089
-url = "/news/202506/92933-beeline-holdings-surpasses-1-billion-in-loan-originations-showcasing-ai-driven-efficiency"
+url = "/202506/92933-beeline-holdings-surpasses-1-billion-in-loan-originations-showcasing-ai-driven-efficiency"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/yogatWDN.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Healthcare Triangle Secures $15.2 Million in PIPE Offering to Fuel Growth and Compliance"
+date = "2025-03-01T12:26:06Z"
+draft = false
+summary = "Healthcare Triangle, Inc. completes a $15.2 million PIPE offering, ensuring Nasdaq compliance and funding future acquisitions and operations in the healthcare and life sciences sectors."
+description = "Healthcare Triangle, Inc. closes a $15.2 million PIPE offering, demonstrating investor confidence in its digital transformation solutions for healthcare. The offering includes common stock and warrants, with net proceeds of $13.68 million."
+source_link = "https://www.newmediawire.com/news/healthcare-triangle-inc-announces-closing-of-15-2-million-pipe-offering-7079652"
+enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
+article_id = 93183
+feed_item_id = 11506
+url = "/202503/93183-healthcare-triangle-secures-152-million-in-pipe-offering-to-fuel-growth-and-compliance"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/1/mendY1_n.webp"
+source = "NewMediaWire"
++++
+
+<p>Healthcare Triangle, Inc. (NASDAQ: HCTI), a leader in providing digital transformation solutions for the healthcare and life sciences industries, has successfully closed a private investment in public equity (PIPE) offering, raising $15.2 million in gross proceeds. This financial maneuver, executed at market rates in accordance with Nasdaq regulations, involved the sale of 36,190,485 units. Each unit was composed of a share of common stock or a pre-funded warrant, priced at a nominal exercise price of $0.00001, along with series A and B warrants exercisable at $0.84. The offering was priced at $0.42 per unit, with the company netting approximately $13.68 million after deducting placement agent fees and associated expenses.</p><p>The proceeds from this offering are earmarked for several strategic initiatives, including potential acquisitions, general corporate purposes, and bolstering working capital. Notably, this influx of capital also ensures Healthcare Triangle's adherence to Nasdaq's minimum stockholders' equity requirement, set at $2,500,000, by February 28, 2025. This achievement highlights the company's financial health and its ability to meet regulatory standards while pursuing growth opportunities.</p><p>RBW Capital Partners LLC and Spartan Capital Securities, LLC acted as co-placement agents for the transaction, with legal counsel provided by Sichenzia Ross Ference Carmel LLP for Healthcare Triangle and Manatt, Phelps & Phillips, LLP for the placement agents. It's important to note that the securities offered in this transaction have not been registered under the Securities Act of 1933, making them unavailable for sale in the United States without proper registration or an exemption.</p><p>This strategic financial infusion underscores Healthcare Triangle's dedication to enhancing its digital transformation offerings within the healthcare and life sciences sectors. By securing this funding, the company is well-positioned to accelerate its growth trajectory, explore new acquisitions, and continue delivering innovative solutions that address the evolving needs of these critical industries.</p>

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/q1-renewables-fraction-o
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/08114bde3c54424daeff196109f3b482.png"
 article_id = 93073
 feed_item_id = 16187
-url = "/news/202506/93073-eu-reports-dip-in-renewable-energy-share-amid-solar-production-surge"
+url = "/202506/93073-eu-reports-dip-in-renewable-energy-share-amid-solar-production-surge"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/milkNqY3.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-silver
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
 article_id = 84054
 feed_item_id = 15569
-url = "/news/202506/84054-silvercorp-metals-inc-updates-mineral-resource-estimate-for-condor-gold-project-in-ecuador"
+url = "/202506/84054-silvercorp-metals-inc-updates-mineral-resource-estimate-for-condor-gold-project-in-ecuador"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/12/herbPDo_.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

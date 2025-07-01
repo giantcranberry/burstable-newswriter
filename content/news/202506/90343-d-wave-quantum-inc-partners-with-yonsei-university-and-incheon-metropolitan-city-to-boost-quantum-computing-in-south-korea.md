@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/d-wave-quantum-inc-nyse-
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/4bdf085922b92f54c381bffe2f098777.png"
 article_id = 90343
 feed_item_id = 16099
-url = "/news/202506/90343-d-wave-quantum-inc-partners-with-yonsei-university-and-incheon-metropolitan-city-to-boost-quantum-computing-in-south-korea"
+url = "/202506/90343-d-wave-quantum-inc-partners-with-yonsei-university-and-incheon-metropolitan-city-to-boost-quantum-computing-in-south-korea"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/joke4gHq.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

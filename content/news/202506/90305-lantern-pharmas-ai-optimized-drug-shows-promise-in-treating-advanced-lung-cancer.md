@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/lantern-pharma-inc-s-na
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/a4fc62a420e64653bd8e3b47ceb7c3f6.png"
 article_id = 90305
 feed_item_id = 16219
-url = "/news/202506/90305-lantern-pharmas-ai-optimized-drug-shows-promise-in-treating-advanced-lung-cancer"
+url = "/202506/90305-lantern-pharmas-ai-optimized-drug-shows-promise-in-treating-advanced-lung-cancer"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/tileqpiv.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

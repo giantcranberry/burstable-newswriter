@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/byd-ships-thousands-of-e
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/ff20b819d9311a3add74bcb2e10fb330.png"
 article_id = 92928
 feed_item_id = 16094
-url = "/news/202506/92928-byd-accelerates-ev-expansion-into-brazil-ahead-of-tariff-increases"
+url = "/202506/92928-byd-accelerates-ev-expansion-into-brazil-ahead-of-tariff-increases"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/miel1EIM.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

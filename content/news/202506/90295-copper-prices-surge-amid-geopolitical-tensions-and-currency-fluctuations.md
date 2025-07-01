@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/copper-recovers-after-tr
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/c78e446fd641baf431e1f45e31db8ff9.png"
 article_id = 90295
 feed_item_id = 16256
-url = "/news/202506/90295-copper-prices-surge-amid-geopolitical-tensions-and-currency-fluctuations"
+url = "/202506/90295-copper-prices-surge-amid-geopolitical-tensions-and-currency-fluctuations"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/bestq_PL.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/711373/qa-with-david-bremer-execut
 enclosure = "https://cdn.newsramp.app/banners/local-regional-3.jpg"
 article_id = 94374
 feed_item_id = 16342
-url = "/news/202507/94374-austins-office-market-thrives-amid-tech-boom-and-lifestyle-appeal"
+url = "/202507/94374-austins-office-market-thrives-amid-tech-boom-and-lifestyle-appeal"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/hikezjkh.webp"
 source = "citybiz"
 +++

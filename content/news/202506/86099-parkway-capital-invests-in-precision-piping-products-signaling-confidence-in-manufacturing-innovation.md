@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708841/parkway-capital-takes-a-sta
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/66192654f03d4a5517ec4e720c4bd53d.png"
 article_id = 86099
 feed_item_id = 15905
-url = "/news/202506/86099-parkway-capital-invests-in-precision-piping-products-signaling-confidence-in-manufacturing-innovation"
+url = "/202506/86099-parkway-capital-invests-in-precision-piping-products-signaling-confidence-in-manufacturing-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/glue5F8g.webp"
 source = "citybiz"
 +++

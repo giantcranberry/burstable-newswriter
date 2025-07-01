@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/what-the-us-can-learn-fr
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 84494
 feed_item_id = 15574
-url = "/news/202506/84494-norways-electric-vehicle-success-offers-lessons-for-the-us"
+url = "/202506/84494-norways-electric-vehicle-success-offers-lessons-for-the-us"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/12/milkfzAo.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

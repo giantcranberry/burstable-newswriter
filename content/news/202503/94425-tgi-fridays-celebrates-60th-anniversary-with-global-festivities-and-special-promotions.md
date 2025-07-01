@@ -1,0 +1,16 @@
++++
+title = "TGI Fridays Celebrates 60th Anniversary with Global Festivities and Special Promotions"
+date = "2025-03-14T13:10:18Z"
+draft = false
+summary = "TGI Fridays marks its 60th anniversary with a worldwide celebration and special promotions, reinforcing its legacy in social dining and casual dining culture."
+description = "TGI Fridays marks its 60th anniversary with global celebrations and special promotions, highlighting its legacy of flair, freedom, and celebration. Join the fun with exclusive meal specials, retro-inspired cocktails, and a social media challenge. Learn more about the iconic chain's enduring impact and inclusive spirit."
+source_link = "https://newsdirect.com/news/60-years-one-big-cheers-tgi-fridays-celebrates-its-anniversary-around-the-world-492102800"
+enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-3.jpg"
+article_id = 94425
+feed_item_id = 11916
+url = "/202503/94425-tgi-fridays-celebrates-60th-anniversary-with-global-festivities-and-special-promotions"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/14/deepdRW4.webp"
+source = "News Direct"
++++
+
+<p>TGI Fridays, a pioneer in the casual dining sector, is commemorating its 60th anniversary with a series of global celebrations and promotions that underscore its longstanding influence on social dining. On March 15, the restaurant chain will host a unique, time-zone-spanning event, engaging locations across the UK, Australia, Asia, Africa, Europe, and the Americas in a 24-hour wave of festivities. This event not only highlights the brand's global presence but also its ability to connect people across different cultures through the universal language of food and celebration.</p><p>In honor of its founding year, TGI Fridays is rolling out the "Two for $19.65" deal, offering guests a chance to enjoy classic dishes such as Half Rack of Ribs, Cheeseburgers, and Chicken Caesar Salad at a nostalgic price point. Additionally, the brand is bringing back its iconic Long Island Iced Tea in a limited-edition collector's cup, a nod to its origins as the world's first singles bar and its innovative approach to mixology. These promotions serve as a reminder of the brand's rich history and its continuous effort to innovate while staying true to its roots.</p><p>CEO Ray Blanchette reaffirmed the company's dedication to its original vision of fostering connections and celebrations through dining. With nearly 400 locations in 41 countries, TGI Fridays has maintained its core ethos of delivering American classics in an energetic atmosphere. The anniversary celebrations, extending beyond March with various activities and promotions, along with the #ShareYourFlair social media challenge, aim to engage the global community in celebrating the brand's legacy and looking forward to its future.</p><p>As TGI Fridays steps into its seventh decade, the anniversary serves as a testament to the brand's enduring appeal and its significant role in shaping casual dining culture worldwide. The global celebration not only reflects on past achievements but also sets the stage for future innovations in creating memorable dining experiences.</p>

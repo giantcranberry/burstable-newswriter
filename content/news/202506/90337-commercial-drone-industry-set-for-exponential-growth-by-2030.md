@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/faa-policy-and-global-demand-are-crea
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 90337
 feed_item_id = 16117
-url = "/news/202506/90337-commercial-drone-industry-set-for-exponential-growth-by-2030"
+url = "/202506/90337-commercial-drone-industry-set-for-exponential-growth-by-2030"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/25/odor55hw.webp"
 source = "News Direct"
 +++

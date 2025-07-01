@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524276/francesca-o
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/d26948efe8d69e4e71af8fb05e100fe5.png"
 article_id = 90322
 feed_item_id = 16156
-url = "/news/202506/90322-francesca-ocathain-sworn-in-as-president-of-aaml-new-jersey-chapter-elevating-family-law-standards"
+url = "/202506/90322-francesca-ocathain-sworn-in-as-president-of-aaml-new-jersey-chapter-elevating-family-law-standards"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/evenyiRS.webp"
 source = "24-7 Press Release"
 +++

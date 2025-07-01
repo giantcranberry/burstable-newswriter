@@ -9,7 +9,7 @@ enclosure = "https://cdn.newsramp.app/genai/images/257/1/741f4d0bcbd25a58fc22ef7
 featured = true
 article_id = 94357
 feed_item_id = 16396
-url = "/news/202507/94357-innovative-grape-based-recipes-elevate-summer-entertaining"
+url = "/202507/94357-innovative-grape-based-recipes-elevate-summer-entertaining"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/257/1/neonk5kr.webp"
 source = "Noticias Newswire"
 +++

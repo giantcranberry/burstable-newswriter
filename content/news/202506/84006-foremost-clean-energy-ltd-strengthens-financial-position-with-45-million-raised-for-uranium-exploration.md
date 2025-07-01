@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-foremo
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/9b56262004137b2d05871ccd9c4e98fc.png"
 article_id = 84006
 feed_item_id = 15760
-url = "/news/202506/84006-foremost-clean-energy-ltd-strengthens-financial-position-with-45-million-raised-for-uranium-exploration"
+url = "/202506/84006-foremost-clean-energy-ltd-strengthens-financial-position-with-45-million-raised-for-uranium-exploration"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/ninoO24C.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

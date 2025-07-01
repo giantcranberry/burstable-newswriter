@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523962/life-coach-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/a8a1a64ceb1cfe5b799bc5d2e0e553d6.png"
 article_id = 85093
 feed_item_id = 15827
-url = "/news/202506/85093-jorin-scott-launches-lifetrek-momentum-and-announces-preorders-for-four-transformative-books"
+url = "/202506/85093-jorin-scott-launches-lifetrek-momentum-and-announces-preorders-for-four-transformative-books"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/icyQuYm.webp"
 source = "24-7 Press Release"
 +++

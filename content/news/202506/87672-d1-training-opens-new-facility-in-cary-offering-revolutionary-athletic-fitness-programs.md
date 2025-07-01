@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708011/husband-and-wife-open-d1-tr
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/0559e79d3deca9079aeb073014514afe.png"
 article_id = 87672
 feed_item_id = 15806
-url = "/news/202506/87672-d1-training-opens-new-facility-in-cary-offering-revolutionary-athletic-fitness-programs"
+url = "/202506/87672-d1-training-opens-new-facility-in-cary-offering-revolutionary-athletic-fitness-programs"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/kiteN8yZ.webp"
 source = "citybiz"
 +++

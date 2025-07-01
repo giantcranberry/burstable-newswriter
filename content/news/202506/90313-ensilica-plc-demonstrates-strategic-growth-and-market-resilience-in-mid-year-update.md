@@ -8,7 +8,7 @@ source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-cove
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/5d0d932813c46118a14706ed423ff32c.jpg"
 article_id = 90313
 feed_item_id = 16192
-url = "/news/202506/90313-ensilica-plc-demonstrates-strategic-growth-and-market-resilience-in-mid-year-update"
+url = "/202506/90313-ensilica-plc-demonstrates-strategic-growth-and-market-resilience-in-mid-year-update"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/26/plumj0ba.webp"
 source = "Reportable"
 +++

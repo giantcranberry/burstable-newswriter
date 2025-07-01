@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524000/2025-annual
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/07ef5620b9c0eca05b86deba85597615.png"
 article_id = 87663
 feed_item_id = 15896
-url = "/news/202506/87663-webce-launches-2025-annual-federal-tax-refresher-course-for-tax-professionals"
+url = "/202506/87663-webce-launches-2025-annual-federal-tax-refresher-course-for-tax-professionals"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/19/noon9m7D.webp"
 source = "24-7 Press Release"
 +++

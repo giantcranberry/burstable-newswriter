@@ -1,0 +1,16 @@
++++
+title = "Praxis Investment Management's 'Real Impact 2024' Report Highlights Stewardship Investing Achievements"
+date = "2025-02-19T19:00:20Z"
+draft = false
+summary = "Praxis Investment Management's latest impact report showcases its significant contributions to social and environmental progress through values-driven investment strategies."
+description = "Praxis Investment Management releases Real Impact 2024 report showcasing success of stewardship investing mission. Learn how values-driven investing can make a positive impact on society and the environment."
+source_link = "https://www.24-7pressrelease.com/press-release/519797/praxis-releases-real-impact-2024-report"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-1.jpg"
+article_id = 94468
+feed_item_id = 10978
+url = "/202502/94468-praxis-investment-managements-real-impact-2024-report-highlights-stewardship-investing-achievements"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/19/wallgcqm.webp"
+source = "24-7 Press Release"
++++
+
+<p>Praxis Investment Management has released its annual impact report, 'Real Impact 2024', which outlines the firm's dedication to stewardship investing and its measurable effects on societal and environmental advancements. The report delves into seven key strategies under the Praxis ImpactX framework, illustrating how investment aligned with values can foster substantial change. These strategies encompass values and risk screening, proxy voting, sustainability integration, positive impact bonds, company engagement, advocacy and education, and community development investing.</p><p>Among the report's notable findings, Praxis has excluded 5-23% of companies in stock indices based on its screening processes, participated in over 16,500 shareholder proposal votes in 2024, and allocated 34.3% of its Impact Bond Fund to socially or environmentally focused impact bonds by the end of December 2024. Mark Regier, Vice President of Stewardship Investing, highlighted the firm's efforts to ensure investments reflect client values, showcasing a broad strategy aimed at generating positive outcomes while avoiding negative societal impacts.</p><p>Praxis's engagement efforts have been particularly impactful, with direct discussions held with more than 20 companies on pressing issues like human rights, child labor, and environmental preservation. The firm has also backed three major initiatives focused on tax transparency, the climate crisis, and methane emissions, further demonstrating its commitment to addressing global challenges.</p><p>Community development investing stands out as a priority for Praxis, with over $25.6 million invested in essential community infrastructure and services through collaborations with Community Investments (CI) and Community Investment Partners (CIP). Chad Horning, President of Praxis, emphasized that the report offers tangible proof of the transformative power of values-driven investing, reinforcing the potential for financial strategies to contribute to meaningful societal progress.</p>

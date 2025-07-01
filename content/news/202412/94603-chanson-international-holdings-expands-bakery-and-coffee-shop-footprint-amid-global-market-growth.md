@@ -1,0 +1,16 @@
++++
+title = "Chanson International Holdings Expands Bakery and Coffee Shop Footprint Amid Global Market Growth"
+date = "2024-12-05T15:00:15Z"
+draft = false
+summary = "Chanson International Holdings announces ambitious expansion plans and strategic partnerships to capitalize on the growing global specialty bakery and coffee shop market."
+description = "Chanson International Holdings (NASDAQ: CHSN) is expanding its food and beverage menu to a growing list of consumers in the U.S. and China, with plans to reach 60 chain stores by the end of 2024. The company aims to deliver a curated selection of bakery products, pastries, and an extensive beverage menu, focusing on healthy, ready-to-eat options. In addition to store expansion, Chanson is also inking collaborations to extend its brand name in the Xinjiang region, with plans to open five additional cafés by 2025."
+source_link = "https://newsdirect.com/news/chanson-international-closing-the-year-in-expansion-mode-703846454"
+enclosure = "https://public.newsdirect.com/703846454/bm8BwlmR.png"
+article_id = 94603
+feed_item_id = 9165
+url = "/202412/94603-chanson-international-holdings-expands-bakery-and-coffee-shop-footprint-amid-global-market-growth"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2412/5/lushYdBd.webp"
+source = "News Direct"
++++
+
+<p>Chanson International Holdings (NASDAQ: CHSN) is setting a bold course for expansion, aiming to increase its chain stores to 60 by the end of 2024, up from the current 49 in China with new openings planned in the U.S. This strategic move aligns with the robust growth of the global specialty bakery market, projected to reach $731.69 billion by 2032, showcasing a compound annual growth rate (CAGR) of 5.4%. The U.S. market, in particular, is expected to grow to $148.98 billion by the same year, fueled by the high consumption of bakery products.</p><p>In addition to physical store expansion, Chanson has embarked on a franchising venture with Xinjiang Hengtai Investment Co., Ltd. to grow its coffee brand, Soul ● Song, in Yili, Xinjiang, China. The initiative has already demonstrated success, with a café at the Nalati National Tourist Resort breaking the company's single-day coffee sales record twice in August 2023, achieving daily sales of RMB 30,000. Gang Li, Chairman and CEO of Chanson, highlighted the strategy's role in optimizing resource allocation and meeting customer demands effectively, driving growth in key markets.</p><p>The company's expansion strategy is timely, catering to the increasing demand for convenience foods and the popularity of coffee shops as social hubs. Chanson's diverse product range, including packaged bakery items, freshly made pastries, and a wide beverage menu, meets the needs of urban consumers seeking quick, on-the-go options. This approach, combined with strategic location choices, positions Chanson favorably in the competitive bakery and café industry.</p><p>Investor confidence in Chanson's growth strategy is evident, with its stock surging more than 500% year-to-date as of November 29, 2023, following the latest earnings announcement. This remarkable performance underscores the market's positive reception of Chanson's expansion plans and its potential to redefine the bakery and coffee shop landscape in China and the U.S.</p>

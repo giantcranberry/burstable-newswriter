@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708767/at-woodleigh-chase-predicta
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/06be310605b55dfe541462f8dd93e605.png"
 article_id = 85073
 feed_item_id = 15882
-url = "/news/202506/85073-woodleigh-chase-revolutionizes-retirement-living-with-predictable-pricing-and-vibrant-lifestyle"
+url = "/202506/85073-woodleigh-chase-revolutionizes-retirement-living-with-predictable-pricing-and-vibrant-lifestyle"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/goldpREi.webp"
 source = "citybiz"
 +++

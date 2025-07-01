@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524217/linksecured
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/031dd522e22b610e2fb53b6d55ec5e11.png"
 article_id = 90338
 feed_item_id = 16114
-url = "/news/202506/90338-linksecured-expands-colocation-space-in-downtown-los-angeles-to-meet-growing-demand-for-scalable-data-center-solutions"
+url = "/202506/90338-linksecured-expands-colocation-space-in-downtown-los-angeles-to-meet-growing-demand-for-scalable-data-center-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/wamcyzvk.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/splash-beverage-group-enters-in
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/2dc4c5abcf424305e0ddfe53f05a5d3b.png"
 article_id = 92911
 feed_item_id = 16216
-url = "/news/202506/92911-splash-beverage-group-secures-exclusive-water-rights-in-costa-ricas-blue-zone"
+url = "/202506/92911-splash-beverage-group-secures-exclusive-water-rights-in-costa-ricas-blue-zone"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/26/noteLIK3.webp"
 source = "NewMediaWire"
 +++

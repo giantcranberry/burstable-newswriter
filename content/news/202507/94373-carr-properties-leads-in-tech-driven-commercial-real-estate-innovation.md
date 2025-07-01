@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/712636/qa-with-aaron-altscher-vice
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 94373
 feed_item_id = 16340
-url = "/news/202507/94373-carr-properties-leads-in-tech-driven-commercial-real-estate-innovation"
+url = "/202507/94373-carr-properties-leads-in-tech-driven-commercial-real-estate-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/kissE0sC.webp"
 source = "citybiz"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Aemetis Unveils Ambitious 5-Year Plan Targeting $2.0 Billion Revenue by 2028"
+date = "2024-12-29T05:53:05Z"
+draft = false
+summary = "Aemetis, Inc. announces a strategic 5-year plan aiming for $2.0 billion in revenue and $644 million in adjusted EBITDA by 2028, highlighting significant growth in renewable energy projects and sustainable aviation fuel."
+description = "Aemetis, Inc. reveals ambitious 5-year revenue plan of $2.0B with a focus on sustainability and innovation. Learn about the company's growth trajectory and strategic developments in renewable energy."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-coverage-on-aemetis-inc-nasdaq-amtx-q3-2024"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 93501
+feed_item_id = 9677
+url = "/202412/93501-aemetis-unveils-ambitious-5-year-plan-targeting-20-billion-revenue-by-2028"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/2412/29/joltzf2g.webp"
+source = "Reportable"
++++
+
+<p>Aemetis, Inc. (Nasdaq:AMTX) has set forth a bold 5-year plan targeting $2.0 billion in revenue and $644 million in adjusted EBITDA by 2028, a significant leap from its 2023 figures of $186.7 million in revenue and $(22.4) million in adjusted EBITDA. This strategic initiative underscores the company's commitment to expanding its renewable energy projects and securing a leading position in the sustainable aviation fuel market.</p><p>The company's recent achievements include a notable performance at the Keyes Ethanol Plant, which generated $45.0 million in revenue from producing 15.5 million gallons of ethanol. Additionally, Aemetis has gained approval for 20 years of Low Carbon Fuel Standard mandates from the California Air Resources Board (CARB), enhancing the financial outlook for its U.S. projects.</p><p>Central to Aemetis' growth strategy is the Dairy Biogas Pipeline project, with plans to construct 66 dairy biogas digesters over the next five years. This project, alongside a 40-mile gas pipeline, is expected to contribute $190.0 million in revenue and $122.6 million in adjusted EBITDA by 2028. The company is also advancing in the renewable jet and diesel fuel sector, with a planned 90 million gallon plant utilizing below zero carbon intensity cellulosic hydrogen.</p><p>Aemetis has secured substantial offtake agreements, including a $3.8 billion deal with 10 airlines for sustainable aviation fuel and a $3.2 billion renewable diesel supply contract. These agreements, coupled with upgrades to its Keyes ethanol plant and expansion of its biodiesel plant in India, position Aemetis for significant growth. Stonegate Capital Partners has valued Aemetis at $15.69 to $22.93 per share, reflecting confidence in the company's strategic direction and potential impact on the renewable energy sector.</p><p>The implications of Aemetis' ambitious plan extend beyond the company, signaling a shift towards sustainable energy solutions in the aviation and transportation industries. As Aemetis progresses towards its 2028 targets, its success could catalyze further investments in renewable energy, underscoring the growing importance of sustainability in global business strategies.</p>

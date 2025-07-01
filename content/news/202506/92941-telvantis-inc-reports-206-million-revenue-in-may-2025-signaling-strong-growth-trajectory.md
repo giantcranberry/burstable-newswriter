@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/telvantis-inc-closes-may-25-wit
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/6ea0cbe55c9f502603d6ec5eaae0dbc2.png"
 article_id = 92941
 feed_item_id = 16000
-url = "/news/202506/92941-telvantis-inc-reports-206-million-revenue-in-may-2025-signaling-strong-growth-trajectory"
+url = "/202506/92941-telvantis-inc-reports-206-million-revenue-in-may-2025-signaling-strong-growth-trajectory"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/23/plumZUvj.webp"
 source = "NewMediaWire"
 +++

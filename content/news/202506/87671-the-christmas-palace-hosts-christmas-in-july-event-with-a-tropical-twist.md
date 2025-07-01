@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708054/tis-the-season-for-sunshine
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/23904611d951569b62fa3d7df3562180.png"
 article_id = 87671
 feed_item_id = 15805
-url = "/news/202506/87671-the-christmas-palace-hosts-christmas-in-july-event-with-a-tropical-twist"
+url = "/202506/87671-the-christmas-palace-hosts-christmas-in-july-event-with-a-tropical-twist"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/elleAff5.webp"
 source = "citybiz"
 +++

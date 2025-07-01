@@ -1,0 +1,16 @@
++++
+title = "Peapack Private Bank & Trust Strengthens Commercial Lending with Joseph E. Fingerman Appointment"
+date = "2025-03-03T16:15:21Z"
+draft = false
+summary = "Joseph E. Fingerman joins Peapack Private Bank & Trust as Senior Managing Director and President of Commercial Real Estate, bringing over 25 years of expertise to enhance the bank's commercial lending platform."
+description = "Peapack-Gladstone Financial Corporation appoints Joseph E. Fingerman as Senior Managing Director and President of Commercial Real Estate, showcasing the Bank's dedication to offering customized banking solutions to real estate investors and operators."
+source_link = "https://www.newmediawire.com/news/peapack-private-bank-trust-welcomes-joseph-e-fingerman-7079691"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
+article_id = 93179
+feed_item_id = 11545
+url = "/202503/93179-peapack-private-bank-trust-strengthens-commercial-lending-with-joseph-e-fingerman-appointment"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/253/3/zealnnLM.webp"
+source = "NewMediaWire"
++++
+
+<p>Peapack Private Bank & Trust has announced the appointment of Joseph E. Fingerman as Senior Managing Director and President of Commercial Real Estate, a strategic move aimed at bolstering the bank's commercial lending capabilities. Fingerman's extensive experience, spanning over 25 years in commercial real estate financing, is expected to significantly contribute to the bank's growth in this sector.</p><p>Before joining Peapack Private, Fingerman held a pivotal role at Signature Bank as Managing Group Director and Senior Vice President of the Commercial Real Estate Lending Group, where he was instrumental in managing the bank's commercial real estate portfolio. His expertise is not limited to a specific region, having focused on expanding the bank's footprint in both New York and West Coast markets.</p><p>Fingerman's recent venture was the establishment of A&E Real Estate Finance, a boutique private credit platform, showcasing his entrepreneurial spirit and deep understanding of the commercial real estate market. His career highlights include recognition on the Power 50 list by Commercial Observer and active participation in key industry organizations, underscoring his influence and leadership in the field.</p><p>Expressing his enthusiasm for the new role, Fingerman cited his existing relationship with Peapack Private's CEO, Doug Kennedy, and the chance to collaborate with former colleagues as key factors in his decision. His approach at Peapack Private will focus on delivering tailored depository and lending solutions to meet the evolving needs of the real estate industry.</p><p>With a solid educational foundation, including a Master of Business Administration from Dowling College and a bachelor's degree from the State University of New York at Oneonta, Fingerman is well-equipped to drive Peapack Private's commercial real estate lending strategy forward. His appointment is a clear indication of the bank's commitment to strengthening its position in the commercial lending market, offering promising prospects for clients and the industry at large.</p>

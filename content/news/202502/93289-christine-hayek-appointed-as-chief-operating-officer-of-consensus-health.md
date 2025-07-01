@@ -1,0 +1,16 @@
++++
+title = "Christine Hayek Appointed as Chief Operating Officer of Consensus Health"
+date = "2025-02-10T13:00:13Z"
+draft = false
+summary = "Christine Hayek's appointment as COO of Consensus Health marks a strategic move to enhance the performance of its network of independent providers, leveraging her extensive healthcare operational experience."
+description = "Consensus Health appoints Christine Hayek as COO, leveraging her 25 years of healthcare experience to enhance provider performance and patient care. This news underscores the importance of strong leadership in healthcare organizations."
+source_link = "https://newsdirect.com/news/consensus-health-names-christine-hayek-chief-operating-officer-968084085"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/3df82c5dcac923e3d7d862512d6ffb50.jpg"
+article_id = 93289
+feed_item_id = 10741
+url = "/202502/93289-christine-hayek-appointed-as-chief-operating-officer-of-consensus-health"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/10/pineIDTD.webp"
+source = "News Direct"
++++
+
+<p>Consensus Health, a New Jersey-based physician-led medical group, has announced the appointment of Christine Hayek as its new chief operating officer. With a career spanning over 25 years in healthcare operations, Hayek is set to play a pivotal role in optimizing the performance of the organization's extensive network, which includes 172 independent providers. Her previous role as vice president of operations and human resources at Consensus Health, where she oversaw 57 physician practices, underscores her deep understanding of the group's operational dynamics.</p><p>Hayek's professional journey is marked by significant contributions to the healthcare sector, including nearly 20 years at AtlantiCare Health System. There, she was instrumental in leading strategic initiatives such as the redesign of employee health programs and the integration of more than 30 physician practices. Her leadership and operational expertise are expected to be invaluable in her new position, where she will focus on improving practice performance and harnessing the collective strength of the medical group.</p><p>Michael Lovett, CEO of Consensus Health, commended Hayek for her leadership qualities and her demonstrated ability to foster successful provider partnerships and enhance patient experiences. Before her promotion to COO, Hayek held several key positions at AtlantiCare, including executive director of physician practice operations and corporate director of population health transformation. Her academic credentials include a bachelor's degree in business management from Slippery Rock University and an MBA from Stockton University.</p><p>This leadership transition occurs as Consensus Health is actively expanding its footprint across New Jersey, currently delivering medical services in 18 counties through 56 practices and 69 locations. Hayek's strategic vision and operational acumen are anticipated to significantly contribute to the growth and efficiency of the physician-owned medical group, reinforcing its commitment to quality healthcare delivery.</p>

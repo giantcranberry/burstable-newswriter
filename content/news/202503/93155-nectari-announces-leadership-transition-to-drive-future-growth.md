@@ -1,0 +1,16 @@
++++
+title = "Nectari Announces Leadership Transition to Drive Future Growth"
+date = "2025-03-12T07:05:18Z"
+draft = false
+summary = "Nectari's strategic leadership transition, with Greg Brown retiring and new appointments of Gareth Marks and Nicolas Trottier, positions the company for continued innovation and market expansion."
+description = "Nectari announces the retirement of co-founder Greg Brown after 33 years of leadership. Gareth Marks and Nicolas Trottier step into new roles, shaping the company's future. This transition signifies a major shift in leadership for Nectari."
+source_link = "https://www.24-7pressrelease.com/press-release/520472/nectari-announces-leadership-transition-as-co-founder-greg-brown-retires"
+enclosure = "https://cdn.newsramp.app/banners/technology-2.jpg"
+article_id = 93155
+feed_item_id = 11822
+url = "/202503/93155-nectari-announces-leadership-transition-to-drive-future-growth"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/253/12/glowDKq2.webp"
+source = "24-7 Press Release"
++++
+
+<p>Software solutions provider Nectari is undergoing a significant leadership transition as co-founder Greg Brown retires after 33 years, marking the end of an era and the beginning of a new chapter for the company. Brown's departure coincides with the appointment of Gareth Marks as Chief Revenue Officer and Nicolas Trottier as Chief Financial Officer, a move designed to inject fresh energy and perspectives into Nectari's executive team while preserving its foundational strengths.</p><p>Greg Brown's legacy at Nectari is monumental, having co-founded the company with Benoit Trottier and played a pivotal role in its global expansion across more than 60 countries. Under his leadership, Nectari forged critical integrations with enterprise resource planning platforms such as Sage Software and Acumatica, cementing its position in the international market. Benoit Trottier has publicly acknowledged Brown's invaluable contributions, underscoring his profound impact on both the company and the wider software industry.</p><p>The newly appointed executives, Gareth Marks and Nicolas Trottier, bring a blend of continuity and innovation to Nectari's leadership. Marks, who has been with the company for over ten years, is poised to build on the solid foundation laid by Brown. Nicolas Trottier, stepping into the CFO role, combines entrepreneurial spirit with a dedication to advancing Nectari's tradition of innovation. Their promotions to full partnership status, alongside Benoit Trottier and Chief Operating Officer Guy Girouard, signify a strategic blend of experience and fresh leadership to guide the company forward.</p><p>This leadership restructuring underscores Nectari's commitment to maintaining its institutional knowledge while embracing the dynamics of generational change. The company remains steadfast in its mission to deliver cutting-edge business intelligence solutions, offering tools that empower businesses to harness data for informed decision-making. As Nectari navigates this transition, the focus is squarely on sustaining its trajectory of growth and innovation in the competitive software solutions landscape.</p>

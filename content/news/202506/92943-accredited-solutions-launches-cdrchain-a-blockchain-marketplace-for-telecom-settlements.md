@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/accredited-solutions-inc-otc-as
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/b25e5cb13ca539528017b6edf1b4e162.png"
 article_id = 92943
 feed_item_id = 16001
-url = "/news/202506/92943-accredited-solutions-launches-cdrchain-a-blockchain-marketplace-for-telecom-settlements"
+url = "/202506/92943-accredited-solutions-launches-cdrchain-a-blockchain-marketplace-for-telecom-settlements"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/23/quiz23Ld.webp"
 source = "NewMediaWire"
 +++

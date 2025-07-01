@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/avenue-z-announces-strategic-promotio
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-2.jpg"
 article_id = 92926
 feed_item_id = 16119
-url = "/news/202506/92926-avenue-z-strengthens-leadership-team-to-drive-growth-in-ai-and-strategic-communications"
+url = "/202506/92926-avenue-z-strengthens-leadership-team-to-drive-growth-in-ai-and-strategic-communications"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/25/hike8XBx.webp"
 source = "News Direct"
 +++

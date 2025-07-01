@@ -8,7 +8,7 @@ source_link = "https://newsroom.prkarma.com/maukadigital_newsroom/news_release/1
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/c487268c1280751faab9cb45ad08281f.jpg"
 article_id = 94381
 feed_item_id = 16318
-url = "/news/202506/94381-mauka-digital-introduces-customizable-booking-engine-to-revolutionize-online-scheduling"
+url = "/202506/94381-mauka-digital-introduces-customizable-booking-engine-to-revolutionize-online-scheduling"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/256/30/jinxKyFu.webp"
 source = "PR Karma"
 +++

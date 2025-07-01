@@ -8,7 +8,7 @@ source_link = "https://www.noticiasnewswire.com/visory-health-wins-gold/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/fd88c702f77bd0ac295324bcab9ccb6b.png"
 article_id = 94358
 feed_item_id = 16395
-url = "/news/202507/94358-visory-health-wins-gold-at-2025-digital-health-awards-for-innovative-prescription-savings-platform"
+url = "/202507/94358-visory-health-wins-gold-at-2025-digital-health-awards-for-innovative-prescription-savings-platform"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/257/1/rainUbv3.webp"
 source = "Noticias Newswire"
 +++

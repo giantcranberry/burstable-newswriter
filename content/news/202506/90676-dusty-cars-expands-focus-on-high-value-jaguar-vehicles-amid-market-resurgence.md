@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524266/dusty-cars-
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/7d97817c9b4b98bfa93e8de11b98e92d.png"
 article_id = 90676
 feed_item_id = 16169
-url = "/news/202506/90676-dusty-cars-expands-focus-on-high-value-jaguar-vehicles-amid-market-resurgence"
+url = "/202506/90676-dusty-cars-expands-focus-on-high-value-jaguar-vehicles-amid-market-resurgence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/26/neonncMC.webp"
 source = "24-7 Press Release"
 +++

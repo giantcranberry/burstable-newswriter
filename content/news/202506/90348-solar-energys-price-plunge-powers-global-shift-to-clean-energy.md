@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/5-facts-about-solar-ener
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/faab0fa4c258cec39f3e0d38876b5209.png"
 article_id = 90348
 feed_item_id = 16084
-url = "/news/202506/90348-solar-energys-price-plunge-powers-global-shift-to-clean-energy"
+url = "/202506/90348-solar-energys-price-plunge-powers-global-shift-to-clean-energy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/dave_hnT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

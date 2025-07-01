@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523065/reimagining
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/c25904af087ed843d10dbea588fc845e.png"
 article_id = 94391
 feed_item_id = 15991
-url = "/news/202506/94391-ferrari-250-gt-red-special-spyder-joins-ron-sturgeon-collection-celebrating-italian-automotive-excellence"
+url = "/202506/94391-ferrari-250-gt-red-special-spyder-joins-ron-sturgeon-collection-celebrating-italian-automotive-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/poemKPjt.webp"
 source = "24-7 Press Release"
 +++

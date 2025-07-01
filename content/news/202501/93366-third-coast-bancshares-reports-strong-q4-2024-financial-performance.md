@@ -1,0 +1,16 @@
++++
+title = "Third Coast Bancshares Reports Strong Q4 2024 Financial Performance"
+date = "2025-01-27T14:35:18Z"
+draft = false
+summary = "Third Coast Bancshares, Inc. showcases significant financial growth in Q4 2024, with increased net income and strategic expansions, highlighting its robust position in the banking sector."
+description = "Stonegate Capital Partners updates coverage on Third Coast Bancshares, Inc., revealing strong 4Q24 results with net income of $13.7M. The company's focus on operational efficiency and growth initiatives positions it for sustained success in the current economic environment."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-coverage-on-third-coast-bancshares-inc-nasdaqgs-tcbx-q4-2024"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/895969df6392badb1a95569299f0b34c.png"
+article_id = 93366
+feed_item_id = 10376
+url = "/202501/93366-third-coast-bancshares-reports-strong-q4-2024-financial-performance"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/251/27/tinto1Zj.webp"
+source = "Reportable"
++++
+
+<p>Third Coast Bancshares, Inc. (NasdaqGS:TCBX) has reported a commendable financial performance for the fourth quarter of 2024, with net income climbing to $13.7 million, up from $12.8 million in the prior quarter. This growth underscores the bank's strategic initiatives and operational efficiencies, marking a positive trajectory in its financial health.</p><p>Key financial indicators reveal substantial advancements, including a rise in net interest income fueled by loan growth and higher investments in federal funds sold and interest-bearing deposits. The bank's loan portfolio saw an annual increase of $327.6 million, while net deposits grew by $507.4 million, a 13.3% rise, reflecting strong customer trust and market penetration.</p><p>Financial stability and efficiency were evident with a return on assets (ROAA) of 1.13% and a return on equity (ROAE) of 12.66%. The efficiency ratio improved to 58.80%, showcasing effective cost management. A Tier 1 capital ratio of 9.90% further emphasized the bank's solid financial foundation.</p><p>Strategic expansion continued with the opening of its 19th branch in late 2024, alongside efforts to diversify its deposit portfolio and manage expenses prudently. The gross loan portfolio expanded to $3.97 billion, supported by a healthy loan pipeline, indicating potential for future growth.</p><p>Valuation metrics suggest optimism, with stock value estimates ranging between $36.85 and $40.95 based on forward price-to-earnings ratios. The quarter-end book value and tangible book value rose to $28.65 and $27.29, respectively, signaling incremental growth.</p><p>While non-performing assets increased to $27.9 million, the nonperforming loan to total loans ratio stood at 0.70%, with net charge-offs decreasing to $879,000 from $1.5 million in the same quarter the previous year. The net interest margin remained strong at 3.71%, outperforming the median competitor's margin of 3.39%. Cash and equivalents surged by 35.78% to $421.2 million, highlighting liquidity strength.</p><p>These results position Third Coast Bancshares as a resilient and growing entity in the banking industry, capable of navigating the complexities of the financial landscape while delivering value to its stakeholders.</p>

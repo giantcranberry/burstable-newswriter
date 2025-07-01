@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/octopus-byd-collaborate-
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/475202e132a692e14a2bd5e0d59c3883.png"
 article_id = 94360
 feed_item_id = 16394
-url = "/news/202507/94360-byd-and-octopus-energy-launch-affordable-ev-charging-solution-in-the-uk"
+url = "/202507/94360-byd-and-octopus-energy-launch-affordable-ev-charging-solution-in-the-uk"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/1/keepG82G.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

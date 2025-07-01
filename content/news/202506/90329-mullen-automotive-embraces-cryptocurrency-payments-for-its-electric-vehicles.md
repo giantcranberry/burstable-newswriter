@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-mullen
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/b794fbc8b01f8e46d0355f5ca41110fd.png"
 article_id = 90329
 feed_item_id = 16140
-url = "/news/202506/90329-mullen-automotive-embraces-cryptocurrency-payments-for-its-electric-vehicles"
+url = "/202506/90329-mullen-automotive-embraces-cryptocurrency-payments-for-its-electric-vehicles"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/herb78DB.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

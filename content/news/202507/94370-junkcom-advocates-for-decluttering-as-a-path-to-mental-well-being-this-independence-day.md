@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/712795/junk-com-experts-share-decl
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 94370
 feed_item_id = 16356
-url = "/news/202507/94370-junkcom-advocates-for-decluttering-as-a-path-to-mental-well-being-this-independence-day"
+url = "/202507/94370-junkcom-advocates-for-decluttering-as-a-path-to-mental-well-being-this-independence-day"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/ponde3kB.webp"
 source = "citybiz"
 +++

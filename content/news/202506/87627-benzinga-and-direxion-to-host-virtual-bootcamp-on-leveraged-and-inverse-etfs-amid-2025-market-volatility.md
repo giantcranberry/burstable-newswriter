@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/benzinga-virtual-event-navigati
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/ebbfda6f379bdef8a3a2d27108ee8f26.png"
 article_id = 87627
 feed_item_id = 16022
-url = "/news/202506/87627-benzinga-and-direxion-to-host-virtual-bootcamp-on-leveraged-and-inverse-etfs-amid-2025-market-volatility"
+url = "/202506/87627-benzinga-and-direxion-to-host-virtual-bootcamp-on-leveraged-and-inverse-etfs-amid-2025-market-volatility"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/23/openaw2i.webp"
 source = "NewMediaWire"
 +++

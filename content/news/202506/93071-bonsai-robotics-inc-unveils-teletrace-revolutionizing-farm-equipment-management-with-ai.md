@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/bonsai-launches-telemetry-platform-to
 enclosure = "https://cdn.newsramp.app/news-direct/newsimage/b379638b906995f6bf06162dd0674ed5.png"
 article_id = 93071
 feed_item_id = 16210
-url = "/news/202506/93071-bonsai-robotics-inc-unveils-teletrace-revolutionizing-farm-equipment-management-with-ai"
+url = "/202506/93071-bonsai-robotics-inc-unveils-teletrace-revolutionizing-farm-equipment-management-with-ai"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/riftT1y2.webp"
 source = "News Direct"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Brera Holdings PLC Announces Strategic Investment in Serie B's SS Juve Stabia"
+date = "2025-01-13T22:15:21Z"
+draft = false
+summary = "Brera Holdings PLC's investment in SS Juve Stabia marks a significant step in its multi-club ownership strategy, promising long-term growth and global expansion for the historic Serie B club."
+description = "Brera Holdings, a Nasdaq-listed international holding company, announces a strategic investment in SS Juve Stabia, a historic Serie B football club with 117 years of tradition. The investment will establish a 52-48 shareholding structure with the current majority owner over three phases through March 2025."
+source_link = "https://rss.investorbrandnetwork.com/investornewsbreaks-brera-holdings-plc-nasdaq-brea-announces-strategic-investment-in-historic-italian-serie-b-club-juve-stabia/"
+enclosure = "https://cdn.newsramp.app/banners/sports-1.jpg"
+article_id = 94542
+feed_item_id = 10000
+url = "/202501/94542-brera-holdings-plc-announces-strategic-investment-in-serie-bs-ss-juve-stabia"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/251/13/numbR_js.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Brera Holdings PLC (NASDAQ: BREA) has made a strategic move by investing in SS Juve Stabia, a historic Serie B football club, signaling a bold step in its multi-club ownership strategy. The investment, expected to finalize by December 31, 2024, will establish a 52-48 shareholding structure with the current majority owner, XX Settembre srl. This partnership underscores Brera Holdings' ambition to expand its footprint in the global sports industry, leveraging the club's prime location near Naples and its proximity to iconic cultural sites.</p><p>Daniel McClory, Executive Chairman of Brera Holdings, highlighted the strategic significance of this investment, pointing to the club's location in the Naples metropolitan area and its access to culturally rich regions like Pompeii and the Amalfi Coast. This acquisition is a testament to Brera Holdings' commitment to building a diverse portfolio of sports clubs across three continents, aiming for capital appreciation and enhanced financial opportunities through sponsorships and professional sports consulting services.</p><p>Andrea Langella, Club President of SS Juve Stabia, expressed optimism about the partnership, anticipating not only increased financial resources but also greater global visibility for the club. The collaboration is set to open new player development pathways within Brera's expanding sports network, offering promising prospects for talent growth and international exposure.</p><p>This investment by Brera Holdings PLC into SS Juve Stabia is a clear indicator of the company's strategic focus on sports investments with potential for long-term growth and societal impact. Further details regarding the transaction will be shared in the company's forthcoming SEC filings, providing more insights into this significant development in the sports and business sectors.</p>

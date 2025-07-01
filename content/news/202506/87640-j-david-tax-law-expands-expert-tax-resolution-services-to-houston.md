@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/j-david-tax-law-offers-expert-help-for
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/0ec7492c3e28fc4876d51addbaf5fa4e.jpg"
 article_id = 87640
 feed_item_id = 15978
-url = "/news/202506/87640-j-david-tax-law-expands-expert-tax-resolution-services-to-houston"
+url = "/202506/87640-j-david-tax-law-expands-expert-tax-resolution-services-to-houston"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/21/icyVOM3.webp"
 source = "Press Services"
 +++

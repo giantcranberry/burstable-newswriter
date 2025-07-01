@@ -1,0 +1,16 @@
++++
+title = "Casela Technologies Unveils ELSA-16: A Game-Changer for Optical Interconnects in AI and High-Performance Computing"
+date = "2025-03-31T15:35:24Z"
+draft = false
+summary = "Casela Technologies' ELSA-16 platform introduces a revolutionary approach to optical interconnects, offering scalability and efficiency for AI and high-performance computing systems."
+description = "Casela Technologies introduces ELSA-16, a game-changing 16-channel External Laser Source platform, set to revolutionize AI infrastructure with enhanced performance and scalability. Learn how this technology redefines the limits of scalability in AI and HPC systems, offering industry-leading efficiency and precise control for optical interconnects."
+source_link = "https://newsdirect.com/news/introducing-elsa-16-casela-technologies-powers-the-future-of-ai-i-o-with-breakthrough-16-channel-external-laser-source-platform-architectures-883362093"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/ca6803f0573a4c596c30f39cbaddd3b2.png"
+article_id = 93033
+feed_item_id = 12362
+url = "/202503/93033-casela-technologies-unveils-elsa-16-a-game-changer-for-optical-interconnects-in-ai-and-high-performance-computing"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/31/bold5ayh.webp"
+source = "News Direct"
++++
+
+<p>Casela Technologies has launched the ELSA-16, an external laser source platform designed to revolutionize optical interconnects in artificial intelligence (AI) and high-performance computing (HPC) systems. This platform combines 16 high-power Distributed Feedback (DFB) lasers with sophisticated control electronics, setting a new standard for performance and scalability in the industry.</p><p>The ELSA-16 platform stands out for its customizable power profiles, with laser outputs ranging from 150 to 200 milliwatts per channel. It accommodates a variety of wavelength configurations, including 1310nm and CWDM-4 options, ensuring versatility across different networking environments. A notable feature is its capacity to produce up to 128 optical channels through 16 x 8-comb source configurations, making it a forward-looking solution for emerging Co-Packaged Optics (CPO) and silicon photonics architectures.</p><p>At the Optical Fiber Communication Conference (OFC) 2025, Casela showcased the ELSA-16's capabilities, highlighting a 16-wavelength version that supports over 128 channels in a compact, pluggable form factor. Milind Gokhale, the company's Chief Technology Officer, contributed to a panel discussion on the future of laser architecture and optical interconnects for AI and machine learning applications, underscoring the platform's significance.</p><p>The ELSA-16 is engineered to tackle key challenges in AI infrastructure, boasting superior wall plug efficiency and precise wavelength control. Its support for high-density, parallel optical links paves the way for more compact, energy-efficient, and cost-effective optical interconnect solutions. With its ability to facilitate dense wavelength division multiplexing and compatibility with advanced silicon modulators, the ELSA-16 is poised to be instrumental in the development of next-generation high-bandwidth computing infrastructure. Its modular and scalable design makes it an ideal choice for organizations aiming to enhance their AI and HPC systems.</p>

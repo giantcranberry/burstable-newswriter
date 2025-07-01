@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/additional-ugi-system-upgrades-
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/3f7254a4225771f9a3b1d80b84d16bf2.jpg"
 article_id = 84002
 feed_item_id = 15782
-url = "/news/202506/84002-ugi-utilities-launches-gas-main-upgrade-in-hazleton-to-enhance-safety-and-reliability"
+url = "/202506/84002-ugi-utilities-launches-gas-main-upgrade-in-hazleton-to-enhance-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/17/gluerdee.webp"
 source = "Reportable"
 +++

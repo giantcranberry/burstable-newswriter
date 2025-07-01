@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ai-tools-arent-enough-w
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/53bd6b27096afb65a18b09c4a474b216.png"
 article_id = 90344
 feed_item_id = 16097
-url = "/news/202506/90344-metas-ai-driven-ad-tools-and-the-essential-role-of-human-insight-in-marketing"
+url = "/202506/90344-metas-ai-driven-ad-tools-and-the-essential-role-of-human-insight-in-marketing"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/chefXOaw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

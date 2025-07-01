@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/dominicancaonline-launches-100-online-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/fdd65f72d3e3939b66341415f27d434e.png"
 article_id = 84004
 feed_item_id = 15773
-url = "/news/202506/84004-dominicancaonline-launches-fully-online-early-childhood-education-certificate-program"
+url = "/202506/84004-dominicancaonline-launches-fully-online-early-childhood-education-certificate-program"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/17/xenoFeci.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708199/kin-launches-customized-hom
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/55ff7392581496506d30d75d84130a14.png"
 article_id = 84446
 feed_item_id = 15832
-url = "/news/202506/84446-kin-expands-into-colorado-with-customized-home-insurance-solutions-for-severe-weather-challenges"
+url = "/202506/84446-kin-expands-into-colorado-with-customized-home-insurance-solutions-for-severe-weather-challenges"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/plumhbrC.webp"
 source = "citybiz"
 +++

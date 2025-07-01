@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/former-oura-ceo-harpreet-singh-rai-jo
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
 article_id = 90666
 feed_item_id = 16237
-url = "/news/202506/90666-loop-appoints-former-oura-ceo-harpreet-singh-rai-as-president-healthcare-to-revolutionize-preventive-health-in-india"
+url = "/202506/90666-loop-appoints-former-oura-ceo-harpreet-singh-rai-as-president-healthcare-to-revolutionize-preventive-health-in-india"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/27/mildHZBj.webp"
 source = "News Direct"
 +++

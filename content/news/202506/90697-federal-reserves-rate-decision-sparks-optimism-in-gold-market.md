@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/gold-firms-as-the-us-fed
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/91dc2e1a93edfe89fbda8fc1eb7789a4.png"
 article_id = 90697
 feed_item_id = 16034
-url = "/news/202506/90697-federal-reserves-rate-decision-sparks-optimism-in-gold-market"
+url = "/202506/90697-federal-reserves-rate-decision-sparks-optimism-in-gold-market"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/loss9Srk.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

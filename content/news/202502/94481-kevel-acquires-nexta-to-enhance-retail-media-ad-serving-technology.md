@@ -1,0 +1,16 @@
++++
+title = "Kevel Acquires Nexta to Enhance Retail Media Ad Serving Technology"
+date = "2025-02-11T14:00:12Z"
+draft = false
+summary = "Kevel's acquisition of Nexta merges on-site and off-site advertising capabilities, offering retailers a unified platform for personalized, data-driven ad campaigns in the booming retail media market."
+description = "Kevel announces acquisition of Nexta to strengthen its retail media solution and drive revenue growth for retail brands. Learn how this acquisition is revolutionizing the retail media landscape."
+source_link = "https://newsdirect.com/news/kevel-announces-acquisition-of-nexta-to-strengthen-its-retail-media-solution-and-drive-revenue-growth-for-retail-brands-607169126"
+enclosure = "https://cdn.newsramp.app/banners/frontier-tech-1.jpg"
+article_id = 94481
+feed_item_id = 10757
+url = "/202502/94481-kevel-acquires-nexta-to-enhance-retail-media-ad-serving-technology"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/11/airygULA.webp"
+source = "News Direct"
++++
+
+<p>Kevel, a prominent provider of API-based retail media ad serving technology, has announced the acquisition of Nexta, an automated advertising self-serve platform. This strategic move is set to bolster Kevel's retail media offerings, enabling retailers to harness a more comprehensive suite of tools for building custom retail media networks. The integration of Nexta's AI-driven ad management platform into Kevel's Retail Media CloudTM marks a significant step forward in providing retailers with a full-stack solution aimed at optimizing advertising operations, enhancing ad personalization, and improving overall efficiency.</p><p>The global retail media market is on a rapid growth trajectory, with projections suggesting it could reach nearly $170 billion by 2025. This expansion presents a lucrative opportunity for retailers venturing into media ownership. Kevel's acquisition of Nexta is timely, combining Kevel's expertise in on-site ad-serving technology with Nexta's off-site capabilities. The result is a unified platform that offers retailers unparalleled flexibility in managing their multi-channel advertising investments, a critical advantage in today's competitive landscape.</p><p>James Avery, CEO of Kevel, highlighted the acquisition's strategic value, noting its role in advancing the company's mission to revolutionize the retail media sector. Martin Jensen, Founder and Chairman of Nexta, echoed this sentiment, describing the merger as a perfect alignment of complementary strengths. Together, Kevel and Nexta are poised to deliver a solution that empowers retailers with advanced tools for leveraging first-party data, implementing closed-loop attribution, and crafting personalized customer engagement strategies.</p><p>This acquisition not only underscores Kevel's commitment to innovation but also positions the company as a leader in the evolving retail media ecosystem. By offering both pre-built and customizable interfaces, Kevel is making advanced advertising technology accessible to retailers of all sizes. As the industry continues to grow, Kevel's enhanced platform is set to play a pivotal role in enabling retailers to develop sophisticated, data-driven advertising platforms capable of competing with the biggest names in the business.</p>

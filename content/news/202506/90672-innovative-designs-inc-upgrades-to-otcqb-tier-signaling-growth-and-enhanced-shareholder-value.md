@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/innovative-designs-inc-fulfills
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/2f0e7fefca7099df1e33ddd6d813cf80.png"
 article_id = 90672
 feed_item_id = 16200
-url = "/news/202506/90672-innovative-designs-inc-upgrades-to-otcqb-tier-signaling-growth-and-enhanced-shareholder-value"
+url = "/202506/90672-innovative-designs-inc-upgrades-to-otcqb-tier-signaling-growth-and-enhanced-shareholder-value"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/26/urgekZTs.webp"
 source = "NewMediaWire"
 +++

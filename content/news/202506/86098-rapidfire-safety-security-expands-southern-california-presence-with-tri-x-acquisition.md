@@ -8,7 +8,7 @@ source_link = "https://newsroom.prkarma.com/rapidfire/news_release/1668"
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/0e07a7c74b2ebc5517ba594ebccb475a.jpg"
 article_id = 86098
 feed_item_id = 15911
-url = "/news/202506/86098-rapidfire-safety-security-expands-southern-california-presence-with-tri-x-acquisition"
+url = "/202506/86098-rapidfire-safety-security-expands-southern-california-presence-with-tri-x-acquisition"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/256/19/hushzE_n.webp"
 source = "PR Karma"
 +++

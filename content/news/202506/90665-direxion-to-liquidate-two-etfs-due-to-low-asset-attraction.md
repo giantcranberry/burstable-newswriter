@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/direxion-closing-two-etfs-242572015"
 enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
 article_id = 90665
 feed_item_id = 16263
-url = "/news/202506/90665-direxion-to-liquidate-two-etfs-due-to-low-asset-attraction"
+url = "/202506/90665-direxion-to-liquidate-two-etfs-due-to-low-asset-attraction"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/27/wolfkOTY.webp"
 source = "News Direct"
 +++

@@ -8,7 +8,7 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-scheduled-t
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/620e132ab23dce2ab6e78d6fdc15c211.jpg"
 article_id = 93070
 feed_item_id = 16212
-url = "/news/202506/93070-ugi-utilities-announces-bethlehem-system-upgrades-to-enhance-service-reliability"
+url = "/202506/93070-ugi-utilities-announces-bethlehem-system-upgrades-to-enhance-service-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/256/26/evenQYKm.webp"
 source = "Reportable"
 +++

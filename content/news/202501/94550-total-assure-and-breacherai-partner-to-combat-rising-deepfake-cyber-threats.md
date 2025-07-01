@@ -1,0 +1,16 @@
++++
+title = "Total Assure and Breacher.ai Partner to Combat Rising Deepfake Cyber Threats"
+date = "2025-01-08T22:25:13Z"
+draft = false
+summary = "Total Assure and Breacher.ai's partnership introduces an innovative cybersecurity solution to protect businesses from the increasing threat of deepfake-related crimes, combining advanced technology with employee awareness training."
+description = "Total Assure and Breacher.ai team up to provide advanced deepfake defense solutions, offering businesses essential protection against emerging cyber threats. Learn how this partnership is revolutionizing cybersecurity defenses in the face of AI-powered attacks."
+source_link = "https://www.24-7pressrelease.com/press-release/517719/total-assure-partners-with-breacherai-to-address-deepfake-vulnerabilities"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 94550
+feed_item_id = 9928
+url = "/202501/94550-total-assure-and-breacherai-partner-to-combat-rising-deepfake-cyber-threats"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/251/8/pineTSIk.webp"
+source = "24-7 Press Release"
++++
+
+<p>The collaboration between Total Assure and Breacher.ai marks a pivotal development in cybersecurity, addressing the alarming rise in deepfake-related crimes across North America. With a 1,740% increase in such incidents, businesses are facing unprecedented risks from these AI-powered attacks. The partnership leverages Breacher.ai's expertise in deepfake simulation and Total Assure's comprehensive security solutions to offer a multifaceted defense strategy.</p><p>Jack Byrne, CIO of Total Assure, and Jason Thatcher, Founder of Breacher.ai, have both highlighted the critical nature of this alliance. It not only combines cutting-edge technology with traditional security measures but also focuses on educating employees to recognize and respond to sophisticated phishing attempts. This approach is vital, as deepfake attacks often exploit human trust, bypassing conventional security protocols.</p><p>Recent data from Onfido's 2024 report reveals a 3,000% surge in deepfake-related cyberattacks in 2023, underscoring the urgency for innovative solutions. The partnership's key offerings include deepfake simulation testing to uncover vulnerabilities, enhanced awareness training for staff, and rigorous testing of security controls against social engineering attacks. These measures are designed to integrate smoothly with existing cybersecurity infrastructures, ensuring robust protection without operational disruptions.</p><p>Total Assure's holistic cybersecurity framework, encompassing managed security services, cybersecurity engineering, and compliance services, complements Breacher.ai's specialized deepfake defenses. Together, they aim to establish a new benchmark in digital security, providing businesses with the tools to navigate the evolving threat landscape confidently.</p><p>This partnership is a timely response to the growing sophistication of deepfake technology, offering a comprehensive solution to safeguard businesses against these advanced threats. For organizations looking to evaluate their defenses against deepfake attacks, more information is available at <a href='https://www.totalassure.com/solutions/deepfakes' rel='nofollow' target='_blank'>https://www.totalassure.com/solutions/deepfakes</a>.</p>

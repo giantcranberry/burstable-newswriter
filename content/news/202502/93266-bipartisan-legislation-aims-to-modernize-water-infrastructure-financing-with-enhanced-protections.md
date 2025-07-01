@@ -1,0 +1,16 @@
++++
+title = "Bipartisan Legislation Aims to Modernize Water Infrastructure Financing with Enhanced Protections"
+date = "2025-02-13T20:40:10Z"
+draft = false
+summary = "New bipartisan legislation introduced by Senators Mark Kelly and Kevin Cramer, along with Representatives Mike Bost and Chris Pappas, seeks to modernize the Water Infrastructure Finance & Innovation Act by ensuring comprehensive payment and performance bonding for infrastructure projects, aiming to protect workers, subcontractors, suppliers, and taxpayers."
+description = "Surety & Fidelity Association of America (SFAA) commends Senators Mark Kelly and Kevin Cramer, as well as Representatives Mike Bost and Chris Pappas, for introducing the Water Infrastructure Subcontractor and Taxpayer Protection Act. This bipartisan legislation ensures payment and performance bonding on infrastructure projects receiving WIFIA assistance, safeguarding workers, subcontractors, suppliers, and taxpayers."
+source_link = "https://newsdirect.com/news/sfaa-applauds-introduction-of-legislation-to-modernize-wifia-254147723"
+enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
+article_id = 93266
+feed_item_id = 10875
+url = "/202502/93266-bipartisan-legislation-aims-to-modernize-water-infrastructure-financing-with-enhanced-protections"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/252/13/yogafpdS.webp"
+source = "News Direct"
++++
+
+<p>In a move to bolster the financial safeguards of water infrastructure projects, a bipartisan group of lawmakers has introduced legislation aimed at modernizing the Water Infrastructure Finance & Innovation Act (WIFIA). The proposed *Water Infrastructure Subcontractor and Taxpayer Protection Act* would mandate comprehensive payment and performance bonding for projects funded under the WIFIA program, aligning its requirements with those of other federal infrastructure initiatives such as the Transportation Infrastructure Finance & Innovation Act (TIFIA).</p><p>The legislation, championed by Senators Mark Kelly and Kevin Cramer and Representatives Mike Bost and Chris Pappas, seeks to establish consistent financial protections across federally funded infrastructure projects. This initiative is designed to safeguard the interests of workers, subcontractors, suppliers, and taxpayers by mitigating financial risks and ensuring more reliable project completion.</p><p>Ryan Work, President and CEO of the Surety & Fidelity Association of America (SFAA), highlighted the importance of these protections, noting that the proposed changes would create parity between traditional project delivery methods and public-private partnerships (P3s) utilizing the WIFIA program. The SFAA, representing over 425 member companies that issue 98 percent of surety and fidelity bonds in the U.S., is actively supporting the legislation's advancement in the 119th Congress.</p><p>This legislative effort marks a significant step toward enhancing financial accountability and risk management in water infrastructure development. By requiring comprehensive bonding, the *Water Infrastructure Subcontractor and Taxpayer Protection Act* aims to foster more secure and efficient federal infrastructure investments, benefiting a wide range of stakeholders and contributing to the nation's infrastructure resilience.</p>

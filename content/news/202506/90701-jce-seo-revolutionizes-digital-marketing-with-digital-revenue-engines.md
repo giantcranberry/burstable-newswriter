@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/transform-your-business-with-digital-r
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/6a358eb47c8b6abc1fd6bfcda429eed1.jpg"
 article_id = 90701
 feed_item_id = 15971
-url = "/news/202506/90701-jce-seo-revolutionizes-digital-marketing-with-digital-revenue-engines"
+url = "/202506/90701-jce-seo-revolutionizes-digital-marketing-with-digital-revenue-engines"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/21/filoSOup.webp"
 source = "Press Services"
 +++

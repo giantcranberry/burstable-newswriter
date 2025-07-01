@@ -1,0 +1,16 @@
++++
+title = "Cannoli Kitchen Pizza Announces Major Expansion Across Southern U.S."
+date = "2025-02-25T15:06:14Z"
+draft = false
+summary = "Cannoli Kitchen Pizza is expanding its franchise operations significantly in 2025, targeting Florida, Texas, Georgia, and the Carolinas, with plans to open 23 new restaurants and secure 50 franchise agreements, signaling robust growth in the competitive fast-casual dining sector."
+description = "Cannoli Kitchen Pizza™ announces plans for expansion in 2025, focusing on opening new restaurants and signing franchise agreements in Florida, Texas, Georgia, and the Carolinas. Learn more about the brand's growth and vision for the upcoming year."
+source_link = "https://www.24-7pressrelease.com/press-release/519995/cannoli-kitchen-pizza-announces-continued-robust-growth-strategy-for-2025"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 93216
+feed_item_id = 11121
+url = "/202502/93216-cannoli-kitchen-pizza-announces-major-expansion-across-southern-us"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/25/rushdOhQ.webp"
+source = "24-7 Press Release"
++++
+
+<p>Cannoli Kitchen Pizza, a burgeoning name in the fast-casual dining sector, has unveiled ambitious expansion plans for 2025, aiming to broaden its presence across Florida, Texas, Georgia, and the Carolinas. This strategic move includes the opening of 23 franchisee-owned restaurants and the signing of 50 new franchise agreements by year's end, marking a significant leap in the company's growth trajectory.</p><p>The expansion builds on the company's successful 2024, during which it secured seven new franchise agreements across four states, including notable locations in Florida's Boca Raton, Fort Lauderdale, and Orlando, as well as in Texas, Tennessee, and Georgia. Austin Titus, president of Cannoli Kitchen Pizza, highlighted the brand's focused approach to growth, with particular emphasis on Florida. Planned developments include new outlets in Boca Raton, Miami, Jacksonville, Tampa, and the Orlando area, alongside a summer opening in Marietta, Georgia, and three locations in north Texas, including McKinney.</p><p>To accommodate this rapid expansion, Cannoli Kitchen Pizza has bolstered its leadership team with the appointment of Jenna Negrin as training and support manager. Negrin, a graduate of the Florida Culinary Institute with over two decades of operations experience, is set to enhance operational support and streamline business platforms, ensuring the brand's standards are maintained across new locations.</p><p>In tandem with its physical expansion, Cannoli Kitchen Pizza is upgrading its digital infrastructure. The relaunch of its website and the creation of individual landing pages for each restaurant location aim to improve customer access to online ordering and catering services, reflecting the brand's commitment to convenience and customer service.</p><p>From its humble beginnings as a single independent restaurant in Boca Raton in 1996, Cannoli Kitchen Pizza has grown into a notable franchise under United Franchise Group's Big Flavor Brands division. The company's focus on authentic Italian cuisine, premium ingredients, and quick, friendly service continues to drive its expansion, positioning it as a key player in the competitive fast-casual dining market.</p>

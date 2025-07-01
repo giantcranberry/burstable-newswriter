@@ -1,0 +1,16 @@
++++
+title = "Postsaver and Wood-Mizer Launch PostMizer to Revolutionize Timber Post Protection"
+date = "2025-02-06T08:05:23Z"
+draft = false
+summary = "The partnership between Postsaver and Wood-Mizer introduces the PostMizer, a machine designed to enhance timber post durability with eco-friendly rot protection, marking a significant advancement in sustainable fencing solutions."
+description = "Postsaver and Wood-Mizer partnership introduces the PostMizer, a revolutionary machine for applying rot protectors to timber posts. This innovative solution addresses the timber industry's challenges and offers a sustainable alternative to traditional treatments."
+source_link = "https://www.24-7pressrelease.com/press-release/519472/postsaver-partners-with-global-machinery-leader-wood-mizer-to-launch-postmizer"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-3.jpg"
+article_id = 93309
+feed_item_id = 10675
+url = "/202502/93309-postsaver-and-wood-mizer-launch-postmizer-to-revolutionize-timber-post-protection"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/252/6/tintcxLq.webp"
+source = "24-7 Press Release"
++++
+
+<p>The collaboration between Postsaver, a UK-based family company, and Wood-Mizer, a global leader in sawmilling machinery, has led to the development of the PostMizer. This custom application machine is set to transform the timber industry by offering a solution that protects timber posts from decay, thereby enhancing their market competitiveness. The PostMizer utilizes Postsaver's Pro-Sleeve and Pro-Sleeve +PLUS technologies to apply up to 360 rot protection sleeves per hour, ensuring post lifespans of 20 and 40 years, respectively.</p><p>This innovation presents an eco-friendly alternative to traditional timber treatments, catering to a wide range of markets including agricultural sectors, local authorities, fencing specifiers, and homeowners. The technology behind the PostMizer creates a dual-layer barrier protection system that, when heated, forms an air and water-tight seal around the post. This method not only extends the life of timber posts but also reduces the environmental impact associated with conventional treatments.</p><p>Wood-Mizer brings over 40 years of industry experience to the partnership, ensuring the PostMizer is developed to the highest standards. Customers will benefit from Wood-Mizer's support and flexible payment options, making it easier to integrate the PostMizer into existing production lines. Richard George, CEO of Postsaver, highlighted the strategic significance of this partnership, underscoring the commitment to delivering industry-leading solutions that address the pressing need for durable and sustainable timber products.</p><p>The introduction of the PostMizer comes at a time when the demand for sustainable and long-lasting fencing solutions is on the rise. By combining Postsaver's innovative rot prevention technology with Wood-Mizer's engineering prowess, the PostMizer is poised to redefine the timber industry's standards for post durability and sustainability. This development not only offers a cost-effective solution for sawmills and timber merchants but also contributes to the broader goal of environmental conservation by minimizing the need for harmful chemical treatments.</p>

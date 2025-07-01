@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-newton
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/6877e011b7b0de8224d20da26bef7a38.png"
 article_id = 90361
 feed_item_id = 16020
-url = "/news/202506/90361-newton-golf-company-inc-celebrates-pga-tour-champions-victory-with-fast-motion-shaft"
+url = "/202506/90361-newton-golf-company-inc-celebrates-pga-tour-champions-victory-with-fast-motion-shaft"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/pintpoAf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

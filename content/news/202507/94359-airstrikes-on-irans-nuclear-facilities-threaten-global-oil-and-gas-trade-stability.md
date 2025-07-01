@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/global-trade-in-oil-gas-
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/7c9579f516437cfed90f24bbb260c34a.png"
 article_id = 94359
 feed_item_id = 16393
-url = "/news/202507/94359-airstrikes-on-irans-nuclear-facilities-threaten-global-oil-and-gas-trade-stability"
+url = "/202507/94359-airstrikes-on-irans-nuclear-facilities-threaten-global-oil-and-gas-trade-stability"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/1/flaxVh40.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

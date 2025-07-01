@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/707188/qa-with-octavio-oj-laos-dir
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/1f9be1635ebed10996f0d0aef3255f0d.png"
 article_id = 85104
 feed_item_id = 15792
-url = "/news/202506/85104-armaninos-firmwide-digital-group-pioneers-ai-integration-in-business-processes"
+url = "/202506/85104-armaninos-firmwide-digital-group-pioneers-ai-integration-in-business-processes"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/smogjou8.webp"
 source = "citybiz"
 +++

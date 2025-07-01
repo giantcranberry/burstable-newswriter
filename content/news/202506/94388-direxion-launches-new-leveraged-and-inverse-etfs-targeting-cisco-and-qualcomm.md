@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/cisco-and-qualcomm-extend-direxions-e
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 94388
 feed_item_id = 16123
-url = "/news/202506/94388-direxion-launches-new-leveraged-and-inverse-etfs-targeting-cisco-and-qualcomm"
+url = "/202506/94388-direxion-launches-new-leveraged-and-inverse-etfs-targeting-cisco-and-qualcomm"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/25/finecLDh.webp"
 source = "News Direct"
 +++

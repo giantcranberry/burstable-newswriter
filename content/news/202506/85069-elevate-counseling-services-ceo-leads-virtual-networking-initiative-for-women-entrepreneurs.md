@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708713/elevate-counseling-services
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/81f0592e1ac400f3c2fb8271fe7a8ae6.png"
 article_id = 85069
 feed_item_id = 15891
-url = "/news/202506/85069-elevate-counseling-services-ceo-leads-virtual-networking-initiative-for-women-entrepreneurs"
+url = "/202506/85069-elevate-counseling-services-ceo-leads-virtual-networking-initiative-for-women-entrepreneurs"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/quizMriP.webp"
 source = "citybiz"
 +++

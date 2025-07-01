@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/4-use-cases-illustrating
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/246a7f8c1e3be24d0ee29ac41d3321f0.png"
 article_id = 90332
 feed_item_id = 16130
-url = "/news/202506/90332-ais-transformative-role-in-social-media-enhancing-engagement-and-safety"
+url = "/202506/90332-ais-transformative-role-in-social-media-enhancing-engagement-and-safety"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/zestMO8V.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

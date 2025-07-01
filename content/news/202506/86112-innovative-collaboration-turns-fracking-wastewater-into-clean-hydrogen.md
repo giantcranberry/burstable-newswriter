@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/hno-international-leads-groundbreakin
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/2da8f34f000bacf9de0f6bf29321cd77.png"
 article_id = 86112
 feed_item_id = 15836
-url = "/news/202506/86112-innovative-collaboration-turns-fracking-wastewater-into-clean-hydrogen"
+url = "/202506/86112-innovative-collaboration-turns-fracking-wastewater-into-clean-hydrogen"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/18/sagey8Xh.webp"
 source = "News Direct"
 +++

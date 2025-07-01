@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-bitmin
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/90a1033a709dac0fba585edb484758d8.png"
 article_id = 94363
 feed_item_id = 16377
-url = "/news/202507/94363-bitmine-immersion-technologies-secures-250-million-for-ethereum-treasury-strategy"
+url = "/202507/94363-bitmine-immersion-technologies-secures-250-million-for-ethereum-treasury-strategy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/1/swimw1Fv.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

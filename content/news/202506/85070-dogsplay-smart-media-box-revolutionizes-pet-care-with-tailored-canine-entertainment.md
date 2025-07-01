@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524007/next-level-
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/d1df6c4ffb532492ac62c2399bb4fb7c.png"
 article_id = 85070
 feed_item_id = 15901
-url = "/news/202506/85070-dogsplay-smart-media-box-revolutionizes-pet-care-with-tailored-canine-entertainment"
+url = "/202506/85070-dogsplay-smart-media-box-revolutionizes-pet-care-with-tailored-canine-entertainment"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/19/zealviSR.webp"
 source = "24-7 Press Release"
 +++

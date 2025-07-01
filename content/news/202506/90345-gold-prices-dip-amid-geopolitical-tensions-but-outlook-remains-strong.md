@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/gold-edged-lower-while-t
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/43f56b101e188425ab0aba85d4f57d0b.png"
 article_id = 90345
 feed_item_id = 16095
-url = "/news/202506/90345-gold-prices-dip-amid-geopolitical-tensions-but-outlook-remains-strong"
+url = "/202506/90345-gold-prices-dip-amid-geopolitical-tensions-but-outlook-remains-strong"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/volto7N6.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

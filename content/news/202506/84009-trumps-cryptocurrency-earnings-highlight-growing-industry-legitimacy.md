@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/trump-discloses-income-i
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/e6f1dd5af39aa77b9476822cfeddf01f.png"
 article_id = 84009
 feed_item_id = 15732
-url = "/news/202506/84009-trumps-cryptocurrency-earnings-highlight-growing-industry-legitimacy"
+url = "/202506/84009-trumps-cryptocurrency-earnings-highlight-growing-industry-legitimacy"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/finefOr5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

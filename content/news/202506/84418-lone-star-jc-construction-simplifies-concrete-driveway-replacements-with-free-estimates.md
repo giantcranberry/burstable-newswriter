@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/transparent-pricing-for-quality-drivew
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/226fa3a69d0a233f11a45555f1faa4ff.jpg"
 article_id = 84418
 feed_item_id = 15657
-url = "/news/202506/84418-lone-star-jc-construction-simplifies-concrete-driveway-replacements-with-free-estimates"
+url = "/202506/84418-lone-star-jc-construction-simplifies-concrete-driveway-replacements-with-free-estimates"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/16/lendSEu7.webp"
 source = "Press Services"
 +++

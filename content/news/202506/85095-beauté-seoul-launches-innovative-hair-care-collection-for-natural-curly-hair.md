@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523906/beaute-seou
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/2472cd5fa48e5406c877eebbfe434cd9.png"
 article_id = 85095
 feed_item_id = 15823
-url = "/news/202506/85095-beauté-seoul-launches-innovative-hair-care-collection-for-natural-curly-hair"
+url = "/202506/85095-beauté-seoul-launches-innovative-hair-care-collection-for-natural-curly-hair"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/faceM7fW.webp"
 source = "24-7 Press Release"
 +++

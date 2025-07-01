@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-usobse
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/8e87e548815a3af3f88d8d7c4bc02e45.png"
 article_id = 90699
 feed_item_id = 16028
-url = "/news/202506/90699-investigation-into-morpheus-research-highlights-concerns-over-market-ethics-and-investor-safety"
+url = "/202506/90699-investigation-into-morpheus-research-highlights-concerns-over-market-ethics-and-investor-safety"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/boldx1hP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

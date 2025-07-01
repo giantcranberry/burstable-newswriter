@@ -1,0 +1,16 @@
++++
+title = "Femto Technologies Inc. Secures $17 Million to Advance Feminine Wellness Innovations"
+date = "2025-02-26T19:50:16Z"
+draft = false
+summary = "Femto Technologies Inc. has raised $17 million in a private placement to further develop its AI-powered feminine wellness device, Sensera, marking a significant step forward in the FemTech industry."
+description = "Femto Technologies Inc. announces a $17 million private placement for its Sensera feminine wellness product. The offering, expected to close on February 27, 2025, will support the company's growth and development in the FemTech industry."
+source_link = "https://www.newmediawire.com/news/femto-technologies-inc-announces-17-million-private-placement-7079597"
+enclosure = "https://cdn.newsramp.app/banners/technology-1.jpg"
+article_id = 93201
+feed_item_id = 11172
+url = "/202502/93201-femto-technologies-inc-secures-17-million-to-advance-feminine-wellness-innovations"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/252/26/meanDUNk.webp"
+source = "NewMediaWire"
++++
+
+<p>Femto Technologies Inc., a leader in the FemTech sector, has successfully secured $17 million through a private placement investment. This financial infusion is set to accelerate the development of the company's groundbreaking feminine wellness technologies, particularly its Sensera device, which leverages artificial intelligence and machine learning to offer personalized care solutions for women.</p><p>The investment involves the issuance of common shares and warrants to institutional investors at $4.17 per common unit, with the transaction anticipated to close on February 27, 2025. The funding round includes the sale of common units that consist of common shares, Series A warrants, and Series B PIPE common warrants, each with specific exercise prices and expiration timelines. Femto Technologies plans to allocate the net proceeds towards general corporate purposes and working capital, furthering the development of Sensera.</p><p>Sensera, Femto's flagship product, has recently been honored with a CES Innovation Awards® 2025 designation in the AI category. The device incorporates the proprietary Smart Release System (SRS) technology, designed to adapt to the evolving needs of women, offering a comprehensive self-care experience. This recognition and the recent funding highlight Femto's commitment to addressing gaps in feminine wellness through innovative technological solutions.</p><p>Aegis Capital Corp. acted as the exclusive placement agent for this private placement, which was offered solely to accredited investors in a transaction not involving a public offering. The securities involved have not been registered under the Securities Act of 1933, emphasizing the private nature of this investment.</p><p>This significant financial achievement not only underscores Femto Technologies' strategic position in the rapidly growing FemTech market but also signals the potential for continued innovation and expansion in technologies aimed at enhancing female wellness. The development of Sensera and the company's focus on integrating AI into feminine wellness products represent a forward-thinking approach to addressing women's health needs, setting a new standard in the industry.</p>

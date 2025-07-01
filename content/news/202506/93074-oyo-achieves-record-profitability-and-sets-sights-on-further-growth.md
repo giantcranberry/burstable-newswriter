@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/oyo-becomes-the-most-profitable-india
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 93074
 feed_item_id = 16122
-url = "/news/202506/93074-oyo-achieves-record-profitability-and-sets-sights-on-further-growth"
+url = "/202506/93074-oyo-achieves-record-profitability-and-sets-sights-on-further-growth"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/25/rush47gk.webp"
 source = "News Direct"
 +++

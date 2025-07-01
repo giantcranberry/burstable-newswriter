@@ -1,0 +1,16 @@
++++
+title = "Nicole Saunders Joins Higher Logic to Lead Customer Experience Strategy"
+date = "2025-06-03T18:25:08Z"
+draft = false
+summary = "Higher Logic appoints Nicole Saunders to enhance customer engagement through community-led strategies, marking a significant step towards innovative customer experience management."
+description = "Higher Logic appoints Nicole Saunders to lead customer experience strategy, focusing on community-driven engagement and retention. Learn how this impacts your business."
+source_link = "https://www.citybiz.co/article/702085/higher-logic-appoints-nicole-saunders-to-lead-customer-experience-strategy/"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-1.jpg"
+article_id = 92952
+feed_item_id = 15039
+url = "/202506/92952-nicole-saunders-joins-higher-logic-to-lead-customer-experience-strategy"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/3/zealeR_a.webp"
+source = "citybiz"
++++
+
+<p>Higher Logic, a leading provider of engagement software for associations and organizations, has announced the appointment of Nicole Saunders to lead its customer experience strategy. With a rich background in community and customer marketing at notable companies such as Zendesk and Coupa, Saunders is poised to transform how organizations utilize community to build stronger customer relationships and create more impactful experiences.</p><p>Saunders brings over 15 years of experience to Higher Logic, during which she has developed award-winning programs and shared her insights as a speaker, consultant, and co-host of the CX Nexus podcast. Her primary focus will be on guiding organizations to use community as a strategic asset for improving customer engagement, support, and retention. This move is expected to introduce a structured approach to programs designed for achieving substantial business outcomes.</p><p>Rob Wenger, CEO and co-founder of Higher Logic, commended Saunders for her expertise in turning customer relationships into avenues for sustainable growth. He emphasized her deep understanding of how community enhances the customer experience and her skill in applying these strategies effectively. Saunders' leadership is set to significantly boost Higher Logic's ability to support its customers.</p><p>In addition to her internal role, Saunders will represent Higher Logic in industry forums, partnerships, and thought leadership initiatives, playing a key role in influencing the market's adoption of community-led growth strategies. Saunders shared her excitement about helping teams implement the systems and practices needed for confident growth, leveraging her experience with pioneering community and customer marketing teams in the technology sector.</p><p>An upcoming Higher Logic webinar, 'Building Advocacy Pathways in Your Community,' scheduled for June 5 at 2 p.m. ET, will feature Saunders discussing how to align community programs with customer advocacy strategies. This event highlights Higher Logic's dedication to equipping organizations with the resources and insights necessary for success in community-led initiatives.</p>

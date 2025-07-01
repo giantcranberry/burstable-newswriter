@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-brera-
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/9228d3b9c3005d370a203646f52a9aee.png"
 article_id = 90311
 feed_item_id = 16194
-url = "/news/202506/90311-brera-holdings-plc-reports-245-valuation-increase-in-ss-juve-stabia-highlighting-multi-club-ownership-potential"
+url = "/202506/90311-brera-holdings-plc-reports-245-valuation-increase-in-ss-juve-stabia-highlighting-multi-club-ownership-potential"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/yawnGGNt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-achieves-full-compli
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/63f2463d06fd3186af07a0a199ecbfd8.png"
 article_id = 90317
 feed_item_id = 16174
-url = "/news/202506/90317-neuralbase-ai-ltd-achieves-full-compliance-with-otcid-basic-market-requirements-ahead-of-schedule"
+url = "/202506/90317-neuralbase-ai-ltd-achieves-full-compliance-with-otcid-basic-market-requirements-ahead-of-schedule"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/26/pint2gQ_.webp"
 source = "NewMediaWire"
 +++

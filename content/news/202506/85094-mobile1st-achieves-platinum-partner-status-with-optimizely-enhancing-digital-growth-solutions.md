@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523973/mobile1st-i
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/3a2908f96cfc4b442d82782dd1aed366.png"
 article_id = 85094
 feed_item_id = 15828
-url = "/news/202506/85094-mobile1st-achieves-platinum-partner-status-with-optimizely-enhancing-digital-growth-solutions"
+url = "/202506/85094-mobile1st-achieves-platinum-partner-status-with-optimizely-enhancing-digital-growth-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/18/tintn0ML.webp"
 source = "24-7 Press Release"
 +++

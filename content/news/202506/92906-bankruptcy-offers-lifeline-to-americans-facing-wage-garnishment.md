@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/workers-unaware-that-bankruptcy-can-st
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/a07e14983facca446aece17932fafa56.jpg"
 article_id = 92906
 feed_item_id = 16290
-url = "/news/202506/92906-bankruptcy-offers-lifeline-to-americans-facing-wage-garnishment"
+url = "/202506/92906-bankruptcy-offers-lifeline-to-americans-facing-wage-garnishment"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/30/ideaWxpW.webp"
 source = "Press Services"
 +++

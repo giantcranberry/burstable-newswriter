@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-beeline-ho
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/fe2ad0c08719a1e229af01dbe44c1b1a.png"
 article_id = 90300
 feed_item_id = 16240
-url = "/news/202506/90300-beeline-holdings-inc-pioneers-cryptocurrency-use-in-real-estate-transactions"
+url = "/202506/90300-beeline-holdings-inc-pioneers-cryptocurrency-use-in-real-estate-transactions"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/wait4wzw.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

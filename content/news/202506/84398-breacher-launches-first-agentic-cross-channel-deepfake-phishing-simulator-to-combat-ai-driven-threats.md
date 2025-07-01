@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523880/breacher-la
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/8d60c5f1d9f1fdeb2903883a2896f6bb.png"
 article_id = 84398
 feed_item_id = 15688
-url = "/news/202506/84398-breacher-launches-first-agentic-cross-channel-deepfake-phishing-simulator-to-combat-ai-driven-threats"
+url = "/202506/84398-breacher-launches-first-agentic-cross-channel-deepfake-phishing-simulator-to-combat-ai-driven-threats"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/16/iconmyoU.webp"
 source = "24-7 Press Release"
 +++

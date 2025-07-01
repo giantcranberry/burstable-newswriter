@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506231544/skills-frameworks-are-key
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/52b3f96de4f54af304ce810b5dee6bed.png"
 article_id = 94390
 feed_item_id = 15999
-url = "/news/202506/94390-structured-skills-frameworks-key-to-unlocking-talent-mobility-potential-study-finds"
+url = "/202506/94390-structured-skills-frameworks-key-to-unlocking-talent-mobility-potential-study-finds"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/23/leanCGtI.webp"
 source = "Newsworthy.ai"
 +++

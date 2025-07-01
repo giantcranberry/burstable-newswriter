@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/blusky-ai-inc-bsai-is-o
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/25c55bd811827ff9d30aac2106d449d4.png"
 article_id = 87622
 feed_item_id = 16039
-url = "/news/202506/87622-blusky-ai-inc-pioneers-sustainable-ai-infrastructure-with-modular-data-centers"
+url = "/202506/87622-blusky-ai-inc-pioneers-sustainable-ai-infrastructure-with-modular-data-centers"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/23/duallRN7.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

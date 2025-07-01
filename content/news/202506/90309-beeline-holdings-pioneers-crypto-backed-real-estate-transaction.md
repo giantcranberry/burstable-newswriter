@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/cryptonewsbreaks-beeline
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/ec05e3c437db7bd4e131daa9af3c1971.png"
 article_id = 90309
 feed_item_id = 16205
-url = "/news/202506/90309-beeline-holdings-pioneers-crypto-backed-real-estate-transaction"
+url = "/202506/90309-beeline-holdings-pioneers-crypto-backed-real-estate-transaction"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/oxencYUc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

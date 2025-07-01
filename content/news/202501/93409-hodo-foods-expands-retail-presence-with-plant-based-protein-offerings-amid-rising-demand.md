@@ -1,0 +1,16 @@
++++
+title = "Hodo Foods Expands Retail Presence with Plant-Based Protein Offerings Amid Rising Demand"
+date = "2025-01-15T17:15:14Z"
+draft = false
+summary = "Hodo Foods is expanding its retail footprint by introducing its plant-based protein products at Meijer, Harris Teeter, and Giant Martin's, responding to the growing consumer demand for nutritious, minimally processed protein alternatives."
+description = "Hodo Foods expands retail presence with tofu and ready-to-eat products at Meijer, Harris Teeter, and Giant Martin's. Founder Minh Tsai discusses the surge in demand for plant-based proteins. Learn more about Hodo's innovative tofu offerings and retail availability."
+source_link = "https://www.24-7pressrelease.com/press-release/518072/hodo-expands-us-retail-distribution-adding-meijer-harris-teeter-and-giant-martins-to-meet-growing-demand-for-sustainable-clean-protein-options"
+enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-1.jpg"
+article_id = 93409
+feed_item_id = 10105
+url = "/202501/93409-hodo-foods-expands-retail-presence-with-plant-based-protein-offerings-amid-rising-demand"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/251/15/hushfWwu.webp"
+source = "24-7 Press Release"
++++
+
+<p>Hodo Foods, a leader in high-quality tofu products, is making a significant move to broaden its retail footprint by introducing its plant-based protein offerings at three major grocery chains: Meijer, Harris Teeter, and Giant Martin's. This expansion is a direct response to the increasing consumer demand for nutritious, minimally processed protein alternatives, highlighting a shift in dietary preferences towards plant-based options.</p><p>According to Hodo Founder Minh Tsai, the tofu category has seen an 8% sales growth between 2021 and 2023, with younger generations increasingly adopting tofu as a dietary staple. Hodo's product line now includes over 20 retail SKUs, featuring a variety of entrees, dips, flavored tofu blocks, and innovative products like the Saucy Tofu Kits. Each retailer will offer a curated selection of Hodo's products, catering to the diverse tastes and preferences of their customers.</p><p>The products are made from organic, non-GMO soybeans, providing a protein-rich, nutrient-dense alternative that includes all nine essential amino acids. With retail prices ranging from $4.99 to $7.99, Hodo's offerings are positioned as accessible options for consumers looking to incorporate more plant-based proteins into their diets.</p><p>This retail expansion builds on Hodo's existing presence in regional and national retailers such as Whole Foods, Albertsons Safeway, HEB, and Wegmans. Additionally, the company has forged partnerships in the foodservice sector, supplying ingredients to notable establishments like Chipotle, Sweetgreen, and various corporate cafeterias. This strategic growth reflects the broader trend towards plant-based protein consumption, as consumers increasingly seek convenient, health-conscious meal options that do not sacrifice taste or nutritional value.</p>

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-blusky
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/fdae6f8922c975a6063ed1468834e71d.png"
 article_id = 90312
 feed_item_id = 16193
-url = "/news/202506/90312-blusky-ai-partners-with-ibn-to-enhance-corporate-communications-amid-ai-infrastructure-expansion"
+url = "/202506/90312-blusky-ai-partners-with-ibn-to-enhance-corporate-communications-amid-ai-infrastructure-expansion"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/apexmkEs.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

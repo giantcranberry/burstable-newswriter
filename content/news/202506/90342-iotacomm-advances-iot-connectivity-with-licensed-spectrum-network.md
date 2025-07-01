@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/705946/interview-with-terrence-def
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5acb430de8000006ee4489516b8e3f79.jpg"
 article_id = 90342
 feed_item_id = 16101
-url = "/news/202506/90342-iotacomm-advances-iot-connectivity-with-licensed-spectrum-network"
+url = "/202506/90342-iotacomm-advances-iot-connectivity-with-licensed-spectrum-network"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/25/airynhNb.webp"
 source = "citybiz"
 +++

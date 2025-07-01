@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524308/the-breakro
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/75d8c829f73c1a27bc1b4412708b13cb.png"
 article_id = 90670
 feed_item_id = 16226
-url = "/news/202506/90670-the-breakroom-bar-grill-embarks-on-a-new-era-under-fresh-ownership"
+url = "/202506/90670-the-breakroom-bar-grill-embarks-on-a-new-era-under-fresh-ownership"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/27/mossBwOZ.webp"
 source = "24-7 Press Release"
 +++

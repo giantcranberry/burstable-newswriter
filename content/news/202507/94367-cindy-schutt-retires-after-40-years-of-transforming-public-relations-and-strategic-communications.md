@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/esteemed-public-relations-professiona
 enclosure = "https://cdn.newsramp.app/banners/legal-2.jpg"
 article_id = 94367
 feed_item_id = 16358
-url = "/news/202507/94367-cindy-schutt-retires-after-40-years-of-transforming-public-relations-and-strategic-communications"
+url = "/202507/94367-cindy-schutt-retires-after-40-years-of-transforming-public-relations-and-strategic-communications"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/257/1/chipGOpX.webp"
 source = "News Direct"
 +++

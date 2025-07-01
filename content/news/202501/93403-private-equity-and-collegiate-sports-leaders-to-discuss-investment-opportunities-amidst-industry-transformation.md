@@ -1,0 +1,16 @@
++++
+title = "Private Equity and Collegiate Sports Leaders to Discuss Investment Opportunities Amidst Industry Transformation"
+date = "2025-01-16T13:35:11Z"
+draft = false
+summary = "Industry leaders will gather in Atlanta to explore investment opportunities and challenges in collegiate sports, driven by new NIL rules and revenue sharing."
+description = "JohnWallStreet Live event discusses private equity x college sports landscape, featuring Mark Dowley, Kevin Mayer, Brett Yormark, Tim Pernetti, Gloria Nevarez, and Craig Sloan. Learn about the changing economics of college sports and the impact of private capital."
+source_link = "https://newsdirect.com/news/johnwallstreets-private-equity-x-college-sports-event-brings-together-the-top-decision-makers-in-sports-and-finance-555647363"
+enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
+article_id = 93403
+feed_item_id = 10131
+url = "/202501/93403-private-equity-and-collegiate-sports-leaders-to-discuss-investment-opportunities-amidst-industry-transformation"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/251/16/filo62At.webp"
+source = "News Direct"
++++
+
+<p>The intersection of private equity and collegiate sports is set to take center stage in Atlanta on Monday, Jan. 20, 2025, as leading figures from both sectors convene for the JohnWallStreet Live: Private Equity x College Sports event. This gathering, timed to precede the College Football Playoff final, aims to delve into the rapidly evolving landscape of college sports, spotlighting the burgeoning opportunities for strategic investments amidst significant industry changes.</p><p>Key participants include Mark Dowley of RedBird Capital, Kevin Mayer from Smash Capital, alongside conference commissioners Brett Yormark of the Big 12, Tim Pernetti of the American Athletic Conference, and Gloria Nevarez of the Mountain West. The event, as highlighted by founder Corey Leff, comes at a pivotal moment for collegiate athletics, with new Name, Image, and Likeness (NIL) rules and player revenue sharing mechanisms fueling demand for innovative capital solutions and revenue generation strategies.</p><p>The discussions are expected to tackle the pressing operational and financial hurdles confronting athletic departments today. Among these challenges are the underinvestment in essential areas such as human capital, real estate development, and the commercialization of intellectual property. The forum will provide attendees with valuable insights into the effective deployment of strategic capital within university and conference ecosystems, while also addressing the potential risks that accompany new investment models in this space.</p><p>By assembling top executives from the worlds of sports and finance, the event seeks to offer a holistic view of the changing economic dynamics within collegiate athletics. It aims to chart potential avenues for strategic investment and growth, marking a significant step towards understanding and navigating the future of college sports in an era of unprecedented change.</p>

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-nextpla
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/9e8e3b955bcf99e0cb66009b9401bee3.png"
 article_id = 93064
 feed_item_id = 16303
-url = "/news/202506/93064-nextplat-corp-charts-path-forward-under-interim-leadership"
+url = "/202506/93064-nextplat-corp-charts-path-forward-under-interim-leadership"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/30/rubyFt3H.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/vivakor-inc-nasdaq-vivk-p
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/6ce2227798994691d0c543ab6c8805c5.png"
 article_id = 90375
 feed_item_id = 15945
-url = "/news/202506/90375-vivakor-inc-pioneers-sustainable-oilfield-waste-management"
+url = "/202506/90375-vivakor-inc-pioneers-sustainable-oilfield-waste-management"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/palesGzT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/705840/experience-the-ultimate-yac
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9448f96bba55359689adb5de67e89495.jpg"
 article_id = 84514
 feed_item_id = 15542
-url = "/news/202506/84514-burgess-unveils-last-minute-charter-availabilities-for-prestigious-superyachts"
+url = "/202506/84514-burgess-unveils-last-minute-charter-availabilities-for-prestigious-superyachts"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/rift9jPJ.webp"
 source = "citybiz"
 +++

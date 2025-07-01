@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524064/socialpilot
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/e75197a866266bc8251ee827c064a5bc.png"
 article_id = 90359
 feed_item_id = 16046
-url = "/news/202506/90359-socialpilots-tiktok-strategy-guide-offers-data-backed-insights-for-marketers"
+url = "/202506/90359-socialpilots-tiktok-strategy-guide-offers-data-backed-insights-for-marketers"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/24/takesTHz.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/703515/qa-with-joel-leong-co-found
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 84066
 feed_item_id = 15532
-url = "/news/202506/84066-shopback-expands-into-the-us-market-offering-cashback-and-rewards-to-american-consumers"
+url = "/202506/84066-shopback-expands-into-the-us-market-offering-cashback-and-rewards-to-american-consumers"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/12/moonl6z5.webp"
 source = "citybiz"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Mullen Automotive Seeks DOE Funding to Enhance Domestic Battery Production"
+date = "2025-01-13T22:15:20Z"
+draft = false
+summary = "Mullen Automotive proposes a strategic investment in domestic battery production facilities, aiming to support the U.S. transition to sustainable transportation technologies."
+description = "Mullen Automotive submits a revised plan to the U.S. Department of Energy to bolster domestic battery production at its facilities. The company aims to secure matching funds under the Bipartisan Infrastructure Law, positioning itself as a leader in U.S. advanced battery manufacturing."
+source_link = "https://rss.investorbrandnetwork.com/investornewsbreaks-mullen-automotive-inc-nasdaq-muln-expands-u-s-battery-manufacturing-with-updated-doe-proposal/"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 93418
+feed_item_id = 9996
+url = "/202501/93418-mullen-automotive-seeks-doe-funding-to-enhance-domestic-battery-production"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/251/13/pearx5FV.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Mullen Automotive has taken a significant step towards strengthening the United States' position in the electric vehicle (EV) sector by submitting a strategic proposal to the U.S. Department of Energy (DOE). The proposal seeks $55 million in matching funds under a program supported by the Bipartisan Infrastructure Law, aiming to enhance domestic battery production capabilities. With an initial investment of $12 million and plans for an additional $43 million, Mullen is focusing on two key facilities in Mishawaka, Indiana, and Fullerton, California.</p><p>The Mishawaka facility, once a GM Hummer plant, is set to undergo transformation to support high-volume battery production, targeting an annual capacity of 108,000 battery systems. The Fullerton facility will dedicate its efforts to research, development, and prototype production. This dual-facility strategy not only underscores Mullen's commitment to advancing EV technology but also aligns with national goals to expand clean energy production and domestic manufacturing capabilities.</p><p>Mullen's ambitious timeline anticipates the delivery of its first production units by mid-2025, with further expansion planned in the following years. This initiative reflects the company's dedication to scaling its manufacturing operations and making a substantial impact on the EV market. Mullen has already demonstrated its capability in the EV space, with commercial vehicle production commencing in Tunica, Mississippi, in August 2023, and securing necessary federal and state certifications for its vehicles.</p><p>The company's proposal to the DOE represents a pivotal moment in the push for sustainable transportation technologies in the U.S. By investing in advanced battery infrastructure, Mullen not only positions itself as a potential leader in the EV battery sector but also contributes to the broader national objective of reducing reliance on foreign battery supplies. This move could have far-reaching implications for the automotive industry, signaling a shift towards more sustainable and domestically produced energy solutions.</p>

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523861/salon-suite
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/eb731527fb024313561547a647abee34.png"
 article_id = 94386
 feed_item_id = 16282
-url = "/news/202506/94386-salon-suite-rentals-offer-beauty-professionals-a-path-to-entrepreneurship"
+url = "/202506/94386-salon-suite-rentals-offer-beauty-professionals-a-path-to-entrepreneurship"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/30/mildA_8s.webp"
 source = "24-7 Press Release"
 +++

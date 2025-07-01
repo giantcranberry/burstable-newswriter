@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524222/the-law-cha
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/9207fd6e99c4033d008f19418969baf4.png"
 article_id = 90678
 feed_item_id = 16164
-url = "/news/202506/90678-the-law-champ-expands-digital-presence-in-el-paso-to-enhance-personal-injury-legal-services"
+url = "/202506/90678-the-law-champ-expands-digital-presence-in-el-paso-to-enhance-personal-injury-legal-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/26/odorpXuL.webp"
 source = "24-7 Press Release"
 +++

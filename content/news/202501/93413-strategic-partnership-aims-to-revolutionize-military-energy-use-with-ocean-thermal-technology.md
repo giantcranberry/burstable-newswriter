@@ -1,0 +1,16 @@
++++
+title = "Strategic Partnership Aims to Revolutionize Military Energy Use with Ocean Thermal Technology"
+date = "2025-01-14T20:25:11Z"
+draft = false
+summary = "Ocean Thermal Energy Corporation and Johnson Controls collaborate on a $3.5 million project to deploy a sustainable energy solution for the U.S. Army Garrison - Kwajalein Atoll, showcasing the potential of Ocean Thermal Energy Conversion (OTEC) technology for military and remote applications."
+description = "Ocean Thermal Energy Corporation (OTE Corp) partners with Johnson Controls to deploy a 17.5MW OTEC system at the U.S. Army Garrison - Kwajalein Atoll, demonstrating the feasibility of renewable energy solutions for military installations."
+source_link = "https://newsroom.prkarma.com/otec/news_release/1613"
+enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/3fb4e0ba5f8c655e7af84e3c5199ace2.png"
+article_id = 93413
+feed_item_id = 10077
+url = "/202501/93413-strategic-partnership-aims-to-revolutionize-military-energy-use-with-ocean-thermal-technology"
+qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/251/14/faceJ0p6.webp"
+source = "PR Karma"
++++
+
+<p>Ocean Thermal Energy Corporation (OTE Corp) has partnered with Johnson Controls in a strategic move to develop a renewable energy solution for the U.S. Army Garrison - Kwajalein Atoll. This $3.5 million initiative focuses on the deployment of a 17.5MW Ocean Thermal Energy Conversion (OTEC) system, aiming to provide a sustainable alternative to fossil fuels for the remote military installation.</p><p>The project leverages the natural temperature differences in ocean water to generate clean, continuous power and desalinated water, addressing both energy and water resilience challenges. DCO Energy will act as the owner's engineer, responsible for a comprehensive OTEC system design that includes project load analysis, conceptual engineering, and cost estimation.</p><p>This collaboration is not the first of its kind; it builds on previous successful projects such as a seawater cooling system design for a Bahamian resort and a 7.5 MW OTEC conceptual design for Bahamas Power and Light. The current project aims to validate the practicality of OTEC systems for remote military bases, demonstrate system reliability and scalability, and tailor the technology to meet specific operational requirements in collaboration with the U.S. Army Corps of Engineers.</p><p>Jeremy P. Feakins, OTE Corp's Chairman and CEO, highlighted the project's significance, noting its potential to transform energy use in national defense strategies. The initiative represents a critical step towards energy security, sustainability, and operational resilience for military installations in remote locations, reducing dependency on traditional fuel sources and enhancing readiness in challenging environments.</p><p>The implications of this project extend beyond the immediate benefits to the Kwajalein Atoll. It sets a precedent for the adoption of OTEC technology in other remote military and civilian applications, offering a sustainable solution that could revolutionize energy production and water desalination worldwide.</p>

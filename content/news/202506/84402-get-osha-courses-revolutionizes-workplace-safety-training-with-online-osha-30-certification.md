@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/get-osha-courses-now-offering-authori
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/cdb1930ba57e1cde4da5150f1b513d19.png"
 article_id = 84402
 feed_item_id = 15706
-url = "/news/202506/84402-get-osha-courses-revolutionizes-workplace-safety-training-with-online-osha-30-certification"
+url = "/202506/84402-get-osha-courses-revolutionizes-workplace-safety-training-with-online-osha-30-certification"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/17/lambhYDS.webp"
 source = "News Direct"
 +++

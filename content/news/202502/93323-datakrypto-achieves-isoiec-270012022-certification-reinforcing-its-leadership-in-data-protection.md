@@ -1,0 +1,16 @@
++++
+title = "DataKrypto Achieves ISO/IEC 27001:2022 Certification, Reinforcing Its Leadership in Data Protection"
+date = "2025-02-05T13:25:22Z"
+draft = false
+summary = "DataKrypto's recent ISO/IEC 27001:2022 certification highlights its commitment to advanced data protection, offering significant implications for industries reliant on secure data processing."
+description = "DataKrypto achieves ISO 27001 certification, demonstrating commitment to data protection. The certification enhances trust in its FHE solutions and signifies a step towards empowering software developers to prioritize data security."
+source_link = "https://datakrypto.reportablenews.com/pr/datakrypto-achieves-iso-27001-certification-demonstrating-its-commitment-to-data-protection"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/b95a9675df48bdc30b40be151404bbdf.png"
+article_id = 93323
+feed_item_id = 10595
+url = "/202502/93323-datakrypto-achieves-isoiec-270012022-certification-reinforcing-its-leadership-in-data-protection"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/252/5/echoCzpF.webp"
+source = "Reportable"
++++
+
+<p>DataKrypto has recently achieved the ISO/IEC 27001:2022 certification, a testament to its unwavering commitment to information security management. This certification not only underscores the company's dedication to protecting sensitive data but also reinforces its position as a pioneer in secure encryption technologies. Following its FIPS 140-2 validation earlier in 2024, DataKrypto continues to set industry benchmarks with its FHEnom™ and FHEnom for Images™ Software Development Kit (SDK) now certified under this globally recognized standard.</p><p>CEO Ravi Srivatsav highlighted the significance of this achievement, stating that data protection is a foundational requirement in software development. The certification process, involving a thorough audit by an independent body, showcased DataKrypto's robust policies, procedures, and control mechanisms aimed at enhancing security assurance, code integrity, and risk management.</p><p>The ISO 27001-certified SDK offers several advantages, including protection against data breaches, controlled access to mitigate insider threats, and a pledge to continuous security enhancements. These features are especially crucial for sectors like finance, healthcare, and technology, where the handling of sensitive data is paramount.</p><p>DataKrypto's fully homomorphic encryption (FHE) technology represents a leap forward in data protection, enabling the processing of encrypted data without the need for decryption. This innovation allows developers to embed encryption into application architectures seamlessly, without sacrificing performance or hindering innovation.</p><p>This certification mirrors a growing industry emphasis on stringent data protection standards, with organizations increasingly seeking secure-by-design solutions. DataKrypto's achievement not only demonstrates its leadership in meeting these high standards but also signals the importance of adopting advanced security measures in today's digital landscape.</p>

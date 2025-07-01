@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/706849/qa-with-pamela-eyring-psow-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/c828599957773ac5468aacfa6b4de53b.png"
 article_id = 92950
 feed_item_id = 15794
-url = "/news/202506/92950-the-critical-role-of-business-etiquette-in-bridging-the-gen-z-professionalism-gap"
+url = "/202506/92950-the-critical-role-of-business-etiquette-in-bridging-the-gen-z-professionalism-gap"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/rushJKhV.webp"
 source = "citybiz"
 +++

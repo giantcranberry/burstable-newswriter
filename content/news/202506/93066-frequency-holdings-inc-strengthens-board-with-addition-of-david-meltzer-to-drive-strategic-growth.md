@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/frequency-holdings-ycrm-announc
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/37c98904210c2677ef3be951f11a6f5c.png"
 article_id = 93066
 feed_item_id = 16298
-url = "/news/202506/93066-frequency-holdings-inc-strengthens-board-with-addition-of-david-meltzer-to-drive-strategic-growth"
+url = "/202506/93066-frequency-holdings-inc-strengthens-board-with-addition-of-david-meltzer-to-drive-strategic-growth"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/30/clubGPfX.webp"
 source = "NewMediaWire"
 +++

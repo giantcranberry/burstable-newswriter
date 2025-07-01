@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524153/caregivers-
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/02f58d8214edd5e5d767738f4e2494f7.png"
 article_id = 90357
 feed_item_id = 16047
-url = "/news/202506/90357-senior-living-sector-embraces-modern-communication-tools-to-tackle-staffing-shortages"
+url = "/202506/90357-senior-living-sector-embraces-modern-communication-tools-to-tackle-staffing-shortages"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/24/arch7zc0.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/concord-introduces-ai-copilot-revolut
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-1.jpg"
 article_id = 86101
 feed_item_id = 15904
-url = "/news/202506/86101-concord-introduces-ai-copilot-to-transform-contract-management"
+url = "/202506/86101-concord-introduces-ai-copilot-to-transform-contract-management"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/19/plum6ByD.webp"
 source = "News Direct"
 +++

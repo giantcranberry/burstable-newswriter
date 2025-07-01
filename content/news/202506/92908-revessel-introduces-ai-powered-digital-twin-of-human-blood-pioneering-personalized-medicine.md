@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524404/revessel-br
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/6cc103601c48eedd609529f69cad4d97.png"
 article_id = 92908
 feed_item_id = 16288
-url = "/news/202506/92908-revessel-introduces-ai-powered-digital-twin-of-human-blood-pioneering-personalized-medicine"
+url = "/202506/92908-revessel-introduces-ai-powered-digital-twin-of-human-blood-pioneering-personalized-medicine"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/30/pintiBLc.webp"
 source = "24-7 Press Release"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Signing Day Sports Inc. Acquires Swifty Global to Expand into High-Growth International Markets"
+date = "2025-01-30T05:20:25Z"
+draft = false
+summary = "Signing Day Sports Inc. has strategically acquired Swifty Global, aiming to leverage technological expertise and financial performance to penetrate emerging markets in Europe, Africa, and the Middle East."
+description = "Signing Day Sports Inc. acquires 99.13% of Dear Cashmere Group Holding Company, a move set to drive growth and innovation in the sports betting sector. The strategic acquisition aims to enhance operational efficiency, reduce costs, and accelerate product development, positioning the companies for global expansion and increased market presence."
+source_link = "https://www.newmediawire.com/news/swifty-global-announces-signing-of-share-purchase-agreement-to-be-acquired-by-signing-day-sport-nyse-american-sgn-7079126"
+enclosure = "https://cdn.newsramp.app/banners/gambling-betting-2.jpg"
+article_id = 93343
+feed_item_id = 10452
+url = "/202501/93343-signing-day-sports-inc-acquires-swifty-global-to-expand-into-high-growth-international-markets"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/251/30/lendeAfZ.webp"
+source = "NewMediaWire"
++++
+
+<p>Signing Day Sports Inc. (NYSE American: SGN) has entered into a Stock Purchase Agreement (SPA) to acquire 99.13% of Swifty Global's issued and outstanding capital stock, marking a pivotal step in its expansion strategy. Swifty Global, a global online sports and casino technologies company, reported revenues exceeding $128 million and a net profit of approximately $2.44 million for the fiscal year ending December 31, 2023, despite significant investments in software development and licensing.</p><p>The acquisition is poised to bring about transformative operational benefits, including a reduction in costs by over 50%, accelerated product development, and enhanced user growth and retention in emerging markets across Europe, Africa, and the Middle East. Daniel Nelson, CEO of Signing Day Sports, highlighted the merger's potential to redefine the company's market position and technological capabilities in the sports betting and recruitment technology sectors.</p><p>Under the agreement, the sellers will receive shares equivalent to 19.99% of Signing Day Sports' issued and outstanding common stock. James Gibbons, the current CEO of Swifty Global, is set to assume the role of CEO at Signing Day Sports and will join its board of directors, bringing his leadership and vision to the combined entity.</p><p>The transaction, contingent upon regulatory approvals and Nasdaq listing requirements, also involves a collective effort to raise at least $2.0 million to support ongoing operations and address liabilities. Post-acquisition, Swifty Global will function as a subsidiary of Signing Day Sports, with its financial results fully integrated into the parent company's operations.</p><p>This strategic merger underscores the companies' commitment to leveraging their combined technological expertise and financial strength to capture growth opportunities in the rapidly evolving online sports and casino technologies landscape. James Gibbons expressed optimism about the future, acknowledging the solid foundation laid by his team and the promising collaborative prospects that lie ahead.</p>

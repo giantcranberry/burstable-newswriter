@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-g-mini
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/9b73849c3fbb79a8a277836c9a69c54d.png"
 article_id = 90298
 feed_item_id = 16243
-url = "/news/202506/90298-g-mining-ventures-corp-secures-shareholder-approval-for-strategic-initiatives"
+url = "/202506/90298-g-mining-ventures-corp-secures-shareholder-approval-for-strategic-initiatives"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/27/meanHh6B.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-beeline-
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/526be9ca68d8a1ad6055a85b227ca558.png"
 article_id = 90326
 feed_item_id = 16144
-url = "/news/202506/90326-beeline-holdings-completes-first-residential-real-estate-transaction-funded-by-cryptocurrency-token"
+url = "/202506/90326-beeline-holdings-completes-first-residential-real-estate-transaction-funded-by-cryptocurrency-token"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/gulfiE27.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

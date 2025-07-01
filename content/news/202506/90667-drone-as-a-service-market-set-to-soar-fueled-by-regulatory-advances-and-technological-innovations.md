@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/drone-as-a-service-set-to-nearly-trip
 enclosure = "https://cdn.newsramp.app/banners/finance-3.jpg"
 article_id = 90667
 feed_item_id = 16234
-url = "/news/202506/90667-drone-as-a-service-market-set-to-soar-fueled-by-regulatory-advances-and-technological-innovations"
+url = "/202506/90667-drone-as-a-service-market-set-to-soar-fueled-by-regulatory-advances-and-technological-innovations"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/27/smogCaVW.webp"
 source = "News Direct"
 +++

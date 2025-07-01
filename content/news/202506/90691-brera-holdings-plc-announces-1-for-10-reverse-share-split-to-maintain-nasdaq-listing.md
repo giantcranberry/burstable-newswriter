@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-brera-
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/3bc7bfac9b7e7fc29d0319e20894a36a.png"
 article_id = 90691
 feed_item_id = 16080
-url = "/news/202506/90691-brera-holdings-plc-announces-1-for-10-reverse-share-split-to-maintain-nasdaq-listing"
+url = "/202506/90691-brera-holdings-plc-announces-1-for-10-reverse-share-split-to-maintain-nasdaq-listing"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/eachm2r9.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

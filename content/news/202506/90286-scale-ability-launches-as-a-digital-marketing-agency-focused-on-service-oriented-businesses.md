@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/new-agency-launches-to-help-service-bu
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/d78e05d02be0af3d8e29f16c6b9c08ab.jpg"
 article_id = 90286
 feed_item_id = 16280
-url = "/news/202506/90286-scale-ability-launches-as-a-digital-marketing-agency-focused-on-service-oriented-businesses"
+url = "/202506/90286-scale-ability-launches-as-a-digital-marketing-agency-focused-on-service-oriented-businesses"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/29/frogdm5H.webp"
 source = "Press Services"
 +++

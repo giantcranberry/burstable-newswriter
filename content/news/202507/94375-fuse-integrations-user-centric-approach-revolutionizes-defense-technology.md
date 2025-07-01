@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/712850/qa-with-sumner-lee-founder-
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/adfb11c4748a5142cdeca02241ad22a3.png"
 article_id = 94375
 feed_item_id = 16338
-url = "/news/202507/94375-fuse-integrations-user-centric-approach-revolutionizes-defense-technology"
+url = "/202507/94375-fuse-integrations-user-centric-approach-revolutionizes-defense-technology"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/pintXASx.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/accredited-solutions-inc-otc-as
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/513d22c75a0b8de0fa30618a69cb9283.png"
 article_id = 92924
 feed_item_id = 16120
-url = "/news/202506/92924-accredited-solutions-launches-tel-cdr-token-to-revolutionize-telecom-settlements"
+url = "/202506/92924-accredited-solutions-launches-tel-cdr-token-to-revolutionize-telecom-settlements"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/25/plumCdxJ.webp"
 source = "NewMediaWire"
 +++

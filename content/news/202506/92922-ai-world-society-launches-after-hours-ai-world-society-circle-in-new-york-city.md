@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/ai-world-society-presents
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/17e68a02c0e7cdca941596e12f15fe99.png"
 article_id = 92922
 feed_item_id = 16148
-url = "/news/202506/92922-ai-world-society-launches-after-hours-ai-world-society-circle-in-new-york-city"
+url = "/202506/92922-ai-world-society-launches-after-hours-ai-world-society-circle-in-new-york-city"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/elleat7I.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

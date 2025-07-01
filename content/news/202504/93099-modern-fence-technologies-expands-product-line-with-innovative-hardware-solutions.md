@@ -1,0 +1,16 @@
++++
+title = "Modern Fence Technologies Expands Product Line with Innovative Hardware Solutions"
+date = "2025-04-25T02:23:29Z"
+draft = false
+summary = "Modern Fence Technologies introduces new fence hardware solutions, including the MS Commercial Duty Embassy Hinge, Long 'X' Post Mounts, and Patriot Skirt, enhancing installation efficiency and aesthetic appeal for both private and professional markets."
+description = "Discover the latest fencing hardware from Modern Fence Technologies, featuring the MS Commercial Duty Embassy Hinge, Long 'X' Post Mounts, and Patriot Skirt for enhanced durability and design. Upgrade your fence with competitively priced products for lasting security and aesthetic appeal."
+source_link = "https://www.24-7pressrelease.com/press-release/522144/embassy-hinge-fence-hardware-with-180%C2%BA-swing-for-steel-wood-iron-gates-update"
+enclosure = "https://cdn.newsramp.app/banners/retail-2.jpg"
+article_id = 93099
+feed_item_id = 13345
+url = "/202504/93099-modern-fence-technologies-expands-product-line-with-innovative-hardware-solutions"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/25/epicrBpt.webp"
+source = "24-7 Press Release"
++++
+
+<p>Modern Fence Technologies has recently expanded its product inventory with innovative fence hardware solutions aimed at catering to both private and professional market segments. Among the new additions, the MS Commercial Duty Embassy Hinge, Long 'X' Post Mounts, and Patriot Skirt stand out for their ability to offer comprehensive mounting and finishing options for various gate installations.</p><p>The MS Commercial Duty Embassy Hinge is a notable innovation, designed with a mild steel bracket and stainless steel components to fit 2-inch posts and gate frames. Its compatibility with steel, wood, and iron gates, along with a full 180-degree swing and adjustable side brackets, makes it a versatile choice for diverse installation needs. The hinge's design prioritizes installation efficiency, featuring large Super Tek screws and a removable E-clip with a security screw, available in single sets or four-set cases, all finished with a black powder coat paint.</p><p>Enhancing stability for installations on concrete and decked surfaces, the Long 'X' Post Mounts measure 4 x 4 x 32 inches and come with pre-cut holes for 3/8 inch fasteners. This design ensures quick installation while maintaining precise alignment, offering a reliable solution for fence stability.</p><p>The Patriot Skirt adds an aesthetic finishing touch to fence installations, designed to cover the base of a 5 x 5-inch post. Available in white, almond, and clay finishes, this weather-resistant skirt not only improves the fence's appearance but also contributes to its durability.</p><p>These new products seamlessly integrate with Modern Fence Technologies' existing range of decking hardware, aluminum components, vinyl and PVC accessories, and more, underscoring the company's dedication to providing high-quality, durable solutions for a wide array of installation requirements. This expansion reflects the company's ongoing commitment to innovation and quality in the fence hardware industry, offering professionals and homeowners alike advanced tools to meet their fencing needs.</p>

@@ -1,0 +1,16 @@
++++
+title = "Attorney Giselle Gutierrez Advocates for Community and Policy Change at Miami-Dade County Days"
+date = "2025-04-14T13:15:42Z"
+draft = false
+summary = "Attorney Giselle Gutierrez's participation in the 2025 Miami-Dade County Days highlights the importance of community-based advocates in shaping policy and supporting legal services for underserved populations."
+description = "Attorney Giselle Gutierrez participates in 2025 Miami-Dade County Days in Tallahassee to advocate for community needs. Event emphasizes civic engagement and support for CABA Pro Bono legal services."
+source_link = "https://www.24-7pressrelease.com/press-release/521735/attorney-giselle-g-gutierrez-of-exhibit-g-law-firm-participates-in-2025-dade-days-in-tallahassee-to-champion-local-advocacy"
+enclosure = "https://cdn.newsramp.app/banners/events-1.jpg"
+article_id = 93012
+feed_item_id = 12729
+url = "/202504/93012-attorney-giselle-gutierrez-advocates-for-community-and-policy-change-at-miami-dade-county-days"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/254/14/lily5mhM.webp"
+source = "24-7 Press Release"
++++
+
+<p>Attorney Giselle Gutierrez of Exhibit G Law Firm showcased her dedication to community advocacy by taking part in the 2025 Miami-Dade County Days in Tallahassee. This event, attracting over 1,000 attendees and more than 200 organizations from various sectors, serves as a platform for advancing policy initiatives beneficial to Miami-Dade County. Held on April 8 and 9, the event featured a mix of legislative meetings, panel discussions, and networking opportunities, including the notable 'Paella Fest' at the Capitol Courtyard.</p><p>Gutierrez's involvement was pivotal in representing the interests of local residents, with a particular emphasis on securing funds for CABA Pro Bono legal services. These services are crucial for providing legal assistance to individuals with limited resources. As the owner of a small law firm that specializes in labor and employment law, Gutierrez's participation underscores the vital role that community-based advocates play in influencing statewide policy and fostering civic engagement.</p><p>Her expertise in areas such as workplace safety, equality, and compliance enriches her advocacy work. Gutierrez has a distinguished track record, having argued cases before the National Labor Relations Board, the Equal Employment Opportunity Commission, and various Florida and federal courts. Her practice addresses a wide array of employment issues, including discrimination, unpaid wages, whistleblower lawsuits, and employment contract litigation.</p><p>Beyond her legal practice, Gutierrez is actively involved in educating others through training seminars on labor and employment laws and volunteering with organizations like the Florida Bar Association and Cuban American Bar Association. Her comprehensive approach to legal advocacy reflects a deep commitment to ensuring workplace fairness and supporting the community. This event not only highlights Gutierrez's contributions but also the broader impact of legal professionals in driving policy changes and supporting underserved populations.</p>

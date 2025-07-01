@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/roto-rooter-st-george-offers-sewer-rep
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/b1e88c12bfc45bfa952779d1753275ac.jpg"
 article_id = 92909
 feed_item_id = 16251
-url = "/news/202506/92909-roto-rooter-addresses-st-georges-aging-sewer-infrastructure-with-innovative-repair-technologies"
+url = "/202506/92909-roto-rooter-addresses-st-georges-aging-sewer-infrastructure-with-innovative-repair-technologies"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/27/bendMXDk.webp"
 source = "Press Services"
 +++

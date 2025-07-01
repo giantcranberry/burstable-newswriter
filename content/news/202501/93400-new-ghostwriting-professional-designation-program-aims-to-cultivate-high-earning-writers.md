@@ -1,0 +1,16 @@
++++
+title = "New Ghostwriting Professional Designation Program Aims to Cultivate High-Earning Writers"
+date = "2025-01-16T16:56:20Z"
+draft = false
+summary = "The Ghostwriting Professional Designation Program (GPDP) by WAMBTAC Communications LLC is set to train writers for lucrative careers in ghostwriting, addressing the industry's talent shortage and enabling the preservation of untold stories."
+description = "Learn how the Ghostwriting Professional Designation Program by WAMBTAC COMMUNICATIONS LLC can help you become a successful ghostwriter and earn high fees for your services. Join the prestigious program to kickstart your career in professional book ghostwriting."
+source_link = "https://write-brain-media.reportablenews.com/pr/world-s-first-and-only-ghostwriting-professional-designation-program-announces-open-enrollment-for-january-2025"
+enclosure = "https://cdn.filestackcontent.com/AG3wH2AR3SP2Mo58NZitaz/rotate=exif:true/resize=width:1000/XEjQHL5zTripZEXla33y"
+article_id = 93400
+feed_item_id = 10149
+url = "/202501/93400-new-ghostwriting-professional-designation-program-aims-to-cultivate-high-earning-writers"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/251/16/riftMXsP.webp"
+source = "Reportable"
++++
+
+<p>The Ghostwriting Professional Designation Program (GPDP), introduced by WAMBTAC Communications LLC, is poised to revolutionize the ghostwriting industry by offering a specialized training pathway for writers. With fewer than 300 ghostwriters globally earning six-figure incomes, the GPDP aims to significantly expand the pool of professionally trained ghostwriters. This initiative not only promises to enhance the earning potential of writers but also to enrich the literary world with a diversity of untold personal, cultural, and historical narratives.</p><p>Scheduled to launch on January 13, 2025, the 14-month GPDP course is designed to equip writers, editors, journalists, and freelance professionals with the skills necessary to thrive in the ghostwriting market. The program's intensive curriculum has already demonstrated its value, with graduates reporting earnings of $35,000 to $65,000 per book and witnessing annual revenue increases of 50 to 150 percent within their initial years in the field.</p><p>Claudia Suzanne, the program's founder, underscores the cultural significance of the GPDP, highlighting its role in ensuring that valuable stories are documented and shared. The program's unique blend of online and live instruction, coupled with personalized feedback, sets it apart from other training offerings. To date, over 100 professionals from various writing backgrounds have completed the program, gaining the expertise needed to navigate the complexities of book ghostwriting successfully.</p><p>Testimonials from graduates like Joshua Lisec and Lorraine Ash attest to the program's effectiveness, with both praising its depth and the practical insights it provides into the ghostwriting profession. As the next enrollment period approaches, the GPDP presents a timely opportunity for writers to leverage their skills into a rewarding career path, with monthly tuition set at $650. This program not only offers a gateway into the professional ghostwriting market but also contributes to the broader goal of preserving and disseminating narratives that might otherwise remain unheard.</p>

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/how-renewables-ensure-en
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/440c0f9f688805130f3c955854b807c9.png"
 article_id = 94366
 feed_item_id = 16372
-url = "/news/202507/94366-renewable-energy-emerges-as-key-to-global-energy-security-amid-market-volatility"
+url = "/202507/94366-renewable-energy-emerges-as-key-to-global-energy-security-amid-market-volatility"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/1/loftk0qm.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

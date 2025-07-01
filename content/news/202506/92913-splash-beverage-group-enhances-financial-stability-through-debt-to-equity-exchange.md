@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/splash-beverage-group-announces
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/fd4f9eff8193ed118043c58f6b04e572.png"
 article_id = 92913
 feed_item_id = 16213
-url = "/news/202506/92913-splash-beverage-group-enhances-financial-stability-through-debt-to-equity-exchange"
+url = "/202506/92913-splash-beverage-group-enhances-financial-stability-through-debt-to-equity-exchange"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/26/lushvLrB.webp"
 source = "NewMediaWire"
 +++

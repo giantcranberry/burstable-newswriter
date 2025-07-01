@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/706794/draft-qa-with-mark-thistel-
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/82309b8e523991d3949fff9f97e110e0.png"
 article_id = 93080
 feed_item_id = 15790
-url = "/news/202506/93080-freedomcar-a-testament-to-resilience-and-community-in-baltimores-transportation-sector"
+url = "/202506/93080-freedomcar-a-testament-to-resilience-and-community-in-baltimores-transportation-sector"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/smoggO8D.webp"
 source = "citybiz"
 +++

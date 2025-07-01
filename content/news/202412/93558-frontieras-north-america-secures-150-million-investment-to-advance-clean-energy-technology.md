@@ -1,0 +1,16 @@
++++
+title = "Frontieras North America Secures $150 Million Investment to Advance Clean Energy Technology"
+date = "2024-12-09T19:35:14Z"
+draft = false
+summary = "Frontieras North America's $150 million equity investment from GEM Global Yield LLC SCS marks a pivotal step towards revolutionizing the energy sector with its Solid Carbon Fractionation technology, promising cleaner energy solutions and significant economic impact."
+description = "Frontieras North America secures $150M investment from GEM Global Yield LLC SCS to accelerate growth strategy and meet global energy demands sustainably."
+source_link = "https://newsdirect.com/news/frontieras-north-america-707424559"
+enclosure = "https://cdn.newsramp.app/banners/environment-energy-3.jpg"
+article_id = 93558
+feed_item_id = 9238
+url = "/202412/93558-frontieras-north-america-secures-150-million-investment-to-advance-clean-energy-technology"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/2412/9/tarotk6y.webp"
+source = "News Direct"
++++
+
+<p>Frontieras North America has announced a $150 million equity investment commitment from GEM Global Yield LLC SCS, a move that significantly bolsters the company's financial standing and operational capabilities. This investment, structured as a Share Subscription Facility (SSF), enables Frontieras to access up to $150 million over thirty-six months, contingent upon achieving a public listing. This financial infusion is earmarked for driving growth through strategic acquisitions, partnerships, and organic initiatives, setting the stage for Frontieras to enhance its market position and technological advancements.</p><p>Central to Frontieras' innovation is its Solid Carbon Fractionation (SCF) technology, a process that redefines energy recovery by efficiently converting coal and other hydrocarbons into gases, liquid fuels, and technical carbon with a notably lower carbon footprint. This technology not only offers a cleaner alternative to traditional refining methods but also produces FASCarbon™, a product that can significantly reduce emissions in coal-fired plants and steel manufacturing, showcasing Frontieras' commitment to environmental sustainability.</p><p>The company's ambitious project includes the development of a FASForm™ plant in West Virginia, designed to process 2.7 million tons of coal annually. This initiative is expected to create substantial employment opportunities, with 200 full-time jobs and 2,000 construction positions, thereby contributing to local economic growth. Furthermore, Frontieras' technology taps into the vast $2.1 trillion global market for energy and chemicals, highlighting the potential for widespread adoption and impact.</p><p>With the energy sector under increasing pressure to adopt sustainable practices, Frontieras' innovative approach presents a viable solution to reduce emissions while meeting global energy demands. The combination of GEM's financial backing, Frontieras' cutting-edge technology, and strategic market positioning underscores the company's potential to lead the transition towards cleaner energy sources. This development not only signifies a milestone for Frontieras but also represents a forward leap in the quest for sustainable energy solutions, with implications for the industry, economy, and environment at large.</p>

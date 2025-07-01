@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524091/flimp-launc
 enclosure = "https://cdn.newsramp.app/genai/images/256/23/fdc1cbda8f8095dd9f7ed73050b7f199.png"
 article_id = 90369
 feed_item_id = 15985
-url = "/news/202506/90369-flimp-introduces-employee-benefits-ai-agent-to-streamline-hr-inquiries"
+url = "/202506/90369-flimp-introduces-employee-benefits-ai-agent-to-streamline-hr-inquiries"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/23/envyRgMn.webp"
 source = "24-7 Press Release"
 +++

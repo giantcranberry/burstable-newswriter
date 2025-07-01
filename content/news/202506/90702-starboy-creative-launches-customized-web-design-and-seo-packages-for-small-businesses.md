@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/asheville-based-starboy-creative-launc
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/88c1ce36d36159961d874dcc2b95b589.jpg"
 article_id = 90702
 feed_item_id = 15970
-url = "/news/202506/90702-starboy-creative-launches-customized-web-design-and-seo-packages-for-small-businesses"
+url = "/202506/90702-starboy-creative-launches-customized-web-design-and-seo-packages-for-small-businesses"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/21/gulffeYX.webp"
 source = "Press Services"
 +++

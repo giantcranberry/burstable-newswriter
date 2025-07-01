@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/california-to-fast-track
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/68b29b9884a9990c6e11d8ba3f9b4437.png"
 article_id = 85086
 feed_item_id = 15847
-url = "/news/202506/85086-california-sets-global-benchmark-with-approval-of-worlds-largest-battery-energy-storage-system"
+url = "/202506/85086-california-sets-global-benchmark-with-approval-of-worlds-largest-battery-energy-storage-system"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/18/hike4pfY.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

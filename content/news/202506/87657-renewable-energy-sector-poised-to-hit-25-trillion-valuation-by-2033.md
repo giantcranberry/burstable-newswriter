@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ges/the-market-for-renewable
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/2ae2ad3d094da374fc1f8b317fece3c5.png"
 article_id = 87657
 feed_item_id = 15933
-url = "/news/202506/87657-renewable-energy-sector-poised-to-hit-25-trillion-valuation-by-2033"
+url = "/202506/87657-renewable-energy-sector-poised-to-hit-25-trillion-valuation-by-2033"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/20/hushiEvX.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

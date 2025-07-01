@@ -8,7 +8,7 @@ source_link = "https://newsroom.prkarma.com/rapidfire/news_release/1669"
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/cdf7a058c9a3f7edf51bfdebb5373111.png"
 article_id = 87619
 feed_item_id = 16041
-url = "/news/202506/87619-rapidfire-safety-security-strengthens-leadership-with-new-vice-president-of-business-development"
+url = "/202506/87619-rapidfire-safety-security-strengthens-leadership-with-new-vice-president-of-business-development"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/256/23/bold185b.webp"
 source = "PR Karma"
 +++

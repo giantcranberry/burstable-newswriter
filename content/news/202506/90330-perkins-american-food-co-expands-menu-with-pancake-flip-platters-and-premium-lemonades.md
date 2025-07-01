@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524242/flip-for-ne
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/3f5d46a13a2ef7c438076838d6270478.png"
 article_id = 90330
 feed_item_id = 16139
-url = "/news/202506/90330-perkins-american-food-co-expands-menu-with-pancake-flip-platters-and-premium-lemonades"
+url = "/202506/90330-perkins-american-food-co-expands-menu-with-pancake-flip-platters-and-premium-lemonades"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/mintUlid.webp"
 source = "24-7 Press Release"
 +++

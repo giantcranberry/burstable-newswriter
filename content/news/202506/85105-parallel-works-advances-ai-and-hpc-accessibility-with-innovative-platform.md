@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/707783/qa-with-matthew-shaxted-ceo
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/c3dde04382b9f817aa3d6bba686fd2e8.png"
 article_id = 85105
 feed_item_id = 15788
-url = "/news/202506/85105-parallel-works-advances-ai-and-hpc-accessibility-with-innovative-platform"
+url = "/202506/85105-parallel-works-advances-ai-and-hpc-accessibility-with-innovative-platform"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/veil16EF.webp"
 source = "citybiz"
 +++

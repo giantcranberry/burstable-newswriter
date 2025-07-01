@@ -1,0 +1,16 @@
++++
+title = "Aemetis, Inc. Reports Significant Growth in Renewable Energy Sectors Amid Financial Challenges"
+date = "2025-03-28T14:45:43Z"
+draft = false
+summary = "Aemetis, Inc. showcases substantial revenue growth and expansion in renewable energy sectors, despite a net loss, positioning itself as a potential leader in California's low-carbon fuel market."
+description = "Aemetis, Inc. reports significant growth in renewable energy segments with a 43% increase in revenues in FY24. The company's strategic initiatives in RNG and ethanol production align with California's push for lower-carbon fuels, positioning Aemetis for further expansion and potential IPO in India. Learn more about Aemetis' advancements in sustainable energy solutions."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-coverage-on-aemetis-inc-nasdaq-amtx-q4-2024"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/2527b32e2dd0d3eeb342a2d805542376.png"
+article_id = 93038
+feed_item_id = 12303
+url = "/202503/93038-aemetis-inc-reports-significant-growth-in-renewable-energy-sectors-amid-financial-challenges"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/253/28/lossYsTT.webp"
+source = "Reportable"
++++
+
+<p>Aemetis, Inc. (Nasdaq: AMTX) has announced a 43% increase in full-year revenues for 2024, reaching $268.0 million, up from $187.0 million the previous year. This growth comes despite the company reporting a net loss of $87.5 million, primarily due to interest expenses. The financial performance underscores Aemetis' significant advancements in its renewable energy segments, particularly in Renewable Natural Gas (RNG) and biofuels.</p><p>The RNG division more than doubled its production capacity to 550,000 MMBtu, with revenues surging by 139%. Aemetis is set to expand its RNG capacity to 1,000,000 MMBtu by 2025, backed by $75.0 million in long-term USDA financing. With 26 dairies expected to be operational by 2026 and 50 already under contract, the company is on a path to potentially dominate California's low-carbon fuel sector.</p><p>In California, the ethanol segment saw a 55% revenue increase to $162.0 million. Aemetis is enhancing sustainability through initiatives like a Mechanical Vapor Recompression system and a $12.0 million solar microgrid installation. The possible adoption of E15 ethanol in California could further boost growth, aligning with the state's lower-carbon fuel objectives.</p><p>The India Biofuels segment reported a 20% revenue increase to $93.0 million, with production capacity expanding by approximately 50% to 80 million gallons annually. Aemetis is considering an IPO for this segment in late 2025 or early 2026 and is exploring biogas production opportunities.</p><p>Regulatory changes, including California's Low Carbon Fuel Standard amendments and potential federal tax credits, are pivotal to Aemetis' strategy. These developments could influence LCFS credit prices and the company's economic outlook. Stonegate Capital Partners' valuation analysis suggests a price range of $13.02 to $19.03 for Aemetis, indicating confidence in its growth trajectory.</p>

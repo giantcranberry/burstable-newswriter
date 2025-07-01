@@ -1,0 +1,16 @@
++++
+title = "RapidFire Safety & Security Expands St. Louis Market Presence with Kane Fire Protection Acquisition"
+date = "2025-01-09T16:45:11Z"
+draft = false
+summary = "RapidFire Safety & Security's acquisition of Kane Fire Protection enhances its fire protection services in the St. Louis area, signaling growth and expanded capabilities in the safety and security industry."
+description = "RapidFire Safety & Security expands service offerings with acquisition of Kane Fire Protection in St. Louis, enhancing fire protection solutions in the region."
+source_link = "https://newsroom.prkarma.com/rapidfire/news_release/1609"
+enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/6f78fa3fb53d02099f308229bac39feb.jpg"
+article_id = 93429
+feed_item_id = 9940
+url = "/202501/93429-rapidfire-safety-security-expands-st-louis-market-presence-with-kane-fire-protection-acquisition"
+qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/251/9/quayuZGz.webp"
+source = "PR Karma"
++++
+
+<p>RapidFire Safety & Security has announced its acquisition of Kane Fire Protection, a move that significantly bolsters its service offerings in the St. Louis metropolitan area. This strategic acquisition, RapidFire's second in the St. Louis market, integrates Kane's specialized fire sprinkler services into RapidFire's portfolio, enhancing the company's ability to provide comprehensive fire protection and security solutions.</p><p>Kane Fire Protection, known for its expertise in fire suppression system design, installation, and testing, brings a skilled workforce and a strong reputation to RapidFire. The acquisition ensures continuity for Kane's employees and clients, maintaining a robust presence in the St. Louis market. Mike McLeod, CEO of RapidFire, highlighted the alignment of Kane's quality and customer satisfaction standards with RapidFire's vision for growth and excellence in the safety and security sectors.</p><p>The acquisition is a key part of RapidFire's 'Buy & Build' strategy, aimed at establishing a world-class platform across several U.S. regions. Kane Fire Protection's NICET Level III certification and comprehensive service range, including consultations and engineering, complement RapidFire's existing capabilities. This merger is expected to create synergies that benefit both companies and their clients, offering more integrated safety solutions.</p><p>Pat Kane, Owner of Kane Fire Protection, expressed enthusiasm about joining RapidFire, citing the opportunity for growth and being part of a larger vision. Adam Lucas of Concentric Equity Partners, RapidFire's investment partner, also welcomed the partnership, emphasizing the expansion of service offerings in the St. Louis market as a continuation of their core strategy.</p><p>This acquisition positions RapidFire to meet the increasing demand for integrated fire protection and security services, driving innovation and enhancing safety standards in the St. Louis metropolitan area and beyond. For more information, visit <a href='https://www.rapidfiress.com' rel='nofollow' target='_blank'>https://www.rapidfiress.com</a> or <a href='https://kanefireprotection.com/' rel='nofollow' target='_blank'>https://kanefireprotection.com/</a>.</p>

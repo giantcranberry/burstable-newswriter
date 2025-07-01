@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524407/florida-res
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/c5b18a79869e8fd7e30f0cc30ac391c3.png"
 article_id = 94380
 feed_item_id = 16320
-url = "/news/202507/94380-markone-contractors-offers-florida-homeowners-hurricane-resistant-roofing-and-free-exterior-painting"
+url = "/202507/94380-markone-contractors-offers-florida-homeowners-hurricane-resistant-roofing-and-free-exterior-painting"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/1/roamAdWv.webp"
 source = "24-7 Press Release"
 +++

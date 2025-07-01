@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-esgold-corp-c
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/a7ae5745f1cfe202e23bdbe3aa105a21.png"
 article_id = 90315
 feed_item_id = 16190
-url = "/news/202506/90315-esgold-corp-secures-36-million-in-oversubscribed-private-placement-for-montauban-project"
+url = "/202506/90315-esgold-corp-secures-36-million-in-oversubscribed-private-placement-for-montauban-project"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/flaxPrj2.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

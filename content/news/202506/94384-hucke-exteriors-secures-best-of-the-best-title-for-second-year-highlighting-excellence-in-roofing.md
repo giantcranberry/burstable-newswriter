@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/reputable-wisconsin-roofing-company-wi
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/52872f70e9cab7fcbf7ced2318fe6c10None"
 article_id = 94384
 feed_item_id = 16294
-url = "/news/202506/94384-hucke-exteriors-secures-best-of-the-best-title-for-second-year-highlighting-excellence-in-roofing"
+url = "/202506/94384-hucke-exteriors-secures-best-of-the-best-title-for-second-year-highlighting-excellence-in-roofing"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/30/evenwsuf.webp"
 source = "Press Services"
 +++

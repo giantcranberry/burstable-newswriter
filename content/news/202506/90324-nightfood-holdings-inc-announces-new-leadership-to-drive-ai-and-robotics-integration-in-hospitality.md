@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nightfoo
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/ba4d0d19face2fdb4a2d81e290c38c7f.png"
 article_id = 90324
 feed_item_id = 16152
-url = "/news/202506/90324-nightfood-holdings-inc-announces-new-leadership-to-drive-ai-and-robotics-integration-in-hospitality"
+url = "/202506/90324-nightfood-holdings-inc-announces-new-leadership-to-drive-ai-and-robotics-integration-in-hospitality"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/25/epicRZ2t.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

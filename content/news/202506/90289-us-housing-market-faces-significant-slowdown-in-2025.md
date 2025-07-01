@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524354/the-2025-ho
 enclosure = "https://cdn.newsramp.app/genai/images/256/28/e20d722b3b230a4f3ca49b26ef94de1d.png"
 article_id = 90289
 feed_item_id = 16270
-url = "/news/202506/90289-us-housing-market-faces-significant-slowdown-in-2025"
+url = "/202506/90289-us-housing-market-faces-significant-slowdown-in-2025"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/28/pondJ4Fx.webp"
 source = "24-7 Press Release"
 +++

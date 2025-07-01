@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/coinbase-obtains-crypto-
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/0bcf71b6f5e1583e28583f818bd3e06f.png"
 article_id = 90349
 feed_item_id = 16083
-url = "/news/202506/90349-coinbase-secures-regulatory-approval-in-luxembourg-strengthening-eu-cryptocurrency-market-presence"
+url = "/202506/90349-coinbase-secures-regulatory-approval-in-luxembourg-strengthening-eu-cryptocurrency-market-presence"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/24/notesj9c.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/genai/images/256/20/9f73f83902848698fb68208d0162bd93.png"
 article_id = 87653
 feed_item_id = 15936
-url = "/news/202506/87653-royalty-management-holding-corporation-advances-shareholder-value-through-share-repurchase-program"
+url = "/202506/87653-royalty-management-holding-corporation-advances-shareholder-value-through-share-repurchase-program"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/20/pitapico6DNa.webp"
 source = "NewMediaWire"
 +++

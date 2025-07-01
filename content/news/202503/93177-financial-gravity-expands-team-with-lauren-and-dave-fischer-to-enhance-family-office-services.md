@@ -1,0 +1,16 @@
++++
+title = "Financial Gravity Expands Team with Lauren and Dave Fischer to Enhance Family Office Services"
+date = "2025-03-03T18:55:20Z"
+draft = false
+summary = "Financial Gravity Companies, Inc. strengthens its multi-family office services by adding Lauren and Dave Fischer as new Family Office Directors, aiming to democratize access to sophisticated wealth management."
+description = "Financial Gravity welcomes Lauren Fischer and David Fischer as new Family Office Directors, enhancing their team's ability to provide comprehensive financial services. Lauren and David will prescribe advanced tax solutions and personalized financial planning strategies to help clients achieve their financial goals."
+source_link = "https://newsdirect.com/news/financial-gravity-welcomes-new-family-office-directors-lauren-fischer-and-dave-fischer-488471485"
+enclosure = "https://cdn.newsramp.app/banners/leadership-management-3.jpg"
+article_id = 93177
+feed_item_id = 11547
+url = "/202503/93177-financial-gravity-expands-team-with-lauren-and-dave-fischer-to-enhance-family-office-services"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/3/pondOlXm.webp"
+source = "News Direct"
++++
+
+<p>Financial Gravity Companies, Inc. has announced the addition of Lauren and Dave Fischer as new Family Office Directors, a move designed to bolster its multi-family office service offerings. This strategic hiring underscores the company's commitment to expanding access to comprehensive wealth management solutions that integrate investments, tax planning, retirement, estate management, and philanthropy.</p><p>Lauren Fischer, with over a decade of experience in financial planning and investment management, and Dave Fischer, both CERTIFIED FINANCIAL PLANNER™ professionals, bring a wealth of knowledge and a client-focused approach to Financial Gravity. Their backgrounds, including roles at SALI Fund Services, Artemis Capital Management, 49 Financial, and Grace Capital Management, equip them with the expertise to advance the company's mission. Their recent venture, Team Fischer Financial, will now operate within Financial Gravity's platform, offering advanced tax solutions and holistic financial strategies.</p><p>Scott Winters, CEO of Financial Gravity, emphasized the strategic fit of the Fischers' expertise with the company's goal to democratize Family Office services. This initiative seeks to make sophisticated wealth management techniques, traditionally available only to high-net-worth individuals, accessible to a broader audience. The inclusion of Lauren and Dave Fischer marks a pivotal step in Financial Gravity's evolution from traditional tax compliance to a more integrated, client-centered financial service model.</p><p>The implications of this expansion are significant for the financial services industry, as it challenges the status quo by making high-level financial planning more inclusive. For business and technology leaders, this development highlights the growing importance of holistic financial strategies in achieving long-term wealth management goals. Financial Gravity's approach, now enhanced by the Fischers' expertise, could set a new standard for how financial services cater to the diverse needs of families across the economic spectrum.</p>

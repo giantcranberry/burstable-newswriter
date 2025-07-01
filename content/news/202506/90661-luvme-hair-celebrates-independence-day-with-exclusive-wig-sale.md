@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524340/luvmes-inde
 enclosure = "https://cdn.newsramp.app/genai/images/256/28/561f3f2c98b4a5b1f04d236425fa0574.png"
 article_id = 90661
 feed_item_id = 16267
-url = "/news/202506/90661-luvme-hair-celebrates-independence-day-with-exclusive-wig-sale"
+url = "/202506/90661-luvme-hair-celebrates-independence-day-with-exclusive-wig-sale"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/28/dashZ03h.webp"
 source = "24-7 Press Release"
 +++

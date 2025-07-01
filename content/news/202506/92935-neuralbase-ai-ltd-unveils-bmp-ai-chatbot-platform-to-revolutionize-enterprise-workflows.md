@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/neuralbase-debuts-smart-chatbot
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/ca90750ece6b0f1059cf778fd9ea28ef.png"
 article_id = 92935
 feed_item_id = 16059
-url = "/news/202506/92935-neuralbase-ai-ltd-unveils-bmp-ai-chatbot-platform-to-revolutionize-enterprise-workflows"
+url = "/202506/92935-neuralbase-ai-ltd-unveils-bmp-ai-chatbot-platform-to-revolutionize-enterprise-workflows"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/24/knotFqFa.webp"
 source = "NewMediaWire"
 +++

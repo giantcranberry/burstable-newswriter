@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/sportradar-s-expanded-partnersh
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/a87ec54bcf8d78a19414e6f96268a6a4.png"
 article_id = 94364
 feed_item_id = 16375
-url = "/news/202507/94364-sportradar-and-mlb-expand-partnership-to-revolutionize-fan-engagement-with-ai-and-real-time-data"
+url = "/202507/94364-sportradar-and-mlb-expand-partnership-to-revolutionize-fan-engagement-with-ai-and-real-time-data"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/1/wallELIr.webp"
 source = "NewMediaWire"
 +++

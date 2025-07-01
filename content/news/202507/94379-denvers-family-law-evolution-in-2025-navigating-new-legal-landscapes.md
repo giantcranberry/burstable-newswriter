@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524312/understandi
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/247ee2cbf764dd76dc229500469e3b06.png"
 article_id = 94379
 feed_item_id = 16322
-url = "/news/202507/94379-denvers-family-law-evolution-in-2025-navigating-new-legal-landscapes"
+url = "/202507/94379-denvers-family-law-evolution-in-2025-navigating-new-legal-landscapes"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/1/oxenLQV_.webp"
 source = "24-7 Press Release"
 +++

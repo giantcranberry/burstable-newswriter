@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/sportradar-targets-opportunitie
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/dfc2890c7dc4e31025188c98a9997482.png"
 article_id = 92916
 feed_item_id = 16182
-url = "/news/202506/92916-sportradar-expands-into-brazils-regulated-sports-betting-market"
+url = "/202506/92916-sportradar-expands-into-brazils-regulated-sports-betting-market"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/26/dualS8Z6.webp"
 source = "NewMediaWire"
 +++

@@ -1,0 +1,16 @@
++++
+title = "Ekshef.com Celebrates Three Years of Revolutionizing Healthcare Access in Egypt"
+date = "2025-03-27T19:00:27Z"
+draft = false
+summary = "Ekshef.com, Egypt's leading online doctor appointment booking platform, marks three years of enhancing healthcare accessibility, showcasing the growing demand for digital healthcare solutions."
+description = "Ekshef.com commemorates its third anniversary, reinforcing its commitment to enhancing healthcare accessibility in Egypt. Founded by Khaled Khamis, the platform connects over 11,000 certified physicians with patients, revolutionizing healthcare access in major cities like Cairo, Giza, and Alexandria."
+source_link = "https://newsdirect.com/news/ekshef-com-celebrates-three-years-of-revolutionizing-healthcare-accessibility-in-egypt-687837556"
+enclosure = "https://cdn.newsramp.app/news-direct/newsimage/7600d791cbcc518a48da03a28c0375db.jpg"
+article_id = 93040
+feed_item_id = 12273
+url = "/202503/93040-ekshefcom-celebrates-three-years-of-revolutionizing-healthcare-access-in-egypt"
+qrcode = "https://cdn.newsramp.app/news-direct/qrcode/253/27/poem7wvK.webp"
+source = "News Direct"
++++
+
+<p>Ekshef.com, Egypt's premier online doctor appointment booking platform, has reached a significant milestone by completing three years of operations, significantly improving healthcare accessibility across the nation. Founded by Khaled Khamis, a software engineer with a science background, the platform has expanded its network to include over 11,000 certified physicians in major cities such as Cairo, Giza, and Alexandria.</p><p>Since its inception in 2022, Ekshef.com has set itself apart with a user-friendly interface that simplifies the process of searching for and booking appointments with medical specialists in various fields, including cardiology, dermatology, and pediatrics. The platform's growth has been supported by approximately $250,000 in funding from angel investors, enabling enhancements to its technological infrastructure and user experience.</p><p>This digital healthcare service plays a pivotal role in Egypt's medical sector by eliminating traditional obstacles to healthcare access. Through its comprehensive online database, patients can effortlessly find and schedule consultations with verified medical professionals, offering not only time savings but also greater convenience for those in need of specialized medical care.</p><p>Khaled Khamis highlighted the company's dedication to innovation, with a focus on developing technologies that enhance healthcare accessibility and reliability. The platform's swift expansion is a testament to the rising demand for digital healthcare solutions capable of addressing gaps in medical service delivery.</p><p>As Ekshef.com steps into its fourth year, the company is committed to broadening its reach, introducing new features, and extending services to areas previously underserved. By harnessing technology, Ekshef.com is reshaping the way Egyptians access healthcare services, making medical consultations more efficient and centered around patient needs.</p>

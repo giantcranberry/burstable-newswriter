@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524172/from-lesson
 enclosure = "https://cdn.newsramp.app/genai/images/256/25/054fb7b0e3c0395755719f5272938648.png"
 article_id = 90340
 feed_item_id = 16111
-url = "/news/202506/90340-krystle-skin-a-testament-to-financial-insight-and-skincare-innovation"
+url = "/202506/90340-krystle-skin-a-testament-to-financial-insight-and-skincare-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/25/noteGvzN.webp"
 source = "24-7 Press Release"
 +++

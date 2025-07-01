@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/iotacomm-r-announces-new-corporate-he
 enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
 article_id = 90692
 feed_item_id = 16077
-url = "/news/202506/90692-iotacomm-relocates-headquarters-to-chapel-hill-bolstering-iot-innovation-in-research-triangle"
+url = "/202506/90692-iotacomm-relocates-headquarters-to-chapel-hill-bolstering-iot-innovation-in-research-triangle"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/24/notem6B7.webp"
 source = "News Direct"
 +++

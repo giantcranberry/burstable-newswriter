@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/707991/clear-the-clutter-before-th
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/63333d3306fd2b30966f38428130eec0.jpg"
 article_id = 90385
 feed_item_id = 15807
-url = "/news/202506/90385-junkcom-highlights-critical-role-of-clutter-removal-in-hurricane-preparedness"
+url = "/202506/90385-junkcom-highlights-critical-role-of-clutter-removal-in-hurricane-preparedness"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/18/lusheyvi.webp"
 source = "citybiz"
 +++

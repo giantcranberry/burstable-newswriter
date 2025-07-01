@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/712805/can-the-u-s-win-back-canadi
 enclosure = "https://cdn.newsramp.app/banners/government-politics-3.jpg"
 article_id = 94369
 feed_item_id = 16355
-url = "/news/202507/94369-survey-reveals-canadians-growing-reluctance-to-travel-to-the-us-amid-political-and-safety-concerns"
+url = "/202507/94369-survey-reveals-canadians-growing-reluctance-to-travel-to-the-us-amid-political-and-safety-concerns"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/deepKUyF.webp"
 source = "citybiz"
 +++

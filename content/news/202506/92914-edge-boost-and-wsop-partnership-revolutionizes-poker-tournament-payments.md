@@ -8,7 +8,7 @@ source_link = "https://newsdirect.com/news/edge-boost-named-preferred-payment-me
 enclosure = "https://cdn.newsramp.app/banners/events-3.jpg"
 article_id = 92914
 feed_item_id = 16184
-url = "/news/202506/92914-edge-boost-and-wsop-partnership-revolutionizes-poker-tournament-payments"
+url = "/202506/92914-edge-boost-and-wsop-partnership-revolutionizes-poker-tournament-payments"
 qrcode = "https://cdn.newsramp.app/news-direct/qrcode/256/26/roamCBr9.webp"
 source = "News Direct"
 +++

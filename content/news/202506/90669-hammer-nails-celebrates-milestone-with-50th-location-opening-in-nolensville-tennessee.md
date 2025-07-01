@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524315/hammer-nail
 enclosure = "https://cdn.newsramp.app/genai/images/256/27/fd6d093b38288e91b362775cb1ad8df1.png"
 article_id = 90669
 feed_item_id = 16232
-url = "/news/202506/90669-hammer-nails-celebrates-milestone-with-50th-location-opening-in-nolensville-tennessee"
+url = "/202506/90669-hammer-nails-celebrates-milestone-with-50th-location-opening-in-nolensville-tennessee"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/27/harpjBLc.webp"
 source = "24-7 Press Release"
 +++

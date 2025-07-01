@@ -8,7 +8,7 @@ source_link = "https://www.newmediawire.com/news/royalty-management-holding-corp
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/710847b34656f026317e65cda2328bf7.png"
 article_id = 90314
 feed_item_id = 16191
-url = "/news/202506/90314-royalty-management-holding-corporation-regains-full-compliance-with-nasdaq-listing-standards"
+url = "/202506/90314-royalty-management-holding-corporation-regains-full-compliance-with-nasdaq-listing-standards"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/26/rushb1Tu.webp"
 source = "NewMediaWire"
 +++

@@ -8,7 +8,7 @@ source_link = "https://newsworthy.ai/news/202506301549/critical-gap-emerges-betw
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/4c03645e6b00672cf8bc091a03244819.png"
 article_id = 92905
 feed_item_id = 16292
-url = "/news/202506/92905-study-reveals-gap-in-workplace-mental-health-support-despite-available-benefits"
+url = "/202506/92905-study-reveals-gap-in-workplace-mental-health-support-despite-available-benefits"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/256/30/rainORBX.webp"
 source = "Newsworthy.ai"
 +++

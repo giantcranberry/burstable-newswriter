@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708848/pine-street-capital-takes-s
 enclosure = "https://cdn.newsramp.app/genai/images/256/19/42850434b8dd4f8c07294e50d4ef0ac1.png"
 article_id = 86100
 feed_item_id = 15906
-url = "/news/202506/86100-investment-in-precision-piping-products-signals-confidence-in-specialty-manufacturing"
+url = "/202506/86100-investment-in-precision-piping-products-signals-confidence-in-specialty-manufacturing"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/19/ovalxtrk.webp"
 source = "citybiz"
 +++

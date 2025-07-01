@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524403/great-dialo
 enclosure = "https://cdn.newsramp.app/genai/images/256/30/0b0d2e754d5e13bb95ddd69dc1658ac1.png"
 article_id = 92907
 feed_item_id = 16287
-url = "/news/202506/92907-balanced-leadership-a-key-to-personal-and-professional-excellence"
+url = "/202506/92907-balanced-leadership-a-key-to-personal-and-professional-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/30/pinkdFUk.webp"
 source = "24-7 Press Release"
 +++

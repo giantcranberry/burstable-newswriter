@@ -1,0 +1,16 @@
++++
+title = "Ascent Solar Technologies Emerges as a Key Player in Space Solar Technology"
+date = "2025-05-01T13:05:24Z"
+draft = false
+summary = "Ascent Solar Technologies showcases its innovative CIGS thin-film PV technology at the 40th annual Space Symposium, positioning itself as a leader in the burgeoning space solar market."
+description = "Ascent Solar Technologies impresses at Space Symposium with advanced PV solutions for spacecraft, showcasing lightweight CIGS thin-film technology. The company's innovations could revolutionize power generation in space, contributing to the growth of the solar space market and enhancing operational efficiency for customers."
+source_link = "https://www.newmediawire.com/news/from-powering-spacecraft-to-showing-off-its-manufacturing-might-ascent-solar-is-making-its-name-in-spacetech-7080581"
+enclosure = "https://cdn.newsramp.app/banners/industry-manufacturing-3.jpg"
+article_id = 92986
+feed_item_id = 13688
+url = "/202505/92986-ascent-solar-technologies-emerges-as-a-key-player-in-space-solar-technology"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/255/1/glowLaf6.webp"
+source = "NewMediaWire"
++++
+
+<p>Ascent Solar Technologies has recently taken center stage at the 40th annual Space Symposium, showcasing its cutting-edge CIGS thin-film photovoltaic (PV) technology designed for space applications. The company's ultra-lightweight, flexible solar panels are engineered to thrive in the harsh conditions of space, offering a promising solution for spacecraft power generation. This innovation not only enhances power transmission capabilities through microwave or laser beam technologies but also marks a significant step forward in sustainable energy solutions for space exploration.</p><p>The symposium served as a platform for Ascent Solar to highlight its 5MW production facility's capacity to fulfill orders exceeding 100kW, starting this summer. Through its hardware developer kit program, the company aims to assist space mission managers and engineers in optimizing solar array performance while reducing costs. This initiative underscores Ascent Solar's commitment to addressing the unique challenges of space environments with efficient and cost-effective solar technologies.</p><p>The space solar market is on a trajectory for substantial growth, with estimates projecting an increase from $4.7 billion in 2030 to $6.8 billion by 2040. Ascent Solar's strategic positioning in this sector is further bolstered by partnerships with key players such as NASA, DARPA, and the National Renewable Energy Laboratory. A recent milestone includes the delivery of spaceflight-ready PV blankets to a prominent European space systems provider, showcasing the company's ability to produce innovative, lightweight power solutions.</p><p>CEO Paul Warley emphasized the company's dedication to advancing solar technology for space applications, leveraging its domestic manufacturing base in Thornton, Colorado. This not only enhances Ascent Solar's competitive edge but also aligns with growing interest in U.S. domestic manufacturing capabilities amid recent global tariff changes. Beyond traditional solar applications, the company's technology holds potential for orbital manufacturing and advanced space exploration, signaling a broad impact on the future of space technology and sustainable energy.</p>

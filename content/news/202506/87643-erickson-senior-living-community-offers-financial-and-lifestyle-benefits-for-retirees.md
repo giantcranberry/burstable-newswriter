@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/709100/at-windsor-run-predictable-
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/8b563c79827d21d7d45e4062bb15c45b.png"
 article_id = 87643
 feed_item_id = 15968
-url = "/news/202506/87643-erickson-senior-living-community-offers-financial-and-lifestyle-benefits-for-retirees"
+url = "/202506/87643-erickson-senior-living-community-offers-financial-and-lifestyle-benefits-for-retirees"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/urgeKx9D.webp"
 source = "citybiz"
 +++

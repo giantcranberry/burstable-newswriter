@@ -1,0 +1,16 @@
++++
+title = "Kiddleton, Inc. Acquires National Entertainment Network, Expanding U.S. Presence with Japanese-Inspired Amusement Vending"
+date = "2024-11-23T08:00:15Z"
+draft = false
+summary = "Kiddleton, Inc.'s acquisition of National Entertainment Network marks a significant expansion in the U.S. amusement vending industry, introducing more Japanese-inspired entertainment options and leveraging digital loyalty programs."
+description = "GENDA Inc. expands its U.S. location count through the acquisition of National Entertainment Network, LLC, bringing unique Japanese-style small prize game machines and prizes to more locations."
+source_link = "https://www.24-7pressrelease.com/press-release/516526/kiddleton-officially-acquired-national-entertainment-network-as-of-11124"
+enclosure = "https://cdn.newsramp.app/banners/business-corporate-2.jpg"
+article_id = 94625
+feed_item_id = 8875
+url = "/202411/94625-kiddleton-inc-acquires-national-entertainment-network-expanding-us-presence-with-japanese-inspired-amusement-vending"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2411/23/tintieYx.webp"
+source = "24-7 Press Release"
++++
+
+<p>The acquisition of National Entertainment Network (NEN) by Kiddleton, Inc., effective November 1, 2024, represents a pivotal moment for the U.S. amusement vending industry. Announced by GENDA Inc. on October 23, 2024, this merger significantly enhances Kiddleton's footprint in the United States, adding approximately 8,000 locations to its existing 640. This strategic move not only broadens Kiddleton's market presence but also introduces a fresh wave of Japanese-style small prize game machines to American consumers, known for their 'Kawaii' designs and innovative gameplay.</p><p>Kiddleton's unique approach to amusement vending, characterized by its focus on Japanese pop culture, has already demonstrated remarkable success, with same-store sales increasing by an average of 300%. The acquisition of NEN, with its extensive network of 30,000 crane and bulk vending machines across 8,000 locations, complements Kiddleton's strategy to dominate the U.S. market. Furthermore, the integration of NEN's digital loyalty program, which boasts over 1 million enrolled players, underscores the growing importance of digital engagement in the amusement vending sector.</p><p>This merger is indicative of a larger trend towards the globalization of entertainment, with GENDA Inc., Kiddleton's parent company, aiming to build a worldwide entertainment network. The combined forces of Kiddleton and NEN are set to redefine the standards for game machine offerings and prize quality in the U.S., catering to the rising consumer demand for unique, culturally rich entertainment experiences. As the amusement vending industry continues to evolve, this acquisition may prompt other companies to explore innovative and international collaborations to stay competitive.</p><p>For more details on Kiddleton's expanded operations, visit <a href='https://kiosk.kiddleton.info/' rel='nofollow' target='_blank'>https://kiosk.kiddleton.info/</a>.</p>

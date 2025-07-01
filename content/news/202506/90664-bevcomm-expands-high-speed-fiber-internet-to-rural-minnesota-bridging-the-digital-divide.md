@@ -8,7 +8,7 @@ source_link = "https://mediawiretoday.com/bevcomm-expands-high-speed-fiber-inter
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/72fcee0c0ceb0d5d75dadfac2fe8a50e.jpg"
 article_id = 90664
 feed_item_id = 16264
-url = "/news/202506/90664-bevcomm-expands-high-speed-fiber-internet-to-rural-minnesota-bridging-the-digital-divide"
+url = "/202506/90664-bevcomm-expands-high-speed-fiber-internet-to-rural-minnesota-bridging-the-digital-divide"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/256/28/mailxOir.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-adageis
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/bef087af3de549a62041adde587baa8f.png"
 article_id = 90301
 feed_item_id = 16224
-url = "/news/202506/90301-adageis-introduces-innovative-platform-to-transform-healthcare-operations"
+url = "/202506/90301-adageis-introduces-innovative-platform-to-transform-healthcare-operations"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/26/limegqfz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.citybiz.co/article/708887/qa-with-julien-villemonteix
 enclosure = "https://cdn.newsramp.app/genai/images/256/21/99fecd22bfcf2769cb2103dff12aa4ba.png"
 article_id = 87647
 feed_item_id = 15959
-url = "/news/202506/87647-upslide-ceo-highlights-ai-and-automations-role-in-transforming-financial-sector"
+url = "/202506/87647-upslide-ceo-highlights-ai-and-automations-role-in-transforming-financial-sector"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/256/21/camcGTzL.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524206/good-bull-i
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/4653b0239601e0e74a63952a0d556a96.png"
 article_id = 93075
 feed_item_id = 16088
-url = "/news/202506/93075-good-bull-investments-expands-into-hospitality-with-acquisition-of-historic-commodore-on-the-beach-hotel"
+url = "/202506/93075-good-bull-investments-expands-into-hospitality-with-acquisition-of-historic-commodore-on-the-beach-hotel"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/24/quay8vJl.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524225/torras-q3-a
 enclosure = "https://cdn.newsramp.app/genai/images/256/26/ceba6a5336b9d0f92ba25ad8a8db4f18.png"
 article_id = 90679
 feed_item_id = 16166
-url = "/news/202506/90679-torras-unveils-q3-air-a-revolutionary-phone-case-combining-style-protection-and-innovation"
+url = "/202506/90679-torras-unveils-q3-air-a-revolutionary-phone-case-combining-style-protection-and-innovation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/26/paleJpcN.webp"
 source = "24-7 Press Release"
 +++

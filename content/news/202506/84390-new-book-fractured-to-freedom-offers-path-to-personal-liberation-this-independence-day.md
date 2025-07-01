@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/523894/fractured-t
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/d379e6a65b67a847eccf65329cec7c8a.png"
 article_id = 84390
 feed_item_id = 15704
-url = "/news/202506/84390-new-book-fractured-to-freedom-offers-path-to-personal-liberation-this-independence-day"
+url = "/202506/84390-new-book-fractured-to-freedom-offers-path-to-personal-liberation-this-independence-day"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/17/dave4KdS.webp"
 source = "24-7 Press Release"
 +++

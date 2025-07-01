@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524336/tm-antlers-
 enclosure = "https://cdn.newsramp.app/genai/images/256/28/18987c9377ad030617724da4335b3c64.png"
 article_id = 90288
 feed_item_id = 16269
-url = "/news/202506/90288-tm-antlers-expands-nationwide-with-relaunched-website-offering-sustainable-dog-chews"
+url = "/202506/90288-tm-antlers-expands-nationwide-with-relaunched-website-offering-sustainable-dog-chews"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/28/joltyjb8.webp"
 source = "24-7 Press Release"
 +++

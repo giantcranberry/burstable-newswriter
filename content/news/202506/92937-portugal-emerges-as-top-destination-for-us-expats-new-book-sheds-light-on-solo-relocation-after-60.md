@@ -8,7 +8,7 @@ source_link = "https://www.24-7pressrelease.com/press-release/524165/as-more-ame
 enclosure = "https://cdn.newsramp.app/genai/images/256/24/78e09951b6b778fa828cb7dcb3776435.png"
 article_id = 92937
 feed_item_id = 16057
-url = "/news/202506/92937-portugal-emerges-as-top-destination-for-us-expats-new-book-sheds-light-on-solo-relocation-after-60"
+url = "/202506/92937-portugal-emerges-as-top-destination-for-us-expats-new-book-sheds-light-on-solo-relocation-after-60"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/256/24/hikej_61.webp"
 source = "24-7 Press Release"
 +++

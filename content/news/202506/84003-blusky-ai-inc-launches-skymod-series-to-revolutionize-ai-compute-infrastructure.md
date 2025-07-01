@@ -8,7 +8,7 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-blusky
 enclosure = "https://cdn.newsramp.app/genai/images/256/18/345e0c7d9af9b230b457c8d073619eba.png"
 article_id = 84003
 feed_item_id = 15781
-url = "/news/202506/84003-blusky-ai-inc-launches-skymod-series-to-revolutionize-ai-compute-infrastructure"
+url = "/202506/84003-blusky-ai-inc-launches-skymod-series-to-revolutionize-ai-compute-infrastructure"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/256/17/wamczxkt.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++
