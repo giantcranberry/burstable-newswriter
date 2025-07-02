@@ -6,7 +6,6 @@ summary = "California grapes take center stage in new summer recipes, offering f
 description = "Discover how Grapes from California can transform your summer meals with these easy, flavorful recipes. Perfect for entertaining and healthy eating."
 source_link = "https://www.noticiasnewswire.com/elevate-summer-hosting/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/1/741f4d0bcbd25a58fc22ef7b016365ee.png"
-featured = true
 article_id = 94357
 feed_item_id = 16396
 url = "/202507/94357-innovative-grape-based-recipes-elevate-summer-entertaining"
