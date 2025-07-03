@@ -1,0 +1,16 @@
++++
+title = "Maystone Management LLC Expands Baltimore Portfolio with Shelburne Court Condominium Acquisition"
+date = "2025-07-01T08:00:43Z"
+draft = false
+summary = "Maystone Management LLC's recent acquisition of a condominium at Shelburne Court in Baltimore highlights its strategic focus on properties with long-term growth potential and operational efficiencies."
+description = "Maystone Management LLC acquires a condominium at Shelburne Court, expanding its Baltimore real estate portfolio with strategic investments."
+source_link = "https://www.citybiz.co/article/712866/maystone-management-expands-baltimore-management-portfolio-with-targeted-condo-acquisition-via-affiliate-entity/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/2/8f6920bf0e3bdcb3037225c3896b13a8.png"
+article_id = 95429
+feed_item_id = 16353
+url = "/202507/95429-maystone-management-llc-expands-baltimore-portfolio-with-shelburne-court-condominium-acquisition"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/1/gainjbsS.webp"
+source = "citybiz"
++++
+
+<p>Maystone Management LLC, a private equity real estate and investment management firm, has recently expanded its portfolio in Baltimore, Maryland, through the acquisition of a condominium at Shelburne Court by one of its affiliates. This acquisition is a testament to Maystone's strategic approach to investing in properties that not only promise long-term upside but also offer operational efficiencies. Jacob Altshuler, Managing Principal at Maystone Management, reiterated the firm's dedication to scouting for opportunities that align with its investment criteria, pointing out the attractive location and submarket appeal of Shelburne Court as key factors in the decision.</p><p>The newly acquired condominium will be under the management of Maystone Management, which already has a significant presence in the area, including the management of the Metro Center Shopping Center on Reisterstown Road. The shopping center is home to a variety of retail tenants, such as Papa John’s Pizza, Rose Nails, and Tiffany’s Beauty Supply, showcasing the firm's ability to maintain and enhance the value of its properties. The role of Lexington Street Capital, Altshuler’s brokerage firm, in the acquisition of the Metro Center further illustrates the synergy within Maystone's portfolio operations, emphasizing the firm's integrated approach to real estate investment and management.</p><p>This acquisition not only strengthens Maystone Management LLC's foothold in Baltimore but also signals the firm's confidence in the local real estate market's potential for growth. For business and technology leaders, this move underscores the importance of strategic investment in real estate as a component of broader investment portfolios, especially in markets with proven appeal and operational efficiencies. The implications of such acquisitions extend beyond the immediate benefits to the firm, potentially influencing local economic development and setting a precedent for future investments in similar markets.</p>
