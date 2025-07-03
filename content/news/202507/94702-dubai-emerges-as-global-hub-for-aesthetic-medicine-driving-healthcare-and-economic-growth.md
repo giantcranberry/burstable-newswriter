@@ -6,7 +6,6 @@ summary = "Dubai's aesthetic medicine sector is booming, with significant contri
 description = "Dubai's aesthetic medicine sector thrives, with Dr. Nazmi Baycin leading the charge in plastic surgery excellence, attracting global patients and boosting the economy."
 source_link = "https://newsdirect.com/news/dr-nazmi-baycin-dubai-emerges-as-a-global-leader-in-aesthetic-medicine-led-by-renowned-plastic-surgeon-333460718"
 enclosure = "https://cdn.newsramp.app/banners/health-wellness-3.jpg"
-featured = true
 article_id = 94702
 feed_item_id = 16406
 url = "/202507/94702-dubai-emerges-as-global-hub-for-aesthetic-medicine-driving-healthcare-and-economic-growth"
