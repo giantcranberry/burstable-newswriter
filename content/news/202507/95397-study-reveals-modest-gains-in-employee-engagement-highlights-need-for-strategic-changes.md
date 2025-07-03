@@ -1,0 +1,16 @@
++++
+title = "Study Reveals Modest Gains in Employee Engagement, Highlights Need for Strategic Changes"
+date = "2025-07-02T12:27:27Z"
+draft = false
+summary = "A new study shows a slight increase in employee engagement from 2022 to 2025, but highlights significant gaps in how organizations address culture, leadership, and technology to foster deeper engagement."
+description = "HR.com's 2025 report reveals employee engagement at 30%, stressing the need for culture, leadership, and tech to drive real improvements."
+source_link = "https://newsworthy.ai/news/202507021550/employee-engagement-is-rising-but-poor-engagement-still-persists-new-study-by-hr-com-research-institute"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/94edb855e2fcc324af9da6dd1aa6638c.png"
+article_id = 95397
+feed_item_id = 16435
+url = "/202507/95397-study-reveals-modest-gains-in-employee-engagement-highlights-need-for-strategic-changes"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/257/2/mailF2Ax.webp"
+source = "Newsworthy.ai"
++++
+
+<p>A recent study conducted by HR.com's Research Institute, titled 'State of Employee Productivity and Engagement 2025', has shed light on the current state of employee engagement within organizations. The findings indicate a modest improvement in engagement levels, with figures rising from 23% in 2022 to 30% in 2025. Despite this progress, the study reveals that over 40% of HR professionals still consider the average employee to be poorly engaged, pointing to a pressing need for more profound organizational changes.</p><p>The research identifies three critical drivers of employee engagement: culture, leadership, and the intelligent use of technology. However, there appears to be a significant gap between recognizing these drivers and implementing effective strategies to leverage them. For example, only 45% of organizations are actively working to improve their culture, and a mere 14% provide training for managers on how to engage their teams effectively. On the other hand, organizations where managers prioritize engagement report markedly better outcomes, with over 70% noting that their managers regularly provide feedback, build trust, and act on employee input.</p><p>Emerging technologies, especially artificial intelligence (AI), are highlighted as potential game-changers in enhancing both engagement and productivity. Despite only 36% of organizations currently utilizing AI for productivity-related tasks, the technology is viewed as a means to reduce administrative burdens, thereby freeing up more time for meaningful interactions between employees and their managers.</p><p>Debbie McGrath, Chief Instigator at HR.com, underscores the importance of viewing engagement not as a one-time metric but as an ongoing strategy that necessitates investment in leadership, culture, and smarter tools. The study ultimately serves as a call to action for organizations to transcend superficial initiatives and tackle the foundational elements that drive employee engagement.</p>

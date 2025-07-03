@@ -6,7 +6,6 @@ summary = "Steel's strength, durability, and sustainability make it a cornerston
 description = "Explore how steel's strength, versatility, and sustainability make it a cornerstone of modern civil engineering projects, offering long-term savings and environmental benefits."
 source_link = "https://www.citybiz.co/article/713468/the-role-of-steel-solutions-in-todays-civil-engineering-projects/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/2/26e06c1dbc266b7854912443beb553e6.png"
-featured = true
 article_id = 95322
 feed_item_id = 16430
 url = "/202507/95322-steels-unmatched-role-in-modern-construction-and-infrastructure"
