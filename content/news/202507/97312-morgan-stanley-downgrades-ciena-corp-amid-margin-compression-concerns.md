@@ -1,0 +1,16 @@
++++
+title = "Morgan Stanley Downgrades Ciena Corp. Amid Margin Compression Concerns"
+date = "2025-07-08T19:00:36Z"
+draft = false
+summary = "Morgan Stanley downgrades Ciena Corp. to Underweight, highlighting margin compression and a strategic shift towards lower-margin products as key challenges."
+description = "Morgan Stanley downgrades Ciena due to margin pressures, highlighting challenges in balancing growth with profitability in optical networking."
+source_link = "https://www.citybiz.co/article/715553/morgan-stanley-downgrades-ciena-on-margin-pressures-cites-limited-near-term-eps-upside/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/551137ff20a1dd361239b2fb7c71461f.png"
+article_id = 97312
+feed_item_id = 16691
+url = "/202507/97312-morgan-stanley-downgrades-ciena-corp-amid-margin-compression-concerns"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/8/mielelat.webp"
+source = "citybiz"
++++
+
+<p>Morgan Stanley has adjusted its stance on Ciena Corp. (NYSE: CIEN), downgrading the stock to Underweight from Equal-weight, a move that reflects concerns over persistent margin compression and limited near-term earnings potential. The investment bank also revised its price target for Ciena down to $70 from $73, pointing to the company's increasing reliance on lower-margin pluggable optical modules as a significant factor impacting its profitability.</p><p>Analysts Meta Marshall and Mary Lenox from Morgan Stanley highlighted that despite a 5% increase in revenue estimates for fiscal 2026 since March 2024, earnings per share (EPS) estimates have seen a 9% decline. This discrepancy is largely attributed to the expansion of Ciena's pluggables business, which, while growing, has contributed to gross margin shortfalls. The analysts suggest that while there is potential for margin improvement with the adoption of advanced technologies like 800ZR and RLS line cards, the additional revenue generated may not compensate for the previous margin levels.</p><p>Ciena's shares experienced a minor dip following the announcement, reflecting investor apprehension about the company's short-term profitability amidst its strategic pivot. This pivot involves a focus on high-speed optical interconnects, including pluggables for data centers and metro networks, areas that are in high demand due to the expansion of cloud infrastructure and AI workloads. However, this transition is expected to dilute earnings in the immediate future.</p><p>In contrast to Ciena's downgrade, Morgan Stanley has raised price targets for three other players in the networking sector: Corning Inc. (NYSE: GLW), Coherent Corp. (NYSE: COHR), and Lumentum Holdings (NASDAQ: LITE). This adjustment reflects a bullish outlook on the optical infrastructure sector, driven by the escalating demand for fiber and optical transmission technologies to meet the growing requirements for higher data speeds.</p><p>The downgrade of Ciena by Morgan Stanley underscores the broader challenges faced by companies in the networking and optical sectors as they navigate the delicate balance between strategic positioning in next-generation networks and maintaining profitability. As competition in high-speed connectivity intensifies, these challenges are expected to persist, highlighting the complexities of innovation and market adaptation in the technology sector.</p>

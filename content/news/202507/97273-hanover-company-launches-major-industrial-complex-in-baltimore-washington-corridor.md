@@ -1,0 +1,16 @@
++++
+title = "Hanover Company Launches Major Industrial Complex in Baltimore-Washington Corridor"
+date = "2025-07-08T19:20:35Z"
+draft = false
+summary = "Hanover Company's new industrial complex in Gambrills aims to address the Class A industrial space shortage, enhancing logistics operations with strategic access to key transportation routes."
+description = "Hanover Company breaks ground on a new industrial complex in the Baltimore-Washington corridor, enhancing the region's logistics infrastructure with modern facilities."
+source_link = "https://www.citybiz.co/article/715551/hanover-company-announces-groundbreaking-of-2-building-industrial-project-in-baltimore-washington-corridor/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/0136da0e247aa89cabfbede86c545a05.png"
+article_id = 97273
+feed_item_id = 16695
+url = "/202507/97273-hanover-company-launches-major-industrial-complex-in-baltimore-washington-corridor"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/8/wolfXZl0.webp"
+source = "citybiz"
++++
+
+<p>Hanover Company has initiated the construction of a two-building industrial complex in the Baltimore-Washington corridor, a move poised to significantly mitigate the scarcity of Class A industrial spaces in the region. Situated at 765 & 775 Crain Highway North, Gambrills, the development is strategically positioned to offer unparalleled access to major transportation arteries such as Maryland Route 3 South, Interstate 95, and Interstate 97. This connectivity ensures seamless links to the Port of Baltimore, BWI Airport, and the wider Baltimore and Washington metropolitan areas, making it a pivotal hub for logistics and distribution activities.</p><p>The complex comprises two state-of-the-art buildings: Building 1, which spans 170,474 square feet, and Building 2, covering 216,989 square feet, both featuring 36-foot clear heights to accommodate modern logistics operations. The facilities are designed with extensive parking, trailer stalls, dock doors, and drive-in doors, catering to the high demands of today's industrial tenants. Dan Gordon, Regional Development Partner at Hanover, highlighted the project's critical role in addressing the industrial infrastructure gap in the D.C. market, leveraging the region's logistical benefits to attract businesses.</p><p>Comerica Bank's involvement, as noted by John Kamerman, VP of CRE Finance, underscores the financial sector's support for projects that drive community growth and innovation. With MGMA as the architect, Doyle Construction as the General Contractor, and Cushman & Wakefield managing leasing and tenant acquisition, the project is on track for completion by July 2026. David Hudson, President of Hanover’s Industrial Platform, commended the regional team for their dedication in overcoming market challenges to bring this project to fruition. Hanover also plans to unveil further industrial developments in 2025, signaling its ongoing commitment to expanding its presence in vital U.S. markets.</p>

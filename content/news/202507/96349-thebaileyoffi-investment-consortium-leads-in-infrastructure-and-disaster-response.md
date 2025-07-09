@@ -6,7 +6,6 @@ summary = "THEBAILEYOFFI Investment Consortium's strategic acquisitions and rapi
 description = "Illya Bailey's THEBAILEYOFFI Investment Consortium launches strategic acquisitions and aids Texas flood relief, showcasing private sector's role in economic and crisis resilience."
 source_link = "https://www.24-7pressrelease.com/press-release/524585/illya-bailey-mobilizes-thebaileyoffi-investment-consortium-in-strategic-north-american-infrastructure-campaign"
 enclosure = "https://cdn.newsramp.app/genai/images/257/7/6a5e1deadf83ad170aeebc7b648d5ce6.png"
-featured = true
 article_id = 96349
 feed_item_id = 16558
 url = "/202507/96349-thebaileyoffi-investment-consortium-leads-in-infrastructure-and-disaster-response"
