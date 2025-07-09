@@ -6,7 +6,6 @@ summary = "ARX introduces a groundbreaking PPE line designed specifically for wo
 description = "ARX launches the first PPE brand designed specifically for women, setting new standards for fit, function, and comfort in jobsite safety gear."
 source_link = "https://www.citybiz.co/article/715706/arx-launches-first-personal-protective-equipment-brand-designed-specifically-for-women/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/25a3b6c49180844e567f5f6214adc852.jpg"
-featured = true
 article_id = 97269
 feed_item_id = 16702
 url = "/202507/97269-arx-launches-women-focused-ppe-line-for-construction-industry"
