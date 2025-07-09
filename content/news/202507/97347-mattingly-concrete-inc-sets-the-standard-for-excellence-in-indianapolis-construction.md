@@ -6,7 +6,6 @@ summary = "Mattingly Concrete, Inc. continues to lead the Indianapolis construct
 description = "Discover why Mattingly Concrete is Indianapolis' top choice for durable and aesthetically pleasing concrete installations since 1987. Quality craftsmanship guaranteed."
 source_link = "https://mediawiretoday.com/top-concrete-contractor-in-indianapolis-offers-quality-services-371085"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/dad924673bb75ed54cd877a51804a862.jpg"
-featured = true
 article_id = 97347
 feed_item_id = 16705
 url = "/202507/97347-mattingly-concrete-inc-sets-the-standard-for-excellence-in-indianapolis-construction"

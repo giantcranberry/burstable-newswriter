@@ -1,0 +1,16 @@
++++
+title = "Insurance Canopy Expands Coverage to Include Workers’ Compensation for Cleaning and Landscaping Businesses"
+date = "2025-07-09T13:05:22Z"
+draft = false
+summary = "Insurance Canopy now offers workers’ compensation insurance for small businesses in the cleaning and landscaping sectors, providing a fast, affordable solution to meet legal requirements and protect employees."
+description = "Insurance Canopy introduces online workers' compensation for small cleaning and landscaping businesses, simplifying legal compliance and employee protection."
+source_link = "https://www.newmediawire.com/news/insurance-canopy-expands-coverage-for-cleaning-and-landscaping-businesses-7081219"
+enclosure = "https://cdn.newsramp.app/genai/images/257/9/26056d7ed4caa0f8e944c63e62c83488.png"
+article_id = 97664
+feed_item_id = 16719
+url = "/202507/97664-insurance-canopy-expands-coverage-to-include-workers-compensation-for-cleaning-and-landscaping-businesses"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/9/able58JT.webp"
+source = "NewMediaWire"
++++
+
+<p>Insurance Canopy has announced the expansion of its insurance offerings to include workers’ compensation for small businesses operating in the cleaning and landscaping industries. This new policy is tailored to offer a quick and cost-effective means for business owners to safeguard their employees and adhere to state laws, which in most cases mandate workers’ compensation insurance for businesses with more than one employee. The coverage is designed to address medical expenses and lost wages resulting from work-related injuries or illnesses.</p><p>Daryle Stafford, President and CEO of Insurance Canopy, underscored the significance of providing dependable insurance solutions to small businesses. The company's online application process facilitates rapid policy customization, enabling the inclusion of general liability and other optional coverages like tools and equipment coverage, cyber liability insurance, and surety bonds. This move is part of Insurance Canopy's broader mission to enhance workplace safety and support the expansion of small business teams.</p><p>Jason Brown, Director of Product Development at Insurance Canopy, reiterated the company's dedication to simplifying insurance access for small business owners. Having served over 135,000 professionals across more than 250 business categories, Insurance Canopy remains focused on delivering customized, budget-friendly insurance solutions. The introduction of online workers’ compensation insurance, which can be secured in minutes, marks a notable advancement over conventional insurance procedures.</p><p>For additional details on workers’ compensation insurance, cleaning businesses are encouraged to visit <a href='https://www.insurancecanopy.com/cleaning-business-insurance' rel='nofollow' target='_blank'>https://www.insurancecanopy.com/cleaning-business-insurance</a>, while landscaping businesses can find more information at <a href='https://www.insurancecanopy.com/landscaping-insurance' rel='nofollow' target='_blank'>https://www.insurancecanopy.com/landscaping-insurance</a>.</p>
