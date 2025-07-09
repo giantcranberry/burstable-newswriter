@@ -6,7 +6,6 @@ summary = "The Federal Reserve Bank of Dallas reports a contraction in oil and g
 description = "Dallas Fed survey reveals a slight contraction in oil and gas activity due to steel tariffs, impacting companies like GEMXX Corp. and the broader energy sector."
 source_link = "https://rss.investorbrandnetwork.com/tg/oil-gas-activity-reduced-in-q2-amid-tariffs-survey-by-dallas-fed-shows/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/9/868488060bdb616747337f27a24bef9a.png"
-featured = true
 article_id = 97660
 feed_item_id = 16722
 url = "/202507/97660-steel-tariffs-impact-oil-and-gas-activity-in-key-us-regions"
