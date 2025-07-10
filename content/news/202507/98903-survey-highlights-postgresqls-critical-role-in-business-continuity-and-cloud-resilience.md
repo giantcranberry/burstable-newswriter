@@ -1,0 +1,16 @@
++++
+title = "Survey Highlights PostgreSQL's Critical Role in Business Continuity and Cloud Resilience"
+date = "2025-07-10T15:45:25Z"
+draft = false
+summary = "A recent survey reveals the increasing dependence of businesses on PostgreSQL for high availability and cloud outage mitigation, emphasizing the need for resilient database architectures."
+description = "pgEdge's survey reveals high demand for PostgreSQL high availability solutions to combat cloud outages, emphasizing minimal downtime and distributed architectures."
+source_link = "https://www.citybiz.co/article/716640/new-survey-reveals-strong-demand-for-high-availability-as-businesses-increasingly-use-postgresql-in-mission-critical-applications-and-to-alleviate-cloud-outage-concerns/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/73a6252601680a608e4442327274ce4b.png"
+article_id = 98903
+feed_item_id = 16788
+url = "/202507/98903-survey-highlights-postgresqls-critical-role-in-business-continuity-and-cloud-resilience"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/10/noteNDak.webp"
+source = "citybiz"
++++
+
+<p>A survey commissioned by pgEdge, Inc., in collaboration with The Foundry, has unveiled the escalating reliance of businesses on PostgreSQL to guarantee high availability and reduce the risks linked to cloud service disruptions. Targeting mid-to-senior IT leaders across SaaS companies and large enterprises, the survey highlights the imperative for robust database architectures in the current digital era.</p><p>According to the findings, an overwhelming 91% of organizations leveraging PostgreSQL anticipate no more than 4 minutes of downtime monthly, with a quarter aiming for under 30 seconds. This stringent reliability benchmark is crucial for underpinning mission-critical applications, a reality for 37% of the respondents. The survey also uncovers that 82% of participants are apprehensive about cloud region failures, underscoring a broad awareness of potential vulnerabilities.</p><p>Furthermore, 79% of the surveyed are investigating distributed or specialized high availability PostgreSQL solutions, indicating a fertile ground for innovations such as pgEdge Distributed PostgreSQL. Deployment approaches differ, with 58% employing read replicas and automated failover in a single region, and 47% spreading PostgreSQL across multiple cloud regions with multi-master replication.</p><p>The repercussions of surpassing downtime limits are grave, with 56% of impacted entities experiencing operational delays, alongside harm to brand credibility and escalated support needs. On the flip side, high availability solutions offer advantages like enhanced uptime and financial savings relative to proprietary databases.</p><p>Phillip Merrick, Co-founder and CEO of pgEdge, stressed the significance of tackling downtime issues for mission-critical applications and the dangers presented by cloud region failures. The survey outcomes confirm PostgreSQL's advancement and strategic value, with a noticeable shift towards distributed architectures to boost resilience and efficiency.</p>
