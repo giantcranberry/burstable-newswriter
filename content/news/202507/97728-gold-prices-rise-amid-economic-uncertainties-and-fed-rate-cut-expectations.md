@@ -6,7 +6,6 @@ summary = "Gold prices see modest gains due to a weaker dollar, anticipated Fede
 description = "Gold prices rise amid a weaker dollar and Fed rate cut expectations, with trade talks influencing short-term gains. Explore how Torr Metals Inc. and Rocks & Stocks are navigating these trends."
 source_link = "https://rss.investorbrandnetwork.com/rns/golds-price-trajectory-hinges-on-ongoing-trade-talks/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/9/81309a7c3504916069d0f2137b554540.png"
-featured = true
 article_id = 97728
 feed_item_id = 16735
 url = "/202507/97728-gold-prices-rise-amid-economic-uncertainties-and-fed-rate-cut-expectations"

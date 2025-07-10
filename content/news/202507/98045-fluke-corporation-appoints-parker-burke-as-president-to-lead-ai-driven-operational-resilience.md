@@ -1,0 +1,16 @@
++++
+title = "Fluke Corporation Appoints Parker Burke as President to Lead AI-Driven Operational Resilience"
+date = "2025-07-07T17:40:31Z"
+draft = false
+summary = "Parker Burke's appointment as President of Fluke Corporation and Group President of Fortive’s Connected Reliability Group marks a strategic move to enhance AI-driven solutions for operational resilience worldwide."
+description = "Fluke Corporation names Parker Burke as Group President to lead its Connected Reliability Group, aiming to innovate and enhance operational resilience globally."
+source_link = "https://www.citybiz.co/article/714764/fluke-corporation-names-parker-burke-group-president-to-lead-connected-reliability-vision/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/a9e786a9f05c15dd577caed8fe056f95.jpg"
+article_id = 98045
+feed_item_id = 16601
+url = "/202507/98045-fluke-corporation-appoints-parker-burke-as-president-to-lead-ai-driven-operational-resilience"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/7/heal7xt0.webp"
+source = "citybiz"
++++
+
+<p>Fluke Corporation has announced Parker Burke as its new President and Group President of Fortive’s Connected Reliability Group, effective July 7, 2025. Burke is set to lead Fluke and Fluke Reliability in their mission to deliver cutting-edge technologies and services designed to minimize downtime, enhance safety, and bolster operational resilience for a global clientele. With a solid 15-year tenure in leadership roles within Fortive businesses, Burke's expertise is expected to drive significant advancements in the company's offerings.</p><p>Before this appointment, Burke served as the Group President of Fortive’s Environmental Health & Safety Group, where he was instrumental in fostering innovation in connected safety and environmental health and safety software. His efforts positioned these organizations as frontrunners in their respective domains. Olumide Soroye, CEO of Fortive, commended Burke's operational acumen and leadership qualities, emphasizing their importance in steering Fluke towards future growth.</p><p>The Connected Reliability Group, under Burke's guidance, will prioritize the expansion of AI-driven solutions and connected workflows. This initiative aims to shift customer operations from a reactive to a predictive model, a transition that could redefine industry standards for operational efficiency and reliability. Burke's extensive experience, including leadership roles at Gilbarco Veeder-Root and Anderson-Negele, along with his service as an Officer in the United States Marine Corps, equips him with a unique blend of skills for this challenging role.</p><p>Burke expressed his excitement about joining Fluke, acknowledging the company's longstanding reputation for precision and innovation. He is committed to tackling the pressing challenges confronting the industrial workforce today. Burke's educational background includes a bachelor’s degree in engineering from the United States Naval Academy and an MBA from the Kellogg School of Management at Northwestern University, further underscoring his qualifications for this pivotal position.</p>
