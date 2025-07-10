@@ -6,7 +6,6 @@ summary = "Hestia Insight Inc. transitions from health and technology services t
 description = "Hestia Insight Inc. shifts to AI, offering innovative business consulting and capital market advisory services to empower startups and growth-stage companies."
 source_link = "https://www.newmediawire.com/news/hestia-insight-inc-issues-letter-to-shareholders-on-strategic-transformation-7081238"
 enclosure = "https://cdn.newsramp.app/genai/images/257/9/ab95af3ce39256949a8d78d5efd99271.png"
-featured = true
 article_id = 98038
 feed_item_id = 16738
 url = "/202507/98038-hestia-insight-inc-pivots-to-ai-technology-focusing-on-business-consulting-and-capital-market-advisory-services"

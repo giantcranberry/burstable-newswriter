@@ -1,0 +1,16 @@
++++
+title = "Telvantis Inc. Announces Strategic Acquisition of AmeriCrew Inc. to Enter High-Growth Fiber and 5G Market"
+date = "2025-07-10T12:15:20Z"
+draft = false
+summary = "Telvantis Inc. acquires AmeriCrew Inc., marking its entry into the fiber, 5G wireless, and edge-datacenter sectors, aiming to capitalize on a market projected to hit $43 billion by 2030."
+description = "Telvantis Inc. announces acquisition of AmeriCrew Inc., expanding into 5G and edge computing, marking a significant step in telecommunications innovation and veteran employment."
+source_link = "https://www.newmediawire.com/news/telvantis-inc-signs-binding-loi-to-acquire-americrew-deal-marks-milestone-acquisition-to-enter-multi-billion-dollar-high-growth-market-first-step-to-building-integrated-fiber-wireless-and-edge-data-center-infrastructure-provider-7081240"
+enclosure = "https://cdn.newsramp.app/genai/images/257/10/12f5fcb6f030a67a9d4b74969d76d41e.png"
+article_id = 98640
+feed_item_id = 16768
+url = "/202507/98640-telvantis-inc-announces-strategic-acquisition-of-americrew-inc-to-enter-high-growth-fiber-and-5g-market"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/10/jadeDtvy.webp"
+source = "NewMediaWire"
++++
+
+<p>Telvantis Inc., a telecommunications and enterprise solutions provider based in Florida, has taken a significant step towards expanding its market presence by signing a binding Letter of Intent to acquire AmeriCrew Inc., a New Jersey-based corporation. This acquisition represents Telvantis's inaugural foray into the burgeoning sectors of fiber, 5G wireless connectivity, and edge-datacenter services, areas that are anticipated to grow to a $43 billion market by 2030.</p><p>The strategic move leverages AmeriCrew's innovative veteran employment and apprenticeship model, which not only supports community development but also provides a scalable workforce. With AmeriCrew's entities expected to surpass $12 million in revenues this year and even higher projections for 2026, the acquisition is poised to enhance Telvantis's portfolio without the need to issue common equity. Furthermore, AmeriCrew's management team will remain intact, operating largely independently under the Telvantis umbrella.</p><p>Daniel Contreras, CEO of Telvantis Inc., described the acquisition as a milestone, highlighting the opportunity to penetrate a dynamic growth market with an experienced team and a robust commercial pipeline. Kelley Dunne, CEO of AmeriCrew Inc., echoed this sentiment, pointing to the commercial momentum for deploying private fiber and 5G Fixed Wireless access networks as a strategic opportunity to lead in edge computation and local private networks.</p><p>Daniel Gilcher, CFO of Telvantis Inc., emphasized the acquisition's potential to bolster the company's appeal for uplisting and enhance shareholder value, with plans for additional acquisitions on the horizon. The completion of the AmeriCrew transaction hinges on final negotiations and customary approvals, with a strategic update anticipated in the near future.</p>
