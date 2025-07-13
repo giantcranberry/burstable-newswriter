@@ -1,0 +1,16 @@
++++
+title = "Goodwill Industries Expands in Maryland with Largest Retail Location Amid Rising Demand for Secondhand Shopping"
+date = "2025-07-10T19:35:25Z"
+draft = false
+summary = "Goodwill Industries of the Chesapeake is opening its largest retail location in Laurel, Maryland, reflecting the growing trend of secondhand shopping and its role in supporting community employment and sustainability efforts."
+description = "Goodwill opens largest thrift store in Laurel, MD, responding to the surge in demand for affordable, sustainable shopping and job training opportunities."
+source_link = "https://www.citybiz.co/article/716790/goodwill-bets-big-on-laurel-as-thrift-shopping-surges-across-maryland/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/930f00ad98261086dd462baee4c15592.png"
+article_id = 99261
+feed_item_id = 16815
+url = "/202507/99261-goodwill-industries-expands-in-maryland-with-largest-retail-location-amid-rising-demand-for-secondhand-shopping"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/10/gulfQTQ9.webp"
+source = "citybiz"
++++
+
+<p>Goodwill Industries of the Chesapeake is preparing to open its most extensive retail location yet in Laurel, Maryland, this August. The 22,000-square-foot store, situated near the intersection of Route 32 and U.S. 1, is a response to the increasing consumer shift towards secondhand shopping, fueled by inflationary pressures and a growing preference for sustainable consumption. This new outlet will not only provide affordable goods but also function as a donation center, job training hub, and employment pipeline, particularly for individuals reentering the workforce.</p><p>Lisa Rusyniak, President and CEO of Goodwill Industries of the Chesapeake, reported a 35% sales increase at their busiest stores, signaling a cultural shift where secondhand shopping is becoming mainstream. Nationally, the trend is evident with one in three clothing purchases now being secondhand, and over 40% of U.S. adults shopping resale regularly, up from 31% in 2020. Millennials and Gen Z are leading this change, motivated by both financial considerations and environmental concerns.</p><p>The Laurel store will offer a diverse selection of items, including clothing, books, furniture, and housewares, all priced well below traditional retail standards. For those seeking higher-end items, collectibles and jewelry will be available on <a href="https://www.ShopGoodwill.com" rel="nofollow" target="_blank">ShopGoodwill.com</a>, Goodwill's online auction platform. Additionally, the store is launching a transitional work program in collaboration with the prison system to provide job opportunities to individuals nearing release, while also ensuring environmental sustainability by repurposing unsold items.</p><p>This expansion underscores Goodwill's dedication to fostering a resilient, inclusive economic model that serves both consumers and workers. By offering affordable shopping options and critical community support, the new store aims to make a positive impact in Howard, Anne Arundel, and Prince George’s Counties, further solidifying Goodwill's role in promoting sustainability and employment opportunities.</p>

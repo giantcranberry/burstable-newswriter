@@ -1,0 +1,16 @@
++++
+title = "Peapack-Gladstone Financial Corporation Strengthens New York Team with Blerina Limaj as Senior Managing Director"
+date = "2025-06-20T16:20:32Z"
+draft = false
+summary = "Peapack-Gladstone Financial Corporation enhances its commercial banking team in New York by appointing Blerina Limaj as Senior Managing Director and Group Director, leveraging her extensive experience in commercial real estate and deposit relationship management."
+description = "Peapack-Gladstone Financial Corporation appoints Blerina Limaj as Senior Managing Director, enhancing its commercial banking and wealth management services in NY."
+source_link = "https://www.newmediawire.com/news/blerina-limaj-joins-peapack-private-s-ny-commercial-banking-team-7080929"
+enclosure = "https://cdn.newsramp.app/genai/images/256/20/49d0fce859f68741613e3012fa855622.png"
+article_id = 101129
+feed_item_id = 15943
+url = "/202506/101129-peapack-gladstone-financial-corporation-strengthens-new-york-team-with-blerina-limaj-as-senior-managing-director"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/256/20/jadepwWI.webp"
+source = "NewMediaWire"
++++
+
+<p>Peapack-Gladstone Financial Corporation and Peapack Private Bank & Trust have announced the appointment of Blerina Limaj as Senior Managing Director and Group Director, a move that significantly bolsters their commercial banking team in New York. Limaj, who will be based at the Bank’s Manhattan office on 300 Park Avenue, brings a robust portfolio of experience in commercial real estate, deposit relationship management, and leadership of high-performing teams.</p><p>Limaj's previous role at Customers Bank as Senior Vice President and Group Director saw her play a pivotal role in assembling a diverse team to expand the bank’s deposit base. Her tenure at Signature Bank/Flagstar Bank further demonstrated her expertise in managing large portfolios, where she co-led a team responsible for deposits exceeding $3 billion for real estate firms. Additionally, her foundational experience at North Fork Bank/Capital One Bank involved managing private banking relationships with assets over $1 billion, showcasing her depth of knowledge and skill in the financial sector.</p><p>With an MBA from New York University’s Leonard N. Stern School of Business and a Bachelor of Science in Business Management and Finance from Brooklyn College, Limaj's academic achievements are as notable as her professional accomplishments. Her appointment is expected to significantly enhance Peapack Private's capabilities in offering treasury and cash management services, trade finance, and other tailored financial solutions, further solidifying the bank's reputation for delivering customized financial services to its clients.</p><p>This strategic addition to Peapack-Gladstone Financial Corporation's team underscores the bank's commitment to strengthening its commercial banking services in New York, a move that is likely to have a positive impact on the bank's ability to serve its clients more effectively and expand its footprint in the competitive New York financial market.</p>

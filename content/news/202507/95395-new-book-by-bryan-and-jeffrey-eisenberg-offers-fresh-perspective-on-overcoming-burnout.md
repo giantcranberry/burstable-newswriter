@@ -6,7 +6,6 @@ summary = "Bryan and Jeffrey Eisenberg's latest book, 'I Think I Swallowed An El
 description = "Discover how Bryan and Jeffrey Eisenberg's new book helps overcome burnout by letting go of unnecessary burdens. Available in Kindle, paperback, and audiobook."
 source_link = "https://newsworthy.ai/news/202507021553/overwhelmed-youre-not-alone-new-book-i-think-i-swallowed-an-elephant-offers-the-mindset-shift-millions-need-right-now"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/eea01923322b048ccebd806678af27e0.png"
-featured = true
 article_id = 95395
 feed_item_id = 16436
 url = "/202507/95395-new-book-by-bryan-and-jeffrey-eisenberg-offers-fresh-perspective-on-overcoming-burnout"

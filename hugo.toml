@@ -43,13 +43,22 @@ canonifyURLs = true
   section = ["HTML"]
   page = ["HTML"]
 
-# Sitemap configuration
-[sitemap]
-  changefreq = "weekly"
-  priority = 0.8
-  filename = "sitemap.xml"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Disable default sitemap generation
+disableKinds = ["sitemap"]
+
+[outputFormats]
+  [outputFormats.SitemapXML]
+    mediaType = "application/xml"
+    baseName = "sitemap"
+    isPlainText = true
+    notAlternative = true
+
+# Configure outputs for different page types
+[outputs]
+  home = ["HTML", "SitemapXML"]
+  section = ["HTML", "SitemapXML"]      

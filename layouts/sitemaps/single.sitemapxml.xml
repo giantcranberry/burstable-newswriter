@@ -1,0 +1,24 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- $yearMonth := .Params.yearMonth }}
+{{- if $yearMonth }}
+  {{- $news := where .Site.RegularPages "Section" "news" }}
+  {{- range $news }}
+    {{- $articleYearMonth := "" }}
+    {{- if .Params.url }}
+      {{- $urlMatch := findRE `/(\d{6})/` .Params.url }}
+      {{- if $urlMatch }}
+        {{- $articleYearMonth = replaceRE `/(\d{6})/` "$1" (index $urlMatch 0) }}
+      {{- end }}
+    {{- end }}
+    {{- if eq $articleYearMonth $yearMonth }}
+  <url>
+    <loc>{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .Params.url }}</loc>
+    <lastmod>{{ .Date.Format "2006-01-02" }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+    {{- end }}
+  {{- end }}
+{{- end }}
+</urlset>

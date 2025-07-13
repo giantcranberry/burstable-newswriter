@@ -6,7 +6,6 @@ summary = "SEGG Media Corporation's acquisition of the All-Sports Arena in Boca 
 description = "SEGG Media partners with David Lloyd to launch a $14M sports arena in Boca Raton, blending sports, tech, and hospitality for a unique fan experience."
 source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-segg-media-corporation-nasdaq-segg-ltryw-signs-loi-to-launch-david-lloyd-branded-u-s-sports-arena/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/10/ad97ffff2ff7b6512d7306152daad18a.png"
-featured = true
 article_id = 98761
 feed_item_id = 16796
 url = "/202507/98761-segg-media-corporation-partners-with-david-lloyd-to-launch-innovative-sports-arena-in-boca-raton"

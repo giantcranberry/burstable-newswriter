@@ -1,0 +1,39 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- $news := where .Site.RegularPages "Section" "news" }}
+{{- $newsByMonth := dict }}
+
+{{- /* Group news articles by month extracted from URL */ -}}
+{{- range $news }}
+  {{- $articleYearMonth := "" }}
+  {{- if .Params.url }}
+    {{- $urlMatch := findRE `/(\d{6})/` .Params.url }}
+    {{- if $urlMatch }}
+      {{- $articleYearMonth = replaceRE `/(\d{6})/` "$1" (index $urlMatch 0) }}
+    {{- end }}
+  {{- end }}
+  {{- if $articleYearMonth }}
+    {{- $existing := index $newsByMonth $articleYearMonth }}
+    {{- if $existing }}
+      {{- $newsByMonth = merge $newsByMonth (dict $articleYearMonth ($existing | append .)) }}
+    {{- else }}
+      {{- $newsByMonth = merge $newsByMonth (dict $articleYearMonth (slice .)) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Generate sitemap references for each month */ -}}
+{{- range $yearMonth, $monthNews := $newsByMonth }}
+  {{- $latestNews := index (sort $monthNews "Date" "desc") 0 }}
+  <sitemap>
+    <loc>{{ $.Site.BaseURL | strings.TrimSuffix "/" }}/sitemaps/{{ $yearMonth }}.xml</loc>
+    <lastmod>{{ $latestNews.Date.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+{{- end }}
+
+{{- /* Add static pages sitemap */ -}}
+  <sitemap>
+    <loc>{{ .Site.BaseURL | strings.TrimSuffix "/" }}/sitemaps/pages.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+</sitemapindex>
