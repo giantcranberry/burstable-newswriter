@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2025-07-13</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2025-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>http://localhost:1313/news/news/</loc>
+    <lastmod>2025-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/news/contact/</loc>
+    <lastmod>2025-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/news/privacy-policy/</loc>
+    <lastmod>2025-07-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/news/terms-of-service/</loc>
+    <lastmod>2025-07-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -31,18 +31,6 @@ canonifyURLs = true
     url = "/contact/"
     weight = 3
 
-# Custom output formats for sitemaps
-[outputFormats]
-  [outputFormats.sitemap]
-    mediaType = "application/xml"
-    baseName = "sitemap"
-    isPlainText = true
-
-[outputs]
-  home = ["HTML", "sitemap"]
-  section = ["HTML"]
-  page = ["HTML"]
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
