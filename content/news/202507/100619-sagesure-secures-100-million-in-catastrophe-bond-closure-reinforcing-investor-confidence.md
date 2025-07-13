@@ -6,7 +6,6 @@ summary = "SageSure's successful $100 million catastrophe bond closure highlight
 description = "SageSure and partners close a $100M catastrophe bond, reinforcing their global leadership in ILS markets and enhancing disaster resilience for coastal homeowners."
 source_link = "https://www.citybiz.co/article/716957/sagesure-and-auros-close-100-million-catastrophe-bond/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/03621f7e5f654af9de45d6788a7657e4.png"
-featured = true
 article_id = 100619
 feed_item_id = 16887
 url = "/202507/100619-sagesure-secures-100-million-in-catastrophe-bond-closure-reinforcing-investor-confidence"
