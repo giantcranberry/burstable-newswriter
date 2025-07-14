@@ -1,0 +1,16 @@
++++
+title = "Asepha Secures $4 Million Seed Funding to Revolutionize Pharmacy Operations with AI"
+date = "2025-07-14T13:05:26Z"
+draft = false
+summary = "Asepha's recent $4 million seed funding round, led by Glasswing Ventures and Core Innovation Capital, aims to address pharmacy understaffing and administrative inefficiencies through innovative AI solutions."
+description = "Asepha raises $4M to transform pharmacy operations with AI, streamlining workflows and improving patient care. Learn how this startup is making a difference."
+source_link = "https://www.citybiz.co/article/717226/ai-pharmacy-pioneer-asepha-raises-4m-led-by-glasswing-ventures-and-core-innovation-capital/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3aef0b4b193236d0e9e3e7936b4f8412.jpg"
+article_id = 102868
+feed_item_id = 16919
+url = "/202507/102868-asepha-secures-4-million-seed-funding-to-revolutionize-pharmacy-operations-with-ai"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/14/oxenLGg1.webp"
+source = "citybiz"
++++
+
+<p>Asepha, a startup pioneering the integration of artificial intelligence into pharmacy operations, has announced the closure of a $4 million seed funding round. This investment, led by Glasswing Ventures and Core Innovation Capital, with additional support from Panache, RedBud, MGV, Ripple Ventures, and Front Row Ventures, marks a significant step forward in addressing the critical challenges of pharmacy understaffing and the excessive time pharmacists dedicate to administrative tasks.</p><p>With nearly 70% of pharmacies experiencing staffing shortages, Asepha's AI-driven solutions present a timely and effective remedy. The company's technology suite includes an OCR prescription entry agent capable of processing handwritten prescriptions with 96% accuracy, a call agent that automates up to 70% of inbound calls, and a browser navigation agent designed to streamline administrative duties. These innovations not only optimize pharmacy operations but also improve accuracy, as demonstrated by a double-blinded trial where pharmacists favored Asepha's AI responses over human ones 71% of the time.</p><p>The infusion of capital is earmarked for expanding Asepha's engineering and go-to-market teams, establishing a new office in New York City to bolster its U.S. presence, and developing global partnerships. The startup has already garnered interest from major Fortune 50 enterprise customers, highlighting the growing demand for its AI solutions. Eunice Wu, CEO and Co-Founder of Asepha, underscored the company's mission to liberate pharmacists from manual tasks, allowing them to concentrate on patient care. CTO Can Uncu pointed to AI's pivotal role in responsibly transforming industry workflows.</p><p>Investors Rudina Seseri of Glasswing Ventures and Edwin Loredo of Core Innovation Capital commended Asepha for its targeted approach and its resonance with broader trends in pharmacy labor. Their endorsement reflects a shared belief in Asepha's capacity to enhance healthcare accessibility and efficiency for millions of patients worldwide.</p>

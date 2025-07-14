@@ -6,7 +6,6 @@ summary = "Forest Pest Control emphasizes the critical role of early detection a
 description = "Forest Pest Control offers expert termite inspection and treatment to safeguard your home from costly damage. Learn how to protect your property today."
 source_link = "https://mediawiretoday.com/protect-your-home-with-reliable-termite-control-services-371783"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/743685dc545c388dd0547e2db9e7c5d1.jpg"
-featured = true
 article_id = 101301
 feed_item_id = 16898
 url = "/202507/101301-forest-pest-control-champions-early-detection-and-eco-friendly-solutions-in-termite-management"

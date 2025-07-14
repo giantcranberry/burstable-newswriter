@@ -1,0 +1,16 @@
++++
+title = "Capital Square Housing Trust Launches Series 2 Preferred Stock Offering to Fuel Real Estate Investments"
+date = "2025-07-14T15:25:31Z"
+draft = false
+summary = "Capital Square Housing Trust announces a $40 million preferred stock offering aimed at accredited investors, promising attractive dividends and growth opportunities through real estate investments."
+description = "Capital Square Housing Trust announces Series 2 Preferred Stock Offering, targeting $40M-$45M for real estate investments, offering high dividends and conversion options."
+source_link = "https://www.citybiz.co/article/717419/capital-square-housing-trust-launches-preferred-stock-offering/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e570984d70046e64dabb0240a99eaa19.png"
+article_id = 102856
+feed_item_id = 16940
+url = "/202507/102856-capital-square-housing-trust-launches-series-2-preferred-stock-offering-to-fuel-real-estate-investments"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/14/joltmeLl.webp"
+source = "citybiz"
++++
+
+<p>Capital Square Housing Trust, a real estate investment trust (REIT) sponsored by Capital Square, has unveiled its Series 2 Class A and Class I Redeemable and Convertible Preferred Stock offering. This financial initiative is designed for accredited investors, with shares priced at $10 each, targeting a $40 million raise that could escalate to $45 million. The capital generated is earmarked for acquisitions, UPREIT transactions, and other real estate ventures, signaling a robust strategy for portfolio expansion.</p><p>Louis Rogers, the founder and co-chief executive officer of Capital Square, pointed to the triumph of the Series 1 offering as the catalyst for the Series 2 launch. The offering delineates Class A shares for broker-dealer transactions and Class I shares for registered investment advisor sales, offering annual dividends of 9.0% and 9.75%, respectively. Investment thresholds are established at $10,000 for Class A and $5,000,000 for Class I participants, catering to a diverse investor base.</p><p>A notable feature of this offering is the conversion option available after four years, where the REIT or shareholders can convert preferred stock at a discounted rate, specifically a 5% reduction on common stock shares for those electing to convert. Furthermore, the Preferred Distribution Reinvestment Plan (DRIP) presents an avenue for investors to reinvest dividends into additional shares sans fees, enhancing the investment's value proposition.</p><p>Whitson Huffman, co-chief executive officer and chief investment officer of Capital Square, underscored the offering's advantages, including appealing yields, consistent monthly income, and the potential for growth via conversion. This move is instrumental in the REIT's strategic advancement, focusing on accretive acquisitions and UPREIT transactions to cultivate a distinguished housing community portfolio. This development is pivotal for investors seeking to diversify their portfolios with real estate investments that offer both income and growth potential, reflecting the evolving landscape of real estate financing and investment strategies.</p>
