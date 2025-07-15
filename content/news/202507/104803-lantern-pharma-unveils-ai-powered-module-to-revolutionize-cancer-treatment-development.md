@@ -1,0 +1,16 @@
++++
+title = "Lantern Pharma Unveils AI-Powered Module to Revolutionize Cancer Treatment Development"
+date = "2025-07-15T16:55:25Z"
+draft = false
+summary = "Lantern Pharma introduces an AI-driven module within its RADR(R) platform, significantly enhancing the prediction of combination therapy effectiveness in cancer treatment, potentially reducing development time and costs by up to one-third."
+description = "Lantern Pharma introduces an AI-powered module to predict cancer treatment efficacy, aiming to reduce development time and cost by up to one-third. A game-changer in oncology."
+source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-lantern-pharma-nasdaq-ltrn-launches-ai-module-to-accelerate-development-of-targeted-cancer-combination-therapies/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/15/bb498a0c08ad3e63b762ab199e5ae356.png"
+article_id = 104803
+feed_item_id = 17029
+url = "/202507/104803-lantern-pharma-unveils-ai-powered-module-to-revolutionize-cancer-treatment-development"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/15/duneL3PS.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lantern Pharma (NASDAQ: LTRN) has recently introduced a groundbreaking AI-powered module as part of its RADR(R) platform, aimed at predicting the efficacy of combination therapies that involve DNA-damaging agents and DNA damage response inhibitors. This development is backed by a comprehensive analysis of 221 clinical trials, presenting a biomarker-guided strategy for crafting cancer treatment plans. The innovation promises to slash development time and expenses by as much as one-third, marking a significant leap forward in oncology research and treatment.</p><p>The RADR(R) platform, Lantern Pharma's proprietary AI and machine learning system, harnesses an extensive database of over 200 billion oncology-focused data points and employs more than 200 advanced ML algorithms. This robust technology is designed to tackle the pressing challenges in oncology drug development, facilitating the acceleration of Lantern's therapy pipeline for a variety of cancer types, including solid tumors and blood cancers. Notably, the platform has already proven its worth by contributing to the design of Lantern’s FDA-cleared Phase 1B/2 trial for triple-negative breast cancer, which combines LP-184 and olaparib.</p><p>With the successful implementation of this AI module, Lantern Pharma is now exploring licensing and commercialization opportunities to broaden the system's applicability across different oncology indications. The company's innovative approach has demonstrated remarkable efficiency, enabling the transition from initial AI insights to first-in-human clinical trials in a mere 2-3 years, with an average program cost of around $2.5 million. This advancement not only underscores the potential of AI in revolutionizing cancer treatment development but also highlights Lantern Pharma's commitment to leveraging cutting-edge technology to address some of the most challenging aspects of oncology drug development.</p>

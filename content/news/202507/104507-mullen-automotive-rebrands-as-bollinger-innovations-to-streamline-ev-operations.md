@@ -6,7 +6,6 @@ summary = "Mullen Automotive Inc. announces its rebranding to Bollinger Innovati
 description = "Mullen Automotive rebrands as Bollinger Innovations, streamlining operations and advancing commercial EVs. A strategic move for future growth in the electric vehicle market."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-mullen-automotive-inc-nasdaq-muln-to-rebrand-as-bollinger-innovations-consolidate-operations-for-efficiency-and-growth/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/15/5bc26bc5864998455605923f1b1cf524.png"
-featured = true
 article_id = 104507
 feed_item_id = 17015
 url = "/202507/104507-mullen-automotive-rebrands-as-bollinger-innovations-to-streamline-ev-operations"
