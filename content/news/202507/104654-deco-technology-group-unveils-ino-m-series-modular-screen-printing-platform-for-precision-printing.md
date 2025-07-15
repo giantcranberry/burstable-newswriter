@@ -1,0 +1,16 @@
++++
+title = "Deco Technology Group Unveils INO M Series Modular Screen Printing Platform for Precision Printing"
+date = "2025-07-15T07:05:20Z"
+draft = false
+summary = "The INO M Series by Deco Technology Group introduces a revolutionary modular screen printing platform designed for ultra-precise printing on sensitive substrates, significantly impacting the production of medical sensors, flexible circuits, and touch-sensitive displays."
+description = "Deco Technology Group introduces the INO M Series, a high-precision modular screen printing platform for delicate substrates, revolutionizing electronics manufacturing."
+source_link = "https://www.24-7pressrelease.com/press-release/524857/deco-tech-introduces-ino-m-series-high-precision-screen-printer-for-printed-electronics-and-delicate-medical-films"
+enclosure = "https://cdn.newsramp.app/genai/images/257/15/97e4fbdae4679bfa8547ea94f093aefe.png"
+article_id = 104654
+feed_item_id = 16981
+url = "/202507/104654-deco-technology-group-unveils-ino-m-series-modular-screen-printing-platform-for-precision-printing"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/15/mailb5O3.webp"
+source = "24-7 Press Release"
++++
+
+<p>Deco Technology Group, Inc. has introduced the INO M Series modular screen printing platform, a state-of-the-art solution designed for ultra-precise printing on sensitive substrates crucial for printed electronics and medical films. This innovation promises to transform the manufacturing of medical sensors, flexible circuits, and touch-sensitive displays by achieving production speeds up to 380 sheets per hour with print accuracy within ±20 µm.</p><p>The INO M Series is specifically engineered to address the high precision demands of industries where accuracy is non-negotiable. Features such as an anti-scratch vacuum transport system and camera-based auto-registration ensure contamination-free handling and precise registration, essential for high-value substrates and precious metal pastes. Its modular design facilitates the easy integration of automation options, including feeders, dryers, and vision inspection, allowing manufacturers to scale their operations with unprecedented efficiency.</p><p>Mike Learmouth, President of Deco Technology Group, underscored the INO M Series' importance for North American electronics manufacturers, pointing out its semiconductor-grade registration accuracy and adaptability. Already in use at leading European manufacturing facilities, the platform serves a broad range of applications from printed sensors to wearable diagnostic patches across the automotive, aerospace, and medical sectors.</p><p>Designed with Industry 4.0 compatibility in mind, the INO M Series boasts OPC-UA/MES integration, full traceability, and data-driven process control. Coupled with a user-friendly touchscreen HMI and a fast-changeover print carriage to reduce setup times, this platform not only boosts production efficiency but also decreases reliance on operator skill, representing a major leap forward in screen printing technology.</p>

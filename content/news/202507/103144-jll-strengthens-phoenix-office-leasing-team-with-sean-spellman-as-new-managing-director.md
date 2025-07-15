@@ -6,7 +6,6 @@ summary = "Sean Spellman joins JLL's Phoenix office as Managing Director, bringi
 description = "Sean Spellman joins JLL Phoenix as Managing Director, bringing 18 years of office leasing expertise to enhance the firm's real estate services in Arizona."
 source_link = "https://www.citybiz.co/article/717676/sean-spellman-moves-to-jll-phoenix-as-managing-director/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/62aa5b0c5b30e2228f3c6e2d0ad9ef09.png"
-featured = true
 article_id = 103144
 feed_item_id = 16962
 url = "/202507/103144-jll-strengthens-phoenix-office-leasing-team-with-sean-spellman-as-new-managing-director"
