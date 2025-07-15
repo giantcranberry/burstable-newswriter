@@ -1,0 +1,16 @@
++++
+title = "AI's Transformative Role in Education and Assessment Highlighted by Industry Leader"
+date = "2025-07-14T19:05:24Z"
+draft = false
+summary = "Steve Shapiro discusses the integration of AI in education and assessment, emphasizing its potential to enhance learning and the importance of ethical use."
+description = "Steve Shapiro and Prometric are transforming education with AI, enhancing assessment security and learning outcomes. Discover how Finetune AI leads the way."
+source_link = "https://www.citybiz.co/article/717581/qa-with-steve-shapiro-senior-vice-president-of-artificial-intelligence-in-assessments-at-prometric-and-ceo-of-finetune-ai/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5cd0ce3299f50779543eae98f5c18264.png"
+article_id = 103147
+feed_item_id = 16958
+url = "/202507/103147-ais-transformative-role-in-education-and-assessment-highlighted-by-industry-leader"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/14/clubP0rS.webp"
+source = "citybiz"
++++
+
+<p>The education and assessment sectors are undergoing a significant transformation, thanks to the integration of artificial intelligence (AI), as highlighted by Steve Shapiro, Senior Vice President of Artificial Intelligence in Assessments at Prometric and CEO of Finetune AI. Prometric, recognized as the world's largest credentialing and assessment company, is leveraging Finetune AI to innovate in the creation of secure, scalable, and psychometrically sound assessments. This collaboration underscores the potential of AI to revolutionize how educational tools are developed and utilized.</p><p>Under Shapiro's leadership, Prometric has emerged as a pioneer in incorporating generative AI into educational tools. A notable example is the Finetune Catalog, which plays a pivotal role in curriculum evaluation and alignment with state standards. This innovation not only streamlines the assessment process but also ensures that educational content meets the required benchmarks, thereby enhancing the quality of education.</p><p>The discussion also brings to the fore the ethical considerations surrounding the use of AI in classrooms. Shapiro emphasizes the necessity for transparency and AI literacy among educators to foster an environment where AI is used responsibly. He envisions AI serving as a teaching assistant that offers differentiated instruction and quicker feedback, thereby enabling teachers to dedicate more time to student engagement. This approach highlights the symbiotic relationship between educational institutions and technology providers in promoting responsible AI use that prioritizes student outcomes.</p><p>Shapiro's optimism about Prometric's future is evident, particularly with its foray into K-12 education and its established leadership in adult licensure and certification. He underscores the role of AI in supporting continuous learning and career advancement, pointing to the critical importance of 'learning how to learn' in today's dynamic job market. This perspective not only reflects the evolving nature of education but also the broader implications of AI in shaping future learning and career pathways.</p>

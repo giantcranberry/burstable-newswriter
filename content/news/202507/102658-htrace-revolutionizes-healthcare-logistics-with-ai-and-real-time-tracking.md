@@ -6,7 +6,6 @@ summary = "Javier Cuello's H+Trace leverages AI and real-time tracking to transf
 description = "Javier Cuello's H+Trace uses AI and automation to transform healthcare logistics, reducing errors and improving diagnostics. Discover how."
 source_link = "https://www.citybiz.co/article/717495/qa-with-javier-cuello-founder-of-htrace-using-ai-and-automation-to-improve-healthcare-logistics/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e007447dc44acedc0afd7daae84573c9.png"
-featured = true
 article_id = 102658
 feed_item_id = 16950
 url = "/202507/102658-htrace-revolutionizes-healthcare-logistics-with-ai-and-real-time-tracking"
