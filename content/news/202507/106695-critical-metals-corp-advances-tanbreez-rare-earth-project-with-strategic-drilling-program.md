@@ -1,0 +1,16 @@
++++
+title = "Critical Metals Corp Advances Tanbreez Rare Earth Project with Strategic Drilling Program"
+date = "2025-07-16T15:15:25Z"
+draft = false
+summary = "Critical Metals Corp has initiated a 2000m diamond drilling program at Greenland's Tanbreez Rare Earth Project, aiming to meet the growing demand for rare earth materials in the Western market by 2026."
+description = "Critical Metals Corp. launches a 2000m drilling program at Tanbreez to boost rare earth resources, aiming for 2026 production to meet Western demand."
+source_link = "https://www.citybiz.co/article/718770/critical-metals-corp-launches-drilling-program-in-greenland-to-position-tanbreez-for-commercial-production/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/a77767cefaf3b7c604b3b13834cd1a30.jpg"
+article_id = 106695
+feed_item_id = 17105
+url = "/202507/106695-critical-metals-corp-advances-tanbreez-rare-earth-project-with-strategic-drilling-program"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/16/oxensLFH.webp"
+source = "citybiz"
++++
+
+<p>Critical Metals Corp (Nasdaq: CRML) has embarked on a pivotal 2000m resource diamond drilling program at the Tanbreez Rare Earth Project in Greenland, signaling a major advancement towards its goal of commencing commercial production by 2026. This strategic move is designed to cater to the escalating need for rare earth materials in the United States and across the Western hemisphere, highlighting the project's critical role in the global supply chain.</p><p>The drilling initiative is focused on augmenting the existing Mineral Resource Estimate (MRE) of the Fjord Eudialyte Deposit, which currently boasts an indicated resource of 8.76Mt and an inferred resource of 13.8Mt. The initial drill hole, K25-01, has already penetrated approximately 60m, uncovering medium-grained eudialyte with a composition of 30%-40%, a promising indicator of rare earth element mineralization.</p><p>Under the guidance of 60 North Greenland, Critical Metals Corp's chosen drilling contractor, and with the expertise of a dedicated team of rare earth geologists, the program is strategically targeting the expansion of resources to the east of the established Fjord Deposit. The presence of the company's exploration and DFS study teams on-site underscores the intensive efforts underway to complete the Bankable Feasibility Study (BFS) and compile detailed reports for submission to Greenland regulators and financial partners, including the Export-Import Bank of the United States (EXIM).</p><p>Positioned as one of the globe's most significant rare earth deposits, the Tanbreez project is progressing steadily towards the submission of final reports by Q4 2025, setting the stage for a definitive mining decision. This development not only reaffirms Critical Metals Corp's dedication to establishing itself as a reliable source of critical minerals but also its commitment to supporting defense initiatives, the transition to clean energy, and the advancement of next-generation technologies in the Western world.</p>

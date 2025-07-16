@@ -1,0 +1,16 @@
++++
+title = "ICR Strengthens Advisory Services with Appointment of Gabriel Hasson as Global Head of Governance & Shareholder Advisory"
+date = "2025-07-16T15:25:25Z"
+draft = false
+summary = "ICR appoints Gabriel Hasson to lead its governance and shareholder advisory services, enhancing its strategic advisory capabilities in ESG, shareholder activism, and proxy contests."
+description = "ICR appoints Gabriel Hasson as Global Head of Governance & Shareholder Advisory, enhancing its leadership in strategic communications and advisory services."
+source_link = "https://www.citybiz.co/article/718765/gabriel-hasson-joins-icr-as-global-head-of-governance-shareholder-advisory/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/fa941249ae54988e9e421b496c2526ea.jpg"
+article_id = 106691
+feed_item_id = 17107
+url = "/202507/106691-icr-strengthens-advisory-services-with-appointment-of-gabriel-hasson-as-global-head-of-governance-shareholder-advisory"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/16/silkUvO8.webp"
+source = "citybiz"
++++
+
+<p>ICR, a leading strategic communications and advisory firm, has announced the appointment of Gabriel Hasson as its Global Head of Governance & Shareholder Advisory. This move is set to significantly enhance ICR's advisory services to company management and Boards of Directors, with a focus on strategic governance matters including ESG (Environmental, Social, and Governance), shareholder activism, and proxy contest advisory.</p><p>Hasson's extensive background includes a six-year tenure at BlackRock’s Investment Stewardship team, where he managed a portfolio valued at over $400 billion. His experience spans governance, sustainability, and investment stewardship, with previous roles at Institutional Shareholder Services (ISS) and Deloitte further cementing his expertise in shareholder engagement and governance reform.</p><p>Tom Ryan, Founder and CEO of ICR, highlighted the critical nature of Hasson's role in the current market environment. 'Proactive shareholder engagement has become essential to strengthening governance, enhancing transparency, and building trust with the market,' Ryan stated. Hasson's appointment is viewed as a strategic effort to strengthen ICR's advisory services, especially as boards face growing pressures to effectively navigate the complexities of capital markets.</p><p>Expressing his enthusiasm for the new role, Hasson pointed to ICR's profound understanding of investor behavior and its leadership in strategic communications. His academic achievements, including a law degree from Universidad Panamericana and a master’s in international public policy from Johns Hopkins University, further bolster his professional qualifications.</p><p>ICR's reputation as a top advisor on shareholder activism and its standing in crisis and litigation advisory highlight the firm's industry leadership. With Hasson at the helm of governance and shareholder advisory, ICR is poised to deliver enhanced value to its clients across diverse sectors and market capitalizations, reinforcing its position as a trusted advisor in the ever-evolving business and technology landscape.</p>

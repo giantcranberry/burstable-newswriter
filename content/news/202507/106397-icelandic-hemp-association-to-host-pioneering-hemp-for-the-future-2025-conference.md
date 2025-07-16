@@ -6,7 +6,6 @@ summary = "The Hemp for the Future 2025 conference in Reykjavík aims to unite g
 description = "Join global leaders at Hemp for the Future 2025 in Reykjavík to explore sustainable hemp and cannabis innovations. Keynote by Jamie Pearson."
 source_link = "https://newsworthy.ai/news/202507151564/hemp-for-the-future-2025-to-unite-global-experts-in-cannabis-innovation-and-sustainability"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/1e1c3c2e52eb4c187d80476de361c6a9.png"
-featured = true
 article_id = 106397
 feed_item_id = 17050
 url = "/202507/106397-icelandic-hemp-association-to-host-pioneering-hemp-for-the-future-2025-conference"
