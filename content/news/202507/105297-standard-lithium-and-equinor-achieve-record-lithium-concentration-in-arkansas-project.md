@@ -6,7 +6,6 @@ summary = "Standard Lithium Ltd. and Equinor's joint venture marks a significant
 description = "Standard Lithium achieves record lithium concentration in Arkansas, advancing sustainable energy solutions. Discover how this impacts the future of clean energy."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-standard-lithium-ltd-nyse-american-sli-jv-reports-highest-lithium-grades-to-date-at-smackover-project/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/15/e12748f307eb73507c25de8b82a21418.png"
-featured = true
 article_id = 105297
 feed_item_id = 17044
 url = "/202507/105297-standard-lithium-and-equinor-achieve-record-lithium-concentration-in-arkansas-project"
