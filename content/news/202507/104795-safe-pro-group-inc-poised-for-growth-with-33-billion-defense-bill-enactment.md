@@ -6,7 +6,6 @@ summary = "Safe Pro Group Inc. stands to benefit significantly from the $33 bill
 description = "Safe Pro Group leverages AI to detect battlefield threats, benefiting from a $33B US defense bill. A game-changer for military safety and tech investment."
 source_link = "https://rss.investorbrandnetwork.com/ainw/safe-pro-group-inc-nasdaq-spai-to-benefit-from-33-billion-us-defense-bill-targeting-ai-and-drone-innovation/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/15/7b50b2802150c9908ef4d9f065b08b0a.png"
-featured = true
 article_id = 104795
 feed_item_id = 17032
 url = "/202507/104795-safe-pro-group-inc-poised-for-growth-with-33-billion-defense-bill-enactment"

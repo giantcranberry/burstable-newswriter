@@ -1,0 +1,16 @@
++++
+title = "GrabAGun Digital Holdings Inc. Goes Public on NYSE Following Successful SPAC Merger"
+date = "2025-07-15T19:55:25Z"
+draft = false
+summary = "GrabAGun Digital Holdings Inc. has completed its merger with Colombier Acquisition Corp. II, securing over $179 million to fuel growth and innovation in the firearms retail sector."
+description = "GrabAGun completes business combination with Colombier II, trading on NYSE as PEW, backed by $179M to revolutionize firearms retail with tech and innovation."
+source_link = "https://www.citybiz.co/article/718381/online-firearms-retailer-grabagun-completes-business-combination-and-will-begin-trading-on-nyse-july-16/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6a39262f135a500f84ac61d1cbc96c9f.jpg"
+article_id = 105299
+feed_item_id = 17043
+url = "/202507/105299-grabagun-digital-holdings-inc-goes-public-on-nyse-following-successful-spac-merger"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/15/wallpfUT.webp"
+source = "citybiz"
++++
+
+<p>GrabAGun Digital Holdings Inc., a leading online retailer of firearms and accessories, has successfully completed its business combination with Colombier Acquisition Corp. II, a special purpose acquisition company (SPAC). This strategic move has positioned GrabAGun for public trading on the New York Stock Exchange under the ticker symbols 'PEW' and 'PEWW', marking a significant milestone in the company's growth trajectory.</p><p>The transaction has infused GrabAGun with over $179 million in gross proceeds, earmarked for accelerating the company's growth initiatives and acquisition strategies. This financial boost is expected to enhance GrabAGun's market presence and its ability to innovate within the firearms retail industry. Donald Trump Jr., a prominent advocate for the Second Amendment and a newly appointed member of GrabAGun's Board of Directors, lauded the merger as a reflection of strong confidence in the company's business model and its commitment to pro-American values.</p><p>Marc Nemati, CEO of GrabAGun Digital, emphasized the transformative potential of this development for both the company and the shooting sports industry at large. By leveraging technology, GrabAGun aims to redefine the firearms retail experience, offering an extensive selection and superior service to a diverse customer base, from novices to experienced enthusiasts.</p><p>The minimal redemptions of Colombier II shares prior to the merger underscore the robust investor confidence in GrabAGun's future and the broader Second Amendment movement. Omeed Malik, CEO and Chairman of Colombier II, expressed pride in facilitating GrabAGun's vision to revolutionize the firearms retail landscape through innovation and expansion.</p><p>GrabAGun's platform stands out for its comprehensive product range and commitment to compliance, making it a leader in the online retail space for firearms and related accessories. With the backing of this successful SPAC merger, GrabAGun is poised to further its mission of providing a secure, efficient, and customer-focused shopping experience, supported by partnerships with top brands in the industry.</p>

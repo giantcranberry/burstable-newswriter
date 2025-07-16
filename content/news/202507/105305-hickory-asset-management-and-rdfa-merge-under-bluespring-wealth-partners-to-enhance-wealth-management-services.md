@@ -1,0 +1,16 @@
++++
+title = "Hickory Asset Management and RDFA Merge Under Bluespring Wealth Partners to Enhance Wealth Management Services"
+date = "2025-07-15T17:45:26Z"
+draft = false
+summary = "The merger of Hickory Asset Management and RDFA under Bluespring Wealth Partners creates a firm managing over $865 million, aiming to enhance wealth management services and client accessibility."
+description = "Bluespring Wealth Partners merges Hickory Asset Management with Ritter Daniher Financial Advisory, creating a $865M AUM firm to enhance client services."
+source_link = "https://www.citybiz.co/article/718266/bluespring-wealth-partners-merger-creates-865m-aum-firm/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1161c0dd33dc399b306665a52527050e.png"
+article_id = 105305
+feed_item_id = 17038
+url = "/202507/105305-hickory-asset-management-and-rdfa-merge-under-bluespring-wealth-partners-to-enhance-wealth-management-services"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/15/pear6oKH.webp"
+source = "citybiz"
++++
+
+<p>The merger between Hickory Asset Management, Inc. and Ritter Daniher Financial Advisory LLC, under the umbrella of Bluespring Wealth Partners, marks a significant development in the wealth management sector, creating a firm that oversees more than $865 million in assets under management. This strategic combination leverages the strengths of both firms, with Hickory Asset Management recognized for its prudent financial strategies and RDFA for its personalized financial planning services. The merger is poised to offer enhanced wealth management capabilities and greater service accessibility for clients, reflecting a shared commitment to customized solutions.</p><p>Operational independence remains a cornerstone of this merger, with both teams continuing to operate under their current structures while benefiting from the combined resources and strength of Bluespring Wealth Partners. This approach is designed to foster scalable growth and ensure that client care remains uninterrupted. The leadership of both firms, including Dan LeScoezec of Hickory and John Ritter of RDFA, have expressed optimism about the merger, citing aligned values and a client-first philosophy as key drivers for future success.</p><p>Pradeep Jayaraman, President of Bluespring Wealth Partners, highlighted the merger's role in supporting the growth objectives of both Hickory and RDFA, as well as its potential to enhance client services. The Hickory name will continue to be used until early 2026, a timeline that coincides with LeScoezec's retirement and signifies a period of transition for the firm. This merger exemplifies Bluespring Wealth Partners' strategy of building partnerships that not only elevate wealth management firms but also preserve their entrepreneurial spirit and dedication to client service.</p><p>For the wealth management industry, this merger represents a trend towards consolidation as firms seek to combine expertise and resources to better serve their clients. The implications for clients include access to a broader range of services and the assurance of continued personalized attention. For the firms involved, the merger offers opportunities for growth and the ability to compete more effectively in a rapidly evolving financial landscape.</p>
