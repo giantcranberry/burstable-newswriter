@@ -6,7 +6,6 @@ summary = "Susan Gallagher's leadership at ZRG introduces a transformative consu
 description = "Susan Gallagher leads ZRG’s Consulting Solutions with a focus on human potential and execution, challenging traditional consulting norms for real business impact."
 source_link = "https://www.citybiz.co/article/718915/qa-with-susan-gallagher-president-at-zrgs-consulting-solutions/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ba60ee8719d15a6b4f6bd39ee1b771d4.png"
-featured = true
 article_id = 106504
 feed_item_id = 17119
 url = "/202507/106504-zrgs-consulting-solutions-redefines-industry-standards-with-human-centered-approach"

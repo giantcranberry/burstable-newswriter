@@ -1,0 +1,16 @@
++++
+title = "HR Research Institute Launches Advisory Board to Enhance People Analytics in the Workplace"
+date = "2025-07-16T12:05:57Z"
+draft = false
+summary = "The HR Research Institute has formed a new State of People Analytics Advisory Board to guide HR professionals in utilizing data for strategic workplace decisions, reflecting the growing importance of analytics in aligning workforce strategies with business goals."
+description = "HR Research Institute launches Advisory Board for People Analytics, offering insights and strategies for HR professionals to leverage data in workforce decisions."
+source_link = "https://newsworthy.ai/news/202507161576/new-advisory-board-to-help-hr-harness-people-data-and-analytics-strategies"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/abf0ec7b8c8cc5d410a50895354562f7.png"
+article_id = 107050
+feed_item_id = 17078
+url = "/202507/107050-hr-research-institute-launches-advisory-board-to-enhance-people-analytics-in-the-workplace"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/257/16/joinbOIn.webp"
+source = "Newsworthy.ai"
++++
+
+<p>The HR Research Institute has taken a significant step forward in the realm of human resources by establishing the State of People Analytics Advisory Board. This newly formed board is set to play a pivotal role in assisting HR professionals to navigate the increasingly complex landscape of people analytics. Comprising industry veterans and data experts, the board's primary objective is to offer guidance on how to harness analytics for making informed, equitable, and effective decisions in the workplace.</p><p>This initiative is timely, as HR leaders are grappling with the dual challenges of aligning workforce strategy with business impact and adapting to rapid technological advancements and skills shortages. The Advisory Board is not only contributing to the design of an upcoming research study but is also involved in organizing a virtual event, 'HR.com's State of People Analytics 2025 Virtual Event', slated for November 12, 2025. This event is expected to provide attendees with practical frameworks and insights on the integration of data and analytics into HR strategies and operations.</p><p>Among the board members are Chris Coleman of Verizon and Helen Friedman of Merit Analytics Group LLC, whose extensive experience and thought leadership are anticipated to enrich the board's contributions. Debbie McGrath, CEO of HR.com, underscored the indispensable role of analytics in the contemporary business landscape, pointing out the board's mission to enable HR professionals to leverage data not merely for reporting but as a cornerstone of leadership.</p><p>The HR Research Institute remains committed to supporting the HR community through free research reports and infographics, such as the recently released 'HR.com's State of People Analytics 2024-25', which is available for download at <a href='https://hr.com/researchinstitute' rel='nofollow' target='_blank'>https://hr.com/researchinstitute</a>. This initiative marks a significant milestone in the evolution of HR practices, emphasizing the critical role of data-driven decision-making in shaping the future of work.</p>
