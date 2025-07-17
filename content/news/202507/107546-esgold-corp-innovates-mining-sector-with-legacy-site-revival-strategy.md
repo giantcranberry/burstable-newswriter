@@ -6,7 +6,6 @@ summary = "ESGold Corp. is transforming the mining industry by focusing on the r
 description = "ESGold Corp. innovates mining by reviving legacy sites, offering a sustainable model amid high gold prices and mineral demand. A game-changer for investors."
 source_link = "https://rss.investorbrandnetwork.com/nnw/a-new-mining-model-built-for-speed-scale-and-profit/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/17/eb580bfe6aaf3a5ebd95cc6827ba43d0.png"
-featured = true
 article_id = 107546
 feed_item_id = 17168
 url = "/202507/107546-esgold-corp-innovates-mining-sector-with-legacy-site-revival-strategy"
