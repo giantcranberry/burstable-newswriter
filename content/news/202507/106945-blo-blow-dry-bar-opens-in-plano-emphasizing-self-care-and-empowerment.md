@@ -6,7 +6,6 @@ summary = "Blo Blow Dry Bar's new Plano location offers a range of beauty servic
 description = "Blo Blow Dry Bar opens in Plano, offering signature hair and makeup services in a welcoming space. Owned by Shannon Myers Ambrozy, it's all about empowerment and self-care."
 source_link = "https://www.citybiz.co/article/719086/local-businesswoman-brings-empowerment-and-confidence-to-plano-with-new-blo-blow-dry-bar/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/45ee7a39dd2d9bd2c4345df782ac5fc8.jpg"
-featured = true
 article_id = 106945
 feed_item_id = 17129
 url = "/202507/106945-blo-blow-dry-bar-opens-in-plano-emphasizing-self-care-and-empowerment"

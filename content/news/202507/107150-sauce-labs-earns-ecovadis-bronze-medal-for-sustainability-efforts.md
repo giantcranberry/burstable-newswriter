@@ -1,0 +1,16 @@
++++
+title = "Sauce Labs Earns EcoVadis Bronze Medal for Sustainability Efforts"
+date = "2025-07-16T04:05:24Z"
+draft = false
+summary = "Sauce Labs has been awarded a Bronze medal by EcoVadis for its environmental, social, and governance initiatives, highlighting its commitment to sustainability and responsible business practices."
+description = "Sauce Labs awarded Bronze by EcoVadis for sustainability, marking a milestone in its ESG journey and reinforcing its role as a responsible enterprise partner."
+source_link = "https://www.citybiz.co/article/718608/sauce-labs-receives-bronze-medal-from-ecovadis-underscoring-sustainability-progress/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f7df9bfff3be8aef09ea43fee76e5eea.png"
+article_id = 107150
+feed_item_id = 17055
+url = "/202507/107150-sauce-labs-earns-ecovadis-bronze-medal-for-sustainability-efforts"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/16/icyXBNQ.webp"
+source = "citybiz"
++++
+
+<p>Sauce Labs, a leading platform in continuous quality, has recently been recognized with a Bronze medal by EcoVadis, a global leader in business sustainability ratings. This honor underscores Sauce Labs' dedication to environmental, social, and governance (ESG) initiatives, marking it as a responsible partner for enterprise clients worldwide. The EcoVadis evaluation, which scrutinizes various aspects including environmental impact and ethical practices, positioned Sauce Labs in the 57th percentile among its industry counterparts, showcasing a strong operational framework and the potential for deeper sustainability integration.</p><p>This accolade comes at a pivotal time for Sauce Labs as it focuses on enhancing enterprise value, leveraging AI for quality insights, and achieving operational excellence. Dr. Prince Kohli, CEO of Sauce Labs, highlighted the increasing expectation from customers and partners for businesses to adopt responsible practices. The Bronze medal not only celebrates the company's current achievements in sustainability but also lays the groundwork for future improvements in this area.</p><p>The assessment process encouraged cross-departmental collaboration within Sauce Labs, involving teams from legal to engineering, to create sustainable mechanisms for ongoing efforts. For clients in industries such as finance and retail, ESG performance has become a decisive factor in forming partnerships. The Bronze rating enables Sauce Labs to meet the sustainability criteria required in procurement processes more effectively.</p><p>Moving forward, Sauce Labs plans to expand its sustainability initiatives, with a focus on detailed data collection, tracking emissions, and ensuring supplier accountability. The company is dedicated to embedding ESG principles more thoroughly into its strategic planning, employee engagement, and governance frameworks. For more information on Sauce Labs' sustainability efforts, visit <a href='https://www.saucelabs.com' rel='nofollow' target='_blank'>https://www.saucelabs.com</a>.</p>
