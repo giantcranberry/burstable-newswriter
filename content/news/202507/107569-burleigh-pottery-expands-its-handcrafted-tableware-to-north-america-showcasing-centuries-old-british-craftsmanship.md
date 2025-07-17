@@ -1,0 +1,16 @@
++++
+title = "Burleigh Pottery Expands Its Handcrafted Tableware to North America, Showcasing Centuries-Old British Craftsmanship"
+date = "2025-07-17T07:05:18Z"
+draft = false
+summary = "Burleigh Pottery brings its 170-year-old British ceramic craftsmanship to the U.S. and Canada, offering handcrafted tableware that combines traditional techniques with sustainable production."
+description = "Discover Burleigh Pottery's 170-year legacy of handmade tableware in Stoke-on-Trent, featuring unique tissue transfer printing and sustainable practices."
+source_link = "https://www.24-7pressrelease.com/press-release/524939/introducing-burleigh-pottery-a-storied-british-ceramic-brand-now-available-to-us-and-canadian-collectors"
+enclosure = "https://cdn.newsramp.app/genai/images/257/17/44fa4850312b8d19a2ba664e87809494.png"
+article_id = 107569
+feed_item_id = 17133
+url = "/202507/107569-burleigh-pottery-expands-its-handcrafted-tableware-to-north-america-showcasing-centuries-old-british-craftsmanship"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/17/noonY6SJ.webp"
+source = "24-7 Press Release"
++++
+
+<p>Burleigh Pottery, a distinguished name in British ceramics, has announced the expansion of its handcrafted tableware to collectors in the U.S. and Canada. This move introduces North American audiences to the brand's rich heritage of over 170 years, with each piece meticulously crafted at Middleport Pottery in Stoke-on-Trent, England. The brand's dedication to traditional methods, such as tissue transfer printing, ensures that every item features intricate patterns with unmatched depth and character.</p><p>The expansion is not just a testament to Burleigh Pottery's growing international appeal but also highlights the brand's commitment to sustainability and small-batch production. By maintaining a UK-based supply chain, Burleigh offers consumers a unique blend of craft, place, and purpose. This approach resonates with today's consumers who value authenticity and sustainability in their purchases.</p><p>Among Burleigh's most celebrated collections are the Blue Calico and the revived Blue Prunus, the latter based on a 1913 design. These collections exemplify the brand's ability to merge quiet luxury with cultural heritage, making each piece not just tableware but a piece of art. For those interested in delving deeper into Burleigh's heritage and exploring its collections, more information is available at <a href='https://www.burleighpottery.com/pages/all-made-here' rel='nofollow' target='_blank'>https://www.burleighpottery.com/pages/all-made-here</a>, <a href='https://www.burleighpottery.com/collections/shades-of-blue' rel='nofollow' target='_blank'>https://www.burleighpottery.com/collections/shades-of-blue</a>, and <a href='https://www.burleighpottery.com/collections/blue-prunus' rel='nofollow' target='_blank'>https://www.burleighpottery.com/collections/blue-prunus</a>.</p><p>This expansion signifies a growing appreciation for artisanal craftsmanship in the global market, particularly in sectors that value sustainability and heritage. For business and technology leaders, Burleigh Pottery's move underscores the importance of blending traditional craftsmanship with modern market strategies to meet the evolving demands of discerning consumers worldwide.</p>

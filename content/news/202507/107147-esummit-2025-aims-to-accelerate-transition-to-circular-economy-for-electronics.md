@@ -6,7 +6,6 @@ summary = "The eSummit 2025, organized by SERI, is set to unite industry leaders
 description = "Join eSummit 2025 to explore innovative solutions for electronics sustainability with leaders from Amazon, Google, IBM, and more. Register now for a transformative experience."
 source_link = "https://sustainableelectronics.reportablenews.com/pr/seri-s-esummit-unveils-2025-agenda-and-first-speakers"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f1ded41338676d38f430fc3aaec71a45.png"
-featured = true
 article_id = 107147
 feed_item_id = 17131
 url = "/202507/107147-esummit-2025-aims-to-accelerate-transition-to-circular-economy-for-electronics"
