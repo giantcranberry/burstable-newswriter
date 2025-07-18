@@ -6,7 +6,6 @@ summary = "Maribel Piza's recognition as 'Personalidad del Año' highlights her 
 description = "Maribel Piza awarded 'Person of the Year' for her work in immigrant rights and media advocacy, showcasing the impact of legal and media platforms in social change."
 source_link = "https://www.noticiasnewswire.com/maribel-piza-honored-person-of-the-year/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/17/0ddf54f07f71ad01c87304db19ae3d26.png"
-featured = true
 article_id = 107840
 feed_item_id = 17179
 url = "/202507/107840-maribel-piza-honored-as-personalidad-del-año-for-immigrant-rights-and-media-advocacy"
