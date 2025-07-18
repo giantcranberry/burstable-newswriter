@@ -6,7 +6,6 @@ summary = "ESGold Corp. introduces a sustainable mining model focusing on legacy
 description = "ESGold Corp. innovates mining by revitalizing legacy sites for sustainability and efficiency, leveraging high gold demand. Discover their impact on the industry."
 source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-esgold-corp-cse-esau-otcqb-esauf-featured-in-networknewswire-editorial-highlighting-strategic-mining-model/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/18/d45a79b2a4e1b1306a2f1242d42a6e5b.png"
-featured = true
 article_id = 108571
 feed_item_id = 17208
 url = "/202507/108571-esgold-corp-pioneers-sustainable-mining-model-amid-rising-gold-demand"
