@@ -6,7 +6,6 @@ summary = "Mullen Automotive's transition to Bollinger Innovations and NASDAQ ti
 description = "Mullen Automotive rebrands to Bollinger Innovations, expanding its commercial EV lineup with new models like the Bollinger B4, enhancing sustainability in transportation."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-mullen-automotive-inc-nasdaq-muln-to-rebrand-as-bollinger-innovations-secures-new-ticker-symbol-bini/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/17/960a0ddabd17caa1c82ea4d5e3f06b59.png"
-featured = true
 article_id = 108256
 feed_item_id = 17185
 url = "/202507/108256-mullen-automotive-rebrands-to-bollinger-innovations-signaling-strategic-shift-to-commercial-evs"

@@ -1,0 +1,16 @@
++++
+title = "SEGG Media Corporation Strengthens Digital Motorsports Presence with Strategic Investment in Veloce Media Group"
+date = "2025-07-18T14:20:23Z"
+draft = false
+summary = "SEGG Media Corporation's strategic investment in Veloce Media Group, including the acquisition of Quadrant, marks a significant move to dominate the digital motorsports media space."
+description = "SEGG Media's strategic investment in Veloce Media Group marks a significant step towards digital motorsports media dominance, with a $7.59M deal and Quadrant acquisition."
+source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-segg-media-corporation-nasdaq-segg-ltryw-details-veloce-investment-and-quadrant-acquisition-in-motorsport-expansion-push/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/18/e5568afb7bcae07d6bef4b4c82130a26.png"
+article_id = 108574
+feed_item_id = 17206
+url = "/202507/108574-segg-media-corporation-strengthens-digital-motorsports-presence-with-strategic-investment-in-veloce-media-group"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/18/daveGbjp.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SEGG Media Corporation (NASDAQ: SEGG, LTRYW) has announced a strategic investment in Veloce Media Group, a move that includes Veloce's recent acquisition of Quadrant, a motorsport and content brand co-founded by Formula 1 driver Lando Norris. This investment, funded by the initial tranche of SEGG's $7.59 million subscription agreement, grants SEGG a 12.4% stake in Veloce with the potential to increase to 51% ownership. Veloce, with its reported $17.5 million in FY2024 revenue and 750 million monthly digital views, alongside Quadrant's strong brand equity and high-profile shareholders such as Zak Brown and Adrian Newey, positions SEGG for a leading role in the digital motorsports media arena through its Sports.com division.</p><p>The acquisition highlights SEGG's dedication to broadening its influence in the sports and entertainment industries by utilizing Veloce's and Quadrant's resources to improve fan engagement and content distribution. This strategic investment is a clear indication of SEGG's intention to leverage the increasing appetite for digital sports content, thereby reinforcing its position in the fiercely competitive motorsport media landscape. The move not only enhances SEGG's portfolio but also sets a new benchmark for digital content delivery in motorsports, offering fans unparalleled access to their favorite sports and personalities.</p><p>For business and technology leaders, this development signals a growing trend of media corporations investing heavily in digital platforms to capture the attention of a global audience. The implications of SEGG's investment extend beyond the immediate financial gains, suggesting a shift in how sports content is consumed and monetized in the digital age. As the demand for high-quality, accessible sports content continues to rise, SEGG's strategic positioning through this investment could redefine the standards for digital sports media, offering new opportunities for engagement, advertising, and content innovation.</p>
