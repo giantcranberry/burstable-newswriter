@@ -6,7 +6,6 @@ summary = "California's renewable energy sector hits a historic high with 67% of
 description = "California achieves a record 67% renewable energy in 2023, marking a significant step towards sustainability and boosting the green tech market."
 source_link = "https://rss.investorbrandnetwork.com/ges/california-notches-new-record-in-renewable-energy/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/18/722490b17617ae6024af357b2659785d.png"
-featured = true
 article_id = 108834
 feed_item_id = 17217
 url = "/202507/108834-california-achieves-record-67-renewable-energy-in-2023-setting-a-benchmark-for-clean-energy-transition"

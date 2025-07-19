@@ -1,0 +1,16 @@
++++
+title = "Safe Pro Group Inc. Secures U.S. Government Contract for AI-Driven Demining Operations in Indo-Asia Pacific"
+date = "2025-07-18T19:40:21Z"
+draft = false
+summary = "Safe Pro Group Inc. has been awarded a contract to provide AI-driven defense and security solutions for demining operations in the Indo-Asia Pacific region, highlighting the increasing role of AI in global security."
+description = "Safe Pro Group (SPAI) wins U.S. Government contract for AI-driven demining in Indo-Asia Pacific, showcasing SpotlightAI for landmine detection. Read more."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-safe-pro-group-inc-nasdaq-spai-expands-indo-pacific-defense-role-with-new-u-s-government-contractor-order/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/18/36136dcdc3c07f5f02da44e811298183.png"
+article_id = 109297
+feed_item_id = 17227
+url = "/202507/109297-safe-pro-group-inc-secures-us-government-contract-for-ai-driven-demining-operations-in-indo-asia-pacific"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/18/bakeLU2R.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Safe Pro Group Inc. (NASDAQ: SPAI), a leader in AI-driven defense and security solutions, has recently announced a significant order from a U.S. Government Contractor aimed at supporting Department of State demining operations in the Indo-Asia Pacific region. This order, scheduled for delivery in the third quarter of 2025, encompasses ballistic and Explosive Ordnance Disposal (EOD) protective equipment. A notable aspect of this contract is the deployment of Safe Pro's SpotlightAI(TM) drone-based computer vision platform for landmine detection, demonstrating the company's innovative approach to improving safety and operational efficiency in high-risk areas.</p><p>This announcement follows the enactment of the $30 billion One Big Beautiful Bill Act (OBBBA), which has enabled Safe Pro to extend its support to the U.S. Indo-Pacific Command (USINDOPACOM). The company is set to further integrate its SPOTD threat detection technology with military platforms, including ATAK, representing a significant advancement in the utilization of AI and drone technology within defense and security operations. Such integrations not only emphasize Safe Pro's dedication to pushing the boundaries of defense capabilities but also underscore the escalating significance of AI in tackling intricate security challenges on a global scale.</p><p>Safe Pro Group Inc. is rapidly cementing its status as a key contributor in the defense sector, thanks to its proprietary AI and machine learning technologies that offer safer and more efficient solutions compared to traditional methods. The company's emphasis on innovation, coupled with its success in securing government contracts, illustrates its strategic market positioning and its role in bolstering global security measures. This development is a testament to the transformative potential of AI in defense and security, promising enhanced safety and efficiency in operations worldwide.</p>
