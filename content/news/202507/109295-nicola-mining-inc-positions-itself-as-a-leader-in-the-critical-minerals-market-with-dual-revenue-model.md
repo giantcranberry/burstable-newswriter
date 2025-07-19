@@ -6,7 +6,6 @@ summary = "Nicola Mining Inc. leverages its unique dual-revenue model and strate
 description = "Nicola Mining Inc. leverages BC's mineral wealth with a dual-revenue model, poised for growth in the clean-energy transition. Discover its strategic assets and potential."
 source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-nicola-mining-inc-tsx-v-nim-otcqb-husif-poised-at-the-crossroads-of-clean-energy-and-critical-minerals/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/18/02a3a022e33b6a489cb4a346856a9f2b.png"
-featured = true
 article_id = 109295
 feed_item_id = 17230
 url = "/202507/109295-nicola-mining-inc-positions-itself-as-a-leader-in-the-critical-minerals-market-with-dual-revenue-model"
