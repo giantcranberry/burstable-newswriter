@@ -6,7 +6,6 @@ summary = "Best Access Doors introduces the ProClub program, offering exclusive 
 description = "Best Access Doors introduces ProClub, a free membership program for construction professionals, offering exclusive benefits and community support to streamline projects."
 source_link = "https://mediawiretoday.com/best-access-doors-launches-proclub-program-for-construction-pros-370433"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/2bf8d4405050477c8b53ec9af867221f.jpg"
-featured = true
 article_id = 109593
 feed_item_id = 17239
 url = "/202507/109593-best-access-doors-launches-proclub-program-to-support-commercial-construction-professionals"
