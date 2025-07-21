@@ -6,7 +6,6 @@ summary = "UGI Utilities, Inc. announces the continuation of a natural gas main 
 description = "UGI Utilities resumes natural gas main replacement in Lancaster City, affecting traffic and offering conversion opportunities. Learn more about the project's impact."
 source_link = "https://ugi.reportablenews.com/pr/ugi-resuming-system-upgrades-in-areas-around-lancaster-general-hospital"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/8c3c74b59f51712d3a1e4cee1a6f8402.jpg"
-featured = true
 article_id = 111433
 feed_item_id = 17263
 url = "/202507/111433-ugi-utilities-resumes-natural-gas-main-replacement-in-lancaster-city-impacting-traffic-and-local-services"
