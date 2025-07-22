@@ -1,0 +1,16 @@
++++
+title = "AIRO Group Unveils Sustainable Middle-Mile Cargo Drone at EAA AirVenture 2025"
+date = "2025-07-22T14:00:08Z"
+draft = false
+summary = "AIRO Group introduces a groundbreaking medium-lift cargo drone, leveraging Jaunt Air Mobility's technology, to revolutionize sustainable freight solutions with potential global impacts."
+description = "AIRO Group launches a new cargo drone and expands into YMX Innovation Zone, revolutionizing freight with sustainable, efficient Advanced Air Mobility solutions."
+source_link = "https://www.citybiz.co/article/721061/drone-technology-innovator-airo-group-launches-development-of-new-middle-mile-cargo-drone/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b00f2c3f92b9adc3eeef0ea9a556731c.jpg"
+article_id = 112623
+feed_item_id = 17309
+url = "/202507/112623-airo-group-unveils-sustainable-middle-mile-cargo-drone-at-eaa-airventure-2025"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/22/glue_TnT.webp"
+source = "citybiz"
++++
+
+<p>AIRO Group, a frontrunner in aerospace and defense technologies, has recently announced the development of an innovative middle-mile, medium-lift cargo drone. This initiative, showcased at EAA AirVenture 2025, marks a significant leap towards sustainable freight solutions. The drone, capable of transporting 250–500 lbs. over distances exceeding 200 miles, presents an eco-friendly alternative to conventional freight methods, potentially reducing the carbon footprint associated with logistics and supply chains.</p><p>The cargo drone employs Jaunt Air Mobility's patented Slowed-Rotor Compound technology, a hybrid approach that combines the vertical takeoff capabilities of helicopters with the efficiency of fixed-wing aircraft. This technology not only enhances the drone's safety and performance but also positions it as a key player in the Advanced Air Mobility (AAM) sector. With regulatory approvals for beyond visual line-of-sight operations underway, AIRO's project underscores the company's dedication to pioneering sustainable and innovative air mobility solutions.</p><p>Further accelerating the drone's development, AIRO is expanding its operations into the YMX Innovation Zone in Mirabel, Quebec. This strategic location enables collaboration with Vertiko Mobilité and Aéroports de Montréal, providing access to a robust ecosystem for testing and certification. Such partnerships are crucial for bringing the cargo drone closer to operational readiness, ensuring it meets the stringent standards required for real-world deployment.</p><p>Martin Peryea, SVP & GM of AIRO’s Electric Air Mobility segment, emphasized the transformative potential of this drone in delivering essential supplies to remote and underserved regions, building on the achievements of the CORRIDAIR Project. CEO Captain Joe Burns and Executive Chairman Dr. Chirinjeev Kathuria highlighted the project's alignment with AIRO's broader vision for a scalable, interoperable ecosystem in AAM. This initiative not only addresses current cargo transportation needs but also lays the groundwork for future passenger mobility solutions, showcasing AIRO's commitment to shaping the future of air mobility.</p>

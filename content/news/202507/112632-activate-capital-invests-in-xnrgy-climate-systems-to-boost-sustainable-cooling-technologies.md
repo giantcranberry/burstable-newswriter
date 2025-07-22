@@ -1,0 +1,16 @@
++++
+title = "Activate Capital Invests in XNRGY Climate Systems to Boost Sustainable Cooling Technologies"
+date = "2025-07-22T08:50:16Z"
+draft = false
+summary = "Activate Capital's strategic investment in XNRGY Climate Systems aims to enhance sustainable air handling and liquid cooling technologies, marking a significant step towards meeting the growing demand for efficient thermal management in data centers and critical infrastructure."
+description = "Activate Capital invests in XNRGY Climate Systems to advance sustainable cooling technologies for data centers, boosting efficiency and creating jobs in Arizona."
+source_link = "https://www.citybiz.co/article/720925/activate-capital-invests-in-xnrgy/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/070c01ff0d80787d3aacc4e1e8be1224.jpg"
+article_id = 112632
+feed_item_id = 17291
+url = "/202507/112632-activate-capital-invests-in-xnrgy-climate-systems-to-boost-sustainable-cooling-technologies"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/22/noonxLSj.webp"
+source = "citybiz"
++++
+
+<p>Activate Capital has made a strategic investment in XNRGY Climate Systems, a leader in sustainable air handling and liquid cooling technologies in North America. This partnership is poised to accelerate XNRGY's expansion, including the enhancement of its domestic manufacturing capabilities and the development of advanced cooling solutions for data centers and other critical infrastructure sectors.</p><p>The investment announcement coincides with the launch of XNRGY's new 275,000-square-foot manufacturing facility in Mesa, Arizona. This facility, operational since May 1, 2025, represents the initial phase of a planned one million-square-foot innovation campus. It significantly boosts XNRGY's ability to address the increasing demand for efficient thermal management solutions, particularly in hyperscale, modular, and edge data centers.</p><p>XNRGY's liquid cooling platforms are engineered for high ambient temperature environments, offering exceptional energy efficiency, reliability, and modular scalability. Developed by a team of seasoned HVAC engineers, these systems are designed to comply with the rigorous operational standards of contemporary data infrastructure.</p><p>Wais Jalali, Founder and CEO of XNRGY, shared his excitement about the collaboration with Activate Capital, underscoring their mutual commitment to providing ultra-efficient cooling systems that align with customer needs for performance, environmental sustainability, and reliability. Anup Jacob, Managing Partner at Activate Capital, highlighted XNRGY's technical prowess and domestic manufacturing capabilities as pivotal in achieving the efficiency advancements required for the AI-driven evolution of global infrastructure.</p><p>At full capacity, the Mesa facility is projected to generate more than 1,000 skilled jobs, making a substantial contribution to Arizona's clean technology and advanced manufacturing sectors. This investment underscores Activate Capital's focus on backing innovative companies that are leading the charge in transforming global systems through next-generation, high-efficiency critical infrastructure solutions.</p>

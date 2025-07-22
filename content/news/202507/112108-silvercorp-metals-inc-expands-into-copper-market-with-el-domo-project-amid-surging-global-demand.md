@@ -6,7 +6,6 @@ summary = "Silvercorp Metals Inc. is strategically entering the copper market th
 description = "Copper prices jump 17% amid tariffs, with Silvercorp Metals leading the charge into Ecuador's copper market. Discover the future of copper demand."
 source_link = "https://rss.investorbrandnetwork.com/rns/silvercorp-metals-inc-nyse-a-tsx-svm-targets-copper-market-entry-with-el-domo-project-in-ecuador/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/21/6983bacb6e71183a919c67912af1beda.png"
-featured = true
 article_id = 112108
 feed_item_id = 17275
 url = "/202507/112108-silvercorp-metals-inc-expands-into-copper-market-with-el-domo-project-amid-surging-global-demand"

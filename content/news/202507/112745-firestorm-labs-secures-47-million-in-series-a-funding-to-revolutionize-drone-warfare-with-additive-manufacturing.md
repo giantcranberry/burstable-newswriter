@@ -1,0 +1,16 @@
++++
+title = "Firestorm Labs Secures $47 Million in Series A Funding to Revolutionize Drone Warfare with Additive Manufacturing"
+date = "2025-07-22T10:00:11Z"
+draft = false
+summary = "Firestorm Labs' $47 million Series A funding, led by NEA with contributions from Lockheed Martin Ventures and others, marks a significant step towards revolutionizing drone manufacturing and deployment in warfare through additive manufacturing."
+description = "Firestorm Labs raises $47M Series A led by NEA for advanced drone tech, revolutionizing military UAS with on-site 3D printing capabilities."
+source_link = "https://www.citybiz.co/article/720937/firestorm-closes-47m-series-a-led-by-nea-lockheed-martin-ventures-among-defense-focused-backers/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3375a0c88c7d157eaa5f232a92fa6f86.jpg"
+article_id = 112745
+feed_item_id = 17305
+url = "/202507/112745-firestorm-labs-secures-47-million-in-series-a-funding-to-revolutionize-drone-warfare-with-additive-manufacturing"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/22/keepFnTm.webp"
+source = "citybiz"
++++
+
+<p>Firestorm Labs, a San Diego-based innovator in advanced drone technology for warfare, has successfully closed a $47 million Series A funding round. This investment, spearheaded by New Enterprise Associates (NEA) and supported by Lockheed Martin Ventures, Decisive Point, Washington Harbour Partners, and Booz Allen Ventures, among others, includes $12 million in venture debt from JPMorgan. The funding underscores the growing interest in transformative defense technologies that promise to enhance military capabilities and troop safety.</p><p>The company's groundbreaking approach to drone manufacturing leverages distributed, additive manufacturing techniques, setting a new standard for the production and deployment of unmanned aerial systems (UAS) in combat scenarios. Aaron Jacobson of NEA highlighted the significance of Firestorm's technology in maintaining the U.S.'s dominance in unmanned systems, emphasizing its potential to safeguard troops through innovative solutions.</p><p>Chris Moran from Lockheed Martin Ventures pointed out the strategic advantage of on-site 3D drone printing, a capability that Firestorm is pioneering. This technology enables warfighters to construct and repair drones directly on the battlefield, drastically cutting down production times and overcoming logistical hurdles. The Series A funding will fuel the expansion of Firestorm's xCell platform, which is at the heart of this revolutionary manufacturing process.</p><p>Dan Magy, CEO of Firestorm, shared his excitement about the funding's role in fast-tracking the development of battlefield-ready solutions. The company's ability to 3D-print modular airframes on-demand represents a significant leap forward for U.S. and allied forces, offering adaptable technology tailored to the complexities of modern warfare.</p><p>Investors such as Mina Faltas of Washington Harbour Partners and Thomas Hendrix of Decisive Point have lauded Firestorm's potential to alleviate critical manufacturing bottlenecks in the military sector. Their technology is seen as a force multiplier, poised to deliver substantial benefits across the defense ecosystem by enhancing operational flexibility and efficiency.</p>
