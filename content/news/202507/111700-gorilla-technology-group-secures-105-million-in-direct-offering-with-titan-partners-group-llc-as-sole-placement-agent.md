@@ -6,7 +6,6 @@ summary = "Gorilla Technology Group Inc. has successfully raised $105 million th
 description = "Titan Partners facilitates a $105M direct offering for Gorilla Technology Group, signaling strong investor confidence and growth potential in the tech sector."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-titan-partners-group-llc-facilitates-105-million-equity-raise-for-gorilla-technology-nasdaq-grrr/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/21/0e4de1f12d41d0307a60729a7308dfd9.png"
-featured = true
 article_id = 111700
 feed_item_id = 17266
 url = "/202507/111700-gorilla-technology-group-secures-105-million-in-direct-offering-with-titan-partners-group-llc-as-sole-placement-agent"
