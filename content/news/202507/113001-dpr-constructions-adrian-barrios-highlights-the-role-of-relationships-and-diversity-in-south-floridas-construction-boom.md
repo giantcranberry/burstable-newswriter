@@ -1,0 +1,16 @@
++++
+title = "DPR Construction's Adrian Barrios Highlights the Role of Relationships and Diversity in South Florida's Construction Boom"
+date = "2025-07-22T08:50:10Z"
+draft = false
+summary = "Adrian Barrios of DPR Construction emphasizes the importance of diversity and technology in driving the company's success in South Florida's construction industry, with a focus on sustainable growth and community engagement."
+description = "Adrian Barrios and DPR Construction are reshaping South Florida's construction landscape with innovative projects in healthcare, education, and commercial sectors."
+source_link = "https://www.citybiz.co/article/719033/qa-with-adrian-barrios-south-florida-business-unit-leader-dpr-construction/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5ec6a601607fb9a71fd810c92b09518c.jpg"
+article_id = 113001
+feed_item_id = 17286
+url = "/202507/113001-dpr-constructions-adrian-barrios-highlights-the-role-of-relationships-and-diversity-in-south-floridas-construction-boom"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/22/face0NBz.webp"
+source = "citybiz"
++++
+
+<p>Adrian Barrios, the South Florida Business Unit Leader at DPR Construction, has highlighted the critical role of building relationships and fostering diversity in the construction industry. Under his leadership, DPR Construction has completed over 75 commercial construction projects since 2008, establishing itself as a leading healthcare builder in South Florida. Since joining the company in 2013, Barrios has managed projects worth $370 million, showcasing the company's significant impact on the region's construction landscape.</p><p>DPR Construction, a self-performing general contractor with a global presence, has been a key player in South Florida for the past two decades. The company's success is largely due to its sustainable growth strategy, commitment to health, safety, and wellbeing, and a diverse team that brings a wide range of perspectives and skills to the table. Barrios, a South Florida native with extensive experience in healthcare construction, leads the local business unit with a strong focus on community engagement and innovation.</p><p>What sets DPR Construction apart in the highly competitive construction industry is its adoption of advanced technology, prefabrication techniques, and a highly skilled craft workforce. The company's integrated approach covers every phase of construction, from design to post-construction, ensuring projects are completed efficiently and transparently. With ambitious plans to expand into outpatient services, higher education sports facilities, and commercial office buildings, DPR Construction is well-positioned to grow in tandem with South Florida's dynamic and evolving market.</p><p>The implications of DPR Construction's strategies and Barrios's leadership are significant for the construction industry and South Florida's economic development. By prioritizing diversity, technology, and community, DPR not only enhances its competitive edge but also contributes to the sustainable growth of the region. For business and technology leaders, DPR's approach offers valuable insights into how innovation and inclusivity can drive success in the construction sector and beyond.</p>

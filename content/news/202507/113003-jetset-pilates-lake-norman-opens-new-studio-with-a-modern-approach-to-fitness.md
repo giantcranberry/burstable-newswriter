@@ -1,0 +1,16 @@
++++
+title = "JETSET Pilates Lake Norman Opens New Studio with a Modern Approach to Fitness"
+date = "2025-07-22T08:50:10Z"
+draft = false
+summary = "Kayla Logue and Benjamin Knight launch a new Pilates studio in Huntersville, NC, offering a unique blend of physical and mental wellness through innovative, music-driven classes."
+description = "Kayla Logue & Benjamin Knight open JETSET Pilates Lake Norman, bringing luxury fitness & community wellness to Huntersville, NC. Discover their transformative approach."
+source_link = "https://www.citybiz.co/article/718914/qa-with-kayla-logue-and-benjamin-knight-founders-of-jetset-pilates-lake-norman/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6e91ddc4f1041c252b3aad5dc7f12a34.jpg"
+article_id = 113003
+feed_item_id = 17287
+url = "/202507/113003-jetset-pilates-lake-norman-opens-new-studio-with-a-modern-approach-to-fitness"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/22/lushik4o.webp"
+source = "citybiz"
++++
+
+<p>Kayla Logue and Benjamin Knight, the dynamic duo behind JETSET Pilates Lake Norman, have recently expanded their wellness empire with the opening of a new studio located at 8908 Lindholm Dr., Huntersville, NC. This modern Pilates studio, which welcomed its first clients on June 15, is redefining the traditional Pilates experience by integrating physical strength, mental clarity, and a strong sense of community into its core offerings.</p><p>The studio specializes in Reformer Pilates, a method known for its ability to improve flexibility, strength, and alignment. However, what sets JETSET Pilates Lake Norman apart is its innovative approach to classes. By combining the precision of Pilates with the high-energy atmosphere of boutique fitness, and setting it all to music, the studio offers a unique workout experience. This approach is designed to appeal to a wide range of individuals, from Pilates novices to seasoned practitioners, all seeking not just physical transformation but also mental well-being and community support.</p><p>Logue, a bestselling author and recognized wellness leader, and Knight, an entrepreneur with a keen eye for business opportunities, bring a wealth of experience to their venture. Their shared passion for Pilates and commitment to excellence is evident in their studio's focus on white-glove customer service and a results-driven methodology. The founders are dedicated to creating a space where clients can focus on longevity and alignment, both physically and mentally, making JETSET Pilates Lake Norman a beacon for those pursuing a holistic approach to health and wellness.</p><p>Looking to the future, Logue and Knight have ambitious plans for their studio. They aim to establish JETSET Pilates Lake Norman as the premier Pilates destination in the area, expand their team, and grow their footprint in the Charlotte market. At the heart of their expansion strategy is the desire to cultivate a vibrant, wellness-focused community, proving that their modern approach to Pilates is not just a trend but a transformative movement in the fitness industry.</p>

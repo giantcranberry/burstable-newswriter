@@ -6,7 +6,6 @@ summary = "Rep. Jamie Raskin's significant fundraising achievements highlight hi
 description = "Rep. Jamie Raskin dominates Maryland's congressional fundraising, raising $2.5M and amassing $5.9M, far outpacing peers in a polarized political climate."
 source_link = "https://www.citybiz.co/article/721058/raskin-raises-banks-millions-far-outstripping-other-maryland-delegation-members/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/acd3680611436bf5bd8714e9574ecba0.jpg"
-featured = true
 article_id = 112617
 feed_item_id = 17312
 url = "/202507/112617-rep-jamie-raskin-leads-marylands-congressional-delegation-in-fundraising-with-25-million"
