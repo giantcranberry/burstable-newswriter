@@ -1,0 +1,17 @@
++++
+title = "Covenant Revolutionizes Legal Services for Private Market Investors with AI"
+date = "2025-07-23T15:20:07Z"
+draft = false
+summary = "Covenant, leveraging AI, transforms legal services for private market investors by automating routine reviews and focusing on strategic advice, marking a significant shift in legal technology."
+description = "Jen Berrent's Covenant combines AI with legal expertise to transform private market legal services, offering speed, accuracy, and cost efficiency."
+source_link = "https://www.citybiz.co/article/721647/qa-with-jen-berrent-founder-and-ceo-of-covenant/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d48475a4dbcc4a4a53dcac92ecb66e56.png"
+featured = true
+article_id = 113892
+feed_item_id = 17340
+url = "/202507/113892-covenant-revolutionizes-legal-services-for-private-market-investors-with-ai"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/23/notemc6k.webp"
+source = "citybiz"
++++
+
+<p>Covenant, under the leadership of Jen Berrent, former Chief Legal Officer and Chief Operating Officer at WeWork, is setting a new standard in legal services for private market investors through the innovative use of artificial intelligence. The firm specializes in automating complex legal processes such as Limited Partnership Agreement reviews, Most Favored Nation elections, and Form ADV analysis, aiming to enhance efficiency and reduce costs for institutional investors.</p><p>The inception of Covenant was inspired by Berrent's firsthand experience with the inefficiencies plaguing traditional legal processes in private markets. These inefficiencies, characterized by prolonged review cycles and exorbitant costs, significantly impede swift capital deployment. Covenant's solution lies in its ability to automate routine legal reviews, thereby freeing senior lawyers to concentrate on providing strategic advice. This approach not only ensures premium service quality but also maintains it at a sustainable price point.</p><p>Distinguishing itself from competitors, Covenant employs a multi-model AI strategy. This methodology ensures the firm's services are not only accurate and robust but also adaptable to the latest technological advancements. By leveraging the unique strengths of various AI models for different tasks, Covenant effectively eliminates single points of failure. Moreover, the firm places a high priority on data security, as evidenced by its SOC 2 Type II certification and stringent protocols designed to safeguard client information.</p><p>Covenant's focus on the buy-side addresses the specific challenges faced by limited partners, who demand consistency, speed, and the ability to glean insights across their investment portfolios. The firm's technology is meticulously crafted to meet these demands, offering investors a distinct advantage in the rapidly evolving landscape of legal technology.</p><p>With $4 million in seed funding, Covenant is poised for expansion, aiming to broaden its operational scope and enhance its platform's capabilities. The firm is currently bolstering its team by recruiting both legal professionals and AI engineers, cultivating an environment that encourages collaboration and innovation. As the legal industry undergoes a transformative shift towards embracing artificial intelligence, Covenant stands at the vanguard, redefining the delivery of legal expertise in this new era.</p>

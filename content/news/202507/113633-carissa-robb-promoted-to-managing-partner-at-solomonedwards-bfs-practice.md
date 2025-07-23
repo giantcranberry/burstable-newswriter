@@ -6,7 +6,6 @@ summary = "Carissa Robb's promotion to managing partner of SolomonEdwards' Banki
 description = "SolomonEdwards promotes Carissa Robb to managing partner of its BFS practice, enhancing strategic support for financial institutions facing regulatory and digital challenges."
 source_link = "https://www.citybiz.co/article/721665/solomonedwards-appoints-carissa-robb-as-managing-partner-banking-financial-services/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ef4bd9cc71ddea1b1ea9b015d9c64ee0.jpg"
-featured = true
 article_id = 113633
 feed_item_id = 17336
 url = "/202507/113633-carissa-robb-promoted-to-managing-partner-at-solomonedwards-bfs-practice"
