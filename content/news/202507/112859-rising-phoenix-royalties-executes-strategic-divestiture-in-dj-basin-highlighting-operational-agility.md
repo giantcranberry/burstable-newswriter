@@ -6,7 +6,6 @@ summary = "Rising Phoenix Royalties' recent divestiture in Weld County, Colorado
 description = "Rising Phoenix Royalties closes a strategic divestiture in Colorado's DJ Basin, showcasing their quick action on underdeveloped mineral assets. Learn more about their model."
 source_link = "https://www.citybiz.co/article/721228/rising-phoenix-royalties-closes-tactical-dj-basin-divestiture-in-weld-county/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5114ecf877fa566ee27db37b32318a49.jpg"
-featured = true
 article_id = 112859
 feed_item_id = 17317
 url = "/202507/112859-rising-phoenix-royalties-executes-strategic-divestiture-in-dj-basin-highlighting-operational-agility"
