@@ -6,7 +6,6 @@ summary = "Donna White, a leading figure in hormone health, will keynote an even
 description = "Donna White, BHRT expert, to keynote at Boca Raton's AI & Wellness event, discussing hormone health post-FDA roundtable. Learn about the future of wellness."
 source_link = "https://www.citybiz.co/article/721337/national-bhrt-expert-donna-white-to-keynote-speaker-series-in-south-florida-following-fda-roundtable-on-hormone-health-in-july/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c4d9499fbc09b773dac6f9d6bc0bb012.jpg"
-featured = true
 article_id = 113273
 feed_item_id = 17321
 url = "/202507/113273-donna-white-to-keynote-on-ai-wellness-and-hormone-therapy-at-boca-raton-event"

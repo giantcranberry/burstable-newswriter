@@ -1,0 +1,16 @@
++++
+title = "Kilsar Secures $3.7 Million Seed Funding to Revolutionize Aviation Maintenance Training with AI"
+date = "2025-07-23T10:00:08Z"
+draft = false
+summary = "Kilsar's recent $3.7 million seed funding round, led by Lightbank and Cotulla Holdings, aims to address the aviation industry's workforce readiness crisis through its AI-powered platform, Orion, in partnership with the Aviation Institute of Maintenance."
+description = "Kilsar raises $3.7M to modernize aviation maintenance training with AI, partnering with AIM to tackle workforce shortages and enhance industry standards."
+source_link = "https://www.citybiz.co/article/721615/aviation-focused-kilsar-closes-on-3-7-million/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/430fb6e757e29d1cfb016a29060b6213.jpg"
+article_id = 113743
+feed_item_id = 17331
+url = "/202507/113743-kilsar-secures-37-million-seed-funding-to-revolutionize-aviation-maintenance-training-with-ai"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/23/pinedt1o.webp"
+source = "citybiz"
++++
+
+<p>Kilsar, a Virginia Beach-based technology company, has successfully closed a $3.7 million seed funding round to transform aviation maintenance and training. The investment was co-led by Lightbank and New York-based Cotulla Holdings, with additional participation from Techstars and Lithuania's Scalewolf. This financial injection is poised to advance Kilsar's innovative approach to capturing and scaling the knowledge of retiring aviation maintainers, a pressing issue as the industry faces a significant workforce readiness crisis.</p><p>In collaboration with the Aviation Institute of Maintenance (AIM), Kilsar is set to modernize the training pipeline for the next generation of aviation technicians. At the core of this initiative is Orion, Kilsar's AI-powered platform, which converts complex maintenance procedures into interactive, step-by-step digital workflows. This technology aims to replace traditional static manuals with dynamic, searchable content, thereby enhancing the learning and skill development process for both novice and experienced maintainers.</p><p>The seed funding will facilitate the expansion of Kilsar's engineering and deployment teams, accelerate the onboarding process for defense and commercial maintenance organizations, and further develop Orion's real-time AI assistant. Founded by Brendan Lawlor, a former PRA Group executive with expertise in AI and data analytics, Kilsar is addressing the dual-use potential of its technology for both defense and commercial aviation sectors. This comes at a critical time, as the industry contends with an aging workforce and a declining interest in skilled trades among students.</p><p>Cotulla Holdings, making its inaugural venture investment with Kilsar, brings extensive experience from the air transportation sector, previously operating Cotulla Aviation. This partnership highlights the confidence in Kilsar's innovative solution to one of the aviation industry's most urgent challenges, signaling a significant step forward in addressing the global shortage of skilled aviation maintenance professionals.</p>
