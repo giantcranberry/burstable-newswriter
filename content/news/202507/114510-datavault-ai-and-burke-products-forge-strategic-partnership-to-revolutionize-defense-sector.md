@@ -1,0 +1,16 @@
++++
+title = "Datavault AI and Burke Products Forge Strategic Partnership to Revolutionize Defense Sector"
+date = "2025-07-23T18:40:47Z"
+draft = false
+summary = "Datavault AI Inc. and Burke Products announce a strategic partnership to integrate advanced AI technologies into defense and aerospace systems, aiming to enhance secure data solutions and predictive intelligence in a sector poised for significant growth."
+description = "Datavault AI and Burke Products join forces to innovate defense and aerospace technologies with advanced data solutions and ADIO® tone technology."
+source_link = "https://www.citybiz.co/article/721966/burke-products-selects-datavault-ai-to-strengthen-defense-and-aerospace-capabilities/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/df32adf2e1a09abb5d9d29d268f306b6.png"
+article_id = 114510
+feed_item_id = 17438
+url = "/202507/114510-datavault-ai-and-burke-products-forge-strategic-partnership-to-revolutionize-defense-sector"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/23/rushMaKO.webp"
+source = "citybiz"
++++
+
+<p>Datavault AI Inc. (NASDAQ: DVLT) has entered into a strategic partnership with Burke Products, a minority-owned Tier 1 supplier to major defense and aerospace companies such as Lockheed Martin and Raytheon Technologies. This collaboration is designed to combine Datavault AI's cutting-edge technologies with Burke Products' manufacturing prowess to create innovative solutions tailored to the defense sector's future needs, with anticipated revenues from existing contracts extending into 2025 and beyond.</p><p>The partnership will integrate Datavault AI's patented ADIO® tone technology into Burke Products' systems, aiming to bolster defense and aerospace capabilities through secure data solutions, advanced tracking, and predictive intelligence. With global defense spending projected to surpass $2.2 trillion by 2025, this alliance is timely, addressing the sector's push towards modernization and the adoption of secure data solutions.</p><p>Aaron Bakhshi, CEO of Burke Products, underscored the alliance's transformative potential, aligning with the company's dedication to innovation and delivering mission-critical performance. The collaboration seeks to harness technological synergies, especially in secure data management and communication systems, to tackle issues like stolen valor and to implement Digital Twin technologies on a large scale.</p><p>Sonia Choi, Co-Founder and CMO of Datavault AI, highlighted the mutual commitment to precision engineering and innovation. This partnership not only signifies Datavault AI's strategic foray into the defense sector but also highlights the opportunity for scalable, American-made solutions in contemporary defense infrastructure.</p><p>Nathaniel T. Bradley, Co-Founder and CEO of Datavault AI, lauded the partnership as an international achievement, crediting the visionary leadership of Sonia Choi and the collaborative synergy with Burke Products. Together, they are poised to introduce defense-grade, purpose-built innovations to address the pressing demands of the U.S. defense industry and its allies.</p>

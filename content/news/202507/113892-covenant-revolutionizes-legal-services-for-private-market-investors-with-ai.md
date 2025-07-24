@@ -6,7 +6,6 @@ summary = "Covenant, leveraging AI, transforms legal services for private market
 description = "Jen Berrent's Covenant combines AI with legal expertise to transform private market legal services, offering speed, accuracy, and cost efficiency."
 source_link = "https://www.citybiz.co/article/721647/qa-with-jen-berrent-founder-and-ceo-of-covenant/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d48475a4dbcc4a4a53dcac92ecb66e56.png"
-featured = true
 article_id = 113892
 feed_item_id = 17340
 url = "/202507/113892-covenant-revolutionizes-legal-services-for-private-market-investors-with-ai"
