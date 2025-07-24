@@ -6,7 +6,6 @@ summary = "Nightfood Holdings Inc. is leveraging AI-powered robotics to revoluti
 description = "Nightfood Holdings is revolutionizing hospitality with AI and robotics, offering new investment opportunities and enhancing guest experiences. Discover the future of service."
 source_link = "https://rss.investorbrandnetwork.com/tmw/nightfood-holdings-inc-ngtf-leading-the-way-forward-in-ai-powered-robotics-for-hospitality-investors/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/23/812fa00bc5f6684f7413893ec341bd59.png"
-featured = true
 article_id = 114507
 feed_item_id = 17441
 url = "/202507/114507-nightfood-holdings-inc-pioneers-ai-powered-robotics-in-hospitality-to-transform-guest-experiences"
