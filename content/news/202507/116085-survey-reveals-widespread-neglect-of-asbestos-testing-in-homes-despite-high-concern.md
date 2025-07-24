@@ -6,7 +6,6 @@ summary = "A national survey highlights a significant gap between homeowner conc
 description = "Survey reveals 91% of homes untested for asbestos, posing a modern real estate risk. Learn why this silent hazard demands immediate attention."
 source_link = "https://www.citybiz.co/article/722389/toxic-truth-91-of-homes-havent-been-tested-for-asbestos-and-buyers-are-bailing/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d0eac8e1b51072343f96cf3003d0abff.jpg"
-featured = true
 article_id = 116085
 feed_item_id = 17494
 url = "/202507/116085-survey-reveals-widespread-neglect-of-asbestos-testing-in-homes-despite-high-concern"

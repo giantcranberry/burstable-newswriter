@@ -1,0 +1,16 @@
++++
+title = "TMRC's Exploratory Drilling in Black Hawk Mining District Shows Promising Results"
+date = "2025-07-24T10:10:10Z"
+draft = false
+summary = "Texas Mineral Resources Corp. reports positive preliminary findings from its exploratory drilling in New Mexico's Black Hawk Mining District, indicating potential for valuable mineral discoveries."
+description = "TMRC announces positive drilling results in New Mexico's Black Hawk Mining District, showcasing advanced exploration techniques and potential for silver discoveries."
+source_link = "https://www.newmediawire.com/news/texas-mineral-resources-announces-positive-drilling-confirmation-of-alhambra-geophysics-7081478"
+enclosure = "https://cdn.newsramp.app/genai/images/257/24/f34044ae31b403efa14d7663b4aa9ca6.png"
+article_id = 116412
+feed_item_id = 17471
+url = "/202507/116412-tmrcs-exploratory-drilling-in-black-hawk-mining-district-shows-promising-results"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/24/epicfIt8.webp"
+source = "NewMediaWire"
++++
+
+<p>Texas Mineral Resources Corp. (TMRC) has announced preliminary results from its exploratory drilling efforts in the Black Hawk Mining District, located in Grant County, New Mexico. This initiative, part of a 2021 agreement with Santa Fe Gold Corporation, focused on assessing the Alhambra mine's potential. The drilling targeted Electro-Magnetic anomalies and the historic Alhambra vein, with ten out of eleven drill holes intersecting sulfide bearing veins at anticipated depths.</p><p>The exploration employed the NANOTEM geophysical surveying method, developed by Zonge International and tailored for the Black Hawk district's unique conditions. While this method has proven effective in vein location, it does not differentiate between native silver and sulfide bearing veins. Despite this limitation, the success in vein identification is a promising development for future exploration activities. TMRC is currently conducting a detailed analysis of the drill core, with a full report expected in the near future.</p><p>Daniel Gorski, CEO of TMRC, highlighted the NANOTEM method's potential to revolutionize the project's exploration and development stages. The Black Hawk Mining District is renowned for its 'Five Element Veins,' and the Alhambra mine's carbonate filled structures are particularly noteworthy for their potential to contain valuable minerals. This exploration effort is bolstered by TMRC's partnership with the New Mexico Bureau of Geology and Mineral Resources, ensuring a high level of scientific accuracy with geologists and students contributing to core logging and analysis.</p><p>The project's next steps hinge on the evaluation of the current data, with the aim of advancing towards a joint venture agreement with Santa Fe Gold Corporation and the eventual commercialization of the mine. These findings could have significant implications for the mining industry, particularly in the exploration of precious metals and minerals, and underscore the importance of innovative geophysical methods in modern mineral exploration.</p>

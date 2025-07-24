@@ -1,0 +1,16 @@
++++
+title = "Mullen Automotive Rebrands to Bollinger Innovations, Signaling Strategic Shift in EV Market"
+date = "2025-07-24T14:40:30Z"
+draft = false
+summary = "Mullen Automotive Inc. announces a rebrand to Bollinger Innovations, Inc., reflecting its strategic focus on commercial electric vehicles and marking a significant milestone in its growth and market positioning."
+description = "Mullen Automotive rebrands to Bollinger Innovations, marking a strategic shift towards commercial EVs, with significant tax credits and incentives for buyers."
+source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-mullen-automotive-inc-nasdaq-muln-to-begin-trading-as-bollinger-innovations-nasdaq-bini-on-july-28/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/24/a0d342eb86903c21c9fd75428060e730.png"
+article_id = 116632
+feed_item_id = 17496
+url = "/202507/116632-mullen-automotive-rebrands-to-bollinger-innovations-signaling-strategic-shift-in-ev-market"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/24/keepRno1.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Mullen Automotive Inc., a leading name in the electric vehicle (EV) manufacturing sector, is embarking on a transformative journey by rebranding to Bollinger Innovations, Inc., effective July 28, 2025. This strategic move, as announced by CEO David Michery, aims to consolidate the company's focus on commercial vehicles, without altering its legal structure or operational framework. The rebranding includes a change in the company's ticker symbol to BINI on the Nasdaq Capital Market, while the CUSIP number remains the same, ensuring a seamless transition for stakeholders.</p><p>The timing of this rebranding is pivotal, coming on the heels of Mullen Automotive's notable achievements in the commercial EV space. The company has not only commenced commercial vehicle production at its Tunica, Mississippi plant in August 2023 but has also secured IRS approval for federal EV tax credits, offering up to $7,500 per vehicle. These developments, coupled with CARB and EPA certifications for its Mullen ONE and Mullen THREE models, underscore the company's commitment to environmental standards and market expansion. The Mullen THREE, in particular, stands out for its eligibility for up to a $45,000 cash voucher under the CARB-issued HVIP approval, enhancing its appeal to commercial buyers.</p><p>Further bolstering its market presence, Mullen Automotive has expanded its commercial dealer network to seven dealers, including the recent partnership with Papé Kenworth. This expansion significantly enhances the company's sales and service coverage across crucial markets. Additionally, the Foreign Trade Zone status approval for its Tunica manufacturing center offers financial advantages, such as duty deferment and elimination on exported vehicles, reinforcing the company's competitive edge in the global EV market.</p><p>This rebranding to Bollinger Innovations, Inc. not only reflects Mullen Automotive's strategic pivot towards commercial vehicles but also signals its ambition to lead in the evolving EV landscape. With a solid foundation of regulatory approvals, financial incentives, and an expanding dealer network, the company is well-positioned to capitalize on the growing demand for sustainable commercial transportation solutions.</p>
