@@ -1,0 +1,16 @@
++++
+title = "QuantumScape and PowerCo SE Expand Collaboration to Accelerate Solid-State Battery Development"
+date = "2025-07-23T22:00:45Z"
+draft = false
+summary = "QuantumScape Corporation and PowerCo SE have strengthened their partnership to expedite the industrialization of solid-state lithium-metal batteries, marking a significant step forward in battery technology."
+description = "QuantumScape and PowerCo expand partnership to accelerate solid-state battery tech, marking a leap towards sustainable energy solutions."
+source_link = "https://www.citybiz.co/article/722096/quantumscape-expands-collaboration-with-vw-battery-subsidiary-powerco/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/403ce9829c61a901ecf1020822f99e2a.png"
+article_id = 116236
+feed_item_id = 17455
+url = "/202507/116236-quantumscape-and-powerco-se-expand-collaboration-to-accelerate-solid-state-battery-development"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/23/bendhI07.webp"
+source = "citybiz"
++++
+
+<p>QuantumScape Corporation, a pioneer in solid-state lithium-metal battery technology, has announced an enhanced collaboration with PowerCo SE, Volkswagen Group's battery division, to accelerate the development of the QSE-5 battery pilot line in San Jose. This partnership is a crucial advancement towards the mass production of solid-state batteries, promising to redefine energy storage solutions for the automotive industry and beyond.</p><p>The updated agreement includes PowerCo's commitment to invest up to $131 million over the next two years, based on the achievement of specific milestones by the collaborative scale-up team. These payments are expected to begin in 2025, adding to the initial $130 million tied to technical advancements and the execution of a licensing agreement. This financial infusion underscores the confidence in QuantumScape's technology and its potential to meet the growing demand for more efficient, safer, and higher-capacity batteries.</p><p>By involving PowerCo earlier in the QSE-5 production and automation processes, the partnership aims to streamline the pilot line's ramp-up, facilitating a smoother transition to large-scale manufacturing. This collaboration not only accelerates the technology transfer necessary for global market introduction but also enables PowerCo to increase prototype cell deliveries. Furthermore, it grants PowerCo the capability to produce an additional 5 GWh of QSE-5-based cells annually, extending its application beyond the Volkswagen Group to other potential customers, and to license future QuantumScape technologies.</p><p>Dr. Siva Sivaram, CEO and president of QuantumScape, emphasized the significance of this agreement, highlighting the strengthened strategic, technical, and financial alignment between QuantumScape and PowerCo. This partnership reflects a shared vision for the QSE-5 battery's role in transforming the battery industry, offering a glimpse into the future of energy storage with its potential for higher energy density, faster charging times, and improved safety features compared to conventional lithium-ion batteries.</p>

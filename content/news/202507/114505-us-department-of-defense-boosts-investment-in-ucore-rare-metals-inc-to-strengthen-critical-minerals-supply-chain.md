@@ -6,7 +6,6 @@ summary = "The U.S. Department of Defense has allocated an additional $18.4 mill
 description = "U.S. DoD invests $18.4M in Ucore Rare Metals to secure critical minerals for national defense, reducing reliance on foreign sources. Learn more about this strategic move."
 source_link = "https://rss.investorbrandnetwork.com/esg/ucore-rare-metals-inc-tsx-v-ucu-otcqx-uuraf-advances-critical-minerals-defense-strategy/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/23/099ed962aebdd612c2082a51e5d7d5b0.png"
-featured = true
 article_id = 114505
 feed_item_id = 17440
 url = "/202507/114505-us-department-of-defense-boosts-investment-in-ucore-rare-metals-inc-to-strengthen-critical-minerals-supply-chain"

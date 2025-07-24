@@ -1,0 +1,16 @@
++++
+title = "CivilGrid Expands into Arizona and Nevada Markets to Revolutionize Civil Engineering Planning"
+date = "2025-07-24T10:10:44Z"
+draft = false
+summary = "CivilGrid's expansion into Arizona and Nevada introduces its innovative civil design intelligence platform to these markets, aiming to significantly reduce planning-related errors and financial losses in the construction industry."
+description = "CivilGrid expands into Arizona & Nevada, offering a groundbreaking platform for underground utility mapping to streamline construction planning and reduce errors."
+source_link = "https://www.citybiz.co/article/722306/civilgrid-expands-into-arizona-and-nevada-markets/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5e72e4b27761eb0075d4f6fe87cfb310.jpg"
+article_id = 116094
+feed_item_id = 17472
+url = "/202507/116094-civilgrid-expands-into-arizona-and-nevada-markets-to-revolutionize-civil-engineering-planning"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/24/wamcdt3i.webp"
+source = "citybiz"
++++
+
+<p>CivilGrid, a leader in civil design intelligence, has announced its strategic expansion into the Arizona and Nevada markets. This move is set to transform the civil engineering and construction landscape by addressing the critical challenges of planning-related errors and financial losses. The platform, renowned for its efficiency, aggregates utility maps and historical site data, likened to 'Google Maps for the underground,' to streamline the planning and design process.</p><p>The construction industry faces annual financial setbacks due to planning inaccuracies, with 92% of projects exceeding their budget or schedule. CivilGrid's innovative solution promises to mitigate these issues by offering a comprehensive dataset that can accelerate pre-construction phases by up to 90%. This advancement not only reduces design delays but also minimizes unexpected surprises during field execution, marking a significant leap forward in project management and execution.</p><p>Industry experts have lauded the platform for its utility and efficiency. Caisey Raines, US West Business Group Leader at Linear Infrastructure GHD, praised CivilGrid for its immediate access to utility information and its effectiveness in identifying impacted agencies and capturing field observations. Bill Tuttle, VP of Engineering at San Jose Water, also endorsed the platform as a dependable resource for combined utility information, a rarity in most regions.</p><p>The decision to expand into Arizona and Nevada was driven by the recognition of similar challenges faced by engineering teams in these areas, including fragmented data sources and the need for better coordination between office planning and field operations. Josh Mackanic, CEO and Co-Founder of CivilGrid, highlighted the platform's capability to centralize essential datasets, thereby eliminating inefficiencies and reducing both design delays and field surprises. For more information, visit <a href='https://www.civilgrid.com' rel='nofollow' target='_blank'>https://www.civilgrid.com</a>.</p>
