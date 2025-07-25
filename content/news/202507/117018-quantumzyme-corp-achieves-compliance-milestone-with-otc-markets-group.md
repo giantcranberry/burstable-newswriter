@@ -6,7 +6,6 @@ summary = "Quantumzyme Corp. has successfully removed its 'Caveat Emptor' design
 description = "Quantumzyme Corp. achieves regulatory milestone with OTC Markets, enhancing transparency and commitment to sustainable biotech innovations."
 source_link = "https://www.newmediawire.com/news/quantumzyme-announces-removal-of-otc-markets-caveat-emptor-designation-7081504"
 enclosure = "https://cdn.newsramp.app/genai/images/257/24/da923a0a97afa9073220c662c6a3f95a.png"
-featured = true
 article_id = 117018
 feed_item_id = 17531
 url = "/202507/117018-quantumzyme-corp-achieves-compliance-milestone-with-otc-markets-group"

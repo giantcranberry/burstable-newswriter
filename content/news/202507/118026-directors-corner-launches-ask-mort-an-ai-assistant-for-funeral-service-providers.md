@@ -1,0 +1,16 @@
++++
+title = "Director’s Corner Launches Ask Mort™, an AI Assistant for Funeral Service Providers"
+date = "2025-07-23T16:05:27Z"
+draft = false
+summary = "Ask Mort™, a new AI assistant by Director’s Corner, is set to revolutionize the funeral service industry by automating routine inquiries and administrative tasks, allowing staff to focus on compassionate care."
+description = "Director's Corner introduces Ask Mort™, an AI agent for funeral services, automating tasks to improve care. Discover how at directorscorner.app."
+source_link = "https://newsworthy.ai/news/202507231584/ask-morttm-by-directors-corner-moving-beyond-generic-chatbots-with-specialized-ai-for-end-of-life-care"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/6188d863fc35aa25d8630cd2b21a2edf.png"
+article_id = 118026
+feed_item_id = 17342
+url = "/202507/118026-directors-corner-launches-ask-mort-an-ai-assistant-for-funeral-service-providers"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/257/23/pitapicouhy3.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Director’s Corner has unveiled Ask Mort™, a specialized AI assistant aimed at transforming operations within the funeral service industry. This innovative tool is designed to support funeral homes, crematories, cemeteries, hospice providers, and pet aftercare services by automating routine inquiries and administrative tasks. The introduction of Ask Mort™ represents a significant step forward in leveraging technology to enhance efficiency and compassion in a sector where both are paramount.</p><p>Ask Mort™ provides 24/7 automated support, capable of answering frequently asked questions instantly. This feature is expected to significantly reduce call volume and after-hours workload for staff, enabling them to dedicate more time and energy to providing personalized care to grieving families. The AI assistant also facilitates personalized onboarding for families, guiding them through initial questions and collecting essential details before human interaction is required. For more complex inquiries, Ask Mort™ seamlessly escalates the conversation to staff, equipped with full context to ensure a smooth transition.</p><p>Custom-trained for accuracy, Ask Mort™ leverages each provider’s website, pricing lists, and policies to deliver precise and relevant responses. It further streamlines operations by automating the sending of requested documents via chat, thereby eliminating the need for manual follow-ups. Beyond operational efficiencies, Ask Mort™ offers valuable data-driven insights through a comprehensive analytics dashboard. This dashboard tracks top questions, sentiment trends, and staff efficiency, providing funeral service providers with actionable intelligence to improve their services.</p><p>Angela Human, Founding Partner of Director’s Corner, highlighted that Ask Mort™ is more than just a chatbot; it is a conversational AI built specifically for the nuances of funeral service. By taking over routine tasks, Ask Mort™ allows directors and staff to concentrate on what truly matters: offering empathy and care to families during their time of need. The launch of Ask Mort™ underscores the potential of AI to not only enhance operational efficiency but also to deepen the human connection in industries where compassion is critical.</p>
