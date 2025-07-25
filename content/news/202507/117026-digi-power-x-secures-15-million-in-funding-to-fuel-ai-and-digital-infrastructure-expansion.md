@@ -1,0 +1,16 @@
++++
+title = "Digi Power X Secures $15 Million in Funding to Fuel AI and Digital Infrastructure Expansion"
+date = "2025-07-24T18:20:30Z"
+draft = false
+summary = "Digi Power X Inc. has successfully completed a $15 million registered direct offering to expand its NeoCloud GPU-as-a-Service platform and modular data center pods, signaling strong investor confidence in the AI and digital infrastructure sectors."
+description = "Titan Partners facilitates a $15M offering for Digi Power X Inc., fueling AI and digital infrastructure growth. A strategic move in tech investment."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-titan-partners-group-llc-leads-15-million-direct-offering-for-digi-power-x-nasdaq-dgxx-tsx-v-dgx/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/24/0e3606b5064c1063e786ab13927f02c6.png"
+article_id = 117026
+feed_item_id = 17517
+url = "/202507/117026-digi-power-x-secures-15-million-in-funding-to-fuel-ai-and-digital-infrastructure-expansion"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/24/voltP127.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Digi Power X Inc. (NASDAQ: DGXX / TSX.V: DGX), a leader in AI and digital infrastructure, has announced the successful completion of a $15 million registered direct offering. The offering, led by Titan Partners Group LLC, a division of American Capital Partners, involved the sale of 4,807,693 shares of common stock or pre-funded warrants at $3.12 per share to a single new fundamental institutional investor. This strategic financial move is set to bolster Digi Power X's position in the rapidly growing AI and digital infrastructure markets.</p><p>The proceeds from this offering are primarily allocated for the global expansion of Digi Power X's NeoCloud GPU-as-a-Service platform, a cutting-edge solution that provides scalable and efficient computing power for AI applications. Additionally, funds will support the manufacturing and distribution of its ARMS 200 Tier 3 modular data center pods, which offer flexible and energy-efficient data center solutions. The company also plans to invest in strategic energy-backed deployments, further enhancing its infrastructure capabilities.</p><p>Upon the anticipated closing of the offering around July 22, 2025, subject to approval from the TSX Venture Exchange and the fulfillment of customary conditions, Digi Power X is expected to have over $30 million in cash reserves with no long-term debt. This financial stability positions the company for sustained growth and innovation in the AI and digital infrastructure sectors.</p><p>The involvement of Titan Partners Group LLC as the sole placement agent for this offering underscores the confidence in Digi Power X's business model and its potential for significant growth. This development not only highlights the increasing demand for AI and digital infrastructure solutions but also Digi Power X's strategic initiatives to meet this demand effectively. For more information on the offering, visit <a href='https://ibn.fm/BhO5M' rel='nofollow' target='_blank'>https://ibn.fm/BhO5M</a>.</p>

@@ -1,0 +1,16 @@
++++
+title = "South Fork Instruments Enhances Environmental Monitoring with Remote Optical Watchers"
+date = "2025-07-23T16:10:52Z"
+draft = false
+summary = "South Fork Instruments' incorporation of Remote Optical Watchers (ROW) for oil on water detection marks a significant advancement in environmental monitoring technology, offering industries a reliable tool for preventing environmental releases."
+description = "South Fork Instruments introduces Remote Optical Watchers for real-time oil on water detection, enhancing environmental monitoring and compliance in various industries."
+source_link = "https://www.24-7pressrelease.com/press-release/525083/south-fork-instruments-expands-portfolio-with-oil-on-water-measurement-using-fluorescence-based-remote-optical-watchers"
+enclosure = "https://cdn.newsramp.app/genai/images/257/23/c34a424dc698e36ae17ca3672cc672cf.png"
+article_id = 116873
+feed_item_id = 17359
+url = "/202507/116873-south-fork-instruments-enhances-environmental-monitoring-with-remote-optical-watchers"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/23/tintQG5C.webp"
+source = "24-7 Press Release"
++++
+
+<p>South Fork Instruments has recently expanded its portfolio by integrating Remote Optical Watchers (ROW) for oil on water detection, a development that promises to revolutionize environmental monitoring. This technology, developed by Laser Diagnostic Instruments, employs ultraviolet-induced fluorescence to identify oil films on water surfaces in real time, eliminating the need for physical contact. Its application spans across refining, marine, aviation, and utilities sectors, providing these industries with localized, continuous monitoring capabilities to avert environmental disasters.</p><p>The ROW sensors stand out for their autonomous operation in demanding conditions, housed in an IP68-rated enclosure capable of detecting hydrocarbon films as thin as 1 micron from distances up to 10 meters. The fluorescence-based technology's resilience to surface turbulence and lighting variations makes it exceptionally versatile, suitable for use in open water, bund walls, and stormwater outfalls. Its high sensitivity, minimal false alarms, and robustness in harsh environments are complemented by options like a stainless steel 316L enclosure for marine applications, ensuring durability and reliability.</p><p>John Daly, Technical Director at South Fork Instruments, highlighted the ROW's role in assisting clients to meet stringent compliance standards and mitigate environmental risks. The technology's global deployment in settings such as airports, oil refineries, and desalination plants demonstrates its efficacy in facilitating swift responses to oil spills, thereby minimizing remediation efforts and preventing offsite contamination. With its low power consumption and adaptability to solar or battery systems, the ROW is particularly suited for remote locations, offering a comprehensive solution for early hydrocarbon detection.</p><p>For more information on the Remote Optical Watchers and other innovative solutions, visit <a href='https://www.southforkinst.com' rel='nofollow' target='_blank'>https://www.southforkinst.com</a>.</p>

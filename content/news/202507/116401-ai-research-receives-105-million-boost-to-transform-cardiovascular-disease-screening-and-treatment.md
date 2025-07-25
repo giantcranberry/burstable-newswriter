@@ -6,7 +6,6 @@ summary = "Kaiser Permanente and the University of Michigan teams secure funding
 description = "Discover how $10.5M in grants is fueling AI research to revolutionize cardiovascular disease screening and treatment, promising a healthier future for all."
 source_link = "https://www.newmediawire.com/news/researchers-awarded-10-5-million-to-study-use-of-ai-in-addressing-cardiovascular-disease-7081502"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/b24f5455b0e53dc904266170c87c15bfNone"
-featured = true
 article_id = 116401
 feed_item_id = 17511
 url = "/202507/116401-ai-research-receives-105-million-boost-to-transform-cardiovascular-disease-screening-and-treatment"

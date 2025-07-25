@@ -1,0 +1,16 @@
++++
+title = "Kaplan Fox & Kilsheimer LLP Strengthens Litigation Team with High-Profile Additions"
+date = "2025-07-23T20:20:09Z"
+draft = false
+summary = "Kaplan Fox & Kilsheimer LLP enhances its litigation and eDiscovery capabilities by welcoming Ariana J. Tadler and A.J. de Bartolomeo as Of Counsel, signaling a strategic move to bolster client services and professional development within the firm."
+description = "Kaplan Fox & Kilsheimer LLP strengthens its team with Ariana J. Tadler and A.J. de Bartolomeo as Of Counsel, enhancing its legal expertise and client service."
+source_link = "https://www.newmediawire.com/news/prominent-trial-lawyers-ariana-j-tadler-and-a-j-de-bartolomeo-join-kaplan-fox-kilsheimer-llp-as-of-counsel-7081475"
+enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/1da451ad2ebbe9edbfb45035c59997f8None"
+article_id = 116854
+feed_item_id = 17448
+url = "/202507/116854-kaplan-fox-kilsheimer-llp-strengthens-litigation-team-with-high-profile-additions"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/23/dashqnyD.webp"
+source = "NewMediaWire"
++++
+
+<p>Kaplan Fox & Kilsheimer LLP has recently announced the addition of Ariana J. Tadler and A.J. de Bartolomeo to its team as Of Counsel, a strategic move aimed at strengthening the firm's litigation and eDiscovery capabilities. Both attorneys bring a wealth of experience and a proven track record in handling complex consumer, antitrust, and securities class actions, which is expected to significantly enhance the firm's ability to manage strategic litigation and trial advocacy.</p><p>Ariana J. Tadler, returning to Kaplan Fox after her tenure as a summer associate and co-founder of Tadler Law, brings her extensive experience in litigation and eDiscovery to the firm. A.J. de Bartolomeo, known for her collaboration with Kaplan Fox on several high-profile cases, adds her expertise in complex litigation to the team. Their roles will not only focus on advancing the firm's litigation strategies but also on mentoring junior attorneys, thereby fostering a culture of professional growth and development within the firm.</p><p>Fred Fox, a senior partner at Kaplan Fox, expressed his enthusiasm about the new additions, emphasizing their reputation as skilled litigators and their potential to contribute to the firm's success. The inclusion of Tadler and de Bartolomeo is seen as a strategic alignment that leverages their individual reputations and the firm's resources to deliver superior legal services to clients nationwide. Despite their new roles at Kaplan Fox, both attorneys will continue to lead Tadler Law, ensuring its continued operation as a women-owned business.</p><p>This development is significant for the legal industry, as it underscores the importance of strategic hiring in enhancing a firm's capabilities and service offerings. For clients and the broader legal community, the addition of Tadler and de Bartolomeo to Kaplan Fox represents a commitment to excellence in litigation and a forward-looking approach to legal practice management.</p>
