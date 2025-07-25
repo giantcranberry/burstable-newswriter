@@ -6,7 +6,6 @@ summary = "Nail Communications initiates a campaign with free NPAH bumper sticke
 description = "Nail Communications supports public media with NPAH bumper stickers, highlighting the importance of local journalism and storytelling in communities."
 source_link = "https://www.citybiz.co/article/722938/in-reaction-to-federal-cuts-nail-celebrates-regional-public-radio-with-npah-bumper-stickers/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/10e00a36b5d39841f7642ddfe1547bbf.png"
-featured = true
 article_id = 117665
 feed_item_id = 17564
 url = "/202507/117665-nail-communications-launches-campaign-to-support-regional-public-radio-amid-federal-funding-cuts"
