@@ -6,7 +6,6 @@ summary = "Nicola Mining Inc. has started processing high-grade gold and silver 
 description = "Nicola Mining Inc. begins processing high-grade gold and silver ore at Merritt Mill, aiming for 21,000 oz gold-equivalent annually. A key step for BC's mining sector."
 source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-nicola-mining-inc-tsx-v-nim-otcqb-husif-poised-for-steady-production-long-term-success-in-british-columbia/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/25/7f2cf4e33e7dc40b641ccad3a42ba423.png"
-featured = true
 article_id = 118784
 feed_item_id = 17586
 url = "/202507/118784-nicola-mining-inc-begins-processing-high-grade-gold-and-silver-ore-at-merritt-mill"
