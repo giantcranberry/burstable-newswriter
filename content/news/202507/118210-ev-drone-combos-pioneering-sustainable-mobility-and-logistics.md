@@ -6,7 +6,6 @@ summary = "The integration of drones with electric vehicles marks a transformati
 description = "Discover how EV-drone combos are shaping the future of transportation, with insights from GreenCarStocks and the role of renewable energy in this innovative trend."
 source_link = "https://rss.investorbrandnetwork.com/gcs/ev%e2%80%91drone-combo-trend-is-gathering-momentum/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/25/496cb1ad12634e8fde6d65d97585ad24.png"
-featured = true
 article_id = 118210
 feed_item_id = 17573
 url = "/202507/118210-ev-drone-combos-pioneering-sustainable-mobility-and-logistics"
