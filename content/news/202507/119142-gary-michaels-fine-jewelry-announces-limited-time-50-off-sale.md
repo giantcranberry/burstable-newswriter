@@ -6,7 +6,6 @@ summary = "Gary Michaels Fine Jewelry is offering a 50% discount on a wide range
 description = "Gary Michaels Fine Jewelry's exclusive sale offers 50% off fine jewelry, diamonds, and more in Manalapan, NJ. Don't miss this limited-time opportunity for luxury at unbeatable prices."
 source_link = "https://www.24-7pressrelease.com/press-release/525235/enjoy-50-off-nearly-everything-at-gary-michaels-fine-jewelry-for-one-week-only"
 enclosure = "https://cdn.newsramp.app/genai/images/257/26/479b513b9d09e05e9cb342ee68ddbf22.png"
-featured = true
 article_id = 119142
 feed_item_id = 17595
 url = "/202507/119142-gary-michaels-fine-jewelry-announces-limited-time-50-off-sale"
