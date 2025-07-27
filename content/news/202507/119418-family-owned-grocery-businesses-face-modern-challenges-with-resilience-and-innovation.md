@@ -6,7 +6,6 @@ summary = "Marshall Klein discusses the legacy and challenges of family-owned gr
 description = "David Nevins interviews Marshall Klein, President of Klein’s ShopRites of Maryland, discussing family business legacy and retail innovation. Read more on citybiz."
 source_link = "https://www.citybiz.co/article/719968/david-nevins-interviews-marshall-klein-president-at-kleins-shoprites-of-maryland/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3f2476ea860c9742c908bfff44be653a.jpg"
-featured = true
 article_id = 119418
 feed_item_id = 17597
 url = "/202507/119418-family-owned-grocery-businesses-face-modern-challenges-with-resilience-and-innovation"
