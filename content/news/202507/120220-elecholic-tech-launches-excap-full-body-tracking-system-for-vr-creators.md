@@ -6,7 +6,6 @@ summary = "Elecholic Tech's EXCAP full-body tracking system now available for re
 description = "Elecholic Tech launches EXCAP, a pro-grade VR motion capture system, making immersive experiences accessible to all creators. Available now for $359."
 source_link = "https://www.24-7pressrelease.com/press-release/525252/excap-hyper-performance-auto-calibration-full-body-tracking-now-available-at-retail"
 enclosure = "https://cdn.newsramp.app/genai/images/257/27/7e8839755973be7f2095da75c2331b2b.png"
-featured = true
 article_id = 120220
 feed_item_id = 17599
 url = "/202507/120220-elecholic-tech-launches-excap-full-body-tracking-system-for-vr-creators"

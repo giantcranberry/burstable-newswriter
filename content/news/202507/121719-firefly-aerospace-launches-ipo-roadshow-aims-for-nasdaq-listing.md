@@ -1,0 +1,16 @@
++++
+title = "Firefly Aerospace Launches IPO Roadshow, Aims for Nasdaq Listing"
+date = "2025-07-28T11:35:32Z"
+draft = false
+summary = "Firefly Aerospace's IPO roadshow marks a significant step in its growth strategy, offering 16.2 million shares with potential implications for the space and defense technology sectors."
+description = "Firefly Aerospace announces IPO, offering shares at $35-$39, to fund space and defense innovations, with leading banks managing the offering."
+source_link = "https://www.citybiz.co/article/723262/firefly-aerospace-announces-launch-of-ipo/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d3509a8047f76e4ff2c942114a78f9d0.png"
+article_id = 121719
+feed_item_id = 17627
+url = "/202507/121719-firefly-aerospace-launches-ipo-roadshow-aims-for-nasdaq-listing"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/28/vibetL6H.webp"
+source = "citybiz"
++++
+
+<p>Firefly Aerospace, a prominent player in the space and defense technology arena, has initiated the roadshow for its initial public offering (IPO), setting the stage for a significant financial milestone. The company plans to offer 16,200,000 shares of common stock, with an additional option for underwriters to purchase up to 2,430,000 shares within 30 days at the IPO price, less underwriting fees. The shares are anticipated to be priced between $35.00 and $39.00, aiming for a listing on the Nasdaq Global Market under the ticker symbol 'FLY'.</p><p>The capital raised from this IPO is designated for several key purposes, including the repayment of outstanding credit agreement borrowings, the settlement of unpaid dividends on preferred stock, and the coverage of general corporate expenses. This move underscores Firefly Aerospace's strategic efforts to strengthen its financial foundation and accelerate its growth trajectory in the competitive space and defense technology sectors.</p><p>Leading the charge in this offering are Goldman Sachs & Co. LLC, J.P. Morgan, Jefferies, and Wells Fargo Securities, serving as lead bookrunning managers. They are supported by Morgan Stanley, Deutsche Bank Securities, and Cantor as joint bookrunners, with Roth Capital Partners and Academy Securities acting as co-managers. This collaboration highlights the confidence of leading financial institutions in Firefly Aerospace's market potential and business model.</p><p>It is important to note that a registration statement concerning these securities has been filed with the U.S. Securities and Exchange Commission but has not yet become effective. Consequently, the securities cannot be sold, nor can offers to buy be accepted, prior to the registration statement's effectiveness. This announcement is not an offer to sell or a solicitation of an offer to buy, and no sale will occur in any jurisdiction where such an offer, solicitation, or sale would be unlawful before registration or qualification under the securities laws of that jurisdiction.</p><p>This IPO represents a pivotal moment for Firefly Aerospace, offering insights into the company's valuation and the broader interest in space and defense technology investments. For industry leaders and investors, the outcome of this offering could signal trends in funding and growth opportunities within these rapidly evolving sectors.</p>
