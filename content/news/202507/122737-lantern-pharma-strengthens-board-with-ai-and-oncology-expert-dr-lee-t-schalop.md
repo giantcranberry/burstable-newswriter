@@ -1,0 +1,16 @@
++++
+title = "Lantern Pharma Strengthens Board with AI and Oncology Expert Dr. Lee T. Schalop"
+date = "2025-07-28T16:15:42Z"
+draft = false
+summary = "Lantern Pharma enhances its AI-driven oncology drug discovery efforts by appointing Dr. Lee T. Schalop, a leader in biotechnology and targeted cancer therapies, to its Board of Directors."
+description = "Lantern Pharma enhances its board with Dr. Lee T. Schalop, aiming to accelerate AI-driven oncology drug development and bring innovative cancer treatments to market faster."
+source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-lantern-pharma-nasdaq-ltrn-appoints-dr-lee-t-schalop-to-board-to-bolster-ai-driven-precision-oncology/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/28/8d3cf6d13ebcb87aa16f5e4c5f519d4c.png"
+article_id = 122737
+feed_item_id = 17645
+url = "/202507/122737-lantern-pharma-strengthens-board-with-ai-and-oncology-expert-dr-lee-t-schalop"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/28/gulfd5I9.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lantern Pharma (NASDAQ: LTRN), a clinical-stage biopharmaceutical company leveraging artificial intelligence (AI) and genomic data to transform oncology drug discovery, has announced the appointment of Dr. Lee T. Schalop to its Board of Directors. Dr. Schalop's extensive experience in biotechnology, particularly in developing targeted therapies for solid tumors such as HK327M-mutant gliomas, positions him as a valuable asset to Lantern Pharma. His background includes co-founding and leading Oncoceutics Inc., which was acquired by Chimerix Inc. and later by Jazz Pharmaceuticals, highlighting his expertise in neurooncology and strategic business operations.</p><p>Panna Sharma, CEO of Lantern Pharma, emphasized the significance of Dr. Schalop's appointment, noting his alignment with the company's mission to utilize AI for speeding up the development of precision oncology treatments. Dr. Schalop's insights are expected to be especially beneficial for Starlight Therapeutics, Lantern Pharma's subsidiary focused on central nervous system (CNS) cancers. Dr. Schalop shared his excitement about joining Lantern Pharma and contributing to its innovative approach to drug development, which aims to expand treatment options for patients with limited choices.</p><p>Lantern Pharma's proprietary AI and machine learning platform, RADR(R), plays a pivotal role in the company's drug discovery process. By integrating over 200 billion oncology-focused data points and more than 200 advanced ML algorithms, RADR(R) addresses key challenges in oncology drug development. This technology has enabled Lantern Pharma to drastically reduce both the time and cost of advancing new therapies from initial AI insights to clinical trials, with programs typically progressing in 2-3 years at an average cost of $2.5 million per program. The addition of Dr. Schalop to the Board is a strategic step aimed at bolstering Lantern Pharma's capabilities in AI-driven drug discovery and development, with a focus on precision oncology.</p>

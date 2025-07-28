@@ -6,7 +6,6 @@ summary = "Dropzone AI's recent $37 million Series B funding round, led by Theor
 description = "Dropzone AI secures $37M in Series B funding to lead the AI SOC market, transforming cybersecurity with autonomous agents that reduce risks and costs."
 source_link = "https://www.citybiz.co/article/723152/dropzone-ai-secures-37m-series-b-led-by-theory-ventures/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/46e7424037bc5c94c8f9173b8e0f22ad.png"
-featured = true
 article_id = 121544
 feed_item_id = 17638
 url = "/202507/121544-dropzone-ai-secures-37-million-in-series-b-funding-to-revolutionize-cybersecurity-with-autonomous-ai-agents"

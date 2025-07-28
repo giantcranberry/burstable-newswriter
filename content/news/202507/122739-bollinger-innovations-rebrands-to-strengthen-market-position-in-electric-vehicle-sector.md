@@ -1,0 +1,16 @@
++++
+title = "Bollinger Innovations Rebrands to Strengthen Market Position in Electric Vehicle Sector"
+date = "2025-07-28T16:15:41Z"
+draft = false
+summary = "Bollinger Innovations, Inc. transitions from Mullen Automotive Inc., unifying its electric vehicle lineup under a single brand to enhance market presence and continue its leadership in the EV sector."
+description = "Bollinger Innovations rebrands and unifies its EV lineup under a new Nasdaq symbol, signaling growth in the electric vehicle sector. Learn more about its impact."
+source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-bollinger-innovations-inc-nasdaq-bini-completes-name-and-ticker-change-from-mullen-automotive/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/28/3282f6b506f12f3aae863d3d7a9ce174.png"
+article_id = 122739
+feed_item_id = 17643
+url = "/202507/122739-bollinger-innovations-rebrands-to-strengthen-market-position-in-electric-vehicle-sector"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/28/nina6gaK.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Bollinger Innovations, Inc. (NASDAQ: BINI) has officially completed its transition from Mullen Automotive Inc., marking a significant milestone in the company's brand evolution. Effective July 28, 2025, the company not only adopted a new Nasdaq stock symbol 'BINI' but also consolidated its commercial Class 1, 3, and 4 electric vehicles under a single brand. This strategic rebranding, as highlighted by CEO and Chairman David Michery, does not entail any changes to the company's legal structure or operational framework, ensuring a seamless transition for all stakeholders.</p><p>Headquartered in Southern California with manufacturing operations in Tunica, Mississippi, Bollinger Innovations is pioneering the next generation of commercial electric vehicles. The company's product lineup, including the Class 1 EV cargo van, ONE, and the Class 3 EV cab chassis truck, THREE, has garnered certification from the California Air Resource Board and the EPA, facilitating nationwide sales. This achievement underscores the company's commitment to delivering environmentally friendly and efficient transportation solutions.</p><p>The rebranding follows the acquisition of Bollinger Motors in September 2022, a move that has propelled the company to new heights. Notable accomplishments since the acquisition include the launch of the B4, Class 4 electric truck, and the expansion of a comprehensive dealer network across the United States. These developments not only enhance Bollinger Innovations' product offerings but also ensure widespread sales and service coverage, reinforcing its competitive edge in the electric vehicle market.</p><p>This strategic rebranding and consolidation of its electric vehicle lineup under the Bollinger Innovations banner signify the company's dedication to innovation and leadership in the electric vehicle sector. By streamlining its brand identity, Bollinger Innovations is poised to strengthen its market presence, attract potential investors, and continue its trajectory of growth and innovation in the rapidly evolving electric vehicle industry.</p>
