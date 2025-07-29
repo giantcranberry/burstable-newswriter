@@ -1,0 +1,16 @@
++++
+title = "StackGen Introduces Autonomous Infrastructure Platform to Revolutionize Cloud Management with AI"
+date = "2025-07-29T12:06:14Z"
+draft = false
+summary = "StackGen's new Autonomous Infrastructure Platform leverages AI to automate cloud infrastructure management, promising significant productivity gains and operational efficiencies for enterprises."
+description = "StackGen launches an AI-powered Autonomous Infrastructure Platform, transforming cloud management with self-operating AI agents for faster, secure, and efficient infrastructure."
+source_link = "https://www.citybiz.co/article/723783/stackgen-launches-autonomous-infrastructure-platform-unveiling-next-gen-ai-agents-to-build-and-manage-infrastructure/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/7083d51758091797a4c8cb20f00abec1.png"
+article_id = 124516
+feed_item_id = 17698
+url = "/202507/124516-stackgen-introduces-autonomous-infrastructure-platform-to-revolutionize-cloud-management-with-ai"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/29/mend81b1.webp"
+source = "citybiz"
++++
+
+<p>StackGen has launched its Autonomous Infrastructure Platform, a novel solution that employs next-generation AI agents to automate the construction and management of cloud infrastructure. This innovation addresses the critical issue of productivity losses and operational bottlenecks in enterprises, which are estimated to cost over $20 billion annually. By streamlining infrastructure provisioning, the platform reduces the time developers spend on such tasks from 23% to a minimal fraction, marking a pivotal shift in how IT infrastructure is managed.</p><p>The timing of this launch aligns with industry trends towards AI-managed infrastructure, as highlighted by Gartner's prediction that by 2028, at least 15% of daily IT infrastructure tasks will be performed semiautonomously by AI. Sachin Aggarwal, CEO of StackGen, underscores the platform's potential to transform enterprise infrastructure for an AI-centric future, overcoming the inefficiencies of manual processes.</p><p>At the heart of StackGen's platform are four self-operating pillars: Self-Building, Self-Governing, Self-Healing, and Self-Optimizing Infrastructure, each supported by specialized AI agents. These agents, named StackBuilder, StackGuard, StackHealer, and StackOptimizer, are designed to tackle specific infrastructure challenges, from generation and compliance to incident remediation and optimization of cost-performance ratios.</p><p>The platform's architecture features multi-agent intelligence, ensuring compatibility with existing technology stacks across major cloud platforms, data platforms, and DevOps tools. It offers customizable autonomy levels to suit organizational needs, with early adopters reporting impressive results, such as 95% automation in infrastructure provisioning and a tenfold increase in platform engineer productivity.</p><p>Already in use by industry leaders like Autodesk and SAP NS2, StackGen is set to expand its AI agent capabilities through 2025, with the goal of achieving fully autonomous infrastructure lifecycle management by 2026. This development signifies a major advancement in removing infrastructure obstacles and accelerating software delivery in the age of AI-driven development.</p>

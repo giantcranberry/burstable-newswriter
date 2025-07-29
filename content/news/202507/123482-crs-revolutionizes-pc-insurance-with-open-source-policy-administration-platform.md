@@ -6,7 +6,6 @@ summary = "Combined Ratio Solutions (CRS) introduces CRS OSPolicy, a license-fre
 description = "Michael Jones and Combined Ratio Solutions are transforming P&C insurance with open-source tech, empowering insurers globally. Discover how CRS is leading the change."
 source_link = "https://www.citybiz.co/article/721603/interview-with-michael-jones-co-ceo-of-combined-ratio-solutions/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/7b3b7fc4ccc36ce1fc4ec07812d557eb.jpg"
-featured = true
 article_id = 123482
 feed_item_id = 17666
 url = "/202507/123482-crs-revolutionizes-pc-insurance-with-open-source-policy-administration-platform"
