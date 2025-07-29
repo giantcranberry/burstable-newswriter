@@ -1,0 +1,16 @@
++++
+title = "Kwikset Enhances Home Security with New Hometown and Crosstown Deadbolts"
+date = "2025-07-29T15:35:36Z"
+draft = false
+summary = "Kwikset introduces the 258 Hometown and Crosstown deadbolts, combining style, security, and antimicrobial protection to meet diverse homeowner needs."
+description = "Kwikset launches Hometown & Crosstown deadbolts, blending style with SmartKey Security® for enhanced home protection. Available now in select finishes."
+source_link = "https://www.citybiz.co/article/724044/kwikset-launches-hometown-and-crosstown-deadbolts-as-part-of-258-low-profile-expansion/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/623a019b9988ecbcde73e1ca1fd344e4.jpg"
+article_id = 124754
+feed_item_id = 17718
+url = "/202507/124754-kwikset-enhances-home-security-with-new-hometown-and-crosstown-deadbolts"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/29/bestcHbn.webp"
+source = "citybiz"
++++
+
+<p>Kwikset has recently expanded its Signature Series line with the introduction of the 258 Hometown and Crosstown low profile deadbolts, marking a significant advancement in home security solutions. These new models are designed to seamlessly blend with a variety of architectural styles, from classic to contemporary, while incorporating Kwikset's patented SmartKey Security technology. This technology not only enhances protection against break-ins but also offers the convenience of easy re-keying, a feature that stands out in the market.</p><p>The Hometown and Crosstown deadbolts come in several finishes, including Satin Nickel, Satin Brass, and Matte Black, with the Hometown model also available in Venetian Bronze. Notably, select finishes are equipped with Microban antimicrobial protection, ensuring that the surfaces remain 99.9% cleaner than unprotected hardware. This addition addresses growing consumer concerns about hygiene and cleanliness in their living spaces. Furthermore, these deadbolts have been certified Grade AAA by the Builders Hardware Manufacturers Association, underscoring their security, durability, and ease of installation.</p><p>Amanda Archer, group manager of product marketing at Kwikset, emphasized the significance of these new products, stating, 'The expansion of our 258 series with Hometown and Crosstown gives homeowners more ways to enhance their front doors with timeless design and proven protection.' The deadbolts are currently available through Kwikset's professional distribution network, with the Hometown model starting at $39.49 and the Crosstown at $44.49. They will soon be accessible at major retailers and online platforms, making them a convenient option for homeowners looking to upgrade their home security.</p><p>This launch is particularly relevant in today's market, where homeowners are increasingly prioritizing both security and aesthetics in their home improvement projects. The combination of advanced security features, antimicrobial protection, and stylish designs positions the 258 Hometown and Crosstown deadbolts as a compelling choice for those seeking to enhance their home's safety and curb appeal. As the demand for smart and secure home solutions continues to grow, Kwikset's latest offerings are well-timed to meet the evolving needs of homeowners.</p>

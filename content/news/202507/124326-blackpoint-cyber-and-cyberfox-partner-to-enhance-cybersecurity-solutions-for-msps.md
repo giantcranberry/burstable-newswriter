@@ -6,7 +6,6 @@ summary = "Blackpoint Cyber and CyberFOX have teamed up to offer a bundled cyber
 description = "Blackpoint Cyber and CyberFOX partner to deliver integrated cybersecurity solutions, enhancing threat detection and response for businesses and MSPs worldwide."
 source_link = "https://www.citybiz.co/article/723998/blackpoint-cyber-and-cyberfox-announce-strategic-partnership/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5157f28aa2a858d9939c7186cd201e37.png"
-featured = true
 article_id = 124326
 feed_item_id = 17711
 url = "/202507/124326-blackpoint-cyber-and-cyberfox-partner-to-enhance-cybersecurity-solutions-for-msps"
