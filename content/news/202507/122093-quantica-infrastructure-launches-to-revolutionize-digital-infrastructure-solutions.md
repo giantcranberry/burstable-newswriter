@@ -6,7 +6,6 @@ summary = "Quantica Infrastructure's launch introduces a pioneering approach to 
 description = "Quantica Infrastructure, with EnCap Investments, launches to provide AI-optimized, hyperscale-ready digital infrastructure solutions, combining renewable energy and robust connectivity."
 source_link = "https://www.citybiz.co/article/723510/encap-investments-lp-unveils-quantica-infrastructure-to-provide-ai-optimized-hyperscale-ready-site-solutions-across-north-america/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6b4851ed2d0f97ba7e1dbc2f341c82cb.png"
-featured = true
 article_id = 122093
 feed_item_id = 17651
 url = "/202507/122093-quantica-infrastructure-launches-to-revolutionize-digital-infrastructure-solutions"

@@ -1,0 +1,16 @@
++++
+title = "Floor Coverings International Accelerates Expansion with 45 New Franchises in First Half of 2025"
+date = "2025-07-28T18:06:20Z"
+draft = false
+summary = "Floor Coverings International's strategic growth includes 45 new franchises and enhanced leadership to support franchisee success in the booming flooring industry."
+description = "Floor Coverings International awards 45 new franchises, strengthens leadership, and expands headquarters, offering entrepreneurs a lucrative opportunity in the growing flooring industry."
+source_link = "https://www.citybiz.co/article/723598/floor-coverings-international-awards-45-new-franchises-in-first-half-of-2025/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cbec22a85e5cc06bb754af173f3dc70c.png"
+article_id = 123641
+feed_item_id = 17656
+url = "/202507/123641-floor-coverings-international-accelerates-expansion-with-45-new-franchises-in-first-half-of-2025"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/28/ableUpqO.webp"
+source = "citybiz"
++++
+
+<p>Floor Coverings International (FCI), the premier flooring franchise in North America, has made significant strides in its expansion efforts by awarding 45 new franchises in the first half of 2025. This move is part of the company's ambitious plan to reach 100 new franchise agreements by the end of the year, demonstrating its commitment to responsible growth and strengthening its leadership in the flooring market.</p><p>To facilitate this expansion, FCI has strengthened its leadership team with nine key appointments, including Jesse Barrett as Director of Field Marketing and Colin Bradley as Director of Performance & Profitability. These strategic hires are designed to provide franchisees with unparalleled support in marketing, finance, and operations, ensuring their growth and profitability in a competitive industry.</p><p>The company has also unveiled its newly expanded worldwide headquarters in Atlanta, a state-of-the-art facility featuring hands-on training classrooms, mobile showroom access, and collaborative spaces. This investment underscores FCI's dedication to fostering innovation and learning among its franchise partners, equipping them with the tools and knowledge needed for success from the outset.</p><p>Tom Wood, President & CEO of Floor Coverings International, highlighted the significance of the new headquarters as a central hub for learning and connection, enabling franchise partners to thrive in a market with a projected annual growth rate of 2.4% over the next four years. With the top 50 percent of FCI operators generating an average revenue of $1.75 million in 2024, the franchise presents a compelling opportunity for entrepreneurs looking to enter the lucrative flooring industry.</p><p>FCI's innovative approach, including its Mobile Flooring Showrooms and comprehensive support teams, continues to drive the brand's expansion and the success of its franchisees, positioning the company for continued leadership in the flooring franchise sector.</p>
