@@ -1,0 +1,16 @@
++++
+title = "Splash Beverage Group Achieves NYSE American Compliance, Signaling Strong Financial Health"
+date = "2025-07-30T12:05:06Z"
+draft = false
+summary = "Splash Beverage Group, Inc. has successfully met the NYSE American's continued listing standards, marking a significant milestone for the company and its stakeholders by addressing previous deficiencies and removing the '.BC' indicator from its listing status."
+description = "Splash Beverage Group achieves NYSE American compliance, strengthening its market position and portfolio including Copa di Vino and Chispo tequilas."
+source_link = "https://www.newmediawire.com/news/splash-beverage-group-announces-continuation-of-its-listing-on-nyse-american-following-nyse-compliance-determination-7081585"
+enclosure = "https://cdn.newsramp.app/genai/images/257/30/bed70dbffe1097e985c2b9e3e3680808.png"
+article_id = 126652
+feed_item_id = 17783
+url = "/202507/126652-splash-beverage-group-achieves-nyse-american-compliance-signaling-strong-financial-health"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/30/voltX2_b.webp"
+source = "NewMediaWire"
++++
+
+<p>Splash Beverage Group, Inc. (NYSE American: SBEV) has recently announced its compliance with the NYSE American's continued listing standards, a critical development that underscores the company's financial resilience and strategic planning. This achievement follows the company's efforts to rectify deficiencies identified under Sections 1003(a)(i), (ii), and (iii) of the NYSE American Company Guide, leading to the removal of the '.BC' indicator from its listing status effective July 29, 2025.</p><p>Robert Nistico, CEO of Splash Beverage Group, shared his optimism about this milestone, attributing it to the collective dedication of the team to strengthen the company's financial foundation. This compliance not only reflects the company's commitment to financial discipline and governance but also positions it favorably for future growth and high-value opportunities, as highlighted by CFO Bill Devereux.</p><p>The implications of this announcement extend beyond the company's internal operations. For stakeholders and investors, Splash Beverage Group's adherence to the NYSE American's stringent standards is a positive indicator of the company's stability and potential for long-term growth. The company's diverse portfolio, featuring brands such as <a href='https://www.copadivino.com' rel='nofollow' target='_blank'>Copa di Vino</a>, <a href='https://www.chispotequila.com' rel='nofollow' target='_blank'>Chispo tequilas</a>, and <a href='https://www.pulpoloco.com' rel='nofollow' target='_blank'>Pulpoloco sangria</a>, is expected to benefit from this renewed focus on financial and operational excellence.</p><p>Further details regarding this development will be available in the company's forthcoming Form 8-K filing with the Securities and Exchange Commission. While forward-looking statements from Splash Beverage Group are subject to inherent risks and uncertainties, this compliance achievement represents a pivotal step towards ensuring the company's sustained success in the competitive beverage industry.</p>

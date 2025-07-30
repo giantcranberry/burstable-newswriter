@@ -6,7 +6,6 @@ summary = "Dropzone AI's launch of the world's first autonomous AI SOC analyst m
 description = "Edward Wu's Dropzone AI introduces autonomous AI SOC analysts, transforming cybersecurity with AI agents that multiply team efficiency, backed by 30+ patents and processing alerts for 100+ enterprises."
 source_link = "https://www.citybiz.co/article/724177/qa-with-edward-wu-founder-ceo-of-dropzone-ai/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/faaf829350a28925248c7561f258f6b6.png"
-featured = true
 article_id = 124740
 feed_item_id = 17737
 url = "/202507/124740-dropzone-ai-introduces-autonomous-ai-soc-analyst-revolutionizing-cybersecurity"

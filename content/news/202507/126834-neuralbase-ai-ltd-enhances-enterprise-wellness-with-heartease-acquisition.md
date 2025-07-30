@@ -1,0 +1,16 @@
++++
+title = "NeuralBase AI Ltd. Enhances Enterprise Wellness with HeartEase Acquisition"
+date = "2025-07-30T12:25:06Z"
+draft = false
+summary = "NeuralBase AI Ltd. acquires HeartEase, integrating AI-powered heart health screening into its enterprise chatbot ecosystem, marking a significant advancement in preventive healthcare technology."
+description = "NeuralBase AI Ltd. acquires HeartEase, integrating AI-powered heart health diagnostics into enterprise wellness, marking a leap in preventive healthcare technology."
+source_link = "https://www.newmediawire.com/news/neuralbase-to-acquire-heartease-set-to-revolutionize-enterprise-wellness-and-preventive-health-diagnostics-7081586"
+enclosure = "https://cdn.newsramp.app/genai/images/257/30/8760acdc2ae330c2c74aa71fdb90078f.png"
+article_id = 126834
+feed_item_id = 17786
+url = "/202507/126834-neuralbase-ai-ltd-enhances-enterprise-wellness-with-heartease-acquisition"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/30/oxenj5Kz.webp"
+source = "NewMediaWire"
++++
+
+<p>NeuralBase AI Ltd. (OTC: NBBI), through its enterprise brand BMP AI, has announced the acquisition of HeartEase, an AI-powered diagnostic platform that leverages smartphone microphones for early detection of heart abnormalities. This move signifies a pivotal development in the integration of wellness-focused, preventive healthcare solutions within the enterprise AI chatbot ecosystem, catering to the escalating demand for comprehensive employee wellness programs.</p><p>The HeartEase technology stands out for its non-invasive approach to heart health screening, requiring no external hardware beyond a smartphone. This feature not only enhances accessibility but also ensures real-time health monitoring, making preventive care a seamless part of the daily digital experience for employees. Vighnesh Dobale, CEO of NeuralBase, underscored the transformative impact of HeartEase, highlighting its potential to revolutionize early detection of heart conditions through the use of artificial intelligence and mobile technology.</p><p>With its backend AI engine already trained on validated clinical datasets, HeartEase is on track to launch a Minimum Viable Product (MVP) by Q4 2025. The MVP aims to serve enterprise clients, wellness programs, and rural health campaigns, further emphasizing the platform's scalability and global accessibility. This strategic acquisition not only bolsters BMP AI’s chatbot platform but also redefines the intersection of technology and preventive healthcare, offering a glimpse into the future of employee wellness solutions.</p><p>The acquisition reflects a broader industry trend towards recognizing the return on investment (ROI) of employee wellness initiatives, from lowering healthcare costs to enhancing productivity and retention. NeuralBase's commitment to ethical, inclusive, and intelligent technology scaling is evident in this acquisition, positioning the company as a leader in AI-driven preventive healthcare. For further details, visit <a href='https://www.sec.gov' rel='nofollow' target='_blank'>https://www.sec.gov</a>.</p>

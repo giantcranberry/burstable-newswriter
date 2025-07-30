@@ -1,0 +1,16 @@
++++
+title = "Metavesco, Inc. Expands Bitcoin Mining Operations with Acquisition of High-Efficiency Miners"
+date = "2025-07-30T12:05:06Z"
+draft = false
+summary = "Metavesco, Inc. enhances its Bitcoin mining capacity by acquiring Bitmain Antminer S21+ units, aiming to reduce production costs and strengthen its market position."
+description = "Metavesco expands Bitcoin mining with Bitmain Antminer S21+ units, increasing hashrate by 11.5% and reducing production costs, signaling growth in crypto mining."
+source_link = "https://www.newmediawire.com/news/metavesco-continues-bitcoin-mining-expansion-with-high-efficiency-bitmain-s21+-miners-boosting-hashrate-by-11-5-7081584"
+enclosure = "https://cdn.newsramp.app/genai/images/257/30/677b92e94922b62aa21b3a9c2b783484.png"
+article_id = 126837
+feed_item_id = 17782
+url = "/202507/126837-metavesco-inc-expands-bitcoin-mining-operations-with-acquisition-of-high-efficiency-miners"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/30/yawnstKT.webp"
+source = "NewMediaWire"
++++
+
+<p>Metavesco, Inc. (OTC: MVCO) has taken a significant step forward in its Bitcoin mining operations by acquiring Bitmain Antminer S21+ 235TH units. This acquisition is expected to increase the company's total hashrate by approximately 3,000 TH/s, representing an 11.5% boost in mining capacity. With the new miners, Metavesco anticipates producing Bitcoin at a cost of $55,000 per coin, a figure well below the current market price of around $120,000. This cost advantage could provide the company with a substantial margin over competitors.</p><p>Ryan Schadel, President and CEO of Metavesco, highlighted the strategic importance of this expansion, likening each new miner to a building block in the company's growing fortress. The addition of these high-efficiency miners not only enhances Metavesco's production capabilities but also elevates the company to the institutional miner category. This status allows access to larger and more profitable mining pools, further solidifying Metavesco's position in the competitive cryptocurrency mining industry.</p><p>This expansion is a key component of Metavesco's dual-asset digital treasury strategy, which also includes a recent investment in Ethereum. Schadel described Bitcoin as the company's 'digital gold' and Ethereum as 'the infrastructure layer of global finance,' underscoring a strategic approach to fostering long-term shareholder value through non-dilutive growth and capital efficiency. For those interested in learning more about the technology behind this expansion, <a href='https://www.bitmain.com' rel='nofollow' target='_blank'>Bitmain's mining solutions</a> offer a glimpse into the cutting-edge equipment driving Metavesco's operations.</p><p>The move by Metavesco reflects the broader industry trend towards more efficient mining operations, as companies seek to navigate the challenges of increasing competition and rising energy costs. By investing in high-efficiency miners, Metavesco not only aims to reduce its operational costs but also to enhance its competitiveness in the rapidly evolving cryptocurrency market. This strategic acquisition could serve as a model for other companies looking to optimize their mining operations in the face of these industry-wide challenges.</p>

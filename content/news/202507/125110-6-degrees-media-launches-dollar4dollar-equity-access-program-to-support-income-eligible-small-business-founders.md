@@ -1,0 +1,16 @@
++++
+title = "6 Degrees Media Launches Dollar4Dollar Equity Access Program to Support Income-Eligible Small Business Founders"
+date = "2025-07-29T07:05:22Z"
+draft = false
+summary = "6 Degrees Media introduces a groundbreaking Dollar4Dollar Equity Access Program, offering matched marketing services to income-eligible small business founders and supporting St. Jude Children's Research Hospital through a partnership with Ryan Trahan's fundraiser."
+description = "6 Degrees Media introduces Dollar4Dollar Equity Access Program & partners with St. Jude, matching client spending to support founders & pediatric cancer research."
+source_link = "https://www.24-7pressrelease.com/press-release/525275/6degreesmedia-dollar4dollar-program-matching-every-client-1-to-sliding-scale-services-for-small-businesses"
+enclosure = "https://cdn.newsramp.app/genai/images/257/29/c085d2fd9c59e11c48ae3ea9c895fbc0.png"
+article_id = 125110
+feed_item_id = 17675
+url = "/202507/125110-6-degrees-media-launches-dollar4dollar-equity-access-program-to-support-income-eligible-small-business-founders"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/29/ninatXns.webp"
+source = "24-7 Press Release"
++++
+
+<p>6 Degrees Media, a women-led digital growth firm, has unveiled the Dollar4Dollar Equity Access Program, a novel initiative aimed at providing income-eligible small business founders with access to professional marketing services. For every dollar a client spends, the firm will match it with a dollar in services for an eligible founder, up to $250,000 annually. This program is designed to address the financial barriers that have historically prevented small business founders from accessing high-level marketing strategies.</p><p>To qualify for the program, founders must submit documentation proving limited financial resources. Selected participants will receive customized strategy development, creative assets, and growth coaching tailored to their business needs. 6 Degrees Media has pledged up to $250,000 in matched service capacity through 2026, with the goal of assisting at least five founders in the program's first year.</p><p>In addition to supporting small businesses, 6 Degrees Media has committed a portion of the program's first-year matched service capacity as a $5,000 direct cash donation to Ryan Trahan's '50 States in 50 Days' fundraiser for St. Jude Children's Research Hospital. Trahan's campaign, which involves traveling across all 50 U.S. states in 50 days to raise funds for pediatric cancer research and care, has already raised over $7 million. This partnership highlights 6 Degrees Media's dedication to fostering economic growth within the small business sector while contributing to a vital cause.</p><p>The Dollar4Dollar Equity Access Program represents a significant step towards leveling the playing field for small business founders who lack the financial means to invest in professional marketing services. By providing these essential resources, 6 Degrees Media is not only empowering entrepreneurs to grow their businesses but also making a meaningful impact on the fight against pediatric cancer. This initiative underscores the importance of corporate social responsibility and the potential for businesses to drive positive change in both the economy and society at large.</p>

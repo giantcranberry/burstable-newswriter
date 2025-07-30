@@ -1,0 +1,16 @@
++++
+title = "Speedball Art Products Acquires Silicoil Brush Cleaning System, Strengthening Its Art Supplies Market Leadership"
+date = "2025-07-30T07:05:25Z"
+draft = false
+summary = "Speedball Art Products' acquisition of the Silicoil Brush Cleaning System from The Lion Company, Inc. underscores its dedication to enhancing artists' tools and reinforcing its market leadership."
+description = "Speedball Art Products acquires Silicoil Brush Cleaning System, ensuring artists worldwide continue to benefit from this innovative cleaning solution."
+source_link = "https://www.24-7pressrelease.com/press-release/525372/speedball-has-acquired-silicoil-brand-and-assets"
+enclosure = "https://cdn.newsramp.app/genai/images/257/30/6443f52123f2957cf9354575e7451c86.png"
+article_id = 126840
+feed_item_id = 17764
+url = "/202507/126840-speedball-art-products-acquires-silicoil-brush-cleaning-system-strengthening-its-art-supplies-market-leadership"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/257/30/pinkDpks.webp"
+source = "24-7 Press Release"
++++
+
+<p>Speedball Art Products has made a significant move in the art supplies market by acquiring the Silicoil Brush Cleaning System and all associated assets from The Lion Company, Inc. This acquisition highlights Speedball's commitment to preserving and improving the essential tools artists depend on for their creative processes. The Silicoil system, renowned for its innovative brush cleaning technology since its invention in 1954 by Leo Wrye Zimmerman, has been a cornerstone in artists' studios worldwide, offering a solution that cleans brushes without harming the bristles.</p><p>Zaurie Zimmerman, CEO of The Lion Company and daughter of the inventor, has expressed her confidence in Speedball's capability to maintain the Silicoil tradition. Speedball's CEO, Walt Glazer, has reaffirmed the company's dedication to the global artist community and its retail partners, emphasizing the importance of quality products in fostering artistic expression. This strategic acquisition not only broadens Speedball's product range but also cements its status as a frontrunner in the art supplies industry.</p><p>The Silicoil Brush Cleaning Tank is now available for order through <a href='https://www.speedballart.com' rel='nofollow' target='_blank'>Speedball</a>, ensuring that artists continue to have access to this trusted brush care solution under new ownership. With a history that stretches back to 1899, Speedball has consistently demonstrated innovation and a commitment to affordability, values that resonate with the Silicoil brand's legacy.</p><p>This acquisition is a clear indication of Speedball's mission to support artists by offering superior products. By incorporating the Silicoil system into its portfolio, Speedball guarantees that this indispensable tool remains available to artists for generations to come, further establishing its pivotal role in the art community. The move not only benefits artists by ensuring the continued availability of a high-quality product but also positions Speedball as a key player in the evolution of art supplies, ready to meet the changing needs of the creative world.</p>
