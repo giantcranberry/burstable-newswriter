@@ -6,7 +6,6 @@ summary = "Chinese Premier Li Qiang's call for global cooperation in AI at the W
 description = "China calls for global AI cooperation, contrasting U.S. deregulation plans. Premier Li Qiang emphasizes safe AI growth at WAIC, highlighting the need for international collaboration."
 source_link = "https://rss.investorbrandnetwork.com/tmw/china-recommends-nurturing-global-cooperation-on-ai/"
 enclosure = "https://cdn.newsramp.app/genai/images/257/30/7df5770d507cdbe8d544017e9767ec32.png"
-featured = true
 article_id = 126642
 feed_item_id = 17797
 url = "/202507/126642-global-ai-governance-takes-center-stage-at-world-artificial-intelligence-conference"

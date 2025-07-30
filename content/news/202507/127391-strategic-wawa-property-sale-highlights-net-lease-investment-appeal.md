@@ -1,0 +1,16 @@
++++
+title = "Strategic Wawa Property Sale Highlights Net Lease Investment Appeal"
+date = "2025-07-30T16:25:40Z"
+draft = false
+summary = "The $7.5 million sale of a Wawa property in Jackson Township, NJ, underscores the strong demand for net lease investments in prime locations, offering insights into the commercial real estate sector's dynamics."
+description = "SRS Real Estate Partners arranges a $7.5M ground lease sale for a Wawa in NJ, showcasing demand for net lease assets with national operators."
+source_link = "https://www.citybiz.co/article/724677/srs-real-estate-partners-arranges-7-5-million-ground-lease-sale-of-wawa-in-jackson-township-nj/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/90dd6411fd666212468bffa87bf8848f.png"
+article_id = 127391
+feed_item_id = 17807
+url = "/202507/127391-strategic-wawa-property-sale-highlights-net-lease-investment-appeal"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/30/zestMBdm.webp"
+source = "citybiz"
++++
+
+<p>The recent $7.5 million ground lease sale of a newly constructed Wawa property in Jackson Township, NJ, highlights the continued attractiveness of net lease investments in strategically located properties. Represented by SRS Real Estate Partners through its SRS Capital Markets division, the transaction involved an East Coast-based preferred Wawa developer as the seller and a New Jersey-based private investor as the buyer. This deal not only showcases the property's value as a long-term, passive income source but also emphasizes the importance of location and tenant credibility in the net lease market.</p><p>Located at 598 Cedar Swamp Road, the 4,736-square-foot Wawa benefits from high visibility and convenient access, sitting on 1.94 acres at a signalized intersection. Its inclusion in a mixed-use development, alongside a liquor store and proposed retail space, along with proximity to the Gardens at Jackson multifamily community, enhances its appeal to investors seeking stable, management-free investments with corporate-guaranteed leases.</p><p>Patrick Nutt and William Wamble of SRS Capital Markets pointed out that this transaction reflects the robust demand for premium net lease assets. With this sale, Nutt has now completed 138 Wawa transactions nationwide, underscoring SRS Real Estate Partners' expertise and significant presence in the commercial real estate sector. The off-market nature of the deal further demonstrates SRS's capability to connect investors with properties that align with their investment objectives.</p><p>This transaction is part of SRS Capital Markets' remarkable performance this year, with over $1.2 billion in deal volume across more than 350 transactions. The firm's active portfolio, comprising over 845 properties with a market value exceeding $3.7 billion, highlights its pivotal role in facilitating successful investments in the commercial real estate market. The sale of the Wawa property in Jackson Township not only illustrates the vitality of the net lease market but also the critical factors of location and tenant reliability in achieving investment success.</p>

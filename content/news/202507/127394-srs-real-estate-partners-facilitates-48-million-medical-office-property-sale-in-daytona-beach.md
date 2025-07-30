@@ -1,0 +1,16 @@
++++
+title = "SRS Real Estate Partners Facilitates $4.8 Million Medical Office Property Sale in Daytona Beach"
+date = "2025-07-30T16:15:39Z"
+draft = false
+summary = "The sale of a single-tenant medical office property in Daytona Beach highlights the strong demand for healthcare real estate investments, showcasing SRS Real Estate Partners' expertise in connecting sellers with qualified buyers."
+description = "SRS Real Estate Partners arranges a $4.8M ground lease sale for a medical office in Daytona Beach, showcasing the strength of healthcare real estate investments."
+source_link = "https://www.citybiz.co/article/724667/srs-real-estate-partners-arranges-4-8-million-ground-lease-sale-of-a-single-tenant-medical-office-property-in-daytona-beach-florida/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5d8c617e843a1e116a097bdc81e42548.jpg"
+article_id = 127394
+feed_item_id = 17804
+url = "/202507/127394-srs-real-estate-partners-facilitates-48-million-medical-office-property-sale-in-daytona-beach"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/30/noraqSuV.webp"
+source = "citybiz"
++++
+
+<p>The recent $4.8 million ground lease sale of a single-tenant medical office property at 2655 LGPA Boulevard in Daytona Beach, Florida, by SRS Real Estate Partners, underscores the burgeoning demand for healthcare-related real estate investments. The property, occupied by Florida Health Care Plan, Inc., is secured by a 20-year absolute triple-net lease, offering long-term stability and minimal landlord responsibilities. This transaction not only reflects the robust health of the healthcare real estate sector but also the strategic prowess of SRS Real Estate Partners in facilitating high-value deals.</p><p>Facilitated by SRS Capital Markets Senior Managing Principal Patrick Nutt and Executive Vice President & Principal William Wamble, the deal involved a Florida-based developer as the seller and a private investor utilizing a 1031 exchange as the buyer. The property's appeal was evident through multiple full-price offers, attributed to its strong credit tenant, favorable lease terms, and purchase price significantly below the replacement cost of the tenant's improvements. Such factors make it a compelling investment, highlighting the sector's resilience and attractiveness to investors.</p><p>The property's strategic location, directly off I-95 and near key amenities like the Daytona International Speedway and Daytona International Airport, further bolsters its investment appeal. This transaction is a testament to SRS Capital Markets' significant impact in the real estate sector, with over $1.2 billion in deal volume completed this year alone. For more information on SRS Real Estate Partners and their services, visit <a href='https://www.srsre.com' rel='nofollow' target='_blank'>https://www.srsre.com</a>.</p><p>This sale not only exemplifies the strength of the healthcare real estate market but also demonstrates SRS's capability to effectively bridge the gap between sellers and qualified buyers, ensuring transactions that fulfill the strategic objectives of all involved parties. The healthcare real estate sector continues to attract significant investor interest, driven by its stability and the essential nature of healthcare services, making it a key area for investment in the current economic climate.</p>

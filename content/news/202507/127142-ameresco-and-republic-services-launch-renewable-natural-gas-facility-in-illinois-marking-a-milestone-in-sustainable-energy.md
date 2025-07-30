@@ -1,0 +1,16 @@
++++
+title = "Ameresco and Republic Services Launch Renewable Natural Gas Facility in Illinois, Marking a Milestone in Sustainable Energy"
+date = "2025-07-30T10:55:34Z"
+draft = false
+summary = "The new renewable natural gas facility at Lee County Landfill in Illinois, a collaboration between Ameresco and Republic Services, showcases significant progress in converting landfill gas into low-carbon transportation fuel, contributing to environmental sustainability and energy independence."
+description = "Ameresco and Republic Services launch a renewable natural gas facility in Illinois, reducing CO2 emissions by 61,000 metric tons annually and advancing sustainable energy solutions."
+source_link = "https://www.citybiz.co/article/724513/ameresco-and-republic-services-launch-another-renewable-natural-gas-facility-at-lee-county-landfill/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d837b8dbae913d1abb2e2e57c8865bd5.jpg"
+article_id = 127142
+feed_item_id = 17775
+url = "/202507/127142-ameresco-and-republic-services-launch-renewable-natural-gas-facility-in-illinois-marking-a-milestone-in-sustainable-energy"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/30/cornCFXY.webp"
+source = "citybiz"
++++
+
+<p>The partnership between Ameresco and Republic Services has culminated in the successful launch of a renewable natural gas (RNG) facility at the Lee County Landfill in Dixon, Illinois. This facility stands as the 15th joint project between the two companies, highlighting their shared commitment to sustainable energy solutions and the fight against climate change. The Lee County facility is engineered to process 4,500 standard cubic feet per minute of raw landfill gas, converting it into pipeline-quality RNG. This innovative process not only addresses the environmental concerns associated with landfill gas but also achieves a remarkable reduction in carbon dioxide emissions by approximately 61,000 metric tons each year.</p><p>The environmental benefits of this project are substantial, with the reduction in emissions equating to those from over 70,000,000 gallons of gasoline or about 1,500,000 barrels of oil. Tim Oudman, Republic Services Senior Vice President of Sustainability Innovations, and Michael Bakas, President of Renewable Fuels at Ameresco, both underscored the project's alignment with broader sustainability and decarbonization goals. The facility not only supports the growing demand for energy but also plays a pivotal role in reducing emissions and investing in local communities.</p><p>U.S. Energy, as the exclusive buyer of the RNG produced at the Lee County facility, is instrumental in ensuring that companies have access to renewable fuel options that meet their environmental objectives. This initiative is a clear demonstration of the potential of renewable natural gas as a clean and reliable fuel source, advancing energy independence and sustainability. Furthermore, the project aligns with Illinois' renewable energy targets and exemplifies the practical application of circular economy principles, where waste is repurposed into energy. For more details on Ameresco's renewable fuel solutions, visit <a href='https://www.ameresco.com/renewable-natural-gas' rel='nofollow' target='_blank'>https://www.ameresco.com/renewable-natural-gas</a>.</p>
