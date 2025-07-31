@@ -1,0 +1,16 @@
++++
+title = "Ball Corporation Announces Quarterly Dividend and Leadership Transition with New CIO Appointment"
+date = "2025-07-31T11:00:36Z"
+draft = false
+summary = "Ball Corporation declares a quarterly dividend and introduces Edmund 'Ted' Doering as the new CIO, signaling a strong commitment to shareholder value and digital transformation."
+description = "Ball Corporation announces a 20-cent dividend per share and appoints Edmund \"Ted\" Doering as CIO, signaling strong financial health and leadership for future growth."
+source_link = "https://www.citybiz.co/article/725106/ball-corporations-board-declares-quarterly-dividend-and-elects-new-officer/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9a8a7af00ad31bb19a4d47b7dc37387f.jpg"
+article_id = 129287
+feed_item_id = 17864
+url = "/202507/129287-ball-corporation-announces-quarterly-dividend-and-leadership-transition-with-new-cio-appointment"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/mailbIR3.webp"
+source = "citybiz"
++++
+
+<p>Ball Corporation has announced a quarterly cash dividend of 20 cents per share, payable on September 16, 2025, to shareholders of record as of September 2, 2025. This move highlights the company's dedication to returning value to its shareholders in a fluctuating market landscape.</p><p>In a pivotal leadership change, Edmund 'Ted' Doering has been named the new Chief Information Officer (CIO) of Ball Corporation. With a career spanning over three decades in global IT leadership, Doering's appointment is poised to accelerate the company's digital transformation efforts. His extensive background includes roles as executive vice president and CIO at Berry Global, Chief Digital Officer at Emerson Electric, and CIO of Emerson Automation Solutions. Doering's leadership is expected to bolster Ball Corporation's IT infrastructure, emphasizing value creation, execution, and risk management.</p><p>The transition coincides with the retirement of Brian Gabbard, the outgoing CIO, at the end of September. Gabbard's tenure has been marked by significant contributions to the company's IT strategy, with Doering set to continue this legacy while introducing innovative advancements.</p><p>Additionally, Ball Corporation has scheduled its second quarter 2025 earnings conference call for August 5, 2025. This event will offer a detailed overview of the company's financial performance and strategic direction. Participants can access the live webcast at <a href='https://event.choruscall.com/mediaframe/webcast.html?webcastid=6BrmhXoV' rel='nofollow' target='_blank'>https://event.choruscall.com/mediaframe/webcast.html?webcastid=6BrmhXoV</a>. A replay and transcript will be made available on the company's investor relations site for those who cannot attend live.</p><p>These announcements underscore Ball Corporation's commitment to reinforcing its leadership team and sustaining growth and innovation within the aluminum packaging sector. By focusing on sustainable solutions and enhancing shareholder value, the company is strategically positioning itself to address the complexities of the global market.</p>

@@ -1,0 +1,16 @@
++++
+title = "Bollinger Innovations Announces Reverse Stock Split to Comply with Nasdaq Requirements"
+date = "2025-07-31T15:20:30Z"
+draft = false
+summary = "Bollinger Innovations, Inc. has announced a 1-for-250 reverse stock split to meet Nasdaq's minimum bid price requirement, marking a strategic move to sustain its market presence and focus on the electric vehicle industry."
+description = "Bollinger Innovations (NASDAQ: BINI) announces a 1-for-250 reverse stock split to comply with Nasdaq's $1.00 minimum bid price, effective August 4, 2025."
+source_link = "https://rss.investorbrandnetwork.com/gcs/greencarnewsbreaks-bollinger-innovations-inc-nasdaq-bini-to-implement-1-for-250-reverse-stock-split-effective-august-4/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/31/f0936994af972d7f8e20fe6908f74a39.png"
+article_id = 129282
+feed_item_id = 17893
+url = "/202507/129282-bollinger-innovations-announces-reverse-stock-split-to-comply-with-nasdaq-requirements"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/31/lily6KVh.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Bollinger Innovations, Inc. (NASDAQ: BINI), a leader in the electric vehicle manufacturing sector, has taken a significant step to ensure its continued listing on the Nasdaq stock exchange by announcing a 1-for-250 reverse stock split of its common stock. This decision, effective August 4, 2025, and approved by stockholders on July 22, is aimed at complying with Nasdaq's $1.00 minimum bid price requirement. The move is expected to reduce the number of outstanding shares from approximately 423.5 million to about 1.7 million, with adjustments also made to outstanding equity awards, warrants, and convertible notes.</p><p>The reverse stock split is a strategic effort by Bollinger Innovations to maintain its visibility and credibility in the highly competitive electric vehicle market. Trading under the symbol BINI will continue on Nasdaq, with the split-adjusted trading commencing at the market's opening on August 4. This adjustment is crucial for the company as it seeks to align with Nasdaq's standards, thereby reinforcing its commitment to growth and sustainability in the green energy sector.</p><p>Following its rebranding from Mullen Automotive Inc. to Bollinger Innovations, Inc. on July 28, 2025, the company has been focusing on the production of next-generation commercial electric vehicles in the U.S. Its product offerings, including the ONE, a Class 1 EV cargo van, and the THREE, a Class 3 EV cab chassis truck, are CARB and EPA certified and available nationwide. The expansion of its commercial dealer network to seven dealers and the acquisition of Bollinger Motors in September 2022 have further strengthened its position in the EV truck segment, highlighted by the launch of the B4, Class 4 electric truck production.</p><p>For more details on Bollinger Innovations and its initiatives, visit <a href='https://www.BollingerEV.com' rel='nofollow' target='_blank'>https://www.BollingerEV.com</a>. This reverse stock split represents a pivotal moment for Bollinger Innovations as it navigates the evolving landscape of the electric vehicle industry, ensuring its compliance with Nasdaq's requirements while focusing on future growth and innovation.</p>

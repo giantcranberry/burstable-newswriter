@@ -1,0 +1,16 @@
++++
+title = "SRS Capital Markets Reports $1.2 Billion Mid-Year Transaction Volume for 2025, Signaling Strong Growth in Commercial Real Estate"
+date = "2025-07-31T00:21:00Z"
+draft = false
+summary = "SRS Capital Markets' mid-year transaction volume of $1.2 billion for 2025 highlights a 30% year-over-year growth, driven by an improving lending environment and strategic capital deployment into quality assets."
+description = "SRS Capital Markets reports $1.2B in mid-2025 transactions, signaling strong real estate market growth and opportunities for investors."
+source_link = "https://www.citybiz.co/article/724971/srs-capital-markets-announces-significant-increase-over-2024-volume-posting-1-2-billion-transaction-volume-at-mid-year/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/67bc50b0bc73cf4f844c87cf508e6e6b.png"
+article_id = 129295
+feed_item_id = 17838
+url = "/202507/129295-srs-capital-markets-reports-12-billion-mid-year-transaction-volume-for-2025-signaling-strong-growth-in-commercial-real-estate"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/faceh0Xb.webp"
+source = "citybiz"
++++
+
+<p>SRS Capital Markets has announced a mid-year transaction volume of $1.2 billion for 2025, showcasing a significant 30% increase compared to the same period in 2024. This growth is attributed to an improving lending environment and the strategic deployment of capital into high-quality assets across necessity-based retail, credit industrial, logistics, and medical sectors. The firm's success underscores the resilience and attractiveness of commercial real estate (CRE) as an investment class amidst fluctuating market conditions.</p><p>Matthew Mousavi, Senior Managing Principal and Co-Head of National Net Lease at SRS Capital Markets, pointed to the positive effects of new tax legislation on the CRE sector. Provisions such as accelerated and bonus depreciation are expected to further stimulate demand for qualifying assets, including C-Stores and car washes, alongside increasing activity from 1031 investors. This legislative environment is creating a fertile ground for transactions, with sellers becoming more realistic about pricing expectations.</p><p>The market dynamics reveal a clear preference for Class A assets in core markets, which continue to draw strong competition. In contrast, Class B and C properties are experiencing a narrower buyer pool. Patrick Nutt, also a Senior Managing Principal at SRS, observed that properties with top-tier tenants and passive leases are commanding prices near peak levels, while those with tenancy or lease issues have undergone more substantial price adjustments.</p><p>Drive-thru buildings have emerged as top performers, thanks to their adaptability for long-term leasing, accessibility, and high traffic counts. The trend among net lease buyers favors properties with absolute NNN lease structures, highlighting a preference for passivity and creditworthy tenants. This shift reflects a broader movement among small-to mid-sized investors towards single-tenant net-leased assets as a stable alternative to the volatile stock market. For more details on SRS Capital Markets' services, visit <a href='https://srsre.com' rel='nofollow' target='_blank'>https://srsre.com</a>.</p>

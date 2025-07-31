@@ -1,0 +1,16 @@
++++
+title = "Gilat Satellite Networks Secures $8 Million Contract with Israel’s Ministry of Defense"
+date = "2025-07-31T15:30:44Z"
+draft = false
+summary = "Gilat Satellite Networks Ltd. has won an $8 million contract to supply advanced satellite communication systems to Israel’s Ministry of Defense, highlighting the company's growing role in defense communications."
+description = "Gilat wins $8M defense contract to supply advanced SATCOM systems to Israel’s Ministry of Defense, showcasing its leadership in satellite networking technology."
+source_link = "https://www.citybiz.co/article/725323/gilat-wins-8-million-defense-contract-to-supply-military-satcom-solutions-to-israels-ministry-of-defense/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9cd752c5f29587061da483bff48cc272.jpg"
+article_id = 129277
+feed_item_id = 17895
+url = "/202507/129277-gilat-satellite-networks-secures-8-million-contract-with-israels-ministry-of-defense"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/zeroSBCL.webp"
+source = "citybiz"
++++
+
+<p>Gilat Satellite Networks Ltd., a global leader in satellite networking technology, has secured a contract valued at over $8 million with Israel’s Ministry of Defense. The agreement involves the delivery and integration of advanced satellite communication (SATCOM) systems, designed to ensure reliable communication for military operations in harsh environments. This contract underscores Gilat’s strategic focus on the defense market and its ability to provide innovative solutions that meet the demanding requirements of defense forces.</p><p>Gilad Landsberg, President of Gilat Defense, emphasized the significance of this contract as a reflection of the company’s unified defense offering. By leveraging the combined expertise and technologies of Gilat, Gilat Wavestream, and Gilat DataPath, the company delivers solutions that exceed the capabilities of individual components. This integrated approach not only enhances operational effectiveness but also solidifies Gilat’s position as a key player in the defense communications sector.</p><p>With a history spanning over 35 years, Gilat has been at the forefront of satellite-based broadband communications. The company’s extensive portfolio includes cloud-based platforms, modems, high-performance satellite terminals, and advanced antennas, catering to both commercial and defense markets. These solutions support a wide range of applications, from government and defense communications to in-flight connectivity and broadband access. For more information on Gilat’s offerings, visit <a href='http://www.gilat.com' rel='nofollow' target='_blank'>http://www.gilat.com</a>.</p><p>The $8 million contract not only represents a significant financial milestone for Gilat but also demonstrates the company’s commitment to advancing national defense capabilities with cutting-edge communication technologies. The SATCOM systems are expected to be delivered within the next 12 months, marking a pivotal moment in Gilat’s ongoing partnership with Israel’s Ministry of Defense. This collaboration highlights the critical role of satellite communication in modern military operations and the importance of reliable, high-performance solutions in ensuring mission success.</p>

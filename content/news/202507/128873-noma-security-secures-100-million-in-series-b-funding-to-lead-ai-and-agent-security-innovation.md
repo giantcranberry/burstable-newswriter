@@ -6,7 +6,6 @@ summary = "Noma Security's recent $100 million Series B funding round underscore
 description = "Noma Security raises $100M in Series B funding to lead AI security, offering solutions for safe AI adoption in enterprises. Learn more about their innovative platform."
 source_link = "https://www.citybiz.co/article/725235/noma-security-raises-100m/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ea471920bca2585a6fdb9bb9ee54189c.jpg"
-featured = true
 article_id = 128873
 feed_item_id = 17887
 url = "/202507/128873-noma-security-secures-100-million-in-series-b-funding-to-lead-ai-and-agent-security-innovation"

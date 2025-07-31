@@ -1,0 +1,17 @@
++++
+title = "Ciroos CEO Ronak Desai Unveils AI SRE Teammate to Revolutionize Operations Teams"
+date = "2025-07-31T17:20:42Z"
+draft = false
+summary = "Ciroos introduces an AI SRE Teammate to automate and augment operations workflows, addressing the inefficiencies and stress faced by Site Reliability Engineers and operations professionals."
+description = "Ciroos introduces an AI SRE Teammate to modernize enterprise operations, offering automation, augmentation, and autonomy to tackle complexity and inefficiency."
+source_link = "https://www.citybiz.co/article/725407/qa-with-ronak-desai-ceo-of-ciroos-why-ai-should-join-your-ops-team/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/790e1a1abcfac6f7ad0cfb7d77fb35cb.png"
+featured = true
+article_id = 129261
+feed_item_id = 17914
+url = "/202507/129261-ciroos-ceo-ronak-desai-unveils-ai-sre-teammate-to-revolutionize-operations-teams"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/glueIGt8.webp"
+source = "citybiz"
++++
+
+<p>The integration of artificial intelligence (AI) into operations teams is transforming the landscape of business technology, with Ciroos at the forefront of this innovation. CEO Ronak Desai has introduced the AI SRE Teammate, a solution designed to alleviate the complexities and stresses encountered by Site Reliability Engineers (SREs) and operations professionals. This development marks a significant shift towards leveraging AI for operational efficiency and scalability.</p><p>Desai points out the inefficiencies in current operations teams, which are bogged down by an overreliance on dashboards, alerts, and manual workflows. Despite the availability of various operational tools, the dependency on institutional knowledge and intuition remains a bottleneck. The AI SRE Teammate, developed by experts with extensive experience in infrastructure and observability, aims to overcome these challenges by providing real-time reasoning and decision support.</p><p>The advent of AI-native applications has introduced new complexities for operations teams, particularly in managing probabilistic systems that operate across multiple domains. Traditional methods fall short in addressing the dynamic nature of these systems. Ciroos's solution involves agentic AI models capable of cross-domain reasoning and adaptation, a critical component of their product roadmap. This approach envisions a collaborative ecosystem where AI and human teams work in harmony.</p><p>Desai advocates for viewing AI as a teammate rather than merely a tool. This philosophy is embedded in the development of the AI SRE Teammate, which follows the Automate, Augment, Autopilot framework for seamless integration into operations workflows. Starting with routine tasks, the AI teammate is designed to gradually assume more complex responsibilities under human oversight, thereby enhancing team efficiency and reducing operational stress.</p><p>The future of operations teams, as envisioned by Desai, includes widespread adoption of AI teammates to boost efficiency, scalability, and intelligence. He recommends a phased approach to AI integration, beginning with areas like incident triage and root cause analysis to build confidence in AI's capabilities. This strategy underscores the potential of AI to not replace but significantly enhance the effectiveness and well-being of human SREs. For more details on Ciroos's innovative approach, visit <a href='https://www.ciroos.com' rel='nofollow' target='_blank'>https://www.ciroos.com</a>.</p>

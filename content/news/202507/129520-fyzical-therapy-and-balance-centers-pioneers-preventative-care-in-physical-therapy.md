@@ -1,0 +1,16 @@
++++
+title = "FYZICAL Therapy and Balance Centers Pioneers Preventative Care in Physical Therapy"
+date = "2025-07-30T22:10:41Z"
+draft = false
+summary = "Marc Phillips, a consultant at FYZICAL Therapy and Balance Centers, advocates for a holistic and preventative approach in physical therapy, especially for older adults, highlighting the center's innovative programs and graduate training initiatives."
+description = "Discover how Marc Phillips and FYZICAL Therapy & Balance Centers are revolutionizing physical therapy with innovative patient care and professional development programs."
+source_link = "https://www.citybiz.co/article/724912/qa-with-marc-phillips-physical-therapist-and-consultant-at-fyzical-therapy-and-balance-centers/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/31808e23de8531954971815c782f21ff.png"
+article_id = 129520
+feed_item_id = 17834
+url = "/202507/129520-fyzical-therapy-and-balance-centers-pioneers-preventative-care-in-physical-therapy"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/30/elleLc_Y.webp"
+source = "citybiz"
++++
+
+<p>Marc Phillips, PT, DPT, OCS, a consultant at FYZICAL Therapy and Balance Centers, is championing a shift towards preventative care in the field of physical therapy, with a particular focus on older adults susceptible to falls. Inspired by his grandparents' struggles with aging, Phillips has dedicated his career to addressing the root causes of mobility issues, rather than merely alleviating symptoms. FYZICAL's approach, which combines specialized equipment with personalized care plans, represents a significant advancement in physical therapy practices.</p><p>Phillips' encounter with a Parkinson's disease patient was a pivotal moment in his career, reinforcing his belief in the necessity of a holistic treatment strategy. This experience, coupled with his observations of his grandparents' fear of falling, illuminated the shortcomings of conventional physical therapy in providing long-term fall prevention solutions. FYZICAL's integrated model, encompassing ortho, balance, and pelvic health specialties, offers a comprehensive remedy to these gaps, enabling patients to enhance their independence and overall quality of life.</p><p>Furthering its commitment to innovation in physical therapy, FYZICAL has established <a href='https://TheTeamFYZICAL.com' rel='nofollow' target='_blank'>TheTeamFYZICAL.com</a> graduate program. This initiative facilitates the transition of graduate students into professional practice by connecting them with clinics across the country, ensuring they are prepared to address the dynamic needs of patients. Phillips emphasizes the value of continuous learning and mentorship for aspiring physical therapists aiming for leadership or ownership roles, underscoring the importance of these experiences in overcoming the hurdles of business ownership.</p><p>The story of Marc Phillips and FYZICAL Therapy and Balance Centers underscores the profound impact of a preventative and holistic approach to physical therapy. Through its cutting-edge programs and supportive network, FYZICAL is empowering physical therapists to make a meaningful difference in the lives of older adults, fostering greater independence and confidence among this vulnerable population.</p>
