@@ -1,0 +1,16 @@
++++
+title = "LRT Company Secures Full Subscription for $17 Million Senior Living Development in Hardeeville"
+date = "2025-07-30T18:15:57Z"
+draft = false
+summary = "LRT Company's successful $17 million DST offering for a senior living community in Hardeeville, South Carolina, highlights growing investor confidence in real estate developments catering to the aging population in high-growth areas."
+description = "LRT Company fully subscribes a $17M DST for senior living in SC, addressing the growing demand for modern senior housing solutions in expanding markets."
+source_link = "https://www.citybiz.co/article/724836/lrt-company-fully-subscribes-17-million-all-cash-dst-offering/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3e6000e27ee437f23a11061f5c73b4fd.jpg"
+article_id = 127924
+feed_item_id = 17824
+url = "/202507/127924-lrt-company-secures-full-subscription-for-17-million-senior-living-development-in-hardeeville"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/30/keepN26g.webp"
+source = "citybiz"
++++
+
+<p>LRT Company has announced the full subscription of its $17 million Delaware statutory trust (DST) offering, the LRT Hardeeville Senior Living DST, aimed at funding the development of a 154-unit assisted living and memory care community in Hardeeville, South Carolina. This development addresses the critical demand for senior housing in a region experiencing rapid population growth, with Hardeeville's population increasing by over 72% since the 2020 Census.</p><p>The project, situated at 20 Island Gate Way, is a key component of the larger Island Gateway development by LRT Development, which envisions a comprehensive community including 600 multifamily residences, a senior living campus, and retail spaces. Lawrence LaBonte, founder and CEO of LRT Company, highlighted the equity raise as a testament to the confidence of advisors and investors in their strategy to develop in burgeoning markets.</p><p>Hardeeville's strategic location near Hilton Head Island, a sought-after Southeast destination, enhances the appeal of the new senior living community. The area's demographic trends, including an influx of retirees and approximately 2.5 million annual visitors, as reported by <a href='https://HiltonHead.com' rel='nofollow' target='_blank'>HiltonHead.com</a>, underscore the potential for success in this venture.</p><p>Beyond the Hardeeville project, LRT Company is expanding its footprint with the launch of the LRT Coventry RI DST, seeking to raise $20.55 million for a senior housing campus in Coventry, Rhode Island. This initiative further solidifies LRT's dedication to meeting the senior living demand across the Southeast and Mid-Atlantic regions.</p><p>The successful subscription of the LRT Hardeeville Senior Living DST offering not only represents a significant achievement for LRT Company but also reflects a strong investor interest in real estate projects that address the needs of the aging population in areas of high growth and demand.</p>

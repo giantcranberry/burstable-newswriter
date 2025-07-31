@@ -6,7 +6,6 @@ summary = "The article explores how 1031 exchanges are becoming a pivotal tool f
 description = "Julie Baird, President of First American Exchange Company, shares insights on using 1031 exchanges to navigate retail real estate challenges and opportunities."
 source_link = "https://www.citybiz.co/article/724698/qa-with-julie-baird-president-of-first-american-exchange-company/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/4c4e0363bb633dbd77853748c71c58aa.jpg"
-featured = true
 article_id = 127122
 feed_item_id = 17813
 url = "/202507/127122-retail-real-estate-transformation-the-strategic-role-of-1031-exchanges-in-adapting-to-consumer-shifts"
