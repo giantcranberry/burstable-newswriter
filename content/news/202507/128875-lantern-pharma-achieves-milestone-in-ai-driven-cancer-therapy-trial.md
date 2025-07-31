@@ -1,0 +1,16 @@
++++
+title = "Lantern Pharma Achieves Milestone in AI-Driven Cancer Therapy Trial"
+date = "2025-07-31T14:10:34Z"
+draft = false
+summary = "Lantern Pharma completes targeted enrollment for its Phase 2 HARMONIC clinical trial in Japan, showcasing the potential of AI in accelerating cancer treatment development."
+description = "Lantern Pharma advances Phase 2 HARMONIC trial in Japan for never-smoker NSCLC, showcasing AI's role in transforming cancer therapy development."
+source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-lantern-pharma-nasdaq-ltrn-completes-targeted-enrollment-for-phase-2-harmonic-trial-in-japan/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/31/ed272b94edfee1f1260f693b1f195a52.png"
+article_id = 128875
+feed_item_id = 17886
+url = "/202507/128875-lantern-pharma-achieves-milestone-in-ai-driven-cancer-therapy-trial"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/31/pitapicoLw8m.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lantern Pharma (NASDAQ: LTRN), a leader in AI-driven cancer therapy development, has reached a significant milestone by completing the targeted enrollment for its Phase 2 HARMONIC clinical trial in Japan ahead of schedule. This trial focuses on never-smoker non-small cell lung cancer (NSCLC) patients who have experienced progression after tyrosine kinase inhibitors treatment. The enrollment of 10 patients across five sites, including the National Cancer Center Japan, highlights the company's strategic expansion into regions with a higher prevalence of never-smoker NSCLC.</p><p>The HARMONIC trial is evaluating the efficacy of LP-300 in combination with carboplatin and pemetrexed. Early results from U.S. sites have been promising, showing an 86% clinical benefit rate, including a durable complete response lasting nearly two years. With the global trial aiming to enroll approximately 90 patients, Lantern Pharma is on track to further validate the potential of its innovative approach to cancer treatment. CEO Panna Sharma emphasized the importance of this achievement, underscoring the company's dedication to using its proprietary RADR(R) platform to fast-track the development of transformative therapies for cancer patients worldwide.</p><p>The RADR(R) platform, which leverages over 100 billion oncology-focused data points and more than 200 advanced machine learning algorithms, is at the heart of Lantern Pharma's success. This AI-driven methodology has not only revolutionized the cost, pace, and timeline of oncology drug discovery but also enabled the company to develop a strong pipeline of therapies targeting various cancer indications. These therapies have a combined annual market potential of over $15 billion USD. The successful enrollment in Japan not only reflects the global demand for innovative cancer treatments but also solidifies Lantern Pharma's position as a pioneer at the intersection of AI and oncology.</p><p>For further details on Lantern Pharma's innovative work and the HARMONIC trial, visit <a href='https://ibn.fm/IcDma' rel='nofollow' target='_blank'>https://ibn.fm/IcDma</a>. Additional updates and news about Lantern Pharma are available in the company's newsroom at <a href='https://ibn.fm/LTRN' rel='nofollow' target='_blank'>https://ibn.fm/LTRN</a>.</p>

@@ -6,7 +6,6 @@ summary = "Tray Honeycutt's transition from the Marine Corps to leading Honeycut
 description = "Discover how Tray Honeycutt's journey from the Marine Corps to founding a multimillion-dollar insurance agency is transforming lives through mentorship and financial security."
 source_link = "https://www.citybiz.co/article/724860/qa-with-tray-honeycutt-president-of-honeycutt-insurance-marketing-on-faith-leadership-and-building-a-100m-agency/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ae5fb1fed5652e9febf09bd7fba86913.png"
-featured = true
 article_id = 127915
 feed_item_id = 17827
 url = "/202507/127915-from-personal-tragedy-to-professional-mission-tray-honeycutts-impact-on-the-insurance-industry"

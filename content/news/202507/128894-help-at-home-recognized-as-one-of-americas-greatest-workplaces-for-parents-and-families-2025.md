@@ -1,0 +1,16 @@
++++
+title = "Help at Home Recognized as One of America’s Greatest Workplaces for Parents and Families 2025"
+date = "2025-07-31T10:30:45Z"
+draft = false
+summary = "Help at Home earns Newsweek's accolade for the third consecutive year, highlighting its commitment to fostering a supportive work environment for employees balancing professional and family responsibilities."
+description = "Help at Home named by Newsweek as one of America's Greatest Workplaces for Parents and Families 2025, highlighting its commitment to employee support and work-life balance."
+source_link = "https://www.citybiz.co/article/725085/newsweek-names-help-at-home-greatest-workplace-for-parents-and-families/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/94f9dd63c8c91fbb173dd0734256f9f3.jpg"
+article_id = 128894
+feed_item_id = 17859
+url = "/202507/128894-help-at-home-recognized-as-one-of-americas-greatest-workplaces-for-parents-and-families-2025"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/riftJKiW.webp"
+source = "citybiz"
++++
+
+<p>Help at Home has been distinguished by Newsweek as one of America’s Greatest Workplaces for Parents and Families 2025, marking the third consecutive year the company has received this honor. This recognition is a testament to Help at Home's unwavering commitment to creating a work environment that supports employees in managing their professional and family lives effectively. The award is based on extensive research, including surveys from over 200,000 working parents and an analysis of more than 2.6 million company reviews, with criteria focusing on work-life balance, parental leave policies, and family support resources.</p><p>Michelle Bonfilio, Chief People Officer at Help at Home, highlighted the company's pride in this achievement, pointing to flexible schedules and benefits tailored to help employees succeed in both their personal and professional lives. With a workforce of more than 60,000 caregivers providing over 85 million hours of care each year, Help at Home's emphasis on employee satisfaction has resulted in industry-leading retention rates and enduring caregiver-client relationships, averaging four years in duration.</p><p>Marisol Castro, Chief Compliance and Ethics Officer, shared her personal insights into how Help at Home's culture of compassion and support empowers employees to perform exceptionally in all aspects of their lives. This approach not only benefits the employees but also elevates the quality of care delivered to clients, establishing a benchmark for excellence in the home care industry. For more information on Newsweek's recognition of Help at Home, visit <a href='https://www.newsweek.com' rel='nofollow' target='_blank'>https://www.newsweek.com</a>.</p><p>Help at Home's dedication to its employees and clients underscores its leadership in the healthcare sector, demonstrating that a nurturing workplace culture is essential for achieving both high employee satisfaction and outstanding service delivery. This recognition by Newsweek serves as a powerful indicator of the company's success in building a workplace that values and supports the diverse needs of its employees, thereby enhancing its service quality and operational excellence.</p>

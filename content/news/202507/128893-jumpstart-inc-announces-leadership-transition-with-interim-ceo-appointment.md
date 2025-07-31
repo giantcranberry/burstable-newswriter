@@ -1,0 +1,16 @@
++++
+title = "JumpStart Inc. Announces Leadership Transition with Interim CEO Appointment"
+date = "2025-07-31T10:50:46Z"
+draft = false
+summary = "Julie Jacono steps down as CEO of JumpStart Inc., with Lorne Novick appointed as Interim CEO, ensuring continuity in the organization's mission to support Ohio's tech startups and small businesses."
+description = "JumpStart Inc. announces CEO transition with Julie Jacono stepping down and Lorne Novick appointed as Interim CEO, ensuring continuity in supporting Ohio's entrepreneurs."
+source_link = "https://www.citybiz.co/article/725094/jumpstart-announces-leadership-transition-and-appointment-of-interim-ceo/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e622ed158fc9747b7a58c9d65d0448b5.jpg"
+article_id = 128893
+feed_item_id = 17861
+url = "/202507/128893-jumpstart-inc-announces-leadership-transition-with-interim-ceo-appointment"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/voltLnK6.webp"
+source = "citybiz"
++++
+
+<p>JumpStart Inc., a cornerstone in Ohio's technology startup and small business ecosystem, is navigating a significant leadership change. Julie Jacono, who has led the organization as CEO since December 2023, is stepping down to explore a new opportunity in the healthcare sector, a move that aligns with her dedication to innovation. Jacono's leadership was pivotal in crafting a new strategic direction for JumpStart, achieving financial stability, and assembling a strong executive team, laying a solid foundation for the organization's future endeavors.</p><p>Lorne Novick is set to take over as Interim CEO starting August 4, 2025. With his deep understanding of JumpStart's operations, mission, and network, Novick is well-equipped to guide the organization through this transitional phase. Jacono will continue to contribute as a special consultant to Novick, facilitating a seamless transition and ensuring the continuity of critical projects while the Board conducts its search for a permanent CEO.</p><p>Cindy Torres Essell, Chair of the JumpStart Inc. Board, commended Jacono for her visionary leadership and the indelible mark she has left on the organization. Essell also voiced strong support for Novick, expressing confidence in his ability to uphold the organization's momentum during this period of change.</p><p>Despite the leadership transition, JumpStart Inc. remains steadfast in its mission to drive economic growth by linking entrepreneurs with vital resources. The organization's programs and investment initiatives continue uninterrupted, demonstrating its resilience and commitment to fostering innovation. For more details on JumpStart Inc., visit <a href='https://jumpstartinc.org' rel='nofollow' target='_blank'>https://jumpstartinc.org</a>.</p><p>This leadership shift represents a critical juncture for JumpStart Inc. as it embarks on the next phase of its journey to bolster innovation and economic development in Ohio and beyond. The strategic groundwork and organizational strength established under Jacono's tenure ensure a promising outlook under the interim leadership of Novick and the future permanent CEO.</p>

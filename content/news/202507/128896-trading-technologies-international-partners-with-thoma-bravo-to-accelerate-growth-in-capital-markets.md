@@ -1,0 +1,16 @@
++++
+title = "Trading Technologies International Partners with Thoma Bravo to Accelerate Growth in Capital Markets"
+date = "2025-07-31T10:30:44Z"
+draft = false
+summary = "Trading Technologies International (TT) has formed a strategic partnership with Thoma Bravo, aiming to enhance its market position and innovation in capital markets technology."
+description = "Trading Technologies partners with Thoma Bravo and 7RIDGE to revolutionize capital markets technology, aiming for accelerated growth and innovation in trading solutions."
+source_link = "https://www.citybiz.co/article/725087/trading-technologies-and-7ridge-choose-thoma-bravo-to-continue-tts-growth/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9994e245ad40cf5994b3ceb5a2994634.jpg"
+article_id = 128896
+feed_item_id = 17858
+url = "/202507/128896-trading-technologies-international-partners-with-thoma-bravo-to-accelerate-growth-in-capital-markets"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/gulfv6_3.webp"
+source = "citybiz"
++++
+
+<p>Trading Technologies International (TT), a global leader in capital markets technology platform services, has announced a strategic partnership with Thoma Bravo, a renowned software investment firm. This collaboration, backed by TT's current owner, 7RIDGE, is set to drive TT's next growth phase, with the transaction expected to finalize in the fourth quarter of 2025, subject to regulatory approvals. The partnership highlights the shared vision of transforming capital markets infrastructure through technological innovation and operational excellence.</p><p>Justin Llewellyn-Jones, CEO of TT, shared his optimism about the alliance, pointing to the combined strengths of TT's technology, 7RIDGE's financial services expertise, and Thoma Bravo's operational capabilities. This strategic move is designed to solidify TT's position as the operating system for capital markets, addressing the growing demand for faster, more reliable, and innovative financial solutions. The partnership is a testament to TT's potential to lead the industry in redefining how capital markets operate.</p><p>Carsten Kengeter of 7RIDGE and A.J. Rohde and George Jaber of Thoma Bravo have all expressed confidence in TT's market opportunity, citing its loyal customer base and leading platform. Thoma Bravo's involvement is expected to accelerate TT's innovation and expansion, leveraging its extensive experience in software investments. The transaction has been supported by a team of advisors, including Houlihan Lokey and Barclays for TT, and Ardea Partners LP for Thoma Bravo, underscoring the significance of this partnership in the financial technology sector.</p><p>This strategic partnership not only marks a pivotal moment for TT but also reflects the broader trends in financial technology, where collaboration and innovation are crucial for meeting the complex demands of capital markets. For more details on Trading Technologies, visit <a href="https://www.tradingtechnologies.com" rel="nofollow" target="_blank">https://www.tradingtechnologies.com</a>.</p>

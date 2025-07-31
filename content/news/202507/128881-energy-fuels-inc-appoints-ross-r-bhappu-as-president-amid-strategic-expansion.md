@@ -1,0 +1,16 @@
++++
+title = "Energy Fuels Inc. Appoints Ross R. Bhappu as President Amid Strategic Expansion"
+date = "2025-07-31T13:50:33Z"
+draft = false
+summary = "Energy Fuels Inc. strengthens its leadership team with the appointment of Ross R. Bhappu as President, signaling a strategic move to bolster its position in the uranium and rare earth elements market."
+description = "Energy Fuels Inc. appoints Ross R. Bhappu as President, strengthening its leadership for advancing uranium and rare earth projects. Learn more about this strategic move."
+source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-energy-fuels-inc-nyse-american-uuuu-tsx-efr-names-ross-r-bhappu-president-effective-august-4/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/31/c13f80f58f8c6b30de921bc543ce1290.png"
+article_id = 128881
+feed_item_id = 17883
+url = "/202507/128881-energy-fuels-inc-appoints-ross-r-bhappu-as-president-amid-strategic-expansion"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/31/wamc8xbh.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Energy Fuels Inc., a key player in the U.S. uranium and rare earth elements market, has announced the appointment of Ross R. Bhappu as its new President, effective August 4, 2025. This strategic move is part of the company's long-term succession planning, with Mark S. Chalmers retaining his roles as Chief Executive Officer and Director. Bhappu brings over 35 years of experience in mining and private equity, including a notable period with Resource Capital Funds, to the leadership team. His expertise in project evaluation, development, finance, and acquisitions is anticipated to significantly contribute to the company's ongoing and future uranium and rare earth projects.</p><p>The leadership transition at Energy Fuels comes at a critical time for the U.S. energy sector. The company stands as the leading producer of natural uranium concentrate, supplying nuclear utilities that are pivotal in generating carbon-free nuclear energy. Additionally, Energy Fuels' ownership of the White Mesa Mill in Utah, the sole fully licensed and operational conventional uranium processing facility in the country, highlights its strategic importance. The facility's capabilities extend beyond uranium processing to include the production of advanced rare earth element products, vanadium oxide, and the exploration of medical isotopes for cancer treatment applications.</p><p>With increasing global demand for clean energy and critical minerals, Energy Fuels' strategic initiatives, such as the development of heavy mineral sands projects in Madagascar, Brazil, and Australia, are gaining heightened relevance. The appointment of Bhappu underscores the company's dedication to enhancing its leadership and expertise in a sector that is both competitive and rapidly evolving. For further information on Energy Fuels' operations and projects, visit <a href='http://www.energyfuels.com' rel='nofollow' target='_blank'>http://www.energyfuels.com</a>.</p>

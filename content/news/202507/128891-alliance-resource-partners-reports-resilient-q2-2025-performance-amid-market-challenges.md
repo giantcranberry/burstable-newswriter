@@ -1,0 +1,16 @@
++++
+title = "Alliance Resource Partners Reports Resilient Q2 2025 Performance Amid Market Challenges"
+date = "2025-07-31T11:30:52Z"
+draft = false
+summary = "Alliance Resource Partners, L.P. demonstrates resilience in Q2 2025 with increased coal sales volumes and updated FY25 guidance, despite lower coal pricing and a decrease in net income."
+description = "Alliance Resource Partners, L.P. (ARLP) reports resilient 2Q25 results with increased coal sales volumes but lower pricing. Stonegate Capital Partners updates coverage."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-coverage-on-alliance-resource-partners-l-p-nasdaq-arlp-2025-q2"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/fe7de190537bbe174dda7ff7125f8f4e.jpg"
+article_id = 128891
+feed_item_id = 17870
+url = "/202507/128891-alliance-resource-partners-reports-resilient-q2-2025-performance-amid-market-challenges"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/257/31/bestMyhs.webp"
+source = "Reportable"
++++
+
+<p>Alliance Resource Partners, L.P. (NASDAQ: ARLP) showcased a resilient performance in the second quarter of 2025, with coal sales volumes rising despite facing lower coal pricing and stable oil & gas royalty revenues. The company reported a 7.7% year-over-year decrease in total revenues to $547.5 million, attributed to an 11.3% decline in average coal sales prices and reduced transportation revenues. Net income also saw a significant drop to $59.4 million from $100.2 million in the same quarter the previous year, influenced by lower revenues, increased depreciation, and a $25.0 million non-cash impairment on a battery materials equity investment. However, this was partially mitigated by a $16.6 million increase in the fair value of digital assets.</p><p>Adjusted EBITDA for the quarter slightly increased by 1.2% sequentially to $161.9 million. In light of ongoing macroeconomic uncertainties, ARLP has revised its FY25 guidance upwards, buoyed by anticipated production improvements at Tunnel Ridge, higher sales volumes from the Illinois Basin, operational cost efficiencies, and robust contracted commitments. The coal operations segment generated $485.5 million in sales revenue, with coal sales volumes growing by 6.8% year-over-year to 8.38 million tons, despite an 11.3% decrease in pricing to $57.92 per ton.</p><p>The royalty business segment contributed $53.1 million in total revenues, with oil & gas royalties accounting for $35.5 million. ARLP concluded the quarter with strong liquidity, boasting $499.2 million in total liquidity, which includes $55.0 million in cash and $444.2 million available under its credit facilities. The company reported a free cash flow of $79.0 million for the quarter and announced a quarterly cash distribution of $0.60 per unit.</p><p>Stonegate Capital Partners has updated its valuation for ARLP, applying an EV/EBITDA framework ranging from 6.0x to 6.5x, resulting in a valuation range of $29.51 to $32.25, with a midpoint of $30.88. This analysis highlights ARLP's potential for sustained resilience and growth amidst current market challenges. For further insights into ARLP's performance and valuation, visit <a href='https://www.stonegateinc.com' rel='nofollow' target='_blank'>https://www.stonegateinc.com</a>.</p>

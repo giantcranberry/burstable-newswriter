@@ -1,0 +1,16 @@
++++
+title = "2025 Creators Summit to Showcase Open-Source Innovation with Industry Leaders"
+date = "2025-07-31T14:00:07Z"
+draft = false
+summary = "The 2025 Creators Summit in Wilmington, NC, will feature prominent figures in open infrastructure and systems education, highlighting the event's focus on collaboration and innovation in open-source technology."
+description = "45Drives announces the 2025 Creators Summit in Wilmington, featuring deadmau5 and open tech leaders, showcasing 45Studio and dual-track programming for creators and enterprises."
+source_link = "https://www.newmediawire.com/news/45drives-announces-next-wave-of-creators-for-2025-creators-summit-in-wilmington-nc-tom-lawrence-craft-computing-and-allan-jude-join-the-lineup-7081644"
+enclosure = "https://cdn.newsramp.app/genai/images/257/31/1b8dbb572e4361bf0e95367121eb320c.png"
+article_id = 128879
+feed_item_id = 17884
+url = "/202507/128879-2025-creators-summit-to-showcase-open-source-innovation-with-industry-leaders"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/257/31/irisREC5.webp"
+source = "NewMediaWire"
++++
+
+<p>The 2025 Creators Summit, scheduled for September 8-12 in Wilmington, North Carolina, has announced the inclusion of three key figures in the open infrastructure and systems education sector to its speaker lineup. Tom Lawrence of Lawrence Systems, Jeff from Craft Computing, and Allan Jude, VP of Engineering at Klara Inc., are set to contribute their expertise, enhancing the summit's emphasis on open-source technology collaboration and innovation.</p><p>Marking its third iteration and the first to be hosted in the United States, the summit is poised to be its most expansive yet. It will introduce dual-track programming catering to enterprise users and creative professionals alike, alongside the debut of 45Studio, a new division focused on high-performance creative workflows. This initiative reflects 45Drives' dedication to advancing open-source innovation and fostering community involvement.</p><p>Tom Lawrence shared his excitement about the summit's role in enabling significant dialogue among creators, engineers, and open-source proponents. The Enterprise Track will address next-generation storage performance, whereas the Creative Artist Track will investigate open workflows for creators, offering valuable perspectives on server-direct 4K editing and real-time game engine rendering.</p><p>Dr. Doug Milburn, President and Co-Founder of 45Drives, emphasized the summit's approach of incorporating creators into the open-source development process. With Allan Jude's deep knowledge of FreeBSD and OpenZFS, attendees can anticipate in-depth technical sessions on open-source file systems and infrastructure design.</p><p>The event will take place at 45Drives' new U.S. facilities and partner locations in Wilmington, with sessions accessible to the public. This openness aims to encourage participation from local creators and IT professionals in live discussions. For further details, visit <a href='https://www.45drives.com/creators-summit/#form' rel='nofollow' target='_blank'>https://www.45drives.com/creators-summit/#form</a>.</p>
