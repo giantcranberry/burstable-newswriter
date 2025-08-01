@@ -1,0 +1,16 @@
++++
+title = "Alberta Distillers Limited Unveils Premium Golden Rye 9 Year Old, Elevating Canadian Whisky Craftsmanship"
+date = "2025-07-31T11:30:51Z"
+draft = false
+summary = "Alberta Distillers Limited introduces the Alberta Premium Golden Rye 9 Year Old, a meticulously crafted whisky that showcases the brand's dedication to quality and innovation, marking a significant moment for Canadian whisky on the global stage."
+description = "Discover Alberta Premium Golden Rye 9 Year Old, a premium Canadian whisky aged for nine years, offering a complex profile of flavors. A celebration of Canadian craftsmanship."
+source_link = "https://alberta-distillers.reportablenews.com/pr/alberta-distillers-limited-elevates-canadian-whisky-with-new-alberta-premium-golden-rye-9-year-old"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/f7c095c1023c7b2c27f7d097e3c4e7da.png"
+article_id = 129730
+feed_item_id = 17866
+url = "/202507/129730-alberta-distillers-limited-unveils-premium-golden-rye-9-year-old-elevating-canadian-whisky-craftsmanship"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/257/31/zestFxjB.webp"
+source = "Reportable"
++++
+
+<p>Alberta Distillers Limited has taken a significant step in the Canadian whisky industry with the launch of the Alberta Premium Golden Rye 9 Year Old. This new expression is a testament to the brand's unwavering commitment to quality and innovation, offering a complex flavor profile that is the result of nine years of careful aging. The whisky is made from 100 per cent Canadian rye grain, a choice that underscores the brand's dedication to showcasing the best of Canadian whisky-making traditions.</p><p>The Alberta Premium Golden Rye 9 Year Old stands out due to its unique aging process, which involves three distinct barrel styles: new white oak, ex-bourbon, and ex-Canadian whisky casks. This innovative approach not only enhances the whisky's richness and spice but also adds layers of nuance, resulting in an exceptionally smooth finish. With a bold 45 per cent ABV, the whisky offers a sensory journey from the first aroma to the last sip, featuring notes of caramel, subtle leather, and a hint of coconut, followed by a palate rich with raisin and molasses, and a finish that perfectly balances sweetness with the signature rye spice.</p><p>Deepti Gurkar, Senior Director – National Marketing Canada and Global Canadian Brands at Suntory Global Spirits, highlighted the significance of this launch, stating, <a href='https://www.suntory.com' rel='nofollow' target='_blank'>Alberta Premium Golden Rye 9 Year Old</a> represents the essence of Canadian craftsmanship, elevating it with a complex, layered whisky experience. This release celebrates the bold flavor, rich heritage, and innovation that define Canadian rye whisky.</p><p>Set to be available across Canada starting July, with a suggested retail price of $37.95 per 750ml bottle, the Alberta Premium Golden Rye 9 Year Old is expected to captivate both whisky aficionados and those new to the world of Canadian rye whisky. This launch not only solidifies Alberta Distillers Limited's reputation for excellence but also plays a pivotal role in enhancing the global appreciation of Canadian whisky, showcasing the country's ability to produce spirits that can stand shoulder to shoulder with the best in the world.</p>

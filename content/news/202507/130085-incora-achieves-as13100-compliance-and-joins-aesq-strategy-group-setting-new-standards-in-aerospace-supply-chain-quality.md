@@ -1,0 +1,16 @@
++++
+title = "Incora Achieves AS13100 Compliance and Joins AESQ Strategy Group, Setting New Standards in Aerospace Supply Chain Quality"
+date = "2025-07-31T17:50:41Z"
+draft = false
+summary = "Incora's full compliance with the AS13100 standard and its pioneering membership in the AESQ Strategy Group mark significant advancements in aerospace supply chain quality and reliability."
+description = "Incora achieves AS13100 compliance and joins AESQ, setting new quality benchmarks in the aerospace supply chain. Learn more about their impact."
+source_link = "https://www.citybiz.co/article/725492/incora-achieves-as13100-compliance-and-joins-aesq-as-the-first-global-distributor-member/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/91cefe03eb5a2352f72480420bd1cee2.png"
+article_id = 130085
+feed_item_id = 17920
+url = "/202507/130085-incora-achieves-as13100-compliance-and-joins-aesq-strategy-group-setting-new-standards-in-aerospace-supply-chain-quality"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/lily5Yuf.webp"
+source = "citybiz"
++++
+
+<p>Incora, a prominent figure in the aerospace and defense supply chain sector, has recently accomplished full compliance with the AS13100 standard, a comprehensive quality management system tailored for aerospace engine suppliers. This achievement, realized after a detailed three-year endeavor, elevates Incora to a prestigious group of companies that adhere to the utmost industry standards concerning process control, risk management, and product integrity.</p><p>In a parallel development, Incora has been recognized as the inaugural global distributor member of the Aerospace Engine Supplier Quality (AESQ) Strategy Group. This membership positions Incora to collaborate with original equipment manufacturers (OEMs), suppliers, and other pivotal stakeholders in shaping the future of quality standards within the aerospace engine supply chain. The AS13100 standard, crafted by AESQ, seeks to consolidate diverse OEM quality requirements into a singular, internationally acknowledged framework to boost product quality and reduce inconsistencies.</p><p>David Coleal, CEO of Incora, emphasized the importance of these milestones, remarking, "Our full compliance with AS13100 highlights our unwavering commitment to quality and reliability for our global clientele. Becoming the first distributor to join AESQ is not only a privilege but also a reflection of our resolve to propel industry-wide quality enhancements."</p><p>Incora's alignment with AS13100 and its proactive role in AESQ underscore the company's significant investments in refining processes, enhancing employee training, and implementing continuous improvement methodologies. These initiatives are crucial for upholding the integrity and efficiency of the aerospace supply chain, guaranteeing that Incora's customers benefit from products and services that meet the highest standards. For more information on Incora's commitment to quality and its range of services, visit <a href='https://www.incora.com' rel='nofollow' target='_blank'>https://www.incora.com</a>.</p>

@@ -1,0 +1,16 @@
++++
+title = "Cynomi Launches ELEVATE Partner Program to Empower MSPs and MSSPs with AI-Powered Cybersecurity Solutions"
+date = "2025-07-31T17:50:41Z"
+draft = false
+summary = "Cynomi introduces the ELEVATE Partner Program, offering MSPs and MSSPs scalable cybersecurity and compliance services, following a $37M Series B funding round."
+description = "Cynomi launches ELEVATE Partner Program to empower MSPs & MSSPs with scalable cybersecurity services, driving growth & efficiency in the digital age."
+source_link = "https://www.citybiz.co/article/725496/cynomi-launches-elevate-partner-program-to-accelerate-msp-and-mssp-growth-with-scalable-cybersecurity-services/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5c3a682e0b6e77c886089366f97f5aa7.jpg"
+article_id = 130087
+feed_item_id = 17921
+url = "/202507/130087-cynomi-launches-elevate-partner-program-to-empower-msps-and-mssps-with-ai-powered-cybersecurity-solutions"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/joind2pR.webp"
+source = "citybiz"
++++
+
+<p>Cynomi, a pioneer in AI-driven vCISO platforms, has announced the launch of the ELEVATE Partner Program, a strategic initiative aimed at enhancing the capabilities and scalability of Managed Service Providers (MSPs) and Managed Security Service Providers (MSSPs) within the cybersecurity sector. This development comes after Cynomi secured $37 million in Series B funding, highlighting the company's dedication to supporting its partners with advanced cybersecurity, compliance, and virtual Chief Information Security Officer (vCISO) services.</p><p>The ELEVATE Partner Program is designed with a tiered structure, providing participants with a range of benefits such as enhanced support, in-depth training, cutting-edge tools, and opportunities for co-marketing. These offerings are specifically crafted to boost partners' growth, allowing them to offer significant value to their clients efficiently. A key aspect of the program is its exclusivity to partners, ensuring MSPs and MSSPs can broaden their market presence without encountering channel conflicts.</p><p>David Primor, Ph.D., Co-founder and CEO of Cynomi, emphasized the program's role as a catalyst for partner growth. 'ELEVATE is engineered to not only expand our partners' cybersecurity services but also to distinguish their offerings and create new revenue opportunities quickly and confidently,' Primor explained. The program's focus on rapid value realization and extensive partner support is anticipated to greatly improve partners' profitability and enhance customer relationships over time.</p><p>With more than 300 partners already utilizing Cynomi's platform, the company is experiencing swift growth across the service provider industry. The AI-powered platform streamlines cybersecurity and compliance processes, cutting down manual efforts by as much as 70% and boosting productivity in a cost-effective manner. For additional information about the ELEVATE Partner Program, visit <a href='https://www.cynomi.com/partners' rel='nofollow' target='_blank'>https://www.cynomi.com/partners</a>.</p>

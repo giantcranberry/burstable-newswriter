@@ -6,7 +6,6 @@ summary = "Ciroos introduces an AI SRE Teammate to automate and augment operatio
 description = "Ciroos introduces an AI SRE Teammate to modernize enterprise operations, offering automation, augmentation, and autonomy to tackle complexity and inefficiency."
 source_link = "https://www.citybiz.co/article/725407/qa-with-ronak-desai-ceo-of-ciroos-why-ai-should-join-your-ops-team/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/790e1a1abcfac6f7ad0cfb7d77fb35cb.png"
-featured = true
 article_id = 129261
 feed_item_id = 17914
 url = "/202507/129261-ciroos-ceo-ronak-desai-unveils-ai-sre-teammate-to-revolutionize-operations-teams"

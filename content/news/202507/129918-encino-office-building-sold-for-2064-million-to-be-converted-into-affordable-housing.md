@@ -1,0 +1,17 @@
++++
+title = "Encino Office Building Sold for $20.64 Million to Be Converted into Affordable Housing"
+date = "2025-07-31T20:10:41Z"
+draft = false
+summary = "The sale of a 74,947-square-foot office building in Encino, California, for $20.64 million to be transformed into The Oaks on Balboa, a 117-unit affordable housing community, highlights a growing trend of repurposing office spaces to address the housing crisis."
+description = "Lee & Associates brokers $20.64M sale of Encino office building for conversion into affordable housing, addressing Southern California's housing crisis."
+source_link = "https://www.citybiz.co/article/725670/investor-pays-20-64-million-for-la-area-office-building-property-to-be-redeveloped-to-affordable-housing/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/bef1cc7915d23f82d350fa6f983bc866.jpg"
+featured = true
+article_id = 129918
+feed_item_id = 17933
+url = "/202507/129918-encino-office-building-sold-for-2064-million-to-be-converted-into-affordable-housing"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/31/glowmiAF.webp"
+source = "citybiz"
++++
+
+<p>The recent sale of a 74,947-square-foot office building at 5435-5445 Balboa Boulevard in Encino, California, for $20.64 million, is a pivotal development in the effort to combat the affordable housing shortage in the Los Angeles area. Purchased by Elysian Housing and Capstone Equities, the property is slated for conversion into The Oaks on Balboa, a residential community that will offer 117 studio and one-bedroom apartments. This initiative is part of a larger trend of transforming underutilized office spaces into residential units, a strategy that is gaining traction as a viable solution to the housing crisis.</p><p>Darren Casamassima and Scott Romick of Lee & Associates LA North/Ventura facilitated the transaction, representing both the seller, 5435 BALBOA LLC, and the buyer. Casamassima remarked on the complexities involved in converting office buildings into multifamily housing but noted that the unique design features of this property made it particularly suitable for such a transformation. Romick highlighted the increasing prevalence and success of similar projects across Southern California, signaling a shift in the real estate market towards adaptive reuse of commercial properties.</p><p>Located in the San Fernando Valley near the US 101 Freeway, The Oaks on Balboa will benefit from its proximity to retail, dining, educational facilities, and parks, making it an attractive option for potential residents. This project exemplifies the potential of repurposing office spaces into housing, a practice supported by state regulations and incentives aimed at encouraging development. For more details on Lee & Associates' involvement in this transaction, visit <a href='https://lee-associates.com' rel='nofollow' target='_blank'>https://lee-associates.com</a>.</p><p>The conversion of the Encino office building into affordable housing not only addresses the immediate need for more housing options but also serves as a model for future developments. By leveraging existing structures and adapting them to meet current demands, this project demonstrates a sustainable approach to urban development that could inspire similar initiatives in other regions facing housing shortages.</p>
