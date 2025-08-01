@@ -1,0 +1,16 @@
++++
+title = "Nightfood Holdings Inc. Announces Strategic Hotel Acquisitions to Pioneer AI-Driven Hospitality"
+date = "2025-08-01T13:30:33Z"
+draft = false
+summary = "Nightfood Holdings Inc. is set to acquire two California hotel properties, integrating AI automation to address labor shortages and redefine hospitality standards."
+description = "Nightfood Holdings is set to acquire two California hotels, integrating AI and robotics to transform hospitality operations and guest experiences. Learn more about this innovative approach."
+source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-nightfood-holdings-inc-otcqb-ngtf-set-to-acquire-80-million-in-flagship-california-hotels-to-anchor-ai-powered-hospitality-strategy/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/1/c518ec37a9e1604e9dd376edafa6515e.png"
+article_id = 130630
+feed_item_id = 17969
+url = "/202508/130630-nightfood-holdings-inc-announces-strategic-hotel-acquisitions-to-pioneer-ai-driven-hospitality"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/neonXgg5.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Nightfood Holdings Inc. (OTCQB: NGTF) has announced plans to acquire two flagship hotel properties in Victorville and Rancho Mirage, California, for a combined $80 million, marking a significant step in its strategy to revolutionize the hospitality industry through AI-driven automation. This acquisition is not just an expansion of Nightfood's portfolio but a bold move towards integrating next-generation automation into hotel operations, aiming to solve the sector's chronic labor shortages while enhancing efficiency and guest satisfaction.</p><p>The acquisitions are central to Nightfood's vision of a vertically integrated hospitality and Robotics-as-a-Service (RaaS) model. By deploying its AI automation platform across these properties, Nightfood is setting a new benchmark for operational efficiency in the hospitality industry. The transactions, expected to close by the end of the current quarter, represent a pivotal moment in the company's growth trajectory and its ambition to lead in the $170 billion global service robotics market.</p><p>CEO Jimmy Chan highlighted the transformative potential of embedding smart robotics into the core of hotel operations. This approach not only promises to streamline processes but also to create scalable, recurring revenue streams, offering a sustainable solution to the challenges facing the hospitality sector today. Nightfood's innovative model, which combines the ownership of strategic hotel assets with cutting-edge technology, offers a preview of the future of hospitality where technology enhances every aspect of guest and operator experiences.</p><p>For those interested in learning more about Nightfood Holdings Inc. and its pioneering efforts in AI-powered hospitality, further information can be found at <a href='https://www.nightfoodholdings.com' rel='nofollow' target='_blank'>https://www.nightfoodholdings.com</a>. This strategic initiative not only underscores Nightfood's commitment to innovation but also its role in shaping the future of the hospitality industry through technology.</p>

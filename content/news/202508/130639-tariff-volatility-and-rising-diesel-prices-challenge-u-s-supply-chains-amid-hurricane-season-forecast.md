@@ -1,0 +1,16 @@
++++
+title = "Tariff Volatility and Rising Diesel Prices Challenge U.S. Supply Chains Amid Hurricane Season Forecast"
+date = "2025-08-01T00:11:10Z"
+draft = false
+summary = "The U.S. economy and drayage market face ongoing challenges from tariff volatility and rising diesel prices, with an above-average hurricane season threatening further disruptions to supply chains."
+description = "ITS Logistics July report highlights tariff impacts and hurricane risks on U.S. supply chains, with rising diesel prices and economic shifts."
+source_link = "https://www.citybiz.co/article/725714/its-logistics-july-supply-chain-report-tariff-volatility-proves-to-have-ongoing-impact-on-u-s-economy-and-drayage-market/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/331cb1b3b9417910ee5edf9c34667660.jpg"
+article_id = 130639
+feed_item_id = 17938
+url = "/202508/130639-tariff-volatility-and-rising-diesel-prices-challenge-u-s-supply-chains-amid-hurricane-season-forecast"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/1/smogtT_j.webp"
+source = "citybiz"
++++
+
+<p>The U.S. economy and national drayage market are navigating through a period of significant challenges, as highlighted in the July ITS Supply Chain Report. Tariff volatility continues to impact economic trends, with consumers starting to feel the effects. Josh Allen, Chief Commercial Officer at ITS Logistics, describes the current state as a 'controlled cooling' of the U.S. economy, marked by slowed growth, a stable labor market, and easing inflation. Despite these conditions, the Federal Reserve is expected to keep the benchmark rate unchanged, reflecting a cautious approach to the ongoing uncertainties.</p><p>In the drayage market, June imports saw a 1.8% increase month-over-month, with notable volume gains at the Port of Los Angeles but declines at East Coast and secondary ports. This uneven performance highlights the changing dynamics in port routing and regional demand, largely influenced by tariff volatility. Meanwhile, fuel prices have surged to their highest levels since last July, with the national average diesel price climbing for the third week in a row. The Gulf Coast region, in particular, faced the sharpest weekly increase, adding pressure to freight companies already bracing for a potentially active hurricane season.</p><p>The National Oceanic and Atmospheric Administration has forecasted a 60% chance of an above-normal hurricane season, predicting between 13 and 19 named storms. Such conditions could further strain supply chains, already under stress from tariff-related trade flow adjustments and escalating costs. On a slightly positive note, the warehousing market is showing signs of rebalancing. The Producer Price Index for Warehousing and Storage fell by 1.4% from May to June 2025, indicating a shift in pricing leverage for providers and presenting new opportunities and challenges for shippers in the upcoming months.</p><p>For those seeking deeper analysis and updates on these developments, the full ITS Supply Chain Report offers comprehensive insights. The interplay of economic cooling, tariff impacts, and environmental risks underscores the complex landscape businesses must navigate in the latter half of 2025.</p>

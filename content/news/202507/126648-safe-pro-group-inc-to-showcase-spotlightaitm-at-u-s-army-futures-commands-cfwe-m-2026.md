@@ -1,0 +1,16 @@
++++
+title = "Safe Pro Group Inc. to Showcase SpotlightAI™ at U.S. Army Futures Command’s CFWE-M 2026"
+date = "2025-07-30T13:45:31Z"
+draft = false
+summary = "Safe Pro Group Inc. will demonstrate its AI-powered SpotlightAI™ platform at the U.S. Army's CFWE-M 2026, highlighting the role of artificial intelligence in modern defense strategies."
+description = "Safe Pro Group (SPAI) to demonstrate AI-powered defense solutions at U.S. Army's CFWE-M 2026, showcasing rapid threat detection technology."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-safe-pro-group-inc-nasdaq-spai-selected-for-u-s-army-futures-command-warfighting-experiment/"
+enclosure = "https://cdn.newsramp.app/genai/images/257/30/18af1978e13921745edd27ab751e7782.png"
+article_id = 126648
+feed_item_id = 17792
+url = "/202507/126648-safe-pro-group-inc-to-showcase-spotlightaitm-at-u-s-army-futures-commands-cfwe-m-2026"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/257/30/yawnu9C7.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Safe Pro Group Inc. (NASDAQ: SPAI), a pioneer in artificial intelligence-powered defense and security solutions, has been chosen to participate in the U.S. Army Futures Command’s Concept Focused Warfighting Experiment Maneuver (CFWE-M) 2026. This prestigious event, set to take place in March and April 2026 at Fort Benning, Georgia, is a critical platform for small unit modernization, encouraging synergy among Cross Functional Teams, Centers of Excellence, the science and technology community, and industry leaders.</p><p>At the heart of Safe Pro's participation is the demonstration of its patented SpotlightAI™ drone-based imagery analysis platform. This cutting-edge technology boasts the ability to detect and identify over 150 types of landmines and unexploded ordnance in mere fractions of a second per image. Dan Erdberg, CEO of Safe Pro, emphasized that this selection underscores the company's prowess in delivering swift, actionable battlefield intelligence, a capability increasingly vital as drone warfare evolves.</p><p>Safe Pro Group Inc. stands as a leader in AI-enabled security and defense solutions. Its SpotlightAI™ platform, which operates on a cloud-based ecosystem powered by Amazon Web Services (AWS), marks a significant leap forward in drone imagery processing. By integrating commercially available drones with its proprietary machine learning and computer vision technology, Safe Pro presents a safer, more efficient method for explosives threat identification, surpassing traditional human-based analysis.</p><p>The inclusion of Safe Pro in the CFWE-M 2026 experiment not only showcases the company's innovative solutions but also highlights the escalating significance of artificial intelligence in shaping modern warfare and defense tactics. For further details on Safe Pro Group Inc. and its groundbreaking technologies, visit <a href='https://ibn.fm/2SV56' rel='nofollow' target='_blank'>https://ibn.fm/2SV56</a>. Investors looking for the latest updates on SPAI can explore the company’s newsroom at <a href='http://ibn.fm/SPAI' rel='nofollow' target='_blank'>http://ibn.fm/SPAI</a>.</p>

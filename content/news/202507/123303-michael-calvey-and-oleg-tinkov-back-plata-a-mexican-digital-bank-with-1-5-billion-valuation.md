@@ -1,0 +1,16 @@
++++
+title = "Michael Calvey and Oleg Tinkov Back Plata, a Mexican Digital Bank with $1.5 Billion Valuation"
+date = "2025-07-28T02:55:37Z"
+draft = false
+summary = "Renowned investors Michael Calvey and Oleg Tinkov support Plata, a rapidly growing Mexican digital bank, highlighting the potential of fintech in Latin America."
+description = "Michael Calvey and Oleg Tinkov invest in Plata, Mexico's digital bank unicorn, signaling growth in Latin America's fintech sector. Plata's rapid expansion highlights digital banking's potential."
+source_link = "https://www.citybiz.co/article/723215/surprise-backers-of-mexicos-fintech-unicorn-plata-revealed/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/85249c82295092e211bc14733373ee1b.jpg"
+article_id = 123303
+feed_item_id = 17604
+url = "/202507/123303-michael-calvey-and-oleg-tinkov-back-plata-a-mexican-digital-bank-with-1-5-billion-valuation"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/257/28/fondYeMX.webp"
+source = "citybiz"
++++
+
+<p>The involvement of Michael Calvey, a distinguished private equity investor, and Oleg Tinkov, a serial tech entrepreneur, in Plata, a Mexican digital bank, marks a significant milestone in the fintech sector. Plata, which recently achieved a $1.5 billion valuation, is pioneering innovative banking solutions in Latin America, a region with vast potential for financial technology advancements.</p><p>Founded in 2023 by former Tinkoff executives, Plata has quickly established itself as a formidable player in the Mexican banking sector. Securing a full banking license and amassing over 1 million users within its first 18 months, the bank now accounts for approximately 10% of all new credit card issuance in Mexico. This rapid growth is attributed to the team's expertise and the conducive regulatory environment in the country.</p><p>Calvey and Tinkov's backing goes beyond financial investment; both have been instrumental in advising Plata since its inception, drawing on their extensive experience in building technology-driven businesses. Their confidence in Plata's trajectory is underscored by discussions of a potential $10 billion valuation through a public listing in the medium term, although no specific timeline has been disclosed.</p><p>Plata's success is indicative of the burgeoning digital banking sector in Latin America, fueled by a young demographic and initiatives aimed at enhancing financial inclusion. In a market dominated by a handful of large institutions, Plata's mobile-first approach offers a viable alternative for consumers who have traditionally been underserved, with plans to broaden its offerings to include savings and insurance products.</p><p>As Plata approaches profitability, expected within the next six to nine months, its journey underscores the vibrant opportunities within Latin America's fintech landscape. The support from global investors like Calvey and Tinkov not only validates Plata's innovative model but also signals a growing interest in fostering financial solutions tailored to emerging markets.</p>
