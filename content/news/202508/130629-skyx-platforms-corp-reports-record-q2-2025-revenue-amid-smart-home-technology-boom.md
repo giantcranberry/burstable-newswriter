@@ -6,7 +6,6 @@ summary = "SKYX Platforms Corp. achieves a record pre-audited revenue of $23.1 m
 description = "SKYX Platforms announces record Q2 2025 revenue, highlighting growth in smart home tech. Discover how they're setting new standards for safety and innovation."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-platforms-corp-nasdaq-skyx-reports-record-23-1-million-q2-2025-revenue-marks-sixth-straight-quarter-of-growth/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/04ef8a381480157c0d9a2e29c2b98e5f.png"
-featured = true
 article_id = 130629
 feed_item_id = 17970
 url = "/202508/130629-skyx-platforms-corp-reports-record-q2-2025-revenue-amid-smart-home-technology-boom"
