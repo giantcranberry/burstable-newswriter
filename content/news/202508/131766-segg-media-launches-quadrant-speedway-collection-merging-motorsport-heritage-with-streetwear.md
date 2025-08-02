@@ -1,0 +1,16 @@
++++
+title = "SEGG Media Launches Quadrant Speedway Collection, Merging Motorsport Heritage with Streetwear"
+date = "2025-08-01T17:40:38Z"
+draft = false
+summary = "SEGG Media Corporation introduces the Quadrant Speedway Collection, a strategic fusion of motorsport and contemporary streetwear, marking a significant step in redefining fan engagement and content interaction."
+description = "SEGG Media unveils Quadrant Speedway Collection with Lando Norris, blending motorsport heritage with streetwear. A strategic move in sports and fashion."
+source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-segg-media-corporation-nasdaq-segg-ltryw-debuts-quadrant-speedway-collection-following-veloce-investment/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/1/53d42d35759c726d32e5f527eb540a22.png"
+article_id = 131766
+feed_item_id = 17981
+url = "/202508/131766-segg-media-launches-quadrant-speedway-collection-merging-motorsport-heritage-with-streetwear"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/icytZUS.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SEGG Media Corporation (NASDAQ: SEGG, LTRYW) has taken a significant leap into the apparel industry with the launch of the Quadrant Speedway Collection. This marks the company's first major apparel initiative following its strategic investment in Veloce Media Group. The collection, which blends the rich heritage of motorsport with the latest trends in streetwear, was unveiled by Formula 1 driver Lando Norris at the Belgian Grand Prix, signaling SEGG Media's ambitious foray into combining sports, fashion, and fan engagement.</p><p>The introduction of the Quadrant Speedway Collection is a strategic move by SEGG Media to capitalize on Veloce's vast digital platform, which attracts over 750 million monthly views and 55 million subscribers. According to Matthew McGahan, Chairman and CEO of SEGG Media, this launch is a cornerstone of the company's vision to transform how fans interact with content and brands in the digital era. The collection not only pays homage to the legacy of motorsport but also addresses the dynamic preferences of a global audience, offering a unique blend of performance and lifestyle apparel.</p><p>This initiative follows Veloce's acquisition of Quadrant, a motorsport and lifestyle brand co-founded by Norris, further expanding SEGG Media's influence in the sports and entertainment sectors. The collaboration among SEGG Media, Veloce, and Quadrant exemplifies the innovative potential of cross-industry partnerships to deliver distinctive consumer products and experiences. For more information on the Quadrant Speedway Collection, visit <a href='https://ibn.fm/4ATxl' rel='nofollow' target='_blank'>https://ibn.fm/4ATxl</a>.</p><p>The Quadrant Speedway Collection represents SEGG Media's forward-thinking approach to blending content with commerce, aiming to engage a new demographic of sports and fashion aficionados. By seamlessly integrating motorsport culture with streetwear, SEGG Media is pioneering new avenues for brand-audience interaction, setting a benchmark for innovation in the industry. To keep abreast of SEGG Media's latest ventures, visit <a href='http://ibn.fm/SEGG' rel='nofollow' target='_blank'>http://ibn.fm/SEGG</a>.</p>

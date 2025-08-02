@@ -1,0 +1,16 @@
++++
+title = "Omeros Corporation Secures $22 Million in Direct Offering with D. Boral Capital LLC as Exclusive Placement Agent"
+date = "2025-08-01T17:30:46Z"
+draft = false
+summary = "Omeros Corporation's successful $22 million registered direct offering, facilitated by D. Boral Capital LLC, highlights strategic financial moves in the biopharmaceutical sector and investor confidence in the company's growth potential."
+description = "D. Boral Capital facilitates Omeros Corporation's $22M stock offering at a 14% premium, showcasing investor confidence and strategic financial advisory."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-d-boral-capital-llc-acts-as-exclusive-placement-agent-for-22-million-omeros-nasdaq-omer-offering/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/1/6c456c5501b8fb1ecb000f6d0fd70715.png"
+article_id = 131589
+feed_item_id = 17977
+url = "/202508/131589-omeros-corporation-secures-22-million-in-direct-offering-with-d-boral-capital-llc-as-exclusive-placement-agent"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/herbykEa.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Omeros Corporation (NASDAQ: OMER), a player in the biopharmaceutical industry, recently completed a registered direct offering that raised approximately $22 million, with D. Boral Capital LLC serving as the exclusive placement agent. The transaction, finalized on July 28, 2025, involved the sale of 5,365,853 shares of common stock at $4.10 per share, representing a 14% premium to the closing price on July 24, 2025. This strategic move was executed under a 'shelf' Registration Statement on Form S-3, demonstrating Omeros's proactive approach to securing funding for its ambitious projects.</p><p>The involvement of Polar Asset Management Partners as a significant investor in this offering underscores the market's confidence in Omeros Corporation's potential and the biopharmaceutical sector's attractiveness. D. Boral Capital LLC's role in this transaction highlights its expertise in facilitating complex financial deals for middle-market and emerging growth companies. With a history of aggregating around $30 billion in capital since its establishment in 2020, D. Boral Capital LLC continues to solidify its reputation as a leading investment bank. More details about their services can be found at <a href='https://dboralcapital.com/' rel='nofollow' target='_blank'>https://dboralcapital.com/</a>.</p><p>This capital infusion is pivotal for Omeros Corporation as it seeks to advance its research and development efforts. The successful offering not only provides the company with the necessary resources to pursue its scientific and commercial objectives but also reflects the broader investor interest in the biopharmaceutical industry. Such financial strategies are crucial for companies like Omeros to overcome the inherent challenges of drug development and commercialization in a competitive landscape, marking a significant step forward in their growth trajectory.</p>

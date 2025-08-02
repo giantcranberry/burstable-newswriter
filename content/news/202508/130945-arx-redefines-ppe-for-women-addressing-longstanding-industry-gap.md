@@ -6,7 +6,6 @@ summary = "ARX, a women-owned PPE brand, is transforming safety gear by designin
 description = "ARX, co-founded by Kaitlin McCarthy and Dr. Hilary Gallin, is transforming PPE with gear designed for women, ensuring safety and comfort. Learn how they're changing the industry."
 source_link = "https://www.citybiz.co/article/725718/qa-with-kaitlin-mccarthy-and-dr-hilary-galin-co-founders-of-arx/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/2fe4ec69d9ab344b5a92bbb4f6346b51.jpg"
-featured = true
 article_id = 130945
 feed_item_id = 17975
 url = "/202508/130945-arx-redefines-ppe-for-women-addressing-longstanding-industry-gap"

@@ -1,0 +1,16 @@
++++
+title = "PowerBank Corporation Rebrands to Reflect Expanded Clean Energy Portfolio"
+date = "2025-08-01T18:50:33Z"
+draft = false
+summary = "PowerBank Corporation's rebranding from SolarBank Corporation signifies its strategic shift towards a comprehensive clean energy solutions provider, highlighting its ambitions in solar and battery storage markets."
+description = "PowerBank Corporation rebrands from SolarBank, signaling a broader clean energy strategy with a $100M financing boost for U.S. projects. Explore its growth potential."
+source_link = "https://rss.investorbrandnetwork.com/rns/powerbank-corp-nasdaq-suun-cboe-ca-sunn-fse-103-name-change-signals-broader-energy-strategy-and-investor-growth-potential/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/1/5b4ba8621fbcd9bdee4e983b66f78297.png"
+article_id = 131585
+feed_item_id = 17984
+url = "/202508/131585-powerbank-corporation-rebrands-to-reflect-expanded-clean-energy-portfolio"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/irisTwNT.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>PowerBank Corporation, previously known as SolarBank Corporation, has embarked on a significant rebranding initiative, effective July 28, 2025, to mirror its broader clean energy portfolio. This change, endorsed by shareholders, marks the company's transition from a solar-centric entity to a versatile clean energy solutions provider, without impacting its share capital or necessitating shareholder action. Trading under NASDAQ: SUUN, Cboe CA: SUNN, and FSE: 103, PowerBank Corporation boasts a project pipeline over one gigawatt and a completed project base of 100 MW.</p><p>The rebranding aligns with PowerBank Corporation's strategic ambitions in the solar and battery storage sectors, further bolstered by a recent $100 million financing agreement with CIM Group. This partnership is set to expedite the development of U.S. projects, taking advantage of favorable U.S. tax incentives and Canadian contract programs to ensure stable growth and attract investors. The company's evolution is detailed in a recent announcement (<a href='https://ibn.fm/CDCjI' rel='nofollow' target='_blank'>https://ibn.fm/CDCjI</a>), showcasing its shift towards a more diversified energy infrastructure platform.</p><p>This strategic pivot underscores PowerBank Corporation's commitment to supporting the digital economy through a wide array of clean energy solutions. The rebranding not only reflects the company's expanded capabilities but also its readiness to address the increasing demand for renewable energy in North America. For those interested in following PowerBank Corporation's progress, further details are available in the company's newsroom (<a href='https://ibn.fm/SUUN' rel='nofollow' target='_blank'>https://ibn.fm/SUUN</a>).</p><p>The transition to PowerBank Corporation represents a critical milestone in the company's journey, signaling its enhanced vision and capacity to lead in the future of clean energy. This move is indicative of the broader industry trend towards diversification and innovation in renewable energy solutions, positioning PowerBank Corporation as a key player in the transition to a sustainable energy future.</p>
