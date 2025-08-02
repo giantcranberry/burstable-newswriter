@@ -6,7 +6,6 @@ summary = "Optek Films is transforming the paint protection film industry by off
 description = "Optek Films leads the PPF industry with affordable, high-quality paint protection films, offering installers 35% savings and higher profit margins. Join the revolution today."
 source_link = "https://newsroom.prkarma.com/counterflowmarketing/news_release/1675"
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/0b2479fc006307dcfc6e3d9768324393.jpg"
-featured = true
 article_id = 131579
 feed_item_id = 17991
 url = "/202508/131579-optek-films-revolutionizes-paint-protection-film-industry-with-affordable-high-quality-solutions"
