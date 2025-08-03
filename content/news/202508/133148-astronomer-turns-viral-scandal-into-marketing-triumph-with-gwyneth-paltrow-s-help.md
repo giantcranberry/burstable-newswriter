@@ -6,7 +6,6 @@ summary = "Astronomer leveraged a viral scandal into a successful marketing camp
 description = "Astronomer turns a viral scandal into a marketing masterpiece with Gwyneth Paltrow's help, showcasing innovative crisis management and brand redemption."
 source_link = "https://www.citybiz.co/article/726038/gwyneth-paltrow-helps-astronomer-spin-a-scandal-into-a-viral-redemption/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f559a64f1e64321b7df53d12de7a7601.jpg"
-featured = true
 article_id = 133148
 feed_item_id = 18013
 url = "/202508/133148-astronomer-turns-viral-scandal-into-marketing-triumph-with-gwyneth-paltrow-s-help"
