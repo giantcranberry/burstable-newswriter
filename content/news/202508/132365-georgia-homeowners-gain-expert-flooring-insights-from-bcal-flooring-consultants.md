@@ -6,7 +6,6 @@ summary = "BCAL Flooring Consultants offers Georgia homeowners expert advice on 
 description = "Discover expert flooring solutions for your home with BCAL Flooring Consultants. Learn how to choose and install the perfect flooring to revitalize your space."
 source_link = "https://mediawiretoday.com/flooring-experts-reveal-tips-and-solutions-for-damaged-dated-worn-out-floors-374895"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/9a3b0d29c2994277c1d6000de79aa84b.jpg"
-featured = true
 article_id = 132365
 feed_item_id = 18012
 url = "/202508/132365-georgia-homeowners-gain-expert-flooring-insights-from-bcal-flooring-consultants"
