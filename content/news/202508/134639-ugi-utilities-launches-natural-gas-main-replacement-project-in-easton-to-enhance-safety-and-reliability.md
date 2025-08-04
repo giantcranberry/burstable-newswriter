@@ -1,0 +1,16 @@
++++
+title = "UGI Utilities Launches Natural Gas Main Replacement Project in Easton to Enhance Safety and Reliability"
+date = "2025-08-04T14:35:18Z"
+draft = false
+summary = "UGI Utilities, Inc. begins a major natural gas infrastructure upgrade in Easton, aiming to improve service reliability and offer residents and businesses a more efficient energy solution."
+description = "UGI Utilities begins Easton gas main replacement, offering conversion to natural gas for locals, enhancing safety and reliability. Learn more."
+source_link = "https://ugi.reportablenews.com/pr/ugi-set-to-begin-system-upgrades-in-easton"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/8a42781b7ea329edd496a0d8c6511e9c.jpg"
+article_id = 134639
+feed_item_id = 18049
+url = "/202508/134639-ugi-utilities-launches-natural-gas-main-replacement-project-in-easton-to-enhance-safety-and-reliability"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/4/poemfZL4.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities, Inc. has initiated a significant natural gas main replacement project in Easton, marking a pivotal step towards modernizing the area's energy infrastructure. Scheduled to commence on Wednesday, August 6, this project highlights UGI's commitment to maintaining the safety and reliability of its natural gas services. The initiative not only focuses on upgrading the existing infrastructure but also provides an opportunity for properties along the construction path to transition to natural gas, potentially unlocking more efficient and cost-effective energy solutions for the community.</p><p>The construction, anticipated to wrap up by mid-October, will primarily impact North 13th Street between Bushkill Drive and Wood Avenue. Residents and commuters should prepare for road closures, detours, and possible traffic delays during the project's operating hours from Monday to Friday, 7:00am to 5:00pm. Additionally, parking restrictions on the affected streets and temporary natural gas service interruptions are expected, as UGI may need access to properties for equipment inspection and relighting purposes.</p><p>While the underground work is expected to be completed by October, the final paving and restoration will be scheduled for a later date, depending on weather and working conditions. UGI encourages those interested in converting to natural gas to explore this opportunity by contacting them through their official channels. For further information about UGI Utilities, Inc. and their services, visit <a href='https://www.ugi.com' rel='nofollow' target='_blank'>https://www.ugi.com</a>.</p><p>This project represents a crucial investment in Easton's future, promising not only to enhance the safety and efficiency of natural gas services but also to offer environmental benefits by facilitating access to cleaner energy options. Beyond the temporary inconveniences, the long-term implications of this infrastructure upgrade are significant, setting a foundation for sustainable energy use and reliability in the Easton area.</p>

@@ -1,0 +1,16 @@
++++
+title = "Rental Market Dynamics and Investment Strategies in a Post-Pandemic Era"
+date = "2025-08-04T15:41:00Z"
+draft = false
+summary = "The rental market shows regional variations with potential stabilization ahead, as experts highlight investment strategies and insurance essentials for real estate investors."
+description = "Charles Goodwin of Kiavi shares expert insights on rental market trends, investment strategies, and insurance essentials for real estate investors in a bifurcated market."
+source_link = "https://www.citybiz.co/article/726426/qa-with-charles-goodwin-vp-of-bridge-and-dscr-lending-at-kiavi-on-the-rental-market-insurance-considerations-and-whats-driving-demand/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1c7ff1c558858d7615c13f98209e97af.jpg"
+article_id = 134786
+feed_item_id = 18059
+url = "/202508/134786-rental-market-dynamics-and-investment-strategies-in-a-post-pandemic-era"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/kiwil4Mg.webp"
+source = "citybiz"
++++
+
+<p>The rental market is navigating through a phase of notable regional and property type disparities, as outlined by Charles Goodwin, VP of Bridge and DSCR Lending at Kiavi. The surge in construction starts, especially in the apartment sector post-COVID-19 pandemic, initially led to an oversupply, exerting downward pressure on rents. However, Goodwin observes that this excess is starting to be absorbed, indicating a possible stabilization and future strengthening of rent growth.</p><p>Single-family rentals (SFR), build-to-rent (BTR), and apartments continue to attract interest, contrasting with the slowed for-sale market due to rising inventory. The Midwest emerges as a region with robust rent performance, attributed to limited new construction during the pandemic. Cities such as Indianapolis, Indiana, stand out, supported by low unemployment rates and decreased out-migration.</p><p>Goodwin underscores the critical role of insurance for real estate investors, pinpointing property, liability, and loss of rent as essential coverages. He advocates for securing insurance ahead of closing to prevent delays, particularly in seasons prone to natural disasters. For investors eyeing out-of-state opportunities, Goodwin suggests evaluating job growth, rental supply, and market fundamentals, leveraging tools like <a href='https://www.redfin.com/news/data-center/' rel='nofollow' target='_blank'>Redfin’s data center</a> for in-depth market insights.</p><p>On investment tactics, Goodwin reaffirms the BRRRR (Buy, Renovate, Rent, Refinance, Repeat) strategy's efficacy, especially when aligned with appropriate financing. He emphasizes the value of fostering seller relationships and ensuring readiness with financing and insurance to seize current market opportunities. Contrary to some media forecasts, Goodwin does not anticipate a substantial rise in foreclosure prospects, recommending a strategic and well-prepared approach to real estate investment.</p>

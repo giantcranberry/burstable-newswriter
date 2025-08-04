@@ -6,7 +6,6 @@ summary = "Vivakor, Inc. sets its 2025 Annual Shareholder Meeting in Dallas, off
 description = "Vivakor announces 2025 Annual Shareholder Meeting in Dallas, highlighting its energy sector innovations. InvestorWire amplifies the news, showcasing strategic communication's role."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-vivakor-inc-nasdaq-vivk-sets-date-for-in-person-annual-shareholder-meeting/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/051b3a26d0853fbaa4858ea8d9ac0196.png"
-featured = true
 article_id = 134248
 feed_item_id = 18046
 url = "/202508/134248-vivakor-inc-announces-annual-shareholder-meeting-for-2025"

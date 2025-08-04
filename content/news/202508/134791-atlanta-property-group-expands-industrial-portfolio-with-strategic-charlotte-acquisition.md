@@ -1,0 +1,16 @@
++++
+title = "Atlanta Property Group Expands Industrial Portfolio with Strategic Charlotte Acquisition"
+date = "2025-08-04T15:20:50Z"
+draft = false
+summary = "Atlanta Property Group's acquisition of a key distribution facility in Charlotte underscores the firm's aggressive expansion in the Southeast's industrial real estate market, highlighting the region's growth potential driven by e-commerce and logistics demand."
+description = "Atlanta Property Group acquires 5416 Wyoming Ave., expanding its industrial portfolio in Charlotte, N.C., signaling strong growth in Southeastern U.S. industrial real estate."
+source_link = "https://www.citybiz.co/article/726397/atlanta-property-group-expands-industrial-portfolio-with-charlotte-north-carolina-acquisition/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/508dc8dfc74b8b9ef5475c020cc105fa.jpg"
+article_id = 134791
+feed_item_id = 18057
+url = "/202508/134791-atlanta-property-group-expands-industrial-portfolio-with-strategic-charlotte-acquisition"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/dash2jqZ.webp"
+source = "citybiz"
++++
+
+<p>Atlanta Property Group (APG) has made a significant addition to its industrial real estate portfolio with the purchase of an 80,000-square-foot distribution facility located at 5416 Wyoming Ave. in Charlotte, North Carolina. This acquisition is part of APG's broader strategy to invest in high-demand industrial assets across the Southeast, further establishing the firm's presence in a region experiencing rapid growth due to the e-commerce boom and increased logistics needs.</p><p>The newly acquired property, situated in the Westinghouse industrial submarket, boasts a prime location and features designed to meet the demands of modern logistics operations, including 18’-21’ clear heights, a 150’ truck court, and full-building HVAC. Currently fully leased, the facility's institutional-quality amenities and last-mile distribution capabilities make it a strategic asset for APG. Smith Haverty, a partner at APG, highlighted the Westinghouse submarket's excellent transportation access and the scarcity of developable land as pivotal factors in the decision to invest.</p><p>Since 2022, APG has aggressively expanded its portfolio, acquiring 16 industrial buildings. The firm has announced plans to invest $150 million in distribution properties across several Southeastern markets by the end of 2025, aiming to solidify its position as a leader in the industrial real estate sector. This latest acquisition not only reflects APG's ambitious growth strategy but also signals the robust health of the industrial market in the Southeast, fueled by the relentless growth of e-commerce and the need for efficient logistics solutions.</p><p>For those interested in learning more about Atlanta Property Group and its expanding portfolio, further details can be found at <a href="https://www.atlantapropertygroup.com" rel="nofollow" target="_blank">https://www.atlantapropertygroup.com</a>. APG's strategic investments in markets like Charlotte provide valuable insights into the future of industrial real estate in the Southeast, offering a glimpse into where the next growth opportunities may lie for investors and industry stakeholders.</p>

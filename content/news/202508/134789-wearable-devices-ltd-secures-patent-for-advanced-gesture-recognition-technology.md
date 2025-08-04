@@ -1,0 +1,16 @@
++++
+title = "Wearable Devices Ltd. Secures Patent for Advanced Gesture Recognition Technology"
+date = "2025-08-04T15:40:47Z"
+draft = false
+summary = "Wearable Devices Ltd. enhances its AI-powered touchless sensing wearables with a new patent, promising to revolutionize human-computer interaction in XR headsets and smart devices."
+description = "Wearable Devices Ltd. enhances touchless tech with new patent, advancing AI-powered gesture control for XR headsets and smart devices. Discover more."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-wearable-devices-ltd-nasdaq-wlds-wldsw-secures-continuation-patent-for-gesture-and-voice-control-interface/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/4/399975fee7a3180ed2cb51a4f5eef9c9.png"
+article_id = 134789
+feed_item_id = 18058
+url = "/202508/134789-wearable-devices-ltd-secures-patent-for-advanced-gesture-recognition-technology"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/gleeGwtS.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Wearable Devices Ltd. (NASDAQ: WLDS, WLDSW) has recently achieved a significant milestone with the U.S. Patent and Trademark Office granting a continuation patent for its innovative gesture recognition technology. This patent extends the company's original 'Gesture and Voice-Controlled Interface Device' patent, introducing a groundbreaking method for detecting the start and end points of continuous gestures. This advancement is set to redefine the standards of neural interface technologies, offering users a more intuitive and efficient way to interact with digital devices without the need for physical contact or voice commands.</p><p>The technology addresses the inherent limitations of traditional gesture and voice control systems, opening up new possibilities for its application in extended reality (XR) headsets, smart devices, and electromyography (EMG)-based wearables. Guy Wagner, President and Chief Scientific Officer of Wearable Devices Ltd., highlighted the patent's role in enhancing the company's gesture recognition engine and advancing its goal of creating seamless digital interactions. This development is expected to have a profound impact on the way users engage with technology, making digital interactions more natural and accessible.</p><p>Wearable Devices Ltd. is pioneering the future of human-computer interaction with its AI-powered neural input technology. The company's flagship products, such as the Mudra Band for iOS and Mudra Link for Android, utilize proprietary sensors, software, and sophisticated AI algorithms to facilitate touch-free control. These innovations are particularly relevant in the context of the rapidly growing augmented reality (AR), virtual reality (VR), and XR markets, where the demand for intuitive and seamless control mechanisms is at an all-time high.</p><p>For those interested in learning more about Wearable Devices Ltd. and its cutting-edge technologies, additional information can be found <a href='https://ibn.fm/Uy8ft' rel='nofollow' target='_blank'>here</a>. Updates and news regarding WLDS are also available in the company's newsroom <a href='https://ibn.fm/WLDS' rel='nofollow' target='_blank'>here</a>.</p>

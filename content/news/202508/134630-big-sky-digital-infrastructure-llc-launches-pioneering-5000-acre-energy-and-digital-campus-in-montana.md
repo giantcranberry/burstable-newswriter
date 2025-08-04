@@ -1,0 +1,16 @@
++++
+title = "Big Sky Digital Infrastructure LLC Launches Pioneering 5,000-Acre Energy and Digital Campus in Montana"
+date = "2025-08-04T15:10:44Z"
+draft = false
+summary = "Quantica Infrastructure, LLC announces the launch of Big Sky Digital Infrastructure LLC, a 5,000-acre energy and digital infrastructure campus in Montana, set to revolutionize the integration of renewable energy with digital economy demands."
+description = "Quantica Infrastructure launches Big Sky Digital Infrastructure, a 5,000-acre renewable energy and digital campus in Montana, aiming for 1 GW capacity."
+source_link = "https://www.citybiz.co/article/726391/quantica-infrastructure-launches-big-sky-digital-infrastructure-as-its-flagship-development-platform-in-montana/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/279acbab7e65d53b1f8e93ed3d38c8c0.png"
+article_id = 134630
+feed_item_id = 18052
+url = "/202508/134630-big-sky-digital-infrastructure-llc-launches-pioneering-5000-acre-energy-and-digital-campus-in-montana"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/takeUQ6p.webp"
+source = "citybiz"
++++
+
+<p>Quantica Infrastructure, LLC has unveiled Big Sky Digital Infrastructure LLC (BSDI), a groundbreaking 5,000-acre energy and digital infrastructure campus near Billings, Montana. Scheduled for construction commencement in 2026, the project is poised to initially deliver 500 MW of renewable power and battery energy storage, with scalability up to 1 GW. This initiative marks a pivotal advancement in merging Montana's abundant natural resources with the escalating needs of the digital sector.</p><p>Damon Obie, co-founder of Big Sky Digital Infrastructure and a Montana native, articulated the project's vision to balance the state's historical legacy with future technological advancements. Quantica Infrastructure plans to harness Montana's expansive terrains and renewable energy capabilities to forge a durable and eco-friendly digital infrastructure framework. This encompasses extensive renewable energy and battery storage systems, complemented by hundreds of miles of fiber-ready underground conduits to guarantee swift and dependable connectivity.</p><p>John Chesser, another co-founder, shed light on the project's capacity to foster job creation and infrastructural investments, extending benefits beyond the digital realm to local communities, educational institutions, and healthcare facilities. Charlie Baker, BSDI’s Chief Financial Officer, with extensive experience in Montana's power sector, emphasized the innovative strategy of blending conventional grid power with renewable sources and battery storage to achieve sustainability and reliability objectives.</p><p>The Big Sky Campus is envisioned as a cutting-edge response to the surging demand for hyperscale, AI, and cloud computing services. By providing a comprehensive suite of land, renewable energy, and high-speed fiber, BSDI is set to significantly influence Montana's economic and digital evolution. The project anticipates generating a multitude of construction and permanent employment opportunities, bolstering local economic growth and workforce development, thereby cementing Montana's role in the digital era while preserving its core values and heritage.</p>

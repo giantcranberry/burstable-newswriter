@@ -1,0 +1,16 @@
++++
+title = "Quantum BioPharma Challenges Major Financial Institutions Over Alleged Market Manipulation"
+date = "2025-08-04T15:20:35Z"
+draft = false
+summary = "Quantum BioPharma Ltd. opposes a motion to dismiss in a lawsuit alleging market manipulation by CIBC World Markets and RBC Dominion Securities, seeking over $700 million in damages and highlighting the need for stronger securities law enforcement."
+description = "Quantum BioPharma Ltd. opposes motion to dismiss in $700M market manipulation case, while advancing biotech solutions for neurodegenerative disorders."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-quantum-biopharma-ltd-nasdaq-qntm-cse-qntm-opposes-motion-to-dismiss-in-700-million-market-manipulation-lawsuit/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/4/16e78f16183db56643e729a548c74d44.png"
+article_id = 134795
+feed_item_id = 18054
+url = "/202508/134795-quantum-biopharma-challenges-major-financial-institutions-over-alleged-market-manipulation"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/pintEoHc.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Quantum BioPharma Ltd. (NASDAQ: QNTM) (CSE: QNTM) has publicly opposed a joint motion to dismiss filed by CIBC World Markets and RBC Dominion Securities in a U.S. District Court. The lawsuit, which seeks over $700 million in damages, alleges that these financial institutions engaged in market manipulation through 'spoofing' between January 1, 2020, and August 15, 2024. This legal action underscores the company's allegations of significant violations of federal securities laws, with the potential to impact not only Quantum BioPharma but also the broader financial market's integrity.</p><p>The allegations detail hundreds of spoofing instances that artificially depressed Quantum's stock price, which had reached above $460 per share at its peak. Represented by Christian Attar and Freedman Normand Friedland LLP on a contingency basis, Quantum BioPharma's opposition to the motion to dismiss reflects its determination to seek justice for its shareholders and to challenge practices that undermine market fairness. For more information on the case, visit <a href='https://ibn.fm/aVf7r' rel='nofollow' target='_blank'>https://ibn.fm/aVf7r</a>.</p><p>This lawsuit transcends the immediate financial implications for Quantum BioPharma, raising critical questions about the effectiveness of current securities laws and regulatory frameworks in preventing market manipulation. The outcome could set a precedent for how similar cases are handled in the future, potentially leading to stricter enforcement mechanisms and greater protections for investors against fraudulent activities.</p><p>Amidst its legal challenges, Quantum BioPharma remains committed to its core mission in the biopharmaceutical sector. The company is at the forefront of developing innovative treatments for neurodegenerative and metabolic disorders, as well as alcohol misuse disorders. This dual focus on advancing medical science and ensuring corporate accountability illustrates Quantum BioPharma's comprehensive approach to fostering long-term value for its stakeholders and contributing to societal health and well-being.</p>
