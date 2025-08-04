@@ -6,7 +6,6 @@ summary = "Magfast's magnetic charging solutions and Limon Day Trips' audio-base
 description = "Discover how MAGFAST and Limon Day Trips are innovating in their industries on Go Fund Yourself. Watch the episode and explore investment opportunities now."
 source_link = "https://www.citybiz.co/article/726081/magfast-and-limon-day-trips-showcase-innovation-and-investor-appeal-on-go-fund-yourself/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f5addd3f67eabfc9bc4c5f0d0386255e.jpg"
-featured = true
 article_id = 133413
 feed_item_id = 18016
 url = "/202508/133413-magfast-and-limon-day-trips-shine-on-go-fund-yourself-highlighting-innovation-in-charging-and-travel"

@@ -1,0 +1,16 @@
++++
+title = "DocsHunt Selected for Microsoft's 2025 Majung Program, Paving the Way for AI-Driven Document Automation"
+date = "2025-08-04T07:00:25Z"
+draft = false
+summary = "DocsHunt, an AI business plan platform by Sapere Aude Inc., joins Microsoft's 2025 Majung Program, highlighting its potential to transform document creation and management with AI, backed by significant funding and support for global market entry."
+description = "Sapere Aude's DocsHunt, an AI business plan SaaS, joins 2025 Majung Program, gaining support for global expansion and North American market entry."
+source_link = "https://www.24-7pressrelease.com/press-release/525515/ai-business-plan-platform-docshunt-selected-for-majung-program-a-startup-support-initiative-by-microsoft-and-the-korean-government"
+enclosure = "https://cdn.newsramp.app/genai/images/258/4/6a0390bf8cb226f32e34e4839e5490cf.png"
+article_id = 134416
+feed_item_id = 18033
+url = "/202508/134416-docshunt-selected-for-microsoft-s-2025-majung-program-paving-the-way-for-ai-driven-document-automation"
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/4/daveHAMl.webp"
+source = "24-7 Press Release"
++++
+
+<p>The AI business plan platform DocsHunt, developed by Sapere Aude Inc., has been selected for the 2025 Majung Program, a startup support initiative by Microsoft and the Korean Ministry of SMEs and Startups. This selection not only validates the platform's innovative approach to document automation but also sets the stage for its expansion into the North American market.</p><p>Through the Majung Program, Sapere Aude Inc. will receive up to $150,000 in commercialization funding, Microsoft Azure credits, and access to expert technical training and global marketing support. This comprehensive support package is expected to accelerate DocsHunt's technological development and its strategic entry into new markets, following its successful domestic launch in August.</p><p>DocsHunt leverages AI to automate the creation of comprehensive business plans, including market analysis and financial projections. Its unique features, such as the AI Copilot, provide professional suggestions to enhance document quality, while its ability to reformat content to fit custom Microsoft Word templates addresses a common business challenge, saving valuable time and resources.</p><p>Microsoft's involvement in the Majung Program underscores the significance of DocsHunt's innovation in the document automation SaaS market. Kim Sung-woo, CEO of Sapere Aude Inc., highlighted the platform's mission to eliminate inefficiencies in document creation, enabling businesses to concentrate on strategy and growth. The support from the Majung Program is viewed as a critical enabler for DocsHunt's ambition to establish a global presence, starting with North America.</p><p>This development not only showcases DocsHunt's technical prowess but also signals the increasing role of AI in streamlining business processes. It offers a glimpse into the future of document automation and management, where AI-driven solutions like DocsHunt could become indispensable tools for businesses worldwide.</p>
