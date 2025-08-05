@@ -1,0 +1,16 @@
++++
+title = "Safe Pro Group's SpotlightAI to Enhance U.S. Army's Defense Capabilities in 2026 Experiment"
+date = "2025-08-04T18:10:41Z"
+draft = false
+summary = "Safe Pro Group Inc.'s SpotlightAI platform has been selected for the U.S. Army's Concept Focused Warfighting Experiment Maneuver in 2026, highlighting the growing role of AI in military safety and operations."
+description = "Safe Pro Group (NASDAQ: SPAI) to demonstrate AI-powered threat detection at U.S. Army's CFWE-M 2026, showcasing advancements in military technology and safety."
+source_link = "https://rss.investorbrandnetwork.com/ainw/safe-pro-group-inc-s-nasdaq-spai-drone-based-ai-tech-selected-for-next-years-u-s-army-futures-command-experiment/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/4/cf299251bcda79faa6651ccd35ed9da2.png"
+article_id = 135117
+feed_item_id = 18072
+url = "/202508/135117-safe-pro-group-s-spotlightai-to-enhance-u-s-army-s-defense-capabilities-in-2026-experiment"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/navy4Fr5.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Safe Pro Group Inc. (NASDAQ: SPAI) has announced its SpotlightAI(TM) platform will participate in the U.S. Army's Concept Focused Warfighting Experiment Maneuver (CFWE-M) in 2026, marking a significant milestone in the integration of artificial intelligence into military defense strategies. The event, scheduled at Fort Benning, Georgia, is part of the Army's initiative to modernize small unit capabilities, with SpotlightAI's inclusion underscoring the technology's potential to revolutionize military operations.</p><p>The SpotlightAI platform specializes in detecting explosive threats from drone imagery in near real-time, a capability honed through analysis of over 1.6 million drone images from Ukraine, leading to the identification of more than 28,000 threats. By integrating this system into the Army's TAK ecosystem, the aim is to provide soldiers with instant alerts, drastically reducing the time and risk involved in explosive threat detection. This advancement not only enhances soldier safety but also represents a leap forward in the application of AI in defense.</p><p>Safe Pro Group's selection for the CFWE-M 2026 experiment demonstrates the effectiveness of combining commercially available drones with cutting-edge AI to tackle intricate security challenges. The Army Futures Command, established to maintain the U.S. Army's edge in a technology-driven battlefield, recognizes the transformative potential of SpotlightAI. This experiment will serve as a critical evaluation of how AI can be leveraged to improve operational efficiency and safety in military contexts.</p><p>For further details on Safe Pro Group Inc. and its innovative solutions, visit <a href='https://ibn.fm/SPAI' rel='nofollow' target='_blank'>https://ibn.fm/SPAI</a>. The company's role in the CFWE-M 2026 experiment is a clear indication of the pivotal position AI and drone technology hold in the future of military defense and security operations, promising to redefine the landscape of modern warfare.</p>

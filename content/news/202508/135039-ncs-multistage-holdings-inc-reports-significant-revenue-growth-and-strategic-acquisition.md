@@ -1,0 +1,17 @@
++++
+title = "NCS Multistage Holdings, Inc. Reports Significant Revenue Growth and Strategic Acquisition"
+date = "2025-08-04T20:10:58Z"
+draft = false
+summary = "NCS Multistage Holdings, Inc. showcases a 22.8% year-over-year revenue increase in Q2 2025, driven by fracturing systems activity and a strategic acquisition, positioning the company for continued growth in high-margin markets."
+description = "NCS Multistage Holdings reports 22.8% revenue growth in 2Q25, driven by fracturing systems and frac plug sales, and strategic ResMetrics acquisition for expansion."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-coverage-on-ncs-multistage-holdings-inc-nasdaq-ncsm-2025-q2"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/2bf2f876f1edacf50d90f28d2ae61efe.png"
+featured = true
+article_id = 135039
+feed_item_id = 18081
+url = "/202508/135039-ncs-multistage-holdings-inc-reports-significant-revenue-growth-and-strategic-acquisition"
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/4/pitapico9SNC.webp"
+source = "Reportable"
++++
+
+<p>NCS Multistage Holdings, Inc. (NASDAQ: NCSM) has announced a 22.8% year-over-year increase in total revenues for the second quarter of 2025, achieving $36.5M. This growth is attributed to increased activity in fracturing systems and frac plug sales in Canada and the U.S., demonstrating the company's ability to thrive in variable market conditions. While seasonal factors led to a revenue decrease in Canada, the U.S. market experienced a 45% sequential revenue growth, thanks to the resumption of delayed projects.</p><p>The company's strategic acquisition of ResMetrics LLC for $5.9M, plus potential earn-outs, is a significant step towards enhancing its diagnostics portfolio and expanding into high-margin markets. ResMetrics, with its impressive trailing 12-month revenue of over $10M and EBITDA margins exceeding 30%, is poised to make a substantial contribution to NCSM's revenue and EBITDA for the rest of FY25. This move not only broadens NCSM's service offerings but also solidifies its presence in the U.S. and Middle East, in line with its long-term growth strategy.</p><p>Financially, NCSM is in a strong position with $42.6M in available liquidity and a modest total debt of $7.7M. The company has updated its full-year revenue guidance to between $172.0M and $181.0M, with adjusted EBITDA expected to range from $22.0M to $25.5M. These projections reflect NCSM's positive outlook and its capacity to manage the challenges of the global market through strategic acquisitions and operational improvements.</p><p>According to Stonegate Capital Partners, NCSM's valuation is estimated between $38.09 and $44.52, with a midpoint of $40.89, based on DCF and EV/EBITDA valuation methods. This valuation highlights the market's belief in NCSM's growth potential and its strategic efforts to expand its international market share. For more information on NCS Multistage Holdings, Inc.'s performance and strategic initiatives, visit <a href='https://www.ncsmultistage.com' rel='nofollow' target='_blank'>https://www.ncsmultistage.com</a>.</p>

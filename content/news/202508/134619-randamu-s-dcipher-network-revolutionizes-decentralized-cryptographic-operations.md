@@ -6,7 +6,6 @@ summary = "Randamu's dcipher network introduces a permissionless threshold netwo
 description = "Discover how Randamu's dcipher network is setting new standards for decentralized cryptographic infrastructure in Web3, enabling secure, trust-minimized digital interactions."
 source_link = "https://www.citybiz.co/article/726513/qa-with-andrew-slack-head-of-product-at-randamu/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/dcd9c2075b20aa32da05b67635758646.png"
-featured = true
 article_id = 134619
 feed_item_id = 18068
 url = "/202508/134619-randamu-s-dcipher-network-revolutionizes-decentralized-cryptographic-operations"

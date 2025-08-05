@@ -1,0 +1,16 @@
++++
+title = "McEwen Inc. to Host Conference Call Discussing Q2 Financial Results and Project Updates"
+date = "2025-08-04T18:01:05Z"
+draft = false
+summary = "McEwen Inc. announces a conference call to discuss its second quarter financial results and project updates, highlighting its commitment to transparency and stakeholder engagement."
+description = "McEwen Mining announces August conference call for Q2 results and project updates, including the Los Azules copper project. A must-read for mining investors."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-mcewen-inc-nyse-mux-tsx-mux-schedules-q2-2025-results-conference-call-for-august-7/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/4/dfa96d2b58c7fa03ce41426e4d123be2.png"
+article_id = 135119
+feed_item_id = 18070
+url = "/202508/135119-mcewen-inc-to-host-conference-call-discussing-q2-financial-results-and-project-updates"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/vibeyNoA.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>McEwen Inc. (NYSE: MUX) (TSX: MUX) has announced a conference call scheduled for August 7, 2025, at 11:00 a.m. EDT, focusing on its second quarter financial results and providing updates on its ongoing projects. This event is pivotal for investors and stakeholders keen on understanding the company's current performance and strategic direction. The inclusion of a question-and-answer session during the call will allow participants to interact directly with the company's leadership, offering insights into McEwen Inc.'s operations and future plans.</p><p>Operating in the gold and silver production sectors across Nevada, Canada, Mexico, and Argentina, McEwen Inc. is also advancing in copper production, thanks to its majority stake in McEwen Copper. The Los Azules copper project in Argentina stands out as a critical asset in the company's portfolio, aimed at boosting productivity and extending the lifespan of its resources. Under the leadership of Rob McEwen, who has personally invested in the company's success, McEwen Inc. is dedicated to enhancing shareholder value and achieving sustainable yields.</p><p>For further details on the conference call or McEwen Inc.'s operations, interested parties can visit <a href='https://ibn.fm/5tLA0' rel='nofollow' target='_blank'>https://ibn.fm/5tLA0</a>. This initiative reflects the company's commitment to maintaining transparency and fostering strong relationships with its stakeholders, emphasizing the significance of the upcoming conference call.</p><p>InvestorWire, the platform responsible for the press release, offers advanced wire-grade press release syndication and a variety of corporate communications solutions. More information about their services is available at <a href='https://www.InvestorWire.com' rel='nofollow' target='_blank'>https://www.InvestorWire.com</a>. McEwen Inc.'s announcement underscores its dedication to keeping investors well-informed and actively involved in its journey, addressing both its achievements and the challenges it faces.</p>

@@ -1,0 +1,16 @@
++++
+title = "Behar Gibbs Savage Paulson LLP Strengthens Southern California Presence with New Long Beach Office Lease"
+date = "2025-08-04T20:10:41Z"
+draft = false
+summary = "Behar Gibbs Savage Paulson LLP's new lease at 1 WTC in Long Beach highlights the firm's commitment to innovation and client service in civil defense litigation, reinforcing the area's status as a legal and commercial hub."
+description = "JLL brokers a new lease for Behar Gibbs Savage Paulson LLP at 1 WTC, Long Beach, showcasing the legal sector's role in urban development and strategic firm positioning."
+source_link = "https://www.citybiz.co/article/726763/civil-defense-law-firm-reaffirms-commitment-to-serving-clients-in-southern-california-with-newly-signed-lease-in-l-a-area/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1a0039cf6631ec7f4a32fa90122c2ef9.jpg"
+article_id = 135040
+feed_item_id = 18080
+url = "/202508/135040-behar-gibbs-savage-paulson-llp-strengthens-southern-california-presence-with-new-long-beach-office-lease"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/ovalyLUh.webp"
+source = "citybiz"
++++
+
+<p>Behar Gibbs Savage Paulson LLP, a law firm with a focus on civil defense litigation, has recently secured a new lease for a 35,754-square-foot office space at 1 WTC in Long Beach, further cementing its dedication to serving clients in Southern California. This strategic move, facilitated by <a href='https://www.jll.com' rel='nofollow' target='_blank'>JLL</a>, ensures the firm's continued presence in a location that has been its home for 35 years, occupying the top two floors of the World Trade Center. The decision to remain in this prestigious location is aimed at attracting top talent and fostering commerce in the Los Angeles and Orange County regions.</p><p>Jeff Behar, Founding Partner of Behar Gibbs Savage Paulson LLP, highlighted the importance of the World Trade Center location, describing it as one of the most prestigious in Long Beach. The firm's approach to innovation and client-focused legal strategies has established it as a leader in civil defense litigation, adept at navigating modern legal challenges to secure favorable outcomes for its clients.</p><p>The lease transaction was overseen by Mike McKeever, Managing Director at <a href='https://www.jll.com' rel='nofollow' target='_blank'>JLL</a>, who pointed out the legal sector's pivotal role in revitalizing urban areas across Southern California and beyond. Representing the landlord, Greenlaw Partners/Walton Street Capital, Jason Fine, also a Managing Director at JLL, noted the substantial investments made to upgrade the property, catering to the needs of firms and their employees in today's dynamic workplace environment.</p><p>This expansion not only signifies Behar Gibbs Savage Paulson LLP's growth but also underscores Long Beach's vibrancy as a center for legal and commercial activities. The firm's longstanding presence and renewed commitment to the area reflect the enduring appeal of Long Beach as a strategic location for businesses looking to thrive in Southern California's competitive landscape.</p>
