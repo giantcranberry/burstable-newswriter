@@ -1,0 +1,16 @@
++++
+title = "AIIR Products and DMG Corporation Forge Strategic Partnership to Advance Intelligent HVAC Solutions"
+date = "2025-08-05T13:30:46Z"
+draft = false
+summary = "AIIR Products partners with DMG Corporation to enhance access to its AI-driven HVAC systems in key markets, marking a significant step towards sustainable building practices."
+description = "AIIR Products partners with DMG Corporation to bring AI-powered HVAC solutions to the West Coast, enhancing energy efficiency and sustainability in buildings."
+source_link = "https://www.citybiz.co/article/727028/aiir-products-partners-with-dmg/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/001f2cd8f21dcb756c62d60c472aac29.jpg"
+article_id = 135580
+feed_item_id = 18111
+url = "/202508/135580-aiir-products-and-dmg-corporation-forge-strategic-partnership-to-advance-intelligent-hvac-solutions"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/voltIOw3.webp"
+source = "citybiz"
++++
+
+<p>AIIR Products, a leader in AI-driven heating and cooling innovations, has announced a strategic partnership with DMG Corporation, a prominent HVAC solutions provider with a strong foothold in California, Nevada, and Hawaii. This collaboration is set to revolutionize the accessibility of AIIR's Intelligent HVAC systems to developers and building owners in these regions, where the demand for efficient, sustainable, and space-saving climate control solutions is rapidly increasing.</p><p>The AIIR Intelligent HVAC system distinguishes itself through the integration of onboard sensors and machine learning algorithms, designed to optimize energy consumption and enhance comfort. Remarkably, it achieves up to 30% greater efficiency compared to traditional HVAC units by dynamically adapting to environmental shifts and occupant requirements. Additionally, its compact design significantly reduces space needs, doing away with the necessity for extensive ductwork or dedicated mechanical rooms, thereby maximizing usable space within buildings.</p><p>Trevor Schick, President of AIIR Products, emphasized the importance of this partnership, stating, <a href='https://www.aiirproducts.com' rel='nofollow' target='_blank'>Our partnership with DMG marks an exciting step forward as we bring AIIR’s technology to markets that are leading the way in energy efficiency and sustainable building practices.</a> Echoing this sentiment, Larry Sun, DMG Director – Engineering and Development, commended the AIIR system for its innovative approach, highlighting its synergy with DMG's dedication to offering versatile and efficient HVAC solutions for diverse applications.</p><p>Leveraging DMG's extensive network of sales engineers and technical support across the West Coast, this partnership is expected to accelerate the adoption of AIIR's cutting-edge HVAC systems across a broad spectrum of projects, including hospitality, student housing, and mixed-use developments. Beyond representing a leap forward in HVAC technology, this alliance underscores the critical role of sustainable building practices in tackling environmental challenges and enhancing the quality of living spaces.</p>

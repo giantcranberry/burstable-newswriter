@@ -1,0 +1,16 @@
++++
+title = "Duke Energy and Brookfield Forge $6 Billion Partnership to Modernize Florida's Energy Infrastructure"
+date = "2025-08-05T12:30:49Z"
+draft = false
+summary = "Duke Energy's partnership with Brookfield represents a significant investment in Florida's energy infrastructure, aiming to enhance grid reliability and sustainability for over 2 million customers."
+description = "Duke Energy and Brookfield announce a $6B partnership to enhance Florida's energy infrastructure, ensuring reliability and affordability for millions."
+source_link = "https://www.citybiz.co/article/726971/duke-energy-partners-with-brookfield-to-secure-investment-in-duke-energy-florida/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ab941b6dd9ab9f4af79fff672bffe24c.jpg"
+article_id = 135586
+feed_item_id = 18102
+url = "/202508/135586-duke-energy-and-brookfield-forge-6-billion-partnership-to-modernize-florida-s-energy-infrastructure"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/bossnskl.webp"
+source = "citybiz"
++++
+
+<p>Duke Energy has entered into a transformative partnership with Brookfield, a global infrastructure investment leader, to modernize Florida's energy infrastructure. This collaboration involves a $6 billion investment by Brookfield for a 19.7% non-controlling equity interest in Duke Energy Florida, signaling a strong commitment to meeting the growing demand for reliable and sustainable energy solutions in the state.</p><p>The partnership is set to enhance Duke Energy Florida's five-year capital plan by $4 billion, bringing the total investment in Florida to over $16 billion through 2029. This plan focuses on critical areas such as grid modernization, resilience, and generation capacity improvements, aiming to serve the evolving needs of approximately 2 million customers in central and western Florida. Duke Energy will continue to serve as the majority owner and operator, ensuring no disruptions to the workforce, operations, or leadership in the region.</p><p>Harry Sideris, Duke Energy's president and CEO, emphasized the strategic importance of this partnership in facilitating additional capital investments during a period of significant growth. The collaboration is expected to support a 5% to 7% earnings per share growth rate through 2029 and improve Duke Energy's long-term financial stability with a 100 basis point increase in its FFO/Debt target to 15%.</p><p>Sam Pollock of Brookfield shared his enthusiasm for the partnership, noting its alignment with Brookfield's strategy of investing in essential infrastructure assets that foster economic growth and generate stable, long-term returns. The transaction, which will be completed in phases, awaits regulatory approvals, with the first phase expected to close in early 2026.</p><p>This partnership not only marks a pivotal investment in Florida's energy future but also reflects the broader shift towards more sustainable and reliable energy systems. With Duke Energy's innovative approach and Brookfield's expertise in infrastructure investment, the collaboration is poised to deliver substantial benefits to Florida's customers and communities, reinforcing the state's position as a leader in energy modernization and sustainability.</p>

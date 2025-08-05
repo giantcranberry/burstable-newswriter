@@ -6,7 +6,6 @@ summary = "NCS Multistage Holdings, Inc. showcases a 22.8% year-over-year revenu
 description = "NCS Multistage Holdings reports 22.8% revenue growth in 2Q25, driven by fracturing systems and frac plug sales, and strategic ResMetrics acquisition for expansion."
 source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-updates-coverage-on-ncs-multistage-holdings-inc-nasdaq-ncsm-2025-q2"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/2bf2f876f1edacf50d90f28d2ae61efe.png"
-featured = true
 article_id = 135039
 feed_item_id = 18081
 url = "/202508/135039-ncs-multistage-holdings-inc-reports-significant-revenue-growth-and-strategic-acquisition"
