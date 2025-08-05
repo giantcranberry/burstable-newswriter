@@ -6,7 +6,6 @@ summary = "Mercedes-Benz's decision to temporarily stop exporting electric vehic
 description = "Mercedes-Benz halts U.S. EV exports after a 56% profit drop, signaling market challenges. GreenCarStocks reports on the impact and industry implications."
 source_link = "https://rss.investorbrandnetwork.com/gcs/mercedes-to-pause-ev-exports-to-the-us-as-company-profits-tumble/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/e6713b9076070d263dffe23b338d8325.png"
-featured = true
 article_id = 135572
 feed_item_id = 18117
 url = "/202508/135572-mercedes-benz-halts-ev-exports-to-the-u-s-amid-profit-decline"

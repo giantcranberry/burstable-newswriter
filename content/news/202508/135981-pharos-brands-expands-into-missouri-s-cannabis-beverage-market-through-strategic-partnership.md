@@ -1,0 +1,16 @@
++++
+title = "Pharos Brands Expands into Missouri's Cannabis Beverage Market Through Strategic Partnership"
+date = "2025-08-05T17:20:38Z"
+draft = false
+summary = "Pharos Brands partners with Keg 1 Missouri, LLC to introduce its THC-infused sparkling drinks to the St. Louis area, marking a significant step in the company's national expansion and the state's growing cannabis beverage sector."
+description = "Pharos Brands launches in Missouri with Keg 1 Missouri, offering 5mg THC sparkling drinks for a gentle, social cannabis experience. Discover more."
+source_link = "https://newsworthy.ai/news/202508051615/pharos-premium-infused-beverages-launch-in-missouri-with-keg-1-distribution"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/ba7edd940f30e75c67fcdbee1b23e528.png"
+article_id = 135981
+feed_item_id = 18144
+url = "/202508/135981-pharos-brands-expands-into-missouri-s-cannabis-beverage-market-through-strategic-partnership"
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/5/quit8cq5.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Pharos Brands, a leader in the cannabis-infused beverage industry, has announced its entry into the Missouri market through a strategic distribution agreement with Keg 1 Missouri, LLC. This partnership, effective from July 14, enables the availability of Pharos' 5mg THC sparkling drinks in several counties around St. Louis, including St. Louis, St. Charles, Warren, Franklin, Jefferson, and Lincoln. This expansion is a part of Keg 1 Missouri's initiative to broaden its portfolio of cannabis beverages, which already includes renowned brands like Plift, Cheech & Chong, Climbing Kites, Crescent 9, and Fulton Beer’s Narc.</p><p>John Hummel, Executive VP & Chief of Sales for Keg 1 Missouri, pointed out the increasing consumer demand for legal cannabis beverages in Missouri. He praised Pharos Brands for its dedication to safety, compliance, and building consumer trust. Pharos Brands is celebrated for its all-natural, wellness-focused beverages designed to appeal to both cannabis novices and experienced users looking for a mild, social experience.</p><p>Mary Bernuth, co-founder and President of Pharos Brands LLC, shared her excitement about the collaboration with Keg 1 Missouri, highlighting the distributor's expertise in beverage distribution and understanding of the cannabis market's complexities. This partnership reflects Pharos' strategy to grow its national presence by teaming up with top-tier distributors and retailers that align with its commitment to quality and transparency.</p><p>The launch of Pharos beverages in Missouri underscores the state's burgeoning adult-use cannabis market and the rising consumer interest in innovative, safe, and premium cannabis products. With its emphasis on flavor and wellness, Pharos is set to become a favored option for Missouri residents exploring the benefits of cannabis-infused beverages. For more information on Pharos Brands, visit <a href='https://pharosbrands.com' rel='nofollow' target='_blank'>https://pharosbrands.com</a>.</p>

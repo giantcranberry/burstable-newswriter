@@ -1,0 +1,16 @@
++++
+title = "Silvercorp Metals Secures Legal Victory for El Domo Project in Ecuador"
+date = "2025-08-05T15:31:00Z"
+draft = false
+summary = "Silvercorp Metals Inc. has achieved a significant legal victory in Ecuador, with the Constitutional Court dismissing the final challenge against the environmental license for the El Domo mining project, reinforcing the project's compliance with environmental standards and community support."
+description = "Silvercorp Metals Inc. overcomes final legal challenge for El Domo project in Ecuador, marking a win for responsible mining and ESG standards. Learn more about this milestone."
+source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-silvercorp-metals-inc-tsx-svm-nyse-american-svm-prevails-in-final-legal-challenge-for-el-domo-environmental-license/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/5/424c86e2c67cf7cffe19587c7675a5ac.png"
+article_id = 135992
+feed_item_id = 18128
+url = "/202508/135992-silvercorp-metals-secures-legal-victory-for-el-domo-project-in-ecuador"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/elleuyVm.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Silvercorp Metals Inc. (TSX: SVM) (NYSE American: SVM) has marked a significant milestone in Ecuador with the Constitutional Court's unanimous decision to dismiss the final challenge against the environmental license for the El Domo mining project. This ruling not only validates the license but also emphasizes the project's adherence to the Escazú Agreement, establishing a new benchmark for environmental consultation standards within Ecuador's mining sector.</p><p>The El Domo project, which is currently in the construction phase, has received an overwhelming 98% support from the local community, a testament to its commitment to responsible mining practices and its anticipated positive impact on the local economy. The environmental license's affirmation through various judicial levels, culminating in the Constitutional Court's decision, showcases the extensive review process and the legal solidity of the project's environmental pledges.</p><p>Opposition from anti-mining groups has not deterred Silvercorp Metals from progressing with the El Domo project. The company's dedication to enhancing shareholder value through sustainable mining and strict adherence to environmental, social, and governance (ESG) criteria has been fundamental to its approach. This legal triumph not only facilitates the project's advancement but also cements Silvercorp's reputation as a pioneer in sustainable mining operations.</p><p>For further information on this development, visit <a href='https://ibn.fm/8076W' rel='nofollow' target='_blank'>https://ibn.fm/8076W</a>. Updates and additional details about Silvercorp Metals are available in the company's newsroom at <a href='https://ibn.fm/SVM' rel='nofollow' target='_blank'>https://ibn.fm/SVM</a>.</p>

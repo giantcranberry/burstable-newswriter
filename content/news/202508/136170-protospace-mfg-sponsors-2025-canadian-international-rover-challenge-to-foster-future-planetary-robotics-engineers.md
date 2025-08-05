@@ -1,0 +1,16 @@
++++
+title = "ProtoSpace Mfg Sponsors 2025 Canadian International Rover Challenge to Foster Future Planetary Robotics Engineers"
+date = "2025-08-05T16:00:07Z"
+draft = false
+summary = "ProtoSpace Mfg's sponsorship of the 2025 Canadian International Rover Challenge underscores its commitment to advancing planetary robotics engineering by supporting university students in a Mars-like competition environment."
+description = "ProtoSpace Mfg sponsors the 2025 Canadian International Rover Challenge, supporting student innovation in planetary robotics with manufacturing resources and mentorship."
+source_link = "https://www.newmediawire.com/news/protospace-mfg-named-title-sponsor-of-2025-canadian-international-rover-challenge-7081728"
+enclosure = "https://cdn.newsramp.app/genai/images/258/5/afa3f2afd8276f38979f539abad2bde4.png"
+article_id = 136170
+feed_item_id = 18134
+url = "/202508/136170-protospace-mfg-sponsors-2025-canadian-international-rover-challenge-to-foster-future-planetary-robotics-engineers"
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/5/ideaxE9s.webp"
+source = "NewMediaWire"
++++
+
+<p>ProtoSpace Mfg, the advanced manufacturing division for aerospace and defense of the Protocase Companies, has taken a significant step towards fostering the next generation of planetary robotics engineers by becoming the title sponsor of the 2025 Canadian International Rover Challenge (CIRC). This sponsorship not only highlights ProtoSpace Mfg's dedication to the future of space exploration but also provides university students from around the world with a unique opportunity to test their engineering skills in a Mars-like environment.</p><p>The CIRC, scheduled for August 8 to 11 in Drumheller, Alberta, is organized by the Canadian Space Technology Advancement Group (CSTAG) and is renowned for its challenging tasks that simulate the harsh conditions of Mars. Participants will face rigorous challenges, including navigation and sample collection, with a special nighttime rover task known as the 'Traversal.' ProtoSpace Mfg's involvement includes offering each team $2,000 USD in manufacturing credit and providing precision-manufactured equipment for the competition's Arm Dexterity challenge, alongside on-site technical guidance from their staff.</p><p>Dr. Doug Milburn, Chairman of the Protocase Companies, emphasized the importance of real-world experience in engineering education, stating that supporting CIRC aligns with ProtoSpace Mfg's mission to push the boundaries of design and fabrication. This initiative reflects a broader industry trend towards hands-on learning and innovation in preparing students for the competitive field of space exploration.</p><p>With additional support from sponsors like <a href="https://www.nordspace.com" rel="nofollow" target="_blank">Nordspace</a> and <a href="https://www.birchcliffenergy.com" rel="nofollow" target="_blank">Birchcliff Energy</a>, the 2025 CIRC is set to be a landmark event in space engineering education. ProtoSpace Mfg's sponsorship not only benefits the participants but also signals to the industry the growing importance of investing in the future of planetary robotics and space exploration technologies.</p>

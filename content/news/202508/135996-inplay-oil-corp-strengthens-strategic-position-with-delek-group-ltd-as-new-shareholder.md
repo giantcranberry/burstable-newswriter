@@ -1,0 +1,16 @@
++++
+title = "InPlay Oil Corp. Strengthens Strategic Position with Delek Group Ltd. as New Shareholder"
+date = "2025-08-05T15:30:59Z"
+draft = false
+summary = "InPlay Oil Corp. enhances its growth strategy by partnering with Delek Group Ltd., a move that brings new expertise and resources to its operations in the Western Canadian Sedimentary Basin."
+description = "Delek Group Ltd. to acquire 9.1 million shares in InPlay Oil Corp., marking a strategic partnership in the energy sector. Learn more about this significant transaction."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-inplay-oil-corp-tsx-ipo-otcqx-ipoof-welcomes-delek-group-as-strategic-shareholder-in-block-sale-from-obsidian-energy/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/5/a0376c6373cb8c255eeb48e323a9e4c6.png"
+article_id = 135996
+feed_item_id = 18126
+url = "/202508/135996-inplay-oil-corp-strengthens-strategic-position-with-delek-group-ltd-as-new-shareholder"
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/calmG91F.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>InPlay Oil Corp. (TSX: IPO) (OTCQX: IPOOF) has announced a pivotal development in its strategic expansion by welcoming Delek Group Ltd. as a new shareholder. This follows Obsidian Energy Ltd.'s agreement to sell its 9.1 million common shares in InPlay to Delek, with the transaction expected to conclude in the first half of August 2025. This partnership not only marks Delek's entry as a strategic shareholder but also grants it the privilege to nominate two directors to InPlay's board, highlighting a robust alliance between the two companies.</p><p>Doug Bartole, InPlay's CEO, shared his optimism about the collaboration, pointing to Delek's notable achievements in the energy sector, such as its influential roles in Ithaca Energy and the development of the Mediterranean's largest natural gas field. This alliance is anticipated to inject valuable expertise and resources into InPlay, reinforcing its standing in the Western Canadian Sedimentary Basin, where it is dedicated to sustainable oil and gas production.</p><p>The agreement encompasses comprehensive registration and investor rights, including pre-emptive rights for Delek in future equity offerings, illustrating the long-term vision of the partnership and Delek's dedication to fostering InPlay's growth. For further insights into this announcement, visit <a href='https://ibn.fm/hGL6S' rel='nofollow' target='_blank'>https://ibn.fm/hGL6S</a>.</p><p>InPlay Oil Corp. is celebrated for its prudent capital investment strategy and its unwavering commitment to generating consistent returns for its shareholders. The company's operations are anchored in a diversified portfolio of oil and natural gas assets, aimed at creating enduring value. Additional information about InPlay and its endeavors is available at <a href='https://www.inplayoil.com/' rel='nofollow' target='_blank'>https://www.inplayoil.com/</a>.</p>
