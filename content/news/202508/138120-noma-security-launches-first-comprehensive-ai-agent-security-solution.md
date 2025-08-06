@@ -1,0 +1,15 @@
++++
+title = "Noma Security Launches First Comprehensive AI Agent Security Solution"
+date = "2025-08-06T15:01:13Z"
+draft = false
+summary = "Noma Security introduces a groundbreaking AI Agent Security platform to address the unique vulnerabilities posed by autonomous AI agents in enterprise environments, ensuring safe innovation and robust protection."
+description = "Noma Security introduces the first AI Agent Security platform, offering comprehensive protection for autonomous AI agents in enterprises. Learn how it's changing the game."
+source_link = "https://www.citybiz.co/article/727821/noma-security-debuts-industrys-first-comprehensive-ai-agent-security-solution/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/a297ec648291fcd23395d21a865da73b.png"
+article_id = 138120
+feed_item_id = 18211
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/6/ellaHuG3.webp"
+source = "citybiz"
++++
+
+<p>Noma Security has announced the launch of the first comprehensive AI Agent Security solution, a pioneering step towards safeguarding autonomous AI agents in enterprise settings. This platform is specifically engineered to address the novel security challenges posed by agentic AI, including rogue agents, unauthorized data access, and erratic behaviors that could endanger network security and sensitive information.</p><p>The increasing reliance on AI agents for business operations has unveiled complex security dilemmas. These autonomous entities, with their ability to make independent decisions, pose a risk of initiating swift, extensive attacks across connected systems, making detection and mitigation efforts more challenging. Noma's innovative solution is designed to provide tailored protection, integrating smoothly with current security protocols to reduce these risks without stifling AI advancements.</p><p>Niv Braun, Co-Founder and CEO of Noma Security, pointed out that the adoption of AI agents in enterprise processes has surged ahead of the security frameworks needed to protect them. The Noma platform fills this gap by delivering essential oversight and management capabilities to secure these agents effectively, enabling businesses to harness their revolutionary benefits securely.</p><p>The AI Agent Security platform by Noma encompasses a wide range of features, including agent discovery, supply chain analysis, control over excessive agency, agentic red teaming, real-time runtime protection, and compliance tools. It is compatible with all types of AI agents, from no-code platforms such as ServiceNow and Microsoft Copilot Studio to coding assistants like Github Copilot, providing comprehensive security across the entire agentic AI spectrum.</p><p>Kevin Mooney, UiPath CISO, underscored the significance of security in the age of AI-powered automation, recognizing Noma's solution as an indispensable asset for upholding strong security measures while encouraging innovation. For further information, visit <a href='https://noma.security/noma-ai-agent-security/' rel='nofollow' target='_blank'>https://noma.security/noma-ai-agent-security/</a>.</p>

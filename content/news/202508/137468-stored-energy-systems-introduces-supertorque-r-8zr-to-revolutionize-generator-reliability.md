@@ -6,7 +6,6 @@ summary = "Stored Energy Systems (SENS) launches the SuperTorque® 8ZR, a DC gen
 description = "SENS introduces the SuperTorque® 8ZR, a revolutionary DC genset engine starting system, ensuring reliability and efficiency for critical power needs."
 source_link = "https://www.citybiz.co/article/727786/sens-announces-supertorque-8zr-factory-packaged-complete-genset-engine-starting-system/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d7f76f7bee26b513f2e882d846887b3c.png"
-featured = true
 article_id = 137468
 feed_item_id = 18205
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/6/gluegDy5.webp"

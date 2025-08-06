@@ -1,0 +1,15 @@
++++
+title = "Phishing Emerges as Top Cybersecurity Threat in Legal Industry, Report Reveals"
+date = "2025-08-06T15:40:32Z"
+draft = false
+summary = "A recent report by Fenix24 and ILTA highlights phishing as the leading cybersecurity threat to law firms, urging the industry to enhance recovery readiness and adopt advanced security measures."
+description = "Fenix24 & ILTA report reveals legal sector's cybersecurity gaps, highlighting phishing as top threat and the urgent need for enhanced recovery readiness."
+source_link = "https://www.citybiz.co/article/727857/phishing-tops-list-of-threats-in-legal-industry-as-only-50-of-law-firms-report-having-immutable-backups-fenix24-and-ilta-report-finds/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1c7e9e3ba4317e2d6ed0c56ba57763d1.jpg"
+article_id = 137857
+feed_item_id = 18218
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/6/epicl5ha.webp"
+source = "citybiz"
++++
+
+<p>The legal industry is currently navigating a pivotal shift in cybersecurity threats, with phishing attacks now identified as the foremost concern. This revelation comes from the <a href="https://fenix24.com" rel="nofollow" target="_blank">Fenix24</a> and International Legal Technology Association (ILTA) collaborative report, titled <a href="https://ilta.org" rel="nofollow" target="_blank">"Security at Issue: 2025 State of Cybersecurity in Law Firms"</a>. The document sheds light on the transition from traditional threats, such as ransomware, to more sophisticated, human-operated attack methods.</p><p>John Anthony Smith, Founder & Chief Security Officer of Fenix24, pointed out the legal sector's challenges in adapting to these evolving threats. The report emphasizes the urgent need for law firms to bolster their recovery readiness, advocating for the implementation of immutable backups and rigorously tested incident response strategies.</p><p>Despite a heightened awareness of cybersecurity risks, the report uncovers alarming trends. A scant 50% of law firms possess at least one backup system with immutability capabilities, and only 27% regard backups as a critical security control. The adoption of Multi-Factor Authentication (MFA) is similarly lackluster, with minimal application to production and backup storage systems.</p><p>Confidence in existing security measures is waning, as evidenced by only 38% of firms deeming themselves "very secure," a significant drop from 50% in 2023. This decline coincides with an increased recognition of known security vulnerabilities. Nonetheless, external assessments and tabletop exercises are gaining traction as pivotal motivators for security investments, matching client requirements at 53%.</p><p>Corey Simpson, Chief Operating Officer at ILTA, stressed the imperative for the legal industry to transcend mere compliance. The report underscores the necessity for firms to invest in rapid operational restoration capabilities, the protection of sensitive data under duress, and the preservation of client trust. It stands as a clarion call for the legal sector to fortify its cybersecurity defenses against the backdrop of increasingly sophisticated threats.</p>
