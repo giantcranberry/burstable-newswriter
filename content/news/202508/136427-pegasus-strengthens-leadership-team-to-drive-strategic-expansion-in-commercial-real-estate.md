@@ -1,0 +1,16 @@
++++
+title = "Pegasus Strengthens Leadership Team to Drive Strategic Expansion in Commercial Real Estate"
+date = "2025-08-05T20:00:41Z"
+draft = false
+summary = "Pegasus announces key executive appointments and celebrates leadership milestones, signaling a robust phase of growth and innovation in commercial real estate advisory."
+description = "Pegasus Investments announces key leadership hires and celebrates executive anniversaries, signaling growth and innovation in commercial real estate advisory."
+source_link = "https://www.citybiz.co/article/727460/pegasus-names-george-azzi-evp-amid-new-hires-and-milestone-executive-anniversaries/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/da881bfbaec0e3ba4e04e962d69182df.png"
+article_id = 136427
+feed_item_id = 18157
+url = "/202508/136427-pegasus-strengthens-leadership-team-to-drive-strategic-expansion-in-commercial-real-estate"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/fondNFJO.webp"
+source = "citybiz"
++++
+
+<p>Pegasus has taken a significant step forward in its strategic expansion with the appointment of George Azzi as Executive Vice President. Azzi, whose career spans over twenty years in Los Angeles County's commercial real estate sector, is set to spearhead the firm's advisor growth strategy. His focus will be on recruitment, professional development, and the enhancement of service offerings, aiming to leverage his impressive track record of over $2 billion in sales across more than 400 transactions to drive performance across the advisory platform.</p><p>Complementing Azzi's appointment, Pegasus has also welcomed Bahram Fattahini as Director of Marketing and Daniel Kim as Senior Associate of Finance & Strategy. Fattahini brings a wealth of experience in brand and performance marketing, while Kim's background in private equity and portfolio management is expected to strengthen Pegasus's strategic planning and financial reporting capabilities. These strategic hires reflect Pegasus's unwavering commitment to fostering innovation and excellence within the commercial real estate advisory space.</p><p>In addition to these new appointments, Pegasus is celebrating the 10-year anniversaries of Managing Director Daylin Ackerman and President Seth Bell. Their contributions have been pivotal to the firm's growth, with Ackerman playing a key role in the investment sales and advisory business and Bell leading the asset management division. Together, they have helped shape Pegasus into a trusted partner for commercial real estate owners and investors.</p><p>David Chasin, CEO of Pegasus, emphasized the significance of these developments for the firm's trajectory. The blend of fresh talent with experienced leadership is poised to accelerate Pegasus's growth and deepen its market penetration. This strategy reinforces the firm's unique model of integrating wealth management principles with commercial real estate advisory, setting a new standard for excellence in the industry. For further details, visit <a href='https://www.pegasus.com' rel='nofollow' target='_blank'>https://www.pegasus.com</a>.</p>

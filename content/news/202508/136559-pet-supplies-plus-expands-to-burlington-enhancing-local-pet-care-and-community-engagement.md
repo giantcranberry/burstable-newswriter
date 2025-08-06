@@ -1,0 +1,16 @@
++++
+title = "Pet Supplies Plus Expands to Burlington, Enhancing Local Pet Care and Community Engagement"
+date = "2025-08-05T18:10:47Z"
+draft = false
+summary = "Pet Supplies Plus is opening a new location in Burlington, offering a wide range of pet products and services, alongside community-focused initiatives and job creation."
+description = "Pet Supplies Plus opens in Burlington, offering pet products, grooming, and community events. A new hub for pet lovers with grand opening specials."
+source_link = "https://www.citybiz.co/article/727352/a-new-best-friend-for-burlington-pet-owners-pet-supplies-plus-opens-its-doors/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e3db6bb536ed6b17aa7112bc9101e47c.png"
+article_id = 136559
+feed_item_id = 18147
+url = "/202508/136559-pet-supplies-plus-expands-to-burlington-enhancing-local-pet-care-and-community-engagement"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/hushNEZQ.webp"
+source = "citybiz"
++++
+
+<p>Pet Supplies Plus is set to enrich Burlington's pet care landscape with its new store opening on August 16 at 139 Cascade Mall Dr. This establishment promises a holistic shopping experience for pet owners, featuring an extensive array of pet products, including natural foods and supplies for various animals. Additionally, it will offer services such as grooming and self-pet wash stations, catering to the comprehensive needs of pets and their owners.</p><p>Under the ownership of local entrepreneur Gina McMann, the store is not just a business but a family legacy, with her son joining the team. It aims to be a community cornerstone, creating eight to ten new jobs and fostering a welcoming environment for pets and their owners. McMann's vision extends beyond commerce, with plans to partner with local animal shelters and rescue organizations for adoption events and fundraisers, highlighting a commitment to community welfare.</p><p>The grand opening weekend, starting August 16, will be marked by discounts, giveaways, and special offers for rewards members. Activities include complimentary pet photos, free pet washes, and mystery scratch cards with prizes up to $10. Pet owners are encouraged to bring their leashed pets to enjoy the festivities and receive expert advice from the store's knowledgeable staff.</p><p>Pet Supplies Plus Burlington will also offer convenient shopping options like one-hour curbside pickup and free same-day delivery for online orders, operating Monday through Saturday from 9 a.m. to 9 p.m., and Sunday from 10 a.m. to 6 p.m. For more details on the grand opening events and to participate in a gift card giveaway, visit <a href='https://www.petsuppliesplus.com' rel='nofollow' target='_blank'>Pet Supplies Plus Burlington</a>.</p><p>This expansion reflects Pet Supplies Plus's dedication to providing affordable, high-quality pet care products and services while strengthening community ties among Burlington's pet owners. With its diverse offerings and emphasis on community engagement, the store is poised to become a cherished resource for local pet parents, setting a new standard for pet care retail.</p>

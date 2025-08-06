@@ -1,0 +1,16 @@
++++
+title = "Ackerman Retail Strengthens Leadership with Marisa Roy as Senior Vice President"
+date = "2025-08-05T19:11:03Z"
+draft = false
+summary = "Ackerman Retail enhances its landlord representation capabilities with the addition of Marisa Roy, aiming to expand its portfolio and market presence in the commercial real estate sector."
+description = "Ackerman Retail hires Marisa Roy as SVP to boost landlord representation and retail leasing, enhancing its portfolio and client services in the Southeast."
+source_link = "https://www.citybiz.co/article/727426/marisa-roy-joins-ackerman-retail-as-senior-vice-president-in-landlord-representation-group/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f3ba1fa484d00f4ee83f84baf6e677c9.png"
+article_id = 136429
+feed_item_id = 18154
+url = "/202508/136429-ackerman-retail-strengthens-leadership-with-marisa-roy-as-senior-vice-president"
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/navyGMuO.webp"
+source = "citybiz"
++++
+
+<p>Ackerman Retail, a division of Ackerman &amp; Co., has announced Marisa Roy as the new Senior Vice President in its Landlord Representation Group. Roy's extensive experience in leasing high-profile retail centers across the Southeast is expected to drive the firm's growth in landlord and third-party leasing platforms. Her role will focus on leasing for Ackerman-owned and third-party retail developments, aiming to broaden the firm's portfolio and strengthen its market position.</p><p>Leo Wiener, President of Ackerman Retail, welcomed Roy, emphasizing her unique perspective from representing both landlords and tenants as a valuable asset to the firm. Her deep industry relationships and expertise in transactions are anticipated to be crucial in the firm's strategic expansion efforts. Wiener also indicated plans for additional strategic hires to further enhance the group's landlord representation services.</p><p>Roy expressed enthusiasm about her new role, particularly the opportunity to work on in-house development and redevelopment projects. These include significant Ackerman-owned projects such as <a href='https://www.leeandwhite.com' rel='nofollow' target='_blank'>Lee + White</a>, a notable adaptive reuse development in Atlanta. She will also oversee leasing for 1200 White Street and a retail development in Sugar Hill, GA. Roy's previous position as Vice President of Retail Leasing at CBRE has provided her with a comprehensive understanding of diverse retail property types and tenant representation services.</p><p>Ackerman Retail's platform encompasses development, landlord and tenant representation, investment sales, and site selection, with a transaction history approaching $2 billion. Roy's appointment highlights the firm's dedication to enhancing its services and expanding its influence in the commercial real estate industry. With a track record of developing and acquiring millions of square feet across various property types, Ackerman &amp; Co. continues to reinforce its status as a premier full-service commercial real estate firm in the South.</p>

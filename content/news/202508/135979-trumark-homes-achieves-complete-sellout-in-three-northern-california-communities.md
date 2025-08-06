@@ -6,7 +6,6 @@ summary = "Trumark Homes' successful sellout of three communities in Northern Ca
 description = "Trumark Homes sells out three Northern California communities, showcasing strong demand for diverse housing options in the region. Explore their latest projects."
 source_link = "https://www.citybiz.co/article/727270/trumark-homes-sells-out-three-northern-california-communities/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1617dff1be93df200796b8dfbefab918.jpg"
-featured = true
 article_id = 135979
 feed_item_id = 18145
 url = "/202508/135979-trumark-homes-achieves-complete-sellout-in-three-northern-california-communities"
