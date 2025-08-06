@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726513/qa-with-andrew-slack-head-o
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/dcd9c2075b20aa32da05b67635758646.png"
 article_id = 134619
 feed_item_id = 18068
-url = "/202508/134619-randamu-s-dcipher-network-revolutionizes-decentralized-cryptographic-operations"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/duneuIxo.webp"
 source = "citybiz"
 +++

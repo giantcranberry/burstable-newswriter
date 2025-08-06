@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/bdc/how-electric-vehicles-ar
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/9e3f78cf80e8925e4017881717d2cce1.png"
 article_id = 135994
 feed_item_id = 18129
-url = "/202508/135994-the-decline-of-gas-stations-and-garages-in-the-wake-of-electric-vehicle-popularity"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/rend7pi1.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

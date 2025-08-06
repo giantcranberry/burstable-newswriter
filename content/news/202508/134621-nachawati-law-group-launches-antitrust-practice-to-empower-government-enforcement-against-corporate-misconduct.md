@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726467/nachawati-law-group-opens-a
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/8e9dfe5fe3717a9b4fc0150f05eaae79.jpg"
 article_id = 134621
 feed_item_id = 18065
-url = "/202508/134621-nachawati-law-group-launches-antitrust-practice-to-empower-government-enforcement-against-corporate-misconduct"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/meanhuL2.webp"
 source = "citybiz"
 +++

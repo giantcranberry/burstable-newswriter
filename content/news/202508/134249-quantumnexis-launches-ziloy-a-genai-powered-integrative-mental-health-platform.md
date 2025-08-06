@@ -8,7 +8,6 @@ source_link = "https://www.newmediawire.com/news/healthcare-triangle-s-subsidiar
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/c404b72feb3d6c5456d00ce58a65fcaa.png"
 article_id = 134249
 feed_item_id = 18041
-url = "/202508/134249-quantumnexis-launches-ziloy-a-genai-powered-integrative-mental-health-platform"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/4/mielezSh.webp"
 source = "NewMediaWire"
 +++

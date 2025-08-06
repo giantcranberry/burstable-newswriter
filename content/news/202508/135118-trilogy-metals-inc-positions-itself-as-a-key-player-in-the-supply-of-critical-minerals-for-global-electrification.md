@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/mnw/trilogy-metals-inc-nyse-
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/b826d575955fe97f4efbd3e3d094603d.png"
 article_id = 135118
 feed_item_id = 18071
-url = "/202508/135118-trilogy-metals-inc-positions-itself-as-a-key-player-in-the-supply-of-critical-minerals-for-global-electrification"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/echo4dME.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

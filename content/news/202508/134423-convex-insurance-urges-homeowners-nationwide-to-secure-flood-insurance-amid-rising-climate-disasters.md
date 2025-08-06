@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525508/following-t
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/ba26b7b08f4bfa906da833192b37e396.png"
 article_id = 134423
 feed_item_id = 18031
-url = "/202508/134423-convex-insurance-urges-homeowners-nationwide-to-secure-flood-insurance-amid-rising-climate-disasters"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/4/kite8_f_.webp"
 source = "24-7 Press Release"
 +++

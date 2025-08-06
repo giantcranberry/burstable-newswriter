@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525519/petertilern
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/7f0a3eb8eaa1d56ba122f185b37948b8.png"
 article_id = 135999
 feed_item_id = 18095
-url = "/202508/135999-petertilernsw-celebrates-15-years-of-excellence-in-tiling-services"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/5/leaneaXQ.webp"
 source = "24-7 Press Release"
 +++

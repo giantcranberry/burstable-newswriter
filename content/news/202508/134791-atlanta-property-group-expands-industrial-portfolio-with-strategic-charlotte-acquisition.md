@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726397/atlanta-property-group-expa
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/508dc8dfc74b8b9ef5475c020cc105fa.jpg"
 article_id = 134791
 feed_item_id = 18057
-url = "/202508/134791-atlanta-property-group-expands-industrial-portfolio-with-strategic-charlotte-acquisition"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/dash2jqZ.webp"
 source = "citybiz"
 +++

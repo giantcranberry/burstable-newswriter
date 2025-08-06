@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525491/stuart-pilt
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/37e8331df903ec520244b41a21bf748f.png"
 article_id = 132085
 feed_item_id = 18006
-url = "/202508/132085-stuart-piltch-award-for-national-security-engages-next-generation-in-tech-and-security-dialogue"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/noteudtq.webp"
 source = "24-7 Press Release"
 +++

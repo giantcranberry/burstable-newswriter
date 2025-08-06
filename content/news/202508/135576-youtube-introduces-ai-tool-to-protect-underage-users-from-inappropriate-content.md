@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/youtube-taps-ai-tech-to
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/95261552f57e5279fff381c1a6de424e.png"
 article_id = 135576
 feed_item_id = 18115
-url = "/202508/135576-youtube-introduces-ai-tool-to-protect-underage-users-from-inappropriate-content"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/fileCj4T.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

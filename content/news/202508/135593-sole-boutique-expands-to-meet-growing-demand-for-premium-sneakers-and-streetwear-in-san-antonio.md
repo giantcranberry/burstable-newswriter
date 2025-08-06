@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/sole-boutique-expands-to-new-location-
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/2103f7c97814ace60a74d2572f27511c.jpg"
 article_id = 135593
 feed_item_id = 18089
-url = "/202508/135593-sole-boutique-expands-to-meet-growing-demand-for-premium-sneakers-and-streetwear-in-san-antonio"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/5/silkKIic.webp"
 source = "Press Services"
 +++

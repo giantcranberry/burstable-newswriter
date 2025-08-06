@@ -1,0 +1,15 @@
++++
+title = "Impact Networking Elevates Cynthia Bennett to Chief People Officer, Reinforcing People-First Philosophy"
+date = "2025-08-05T21:30:23Z"
+draft = false
+summary = "Impact Networking promotes Cynthia Bennett to Chief People Officer, highlighting its commitment to employee growth and satisfaction as a cornerstone for customer success and innovation."
+description = "Impact Networking promotes Cynthia Bennett to Chief People Officer, reinforcing its people-first culture and commitment to employee growth and holistic business solutions."
+source_link = "https://www.24-7pressrelease.com/press-release/525605/impact-networking-taps-cynthia-bennett-as-first-ever-chief-people-officer"
+enclosure = "https://cdn.newsramp.app/genai/images/258/5/676369d6d563426a77a07d3e67446f77.png"
+article_id = 137646
+feed_item_id = 18164
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/5/chipd5M8.webp"
+source = "24-7 Press Release"
++++
+
+<p>Impact Networking, LLC has announced the promotion of Cynthia Bennett to the newly established role of Chief People Officer (CPO), a decision that highlights the company's unwavering commitment to its people-first approach. Bennett's promotion is a testament to the company's belief in fostering internal talent and underscores the significant role employee satisfaction and development play in achieving customer success and driving innovation.</p><p>Starting her career at Impact Networking 13 years ago as a receptionist, Bennett's ascent to CPO is a remarkable story of growth and dedication. Her contributions have been instrumental in shaping the company's culture and refining its talent acquisition strategies, which have attracted and developed thousands of employees. In her new role, Bennett will oversee the People Operations department, with a focus on talent strategy, human resources, diversity, equity, inclusion (DEI), and enhancing the employee experience.</p><p>Anthony Cucco, Chief Operating Officer at Impact Networking, commended Bennett for her deep understanding of the company's core values and her exceptional ability to cultivate a culture that places people at the forefront. Bennett's leadership is expected to play a pivotal role as Impact Networking continues its national expansion, ensuring that the company's growth is supported by a workforce that is not only motivated but also aligned with the company's vision and values.</p><p>For those interested in learning more about Impact Networking's innovative approach to employee development and its ongoing national expansion, additional information can be found at <a href='https://www.impactmybiz.com/company/about' rel='nofollow' target='_blank'>https://www.impactmybiz.com/company/about</a> and <a href='https://www.impactmybiz.com/careers' rel='nofollow' target='_blank'>https://www.impactmybiz.com/careers</a>.</p>

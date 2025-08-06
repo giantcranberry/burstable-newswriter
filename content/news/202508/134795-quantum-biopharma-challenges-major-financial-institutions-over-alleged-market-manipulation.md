@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-quantu
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/16e78f16183db56643e729a548c74d44.png"
 article_id = 134795
 feed_item_id = 18054
-url = "/202508/134795-quantum-biopharma-challenges-major-financial-institutions-over-alleged-market-manipulation"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/pintEoHc.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.newmediawire.com/news/neuralbase-announces-board-appr
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/235c921baf63815e5162ee39e399105f.png"
 article_id = 135584
 feed_item_id = 18104
-url = "/202508/135584-neuralbase-ai-ltd-enhances-capital-structure-with-strategic-share-cancellation"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/5/mask0GUy.webp"
 source = "NewMediaWire"
 +++

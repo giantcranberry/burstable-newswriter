@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525296/inside-itzh
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/c05ea18a428e68eb2e44841abd2786ec.png"
 article_id = 134420
 feed_item_id = 18029
-url = "/202508/134420-itzhak-ezratti-s-values-driven-leadership-transforms-gl-homes-into-a-model-for-sustainable-business-growth"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/4/noonMVHP.webp"
 source = "24-7 Press Release"
 +++

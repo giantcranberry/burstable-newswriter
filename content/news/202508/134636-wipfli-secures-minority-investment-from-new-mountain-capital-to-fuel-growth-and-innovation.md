@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726349/wipfli-secures-strategic-in
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1757ffed217fb6bc555a33b36802de15.png"
 article_id = 134636
 feed_item_id = 18050
-url = "/202508/134636-wipfli-secures-minority-investment-from-new-mountain-capital-to-fuel-growth-and-innovation"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/knobTb86.webp"
 source = "citybiz"
 +++

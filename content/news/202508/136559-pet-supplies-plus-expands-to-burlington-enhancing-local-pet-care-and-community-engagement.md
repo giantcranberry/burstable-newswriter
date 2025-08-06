@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727352/a-new-best-friend-for-burli
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e3db6bb536ed6b17aa7112bc9101e47c.png"
 article_id = 136559
 feed_item_id = 18147
-url = "/202508/136559-pet-supplies-plus-expands-to-burlington-enhancing-local-pet-care-and-community-engagement"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/hushNEZQ.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-segg-m
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/069358ff916f1e0248de1a5b24322920.png"
 article_id = 131763
 feed_item_id = 17979
-url = "/202508/131763-segg-media-corporation-relaunches-aganar-operations-in-mexico-to-expand-latin-american-market-presence"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/gainmzTz.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

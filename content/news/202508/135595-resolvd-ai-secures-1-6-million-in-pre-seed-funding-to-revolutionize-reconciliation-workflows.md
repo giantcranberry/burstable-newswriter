@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726780/resolvd-ai-raises-1-6m-pre-
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6f6a09ce65a3ebb00a324bb2a84b4caa.jpg"
 article_id = 135595
 feed_item_id = 18084
-url = "/202508/135595-resolvd-ai-secures-1-6-million-in-pre-seed-funding-to-revolutionize-reconciliation-workflows"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/knoti1Bj.webp"
 source = "citybiz"
 +++

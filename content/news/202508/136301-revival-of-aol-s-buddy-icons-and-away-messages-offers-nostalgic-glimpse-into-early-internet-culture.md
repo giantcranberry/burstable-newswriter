@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525559/digital-tim
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/dd4e781825b0dd2ca50322bafac6023d.png"
 article_id = 136301
 feed_item_id = 18093
-url = "/202508/136301-revival-of-aol-s-buddy-icons-and-away-messages-offers-nostalgic-glimpse-into-early-internet-culture"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/5/markGn5B.webp"
 source = "24-7 Press Release"
 +++

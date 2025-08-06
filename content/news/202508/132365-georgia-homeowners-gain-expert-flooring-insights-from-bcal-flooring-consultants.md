@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/flooring-experts-reveal-tips-and-solut
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/9a3b0d29c2994277c1d6000de79aa84b.jpg"
 article_id = 132365
 feed_item_id = 18012
-url = "/202508/132365-georgia-homeowners-gain-expert-flooring-insights-from-bcal-flooring-consultants"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/2/lark3u0c.webp"
 source = "Press Services"
 +++

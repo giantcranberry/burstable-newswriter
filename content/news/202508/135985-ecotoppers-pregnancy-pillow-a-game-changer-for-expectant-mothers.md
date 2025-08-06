@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/elevate-your-comfort-with-the-ecotoppe
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/1cbb8454d3ee06b079e1363d8c5e9be6.jpg"
 article_id = 135985
 feed_item_id = 18139
-url = "/202508/135985-ecotoppers-pregnancy-pillow-a-game-changer-for-expectant-mothers"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/5/epicJAXf.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726641/xoma-royalty-enters-into-ag
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1e389c63127adaec1f97fac80d9f0180.jpg"
 article_id = 135043
 feed_item_id = 18073
-url = "/202508/135043-xoma-royalty-corporation-to-acquire-lava-therapeutics-in-strategic-move-to-enhance-cancer-treatment-portfolio"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/clubiN78.webp"
 source = "citybiz"
 +++

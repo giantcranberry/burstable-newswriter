@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/littletons-newest-salon-and-med-spa-of
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/5579e6783b0d687538f29b5eb515b94a.jpg"
 article_id = 134633
 feed_item_id = 18051
-url = "/202508/134633-silver-palm-salon-spa-medspa-opens-in-littleton-colorado-elevating-the-local-beauty-and-wellness-industry"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/4/taro3WY8.webp"
 source = "Press Services"
 +++

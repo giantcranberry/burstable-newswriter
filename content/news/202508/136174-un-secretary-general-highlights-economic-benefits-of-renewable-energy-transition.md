@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ges/un-chief-explains-why-tr
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/253727b69449e5bed1c9e8ccc58eac6a.png"
 article_id = 136174
 feed_item_id = 18133
-url = "/202508/136174-un-secretary-general-highlights-economic-benefits-of-renewable-energy-transition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/kitevuCR.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

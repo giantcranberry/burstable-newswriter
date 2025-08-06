@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727449/qa-with-beth-hanschen-co-ow
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ef059abc87832b15da57bbba8c0295ec.png"
 article_id = 136428
 feed_item_id = 18155
-url = "/202508/136428-lindora-preston-forest-opens-in-dallas-offering-personalized-metabolic-health-services"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/quizfgiB.webp"
 source = "citybiz"
 +++

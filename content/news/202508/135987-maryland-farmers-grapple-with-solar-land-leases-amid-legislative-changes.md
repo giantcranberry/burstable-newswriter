@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727198/why-are-farmers-so-concerne
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d57ba35187c35b8054c5d76367316ad9.jpg"
 article_id = 135987
 feed_item_id = 18138
-url = "/202508/135987-maryland-farmers-grapple-with-solar-land-leases-amid-legislative-changes"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/oxeniHwz.webp"
 source = "citybiz"
 +++

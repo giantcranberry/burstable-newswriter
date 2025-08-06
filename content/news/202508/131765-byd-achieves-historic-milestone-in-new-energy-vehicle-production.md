@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/byd-celebrates-reaching-
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/96208415b2a15aac8a102625f568e5b0.png"
 article_id = 131765
 feed_item_id = 17980
-url = "/202508/131765-byd-achieves-historic-milestone-in-new-energy-vehicle-production"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/frogqWFi.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726924/choiceone-bank-selects-amer
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/963d9249f0ca101639c06d803c513e6f.png"
 article_id = 135588
 feed_item_id = 18098
-url = "/202508/135588-choiceone-bank-partners-with-ameriprise-financial-to-enhance-wealth-management-services"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/mossdZHt.webp"
 source = "citybiz"
 +++

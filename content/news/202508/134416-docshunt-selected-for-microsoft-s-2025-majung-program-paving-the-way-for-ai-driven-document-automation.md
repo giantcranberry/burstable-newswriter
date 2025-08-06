@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525515/ai-business
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/6a0390bf8cb226f32e34e4839e5490cf.png"
 article_id = 134416
 feed_item_id = 18033
-url = "/202508/134416-docshunt-selected-for-microsoft-s-2025-majung-program-paving-the-way-for-ai-driven-document-automation"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/4/daveHAMl.webp"
 source = "24-7 Press Release"
 +++

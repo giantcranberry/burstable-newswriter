@@ -8,7 +8,6 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-scheduled-t
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/f23d306857666c49c80d1370cbc474f8.jpg"
 article_id = 135998
 feed_item_id = 18125
-url = "/202508/135998-ugi-utilities-launches-natural-gas-main-replacement-project-in-nazareth-to-enhance-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/5/airy8sA8.webp"
 source = "Reportable"
 +++

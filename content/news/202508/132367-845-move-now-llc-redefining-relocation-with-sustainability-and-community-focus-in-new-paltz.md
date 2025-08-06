@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/exceptional-moving-services-in-new-pal
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/500bd0d1de2557100ec31711a3cadc5b.jpg"
 article_id = 132367
 feed_item_id = 18010
-url = "/202508/132367-845-move-now-llc-redefining-relocation-with-sustainability-and-community-focus-in-new-paltz"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/2/noonMG8X.webp"
 source = "Press Services"
 +++

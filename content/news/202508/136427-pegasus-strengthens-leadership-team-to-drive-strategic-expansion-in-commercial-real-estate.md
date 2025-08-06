@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727460/pegasus-names-george-azzi-e
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/da881bfbaec0e3ba4e04e962d69182df.png"
 article_id = 136427
 feed_item_id = 18157
-url = "/202508/136427-pegasus-strengthens-leadership-team-to-drive-strategic-expansion-in-commercial-real-estate"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/fondNFJO.webp"
 source = "citybiz"
 +++

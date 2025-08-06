@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726231/markel-hits-reset-reinsuran
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/7efa3628439868cdc733021466aeb26a.jpg"
 article_id = 134251
 feed_item_id = 18035
-url = "/202508/134251-markel-group-inc-announces-strategic-shift-away-from-global-reinsurance-to-focus-on-core-specialty-insurance"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/epichTET.webp"
 source = "citybiz"
 +++

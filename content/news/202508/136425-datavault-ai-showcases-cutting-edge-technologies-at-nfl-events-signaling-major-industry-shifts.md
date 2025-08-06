@@ -6,10 +6,8 @@ summary = "Datavault AI Inc. demonstrated its innovative platforms at high-profi
 description = "Datavault AI showcases cutting-edge digital identity and event technologies at NFL events, winning a Pinnacle Award for innovation in AI-driven solutions."
 source_link = "https://www.citybiz.co/article/727474/datavault-ai-showcases-digital-identity-and-event-tech-at-nfl-hall-of-fame-wins-pinnacle-award/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5ce612643776b0c38ac148dc1c231c07.png"
-featured = true
 article_id = 136425
 feed_item_id = 18159
-url = "/202508/136425-datavault-ai-showcases-cutting-edge-technologies-at-nfl-events-signaling-major-industry-shifts"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/gleeh_wi.webp"
 source = "citybiz"
 +++

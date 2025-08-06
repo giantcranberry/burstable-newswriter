@@ -8,7 +8,6 @@ source_link = "https://www.newmediawire.com/news/metawells-oil-gas-inc-kosk-expl
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/232db4288f185aba85210db823238583.png"
 article_id = 135764
 feed_item_id = 18107
-url = "/202508/135764-metawells-oil-gas-inc-ventures-into-ai-technology-with-strategic-acquisition"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/5/zestq2mo.webp"
 source = "NewMediaWire"
 +++

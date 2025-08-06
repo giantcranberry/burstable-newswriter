@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525493/notify-over
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/2511b487debda9bd142083d93bbba8a1.png"
 article_id = 131768
 feed_item_id = 17978
-url = "/202508/131768-notify-s-overlay-platform-revolutionizes-nurse-call-system-management-in-senior-living-communities"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/1/bendQn7v.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726028/kaizen-analytix-names-raj-g
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c058f0e6c6a23d5dfa805c080d7fec53.jpg"
 article_id = 132208
 feed_item_id = 17994
-url = "/202508/132208-kaizen-analytix-strengthens-leadership-with-appointment-of-raj-gopalaswamy-ph-d-as-associate-partner"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/1/dualcpIQ.webp"
 source = "citybiz"
 +++

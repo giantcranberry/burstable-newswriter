@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525473/ex-enta-ceo
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/a9d4d4d60866dc46cdcc4677e4d4df3f.png"
 article_id = 132206
 feed_item_id = 17997
-url = "/202508/132206-prosidio-enhances-leadership-with-robert-glazer-to-democratize-surgical-visualization"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/quayO9_1.webp"
 source = "24-7 Press Release"
 +++

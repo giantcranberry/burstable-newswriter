@@ -8,7 +8,6 @@ source_link = "https://newsroom.prkarma.com/counterflowmarketing/news_release/16
 enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/0b2479fc006307dcfc6e3d9768324393.jpg"
 article_id = 131579
 feed_item_id = 17991
-url = "/202508/131579-optek-films-revolutionizes-paint-protection-film-industry-with-affordable-high-quality-solutions"
 qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/258/1/mailyj4r.webp"
 source = "PR Karma"
 +++

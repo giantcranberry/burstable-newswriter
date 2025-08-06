@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/724927/david-nevins-interviews-geo
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/48d3dd8cf40c78182792e548c04fadd6.jpg"
 article_id = 135578
 feed_item_id = 18113
-url = "/202508/135578-georganne-hale-pioneering-leadership-in-thoroughbred-racing-and-advocacy-for-horse-welfare"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/pinkth0M.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727426/marisa-roy-joins-ackerman-r
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f3ba1fa484d00f4ee83f84baf6e677c9.png"
 article_id = 136429
 feed_item_id = 18154
-url = "/202508/136429-ackerman-retail-strengthens-leadership-with-marisa-roy-as-senior-vice-president"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/navyGMuO.webp"
 source = "citybiz"
 +++

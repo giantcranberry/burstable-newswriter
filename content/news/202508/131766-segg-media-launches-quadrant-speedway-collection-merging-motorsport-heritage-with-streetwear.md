@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-segg-media
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/53d42d35759c726d32e5f527eb540a22.png"
 article_id = 131766
 feed_item_id = 17981
-url = "/202508/131766-segg-media-launches-quadrant-speedway-collection-merging-motorsport-heritage-with-streetwear"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/icytZUS.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726081/magfast-and-limon-day-trips
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f5addd3f67eabfc9bc4c5f0d0386255e.jpg"
 article_id = 133413
 feed_item_id = 18016
-url = "/202508/133413-magfast-and-limon-day-trips-shine-on-go-fund-yourself-highlighting-innovation-in-charging-and-travel"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/3/pintCCsX.webp"
 source = "citybiz"
 +++

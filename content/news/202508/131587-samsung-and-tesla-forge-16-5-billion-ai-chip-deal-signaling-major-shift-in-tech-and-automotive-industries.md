@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/musk-hails-samsung-tesl
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/fbaa669ba3f0c6f0babcd6603db63c80.png"
 article_id = 131587
 feed_item_id = 17982
-url = "/202508/131587-samsung-and-tesla-forge-16-5-billion-ai-chip-deal-signaling-major-shift-in-tech-and-automotive-industries"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/limeljv8.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

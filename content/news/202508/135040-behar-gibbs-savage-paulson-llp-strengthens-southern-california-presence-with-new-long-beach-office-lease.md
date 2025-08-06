@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726763/civil-defense-law-firm-reaf
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1a0039cf6631ec7f4a32fa90122c2ef9.jpg"
 article_id = 135040
 feed_item_id = 18080
-url = "/202508/135040-behar-gibbs-savage-paulson-llp-strengthens-southern-california-presence-with-new-long-beach-office-lease"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/ovalyLUh.webp"
 source = "citybiz"
 +++

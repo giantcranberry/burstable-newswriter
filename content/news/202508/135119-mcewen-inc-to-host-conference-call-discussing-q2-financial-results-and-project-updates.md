@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-mcewen
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/dfa96d2b58c7fa03ce41426e4d123be2.png"
 article_id = 135119
 feed_item_id = 18070
-url = "/202508/135119-mcewen-inc-to-host-conference-call-discussing-q2-financial-results-and-project-updates"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/vibeyNoA.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

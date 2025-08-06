@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525527/city-of-wil
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/97230be36e1a086f48c99dd265bff1a6.png"
 article_id = 135590
 feed_item_id = 18096
-url = "/202508/135590-wilmington-achieves-on-time-property-tax-distribution-with-new-financial-platform"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/5/maskXvHB.webp"
 source = "24-7 Press Release"
 +++

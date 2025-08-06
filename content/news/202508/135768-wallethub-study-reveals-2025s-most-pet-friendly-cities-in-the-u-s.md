@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726960/2025s-most-pet-friendly-cit
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/48e22f8837dbcc0424882c03b80845c8.png"
 article_id = 135768
 feed_item_id = 18105
-url = "/202508/135768-wallethub-study-reveals-2025s-most-pet-friendly-cities-in-the-u-s"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/noteXUx4.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525518/bwrci-annou
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/3fc607b8c6ad9b61dff526046389064b.png"
 article_id = 134418
 feed_item_id = 18034
-url = "/202508/134418-bwrci-and-xai-collaborate-to-democratize-quantum-era-security-with-aeges-open-core-model"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/4/yogatjjN.webp"
 source = "24-7 Press Release"
 +++

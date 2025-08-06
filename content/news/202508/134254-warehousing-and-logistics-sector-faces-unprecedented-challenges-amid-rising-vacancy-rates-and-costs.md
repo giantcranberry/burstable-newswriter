@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726108/its-logistics-distribution-
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9e3a74e67c4434847908ab8943133ecb.jpg"
 article_id = 134254
 feed_item_id = 18019
-url = "/202508/134254-warehousing-and-logistics-sector-faces-unprecedented-challenges-amid-rising-vacancy-rates-and-costs"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/roameRgV.webp"
 source = "citybiz"
 +++

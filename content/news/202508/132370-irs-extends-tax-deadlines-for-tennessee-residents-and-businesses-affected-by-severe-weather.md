@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/miller-mcphail-cpa-advises-tennessee-r
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/7281bda58e50357d148893c1923a8f6d.jpg"
 article_id = 132370
 feed_item_id = 18009
-url = "/202508/132370-irs-extends-tax-deadlines-for-tennessee-residents-and-businesses-affected-by-severe-weather"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/2/fernWksv.webp"
 source = "Press Services"
 +++

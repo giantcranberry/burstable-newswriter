@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/wearable-devices-ltd-na
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/1ebcfc9f26cfecfc0c64104081689928.png"
 article_id = 131583
 feed_item_id = 17987
-url = "/202508/131583-wearable-devices-ltd-pioneers-ai-powered-neural-input-wearables-with-strategic-global-partnerships"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/ella2EBO.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525561/a2b-plumbin
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/3a7a47fd7fa5ccb4cc1819967d197fd7.png"
 article_id = 136300
 feed_item_id = 18097
-url = "/202508/136300-a2b-plumbing-heating-launches-rebate-program-to-promote-energy-efficient-home-heating-solutions"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/5/palezeFv.webp"
 source = "24-7 Press Release"
 +++

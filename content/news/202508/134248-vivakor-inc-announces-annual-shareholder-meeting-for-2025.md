@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-vivako
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/051b3a26d0853fbaa4858ea8d9ac0196.png"
 article_id = 134248
 feed_item_id = 18046
-url = "/202508/134248-vivakor-inc-announces-annual-shareholder-meeting-for-2025"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/knobr_Ls.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

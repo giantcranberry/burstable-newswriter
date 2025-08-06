@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727364/irocket-secures-640-million
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c1366b0591dbe81e640ca0171437583b.jpg"
 article_id = 136558
 feed_item_id = 18148
-url = "/202508/136558-irocket-secures-640-million-contract-with-spacebelt-ksa-for-encrypted-satellite-launch-services"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/vibezJRc.webp"
 source = "citybiz"
 +++

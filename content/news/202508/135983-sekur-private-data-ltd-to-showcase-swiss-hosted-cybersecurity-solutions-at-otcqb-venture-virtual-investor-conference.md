@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-sekur-pr
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/c177a744c2bc3e4ebea00cc52992cdc4.png"
 article_id = 135983
 feed_item_id = 18140
-url = "/202508/135983-sekur-private-data-ltd-to-showcase-swiss-hosted-cybersecurity-solutions-at-otcqb-venture-virtual-investor-conference"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/pale7y4P.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

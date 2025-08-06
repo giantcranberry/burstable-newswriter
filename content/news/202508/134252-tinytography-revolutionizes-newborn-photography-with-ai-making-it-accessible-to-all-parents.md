@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525470/the-1800-ba
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/cae0cb34f72e469019cf93a0dab3825e.png"
 article_id = 134252
 feed_item_id = 18024
-url = "/202508/134252-tinytography-revolutionizes-newborn-photography-with-ai-making-it-accessible-to-all-parents"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/4/maskUQcp.webp"
 source = "24-7 Press Release"
 +++

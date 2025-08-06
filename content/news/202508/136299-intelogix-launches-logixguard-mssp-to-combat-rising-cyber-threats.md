@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727101/intelogix-expands-bpo-servi
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/93723d7e7d33011e213f58f3babbf344.jpg"
 article_id = 136299
 feed_item_id = 18122
-url = "/202508/136299-intelogix-launches-logixguard-mssp-to-combat-rising-cyber-threats"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/keepj2tk.webp"
 source = "citybiz"
 +++

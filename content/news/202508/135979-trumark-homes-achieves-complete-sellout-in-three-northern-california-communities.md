@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727270/trumark-homes-sells-out-thr
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1617dff1be93df200796b8dfbefab918.jpg"
 article_id = 135979
 feed_item_id = 18145
-url = "/202508/135979-trumark-homes-achieves-complete-sellout-in-three-northern-california-communities"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/evenDYRk.webp"
 source = "citybiz"
 +++

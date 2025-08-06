@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726038/gwyneth-paltrow-helps-astro
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f559a64f1e64321b7df53d12de7a7601.jpg"
 article_id = 133148
 feed_item_id = 18013
-url = "/202508/133148-astronomer-turns-viral-scandal-into-marketing-triumph-with-gwyneth-paltrow-s-help"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/3/cake67nt.webp"
 source = "citybiz"
 +++

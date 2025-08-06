@@ -1,0 +1,15 @@
++++
+title = "The 1984 Honda CR-X²: A Legacy of Innovation and Performance"
+date = "2025-08-06T07:00:30Z"
+draft = false
+summary = "The 1984 Honda CR-X², a twin-engine, four-wheel-drive marvel, showcases the pinnacle of automotive innovation and collaboration, now preserved in the Ron Sturgeon Collection."
+description = "Discover the 1984 Honda CR-X², a twin-engine marvel, at DFW Car & Toy Museum. A testament to innovation and performance engineering in Fort Worth, TX."
+source_link = "https://www.24-7pressrelease.com/press-release/523662/twin-engines-one-vision-the-legendary-1984-honda-cr-x%C2%B2-arrives-in-fort-worth"
+enclosure = "https://cdn.newsramp.app/genai/images/258/6/fdd28be3713e2de54f452885f2879ac0.png"
+article_id = 137480
+feed_item_id = 18176
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/6/tintLKmr.webp"
+source = "24-7 Press Release"
++++
+
+<p>The 1984 Honda CR-X² stands as a monumental achievement in automotive engineering, a product of unparalleled collaboration between American Honda, Car and Driver, Racing Beat, and Mugen. This vehicle, originally a stock CRX, was transformed into a twin-engine, four-wheel-drive powerhouse, setting new performance standards for subcompact coupes. Its dual 1.8L inline-fours from the Honda Accord, combined with dual automatic transaxles and four-wheel disc brakes, propelled it to a 0–60 mph time of 6.2 seconds and a quarter-mile pass in 14.5 seconds.</p><p>Beyond its mechanical prowess, the CR-X²'s aesthetic and interior design were equally revolutionary. Adorned with a Mugen body kit and featuring a custom console with dual tachometers and an Accord-sourced shifter, the car was a marvel of its time. Its performance and design captured the imagination of the public and media alike, gracing the cover of Car and Driver in May 1985 and later featuring on Jay Leno's Garage in December 2024.</p><p>Today, the CR-X² finds its home in the Ron Sturgeon Collection at the DFW Car & Toy Museum, located at <a href='https://dfwcarandtoymuseum.com' rel='nofollow' target='_blank'>https://dfwcarandtoymuseum.com</a>. This museum offers enthusiasts and historians alike the opportunity to witness a piece of automotive history that challenged conventional design and performance norms. The CR-X²'s legacy is a testament to the power of innovation, collaboration, and the relentless pursuit of automotive excellence.</p><p>For business and technology leaders, the story of the CR-X² serves as a compelling case study in innovation and partnership. It underscores the importance of pushing boundaries and thinking outside the box to achieve groundbreaking results. The CR-X² not only redefined what was possible in automotive design but also left an indelible mark on the industry, inspiring future generations of engineers and designers to explore new horizons.</p>

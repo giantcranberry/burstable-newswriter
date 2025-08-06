@@ -8,7 +8,6 @@ source_link = "https://www.noticiasnewswire.com/the-top-entrepreneur-of-usa-awar
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/95409f7b95e7c3b9645ccaedfded7060.png"
 article_id = 131581
 feed_item_id = 17988
-url = "/202508/131581-top-entrepreneur-of-usa-awards-2025-to-highlight-innovation-and-leadership-during-hispanic-heritage-month"
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/258/1/diveh4U8.webp"
 source = "Noticias Newswire"
 +++

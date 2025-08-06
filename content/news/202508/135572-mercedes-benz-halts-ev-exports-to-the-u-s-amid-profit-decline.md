@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/gcs/mercedes-to-pause-ev-exp
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/e6713b9076070d263dffe23b338d8325.png"
 article_id = 135572
 feed_item_id = 18117
-url = "/202508/135572-mercedes-benz-halts-ev-exports-to-the-u-s-amid-profit-decline"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/tintTnME.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

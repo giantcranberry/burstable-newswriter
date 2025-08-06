@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525506/key-housing
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/22b44b55bbbe10b92e479364eb08ce59.png"
 article_id = 132089
 feed_item_id = 18000
-url = "/202508/132089-park-ridge-named-featured-listing-for-sonoma-county-by-key-housing"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/hike1_Dh.webp"
 source = "24-7 Press Release"
 +++

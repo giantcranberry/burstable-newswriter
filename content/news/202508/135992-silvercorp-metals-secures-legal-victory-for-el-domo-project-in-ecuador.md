@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-silvercorp-me
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/424c86e2c67cf7cffe19587c7675a5ac.png"
 article_id = 135992
 feed_item_id = 18128
-url = "/202508/135992-silvercorp-metals-secures-legal-victory-for-el-domo-project-in-ecuador"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/elleuyVm.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

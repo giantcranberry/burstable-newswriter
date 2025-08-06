@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726436/noma-security-names-diana-k
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/0dbd8ba497e385f8a0cc6fe0365a6e15.png"
 article_id = 134624
 feed_item_id = 18061
-url = "/202508/134624-noma-security-strengthens-leadership-team-with-key-appointments-amidst-ai-security-boom"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/elleMuSt.webp"
 source = "citybiz"
 +++

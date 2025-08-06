@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525510/s-lamar-gar
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/9e5038b5866bd52f411fce2082b0dabf.png"
 article_id = 132086
 feed_item_id = 18007
-url = "/202508/132086-the-law-office-of-s-lamar-gardner-llc-a-beacon-of-criminal-defense-in-georgia"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/dashAYnQ.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726174/shiplify-introduces-accesso
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f4787d6ba8343ce8f860721225a81b9e.jpg"
 article_id = 134253
 feed_item_id = 18022
-url = "/202508/134253-shiplify-introduces-accessorial-roi-calculator-to-revolutionize-freight-invoicing"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/gainh0TG.webp"
 source = "citybiz"
 +++

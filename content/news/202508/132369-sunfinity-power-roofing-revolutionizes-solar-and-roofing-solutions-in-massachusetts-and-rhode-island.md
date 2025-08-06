@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/affordable-solar-and-roofing-solutions
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/d0626072c3912652ae61d8f91da22c69.jpg"
 article_id = 132369
 feed_item_id = 18011
-url = "/202508/132369-sunfinity-power-roofing-revolutionizes-solar-and-roofing-solutions-in-massachusetts-and-rhode-island"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/2/pinkSEoT.webp"
 source = "Press Services"
 +++

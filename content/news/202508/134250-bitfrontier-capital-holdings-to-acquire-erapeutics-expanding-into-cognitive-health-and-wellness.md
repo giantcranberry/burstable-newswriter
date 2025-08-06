@@ -8,7 +8,6 @@ source_link = "https://www.newmediawire.com/news/bfch-signs-binding-loi-to-acqui
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/65d44eaddc991ce67c13d348cd5101a9None"
 article_id = 134250
 feed_item_id = 18037
-url = "/202508/134250-bitfrontier-capital-holdings-to-acquire-erapeutics-expanding-into-cognitive-health-and-wellness"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/4/flaxWo_f.webp"
 source = "NewMediaWire"
 +++

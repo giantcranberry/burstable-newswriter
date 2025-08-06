@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727028/aiir-products-partners-with
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/001f2cd8f21dcb756c62d60c472aac29.jpg"
 article_id = 135580
 feed_item_id = 18111
-url = "/202508/135580-aiir-products-and-dmg-corporation-forge-strategic-partnership-to-advance-intelligent-hvac-solutions"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/voltIOw3.webp"
 source = "citybiz"
 +++

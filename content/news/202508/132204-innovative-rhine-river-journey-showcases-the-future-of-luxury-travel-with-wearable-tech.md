@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525465/live-from-t
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/85b02938c1c00e18dd6e7b714b42d9b3.png"
 article_id = 132204
 feed_item_id = 17996
-url = "/202508/132204-innovative-rhine-river-journey-showcases-the-future-of-luxury-travel-with-wearable-tech"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/lambzY_B.webp"
 source = "24-7 Press Release"
 +++

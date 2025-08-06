@@ -1,0 +1,15 @@
++++
+title = "Intellum and EPAM Systems Forge Partnership to Revolutionize AI-Driven Corporate Learning"
+date = "2025-08-06T11:00:30Z"
+draft = false
+summary = "The collaboration between Intellum and EPAM Systems aims to transform corporate education through AI-driven learning technologies, offering personalized and scalable educational experiences."
+description = "Intellum and EPAM Systems collaborate to deliver AI-driven, personalized learning experiences, transforming how businesses approach education and development."
+source_link = "https://newsworthy.ai/news/202508061609/intellum-and-epam-systems-partner-to-deliver-scalable-ai-driven-learning-solutions"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/73e96bc3bfc3fd8b2cace9b9be299878.png"
+article_id = 137639
+feed_item_id = 18191
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/6/clubMN_3.webp"
+source = "Newsworthy.ai"
++++
+
+<p>The partnership between Intellum and EPAM Systems represents a pivotal advancement in the realm of corporate learning technologies. By merging Intellum's scalable learning management solutions with EPAM's expertise in AI-enabled transformation services, this collaboration is set to offer organizations innovative tools for creating personalized and impactful educational experiences.</p><p>Dan Hynes, VP of Partnerships at Intellum, underscored the complementary strengths of both companies, pointing out how EPAM's leadership in AI-enabled transformation aligns with Intellum's mission to innovate learning for growth. This synergy is anticipated to enable businesses to deliver educational content that is not only tailored to individual needs but also scalable and efficient.</p><p>Angela Masella, VP of Workforce Experience Consulting at EPAM Systems, highlighted the collaborative vision, noting the potential to extend EPAM's digital engineering prowess into the learning domain. The partnership aims to equip organizations with the capability to offer smarter, adaptive learning experiences that translate into tangible business outcomes.</p><p>Eric Zenor of EPAM Systems further emphasized the critical role of agile and intelligent learning solutions in addressing the dynamic demands of today's business landscape. The integration of Intellum's platform with EPAM's AI and digital engineering expertise is designed to foster the development of personalized learning ecosystems that adapt in real time and enhance performance on a large scale.</p><p>This strategic alliance is expected to provide businesses with state-of-the-art resources to develop education programs that are not only responsive to current workforce needs but also proactive in preparing for future challenges. For more details on EPAM Systems and their offerings, visit <a href='https://www.epam.com' rel='nofollow' target='_blank'>https://www.epam.com</a>.</p>

@@ -8,7 +8,6 @@ source_link = "https://newsworthy.ai/news/202508051615/pharos-premium-infused-be
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/ba7edd940f30e75c67fcdbee1b23e528.png"
 article_id = 135981
 feed_item_id = 18144
-url = "/202508/135981-pharos-brands-expands-into-missouri-s-cannabis-beverage-market-through-strategic-partnership"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/5/quit8cq5.webp"
 source = "Newsworthy.ai"
 +++

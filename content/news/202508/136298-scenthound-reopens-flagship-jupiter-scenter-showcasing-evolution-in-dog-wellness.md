@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727119/scenthound-celebrates-miles
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/85941fe975e6cbd56d7d1d2ad3896d30.jpg"
 article_id = 136298
 feed_item_id = 18124
-url = "/202508/136298-scenthound-reopens-flagship-jupiter-scenter-showcasing-evolution-in-dog-wellness"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/vibeBgH8.webp"
 source = "citybiz"
 +++

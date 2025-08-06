@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-lantern-ph
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/0f86b698235782e5796151081cbcd542.png"
 article_id = 134793
 feed_item_id = 18053
-url = "/202508/134793-lantern-pharma-unveils-predictbbb-ai-tm-revolutionizing-drug-delivery-to-the-brain-with-ai"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/nora8uks.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

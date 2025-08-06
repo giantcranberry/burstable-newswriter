@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525359/global-reta
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/7c9e396287ddd673245205f90dfed22d.png"
 article_id = 136001
 feed_item_id = 18092
-url = "/202508/136001-mitch-gould-marks-40-years-of-revolutionizing-retail-distribution-with-nutritional-products-international"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/5/rendwtl5.webp"
 source = "24-7 Press Release"
 +++

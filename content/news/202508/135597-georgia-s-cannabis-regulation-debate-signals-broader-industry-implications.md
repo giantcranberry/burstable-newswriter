@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/cnw/420-with-cnw-georgia-law
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/3476104ae1772a4f8e38733bb58a5545.png"
 article_id = 135597
 feed_item_id = 18082
-url = "/202508/135597-georgia-s-cannabis-regulation-debate-signals-broader-industry-implications"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/jinxt0we.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

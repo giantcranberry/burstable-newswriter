@@ -1,0 +1,15 @@
++++
+title = "Metavesco's Epic Labor Expands to Augusta, Georgia, Marking Fifth Branch in Southeast"
+date = "2025-08-06T12:10:08Z"
+draft = false
+summary = "Metavesco, Inc. announces the expansion of its subsidiary Epic Labor into Augusta, Georgia, as part of its strategy to dominate the on-demand labor market in the Southeastern United States."
+description = "Metavesco's Epic Labor expands into Augusta, GA, aiming to dominate the Southeast's on-demand labor market with innovative staffing solutions."
+source_link = "https://www.newmediawire.com/news/metavesco-s-epic-labor-announces-expansion-into-augusta-georgia-7081733"
+enclosure = "https://cdn.newsramp.app/genai/images/258/6/241876d5dc22407a9e06b37deedd946f.png"
+article_id = 137632
+feed_item_id = 18195
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/6/chefH2Pb.webp"
+source = "NewMediaWire"
++++
+
+<p>Metavesco, Inc., a diversified holding company, has taken a significant step in its expansion strategy by opening a new branch of its wholly owned subsidiary, Epic Labor, in Augusta, Georgia. This marks the fifth active branch for Epic Labor, underscoring the company's aggressive growth in the Southeastern United States. The move aligns with Metavesco's ambitious target of establishing 98 offices across key metro areas in the region, aiming to solidify its presence in the on-demand labor market.</p><p>Epic Labor is renowned for its fast and reliable staffing solutions, catering to the construction, warehouses, events, and hospitality sectors. Its distinctive 24/7 dispatch model and two-hour worker replacement guarantee have positioned it as a leader in addressing urgent labor needs. Ryan Schadel, CEO of Metavesco, highlighted the Augusta market's potential, citing its robust industrial and hospitality sectors as ideal for Epic Labor's services.</p><p>The expansion into Augusta is a blend of strategic acquisitions and organic growth, reflecting Metavesco's commitment to becoming the premier provider of on-demand labor in the Southeast. With plans for the Augusta office's grand opening and staffing details to be announced soon, stakeholders are keenly watching the company's next moves. For more information on Metavesco and its subsidiaries, visit <a href='https://www.metavesco.com' rel='nofollow' target='_blank'>https://www.metavesco.com</a>. Additionally, the company's forward-looking statements and detailed expansion risks can be reviewed at <a href='https://www.otcmarkets.com' rel='nofollow' target='_blank'>https://www.otcmarkets.com</a>.</p><p>This expansion not only signifies Metavesco's growth ambitions but also highlights the increasing demand for flexible labor solutions in the Southeast's booming industries. As Epic Labor extends its footprint, the implications for local businesses and the broader labor market are profound, offering faster, more reliable staffing options that could redefine industry standards.</p>

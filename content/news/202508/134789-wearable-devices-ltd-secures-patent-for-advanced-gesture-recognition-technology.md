@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-wearable
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/399975fee7a3180ed2cb51a4f5eef9c9.png"
 article_id = 134789
 feed_item_id = 18058
-url = "/202508/134789-wearable-devices-ltd-secures-patent-for-advanced-gesture-recognition-technology"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/gleeGwtS.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

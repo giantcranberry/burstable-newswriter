@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726352/motorsports-tech-startup-ke
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f0032663ef34e0481d84a3877b42213b.jpg"
 article_id = 134641
 feed_item_id = 18048
-url = "/202508/134641-kerbz-adventures-secures-500000-seed-funding-to-revolutionize-amateur-motorsports"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/bendDjeG.webp"
 source = "citybiz"
 +++

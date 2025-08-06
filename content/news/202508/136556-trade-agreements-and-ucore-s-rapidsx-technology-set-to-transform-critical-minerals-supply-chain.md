@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/esg/ucore-rare-metals-inc-ts
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/9709a3c6a03834511196f44d016d06ce.png"
 article_id = 136556
 feed_item_id = 18152
-url = "/202508/136556-trade-agreements-and-ucore-s-rapidsx-technology-set-to-transform-critical-minerals-supply-chain"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/lineRdSP.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

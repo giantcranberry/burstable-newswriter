@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525466/dcs-rescue-
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/852eda7995435ccb78eca05012a6605b.png"
 article_id = 132087
 feed_item_id = 18002
-url = "/202508/132087-dcs-rescue-releases-comprehensive-guide-to-enhance-confined-space-safety-in-construction"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/pondQy1s.webp"
 source = "24-7 Press Release"
 +++

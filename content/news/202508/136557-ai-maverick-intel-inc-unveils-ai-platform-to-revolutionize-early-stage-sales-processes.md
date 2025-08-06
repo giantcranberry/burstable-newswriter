@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/ai-maverick-intel-inc-b
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/7865773baf94e669084b6e5bd2c100b7.png"
 article_id = 136557
 feed_item_id = 18153
-url = "/202508/136557-ai-maverick-intel-inc-unveils-ai-platform-to-revolutionize-early-stage-sales-processes"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/navyE9UZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

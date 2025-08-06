@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nightfoo
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/dd360e92fc68c5107a222284324973a7.png"
 article_id = 135989
 feed_item_id = 18127
-url = "/202508/135989-nightfood-holdings-inc-pioneers-ai-and-robotics-in-hospitality-to-address-labor-shortages"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/fileGleG.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727464/qa-with-patrick-ignacio-fra
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c85eee32bfdad5b054ba61993124cf6e.png"
 article_id = 136426
 feed_item_id = 18158
-url = "/202508/136426-heart-to-home-meals-franchise-owner-champions-senior-wellness-through-nutrition-in-north-carolina"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/chefCyTV.webp"
 source = "citybiz"
 +++

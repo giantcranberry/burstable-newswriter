@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726575/qa-with-menaka-thillaiampal
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6d119e1d0487bbd0f3fac96bec66472e.png"
 article_id = 135120
 feed_item_id = 18069
-url = "/202508/135120-hitachi-digital-services-cmo-advocates-for-lean-leadership-and-strategic-marketing-in-tech-industries"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/plumULbV.webp"
 source = "citybiz"
 +++

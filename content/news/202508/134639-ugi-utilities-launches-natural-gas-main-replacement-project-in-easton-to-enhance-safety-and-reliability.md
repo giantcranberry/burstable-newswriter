@@ -8,7 +8,6 @@ source_link = "https://ugi.reportablenews.com/pr/ugi-set-to-begin-system-upgrade
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/8a42781b7ea329edd496a0d8c6511e9c.jpg"
 article_id = 134639
 feed_item_id = 18049
-url = "/202508/134639-ugi-utilities-launches-natural-gas-main-replacement-project-in-easton-to-enhance-safety-and-reliability"
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/4/poemfZL4.webp"
 source = "Reportable"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726990/bentley-systems-announces-f
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/8a5569518910fa1abf4a52e07394e3e3.jpg"
 article_id = 135766
 feed_item_id = 18106
-url = "/202508/135766-bentley-systems-announces-2025-going-digital-awards-finalists-highlighting-digital-innovation-in-infrastructure"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/knobHzxe.webp"
 source = "citybiz"
 +++

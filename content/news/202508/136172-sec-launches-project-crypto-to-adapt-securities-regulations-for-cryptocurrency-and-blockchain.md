@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ccw/sec-unveils-project-cryp
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/7416c058fd48a2a386a82a1a53aa3c63.png"
 article_id = 136172
 feed_item_id = 18132
-url = "/202508/136172-sec-launches-project-crypto-to-adapt-securities-regulations-for-cryptocurrency-and-blockchain"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/takezHmu.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

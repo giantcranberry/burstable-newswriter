@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-beeline-
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/a7e3993b3406412a30b55e7c13c41788.png"
 article_id = 135762
 feed_item_id = 18108
-url = "/202508/135762-beeline-holdings-divests-majority-stake-in-bridgetown-spirits-to-focus-on-core-digital-mortgage-platform"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/barnxV5l.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.newmediawire.com/news/meet-iqstel-the-dynamic-holding
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/0745745db58da8aec11d4f2d2076ba34None"
 article_id = 135760
 feed_item_id = 18109
-url = "/202508/135760-iqstel-inc-aims-for-1-billion-revenue-by-2027-through-strategic-acquisitions-and-ai-innovations"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/5/ninoeV8I.webp"
 source = "NewMediaWire"
 +++

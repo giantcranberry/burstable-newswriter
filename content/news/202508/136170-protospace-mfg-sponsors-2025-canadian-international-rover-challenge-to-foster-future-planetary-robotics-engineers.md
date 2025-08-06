@@ -8,7 +8,6 @@ source_link = "https://www.newmediawire.com/news/protospace-mfg-named-title-spon
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/afa3f2afd8276f38979f539abad2bde4.png"
 article_id = 136170
 feed_item_id = 18134
-url = "/202508/136170-protospace-mfg-sponsors-2025-canadian-international-rover-challenge-to-foster-future-planetary-robotics-engineers"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/5/ideaxE9s.webp"
 source = "NewMediaWire"
 +++

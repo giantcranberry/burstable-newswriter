@@ -1,0 +1,15 @@
++++
+title = "Northside at SanTan Village Phase One Reaches 60% Leased, Signaling Strong Market Confidence"
+date = "2025-08-05T20:30:43Z"
+draft = false
+summary = "The Northside at SanTan Village phase one development in Gilbert, Arizona, has achieved a significant leasing milestone, introducing a mix of retail and dining options that cater to the evolving preferences of the community."
+description = "Discover the new retail and dining hub at Northside at SanTan Village in Gilbert, AZ, featuring premier tenants like Perry’s Steakhouse & Grille. Opening Q1 2026."
+source_link = "https://www.citybiz.co/article/727478/new-tenants-announced-at-northside-mixed-use-project-in-gilbert-arizona/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/4c49e11b9dceda03d45379de12d4278b.jpg"
+article_id = 137650
+feed_item_id = 18161
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/wolflsAs.webp"
+source = "citybiz"
++++
+
+<p>The Northside at SanTan Village phase one, a pivotal mixed-use development in Gilbert, Arizona, has reached a notable milestone with approximately 60% of its space now leased. This achievement underscores the project's appeal and the strong market confidence in its potential to redefine retail and dining experiences in the Southeast Valley.</p><p>Developed by Okland Capital and SanTan Development Group, with leasing managed by Western Retail Advisors, the project is attracting a diverse mix of tenants. Perry’s Steakhouse & Grille, making its Arizona debut with an 11,000-square-foot lease, serves as the anchor tenant. The development also welcomes The Workshop Pilates, The NOW Massage, The Milkshake Factory, and Face Foundrie, each offering unique services and products to the community.</p><p>Garret Clifford of Okland Capital emphasized the strategic tenant selection process, aiming to combine high-end dining with popular fast-casual concepts. This approach reflects a broader trend towards creating destinations that meet the varied preferences of today's consumers. The remaining available spaces, ranging from 1,490 to 4,336 square feet, are generating considerable interest, further highlighting the project's appeal.</p><p>Situated in the vibrant SanTan Village corridor, Northside at SanTan Village phase one is designed to encourage community interaction through shared outdoor spaces. Slated for completion by Q1 2026, this phase is part of a larger 20-acre master plan that includes retail, dining, a hotel, and mixed-use assets, all integrated with community spaces and a walking loop.</p><p>Bryan Babits of Western Retail Advisors noted that the leasing success of Northside at SanTan Village phase one demonstrates the demand for well-located and thoughtfully designed retail spaces that offer new experiences. For more information on leasing opportunities, visit <a href='https://www.w-retail.com' rel='nofollow' target='_blank'>https://www.w-retail.com</a>.</p>

@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/anton-burnette-named-alignables-busine
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/46d23f32cbdfb23e50ac224e092adca6.jpg"
 article_id = 135591
 feed_item_id = 18091
-url = "/202508/135591-anton-burnette-secures-second-consecutive-local-business-person-of-the-year-title-in-cleveland-tn"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/5/jazzGaF1.webp"
 source = "Press Services"
 +++

@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/ainw/safe-pro-group-inc-s-na
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/cf299251bcda79faa6651ccd35ed9da2.png"
 article_id = 135117
 feed_item_id = 18072
-url = "/202508/135117-safe-pro-group-s-spotlightai-to-enhance-u-s-army-s-defense-capabilities-in-2026-experiment"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/navy4Fr5.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

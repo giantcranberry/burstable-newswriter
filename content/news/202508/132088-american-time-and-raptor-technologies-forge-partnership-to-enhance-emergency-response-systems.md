@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525504/american-ti
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/75ac2f3027882fb20cb9d19d76557025.png"
 article_id = 132088
 feed_item_id = 17998
-url = "/202508/132088-american-time-and-raptor-technologies-forge-partnership-to-enhance-emergency-response-systems"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/dual7T_3.webp"
 source = "24-7 Press Release"
 +++

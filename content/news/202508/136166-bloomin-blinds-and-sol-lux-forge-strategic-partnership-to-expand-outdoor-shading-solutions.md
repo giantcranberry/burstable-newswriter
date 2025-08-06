@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727190/bloomin-blinds-expands-outd
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/322420cefd2b4050b93ebea719b2e9c8.png"
 article_id = 136166
 feed_item_id = 18137
-url = "/202508/136166-bloomin-blinds-and-sol-lux-forge-strategic-partnership-to-expand-outdoor-shading-solutions"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/lineKjep.webp"
 source = "citybiz"
 +++

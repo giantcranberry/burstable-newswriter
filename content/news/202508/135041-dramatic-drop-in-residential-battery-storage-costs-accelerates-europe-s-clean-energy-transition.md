@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/tmw/report-finds-that-reside
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/ff613fbf0b67fcb707c9ff388b2a5a7a.png"
 article_id = 135041
 feed_item_id = 18076
-url = "/202508/135041-dramatic-drop-in-residential-battery-storage-costs-accelerates-europe-s-clean-energy-transition"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/lilyAfPr.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

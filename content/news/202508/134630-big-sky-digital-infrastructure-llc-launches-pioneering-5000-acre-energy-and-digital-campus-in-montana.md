@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726391/quantica-infrastructure-lau
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/279acbab7e65d53b1f8e93ed3d38c8c0.png"
 article_id = 134630
 feed_item_id = 18052
-url = "/202508/134630-big-sky-digital-infrastructure-llc-launches-pioneering-5000-acre-energy-and-digital-campus-in-montana"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/takeUQ6p.webp"
 source = "citybiz"
 +++

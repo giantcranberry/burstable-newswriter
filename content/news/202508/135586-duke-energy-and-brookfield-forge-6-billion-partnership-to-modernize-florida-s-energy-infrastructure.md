@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726971/duke-energy-partners-with-b
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ab941b6dd9ab9f4af79fff672bffe24c.jpg"
 article_id = 135586
 feed_item_id = 18102
-url = "/202508/135586-duke-energy-and-brookfield-forge-6-billion-partnership-to-modernize-florida-s-energy-infrastructure"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/bossnskl.webp"
 source = "citybiz"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/726426/qa-with-charles-goodwin-vp-
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1c7ff1c558858d7615c13f98209e97af.jpg"
 article_id = 134786
 feed_item_id = 18059
-url = "/202508/134786-rental-market-dynamics-and-investment-strategies-in-a-post-pandemic-era"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/4/kiwil4Mg.webp"
 source = "citybiz"
 +++

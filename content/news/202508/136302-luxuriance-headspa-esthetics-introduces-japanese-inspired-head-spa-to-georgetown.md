@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525481/luxuriance-
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/3c261ff24cccd007e44cea64a0bdb044.png"
 article_id = 136302
 feed_item_id = 18094
-url = "/202508/136302-luxuriance-headspa-esthetics-introduces-japanese-inspired-head-spa-to-georgetown"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/5/zestRzUd.webp"
 source = "24-7 Press Release"
 +++

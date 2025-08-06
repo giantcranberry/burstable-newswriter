@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-inplay
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/a0376c6373cb8c255eeb48e323a9e4c6.png"
 article_id = 135996
 feed_item_id = 18126
-url = "/202508/135996-inplay-oil-corp-strengthens-strategic-position-with-delek-group-ltd-as-new-shareholder"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/calmG91F.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

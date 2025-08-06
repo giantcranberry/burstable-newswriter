@@ -8,7 +8,6 @@ source_link = "https://newsworthy.ai/news/202508051610/candidate-fyi-introduces-
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/3edff1d443b4a7c9bbab33faf5a86d95.png"
 article_id = 136168
 feed_item_id = 18135
-url = "/202508/136168-candidate-fyi-and-ukg-partnership-revolutionizes-talent-acquisition-with-ai-and-automation"
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/5/jinx4CiS.webp"
 source = "Newsworthy.ai"
 +++

@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525507/ron-gordon-
 enclosure = "https://cdn.newsramp.app/genai/images/258/2/82208327c09ea4c4489417166dfba131.png"
 article_id = 132202
 feed_item_id = 18001
-url = "/202508/132202-tag-heuer-and-porsche-unveil-the-carrera-chronograph-x-porsche-963-a-fusion-of-horological-and-automotive-excellence"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/2/lendsEid.webp"
 source = "24-7 Press Release"
 +++

@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/tg/study-compares-whether-ev
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/46db6c2bf88130537cf60273a92096fe.png"
 article_id = 135042
 feed_item_id = 18075
-url = "/202508/135042-study-highlights-benefits-of-reusing-ev-batteries-over-recycling"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/frogpnGf.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

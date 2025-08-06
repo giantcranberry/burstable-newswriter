@@ -8,7 +8,6 @@ source_link = "https://www.citybiz.co/article/727308/black-duck-debuts-major-upg
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/a88a956b5394beaf2d89cbcc8772392a.jpg"
 article_id = 136560
 feed_item_id = 18146
-url = "/202508/136560-black-duck-software-enhances-ai-powered-security-assistant-for-developers"
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/5/pondGDwI.webp"
 source = "citybiz"
 +++

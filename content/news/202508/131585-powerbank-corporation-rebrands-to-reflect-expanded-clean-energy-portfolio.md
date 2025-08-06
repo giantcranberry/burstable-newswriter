@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/rns/powerbank-corp-nasdaq-su
 enclosure = "https://cdn.newsramp.app/genai/images/258/1/5b4ba8621fbcd9bdee4e983b66f78297.png"
 article_id = 131585
 feed_item_id = 17984
-url = "/202508/131585-powerbank-corporation-rebrands-to-reflect-expanded-clean-energy-portfolio"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/1/irisTwNT.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

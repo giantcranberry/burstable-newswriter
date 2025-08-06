@@ -8,7 +8,6 @@ source_link = "https://www.24-7pressrelease.com/press-release/525369/free-high-s
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/cc5a43c1bede2e4431aeeb2496513257.png"
 article_id = 134422
 feed_item_id = 18030
-url = "/202508/134422-the-eecosystem-launches-free-high-speed-digital-design-masterclass-with-dr-eric-bogatin"
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/4/blurQDjZ.webp"
 source = "24-7 Press Release"
 +++

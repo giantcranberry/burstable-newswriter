@@ -8,7 +8,6 @@ source_link = "https://www.newmediawire.com/news/cyberloq-technologies-inc-appoi
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/79e9e7a8f42889de7c7a265cde095234.png"
 article_id = 135582
 feed_item_id = 18103
-url = "/202508/135582-cyberloq-technologies-partners-with-the-wrapped-brand-agency-to-strengthen-global-presence"
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/5/mendRMDE.webp"
 source = "NewMediaWire"
 +++

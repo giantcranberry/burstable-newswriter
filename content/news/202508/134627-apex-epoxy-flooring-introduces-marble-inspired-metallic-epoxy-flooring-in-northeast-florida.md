@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/apex-epoxy-flooring-launches-new-marbl
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/2ede23ad925531d364f3a7aecab20ef9.jpg"
 article_id = 134627
 feed_item_id = 18060
-url = "/202508/134627-apex-epoxy-flooring-introduces-marble-inspired-metallic-epoxy-flooring-in-northeast-florida"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/4/takegyvI.webp"
 source = "Press Services"
 +++

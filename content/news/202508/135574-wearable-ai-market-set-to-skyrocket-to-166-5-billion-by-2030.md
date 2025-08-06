@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/neural-tech-drives-the-g
 enclosure = "https://cdn.newsramp.app/genai/images/258/5/882e543e023abb7b5b42d3c1311cb668.png"
 article_id = 135574
 feed_item_id = 18119
-url = "/202508/135574-wearable-ai-market-set-to-skyrocket-to-166-5-billion-by-2030"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/5/chefOFYZ.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++

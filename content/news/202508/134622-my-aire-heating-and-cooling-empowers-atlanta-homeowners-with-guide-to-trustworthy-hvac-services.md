@@ -8,7 +8,6 @@ source_link = "https://mediawiretoday.com/atlanta-hvac-experts-offer-guide-to-fi
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/7c77cb28f3b26dda56bf6c05163b657d.png"
 article_id = 134622
 feed_item_id = 18064
-url = "/202508/134622-my-aire-heating-and-cooling-empowers-atlanta-homeowners-with-guide-to-trustworthy-hvac-services"
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/258/4/palefjrm.webp"
 source = "Press Services"
 +++

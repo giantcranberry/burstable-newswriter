@@ -8,7 +8,6 @@ source_link = "https://rss.investorbrandnetwork.com/nnw/hospitality-gets-high-te
 enclosure = "https://cdn.newsramp.app/genai/images/258/4/346d1f232af2378b77cb6ec55f523d71.png"
 article_id = 134247
 feed_item_id = 18045
-url = "/202508/134247-ai-and-robotics-revolutionize-the-hospitality-industry"
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/4/pondf32z.webp"
 source = "InvestorBrandNetwork (IBN)"
 +++
