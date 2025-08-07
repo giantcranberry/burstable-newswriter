@@ -1,0 +1,16 @@
++++
+title = "OppFi Reports Record Q2 2025 Financial Performance and Raises Full-Year Guidance"
+date = "2025-08-06T20:15:18Z"
+draft = false
+summary = "OppFi, Inc. showcases a strong second quarter in 2025 with record revenue and adjusted net income, alongside strategic financial management and improved credit quality, leading to an optimistic full-year outlook."
+description = "OppFi announces record Q2 earnings with revenue up 12.8% y/y, raises FY25 guidance, showcasing strong growth and financial health in fintech."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-2q25-report-on-oppfi-inc-nyse-opfi"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/d03fb7fedabff3329bf7346e3c6b0f8a.webp"
+featured = true
+article_id = 138497
+feed_item_id = 18251
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/6/maskRIjT.webp"
+source = "Reportable"
++++
+
+<p>OppFi, Inc. (NYSE: OPFI) has announced a remarkable financial performance for the second quarter of 2025, with revenues reaching $142.4 million, adjusted net income at $39.4 million, and adjusted earnings per share (EPS) of $0.45. These figures not only exceeded consensus estimates but also represented a significant year-over-year improvement, attributed to higher receivables and portfolio yield. Despite a net income dip due to a non-cash warrant revaluation, the company's adjusted net income surged by 59.0% compared to the previous year, establishing a new quarterly record.</p><p>The company's financial health is further underscored by its strong liquidity and balance sheet, boasting $78.3 million in cash and restricted cash by the end of Q2 2025. Demonstrating effective financial stewardship, OppFi generated $64.0 million in free cash flow in the first half of the year. This financial prowess enabled the company to not only invest in its growth initiatives but also to distribute a special dividend of $28.1 million to its shareholders. Additionally, OppFi has successfully repaid its corporate term loan in full and expanded its revolving credit facility by $50.0 million, highlighting its financial resilience and strategic foresight.</p><p>Originations have witnessed a 14% increase year-over-year, totaling $233.9 million, with retained net originations growing by 9% to $205.7 million. The auto-approval rate has improved to 80%, a testament to the advancements in automation and risk stratification facilitated by OppFi’s Model 6 platform. Credit quality has also seen notable enhancements, with the net charge-off rate decreasing to 31.9% of total revenue, down from the previous year, and the portfolio yield achieving a company record of 136%.</p><p>In response to these achievements, OppFi has revised its full-year 2025 revenue guidance upwards to $578–$605 million and adjusted net income guidance to $125–$130 million. The adjusted EPS guidance has also been increased to $1.39–$1.44, based on an anticipated 90 million diluted shares. This revised outlook is buoyed by the company's robust performance in the first half of 2025 and its strategic efforts to sustain growth and enhance credit quality. For further insights into OppFi's financial achievements and strategic direction, visit <a href='https://www.oppfi.com' rel='nofollow' target='_blank'>https://www.oppfi.com</a>.</p>

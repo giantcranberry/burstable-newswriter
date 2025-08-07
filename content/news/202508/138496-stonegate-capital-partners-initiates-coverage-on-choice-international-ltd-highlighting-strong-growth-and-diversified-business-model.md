@@ -1,0 +1,15 @@
++++
+title = "Stonegate Capital Partners Initiates Coverage on Choice International Ltd., Highlighting Strong Growth and Diversified Business Model"
+date = "2025-08-06T20:15:18Z"
+draft = false
+summary = "Stonegate Capital Partners' coverage of Choice International Ltd. reveals significant financial growth and strategic expansion, positioning the company as a promising investment opportunity in the financial services sector."
+description = "Choice International Ltd. reports a strong FY26 start with 16% revenue growth, driven by digital engagement and wealth management expansion. A must-read for investors."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-initiates-coverage-on-choice-international-ltd-nse-choicein"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/5f82312f89d03d0d9ad99e5e7b3c0bd4.jpg"
+article_id = 138496
+feed_item_id = 18250
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/6/barnIlsF.webp"
+source = "Reportable"
++++
+
+<p>Stonegate Capital Partners has recently initiated coverage on Choice International Ltd. (NSE: CHOICEIN), spotlighting the company's notable financial achievements and its strategic expansion across multiple sectors. The firm's first-quarter revenue for FY26 soared to ₹2.38B, a 16% increase year-over-year, with EBITDA and PAT rising by 49% and 50% to ₹870M and ₹480M, respectively. This financial uptick is attributed to improved operational efficiency and significant margin expansion.</p><p>Choice International's growth extends beyond financial metrics, with its network now encompassing 208 branch offices and over 58,000 Choice Business Associates (CBAs), reinforcing its national presence. The management's projection of a 25–30% annual growth rate underscores confidence in the company's market position and operational prowess.</p><p>The broking segment, contributing to about 60% of total revenue, has demonstrated consistent growth, with client assets under broking climbing to ₹478B, a 16% year-over-year increase. The wealth management sector has experienced a dramatic 443% surge in AUM to ₹47.7B, fueled by the acquisition of Arete Capital’s wealth business. Meanwhile, the insurance distribution business continues its upward trajectory, with premium collections and policies sold increasing by 62% and 46%, respectively.</p><p>Choice International's NBFC vertical has also seen substantial growth, with the retail loan book doubling to ₹5.96B and the total loan book reaching ₹7.45B, all while maintaining stable credit quality. The government advisory segment has further diversified the company's portfolio, securing a ₹5.86B order book.</p><p>Stonegate Capital Partners' valuation of Choice International, employing a DCF Model, EV/Operating Income comp analysis, and P/E analysis, presents a bright future for the company. With a valuation range of $7.01 to $12.88 and a mid-point of $9.12, Choice International emerges as a compelling investment opportunity. For further insights into Stonegate Capital Partners' analysis, visit <a href='https://www.stonegateinc.com' rel='nofollow' target='_blank'>https://www.stonegateinc.com</a>.</p>

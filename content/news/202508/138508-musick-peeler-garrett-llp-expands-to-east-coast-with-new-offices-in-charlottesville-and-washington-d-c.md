@@ -1,0 +1,15 @@
++++
+title = "Musick Peeler & Garrett LLP Expands to East Coast with New Offices in Charlottesville and Washington, D.C."
+date = "2025-08-06T17:40:40Z"
+draft = false
+summary = "Musick Peeler & Garrett LLP's strategic expansion to the East Coast with new offices and a team of experienced attorneys enhances its national presence and service offerings, particularly in business transactions, real estate, and litigation."
+description = "Musick Peeler expands to East Coast with new offices in Charlottesville and D.C., enhancing legal services with a team of experienced attorneys for national and international clients."
+source_link = "https://www.citybiz.co/article/728019/musick-peeler-expands-to-east-coast-with-offices-in-charlottesville-va-and-washington-d-c/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/0d047a06e8f70a0c650b87025e44e995.png"
+article_id = 138508
+feed_item_id = 18226
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/6/leanxptu.webp"
+source = "citybiz"
++++
+
+<p>Musick Peeler & Garrett LLP has announced a significant expansion to the East Coast, establishing new offices in Charlottesville, Virginia, and Washington, D.C. This move introduces a team of seasoned attorneys from Zoblaw, including Duane Zobrist, Garrett Barlow, Andrew Muhlestein, and Zach Smith, who specialize in areas such as business transactions, real estate, tax and estate planning, and litigation. The expansion is co-led by Stephen Bradford, a long-standing Musick Peeler partner, and Garrett Barlow, underscoring the firm's dedication to enhancing its national footprint and broadening its service portfolio.</p><p>The expansion was motivated by the firm's increasing client opportunities in the region and the robust professional relationships it has developed. Rich Galofaro, Co-Managing Partner of Musick Peeler, shared his excitement about the new team joining the firm, highlighting their expertise and professional backgrounds as vital for the firm's leadership and client service moving forward. The new attorneys are licensed to practice in several jurisdictions, including California, the District of Columbia, Virginia, and Utah, which significantly boosts Musick Peeler's capacity to serve clients nationwide and internationally.</p><p>This strategic expansion not only strengthens Musick Peeler's ability to manage cross-border legal matters but also positions the firm as a more attractive option for global clients in need of U.S. legal representation. The firm's collaboration with <a href="https://www.allylaw.com" rel="nofollow" target="_blank">Ally Law</a>, a worldwide network of affiliated law firms, is anticipated to gain from the expanded geographic reach and enhanced legal expertise. For more information about Musick Peeler's services and locations, visit <a href="https://www.musickpeeler.com" rel="nofollow" target="_blank">MusickPeeler.com</a>.</p>

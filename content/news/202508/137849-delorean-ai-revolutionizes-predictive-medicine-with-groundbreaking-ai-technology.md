@@ -6,7 +6,6 @@ summary = "DeLorean AI's innovative artificial intelligence solutions are transf
 description = "Discover how DeLorean AI is transforming healthcare with biologically validated AI, saving lives and reducing costs through predictive medicine."
 source_link = "https://www.citybiz.co/article/727971/qa-with-dr-severence-maclaughlin-delorean-ais-ceo-on-predictive-medicine-bootstrapping-and-building-the-intel-of-healthcare-ai/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f286ec2b413ac4c9e5830ce37876cc23.png"
-featured = true
 article_id = 137849
 feed_item_id = 18223
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/6/jadeMj1H.webp"

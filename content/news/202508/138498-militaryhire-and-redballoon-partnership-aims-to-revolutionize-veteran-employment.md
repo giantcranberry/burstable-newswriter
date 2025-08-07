@@ -1,0 +1,15 @@
++++
+title = "MilitaryHire and RedBalloon Partnership Aims to Revolutionize Veteran Employment"
+date = "2025-08-06T19:40:55Z"
+draft = false
+summary = "MilitaryHire.com and RedBalloon.work's strategic partnership seeks to improve employment opportunities for veterans by combining human-centric hiring practices with technology."
+description = "MilitaryHire.com and RedBalloon join forces to enhance veteran hiring with a human-centric approach, blending AI with real conversations for better matches."
+source_link = "https://newsworthy.ai/news/202508061626/militaryhire-joins-redballoon-to-transform-military-recruiting"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/e3c31e9998bfd08ef719535dae0cb296.png"
+article_id = 138498
+feed_item_id = 18245
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/6/oxenNCqt.webp"
+source = "Newsworthy.ai"
++++
+
+<p>The veteran recruiting platform MilitaryHire.com has entered into a strategic partnership with RedBalloon.work, a technology company specializing in values-based hiring, to enhance employment opportunities for service members transitioning to civilian life. This collaboration targets the annual challenge faced by approximately 200,000 transitioning service members and over 700,000 Guard and Reserve members in securing meaningful employment.</p><p>Craig Robbins, CEO of MilitaryHire and a combat veteran, alongside Andrew Crapuchettes, founder and CEO of RedBalloon and former CEO of Emsi (now Lightcast.io), are at the forefront of this initiative. Their joint effort aims to mitigate the overreliance on AI in recruiting processes, which often disqualifies qualified veteran candidates due to a misunderstanding of military experience.</p><p>Robbins underscores the significance of human connections in veteran recruiting, pointing to MilitaryHire's virtual hiring events that successfully link tens of thousands of veterans with recruiters annually. The incorporation of RedBalloon's platform, which integrates AI with functionalities for discussing skill gaps and aligning values, is anticipated to significantly impact veteran employment positively.</p><p>Crapuchettes warns against the excessive dependence on AI for hiring decisions, highlighting the essential roles of culture fit, values alignment, and human judgment. The partnership will equip MilitaryHire customers with a novel recruiting platform that utilizes AI while maintaining human oversight in hiring decisions, alongside cost-effective recruiting services and improved marketing tools aimed at the military community.</p><p>The transition to RedBalloon's software is slated for completion by the fourth quarter of 2025, with enhanced recruiting services available immediately. This alliance marks a pivotal advancement in tackling the distinct employment hurdles veterans and military members encounter, offering more tailored and efficient employment solutions.</p>
