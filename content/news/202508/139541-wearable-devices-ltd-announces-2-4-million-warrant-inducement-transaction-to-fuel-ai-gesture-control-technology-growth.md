@@ -1,0 +1,15 @@
++++
+title = "Wearable Devices Ltd. Announces $2.4 Million Warrant Inducement Transaction to Fuel AI Gesture Control Technology Growth"
+date = "2025-08-07T13:40:25Z"
+draft = false
+summary = "Wearable Devices Ltd. secures $2.4 million through a warrant inducement transaction to advance its AI-based gesture control technology, marking a significant step in its expansion and innovation in human-computer interaction."
+description = "Wearable Devices Ltd. announces a $2.4M warrant exercise agreement, bolstering its AI gesture control tech. Explore how this impacts the future of touch-free digital interaction."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-wearable-devices-ltd-nasdaq-wlds-wldsw-announces-2-4-million-warrant-inducement-transaction/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/7/561d2f81ba2005591401e82420205d23.png"
+article_id = 139541
+feed_item_id = 18283
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/fineRafg.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Wearable Devices Ltd. (NASDAQ: WLDS, WLDSW), a pioneer in AI-based gesture control technology, has recently announced a financial strategy that could inject approximately $2.4 million into the company. This move involves an existing institutional investor exercising warrants to acquire up to 1,661,000 ordinary shares at $1.45 each. In exchange, the investor will be granted 3,322,000 new unregistered warrants through a private placement, with an exercise price of $1.71 per share, pending shareholder approval. This transaction is set to close around August 7, 2025, contingent upon meeting standard closing conditions.</p><p>The funds raised from this transaction are designated for working capital and general corporate purposes, highlighting Wearable Devices Ltd.'s dedication to pushing the boundaries of its technology and broadening its market reach. The company stands at the cutting edge of human-computer interaction, with its AI-powered neural input touchless technology leading the charge. Its flagship products, the Mudra Band and Mudra Link, are revolutionizing the neural input category for wrist-worn devices and brain-computer interfaces, enabling users to control digital devices through intuitive, touch-free gestures across various operating systems. This technology enhances user experiences in gaming, productivity, and extended reality (XR) applications.</p><p>Wearable Devices Ltd. operates on a dual-channel model, engaging in both direct-to-consumer sales and enterprise licensing. This approach not only transforms consumer interactions with technology but also equips businesses with sophisticated input solutions for creating immersive and interactive environments. The recent financial maneuver underscores the company's growth potential and its pivotal role in developing seamless, natural user experiences in some of the most rapidly expanding tech markets. For further information on Wearable Devices Ltd. and its groundbreaking solutions, visit <a href='https://ibn.fm/WLDS' rel='nofollow' target='_blank'>https://ibn.fm/WLDS</a>.</p>

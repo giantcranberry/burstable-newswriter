@@ -6,7 +6,6 @@ summary = "OppFi, Inc. showcases a strong second quarter in 2025 with record rev
 description = "OppFi announces record Q2 earnings with revenue up 12.8% y/y, raises FY25 guidance, showcasing strong growth and financial health in fintech."
 source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-2q25-report-on-oppfi-inc-nyse-opfi"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/d03fb7fedabff3329bf7346e3c6b0f8a.webp"
-featured = true
 article_id = 138497
 feed_item_id = 18251
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/6/maskRIjT.webp"
