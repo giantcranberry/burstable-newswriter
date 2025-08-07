@@ -6,7 +6,6 @@ summary = "Edge House Miami and YUPIX introduce a Meta-Reality™ platform, tran
 description = "Grupo T&C and YUPIX partner to offer an immersive Meta-Reality experience for Edge House Miami, revolutionizing luxury real estate exploration and investment."
 source_link = "https://www.citybiz.co/article/728400/edge-house-miami-partners-with-yupix-to-launch-immersive-meta-reality-sales-experience/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ec6ebdbee47aee40fef98f59734d5c60.jpg"
-featured = true
 article_id = 139536
 feed_item_id = 18289
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/7/pint2xPt.webp"

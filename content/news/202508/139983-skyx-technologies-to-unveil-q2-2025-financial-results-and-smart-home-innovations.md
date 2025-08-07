@@ -1,0 +1,15 @@
++++
+title = "SKYX Technologies to Unveil Q2 2025 Financial Results and Smart Home Innovations"
+date = "2025-08-07T17:00:29Z"
+draft = false
+summary = "SKYX Technologies announces a corporate update call to discuss its Q2 2025 financial performance and advancements in smart home technology, highlighting its role in shaping the future of safe and intelligent living spaces."
+description = "SKYX Platforms announces Q2 2025 financial results conference call, showcasing its leadership in smart home technology with over 100 global patents."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-platforms-corp-nasdaq-skyx-to-host-q2-2025-corporate-update-call-on-august-12/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/7/dc9cfa8df040ad077adecbb434066bbc.png"
+article_id = 139983
+feed_item_id = 18307
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/quip9Nl_.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SKYX Platforms Corp., trading as SKYX Technologies on NASDAQ under the ticker SKYX, has announced a Corporate Update conference call scheduled for August 12, 2025, at 10:00 a.m. ET. This pivotal event will delve into the company's second quarter 2025 financial outcomes and its strides within the smart home technology arena. With an impressive arsenal of over 100 global patents and ownership of more than 60 lighting and home décor websites, SKYX Technologies is pioneering efforts to enhance the safety and intelligence of homes and buildings worldwide.</p><p>The conference call will be led by key figures including Founder and Executive Chairman Rani Kohen, President Steve Schmidt, and Co-CEO Lenny Sokolow, who will share insights into the company's trajectory and innovations. SKYX Technologies' dedication to transforming the smart home industry is underscored by its portfolio of over 97 U.S. and global patents, aiming to redefine safety and convenience standards in both residential and commercial environments. The company's focus on user-friendly, high-quality products meets the escalating demand for smart home solutions that promise to improve lifestyle and safety. Further information on SKYX Technologies' vision and technological advancements can be explored <a href='https://skyplug.com/' rel='nofollow' target='_blank'>here</a>.</p><p>This update is highly anticipated by investors and stakeholders, as it will offer a detailed look into SKYX Technologies' financial stability and strategic initiatives. The company's investment in patent-protected, groundbreaking technologies cements its status as a significant contender in the rapidly evolving smart home market. For ongoing updates and news about SKYX Technologies, interested parties can visit the company's newsroom <a href='https://ibn.fm/SKYX' rel='nofollow' target='_blank'>here</a>.</p>

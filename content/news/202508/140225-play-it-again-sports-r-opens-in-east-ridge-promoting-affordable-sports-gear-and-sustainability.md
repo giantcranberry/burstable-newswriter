@@ -1,0 +1,15 @@
++++
+title = "Play It Again Sports® Opens in East Ridge, Promoting Affordable Sports Gear and Sustainability"
+date = "2025-08-07T16:30:37Z"
+draft = false
+summary = "The new Play It Again Sports® store in East Ridge offers affordable used sports and fitness equipment, supporting environmental sustainability and community health."
+description = "Play It Again Sports opens in East Ridge, offering affordable, used sports and fitness equipment. Grand opening event August 14 with giveaways and deals."
+source_link = "https://www.citybiz.co/article/728540/play-more-spend-less-play-it-again-sports-brings-affordable-gear-to-east-ridge/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1d475e82a31ceecc9b7c6555db11912d.png"
+article_id = 140225
+feed_item_id = 18302
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/7/navy3WMe.webp"
+source = "citybiz"
++++
+
+<p>The opening of Play It Again Sports® in East Ridge represents a pivotal moment for local athletes and fitness enthusiasts, providing them with access to affordable sports gear while championing environmental sustainability. Located at <a href='https://www.playitagainsports.com' rel='nofollow' target='_blank'>1467 N Mack Smith Rd</a>, the store is set to open on August 14, offering a diverse selection of used sports and fitness equipment. This initiative not only makes sports more accessible to a wider audience but also aligns with the increasing consumer demand for sustainable shopping options.</p><p>Owned by Tim and Bri Watkins, the store reflects their deep-rooted commitment to fostering a sense of community, promoting family values, and advocating for environmental stewardship. The 3,750 sq. ft. space is dedicated to reducing waste by repurposing used sports equipment, thereby contributing to a more sustainable future. This model of retail not only benefits the environment but also supports a healthier, more active lifestyle among community members.</p><p>The grand opening weekend, scheduled from August 14 to August 17, is packed with events and promotions designed to engage the community. Highlights include gift cards for the first 25 customers, the presence of food trucks, and opportunities to win sports tickets and equipment. Additionally, the store is offering special promotions like spin-to-win games and double points on purchases and sales, encouraging the community to explore the advantages of buying and selling used sports gear.</p><p>What sets Play It Again Sports apart is its streamlined process for selling used equipment, offering immediate payment without the need for appointments. This hassle-free approach not only benefits sellers but also plays a significant role in the broader movement towards sustainable retail practices. The store's opening underscores the growing acceptance of resale as an eco-friendly and practical alternative to conventional retail, making sports and fitness more inclusive and accessible to everyone.</p>

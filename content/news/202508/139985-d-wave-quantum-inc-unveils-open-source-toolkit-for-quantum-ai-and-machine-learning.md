@@ -1,0 +1,15 @@
++++
+title = "D-Wave Quantum Inc. Unveils Open-Source Toolkit for Quantum AI and Machine Learning"
+date = "2025-08-07T17:00:29Z"
+draft = false
+summary = "D-Wave Quantum Inc. introduces an open-source toolkit designed to integrate quantum computing with PyTorch, marking a significant step forward in quantum AI and machine learning research and applications."
+description = "D-Wave Quantum Inc. introduces a suite of developer tools for quantum AI and ML, marking a milestone in quantum computing innovation. Explore the future of technology."
+source_link = "https://rss.investorbrandnetwork.com/tmw/tinygemsbreaks-d-wave-quantum-inc-nyse-qbts-launches-open-source-toolkit-for-quantum-ai-and-machine-learning/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/7/7c1cbe813d6770e9875d31f05b59691b.png"
+article_id = 139985
+feed_item_id = 18308
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/calmdzB3.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>D-Wave Quantum Inc. (NYSE: QBTS) has launched an innovative open-source toolkit that bridges the gap between quantum computing and artificial intelligence (AI), specifically targeting the machine learning (ML) community. This toolkit, a component of D-Wave's OceanTM software suite, is engineered to seamlessly integrate quantum processors with PyTorch, a premier ML framework. The initiative is poised to empower developers to push the boundaries of AI and ML by harnessing the unique capabilities of quantum computing.</p><p>The toolkit's standout feature is a PyTorch neural network module tailored for the development and training of restricted Boltzmann machines (RBMs) on quantum computers. This advancement addresses the escalating interest among customers in merging quantum computing with AI to tackle more complex problems. Dr. Trevor Lanting, D-Wave's chief development officer, highlighted the toolkit's significance in fulfilling this demand, noting its potential to fast-track advancements in quantum AI research and practical applications.</p><p>Early engagement with the toolkit has been robust, with adoption by prominent organizations such as Japan Tobacco Inc., the Jülich Supercomputing Centre at Forschungszentrum Jülich, and TRIUMF, Canada's particle accelerator center. These partnerships demonstrate the toolkit's broad applicability across various sectors and research domains, signaling a promising future for quantum-enhanced AI solutions.</p><p>For further details on D-Wave's pioneering toolkit, interested parties can explore more at <a href='https://ibn.fm/CJpIm' rel='nofollow' target='_blank'>https://ibn.fm/CJpIm</a>. This development is a pivotal moment in the evolution of quantum computing, offering a more accessible pathway for leveraging quantum technology in solving intricate AI challenges and beyond.</p>

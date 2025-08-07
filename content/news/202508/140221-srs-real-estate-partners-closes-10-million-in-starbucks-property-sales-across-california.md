@@ -1,0 +1,15 @@
++++
+title = "SRS Real Estate Partners Closes $10 Million in Starbucks Property Sales Across California"
+date = "2025-08-07T16:50:37Z"
+draft = false
+summary = "SRS Real Estate Partners has successfully closed sales for three Starbucks properties in California, totaling $10 million, highlighting strong investor interest in Starbucks-leased properties due to their corporate credit and strategic locations."
+description = "SRS Real Estate Partners sells three Starbucks properties in California for $10M, showcasing strong investor interest in net lease assets. Learn more about these high-value transactions."
+source_link = "https://www.citybiz.co/article/728560/srs-real-estate-partners-announces-sales-of-3-starbucks-properties-in-california-totaling-10-million/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9be526f1219d74f768dfd47d57b5e4a6.png"
+article_id = 140221
+feed_item_id = 18306
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/7/knobvI34.webp"
+source = "citybiz"
++++
+
+<p>SRS Real Estate Partners has announced the closure of sales for three Starbucks properties in California, with the transactions totaling $10 million. The properties, located in both Southern and Northern California, are newly constructed, feature drive-thrus, and come with long-term, corporate-guaranteed triple-net leases. This sale highlights the robust interest in Starbucks-leased properties among investors, attributed to their strong corporate credit, long-term lease agreements, and strategic locations that ensure consistent customer traffic.</p><p>Alexander Moore, a Vice President with SRS Capital Markets, emphasized the success of SRS's Capital Markets platform in facilitating these transactions amidst a high inventory of Starbucks properties on the market both in California and nationally. Over the past year, SRS has played a pivotal role in the sale of 39 Starbucks-occupied properties nationwide, with a combined value exceeding $126 million, further establishing its leadership in this niche market.</p><p>The sold properties include a 1,900-square-foot location at the SWC Highway 111 & Date Palm Drive in Cathedral City, purchased for $3.7 million by a Northern California-based private investor. Another property, a 3,600-square-foot site at <a href='https://srsre.com' rel='nofollow' target='_blank'>27425 Ynez Road in Temecula</a>, was sold for $3.6 million to a private investor engaged in a 1031 exchange. The third property, a 2,055-square-foot location at 3045 Shasta View Drive in Redding, was acquired for $2.67 million by another Northern California-based private investor also utilizing a 1031 exchange.</p><p>These transactions are part of SRS Capital Markets' broader achievements this year, having completed over $1.2 billion in deal volume across more than 350 transactions nationwide. With over 845 properties currently on the market valued at more than $3.7 billion, SRS continues to demonstrate its significant influence on the commercial real estate sector.</p>

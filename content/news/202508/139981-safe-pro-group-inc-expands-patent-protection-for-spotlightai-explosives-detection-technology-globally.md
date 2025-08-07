@@ -1,0 +1,15 @@
++++
+title = "Safe Pro Group Inc. Expands Patent Protection for SpotlightAI Explosives Detection Technology Globally"
+date = "2025-08-07T17:00:30Z"
+draft = false
+summary = "Safe Pro Group Inc. secures international patent applications for its SpotlightAI explosives detection technology, enhancing global security measures and offering a safer alternative to traditional detection methods."
+description = "Safe Pro Group's AI explosives detection technology secures international patents, enhancing global security with advanced drone imagery analysis. Learn more about this breakthrough."
+source_link = "https://rss.investorbrandnetwork.com/dwn/defensenewsbreaks-safe-pro-group-inc-nasdaq-spai-expands-global-patent-protection-for-ai-based-explosives-detection/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/7/ca64a809e757037c8c5f02ded6e9e168.png"
+article_id = 139981
+feed_item_id = 18310
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/pearcxJC.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Safe Pro Group Inc. (NASDAQ: SPAI), a pioneer in AI-powered defense solutions, has achieved a significant milestone with the international publication of its patent applications for SpotlightAI(TM) explosives detection technology in Australia, Israel, and Europe. This expansion, under the Patent Cooperation Treaty, extends the technology's protection to 47 jurisdictions, reinforcing its role in advancing global security efforts. The SPOTD system, capable of identifying more than 150 explosive threats in drone imagery, stands at the core of this innovation.</p><p>The U.S. patent, valid until 2043, highlights the proprietary status of Safe Pro's technology, which facilitates real-time and cloud-based detection. The system's efficacy is underscored by its identification of over 31,600 threats across 7,819 hectares in Ukraine, showcasing its practical application in conflict zones. This technology offers a safer and more efficient alternative to conventional human-based analysis, utilizing commercially available drones enhanced with proprietary machine learning and computer vision technology.</p><p>Powered by Amazon Web Services (AWS), Safe Pro Group's scalable platform is designed to serve a wide range of sectors, including commercial, government, law enforcement, and humanitarian fields. The integration of Safe Pro AI software, Safe-Pro USA protective gear, and Airborne Response drone-based services provides a holistic approach to safety and operational efficiency. For further details on Safe Pro Group's groundbreaking innovations, visit <a href='https://ibn.fm/X5unl' rel='nofollow' target='_blank'>https://ibn.fm/X5unl</a>.</p><p>The broadening of patent protection for SpotlightAI technology reflects Safe Pro Group's dedication to enhancing global security frameworks. By securing intellectual property rights in critical jurisdictions, the company not only protects its innovations but also plays a pivotal role in the global effort to combat explosive threats. This advancement is especially pertinent in the current security climate, where the demand for sophisticated detection technologies continues to grow.</p>

@@ -1,0 +1,15 @@
++++
+title = "Greenhouse Software Appoints Sagar Patel as New Chief Technology Officer to Drive Innovation in Hiring Platforms"
+date = "2025-08-07T15:20:37Z"
+draft = false
+summary = "Sagar Patel's appointment as CTO at Greenhouse Software marks a strategic move to enhance the company's technological innovation and global expansion in the competitive hiring platform industry."
+description = "Greenhouse names Sagar Patel as CTO to lead AI-driven hiring innovations, marking a new era in recruitment technology and efficiency."
+source_link = "https://www.citybiz.co/article/728472/greenhouse-software-appoints-sagar-patel-as-chief-technology-officer/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/652d7ca2caf8dc481067f80e2ccdce5e.jpg"
+article_id = 139989
+feed_item_id = 18296
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/7/wait_HP2.webp"
+source = "citybiz"
++++
+
+<p>Greenhouse Software, a prominent name in the hiring platform sector, has announced the appointment of Sagar Patel as its new Chief Technology Officer. Patel's extensive background in engineering leadership, with stints at Ampla, PayPal, and BlackRock, positions him as a pivotal figure in Greenhouse's trajectory towards innovation and growth. His expertise in managing team expansions and launching complex products is expected to significantly contribute to the company's development of cutting-edge solutions like Real Talent, MyGreenhouse, and Dream Jobs.</p><p>Patel's previous roles have seen him at the forefront of technological advancements, from developing high-volume credit and payment products at PayPal to introducing banking services at Ampla. His ability to scale teams and foster innovation has been a consistent theme throughout his career, making him an ideal fit for Greenhouse's ambitious goals. Patel's personal connection to Greenhouse's mission, rooted in his positive experiences as a hiring manager using the platform, adds a unique perspective to his leadership approach.</p><p>With a focus on leveraging agentic AI software to streamline the recruitment process, Patel is set to collaborate with Chief Product Officer Meredith Johnson to refine the product development lifecycle. This initiative aims to address the dynamic needs of hiring teams and the future workforce, ensuring Greenhouse remains at the cutting edge of the industry. Daniel Chait, Co-founder and CEO of Greenhouse, has expressed confidence in Patel's technological acumen to balance AI advancements with human decision-making in recruitment, a critical aspect of the company's strategy.</p><p>Patel's appointment is a testament to Greenhouse's commitment to innovation and its vision for global expansion. Beyond his professional achievements, Patel's passion for technology and his engagement in coding and exploring the latest tech trends underscore his dedication to driving forward the technological frontier. For more details on Greenhouse's leadership and their vision for the future of hiring platforms, visit <a href='https://www.greenhouse.io' rel='nofollow' target='_blank'>https://www.greenhouse.io</a>.</p>
