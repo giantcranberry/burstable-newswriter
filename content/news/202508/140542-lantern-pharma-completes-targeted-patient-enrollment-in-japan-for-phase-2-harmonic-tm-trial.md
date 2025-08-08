@@ -1,0 +1,15 @@
++++
+title = "Lantern Pharma Completes Targeted Patient Enrollment in Japan for Phase 2 HARMONIC(TM) Trial"
+date = "2025-08-07T18:50:33Z"
+draft = false
+summary = "Lantern Pharma Inc. achieves a milestone in its Phase 2 HARMONIC(TM) clinical trial for LP-300, targeting never-smoker NSCLC patients in Japan, highlighting the potential of AI-driven drug development in addressing underserved cancer markets."
+description = "Lantern Pharma completes Japan enrollment for LP-300 Phase 2 trial in never-smoker NSCLC, showcasing AI-driven oncology innovation and strategic focus on high-prevalence regions."
+source_link = "https://rss.investorbrandnetwork.com/bmw/lantern-pharma-inc-nasdaq-ltrn-completes-japanese-enrollment-for-lp-300-phase-2-harmonictm-trial-ahead-of-schedule/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/7/67886a3dd7b5d7cf4b344e94fe0384b3.png"
+article_id = 140542
+feed_item_id = 18328
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/pearIW_9.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lantern Pharma Inc. (NASDAQ: LTRN) has successfully completed targeted patient enrollment in Japan for its ongoing Phase 2 HARMONIC(TM) clinical trial, a significant step forward in evaluating the investigational drug candidate LP-300 for never-smoker non-small cell lung cancer (NSCLC) patients. This milestone, achieved ahead of schedule, is particularly noteworthy in Japan, a region with a high incidence of never-smoker NSCLC cases. The trial enrolled 10 patients across five sites, including the National Cancer Center in Tokyo, showcasing the global reach and potential impact of Lantern Pharma's research.</p><p>The HARMONIC(TM) trial is focused on assessing the efficacy of LP-300 in combination with standard chemotherapy agents for patients who have relapsed after tyrosine kinase inhibitor therapy. This approach is critical for never-smoker NSCLC patients, a group that has historically had limited treatment options. Lantern Pharma's use of artificial intelligence and machine learning in drug development is central to this trial, aiming to fast-track the identification and development of therapies for cancers with unmet needs.</p><p>Japan's role in the trial is of strategic importance due to its high prevalence of never-smoker NSCLC cases. The successful enrollment in Japan not only reflects Lantern Pharma's international strategy but also emphasizes the potential of LP-300 to significantly improve treatment outcomes for patients with few alternatives. Further trial data from Taiwan and the U.S. is expected in Q3 2025, which will provide additional insights into the drug candidate's efficacy and safety profile.</p><p>For those interested in learning more about Lantern Pharma's innovative approach to oncology drug development, additional information can be found <a href='https://ibn.fm/JXFqG' rel='nofollow' target='_blank'>here</a>. The company's dedication to integrating artificial intelligence and machine learning into cancer research represents a promising advancement in biotechnology, offering hope for more effective treatments in the future.</p>

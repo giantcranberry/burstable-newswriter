@@ -1,0 +1,15 @@
++++
+title = "Emvolon and Montauk Renewables Forge Path to Green Methanol Production"
+date = "2025-08-07T00:30:44Z"
+draft = false
+summary = "A joint venture between Emvolon and Montauk Renewables aims to transform biogas into green methanol, targeting significant production by 2030 to meet the growing demand for low-carbon fuels."
+description = "Emvolon and Montauk Renewables partner to transform biogas into green methanol, aiming for 50,000 metric tons annually by 2030, marking a leap in sustainable fuel production."
+source_link = "https://www.citybiz.co/article/728272/emvolon-and-montauk-renewables-announce-launch-of-joint-venture/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/aecf18dc8909b79352bd4da3c6991d65.jpg"
+article_id = 140400
+feed_item_id = 18261
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/7/fondJvjM.webp"
+source = "citybiz"
++++
+
+<p>The collaboration between Emvolon, an MIT spin-off, and Montauk Renewables, Inc., marks a significant step forward in the renewable energy sector, with a focus on converting biogas into green methanol. This joint venture is poised to develop projects capable of producing up to 50,000 metric tons of green methanol annually by 2030, starting with the Atascocita Humble Renewable Energy facility in Texas. This initiative not only expands the applications of biogas beyond traditional uses but also addresses the critical need for decarbonization in industries like shipping, aviation, and chemical manufacturing.</p><p>Emvolon's patented technology plays a central role in this venture, enabling the conversion of flared gas streams into green methanol. The HRE site alone is expected to produce up to 6,000 metric tons per year, showcasing the potential of this technology to monetize methane emissions that would otherwise go to waste. The timing of this initiative aligns with the International Maritime Organization's new net-zero regulations, highlighting the increasing demand for green methanol, with the global market projected to reach 14 million metric tons by 2030.</p><p>Sean McClain, President and CEO of Montauk Renewables, emphasized the partnership's ability to broaden the beneficial uses of biogas, contributing to the evolution of key industries. Dr. Emmanuel Kasseris, CEO of Emvolon, highlighted the innovative aspect of repurposing car engines as modular chemical plants, offering a cost-effective method for transforming biogas into sustainable and profitable resources. This venture not only aims to reduce flare emissions but also presents a scalable and sustainable alternative to conventional fuels and chemicals, requiring no expensive infrastructure or government subsidies.</p><p>For further insights into Emvolon's technology for converting greenhouse gas emissions into carbon-negative fuels and chemicals, visit <a href='https://emvolon.com' rel='nofollow' target='_blank'>https://emvolon.com</a>. To learn more about Montauk Renewables' expertise in biogas recovery and conversion, visit <a href='https://ir.montaukrenewables.com' rel='nofollow' target='_blank'>https://ir.montaukrenewables.com</a>.</p>

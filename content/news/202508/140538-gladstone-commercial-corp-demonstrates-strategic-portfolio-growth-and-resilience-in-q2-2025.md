@@ -1,0 +1,16 @@
++++
+title = "Gladstone Commercial Corp. Demonstrates Strategic Portfolio Growth and Resilience in Q2 2025"
+date = "2025-08-07T20:20:58Z"
+draft = false
+summary = "Gladstone Commercial Corp. (GOOD) showcases strategic portfolio expansion and strong operational fundamentals in Q2 2025, emphasizing industrial assets and maintaining high occupancy rates."
+description = "Gladstone Commercial Corp. reports strong Q2 2025 results, with strategic acquisitions and a focus on industrial assets, maintaining high occupancy and dividend yields."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-2q25-report-on-gladstone-commercial-corp-nasdaqgs-good"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/612f478255087afa86a602b24ffd60d7.jpg"
+featured = true
+article_id = 140538
+feed_item_id = 18332
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/7/xenouVm7.webp"
+source = "Reportable"
++++
+
+<p>Gladstone Commercial Corp. (NasdaqGS: GOOD) has demonstrated a disciplined approach to portfolio management in the second quarter of 2025, as highlighted in a recent report by Stonegate Capital Partners. The company's strategic maneuvers included the sale of two non-core properties for $23.6 million and the acquisition of new properties totaling 519,093 square feet for $79.3 million, expanding its portfolio to 143 properties across 27 states. This expansion underscores GOOD's focus on industrial assets, with the new acquisitions boasting a blended cap rate of 8.88%.</p><p>Despite an 18.3% year-over-year decrease in liquidity, which stood at approximately $38.7 million in 2Q25, GOOD's operational fundamentals remain robust. The company reported a high occupancy rate of 98.7% and achieved 100% cash rent collection during the quarter. Additionally, GOOD leased or renewed 55,308 square feet at a single property, with an average remaining lease term of 0.8 years, contributing to a portfolio weighted average lease term of 7.1 years.</p><p>Financial performance for the quarter included revenue, FFO per share, and AFFO per share of $39.5 million, $0.33, and $0.24, respectively. GOOD's strategic pivot towards industrial properties is increasingly evident, with industrial assets now constituting 67% of its portfolio, up from 63% at the end of FY24. The company offers a 9.2% dividend yield, with payout ratios based on FFO, Core FFO, and AFFO per share values at 90%, 86%, and 123%, respectively.</p><p>Stonegate Capital Partners' valuation of GOOD, utilizing a combination of comparative analysis, Revalued NAV per share analysis, and a Perpetual Growth Model, suggests a valuation range of $14.84 to $16.86, with a mid-point of $15.84. This valuation reflects GOOD's resilience and strategic emphasis on long-duration, single-tenant net lease industrial properties. For further insights into Gladstone Commercial Corp.'s performance and strategic direction, visit <a href='https://www.gladstonecommercial.com' rel='nofollow' target='_blank'>https://www.gladstonecommercial.com</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "LaFleur Minerals Inc. Launches Major Drilling Campaign at Swanson Gold Project"
+date = "2025-08-07T18:50:33Z"
+draft = false
+summary = "LaFleur Minerals Inc. begins a significant 5,000-metre diamond drilling campaign at its Swanson Gold Project in Quebec, aiming to explore new gold mineralization areas and enhance the project's economic viability."
+description = "LaFleur Minerals initiates a 5,000-metre diamond drilling campaign at Swanson Gold Project, Quebec, with permits secured and Beacon Gold Mill's low-cost rehabilitation underway."
+source_link = "https://rss.investorbrandnetwork.com/mnw/lafleur-minerals-inc-cse-lflr-otcqb-lflrf-fse-3wk0-launches-diamond-drilling-at-swanson-project-beacon-gold-mill-valuation-is-finalized/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/7/33683248108027d7251262c11a736cbc.png"
+article_id = 140540
+feed_item_id = 18326
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/bendtTYR.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>LaFleur Minerals Inc. (CSE: LFLR) (OTCQB: LFLRF) (FSE: 3WK0) has initiated a fully funded, 5,000-metre diamond drilling campaign at its Swanson Gold Project in Quebec, a move that marks a critical phase in the company's exploration strategy. This drilling effort, now underway after obtaining all required permits, including Forestry Intervention and Authorization to Intervene, is designed to comply with environmental and regulatory standards, showcasing the company's dedication to responsible mining practices.</p><p>The campaign focuses on high-priority areas within the Swanson Gold Deposit and other prospective zones such as Bartec, Jolin, and Marimac. These targets were selected based on detailed geological and geophysical studies, including magnetic surveys, induced polarization (IP), and soil geochemistry analysis. By concentrating on these areas, LaFleur Minerals aims to uncover additional gold mineralization potential in the Abitibi region, known for its rich mining history.</p><p>In a related development, an independent valuation has estimated the replacement cost of the Beacon Gold Mill at over C$71.5 million, with rehabilitation and commissioning costs projected at C$4.1 million. This valuation offers LaFleur Minerals a cost-efficient route to near-term production, significantly improving the project's economic outlook. Furthermore, the company has expanded its land holdings to more than 18,300 hectares, reinforcing its presence in the region and underscoring the district-scale potential of its assets.</p><p>The commencement of the diamond drilling program at the Swanson Project, along with the finalized valuation of the Beacon Gold Mill, represents a key achievement for LaFleur Minerals. These advancements not only propel the company's exploration and production goals forward but also contribute to the growth of Quebec's mining sector. For further information on the drilling campaign and LaFleur Minerals' progress, visit <a href='https://ibn.fm/KGilj' rel='nofollow' target='_blank'>https://ibn.fm/KGilj</a>.</p>

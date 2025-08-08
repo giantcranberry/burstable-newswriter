@@ -6,7 +6,6 @@ summary = "Researchers in Ireland are exploring the use of giant kites to genera
 description = "Ireland pioneers airborne wind energy with giant kites, aiming to revolutionize green electricity generation. Explore how this innovation could shape the future of renewable energy."
 source_link = "https://rss.investorbrandnetwork.com/ges/researchers-in-ireland-test-kites-designed-to-generate-wind-energy/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/7/1d20c68c3ab3f116248dbf8821295da7.png"
-featured = true
 article_id = 139978
 feed_item_id = 18315
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/mielrpCX.webp"
