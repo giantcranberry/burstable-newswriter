@@ -1,0 +1,15 @@
++++
+title = "CITY Furniture Expands in Tampa Region with Sarasota Showroom Opening"
+date = "2025-08-08T16:35:34Z"
+draft = false
+summary = "CITY Furniture's new Sarasota showroom marks a strategic expansion in the Tampa region, emphasizing community, innovation, and sustainability in the home furnishings retail sector."
+description = "CITY Furniture celebrates the grand opening of its Sarasota showroom, marking a key milestone in its Tampa Region expansion. Explore innovative home furnishings and more."
+source_link = "https://www.citybiz.co/article/729116/city-furniture-marks-sarasota-grand-opening-as-catalyst-for-tampa-region-growth/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d743b5d0be06e9eab232b259d15e5ee6.jpg"
+article_id = 144453
+feed_item_id = 18390
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/8/gluemQWI.webp"
+source = "citybiz"
++++
+
+<p>CITY Furniture, recognized as Florida's premier home furnishings retailer, has recently inaugurated its expansive 120,000-square-foot showroom in Sarasota, signaling a significant step in its strategy to lead the home furnishings market in the Tampa region. The grand opening was celebrated with a series of events, including $70,000 in giveaways and live entertainment, drawing thousands of visitors to experience the store's unique features such as a Custom Design Gallery and an in-store Café & Wine Bar.</p><p>Andrew Koenig, CEO of CITY Furniture, highlighted the Sarasota location's strategic role in the company's broader ambition to dominate the Tampa region's home furnishings market. The showroom is designed to serve not only as a retail space but also as a community hub, embodying the company's dedication to innovation, customer satisfaction, and environmental responsibility. This commitment has already resulted in record-breaking customer satisfaction scores, according to Koenig.</p><p>The Sarasota showroom is the first of CITY Furniture's planned expansions in the Tampa region, with a Wesley Chapel showroom scheduled to open soon. This expansion is bolstered by the company's 1.3 million square foot Plant City Distribution Center, ensuring that the new locations are well-equipped to meet customer needs. The Wesley Chapel showroom aims to mirror the success of the Sarasota location, further establishing CITY Furniture's reputation for convenience, innovation, and a strong community focus.</p><p>This expansion underscores CITY Furniture's strategy to be present where its customers are, offering not just products but inspiring experiences. By creating spaces that encourage community and connection, alongside a commitment to sustainability and customer satisfaction, CITY Furniture is setting a new benchmark in the home furnishings retail sector. With the Sarasota showroom already surpassing expectations, the upcoming Wesley Chapel location is expected to continue this positive trajectory, reinforcing CITY Furniture's position as a leading name in the Tampa region's home furnishings market.</p>

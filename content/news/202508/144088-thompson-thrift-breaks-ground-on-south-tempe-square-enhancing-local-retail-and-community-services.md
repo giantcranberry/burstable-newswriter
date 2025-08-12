@@ -1,0 +1,15 @@
++++
+title = "Thompson Thrift Breaks Ground on South Tempe Square, Enhancing Local Retail and Community Services"
+date = "2025-08-11T15:10:55Z"
+draft = false
+summary = "Thompson Thrift's development of South Tempe Square introduces a 27,000-square-foot shopping center, promising to enrich the Tempe community with diverse retail and dining options."
+description = "Thompson Thrift starts construction on South Tempe Square, a 27,000-square-foot shopping center in Tempe, enhancing local retail and services."
+source_link = "https://www.citybiz.co/article/729514/thompson-thrift-breaks-ground-on-south-tempe-square-outside-phoenix/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/481335cad60d2781bf5c0cb77e6fe419.jpg"
+article_id = 144088
+feed_item_id = 18467
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/11/eachFISt.webp"
+source = "citybiz"
++++
+
+<p>Thompson Thrift has initiated the construction of South Tempe Square, a 27,000-square-foot neighborhood shopping center strategically located at the intersection of Rural Road and Warner Road in Tempe. This development is set to significantly enhance the local retail environment by offering a wide range of retailers, restaurants, and service providers designed to meet the community's diverse needs.</p><p>Dan Sink, president and chief financial officer of Thompson Thrift Development, highlighted the company's dedication to projects that benefit the community. With leasing activity robust and approximately 75% of the retail space either committed or in negotiation, South Tempe Square is on track to become a central gathering place for local residents. Notable tenants including BURN Total Body Conditioning, Pacific Dental, and Luna Grill Restaurant have already secured leases, demonstrating the center's broad appeal to various business sectors.</p><p>The location of South Tempe Square, situated between Loop 101 and I-10, offers exceptional visibility and accessibility, further bolstered by its closeness to national retailers such as CVS and Sprouts. The area's status as the location of one of Arizona's leading school districts enhances its attractiveness to families and businesses alike.</p><p>Tempe's lively community, celebrated for its cultural diversity and recreational offerings, provides the perfect setting for South Tempe Square. The vicinity of Arizona State University, home to 55,000 students, and landmarks like the Desert Financial Arena, highlights the region's vibrant atmosphere and potential for retail prosperity.</p><p>Thompson Thrift's venture into South Tempe Square is part of its wider strategy to invest in Arizona's rapidly growing markets, with multiple projects currently in progress throughout the state. For additional details on Thompson Thrift's developments, visit <a href='https://www.thompsonthrift.com' rel='nofollow' target='_blank'>https://www.thompsonthrift.com</a>.</p>
