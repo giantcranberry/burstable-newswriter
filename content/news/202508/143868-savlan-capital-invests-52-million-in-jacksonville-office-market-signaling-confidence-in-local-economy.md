@@ -1,0 +1,15 @@
++++
+title = "Savlan Capital Invests $52 Million in Jacksonville Office Market, Signaling Confidence in Local Economy"
+date = "2025-08-08T23:40:53Z"
+draft = false
+summary = "Savlan Capital's acquisition of a seven-building commercial portfolio in Jacksonville highlights a strong belief in the local office market's potential, with plans to convert parts into medical offices to meet healthcare demand."
+description = "Savlan Capital acquires a $52M, 765,190 sq ft commercial portfolio in Jacksonville, signaling strong confidence in the local office market's recovery and growth potential."
+source_link = "https://www.citybiz.co/article/729272/savlan-capital-acquires-765000-sf-office-and-flex-portfolio-in-jacksonville-for-52m/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/16036dcfba28603381ebffa5576653b7.jpg"
+article_id = 143868
+feed_item_id = 18417
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/8/roam0rsc.webp"
+source = "citybiz"
++++
+
+<p>Savlan Capital has made a notable entry into the Northeast Florida office market with a $52 million investment in a seven-building commercial portfolio in Jacksonville. Spanning approximately 765,190 square feet across the Lakeside and Flagler Center business parks, this acquisition stands out as one of the few significant office transactions in Jacksonville over the past year. The portfolio, currently 57.2 percent occupied, includes Class A office and flex buildings, underscoring Savlan Capital's confidence in the local market's growth potential.</p><p>The properties, located on 71.5 acres, offer strategic advantages, including access to Jacksonville's dynamic market and St. Johns County's skilled workforce. Their proximity to key amenities like the Nocatee community, Baptist Medical Center South, and Brooks Rehabilitation Hospital enhances their appeal. Savlan Capital plans to leverage its expertise in managing 22 medical centers nationwide by converting portions of these buildings into medical offices, catering to the growing demand from healthcare providers seeking locations near major hospitals.</p><p>Zusha Tenenbaum, founder and CEO of Savlan Capital, emphasized the company's readiness to address current vacancies and pursue tenant-driven leases, stating, <a href='https://www.savlancapital.com' rel='nofollow' target='_blank'>"We are fully capitalized and ready to do deals."</a> The CBRE team, tasked with marketing the portfolio, brings deep local market knowledge to the table. Oliver Barakat, Senior Vice President at CBRE, noted the unique opportunity this portfolio presents for businesses looking for well-connected office solutions in a rapidly developing area.</p><p>This strategic acquisition and the planned enhancements reflect Savlan Capital's commitment to elevating the quality of office spaces in Jacksonville, potentially setting a new standard for the local office market and contributing to the area's economic revitalization.</p>

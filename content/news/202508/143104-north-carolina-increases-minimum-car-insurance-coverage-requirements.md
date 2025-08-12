@@ -1,0 +1,15 @@
++++
+title = "North Carolina Increases Minimum Car Insurance Coverage Requirements"
+date = "2025-08-11T07:00:28Z"
+draft = false
+summary = "North Carolina has raised its minimum car insurance coverage limits to provide greater financial security for drivers, reflecting the rising costs of medical care and vehicle repairs."
+description = "North Carolina increases minimum car insurance coverage requirements, including mandatory uninsured motorist coverage, effective July 2025. Learn more."
+source_link = "https://www.24-7pressrelease.com/press-release/525718/north-carolina-increases-minimum-car-insurance"
+enclosure = "https://cdn.newsramp.app/genai/images/258/11/6434b94f0e62cb70331778f341ccd080.png"
+article_id = 143104
+feed_item_id = 18446
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/11/hikecgHH.webp"
+source = "24-7 Press Release"
++++
+
+<p>North Carolina drivers are now facing higher minimum car insurance coverage requirements as of July 1, 2025. The state has increased the minimum amounts to $50,000 per person for bodily injury, $100,000 per accident for bodily injury, and $50,000 for property damage. These figures represent a significant rise from the previous requirements of $30,000, $60,000, and $25,000, respectively. The adjustment is designed to offer enhanced financial security to individuals involved in vehicular accidents, acknowledging the escalating costs associated with medical care and vehicle repairs.</p><p>Alongside the increased coverage limits, North Carolina has also mandated uninsured and underinsured motorist coverage for all liability policies. This change ensures that policyholders are protected up to their policy's limits in the event of an accident with a driver who lacks adequate insurance. The North Carolina Department of Insurance has cited these updates as necessary to accommodate a 22.06% increase in insurance rates, aimed at covering the growing expenses related to auto accidents.</p><p>The Layton Law Firm, based in Charlotte, has emphasized the significance of these updates for drivers throughout the state. The firm points out that the higher coverage limits are especially advantageous for victims of serious accidents, particularly those involving uninsured or underinsured drivers. Although some policyholders may experience higher premiums, the enhanced protection could be crucial in the aftermath of a severe collision.</p><p>For further details on how these changes might impact individual car insurance policies, consulting with an insurance provider is advised. These adjustments to North Carolina's car insurance requirements highlight the state's dedication to protecting its drivers and ensuring that those affected by auto accidents have sufficient financial resources for recovery. More information can be found at <a href='https://www.ncdoi.gov' rel='nofollow' target='_blank'>https://www.ncdoi.gov</a>.</p>

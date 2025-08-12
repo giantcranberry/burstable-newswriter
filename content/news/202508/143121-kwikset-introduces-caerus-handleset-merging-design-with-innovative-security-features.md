@@ -1,0 +1,15 @@
++++
+title = "Kwikset Introduces Caerus Handleset: Merging Design with Innovative Security Features"
+date = "2025-08-08T17:15:42Z"
+draft = false
+summary = "Kwikset's new Caerus handleset combines modern design with innovative KwikSlide technology, offering enhanced security and ease of use for residential entryways."
+description = "Kwikset introduces Caerus, a front door handleset with innovative KwikSlide technology, blending modern design with enhanced security and functionality for homes."
+source_link = "https://www.citybiz.co/article/729173/kwikset-unveils-caerus-handleset-merging-modern-design-with-innovative-functionality/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d89e517d8de89d971df44731a7e98f04.jpg"
+article_id = 143121
+feed_item_id = 18396
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/8/mild_AYT.webp"
+source = "citybiz"
++++
+
+<p>Kwikset, a prominent name in residential security, has unveiled the Caerus handleset, a product that seamlessly blends contemporary design with cutting-edge functionality. This innovative front door handleset is designed to redefine entryways with its striking aesthetics and features tailored for convenience. The Caerus stands out with its oversized backplate, tapered grip, and a minimalist design that foregoes the traditional thumbpiece, utilizing Kwikset's patented KwikSlide technology instead.</p><p>The KwikSlide technology, recognized by winning the ASSA ABLOY's 2024 Innovation Challenge across the Americas, introduces a novel way to operate door handles. Users can effortlessly slide the grip down using an elbow, wrist, or any handy object once the deadbolt is unlocked. This feature is especially advantageous for bustling households, children, and the elderly, simplifying entry. The handleset is offered in both keyed and dummy versions to accommodate single and double front doors, with finishes including Satin Nickel, Matte Black, and Polished Chrome. Notably, the Satin Nickel and Matte Black options come with Microban® antimicrobial protection, adding an extra layer of hygiene.</p><p>Security is at the forefront of the Caerus handleset's design. The keyed variant is equipped with SmartKey Security®, providing defense against sophisticated break-in methods and enabling homeowners to re-key the lock themselves. The Builders Hardware Manufacturers Association has awarded the handleset a Grade AAA certification for its superior security, durability, and finish, marking it as a top-tier choice in residential hardware. Installation is user-friendly, requiring minimal tools, and the adjustable throughbolt ensures compatibility with most existing door setups.</p><p>Amanda Archer, Kwikset's group manager of product marketing, emphasized the handleset's dual appeal of style and practicality, remarking, 'With KwikSlide technology, we've reimagined the entry experience for today's modern homes.' The Caerus handleset is a part of the Kwikset Signature Series, with prices starting at $235, and is currently available for purchase. For further information, visit <a href='https://www.kwikset.com' rel='nofollow' target='_blank'>https://www.kwikset.com</a>.</p>

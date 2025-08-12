@@ -1,0 +1,15 @@
++++
+title = "Safe Pro Group Inc. Expands Global Patent Protection for SpotlightAI(TM) Technology"
+date = "2025-08-07T20:30:30Z"
+draft = false
+summary = "Safe Pro Group Inc. secures international patent applications for its SpotlightAI(TM) explosives detection technology, enhancing global security efforts and setting new standards in defense technology."
+description = "Safe Pro Group secures international patents for AI-driven explosives detection tech, enhancing global security with advanced drone imagery analysis."
+source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-safe-pro-group-inc-nasdaq-spai-expands-global-patent-protection-for-ai-based-explosives-detection/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/7/348d77833b89d3adbe035d4aa106cf18.png"
+article_id = 143141
+feed_item_id = 18334
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/7/frogR1gG.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Safe Pro Group Inc. (NASDAQ: SPAI), a leader in AI-powered defense solutions, has achieved a significant milestone by securing international patent applications for its SpotlightAI(TM) technology in Australia, Israel, and Europe. This expansion under the Patent Cooperation Treaty extends the protection of the company's SPOTD system to 47 jurisdictions, reinforcing its commitment to global security. The SPOTD system, capable of identifying over 150 explosive threats in drone imagery, has already demonstrated its effectiveness by detecting more than 31,600 threats across 7,819 hectares in Ukraine.</p><p>The technology, supported by a U.S. patent valid through 2043, features both real-time and cloud-based detection capabilities. This versatility allows Safe Pro's proprietary technology to be utilized in diverse environments, offering a safer and more efficient solution compared to traditional human-based analysis methods. The platform, which operates on a cloud-based ecosystem powered by Amazon Web Services (AWS), is designed for scalability across various sectors including commercial, government, law enforcement, and humanitarian.</p><p>Safe Pro Group's dedication to advancing global security is evident in its mission-driven approach to technology development. By utilizing commercially available drones enhanced with proprietary machine learning and computer vision technology, the company is pioneering rapid explosives threat identification. This innovation not only marks a significant advancement in defense technology but also highlights the critical role of international patent collaboration in addressing global security challenges. For further details on Safe Pro Group Inc. and its groundbreaking solutions, visit <a href='https://ibn.fm/Qhuc0' rel='nofollow' target='_blank'>https://ibn.fm/Qhuc0</a>. Investors looking for the latest updates on SPAI can access comprehensive coverage in the company's newsroom at <a href='http://ibn.fm/SPAI' rel='nofollow' target='_blank'>http://ibn.fm/SPAI</a>.</p>

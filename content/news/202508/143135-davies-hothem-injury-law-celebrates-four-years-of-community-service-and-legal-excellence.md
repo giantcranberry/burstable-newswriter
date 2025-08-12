@@ -1,0 +1,15 @@
++++
+title = "Davies Hothem Injury Law Celebrates Four Years of Community Service and Legal Excellence"
+date = "2025-08-08T11:05:30Z"
+draft = false
+summary = "Davies Hothem Injury Law marks four years of impactful legal service in Gainesville, Georgia, securing over $150 million in verdicts and settlements while deeply engaging in community support initiatives."
+description = "Davies Hothem Injury Law celebrates 4 years, securing $150M for clients and supporting the community through legal advocacy and domestic violence initiatives."
+source_link = "https://newsworthy.ai/news/202508081633/davies-hothem-injury-law-celebrates-4-years-of-justice-and-community-healing-in-gainesville-ga"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/716ff8c21ab5546fd0e009ae35b391a6.png"
+article_id = 143135
+feed_item_id = 18352
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/8/chipsfqK.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Davies Hothem Injury Law has reached a significant milestone, celebrating four years of dedicated service to the Gainesville, Georgia community. Founded in 2021 by Kristy Davies and Jennifer Hothem, with Dustin Davies joining as a partner in 2023, the firm has established itself as a pillar of legal excellence and community support. Specializing in personal injury and wrongful death cases, the firm has secured over $150 million in verdicts and settlements, including a landmark $10 million settlement for a client with permanent injuries from a motorcycle accident.</p><p>The firm's track record includes over 100 trials, with notable achievements such as a $2 million settlement for a traumatic brain injury from a head-on collision and a $1.25 million policy limit settlement for a hand injury, nearly nine times the medical expenses. These successes underscore the firm's dedication to justice and maximizing recoveries for clients, often in the face of frivolous defenses.</p><p>Beyond their legal victories, Davies Hothem Injury Law has made a profound impact through community initiatives like the Davies Hothem Domestic Violence Legal Fund. This fund supports victims of intimate partner violence by covering legal expenses for divorce and custody battles. The founders' involvement with organizations such as the <a href='https://www.gatewaydvcenter.org' rel='nofollow' target='_blank'>Gateway Domestic Violence Center</a> and We Care Hall County highlights their commitment to empowering the vulnerable and fostering community healing.</p><p>Rooted in faith and service, the firm actively participates in local organizations including Gainesville First United Methodist Church and the Path Project. Their mission extends beyond the courtroom, aiming to transform suffering into hope and recovery for the wider community. For more information on their efforts, visit <a href='https://www.dhgainjurylaw.com' rel='nofollow' target='_blank'>www.dhgainjurylaw.com</a>.</p>

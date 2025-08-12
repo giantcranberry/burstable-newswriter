@@ -6,7 +6,6 @@ summary = "Gladstone Commercial Corp. (GOOD) showcases strategic portfolio expan
 description = "Gladstone Commercial Corp. reports strong Q2 2025 results, with strategic acquisitions and a focus on industrial assets, maintaining high occupancy and dividend yields."
 source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-2q25-report-on-gladstone-commercial-corp-nasdaqgs-good"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/612f478255087afa86a602b24ffd60d7.jpg"
-featured = true
 article_id = 140538
 feed_item_id = 18332
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/7/xenouVm7.webp"

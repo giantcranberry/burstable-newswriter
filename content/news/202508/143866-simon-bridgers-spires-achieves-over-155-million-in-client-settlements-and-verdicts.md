@@ -1,0 +1,15 @@
++++
+title = "Simon Bridgers Spires Achieves Over $155 Million in Client Settlements and Verdicts"
+date = "2025-08-09T07:00:25Z"
+draft = false
+summary = "Simon Bridgers Spires, a prominent Atlanta-based personal injury law firm, has secured over $155 million in settlements and verdicts, underscoring its commitment to justice for negligence victims."
+description = "Simon Bridgers Spires achieves over $150M in settlements for personal injury victims, showcasing their commitment to justice and client success in Atlanta."
+source_link = "https://www.24-7pressrelease.com/press-release/525723/delivering-justice-simon-bridgers-spires-achieves-milestone-in-securing-over-155-million-for-atlantas-personal-injury-victims"
+enclosure = "https://cdn.newsramp.app/genai/images/258/9/23193f3b055e187d387a016d8ce3199b.png"
+article_id = 143866
+feed_item_id = 18420
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/9/rush_6CL.webp"
+source = "24-7 Press Release"
++++
+
+<p>Simon Bridgers Spires, a leading personal injury law firm in Atlanta, Georgia, has reached a significant milestone by securing over $155 million in settlements and verdicts for its clients. This achievement not only highlights the firm's dedication to advocating for victims of negligence but also its ability to deliver justice across a wide range of personal injury claims.</p><p>The firm, known for its client-first approach, combines decades of legal expertise with compassionate support to achieve exceptional outcomes. Attorneys Christopher M. Simon, Harrison Wade Spires, and Tyler H. Bridgers lead the firm, which has successfully represented thousands of clients. Their efforts have resulted in substantial compensation for injuries from car accidents, truck collisions, construction accidents, wrongful death cases, and more.</p><p>With over 60 years of combined legal experience, the attorneys at Simon Bridgers Spires utilize their deep understanding of Georgia's tort liability system and insider knowledge of insurance company tactics to secure favorable results. Among their notable settlements are a $9 million recovery for two clients severely injured in a tractor-trailer accident and a $5.3 million settlement for the tragic death of a mother of two in a car collision in Cobb County involving State Farm.</p><p>The firm distinguishes itself through transparency, direct communication, and a contingency-based fee structure, ensuring clients face no financial risk. Its commitment to excellence is reflected in over 150 five-star Google reviews and prestigious recognitions, including Christopher Simon's selection as one of the Top 100 Trial Lawyers Nationally by the National Trial Lawyers and inclusion in Georgia Trend Magazine's "Legal Elite" list.</p><p>For individuals seeking justice for personal injuries, Simon Bridgers Spires continues to offer free consultations, providing expert guidance and a clear path forward. More information about their services can be found at <a href="https://www.simoninjurylawyers.com" rel="nofollow" target="_blank">https://www.simoninjurylawyers.com</a>.</p>

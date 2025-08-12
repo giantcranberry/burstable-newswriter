@@ -1,0 +1,15 @@
++++
+title = "Celebree School Expands to Plano, Texas with a Focus on Community and Early Childhood Education"
+date = "2025-08-08T21:30:46Z"
+draft = false
+summary = "Celebree School's new Plano location emphasizes a community-focused approach to early childhood education, offering a tailored curriculum and state-of-the-art facilities."
+description = "Celebree School opens new Plano location, offering state-of-the-art early childhood education programs. Join the Labor Day Bash to celebrate!"
+source_link = "https://www.citybiz.co/article/729268/growing-people-big-and-small-celebree-school-debuts-in-plano/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/048b75ac78d0171b07a6d17e68b35631.jpg"
+article_id = 143870
+feed_item_id = 18415
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/8/iconEJcq.webp"
+source = "citybiz"
++++
+
+<p>Celebree School, a leader in early childhood education, is expanding its footprint with a new location in Plano, Texas, set to open in early September. Located at 4033 East Plano Pkwy., the facility boasts a customized playground and a curriculum designed to meet the physical, social, emotional, and academic needs of children, adhering to Texas's early education standards. This expansion is a testament to the school's commitment to fostering high-quality learning environments.</p><p>Deepti Biyani and Prajakta Desai, the local entrepreneurs and educators behind the Plano location, bring a unique blend of corporate leadership and personal passion for early childhood education to the project. Their vision for a nurturing, community-focused learning environment aligns perfectly with Celebree School's franchising model, which has been instrumental in bringing their educational philosophy to life.</p><p>To mark the occasion, Celebree School of Plano at Los Rios will host a Labor Day Bash on August 29, 2025. The event, featuring music, local vendors, and children's activities, is designed to bring families together before the school year begins. More information about the event can be found on the school's <a href='https://www.cebreeschool.com' rel='nofollow' target='_blank'>official webpage</a>.</p><p>At the heart of Celebree School's philosophy is the belief that early childhood development benefits from a holistic approach that combines curriculum with connection, supporting not just the child but the entire family. With programs catering to children from six weeks to 12 years old, the school emphasizes learning through play, projects, and activities, all within an open-door policy that encourages parental involvement.</p><p>Richard Huffman, Founder and CEO of Celebree School, praised Biyani and Desai for their dedication to the school's mission. The expansion into Plano highlights the growing importance of community-focused early childhood education initiatives and Celebree School's role in shaping the future of learning for young children.</p>

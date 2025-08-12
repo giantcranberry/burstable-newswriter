@@ -1,0 +1,15 @@
++++
+title = "Menlo Security Introduces Groundbreaking Solutions for Secure Remote Work"
+date = "2025-08-07T21:16:05Z"
+draft = false
+summary = "Menlo Security's new cloud-based solutions, Menlo Secure Storage and Menlo Adaptive Web, address critical security challenges in remote and hybrid work environments by ensuring sensitive data remains secure without local downloads."
+description = "Menlo Security introduces Menlo Secure Storage and Menlo Adaptive Web, revolutionizing browser security for remote work. Learn how these solutions protect sensitive data."
+source_link = "https://www.citybiz.co/article/728812/menlo-security-introduces-secure-file-access-for-managed-and-unmanaged-remote-users/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/7967930d8f8bf5ebdc6ac97db163d668.jpg"
+article_id = 143138
+feed_item_id = 18339
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/7/blurgVE1.webp"
+source = "citybiz"
++++
+
+<p>Menlo Security has launched two pioneering solutions, Menlo Secure Storage and Menlo Adaptive Web, aimed at resolving the security dilemmas posed by remote and hybrid work settings. These cloud-based innovations guarantee the safety of sensitive files and data interactions by preventing their download to local devices, thus reducing the threat of data breaches on unsecured or compromised endpoints.</p><p>The Menlo Secure Storage solution stands out for organizations facing the security hurdles of remote work. It enables employees, contractors, and partners to access and work on sensitive documents without the data ever being stored locally. This method not only boosts security but also facilitates smoother collaboration among distributed teams, removing the reliance on traditional, often inefficient endpoint security measures.</p><p>Conversely, Menlo Adaptive Web offers organizations unmatched oversight over web browsing activities. This cloud-based browser control suite allows IT and security teams to tailor the web experience for users, maintaining compliance and security while preserving user satisfaction. Capabilities such as data redaction and safe search enforcement highlight the potential for secure web browsing in the future.</p><p>Devin Ertel, Chief Information Security Officer at Menlo Security, highlighted the significance of these solutions in a zero-trust environment. By preventing sensitive files from residing in local environments, organizations can accommodate hybrid work and third-party access without increasing their vulnerability. This represents a significant advancement for enterprises aiming to safeguard their operations in a world that increasingly prioritizes cloud solutions.</p><p>These innovations from Menlo Security are being presented at Black Hat in Las Vegas, offering attendees insights into how these solutions are redefining browser security standards. For more information, visit <a href='https://www.menlosecurity.com' rel='nofollow' target='_blank'>https://www.menlosecurity.com</a>.</p>

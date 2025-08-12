@@ -1,0 +1,15 @@
++++
+title = "Ace Pickleball Club Expands to Omaha, Pioneering Inclusive and Accessible Pickleball Play"
+date = "2025-08-11T21:21:05Z"
+draft = false
+summary = "Ace Pickleball Club's Omaha opening marks a significant step in national expansion, offering innovative, inclusive access to the rapidly growing sport of pickleball."
+description = "Ace Pickleball Club opens in Omaha, offering inclusive pickleball play for all skill levels with state-of-the-art facilities and a simple Membership model."
+source_link = "https://www.citybiz.co/article/729848/ace-pickleball-club-steps-onto-the-court-with-first-nebraska-location-in-omaha/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/da0a61794a2420314a16d52d843905ad.png"
+article_id = 143857
+feed_item_id = 18501
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/11/bendC0m5.webp"
+source = "citybiz"
++++
+
+<p>Ace Pickleball Club has launched its Omaha location at 13423 F St, signaling a major milestone in the franchise's ambitious national expansion strategy. This move introduces a fresh, inclusive approach to pickleball, a sport experiencing unprecedented growth across the U.S. The Omaha club, spearheaded by Liz and Michael Tanji, addresses the local demand for pickleball by providing members with unlimited play opportunities, eliminating the need for reservations or extra charges.</p><p>The Tanjis, both U.S. Army veterans, were drawn to Ace Pickleball Club's mission of fostering an inclusive atmosphere for players at all levels. The club's Pickleball 101 classes are tailored to introduce beginners to the sport in a welcoming environment. With professional-grade cushioned courts and a diverse range of programs, including clinics, tournaments, and social gatherings, Ace Pickleball Club is redefining community and accessibility in recreational sports.</p><p>Membership at Ace Pickleball Club is designed for simplicity and value, featuring a single monthly fee that grants unlimited play, access to paddle demos, and full use of club facilities. This model is especially relevant in Omaha, where public court availability is often limited. The club's dedication to a seamless experience for members of every age and skill level underscores its commitment to nurturing a passion for pickleball. With an eye on opening 25-30 additional locations by 2025, Ace Pickleball Club is on track to become a dominant force in the sport.</p><p>The arrival of Ace Pickleball Club in Omaha not only enriches the local sports scene but also bolsters community ties by offering a shared space for pickleball enthusiasts. The club's forward-thinking approach, prioritizing inclusivity and member satisfaction, establishes a new benchmark for recreational sports venues. As pickleball's popularity surges, Ace Pickleball Club's expansion into Omaha plays a pivotal role in broadening the sport's appeal and accessibility. For more information on Ace Pickleball Club, visit <a href='https://www.acepickleballclub.com' rel='nofollow' target='_blank'>https://www.acepickleballclub.com</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "CMUV Bancorp Secures Regulatory Approval for Asset Sale and Dissolution"
+date = "2025-08-08T13:05:07Z"
+draft = false
+summary = "CMUV Bancorp's regulatory approval for the sale of Community Valley Bank's assets to Frontwave Credit Union marks a significant transition, with shareholders set to receive approximately $25.00 per share, highlighting the evolving landscape of the banking and credit union sectors."
+description = "CMUV Bancorp secures approvals for Community Valley Bank asset sale to Frontwave Credit Union, with shareholders set to receive $25 per share. Details on www.newmediawire.com."
+source_link = "https://www.newmediawire.com/news/cmuv-bancorp-announces-regulatory-approvals-received-for-sale-of-assets-to-frontwave-credit-union-7081792"
+enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/ae339b68a5cf22da873c85eaf7fec109None"
+article_id = 143134
+feed_item_id = 18353
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/8/gulfp62n.webp"
+source = "NewMediaWire"
++++
+
+<p>CMUV Bancorp has achieved a significant milestone with the regulatory approval for the sale of Community Valley Bank's assets to Frontwave Credit Union, setting the stage for the dissolution of both entities. This strategic move, approved by corporate stakeholders, will see CMUV Bancorp shareholders receiving an estimated $25.00 per share, subject to adjustments related to dissolution costs. The phased distribution to shareholders is expected to begin following the completion of the asset sale, projected around September 30, 2025, contingent upon meeting standard closing conditions.</p><p>The transaction heralds a major transition for CMUV Bancorp, which plans to halt the trading and quoting of its common stock on the OTCQB by approximately September 23, 2025, and close its stock records. After this date, the company's common stock will solely represent the right to receive distributions, marking the culmination of CMUV Bancorp's operational activities and its shift towards settling shareholder obligations.</p><p>Forward-looking statements in the announcement caution about the uncertainties regarding the transaction's completion timeline and the precise distribution amounts to shareholders. These statements, based on current management expectations and available data, recognize the potential for variations in the projected outcomes. Additional information on this development can be found on <a href='https://www.newmediawire.com' rel='nofollow' target='_blank'>www.newmediawire.com</a>.</p><p>This approval and the forthcoming execution of the asset sale and dissolutions represent a pivotal moment for CMUV Bancorp, its shareholders, and the financial industry at large. It not only facilitates a strategic reallocation of assets but also emphasizes the critical role of regulatory adherence and transparent shareholder communication in major corporate transitions. The deal underscores the dynamic and evolving nature of the banking and credit union sectors, reflecting broader trends in financial services consolidation and strategic realignment.</p>

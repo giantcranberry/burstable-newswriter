@@ -1,0 +1,15 @@
++++
+title = "Coral Gables Trust Strengthens Professional Ties at Annual ATO Dinner"
+date = "2025-08-08T16:05:54Z"
+draft = false
+summary = "The Annual ATO Dinner hosted by Coral Gables Trust highlights the importance of collaboration between legal and financial professionals, benefiting clients and the community."
+description = "Coral Gables Trust's Annual ATO Dinner at The Breakers Palm Beach highlights networking and collaboration in wealth management. Learn more about this prestigious event."
+source_link = "https://www.citybiz.co/article/729090/coral-gables-trust-hosts-annual-ato-dinner-at-the-breakers-palm-beach/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f50710f2b2eb91ac542b6a7f8a2bdd4c.jpg"
+article_id = 143125
+feed_item_id = 18382
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/8/froggjz0.webp"
+source = "citybiz"
++++
+
+<p>Coral Gables Trust, a leading independent trust and wealth management firm in Florida, recently celebrated its Annual ATO Dinner at The Breakers Palm Beach, reinforcing its commitment to fostering professional relationships within the legal and financial sectors. The event, in partnership with the University of Miami’s Office of Estate & Gift Planning, served as a pivotal gathering for professionals across the state, featuring live entertainment, expert wine pairings, and a three-course dinner.</p><p>Donald A. Kress, CEO of Coral Gables Trust, and John Harris, Managing Director & Chief Wealth Advisor, underscored the dinner's dual purpose: to celebrate the collaborative spirit of the Attorney/Trust Officer Liaison Conference (ATO Conference) and to strengthen professional ties that enhance client and community outcomes. The 2025 edition of the dinner was supported by Silver Sponsors such as Freeman’s | Hindman Auctions & Appraisals, mpi, and Quantum Realty Advisors, highlighting the event's significance in the professional calendar.</p><p>The ATO Conference, known for its role in promoting cooperation between attorneys and fiduciaries, offers a blend of educational content and networking opportunities. Coral Gables Trust's ongoing sponsorship and hosting of the dinner reflect its dedication to the sectors it serves and its client-first philosophy. Since its establishment in 2004, the firm has expanded its presence in South Florida, with offices in Fort Lauderdale, Boca Raton, and West Palm Beach, offering tailored trust and wealth management services to high-net-worth individuals, charities, and professionals. More details can be found at <a href='https://cgtrust.com' rel='nofollow' target='_blank'>https://cgtrust.com</a>.</p><p>This annual event not only serves as a testament to Coral Gables Trust's leadership in the wealth management industry but also illustrates the broader impact of professional collaboration on service excellence and community benefit. The firm's growth and commitment to transparency and personalized advice underscore the evolving landscape of trust and wealth management services in Florida and beyond.</p>

@@ -1,0 +1,15 @@
++++
+title = "DC BLOX Secures $1.15 Billion Green Loan for Georgia Data Center Campus Expansion"
+date = "2025-08-11T13:50:48Z"
+draft = false
+summary = "DC BLOX's $1.15 billion green loan financing for a new data center campus in Georgia underscores the growing demand for sustainable digital infrastructure to support cloud and AI workloads."
+description = "DC BLOX announces a $1.15B green loan for a new data center campus in Georgia, enhancing Southeast's digital infrastructure for cloud and AI demands."
+source_link = "https://www.citybiz.co/article/729437/dc-blox-lands-1-15-billion-green-loan-to-develop-atlanta-data-center-campus/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/517ab7bacf79739bd8e0b0d374883450.png"
+article_id = 143101
+feed_item_id = 18456
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/11/herbkcy8.webp"
+source = "citybiz"
++++
+
+<p>DC BLOX, a leading provider of connected data center and fiber network solutions in the Southeastern United States, has announced the closure of a $1.15 billion green loan. This significant financial milestone is dedicated to the development of a new data center campus in Douglas County, Georgia, designed to meet the escalating demands for cloud and artificial intelligence (AI) workloads. The project will initially feature a 120 MW data center, with expansion plans to add an additional 80 MW by 2027, marking a substantial step forward in the region's digital infrastructure capabilities.</p><p>Melih Ileri, SVP of Capital Markets & Strategy at DC BLOX, remarked on the achievement, noting, "Securing this capital confirms confidence in our execution track record." This initiative is a key component of DC BLOX's strategy to broaden its digital infrastructure presence in the Southeast, building on recent endeavors such as the deployment of hyperscale edge nodes in the area.</p><p>Jeff Uphues, CEO of DC BLOX, highlighted the company's role in fostering the Southeast's economic development through advanced digital infrastructure. "Atlanta is the fastest-growing data center market in the US today, and we are proud to enable our customers to expand their footprint in our region," Uphues stated. The financing follows previous investments, including a $265 million green loan and growth equity from Post Road Group, equipping DC BLOX to address the increasing need for hyperscale and edge computing solutions.</p><p>The project's financial backing was coordinated by a consortium of top industry lenders, with ING Capital LLC acting as the Structuring and Administrative Agent. This collective effort reflects the financial sector's trust in DC BLOX's strategic vision and operational expertise. For further details on DC BLOX's initiatives, visit <a href="https://www.dcblox.com" rel="nofollow" target="_blank">https://www.dcblox.com</a>.</p><p>This development not only cements DC BLOX's status as a pivotal entity in the digital infrastructure landscape but also emphasizes the critical role of sustainable financing in expanding data center capacities to accommodate future technological advancements.</p>

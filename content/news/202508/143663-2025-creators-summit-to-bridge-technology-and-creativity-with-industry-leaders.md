@@ -1,0 +1,15 @@
++++
+title = "2025 Creators Summit to Bridge Technology and Creativity with Industry Leaders"
+date = "2025-08-11T13:10:08Z"
+draft = false
+summary = "The 2025 Creators Summit in Wilmington, North Carolina, will feature industry leaders discussing the intersection of technology and creativity, highlighting innovations in open-source storage and creative workflows."
+description = "45Drives announces the 2025 Creators Summit in Wilmington, NC, featuring tech and creative leaders like deadmau5 and Wendell Wilson. A must-attend for innovation in open-source and creative workflows."
+source_link = "https://www.newmediawire.com/news/45drives-announces-third-wave-of-creators-for-2025-creators-summit-level-1-techs-wendell-wilson-ngw-post-s-nick-wiczynski-and-cinematographer-joseph-digiovanna-join-the-lineup-7081820"
+enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/b35b0a74e1cf00133a4f2d8008b87c96None"
+article_id = 143663
+feed_item_id = 18451
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/11/volt6cMf.webp"
+source = "NewMediaWire"
++++
+
+<p>The 2025 Creators Summit, scheduled for September 8–12 in Wilmington, North Carolina, is poised to become a pivotal gathering for technologists and creative professionals. This event, marking its U.S. debut, will introduce 45Studio, a new division by 45Drives aimed at revolutionizing creative workflows. The summit's lineup includes Wendell Wilson of Level 1 Techs, Nick Wiczynski of NGW Post, and Joseph DiGiovanna, the cinematographer behind the NYC Timescape project, each bringing unique insights into the fusion of technology and creativity.</p><p>Wendell Wilson, renowned for his expertise in enterprise-grade hardware and open-source applications, will share his perspectives on real-world technology use cases. His involvement highlights the summit's dedication to fostering open dialogue between creators and engineers. Nick Wiczynski, an Executive Colorist and Editor, will offer elite post-production expertise, providing attendees with a deeper understanding of the creative process. Joseph DiGiovanna's transition to a 45Drives server for his NYC Timescape project exemplifies the practical advantages of the company's technology for creative professionals, showcasing the potential for workflow transformation.</p><p>The summit will feature dual-track programming designed to cater to both enterprise technologists and creative professionals, covering topics from open-source storage innovations to direct-from-server editing and real-time rendering. Dr. Doug Milburn, President and Co-Founder of 45Drives, underscores the event's focus on individuals who push technological boundaries, creating an environment conducive to breakthroughs. For more details on this convergence of technology and creativity, visit <a href='https://45drives.com' rel='nofollow' target='_blank'>45Drives' official website</a>.</p>

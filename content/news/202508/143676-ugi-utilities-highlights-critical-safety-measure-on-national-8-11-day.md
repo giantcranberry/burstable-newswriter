@@ -1,0 +1,15 @@
++++
+title = "UGI Utilities Highlights Critical Safety Measure on National 8/11 Day"
+date = "2025-08-08T18:30:19Z"
+draft = false
+summary = "UGI Utilities emphasizes the importance of calling 811 before digging to prevent accidents and ensure safety, marking National 8/11 Day with a crucial reminder for homeowners and contractors."
+description = "UGI Utilities highlights the importance of calling 811 before digging to prevent utility damage and ensure safety on National 8/11 Day. Learn more at www.ugi.com/811."
+source_link = "https://ugi.reportablenews.com/pr/ugi-reminds-homeowners-and-contractors-to-call-before-you-dig-on-national-8-11-day-and-every-day"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/511c6477b823d1566bc42264c5797e22.jpg"
+article_id = 143676
+feed_item_id = 18404
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/8/milk6Ie0.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities, Inc. is leveraging National 8/11 Day to underscore the essential practice of contacting 811 prior to any excavation work. This legal requirement facilitates the marking of underground utility lines, significantly reducing the risk of hazardous and expensive incidents. From minor projects like mailbox installations to major construction excavations, the directive to dial 811 or visit <a href='https://www.call811.com' rel='nofollow' target='_blank'>call811.com</a> is non-negotiable.</p><p>Janet Toporcer, UGI Public Safety Administrator, highlights the critical nature of this precaution. "Initiating a call to 811 before digging is a straightforward yet vital action that can avert severe consequences, including property damage, service disruption, legal penalties, and even life-threatening injuries," Toporcer explained. The service is complimentary for homeowners, whereas contractors are subject to a nominal yearly charge. Effective preparation, including specifics about the project's location, nature, technique, and timeline, is essential for precise utility marking.</p><p>UGI also draws attention to the hazards associated with operating near above-ground infrastructure, such as power lines, where encounters can be deadly. For comprehensive guidance on safe excavation practices, UGI recommends visiting <a href='https://www.ugi.com/811' rel='nofollow' target='_blank'>www.ugi.com/811</a> or <a href='https://www.call811.com' rel='nofollow' target='_blank'>call811.com</a>. Furthermore, UGI's online platform provides access to safety training scheduling for excavators, reinforcing the organization's dedication to fostering community safety.</p><p>Headquartered in Denver, Pennsylvania, UGI Utilities extends its services to more than 760,000 clients across 46 counties in Pennsylvania and one in Maryland. The company's National 8/11 Day campaign serves as a pivotal reminder of the collective obligation to uphold safety in all digging endeavors, regardless of their scope.</p>

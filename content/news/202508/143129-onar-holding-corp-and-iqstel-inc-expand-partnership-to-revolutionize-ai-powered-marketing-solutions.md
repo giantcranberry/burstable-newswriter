@@ -1,0 +1,15 @@
++++
+title = "ONAR Holding Corp. and IQSTEL Inc. Expand Partnership to Revolutionize AI-Powered Marketing Solutions"
+date = "2025-08-08T13:55:24Z"
+draft = false
+summary = "ONAR Holding Corp. and IQSTEL Inc. announce an expanded partnership to develop a multiagentic operating infrastructure, aiming to enhance marketing technology through AI-powered growth solutions."
+description = "ONAR Holding Corp. and IQSTEL Inc. collaborate on AI-powered marketing infrastructure, transforming agency operations and creativity with phased AI integration."
+source_link = "https://rss.investorbrandnetwork.com/ainw/onar-holding-corp-onar-expands-ai-capabilities-through-iqstel-partnership-to-launch-multiagentic-infrastructure/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/8/398c053e58112d873760f1b1280998f1.png"
+article_id = 143129
+feed_item_id = 18366
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/8/cake2p0U.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>ONAR Holding Corp. (OTCQB: ONAR), a leader in AI-powered marketing technology, has announced an expanded partnership with IQSTEL Inc. (NASDAQ: IQST) and its AI subsidiary, Reality Border (ibn.fm/whT2b). This collaboration is poised to introduce a groundbreaking multiagentic operating infrastructure, developed in three strategic phases: operational streamlining, strategic enablement, and creative augmentation. The initiative is designed to significantly enhance the capabilities of ONAR's internal teams and client services by implementing a secure, scalable, and highly automated AI system.</p><p>Claude Zdanow of ONAR Holding highlighted the partnership's objective to amplify human potential through AI, emphasizing the company's commitment to investing in intelligent systems that empower teams to operate more efficiently and deliver superior outcomes for clients. This infrastructure marks a pivotal advancement in ONAR's ambition to establish an advanced AI-powered agency system, setting a new standard in the marketing technology sector.</p><p>The expanded partnership between ONAR Holding Corp. and IQSTEL Inc. reflects the increasing significance of AI in transforming marketing technologies. It offers a forward-looking perspective on how agencies can utilize interconnected networks of AI agents to optimize operations and foster creativity. For further details on ONAR's innovative developments, visit their newsroom at <a href='https://ibn.fm/ONAR' rel='nofollow' target='_blank'>https://ibn.fm/ONAR</a>.</p><p>This collaboration not only underscores the potential of AI to revolutionize the marketing technology landscape but also signals a shift towards more integrated and intelligent solutions that can drive efficiency, creativity, and growth in the industry. As businesses continue to navigate the complexities of digital transformation, partnerships like this one between ONAR and IQSTEL are paving the way for a future where AI and human ingenuity combine to unlock new possibilities.</p>

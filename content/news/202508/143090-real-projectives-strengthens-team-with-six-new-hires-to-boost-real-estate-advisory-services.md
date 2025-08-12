@@ -1,0 +1,15 @@
++++
+title = "Real Projectives Strengthens Team with Six New Hires to Boost Real Estate Advisory Services"
+date = "2025-08-11T20:20:43Z"
+draft = false
+summary = "Real Projectives enhances its real estate advisory and management capabilities by adding six seasoned professionals to its team, aiming to elevate project management, business operations, and development services."
+description = "Real Projectives strengthens its team with six new hires, enhancing its real estate advisory and management services with diverse expertise and innovation."
+source_link = "https://www.citybiz.co/article/729777/real-projectives-grows-its-team-with-key-new-hires/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/56d159a97f415da234437eef8ce675a3.png"
+article_id = 143090
+feed_item_id = 18495
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/11/joke_Ser.webp"
+source = "citybiz"
++++
+
+<p>Real Projectives, a leading real estate advisory and management firm, has significantly bolstered its team with the addition of six new professionals. This strategic expansion is designed to enhance the firm's project management, business operations, and development capabilities, ensuring it continues to deliver exceptional and innovative services to its clients.</p><p>The new team members include Nia Pitt and Eric Lynn, who join as Assistant Project Managers. Pitt brings a strong background in construction management, while Lynn offers expertise in business development. Their combined skills are expected to improve project efficiency and strengthen client relationships, supported by their academic achievements and professional certifications.</p><p>Jaime Wilson has been appointed as the Business Operations Manager, bringing over 20 years of experience in operations and customer service. Wilson's ability to manage multiple projects and maintain robust partner relationships is anticipated to significantly enhance the firm's operational excellence.</p><p>Theresa Montano joins as the Business Development Manager, with a proven track record in driving business growth and enhancing consumer engagement. Montano's strategic networking and relationship-building skills are set to be instrumental in corporate expansion and client acquisition efforts.</p><p>Kate Heaphy has been named Project Coordinator, offering a diverse background in research, marketing, and customer service. Heaphy's role is critical in supporting project teams throughout the development lifecycle, ensuring projects are executed seamlessly.</p><p>Michael Stewart, the new Project Manager II, brings over two decades of experience in managing large-scale construction projects, including complex government contracts. Stewart's expertise in project oversight and team coordination is expected to be a valuable asset to the firm.</p><p>This team expansion underscores Real Projectives' dedication to providing superior service and fostering growth in the real estate advisory and management sector. The diverse expertise of the new hires is poised to enhance the firm's ability to meet and surpass client expectations, driving innovation and excellence in every project.</p>

@@ -1,0 +1,15 @@
++++
+title = "Robot Consulting Co., Ltd. Secures $15 Million in IPO, Eyes Expansion into Legal Tech and Metaverse"
+date = "2025-08-08T13:25:23Z"
+draft = false
+summary = "Robot Consulting Co., Ltd. has successfully closed its IPO, raising $15 million to fund expansion into legal technology and the metaverse, marking a significant step in its growth strategy."
+description = "Robot Consulting Co., Ltd. completes its NASDAQ IPO, raising $15M for expansion into legal tech and the metaverse, signaling growth in AI-driven HR and legal services."
+source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-robot-consulting-co-ltd-nasdaq-lawr-closes-15-million-initial-public-offering/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/8/aa39add31052278d8508bcf4834d8e35.png"
+article_id = 143872
+feed_item_id = 18362
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/8/pearAkVm.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Robot Consulting Co., Ltd. (NASDAQ: LAWR), a Japanese platform service provider renowned for its innovative human resource solutions, has announced the successful completion of its initial public offering (IPO), raising $15 million. The company, which is setting its sights on expanding into legal technology and the metaverse, offered 3,750,000 American Depositary Shares (ADSs) at $4 per ADS. Trading for these ADSs began on the Nasdaq Capital Market on July 17, 2025.</p><p>The funds garnered from the IPO are designated for several key strategic initiatives. These include talent acquisition, product research and development, and the enhancement of office and equipment infrastructure. Furthermore, Robot Consulting has provided underwriters with a 45-day option to buy up to an additional 562,500 ADSs, potentially increasing its financial resources. D. Boral Capital LLC acted as the representative of the underwriters, with Craft Capital Management LLC serving as co-underwriter.</p><p>At the heart of Robot Consulting's offerings is its flagship product, 'Labor Robot,' a cloud-based human resource management system that simplifies employee attendance tracking, sales order management, and accounting journalization. The company also extends consulting and support services for digital transformation to small and medium-sized businesses, along with aid in grant and subsidy applications. The successful IPO is set to fast-track the development of 'Robot Lawyer,' an AI-driven platform designed to offer legal consultation services within the metaverse.</p><p>This IPO marks a critical juncture for Robot Consulting as it aims to extend its technological influence beyond human resource solutions into the rapidly evolving sectors of legal technology and the metaverse. For further details on Robot Consulting Co., Ltd., visit <a href='https://ir.robotconsulting.net' rel='nofollow' target='_blank'>https://ir.robotconsulting.net</a>.</p>

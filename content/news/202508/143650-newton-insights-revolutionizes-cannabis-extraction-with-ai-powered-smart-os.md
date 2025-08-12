@@ -1,0 +1,15 @@
++++
+title = "Newton Insights Revolutionizes Cannabis Extraction with AI-Powered Smart OS"
+date = "2025-08-12T09:00:34Z"
+draft = false
+summary = "Newton Insights introduces an AI-driven Smart OS for the cannabis extraction industry, enhancing operational efficiency and profitability through real-time data and analytics."
+description = "Newton Insights introduces Smart OS, the first AI-powered platform for cannabis extraction, offering real-time data and optimization to boost efficiency and revenue."
+source_link = "https://newsworthy.ai/news/202508121631/newton-insights-unveils-ai-powered-smart-os-for-cannabis-extraction-real-time-cannabinoid-concentration-monitoring"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/dad3bddd532010eacc3336d1f3737e66.png"
+article_id = 143650
+feed_item_id = 18523
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/12/xenoYvaZ.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Newton Insights has launched its AI-powered Smart OS, a cutting-edge process-control platform tailored for the cannabis extraction sector. This platform marks a significant departure from conventional methods, which often depend on manual spreadsheets and intuition, by offering inline cannabinoid quantification, intelligent alerts, cost monitoring, and continuous optimization without necessitating workflow alterations.</p><p>Kellan Finney, Co-Founder of Newton Insights, emphasized the transformative potential of the Smart OS, stating it equips operators with real-time insights into environmental conditions and extraction efficiency. Initially developed for hydrocarbon extraction, the platform is set to expand to ethanol workflows, incorporating live sensor feeds and AI-driven alerts for scientifically informed mid-run adjustments.</p><p>The efficacy of the Smart OS was underscored during its pilot phase, where it enabled industry partners to minimize idle time, facilitating an additional extraction run per day. One early adopter reported a daily revenue increase exceeding $4,000, showcasing the platform's capacity for generating substantial annual financial benefits.</p><p>Central to the Smart OS's functionality are precision optical sensors and a cannabis-trained LLM, which together enable the real-time quantification of cannabinoids, solvent ratio tracking, and live data benchmarking. Anticipated updates in Q4 aim to broaden the platform's reach to include chillers and other IoT devices, introducing closed-loop alerts to further boost operational efficiency.</p><p>For a deeper dive into the Smart OS's features and advantages, Newton Insights has made available a technical whitepaper at <a href='https://www.newton-insights.com' rel='nofollow' target='_blank'>https://www.newton-insights.com</a>. The advent of the Smart OS represents a pivotal advancement for the cannabis extraction industry, empowering operators to transition from reactive guesswork to proactive, science-based decision-making.</p>

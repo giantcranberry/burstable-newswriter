@@ -1,0 +1,15 @@
++++
+title = "House of Math Expands to the U.S., Offering Innovative Solution to Math Anxiety and Declining Scores"
+date = "2025-08-11T22:00:43Z"
+draft = false
+summary = "Vibeke Gwendoline Faengsrud's House of Math brings its unique, gap-filling methodology to the U.S. to combat math anxiety and improve proficiency, leveraging AI and gamification for personalized learning."
+description = "Vibeke Gwendoline Faengsrud's House of Math brings a revolutionary approach to math education, aiming to close achievement gaps and reduce math anxiety globally."
+source_link = "https://www.citybiz.co/article/729852/qa-with-vibeke-gwendoline-faengsrud-founder-and-ceo-of-house-of-math/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e44a300899ae58d7bae709a49a266da4.png"
+article_id = 143854
+feed_item_id = 18503
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/11/coolFeXE.webp"
+source = "citybiz"
++++
+
+<p>Vibeke Gwendoline Faengsrud, once a student who struggled with math to the point of repeating a year, has transformed her challenges into a global mission to change how math is learned. Her company, House of Math, Norway's largest private math education company, is now expanding into the U.S. market. This move is timely, as recent <a href='https://www.oecd.org/pisa/' rel='nofollow' target='_blank'>PISA scores</a> highlight a worrying decline in math proficiency among students, coupled with an increase in math anxiety.</p><p>House of Math distinguishes itself through a comprehensive K–12 curriculum that incorporates personalized AI guidance and gamified learning environments. These elements are designed not just to teach math but to build confidence and mastery among students. Faengsrud's personal journey of revisiting fourth-grade math to fill her own knowledge gaps is at the heart of the company's philosophy. She challenges the notion that math ability is innate, advocating instead for a methodical approach to learning. "Math isn't a code to crack; it's a recipe to follow," Faengsrud states, emphasizing the importance of the right methodology and mindset.</p><p>The expansion of House of Math into the U.S. addresses a critical need for effective and accessible math education solutions. The platform's innovative use of neuroscience, gamification, and AI aims to solve the two-sigma problem identified by Benjamin Bloom, offering a scalable alternative to one-on-one tutoring. This approach has the potential to significantly impact math education by making it more engaging and less intimidating for students across the spectrum of abilities.</p><p>Faengsrud's ambition for House of Math is not just to improve math scores but to revolutionize math education globally. Her story from math failure to "The Math Woman" serves as a powerful testament to the platform's foundational belief that anyone can master math with the right support. As House of Math begins its journey in the U.S., it carries the promise of transforming math into a skill accessible to all, regardless of their starting point, and potentially altering the landscape of math education worldwide.</p>

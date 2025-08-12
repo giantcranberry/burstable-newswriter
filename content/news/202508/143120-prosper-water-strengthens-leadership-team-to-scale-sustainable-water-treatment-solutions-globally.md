@@ -1,0 +1,15 @@
++++
+title = "Prosper Water Strengthens Leadership Team to Scale Sustainable Water Treatment Solutions Globally"
+date = "2025-08-08T17:15:42Z"
+draft = false
+summary = "Prosper Water appoints industry veterans Curtis F. Brockelman, Jr. and Keith Oldewurtel to key leadership roles, marking a strategic step towards global expansion of its innovative water treatment technologies."
+description = "Prosper Water appoints new leaders as it advances sustainable water treatment with GIBR technology, marking a leap in energy efficiency and water quality improvement."
+source_link = "https://www.citybiz.co/article/729183/prosper-water-adds-executive-chairman-and-new-board-members/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/403cfc6b1e455e1c880b5767ec68a3d6.jpg"
+article_id = 143120
+feed_item_id = 18395
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/8/bestW5mc.webp"
+source = "citybiz"
++++
+
+<p>Prosper Water has taken a significant step forward in its mission to revolutionize the water treatment industry with the appointment of Curtis F. Brockelman, Jr. as Executive Chairman and Keith Oldewurtel to its Board of Directors. These strategic appointments are aimed at enhancing the company's governance and operational capabilities as it seeks to expand its innovative water treatment solutions on a global scale.</p><p>The timing of these appointments aligns with the commissioning of Prosper Water's flagship Gas Infusion Biological Reactor (GIBR) technology project in Cabo de Santo Agostinho, Brazil. Developed in collaboration with a leading Brazilian water treatment company, this project not only demonstrates Prosper Water's ability to upgrade existing facilities for improved performance but also lays the groundwork for future wastewater treatment projects with a total capacity of 18 million gallons per day.</p><p>Curtis F. Brockelman, Jr. brings a wealth of experience in institutional investment management and portfolio construction, with over 25 years in the field. His insight into market trends is expected to be invaluable in guiding Prosper Water's strategic growth. Keith Oldewurtel, with his 45 years of experience in the water industry, including a significant role as Chief Operating Officer for Veolia North America, is set to play a crucial role in overcoming the challenges of scaling up innovative water treatment technologies.</p><p>Max MacKenzie, Founder and CEO of Prosper Water, highlighted the critical role of seasoned leadership in driving the company's objectives forward. The integration of Brockelman and Oldewurtel into the leadership team reflects Prosper Water's dedication to pioneering sustainable and efficient water treatment solutions. The company's GIBR technology, renowned for its energy efficiency and ability to produce high-quality wastewater discharge, is at the forefront of setting new industry benchmarks.</p><p>For further details on Prosper Water and its transformative GIBR technology, visit <a href='https://www.prosperwater.com' rel='nofollow' target='_blank'>https://www.prosperwater.com</a>.</p>

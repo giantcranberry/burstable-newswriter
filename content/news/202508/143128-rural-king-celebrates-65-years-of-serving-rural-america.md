@@ -1,0 +1,15 @@
++++
+title = "Rural King Celebrates 65 Years of Serving Rural America"
+date = "2025-08-08T14:15:32Z"
+draft = false
+summary = "Rural King marks its 65th anniversary with celebrations and a reaffirmed commitment to rural communities, highlighting its growth and community support initiatives."
+description = "Rural King celebrates 65 years with giveaways, deals, and community events, reinforcing its commitment to rural America's farmers and families."
+source_link = "https://www.citybiz.co/article/729017/rural-king-celebrates-65-years-of-serving-rural-communities/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/915eedf57007ea790410949e0b471252.jpg"
+article_id = 143128
+feed_item_id = 18370
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/8/echofZZM.webp"
+source = "citybiz"
++++
+
+<p>Rural King, the largest privately owned farm and home retailer in the United States, is commemorating its 65th anniversary this August, showcasing its longstanding dedication to rural communities. Since its inception in 1960 by farmers Kermit Speer and Keith Beaird, Rural King has expanded from a single store to more than 140 locations across 14 states, providing a diverse array of products from livestock feed to home essentials.</p><p>The anniversary festivities, scheduled from August 7 to August 20, will include unique in-store events, promotions, and giveaways, such as free hot dogs every Saturday and customer sweepstakes. Additionally, Rural King Rewards members will receive exclusive loyalty rewards throughout the celebration period. This event not only celebrates a pivotal milestone for Rural King but also underscores its profound connection and commitment to the rural way of life.</p><p>Alex Melvin, owner and chairman of Rural King, reminisced about the company's modest origins and its evolution into a revered retailer. Rural King has established itself as a pillar of rural living, offering renowned brands like Carhartt and Milwaukee Tool, and steadfastly supporting farmers, families, and communities throughout the year. The retailer's recent expansion into over 20 new communities is a testament to the loyalty of its customer base and the hard work of its employees.</p><p>Rural King's dedication to community extends beyond its retail operations, as evidenced by the RK Foundation for Rural America. The foundation aids organizations such as 4-H, FFA, and veterans' groups and has donated over $1 million to Christian organizations nationwide through the Rural King Scholarship Program in the last five years.</p><p>Looking ahead, Rural King is focused on enhancing the customer experience by introducing mobile and self-checkout options, expanding its e-commerce platform, and increasing its presence in the Midwest and Southeast. The 65th anniversary celebration not only reflects on Rural King's rich history but also signals its ongoing commitment to fostering growth that benefits America's rural communities.</p>

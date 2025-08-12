@@ -1,0 +1,15 @@
++++
+title = "Wearable Devices Ltd. Secures Patent for Innovative Gesture and Voice-Controlled Interface Technology"
+date = "2025-08-11T14:20:51Z"
+draft = false
+summary = "Wearable Devices Ltd. has been granted a patent for its gesture and voice-controlled interface device, marking a significant advancement in neural interface technology with wide-ranging applications across industries."
+description = "Wearable Devices Ltd. granted patent for AI-powered touchless sensing technology, enhancing XR immersion and assistive solutions. Discover the future of human-computer interaction."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-wearable-devices-ltd-nasdaq-wlds-wldsw-secures-u-s-patent-for-gesture-and-voice-controlled-neural-interface/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/11/3cf06313a50ce9b228d423956ccaef25.png"
+article_id = 143098
+feed_item_id = 18463
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/11/blureCFU.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Wearable Devices Ltd. (NASDAQ: WLDS, WLDSW) has recently been granted a patent by the United States Patent and Trademark Office for its 'Gesture and Voice-Controlled Interface Device,' a pioneering development in the field of AI-powered touchless sensing wearables. This patent highlights the company's innovative use of neural interface technology, allowing users to interact with devices through gestures and voice commands, while also capturing physical measurements directly from the wrist.</p><p>The technology covered by this patent represents a significant advancement not only for consumer electronics but also for various industries. It includes features such as object weight estimation, torque and force measurement, and integration with voice commands, extended reality (XR) embodiment, and brain-computer interface innovations. These capabilities are set to revolutionize applications in XR immersion, industrial efficiency, logistics accuracy, and assistive technologies for individuals with severe disabilities.</p><p>This achievement underscores Wearable Devices Ltd.'s dedication to enhancing its intellectual property portfolio and establishing itself as a leader in the development of next-generation wearable bio-potential sensors. The company's flagship products, the Mudra Band for iOS and Mudra Link for Android, are leading the charge in converting subtle finger and wrist movements into intuitive controls, thereby transforming user experiences in gaming, augmented reality (AR), virtual reality (VR), and XR environments.</p><p>For more information on Wearable Devices Ltd.'s innovative technology and its recent patent success, visit <a href='https://ibn.fm/Dpdby' rel='nofollow' target='_blank'>https://ibn.fm/Dpdby</a>. Additional updates and details about the company can be found in its newsroom at <a href='https://ibn.fm/WLDS' rel='nofollow' target='_blank'>https://ibn.fm/WLDS</a>.</p>
