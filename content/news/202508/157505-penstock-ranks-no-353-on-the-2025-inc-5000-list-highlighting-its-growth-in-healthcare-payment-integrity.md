@@ -1,0 +1,15 @@
++++
+title = "Penstock Ranks No. 353 on the 2025 Inc. 5000 List, Highlighting Its Growth in Healthcare Payment Integrity"
+date = "2025-08-13T17:10:47Z"
+draft = false
+summary = "Penstock's inclusion in the 2025 Inc. 5000 list underscores its rapid growth and innovation in the healthcare payment integrity sector, marking it as a company to watch."
+description = "Penstock ranks No. 353 on the 2025 Inc. 5000 list, showcasing its rapid growth and innovation in healthcare payment integrity. Discover how they're shaping the future."
+source_link = "https://www.citybiz.co/article/731202/penstock-ranks-no-353-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e8413a19f39faae88c8f0cf04e293ce4.jpg"
+article_id = 157505
+feed_item_id = 18691
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/knotxiyr.webp"
+source = "citybiz"
++++
+
+<p>Penstock has achieved a significant milestone by securing the No. 353 spot on the 2025 Inc. 5000 list, a prestigious ranking that celebrates America's fastest-growing private companies. This recognition not only places Penstock among the top 50 fastest-growing companies in the healthcare and medical sector but also highlights its innovative approach to improving payment integrity for health plans. The Inc. 5000 list is known for showcasing the most successful independent businesses that contribute significantly to the U.S. economy, with past honorees including industry leaders like Microsoft, Meta, and Under Armour.</p><p>Steve Palma, president and general manager of Penstock, expressed pride in this achievement, viewing it as a testament to the trust and partnership with health plan partners. The company's commitment to delivering tangible results has been a key driver of its rapid expansion and recognition, including its earlier accolade as the #1 fastest-growing private company in the Northeast on the 2025 Inc. Regionals list.</p><p>The 2025 Inc. 5000 honorees, including Penstock, have shown remarkable resilience and growth in the face of economic challenges such as inflationary pressures and a volatile labor market. With a median three-year revenue growth rate of 1,507 percent among the top 500 companies, these businesses have collectively added over 52,805 jobs to the U.S. economy in the past three years. For more details on the list and the companies featured, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>https://www.inc.com/inc5000</a>.</p><p>Mike Hofman, editor-in-chief of Inc., commended the honorees for their tenacity and vision, emphasizing the importance of the entrepreneurial spirit in driving the economy forward. The achievements of the 2025 Inc. 5000 honorees, including Penstock, will be celebrated at a conference and gala in Phoenix, with the top 500 companies featured in the Fall issue of Inc. magazine. Penstock's recognition on this list not only reflects its current success but also its potential to influence the future of the healthcare payment integrity industry.</p>

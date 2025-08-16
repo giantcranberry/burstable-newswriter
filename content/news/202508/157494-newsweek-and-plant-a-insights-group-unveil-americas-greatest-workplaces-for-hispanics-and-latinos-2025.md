@@ -1,0 +1,15 @@
++++
+title = "Newsweek and Plant-A Insights Group Unveil America’s Greatest Workplaces for Hispanics and Latinos 2025"
+date = "2025-08-13T17:20:30Z"
+draft = false
+summary = "The first-ever ranking of America’s Greatest Workplaces for Hispanics and Latinos 2025 highlights 500 U.S. companies excelling in diversity and inclusion, offering a valuable resource for job seekers and setting a benchmark for corporate America."
+description = "Newsweek and Plant-A Insights Group reveal America's Greatest Workplaces for Hispanics and Latinos 2025, highlighting inclusive companies leading in diversity."
+source_link = "https://www.noticiasnewswire.com/newsweek-and-plant-a-insights-group-announce/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/13/4b162df29cb58972970f5bffb2171391.png"
+article_id = 157494
+feed_item_id = 18692
+qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/258/13/odorBSpM.webp"
+source = "Noticias Newswire"
++++
+
+<p>Newsweek, in partnership with Plant-A Insights Group, has introduced the inaugural list of America’s Greatest Workplaces for Hispanics and Latinos 2025, spotlighting the importance of diversity and inclusion in the modern corporate landscape. This landmark ranking identifies 500 U.S. companies that stand out for their commitment to creating inclusive and supportive environments for Hispanic and Latino employees, a group that represents 19% of the American workforce and has experienced a 69% growth in the last twenty years.</p><p>The methodology behind the selection was rigorous, incorporating public data analysis, interviews with HR professionals, and feedback from over 47,000 Hispanic and Latino professionals, in addition to more than 700,000 company reviews. Among the companies celebrated for their inclusive practices are Cedars-Sinai, Crocs, JetBlue, JPMorgan Chase, and Mercedes-Benz, recognized for their efforts in enabling Hispanic and Latino professionals to thrive.</p><p>Jennifer H. Cunningham, Editor-in-Chief of Newsweek, pointed out the list's value as a guide for job seekers prioritizing diversity and cultural inclusion in their employment choices. Dev Pragad, Owner and CEO of Newsweek, stressed the list's potential to inspire businesses across the nation to embrace more inclusive policies, highlighting diversity as a catalyst for innovation and advancement.</p><p>The study concentrated on organizations with over 1,000 employees, employing more than 120 Key Performance Indicators from Aniline to assess factors such as leadership, integrity, compensation, and work-life balance. This detailed methodology positions the 2025 list as one of the most comprehensive examinations of Hispanic and Latino workplace experiences in the United States. For further information, the complete list is available at <a href='https://rankings.newsweek.com/americas-greatest-workplaces-hispanics-latinos-2025' rel='nofollow' target='_blank'>rankings.newsweek.com/americas-greatest-workplaces-hispanics-latinos-2025</a>.</p>

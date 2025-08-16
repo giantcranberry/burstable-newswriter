@@ -1,0 +1,15 @@
++++
+title = "The Dog Stop Expands to New Jersey with New Long Hill Location"
+date = "2025-08-13T17:10:47Z"
+draft = false
+summary = "The Dog Stop announces its first New Jersey location in Long Hill, offering comprehensive pet care services and marking a significant franchise expansion."
+description = "The Dog Stop debuts in NJ with expert-led services, offering luxury boarding, daycare, and more. Grand opening set for September 27 in Long Hill."
+source_link = "https://www.citybiz.co/article/731201/the-dog-stop-opens-first-new-jersey-location-with-longtime-friends-turned-franchisees-at-the-helm/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/0ba580badae729c9775ac27c351c7b20.jpg"
+article_id = 157501
+feed_item_id = 18690
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/rain4wMT.webp"
+source = "citybiz"
++++
+
+<p>The Dog Stop, renowned for its award-winning dog care services, is making a strategic move into New Jersey with its first location in Long Hill. This expansion signifies a notable milestone for the franchise, introducing its comprehensive pet care services to a new community. The facility, situated at 977 Valley Rd, Gillette, NJ 07933, is poised to open its doors in late August, with a grand opening event scheduled for September 27. The celebration will include a ribbon-cutting ceremony in collaboration with the local Chamber of Commerce, alongside festivities such as food trucks and special treats for dogs.</p><p>At the helm of the Long Hill location are Rob Lax and David Weinberg, whose shared passion for dogs has culminated in this business venture. Lax's extensive background includes over 25 years as a certified dog trainer, with a specialization in raising and training guide dogs for the blind at The Seeing Eye in Morristown. Weinberg, leveraging his expertise as an attorney with a focus on media and sports law, brings valuable business insight to the partnership. Together, they aim to deliver exceptional service to the Long Hill community.</p><p>The new 10,000 square foot facility is designed to offer a wide array of services, from luxury boarding and interactive daycare to expert training, grooming, and holistic retail options. Beyond its business objectives, The Dog Stop is committed to fostering community ties, with initiatives like sponsoring the Long Hill Education Foundation and plans to establish at least three more locations in the region.</p><p>Jesse Coslov, CEO and Co-Founder of The Dog Stop, commended Lax and Weinberg for their dedication and community-oriented approach, which aligns with the brand's ethos since its inception in 2009. The Dog Stop has consistently prioritized quality and personalized care for dogs and their owners, setting a high standard in the pet care industry. For those interested in learning more about The Dog Stop's Long Hill location, additional details can be found at <a href='https://thedogstop.com/grand-opening-long-hill/' rel='nofollow' target='_blank'>https://thedogstop.com/grand-opening-long-hill/</a>.</p>

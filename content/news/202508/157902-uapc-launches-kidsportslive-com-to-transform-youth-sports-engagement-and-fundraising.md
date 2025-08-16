@@ -1,0 +1,15 @@
++++
+title = "UAPC Launches KidSportsLive.com to Transform Youth Sports Engagement and Fundraising"
+date = "2025-08-15T13:15:06Z"
+draft = false
+summary = "United American Petroleum Corp. introduces KidSportsLive.com, a streaming and fundraising platform aimed at enhancing community support for youth sports through live and on-demand game coverage and local business sponsorships."
+description = "UAPC launches KidSportsLive.com, a streaming and fundraising platform for youth sports, offering live games and sustainable funding for leagues."
+source_link = "https://www.newmediawire.com/news/uapc-launches-kidsportslive-com-nationwide-7081934"
+enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/68a047ffd520eec959d6b5469d47c02fNone"
+article_id = 157902
+feed_item_id = 18863
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/15/daverOpa.webp"
+source = "NewMediaWire"
++++
+
+<p>United American Petroleum Corp. (UAPC) has introduced KidSportsLive.com, a groundbreaking streaming and fundraising platform set to change the landscape of youth sports engagement. This innovative platform enables fans to access live or on-demand games via a pay-per-view system, facilitated by HD cameras provided at no cost to participating venues. Beyond ensuring families can always be part of their children's sporting moments, KidSportsLive.com establishes a sustainable fundraising mechanism by linking local viewers with business sponsors within the community.</p><p>The proceeds from KidSportsLive.com are dedicated to supporting youth sports leagues in covering critical expenses, including facility improvements, uniforms, and travel costs. This approach not only fosters community involvement but also strengthens local economies by promoting partnerships between sports programs and businesses. For a glimpse into how the platform operates, interested parties can explore its features in Florida by visiting <a href='https://kidsportslive.com/channels/florida/' rel='nofollow' target='_blank'>https://kidsportslive.com/channels/florida/</a>.</p><p>Based in the Kalamazoo, Michigan area, UAPC is on the lookout for seasoned regional sales representatives nationwide to engage with leagues and venues in communities boasting populations of 15,000 or more. This initiative is part of UAPC's strategy to broaden its business ventures, which already include managing restaurants and golf courses in Michigan and Indiana, with aspirations for national expansion. Furthermore, the company is preparing to introduce an Airbnb-centric division aimed at key U.S. vacation spots such as Tennessee, Montana, and Maine in the coming year.</p><p>While UAPC's forward-looking statements highlight ambitious growth plans, they also acknowledge the inherent risks and uncertainties of such ventures. The debut of KidSportsLive.com signifies a pivotal move in utilizing technology to bolster community ties and aid for youth sports, showcasing a novel method for local sports programs to secure their financial future and expand their reach.</p>

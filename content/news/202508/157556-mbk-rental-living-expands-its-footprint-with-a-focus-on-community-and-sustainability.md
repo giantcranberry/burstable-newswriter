@@ -1,0 +1,15 @@
++++
+title = "MBK Rental Living Expands Its Footprint with a Focus on Community and Sustainability"
+date = "2025-08-12T18:40:35Z"
+draft = false
+summary = "MBK Rental Living, under the leadership of Ken McCarren, is expanding its multifamily real estate portfolio with a focus on creating communities and sustainable living, despite challenges like inflation and tariffs."
+description = "Ken McCarren discusses MBK Rental Living's growth, community-focused developments, and sustainability efforts in multifamily real estate."
+source_link = "https://www.citybiz.co/article/730407/qa-with-ken-mccarren-president-of-mbk-rental-living/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3eb44c65ad7903631481a15951081ea7.png"
+article_id = 157556
+feed_item_id = 18597
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/roamjf0l.webp"
+source = "citybiz"
++++
+
+<p>MBK Rental Living, led by President Ken McCarren, is making significant strides in the multifamily real estate sector, with over 4,500 apartment homes in development across California and Colorado. This expansion marks the company's first foray into Colorado, showcasing its strategic growth and ability to identify high-growth markets. McCarren's vision extends beyond constructing apartment complexes to fostering vibrant communities through thoughtfully designed communal spaces and amenities.</p><p>The company's approach includes integrating features like kitchen islands, fire pits, and dog parks to encourage resident interaction. Additionally, MBK Rental Living organizes community events such as yoga classes and holiday celebrations, further enhancing the living experience. This focus on community building is a testament to the company's commitment to not just housing, but creating homes where individuals and families can thrive.</p><p>Strategic market research and trend analysis by MBK's acquisitions team and planning and development group have been pivotal in identifying emerging markets, such as the Central Coast of California. Despite facing challenges like inflation in construction costs and potential tariffs, MBK Rental Living remains steadfast in its development goals. The company leverages the expertise of its senior executive team and the support of its parent company, Mitsui and Co., to navigate these obstacles.</p><p>Environmental and social responsibility is another cornerstone of MBK's strategy, exemplified by its With Our World® program. Initiatives under this program include the installation of solar panels and EV charging stations, reflecting the company's dedication to sustainability. McCarren's advice to industry newcomers underscores the importance of mentorship and a passion for creating meaningful living spaces, highlighting the fulfillment derived from contributing to the multifamily real estate industry.</p><p>For more information on MBK Rental Living's projects and initiatives, visit <a href="https://www.mbkrentalliving.com" rel="nofollow" target="_blank">https://www.mbkrentalliving.com</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "HR Acuity Recognized on Inc. 5000 List for Fourth Consecutive Year"
+date = "2025-08-12T18:30:43Z"
+draft = false
+summary = "HR Acuity's fourth consecutive inclusion on the Inc. 5000 list highlights its growth and innovation in the HR technology sector, emphasizing the importance of data-driven employee relations solutions."
+description = "HR Acuity named to Inc. 5000 list for the fourth time, showcasing its growth and innovation in HR technology. Discover how they're transforming employee relations."
+source_link = "https://www.citybiz.co/article/730426/hr-acuity-named-to-inc-5000-list-of-americas-fastest-growing-private-companies-for-the-fourth-time/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5ec3e2cee26535575d8d20f48bdd0374.jpg"
+article_id = 157982
+feed_item_id = 18595
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/coolqlMK.webp"
+source = "citybiz"
++++
+
+<p>HR Acuity has been named to the Inc. 5000 list for the fourth year in a row, securing the No. 2,741 spot among America's fastest-growing private companies. This recognition is a testament to the company's impressive three-year revenue growth and its influential role in the HR technology industry. The achievement underscores HR Acuity's dedication to revolutionizing employee relations through cutting-edge solutions.</p><p>Deb Muller, CEO of HR Acuity, emphasized the importance of this accolade, noting it as a validation of the company's mission to address workplace challenges with transparency and data-driven methodologies. A pivotal factor in HR Acuity's success has been the introduction of an <a href='https://www.hracuity.com' rel='nofollow' target='_blank'>AI-powered employee relations platform</a>, which offers essential insights and simplifies case management for HR and compliance teams, enabling more informed decision-making.</p><p>The company's growth is further evidenced by its expansion into serving numerous Fortune 500 companies, showcasing the increasing reliance on its solutions to reduce workplace risks and enhance investment returns. Additionally, HR Acuity has expanded its empowER community, promoting greater collaboration and providing specialized training in investigations and mediation. These efforts highlight the company's commitment to cultivating environments of trust and accountability in organizations.</p><p>The 2025 Inc. 5000 list celebrates businesses that have flourished in the face of economic adversity, with the leading 500 companies recording a median three-year growth rate of 1,552% and generating 48,678 jobs across the United States. HR Acuity's presence on this list reflects the escalating demand for technologies that improve HR compliance and strengthen employee trust. For further information on the Inc. 5000 list, visit <a href='https://www.Inc.com/Inc5000' rel='nofollow' target='_blank'>www.Inc.com/Inc5000</a>.</p>

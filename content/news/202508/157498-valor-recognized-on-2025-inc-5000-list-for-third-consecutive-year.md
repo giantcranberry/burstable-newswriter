@@ -1,0 +1,15 @@
++++
+title = "Valor Recognized on 2025 Inc. 5000 List for Third Consecutive Year"
+date = "2025-08-13T17:10:47Z"
+draft = false
+summary = "Valor, a tech-enabled professional services company, has been named to the 2025 Inc. 5000 list for the third year in a row, underscoring its growth and innovation in the oil and gas asset management sector."
+description = "Valor, a leader in oil and gas asset management, makes the 2025 Inc. 5000 list for the third time, showcasing exceptional growth and innovation in the energy sector."
+source_link = "https://www.citybiz.co/article/731220/valor-ranks-on-the-2025-inc-5000-list/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b04c4c7bd9a095c1565715e8137ef0a6.jpg"
+article_id = 157498
+feed_item_id = 18689
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/knotYnu1.webp"
+source = "citybiz"
++++
+
+<p>Valor, a Fort Worth-based tech-enabled professional services company specializing in oil and gas asset management, has once again been recognized on the 2025 Inc. 5000 list. This prestigious ranking highlights America's fastest-growing private companies, with Valor making the list for the third consecutive year. The achievement underscores the company's sustained growth and innovation in a highly competitive sector.</p><p>Joseph DeWoody, CEO and Co-founder of Valor, shared his pride in the accomplishment, crediting the team's dedication and the exceptional service provided to clients. This recognition comes at a time when many businesses are navigating economic uncertainties, including inflationary pressures and a fluctuating labor market, showcasing Valor's resilience and strategic vision.</p><p>The Inc. 5000 list serves as a data-driven snapshot of the most successful independent businesses in the U.S. economy. This year's honorees, including Valor, have demonstrated impressive growth rates, with the top 500 companies achieving a median three-year revenue growth of 1,552 percent and adding over 48,678 jobs to the economy.</p><p>Valor has carved out a leadership position in Texas's oil and gas asset management industry, offering a range of services such as oil and gas accounting, mineral management, and consulting. Its innovative platform, <a href='https://www.onevalor.com' rel='nofollow' target='_blank'>mineral.tech®</a>, integrates accounting, land management, and data analytics to provide a comprehensive solution for mineral rights management. Furthermore, Valor plays a crucial role as a provider of back-office services for oil and gas operators and investors, including owner relations support and regulatory compliance.</p><p>The inclusion on the Inc. 5000 list not only reflects Valor's impressive growth but also its significant contribution to the broader economy and the ongoing evolution of the oil and gas sector. For more details on Valor's services, visit <a href='https://www.onevalor.com' rel='nofollow' target='_blank'>https://www.onevalor.com</a>.</p>

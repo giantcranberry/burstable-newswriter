@@ -1,0 +1,15 @@
++++
+title = "Empire Access Expands High-Speed Fiber Internet to Greece, NY, Enhancing Digital Connectivity"
+date = "2025-08-15T17:45:47Z"
+draft = false
+summary = "Empire Access announces the extension of its high-speed fiber internet services to Greece, New York, aiming to connect over 1,500 homes and 800 businesses by August 2025, marking a significant step in bolstering digital infrastructure and economic growth in the region."
+description = "Empire Access brings high-speed fiber internet to Greece, NY, enhancing connectivity for over 2,300 homes and businesses by August 2025. Discover more."
+source_link = "https://www.citybiz.co/article/732508/empire-access-expands-high-speed-fiber-internet-footprint-to-greece-ny/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/221d5f55cdb88e58c6e5695c98d8a1ef.jpg"
+article_id = 157450
+feed_item_id = 18886
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/15/oxenSCh6.webp"
+source = "citybiz"
++++
+
+<p>Empire Access, a leading fiber service provider in the Northeast, is expanding its high-speed fiber internet services to Greece, New York, with the goal of reaching more than 1,500 homes and 800 businesses by the end of August 2025. This expansion is a testament to the company's commitment to enhancing digital connectivity and supporting the growth of communities in New York by providing fast and reliable internet services.</p><p>Kevin Dickens, CEO of Empire Access, highlighted the company's focus on driving progress and development through dependable connectivity. Empire Access is known for offering symmetrical speeds up to 2 Gigs, no contracts or hidden fees, free installation, and high-performance Wi-Fi routers for residential customers. Business clients can enjoy enterprise-grade Wi-Fi, scalable speeds, 99.9% reliability, and 24/7 local support, designed to meet the needs of businesses of all sizes in today's digital world.</p><p>The move into Greece, NY, is part of Empire Access's larger strategy to improve digital infrastructure throughout New York, following its success in serving over 125,000 homes in the Finger Lakes region. The company is also providing limited-time promotions for early adopters, urging the community to take advantage of the benefits of high-speed fiber internet. For more information on service availability, visit <a href='https://empireacces.com/service-availability' rel='nofollow' target='_blank'>empireacces.com/service-availability</a>.</p><p>Empire Access's dedication to personalized customer service and its accolade as the fastest ISP in the Northeastern United States by PC Mag underscore its leadership in the telecommunications industry. This expansion is set to not only improve the digital experience for residents and businesses in Greece, NY but also play a crucial role in the area's economic and social advancement by ensuring access to state-of-the-art internet technology.</p>

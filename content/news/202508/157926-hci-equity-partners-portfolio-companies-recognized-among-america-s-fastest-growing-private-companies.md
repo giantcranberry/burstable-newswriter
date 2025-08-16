@@ -1,0 +1,15 @@
++++
+title = "HCI Equity Partners' Portfolio Companies Recognized Among America's Fastest-Growing Private Companies"
+date = "2025-08-14T01:40:38Z"
+draft = false
+summary = "Three companies under HCI Equity Partners have been listed on Inc. 5000's 2025 list, showcasing significant growth in revenue and employment, highlighting the success of strategic investments in challenging economic times."
+description = "HCI Equity Partners celebrates as three portfolio companies make Inc. 5000's 2025 list, showcasing remarkable growth in automotive, foodservice, and cabinetry sectors."
+source_link = "https://www.citybiz.co/article/731521/three-hci-portfolio-companies-named-to-inc-5000s-2025-list-of-fastest-growing-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/591724de0beb15b05c478f765bedf83b.jpg"
+article_id = 157926
+feed_item_id = 18723
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/14/file_k8M.webp"
+source = "citybiz"
++++
+
+<p>Three portfolio companies of HCI Equity Partners, a leading lower-middle-market private equity firm, have earned spots on Inc. 5000's 2025 list of the fastest-growing private companies in America. This accolade highlights the impressive growth of Driven Distribution Group, Tech24, and Regent Cabinet Solutions, each demonstrating substantial revenue and employment growth from 2021 to 2024.</p><p>Driven Distribution Group, operating in the automotive aftermarket sector, reported a 66% increase in revenue and a 13% rise in employment. Tech24, a provider of foodservice equipment services, experienced a 125% revenue growth and an 87% employment surge. Regent Cabinet Solutions, known for its custom cabinetry and countertop solutions, saw a remarkable 165% revenue growth and a 158% employment increase. These achievements not only underscore the companies' individual successes but also reflect the efficacy of HCI Equity Partners' investment strategies.</p><p>Doug McCormick, Managing Partner and CIO of HCI Equity Partners, praised the companies for their accomplishments, linking their success to the firm's collaborative approach and dedication to sustainable growth. Their inclusion in the Inc. 5000 list is a clear indicator of their ability to innovate and thrive despite economic challenges.</p><p>Mike Hofman, editor-in-chief of Inc., emphasized the importance of making the Inc. 5000 list, particularly in a year fraught with economic uncertainties. The stories of Driven Distribution Group, Tech24, and Regent Cabinet Solutions exemplify how entrepreneurial drive and strategic planning can lead to significant growth and positive economic impact.</p><p>For more information on the Inc. 5000 list and the honored companies, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>https://www.inc.com/inc5000</a>. Additional details about HCI Equity Partners are available at <a href='https://www.hciequity.com' rel='nofollow' target='_blank'>https://www.hciequity.com</a>.</p>

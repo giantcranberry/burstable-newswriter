@@ -1,0 +1,15 @@
++++
+title = "Vision Marine Technologies Reports 504% Surge in Boat Sales Following Strategic Acquisition"
+date = "2025-08-12T18:20:32Z"
+draft = false
+summary = "Vision Marine Technologies Inc. experiences a dramatic increase in boat sales and operational efficiencies after acquiring Nautical Ventures Group Inc., marking a significant milestone in the electric marine propulsion industry."
+description = "Vision Marine Technologies sees a 504% sales boost post Nautical Ventures acquisition, marking a significant leap in electric marine propulsion market share."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-vision-marine-technologies-inc-nasdaq-vmar-sees-504-boat-sales-surge-slashes-debt-following-nautical-ventures-acquisition/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/12/d8a248d36b8ea0da71e95270e36882cb.png"
+article_id = 157986
+feed_item_id = 18594
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/12/gleebeGW.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Vision Marine Technologies Inc. (NASDAQ: VMAR), a leader in electric marine propulsion, has announced a staggering 504% increase in boat sales revenue, reaching approximately $8.2 million, in the wake of its acquisition of Nautical Ventures Group Inc. This surge, recorded from June 20 to Aug. 8, highlights the acquisition's immediate impact on Vision Marine's sales performance and market position.</p><p>The company has also reported a 44% reduction in floor plan liabilities, now at $31.3 million, and a $4.9 million decrease in inventory, showcasing improved operational efficiency. Furthermore, Vision Marine has observed a 900% year-over-year increase in inbound leads, indicating heightened market interest and potential for sustained growth. The acquisition has enabled Vision Marine to diversify its product lineup, including entry into the tender boat market through Nautical Ventures' Highfield Boats distribution, supported by a new sales and service hub in Fort Lauderdale.</p><p>Management at Vision Marine has praised the acquisition as a pivotal step that has significantly accelerated the company's growth and operational capabilities. With the Q4 2025 results expected in November, stakeholders are keenly awaiting further insights into the company's strategic direction and performance. For more details on Vision Marine Technologies and its innovative solutions, visit <a href='https://ibn.fm/VMAR' rel='nofollow' target='_blank'>https://ibn.fm/VMAR</a>.</p><p>This strategic move not only broadens Vision Marine's product offerings to encompass both traditional and electric propulsion boats but also enhances its footprint on the U.S. East Coast. By addressing the changing preferences of recreational boaters, Vision Marine is reinforcing its status as a frontrunner in the marine technology sector, poised for future expansion and innovation.</p>

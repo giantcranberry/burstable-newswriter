@@ -1,0 +1,15 @@
++++
+title = "Cecilian Partners Climbs to No. 547 on the 2025 Inc. 5000 List, Highlighting Proptech Innovation"
+date = "2025-08-12T19:30:38Z"
+draft = false
+summary = "Cecilian Partners' significant leap on the 2025 Inc. 5000 list underscores its rapid growth and the transformative impact of its Residential OS® platform on the proptech industry."
+description = "Cecilian Partners ranks No. 547 on the 2025 Inc. 5000 list, showcasing rapid growth and innovation in proptech with its Residential OS® platform."
+source_link = "https://www.citybiz.co/article/730533/cecilian-partners-ranks-no-547-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/086d6849b8abf850cdb01523bbcccd6b.jpg"
+article_id = 157539
+feed_item_id = 18610
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/zeroKlgS.webp"
+source = "citybiz"
++++
+
+<p>Cecilian Partners has made a remarkable advancement by securing the No. 547 spot on the 2025 Inc. 5000 list, a prestigious ranking that celebrates America's fastest-growing private companies. This marks the company's second consecutive year on the list, with a notable improvement from its position at No. 1,033 in 2024. The achievement highlights Cecilian Partners' rapid growth and its significant influence on the proptech sector, primarily through its innovative Residential OS® platform. This platform has revolutionized the community development and homebuying process, demonstrating the company's commitment to leveraging technology for real-world solutions.</p><p>John Cecilian, Jr., co-founder and CEO of Cecilian Partners, credits this success to the unwavering dedication of his team and the trust placed in them by their clients. The company's suite of tools, including The XO®, XO KISS, Xplorer, Lot Vault, Brightdoor®, and Customer Blueprint®, has been pivotal in managing over 300 projects and nearly 214,000 residential lots nationwide. This scalability and effectiveness of the Residential OS® platform underscore its potential to further transform the residential development industry.</p><p>The 2025 Inc. 5000 list showcases companies that have not only weathered a challenging economic climate but have also flourished, with the top 500 companies achieving a median three-year revenue growth rate of 1,552% and contributing over 48,678 jobs to the U.S. economy. Mike Hofman, editor-in-chief of Inc., commended the honorees for their resilience and vision, emphasizing their critical role in driving the U.S. economy forward. For more information on the 2025 Inc. 5000 list, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>https://www.inc.com/inc5000</a>.</p><p>Cecilian Partners' recognition on the Inc. 5000 list not only reflects its impressive growth and innovation but also signals the growing significance of technology in reshaping the residential development landscape. As the company continues to expand its reach and refine its offerings, its impact on the proptech industry and beyond is expected to deepen, offering new possibilities for community developers and homebuilders alike.</p>

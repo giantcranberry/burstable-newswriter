@@ -1,0 +1,15 @@
++++
+title = "ECGI Holdings' Payday Fantasy to Revolutionize Fantasy Sports with NFL and NCAA Football Data Integration"
+date = "2025-08-12T16:50:25Z"
+draft = false
+summary = "Payday Fantasy, a portfolio company of ECGI Holdings Inc., is set to enhance the fantasy sports experience by integrating NFL and NCAA Football data, alongside launching a new marketplace, aiming to capitalize on the growing $24.8 billion global fantasy sports market."
+description = "ECGI Holdings expands Payday Fantasy with NFL & NCAAF data, targeting the $24.8B fantasy sports market. A game-changer for fans and investors."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-ecgi-holdings-inc-otc-ecgi-portfolio-company-payday-fantasy-to-launch-nfl-ncaaf-play-and-marketplace/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/12/171ce5506cb0281fbd76474ba2977543.png"
+article_id = 157585
+feed_item_id = 18575
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/12/quayXOgB.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>ECGI Holdings Inc. (OTC: ECGI) has announced a significant expansion for its portfolio company, Payday Fantasy, which will soon include NFL and NCAA Football (NCAAF) data on its platform. This strategic move is timed with the NFL regular season's start, a peak period for fantasy sports engagement, to maximize user adoption and brand visibility. The integration of these leagues into Payday Fantasy's offerings is expected to attract a broader audience, leveraging the platform's unique blend of artificial intelligence (AI) and social interaction features to redefine the fantasy sports experience.</p><p>The global fantasy sports market, currently valued at $24.8 billion, is on a trajectory to exceed $56 billion by 2030, growing at a compound annual growth rate (CAGR) of 15.2%. This growth presents a lucrative opportunity for Payday Fantasy to establish a significant presence in the market. The company's upcoming marketing campaign is designed to accelerate user acquisition during the football season, further solidifying its position in the industry.</p><p>Payday Fantasy distinguishes itself by integrating AI to personalize the betting journey, transforming fantasy sports from a solitary activity into a shared, social experience. This innovative approach aims to tap into the $89.9 billion global fantasy sports market, offering a platform that combines the best elements of social media, sports betting, and live streaming. For more details on ECGI Holdings and its strategic investments, visit <a href='https://ibn.fm/ECGI' rel='nofollow' target='_blank'>https://ibn.fm/ECGI</a>.</p><p>This announcement highlights the evolving landscape of fantasy sports, where technology and entertainment converge to create immersive experiences. By adding NFL and NCAA Football data and launching a new marketplace, Payday Fantasy is not just expanding its offerings but also setting the stage for a transformative impact on the fantasy sports industry. The initiative reflects ECGI Holdings' commitment to investing in high-growth sectors and leveraging innovative technologies to drive long-term value.</p>
