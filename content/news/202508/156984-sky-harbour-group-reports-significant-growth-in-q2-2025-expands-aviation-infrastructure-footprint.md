@@ -1,0 +1,15 @@
++++
+title = "Sky Harbour Group Reports Significant Growth in Q2 2025, Expands Aviation Infrastructure Footprint"
+date = "2025-08-13T20:11:26Z"
+draft = false
+summary = "Sky Harbour Group Corporation showcases strong Q2 2025 performance with an 82% revenue increase, highlighting strategic expansions and financial resilience in the aviation sector."
+description = "Sky Harbour Group reports strong Q2 growth with new campus openings and a $6.6M revenue, signaling expansion in aviation infrastructure. Read more."
+source_link = "https://stonegateinc.reportablenews.com/pr/stonegate-capital-partners-updates-coverage-on-sky-harbour-group-corporation-nyse-skyh-q2-2025"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/321782e723e5722fa8517acbefac1757.png"
+article_id = 156984
+feed_item_id = 18709
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/13/faceym8B.webp"
+source = "Reportable"
++++
+
+<p>Sky Harbour Group Corporation (NYSE: SKYH) has demonstrated a notable operational and financial upturn in the second quarter of 2025, with an 82% year-over-year revenue increase to $6.6M. This growth is attributed to the company's strategic expansions, including the opening of new campuses at Dallas Addison (ADS) and Seattle Boeing Field (BFI), and the anticipated commencement of operations at Denver Centennial (APA) in early Q3. The company's aggressive expansion strategy is further evidenced by the groundbreaking of Miami Opa-Locka (OPF) Phase 2 and advancements in pre-development at several Tier 1 airport sites.</p><p>Financially, Sky Harbour has seen rental revenue rise to $5.2M and fuel revenue to $1.4M. Despite facing higher operational costs from new campus openings, the company's strategic initiatives, such as the formation of Ascend Aviation Services, aim to improve quality control and reduce expenses. With a solid balance sheet featuring $74.9M in consolidated cash and a recent $200M tax-exempt warehouse debt facility, Sky Harbour is well-positioned to fund its forthcoming developments.</p><p>Stonegate Capital Partners has updated its coverage on Sky Harbour Group Corp., offering a valuation range of $13.53 to $20.69, which underscores the market's confidence in the company's growth potential and operational strategy. For more information on Sky Harbour's developments and financial performance, visit <a href='https://www.skyharbour.group' rel='nofollow' target='_blank'>https://www.skyharbour.group</a>.</p><p>The implications of Sky Harbour's growth are significant for the aviation infrastructure sector, indicating a robust demand for specialized hangar and aviation services. This expansion not only enhances the company's market position but also contributes to the broader aviation industry's infrastructure development, potentially setting new standards for operational efficiency and service quality.</p>

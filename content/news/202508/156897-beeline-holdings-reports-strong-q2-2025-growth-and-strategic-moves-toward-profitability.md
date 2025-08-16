@@ -1,0 +1,15 @@
++++
+title = "Beeline Holdings Reports Strong Q2 2025 Growth and Strategic Moves Toward Profitability"
+date = "2025-08-15T16:56:00Z"
+draft = false
+summary = "Beeline Holdings, Inc. showcases significant financial improvements and strategic initiatives aimed at achieving profitability by early 2026, highlighting its innovative approach in the digital mortgage sector."
+description = "Beeline Holdings (BLNE) reports 31% growth in Q2 2025, aims for debt-free status by November, and innovates with BeelineEQUITY for fractional real estate sales."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-beeline-holdings-inc-nasdaq-blne-reports-q2-2025-results-targets-profitability-in-early-2026/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/15/06ed2a614d1e9fd9ca9a2612c632fed9.png"
+article_id = 156897
+feed_item_id = 18878
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/15/corn1e16.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Beeline Holdings, Inc. (NASDAQ: BLNE), a leader in digital mortgage lending and SaaS platforms, has announced its second-quarter results for 2025, demonstrating a robust increase in both funded loan volume and revenue. The company's strategic focus on its core mortgage business, following the divestiture of Bridgetown Spirits in July, has paid off with a 31% increase in Q2 funded loan volume to $52 million and a 27% rise in revenue to $1.7 million.</p><p>Financial health indicators have shown significant improvement, with the GAAP net loss narrowing to $4.1 million from $6.9 million in Q1, and the adjusted EBITDA loss improving to $2.8 million from $3.5 million. Beeline has also made notable progress in reducing its debt, paying down $2.7 million in the quarter, and expects to be debt-free, excluding its loan warehouse facility, by November 1. The company's cash position is strong at $6.3 million, with equity standing at $55 million, and it has successfully cut monthly recurring expenses by $0.3 million, with full savings anticipated by September.</p><p>Looking forward, Beeline Holdings is optimistic about reaching monthly operating profitability by January 2026. A pivotal element of its growth strategy is the upcoming launch of BeelineEQUITY in early October. This innovative product, developed in partnership with a crypto-issuing partner, is designed for fractional residential real estate equity sales, reflecting Beeline's dedication to revolutionizing the mortgage and title platform industry through AI, automation, and modern user experience.</p><p>For more information on Beeline Holdings' Q2 2025 results and its future initiatives, visit <a href='https://ibn.fm/g7B5a' rel='nofollow' target='_blank'>https://ibn.fm/g7B5a</a>. Further updates and details about BLNE can be accessed through the company’s newsroom at <a href='https://ibn.fm/BLNE' rel='nofollow' target='_blank'>https://ibn.fm/BLNE</a>.</p>

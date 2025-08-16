@@ -1,0 +1,15 @@
++++
+title = "Compass Lexecon Tops Lexology Index: Competition 2025, Highlighting Leadership in Economic Consulting"
+date = "2025-08-13T17:50:37Z"
+draft = false
+summary = "Compass Lexecon, alongside FTI Consulting, secures top rankings on the Lexology Index: Competition 2025, showcasing their global leadership and expertise in economic consulting."
+description = "FTI Consulting and Compass Lexecon professionals top the Lexology Index: Competition 2025, showcasing excellence in economic consulting globally."
+source_link = "https://www.citybiz.co/article/731231/compass-lexecon-ranked-top-economic-consulting-firm-on-lexology-index-competition-2025-list/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/143a479e484818e47b2e07a70854920c.png"
+article_id = 156996
+feed_item_id = 18694
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/oxen619k.webp"
+source = "citybiz"
++++
+
+<p>Compass Lexecon, a subsidiary of FTI Consulting, Inc., has achieved the highest ranking among economic consulting firms on the Lexology Index: Competition 2025 list, with 66 of its professionals recognized. This accolade not only reaffirms the firm's premier status in the global economic consulting arena but also highlights the exceptional caliber of its team. Furthermore, six professionals from FTI Consulting were also listed, reinforcing the company's esteemed reputation in the field.</p><p>Distinguished within the honorees were several Compass Lexecon and FTI Consulting experts awarded the title of Global Elite Thought Leaders, a distinction granted to the top 5% of practitioners on the Lexology Index. Esteemed figures such as B. Douglas Bernheim, Dennis Carlton, and Elena Zoido are among this elite group, demonstrating the firm's profound expertise and leadership in competition economics.</p><p>The Lexology Index: Competition 2025 serves as a benchmark for excellence in competition economics, recognizing professionals who exhibit outstanding skill and leadership. The significant representation of Compass Lexecon professionals on this list underscores the firm's dominance and authoritative stance in the sector. The global diversity of the recognized professionals, hailing from cities like Chicago to Beijing, further attests to the firm's extensive reach and inclusive expertise.</p><p>This recognition by Lexology is a continuation of Compass Lexecon's legacy as a frontrunner in antitrust economics, a position it has held for 18 years, as noted by the Global Competition Review. With a workforce of over 700 professionals spread across 25 offices worldwide, Compass Lexecon remains at the forefront of providing insightful economic analysis and consulting services on an international scale. For more information about Compass Lexecon, visit <a href='https://www.compasslexecon.com' rel='nofollow' target='_blank'>https://www.compasslexecon.com</a>. Details about FTI Consulting can be found at <a href='https://www.fticonsulting.com' rel='nofollow' target='_blank'>https://www.fticonsulting.com</a>.</p>

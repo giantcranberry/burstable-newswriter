@@ -1,0 +1,15 @@
++++
+title = "Barrio Energy Expands Texas Footprint with New Data Center Developments"
+date = "2025-08-13T18:10:45Z"
+draft = false
+summary = "Barrio Energy announces two new 10MW data center developments in Matagorda County, Texas, aimed at meeting the growing demand for modular data centers and advanced computing operations."
+description = "Barrio Energy announces two new 10MW data center sites in Matagorda County, TX, enhancing Texas's capacity for high-performance computing and crypto mining."
+source_link = "https://www.citybiz.co/article/731274/barrio-energy-announces-two-new-10mw-data-center-developments-in-matagorda-county-tx/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/213e04970fff3c38630676935f76abfb.jpg"
+article_id = 156992
+feed_item_id = 18696
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/yawngu6Y.webp"
+source = "citybiz"
++++
+
+<p>Barrio Energy has announced plans for two new 10MW data center developments in Matagorda County, Texas, marking a significant expansion of its energy infrastructure portfolio. These developments, located in the ERCOT South Zone, are designed to cater to the increasing demand for modular data centers, cryptocurrency mining, and advanced computing operations, with each site confirmed to have up to 10MW of power available.</p><p>The choice of the ERCOT South Zone for these developments is strategic, leveraging the area's abundant energy resources and transmission capabilities. This makes it an optimal location for next-generation computing needs. Ivan Pinney, CEO of Barrio Energy, emphasized how these projects align with the company's mission to provide scalable and efficient energy solutions. Beyond expanding Barrio Energy's operational footprint, these projects are expected to boost local economic growth through job creation and technological advancements.</p><p>With the first site slated to be operational by Q4 2025 and the second by Q1 2026, Barrio Energy is demonstrating its commitment to connecting energy providers with high-demand users. The developments will offer tenants the flexibility to oversee on-site maintenance, utilities, and improvements, facilitating seamless integration with Barrio Energy's power facilitation services. This move is part of Barrio Energy's wider strategy to foster innovation in fields like AI and blockchain by offering reliable, scalable, and sustainable energy solutions.</p><p>For more information on Barrio Energy's initiatives, visit <a href='https://www.barrioenergy.com' rel='nofollow' target='_blank'>https://www.barrioenergy.com</a>. This expansion not only strengthens Barrio Energy's portfolio but also plays a crucial role in building the digital economy's infrastructure, addressing the essential need for energy in high-performance computing environments.</p>

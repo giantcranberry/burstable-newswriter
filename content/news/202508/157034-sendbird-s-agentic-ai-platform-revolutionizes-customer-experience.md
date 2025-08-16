@@ -1,0 +1,15 @@
++++
+title = "Sendbird's Agentic AI Platform Revolutionizes Customer Experience"
+date = "2025-08-12T22:50:39Z"
+draft = false
+summary = "Sendbird is transforming customer interactions with its agentic AI platform, offering a unified solution that enhances efficiency, retention, and satisfaction for global brands."
+description = "Charles Studt joins Sendbird as CMO to drive AI-powered customer service innovation, blending human and AI interactions for global brands."
+source_link = "https://www.citybiz.co/article/730824/qa-with-charles-studt-chief-marketing-officer-at-sendbird/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/14db0f60962f818792805ee3949b1a71.png"
+article_id = 157034
+feed_item_id = 18628
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/pondup3z.webp"
+source = "citybiz"
++++
+
+<p>Sendbird, an AI customer experience platform, is redefining the landscape of customer interactions by integrating human-to-human and human-to-AI communications. Under the guidance of Charles Studt, Chief Marketing Officer with extensive experience in scaling high-growth companies, Sendbird is setting a new standard for personalized customer experiences. The platform's adoption by renowned brands like DoorDash, Match Group, and Yahoo Sports underscores its effectiveness in creating lasting customer engagements.</p><p>The cornerstone of Sendbird's innovation is its agentic AI platform, which eliminates the inefficiencies of outdated, siloed systems by offering a unified solution. This not only boosts customer satisfaction but also enhances operational efficiency and retention rates. Studt envisions a future where agentic AI supersedes static or rules-based logic in software, a transition he anticipates within the next five years. His focus is not merely on the application of AI but on harnessing its potential to generate real business value and elevate customer experience as a critical growth driver.</p><p>Studt's strategy for Sendbird involves clear messaging, adapting to cultural shifts in marketing, and the smart deployment of AI. He advocates for agility, continuous experimentation, and preserving a human touch in marketing initiatives. By concentrating on the tangible problems Sendbird addresses and the value it provides, Studt is steering the company towards leadership in the agentic AI domain. For further details on Sendbird's pioneering solutions, visit <a href='https://www.sendbird.com' rel='nofollow' target='_blank'>https://www.sendbird.com</a>.</p><p>The emergence of agentic AI marks a pivotal development in the tech industry, with Sendbird at the vanguard. Studt's leadership and forward-looking perspective highlight AI's capacity to tackle customer experience challenges while also making a significant impact on business performance. As the sector evolves, Sendbird's platform is expected to be instrumental in defining the future of customer service.</p>

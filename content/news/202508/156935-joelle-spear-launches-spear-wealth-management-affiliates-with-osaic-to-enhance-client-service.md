@@ -1,0 +1,15 @@
++++
+title = "Joelle Spear Launches Spear Wealth Management, Affiliates with Osaic to Enhance Client Service"
+date = "2025-08-14T17:35:50Z"
+draft = false
+summary = "Joelle Spear's launch of Spear Wealth Management and affiliation with Osaic, Inc. highlights a trend towards independence among financial advisors aiming to offer personalized client services."
+description = "Joelle Spear, CFP, launches Spear Wealth Management with Osaic, Inc., joining a trend of advisors seeking independence to offer personalized financial advice."
+source_link = "https://www.citybiz.co/article/731843/massachusetts-based-advisor-joelle-spear-launches-independent-firm-with-osaic/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ac05ab1b0ee6e59f952b67dcda2bd8d3.jpg"
+article_id = 156935
+feed_item_id = 18790
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/14/cornlMNX.webp"
+source = "citybiz"
++++
+
+<p>Joelle Spear, a Certified Financial Planner with over two decades of experience, has embarked on a new chapter in her career by establishing Spear Wealth Management, an independent firm located in Framingham, Massachusetts. With approximately $170 million in assets under administration, the firm has aligned itself with Osaic, Inc., a prominent name in wealth management strategies. This partnership reflects a broader movement of financial advisors pursuing independence to deliver more tailored services to their clients.</p><p>The choice to affiliate with Osaic and join IFG, one of its offices of supervisory jurisdiction, was driven by Osaic's cutting-edge technology, comprehensive business resources, and a culture that emphasizes both client service and advisor independence. Osaic provides a adaptable framework that enables advisors such as Spear to concentrate on forging strong, personal bonds with their clients, particularly those undergoing significant life changes like retirement, divorce, or bereavement.</p><p>Spear's move to independence underscores her dedication to offering bespoke financial planning designed to meet her clients' individual needs. Her firm is part of a rising number of independent practices partnering with Osaic, including notable names like PATH Financial Partners, BlueHaven Wealth Management, and Innovative Wealth, showcasing Osaic's attractiveness to advisors who value both scalability and support.</p><p>Kristen Kimmell, Osaic's executive vice president of business development, commended Spear for her commitment to building impactful client relationships and shared enthusiasm for backing her vision for Spear Wealth Management. This collaboration not only serves Spear and her clientele but also solidifies Osaic's role as a frontrunner in enabling financial advisors to realize their professional aspirations while helping clients achieve their financial objectives.</p>

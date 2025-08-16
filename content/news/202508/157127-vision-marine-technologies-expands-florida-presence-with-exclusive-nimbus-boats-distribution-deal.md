@@ -1,0 +1,15 @@
++++
+title = "Vision Marine Technologies Expands Florida Presence with Exclusive Nimbus Boats Distribution Deal"
+date = "2025-08-14T18:05:44Z"
+draft = false
+summary = "Vision Marine Technologies Inc. secures exclusive distribution rights for Nimbus Boats USA on Florida's West Coast, marking a significant expansion in the lucrative boating market and reinforcing its commitment to sustainable marine propulsion solutions."
+description = "Vision Marine Technologies partners with Nimbus Boats USA to exclusively distribute powerboats in Florida, expanding its eco-friendly and high-performance boating solutions."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-vision-marine-technologies-inc-nasdaq-vmar-signs-loi-for-exclusive-nimbus-boats-distribution-on-floridas-west-coast/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/14/9646b6d35e959d39f60c88a52edf2f93.png"
+article_id = 157127
+feed_item_id = 18798
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/14/fondBLw2.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Vision Marine Technologies Inc. (NASDAQ: VMAR), a leader in electric marine propulsion, has announced a strategic expansion into Florida's boating market through a Letter of Intent (LOI) with Nimbus Boats USA. This agreement grants Vision Marine's subsidiary, Nautical Ventures, exclusive distribution rights for Nimbus's Tender, Commuter, Weekender, and Coupe series on Florida's West Coast, effective August 1, 2025, with the deal expected to be finalized by March 31, 2026.</p><p>Florida, recognized as the largest U.S. market for new powerboats, engines, and accessories with $6.4 billion in sales in 2023, presents a significant opportunity for Vision Marine. This partnership is a pivotal step in the company's strategy to diversify its product offerings and solidify its market presence following its acquisition of Nautical Ventures in June 2025. This acquisition established Vision Marine as North America's premier electric boat propulsion and multi-brand retail entity.</p><p>The collaboration with Nimbus Boats USA is poised to meet the growing demand for adventure-style boats, a segment experiencing rapid expansion. By integrating Nimbus's premium powerboats into its portfolio, Vision Marine is not only broadening its range of products but also offering customers a comprehensive selection from traditional internal combustion engine boats to cutting-edge electric propulsion systems. For more information on Vision Marine Technologies Inc. and its innovative marine propulsion systems, visit <a href='https://ibn.fm/VMAR' rel='nofollow' target='_blank'>https://ibn.fm/VMAR</a>.</p><p>This initiative reflects Vision Marine's ambition to spearhead the marine industry's shift towards sustainable, high-performance boating solutions, aligning with the changing preferences of recreational boaters. The deal underscores the company's commitment to innovation and sustainability in the marine sector, promising to enhance the boating experience while contributing to environmental conservation.</p>

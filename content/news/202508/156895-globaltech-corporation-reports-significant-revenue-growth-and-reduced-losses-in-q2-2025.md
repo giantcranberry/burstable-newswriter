@@ -1,0 +1,15 @@
++++
+title = "GlobalTech Corporation Reports Significant Revenue Growth and Reduced Losses in Q2 2025"
+date = "2025-08-15T16:56:01Z"
+draft = false
+summary = "GlobalTech Corporation's Q2 2025 financial results highlight a 23.3% revenue increase and narrowed net losses, underscoring its growing influence in the AI and telecom sectors."
+description = "GlobalTech Corporation reports a 23.3% revenue increase in Q2 2025, driven by AI and big data solutions, showcasing growth and narrowing losses."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-globaltech-corporation-otcid-gtlk-posts-23-revenue-growth-in-q2-2025-on-strong-telecom-performance/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/15/d261b4feb1c374880c55126183542fc9.png"
+article_id = 156895
+feed_item_id = 18879
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/15/archvK72.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>GlobalTech Corporation (OTCID: GTLK), a frontrunner in artificial intelligence and big data solutions, has unveiled its financial outcomes for the second quarter of 2025, marking a substantial 23.3% rise in revenue to $5.63 million, up from $4.56 million in the corresponding quarter of the previous year. This remarkable growth is largely attributed to a 39% year-over-year increase in international termination minutes, signaling the company's strong foothold in the telecommunications industry.</p><p>The company also reported a reduction in its net loss, which stood at $1.12 million, or $0.008 per share, an improvement from $1.23 million, or $0.009 per share, in the prior-year quarter. The adjusted EBITDA loss also saw a decline, dropping to $1.84 million from $2.45 million, a testament to the company's enhanced operational efficiencies and lower finance costs. However, the loss from operations experienced a slight uptick to $0.96 million from $0.92 million in Q2 2024, while the non-GAAP loss from operations remained unchanged at $0.69 million.</p><p>Ending the quarter with $3.38 million in cash and equivalents, including $2.67 million in restricted cash, GlobalTech's financial health appears robust. Dan Green, the CEO of GlobalTech, pointed to the solid performance of the company's LDI, broadband, and technology services divisions, along with continuous initiatives to broaden the network and enhance AI and big data services. For a deeper dive into GlobalTech's financial achievements, visit <a href='https://ibn.fm/hWalJ' rel='nofollow' target='_blank'>https://ibn.fm/hWalJ</a>.</p><p>This financial update not only reflects GlobalTech's strategic emphasis on harnessing advanced technologies to foster growth and operational efficiency but also its potential to maintain momentum in the fiercely competitive technology sector. The company's ability to markedly decrease its losses while simultaneously expanding its revenue base is indicative of its promising trajectory towards sustained growth and innovation.</p>

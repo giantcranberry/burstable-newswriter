@@ -1,0 +1,15 @@
++++
+title = "DoorDash and Ace Pickleball Club Forge Multi-Year Partnership to Enhance Member Experience"
+date = "2025-08-15T16:56:10Z"
+draft = false
+summary = "DoorDash and Ace Pickleball Club's partnership introduces exclusive delivery services to pickleball players, merging convenience with sports lifestyle."
+description = "DoorDash and Ace Pickleball Club announce a multi-year partnership to bring on-demand convenience to club members nationwide, enhancing the pickleball experience."
+source_link = "https://www.citybiz.co/article/732473/doordash-and-ace-pickleball-club-announce-multi-year-partnership-to-bring-on-demand-convenience-to-club-members-nationwide/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/a789e4a6061552f522c878a0825c0a24.png"
+article_id = 156893
+feed_item_id = 18880
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/15/daveh7kE.webp"
+source = "citybiz"
++++
+
+<p>DoorDash has announced a multi-year partnership with Ace Pickleball Club (APC), marking a significant step towards integrating on-demand delivery services into the sports and recreation sector. This collaboration designates DoorDash as the Official On-Demand Delivery & Pickup Platform of Ace Pickleball Club, offering members unparalleled convenience by delivering groceries, sporting equipment, and other essentials directly to the courts.</p><p>Members of APC will benefit from exclusive discounts on eligible orders delivered to their local club, with each location featuring a designated DoorDash Delivery Zone. This initiative is tailored to minimize logistical distractions, allowing members to concentrate on their game. The partnership extends beyond daily conveniences, with DoorDash also serving as an Official Multi-Year Sponsor of the Ace Pickleball Club Championship Series, including the APC National Championship, which boasts a $250,000 prize pool.</p><p>Ariel Gambardella, Head of Brand Partnerships at DoorDash, highlighted the synergy between the two brands, stating, <a href='https://www.doordash.com' rel='nofollow' target='_blank'>DoorDash</a> and APC share a commitment to community and convenience, aiming to enrich the pickleball experience both on and off the court. Jay Diederich, CEO of Ace Pickleball Club, echoed this sentiment, emphasizing the partnership's role in fulfilling APC's mission to deliver an exceptional member experience by leveraging DoorDash's extensive delivery network.</p><p>With Ace Pickleball Club planning to expand to over 35 clubs in 21 states by early 2026, this partnership not only caters to the current needs of pickleball enthusiasts but also anticipates the growing demand for services that support an active lifestyle. The collaboration between DoorDash and APC underscores the rising popularity of pickleball and the increasing expectation for convenience in every aspect of life, including sports and recreation.</p>

@@ -1,0 +1,15 @@
++++
+title = "SKYX Platforms Corp. Reports Record Q2 Revenue and Expands Smart Home Market Reach"
+date = "2025-08-13T15:50:25Z"
+draft = false
+summary = "SKYX Platforms Corp. announces a record second-quarter revenue of $23.1 million for 2025, alongside strategic partnerships and product launches, signaling strong growth in the smart home technology sector."
+description = "SKYX Platforms announces record Q2 revenue and strategic expansions in smart home technology, signaling growth in the sector. Learn more about their innovations."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-skyx-platforms-corp-nasdaq-skyx-posts-record-q2-revenue-expands-smart-home-deployments-in-major-u-s-and-global-projects/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/13/25a4732302d61545ccc152cb1efdc61a.png"
+article_id = 157193
+feed_item_id = 18676
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/13/cornRO82.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SKYX Platforms Corp. (NASDAQ: SKYX) has announced a record second-quarter revenue of $23.1 million for 2025, showcasing a significant increase from the $20.1 million reported in the first quarter. This financial achievement is highlighted by a 23% sequential rise in gross profit to $7 million, with gross margins improving to 30.3%. The company also reported a 54% reduction in net cash used in operating activities, which decreased to $2 million, leaving SKYX with $15.7 million in cash and equivalents by the end of the quarter.</p><p>Among the key developments, SKYX Platforms has entered into a collaboration with a $3 billion mixed-use smart city project in Miami's Little River District. This partnership involves the delivery of over 500,000 units of SKYX's smart plug & play products, demonstrating the company's expanding footprint in the smart home industry. Furthermore, SKYX is gearing up to introduce its patented all-in-one smart turbo heater and ceiling fan, adding to its diverse product portfolio.</p><p>The company has also strengthened its market position through new sales and marketing agreements with global ceiling fan manufacturer Parrot Uncle and expanded collaborations with leading retailers and brands, including <a href='https://www.homedepot.com/' rel='nofollow' target='_blank'>Home Depot</a>, <a href='https://www.wayfair.com/' rel='nofollow' target='_blank'>Wayfair</a>, Kichler, EGLO, and Ruee. These partnerships are anticipated to enhance SKYX's market penetration and drive further growth.</p><p>Looking forward, SKYX Platforms is set to undertake additional deployments with Cavco Homes, Forte Developments, Jeremiah Baron Companies, and JIT Electrical Supply. These initiatives are bolstered by a $15 million financing round led by The Shaner Group and key insiders, reflecting strong confidence in SKYX's business model and future growth. For more details on SKYX Platforms Corp. and its innovative solutions, visit <a href='https://skyplug.com/' rel='nofollow' target='_blank'>https://skyplug.com/</a>.</p>

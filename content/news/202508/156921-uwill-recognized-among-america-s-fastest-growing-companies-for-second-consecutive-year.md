@@ -1,0 +1,15 @@
++++
+title = "Uwill Recognized Among America's Fastest-Growing Companies for Second Consecutive Year"
+date = "2025-08-15T02:05:49Z"
+draft = false
+summary = "Uwill's inclusion in the Inc. 5000 list highlights its rapid growth and innovative approach to addressing student mental health needs across over 500 schools and colleges worldwide."
+description = "Uwill ranks #79 on Inc. 5000, showcasing its rapid growth and impact in student mental health. Discover how it's transforming wellness in education."
+source_link = "https://www.citybiz.co/article/732281/uwill-ranks-79-on-inc-5000/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3224e21dabdc88888e2d86c26441b567.jpg"
+article_id = 156921
+feed_item_id = 18834
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/15/cakeDMYs.webp"
+source = "citybiz"
++++
+
+<p>Uwill, a leader in student mental health and wellness solutions, has achieved the notable rank of #79 on the Inc. 5000 list, securing its position in the top 100 for the second year running. This accolade not only celebrates the company's exponential growth but also its pivotal role in providing mental health support to over 4 million students globally. Since its inception in 2020, Uwill has revolutionized access to mental health care through its proprietary technology platform, which connects students with licensed counselors tailored to their preferences, offering immediate appointments and a range of teletherapy services.</p><p>The platform's comprehensive services, including 24/7 crisis support, on-demand medical care, and wellness programming, have set a new benchmark for student well-being support in educational institutions. Michael London, Uwill's founder and CEO, reiterates the company's commitment to delivering immediate and effective mental health support to students, a mission that has never been more critical in today's fast-paced environment. The recognition by Inc. 5000 comes as Uwill doubles its reach following its Series A funding in 2023, now extending its services to 500 educational institutions worldwide, underscoring the escalating demand for innovative mental health solutions in the education sector.</p><p>The Inc. 5000 list is renowned for identifying the most successful and rapidly growing private companies in the U.S., with past honorees including industry giants like Microsoft, Meta, and Under Armour. Uwill's inclusion in this prestigious list not only reflects its substantial impact on improving mental health access but also signals its potential for future growth and innovation in the field. For further details on the Inc. 5000 list, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>https://www.inc.com/inc5000</a>. To explore Uwill's offerings, visit <a href='https://uwill.com' rel='nofollow' target='_blank'>https://uwill.com</a>.</p>

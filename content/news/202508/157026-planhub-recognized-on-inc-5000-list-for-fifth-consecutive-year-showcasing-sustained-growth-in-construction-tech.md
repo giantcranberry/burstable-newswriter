@@ -1,0 +1,15 @@
++++
+title = "PlanHub Recognized on Inc. 5000 List for Fifth Consecutive Year, Showcasing Sustained Growth in Construction Tech"
+date = "2025-08-13T13:20:31Z"
+draft = false
+summary = "PlanHub's fifth consecutive year on the Inc. 5000 list underscores its rapid and sustained growth in the construction technology sector, highlighting the increasing demand for digital preconstruction solutions."
+description = "PlanHub makes Inc. 5000 list for fifth year, showcasing its growth and innovation in construction technology. Learn how it's transforming the industry."
+source_link = "https://www.citybiz.co/article/730969/planhub-earns-spot-on-inc-5000-for-fifth-consecutive-year-defying-growth-odds-among-americas-fastest-growing-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/fc94dd368c02bcffa06d39988b0af7cd.jpg"
+article_id = 157026
+feed_item_id = 18651
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/sage2RLk.webp"
+source = "citybiz"
++++
+
+<p>PlanHub, a premier cloud-based preconstruction platform, has once again secured its place on the Inc. 5000 list, marking its fifth consecutive year of recognition with a rank of No. 1786 for 2025. This achievement not only underscores PlanHub's rapid growth but also its ability to maintain momentum in a competitive landscape, showcasing the scalability of its business model and the industry's growing reliance on digital preconstruction solutions.</p><p>Further solidifying its standing in the construction technology sector, PlanHub has been ranked #83 in the Miami–Fort Lauderdale, FL metro area, #108 in the Construction category, and #180 in the State of Florida. These accolades highlight the company's significant impact on the commercial construction landscape, serving over 500,000 professionals with its comprehensive platform that streamlines bidding, enhances collaboration, and offers advanced takeoff and estimation tools.</p><p>Ro Bhatia, CEO of PlanHub, remarked on the significance of this milestone, noting the challenge of sustaining growth as companies scale. The Inc. 5000 list, a prestigious annual ranking by Inc. magazine, celebrates the fastest-growing private companies in the U.S., making PlanHub's repeated inclusion a testament to its innovation and value to the construction industry. As digital transformation and AI continue to reshape the sector, PlanHub remains at the forefront, empowering professionals to execute projects more efficiently and collaboratively.</p><p>For those interested in exploring how PlanHub is contributing to the future of commercial construction, more information can be found at <a href='https://www.planhub.com' rel='nofollow' target='_blank'>https://www.planhub.com</a>. The company's consistent performance and recognition serve as a benchmark for success in the rapidly evolving construction technology space.</p>

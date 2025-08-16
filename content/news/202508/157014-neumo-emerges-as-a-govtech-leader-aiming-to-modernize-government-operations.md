@@ -1,0 +1,15 @@
++++
+title = "Neumo Emerges as a GovTech Leader, Aiming to Modernize Government Operations"
+date = "2025-08-13T15:01:01Z"
+draft = false
+summary = "Arlington Capital Partners launches Neumo, a new entity designed to revolutionize government services through digital transformation, combining the strengths of Avenu Insights & Analytics, Intellectual Technology Inc., and GovOS."
+description = "Arlington Capital Partners forms Neumo, merging Avenu, ITI, and GovOS to modernize government services with cloud-based solutions, enhancing efficiency and service quality."
+source_link = "https://www.citybiz.co/article/731066/arlington-capital-partners-forms-neumo-a-leader-in-government-modernization/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/88edf182ee0d2f9327dde765356618ff.jpg"
+article_id = 157014
+feed_item_id = 18673
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/leanlRuL.webp"
+source = "citybiz"
++++
+
+<p>Arlington Capital Partners has unveiled Neumo, a pioneering entity set to transform the landscape of government operations through digital innovation. By integrating Avenu Insights & Analytics, Intellectual Technology Inc., and the recently acquired GovOS, Neumo is positioned to address the pressing challenges faced by local, state, and federal governments, including budgetary limitations, evolving workforce needs, and the demand for more accessible services.</p><p>Neumo's comprehensive cloud-based solutions are tailored to enhance efficiency, security, and service quality across various government sectors, including public administration, DMV, revenue compliance, justice, and integrated payments. Paul Colangelo, Neumo's CEO, highlights the unique opportunity to redefine service delivery, stating, <a href='https://neumo.com' rel='nofollow' target='_blank'>Neumo</a> is about creating new momentum in government operations, replacing outdated processes with integrated, efficient solutions.</p><p>With a client base spanning over 4,500 government entities across all 50 states, Neumo's influence is already significant, processing billions in payments and facilitating numerous interactions annually. This extensive reach, backed by a century of collective expertise, establishes Neumo as a trusted ally in the quest for government modernization.</p><p>Michael Lustbader of Arlington Capital Partners underscores the importance of digital technologies in addressing community needs, noting Neumo's role in bringing together a suite of complementary GovTech solutions. The firm's investment in Neumo reflects a strong belief in the power of innovative platforms to drive progress in the GovTech sector. For further details on Arlington Capital Partners' strategic investments, visit <a href='https://www.arlingtoncap.com' rel='nofollow' target='_blank'>Arlington Capital Partners</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "ALKEME Insurance Ranks No. 730 on the 2025 Inc. 5000 List Amidst Rapid Growth"
+date = "2025-08-13T16:00:39Z"
+draft = false
+summary = "ALKEME Insurance's inclusion in the 2025 Inc. 5000 list, with a 565% revenue growth over three years, underscores its innovative approach and rapid expansion in the insurance sector."
+description = "ALKEME Insurance debuts on 2025 Inc. 5000 with 565% growth, marking its transformative impact on the insurance industry. Discover their journey."
+source_link = "https://www.citybiz.co/article/731119/alkeme-insurance-ranks-no-730-on-the-2025-inc-5000-list-celebrating-massive-growth-and-national-recognition/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/4969a1b2370b11ca5f28430f8c5db545.jpg"
+article_id = 157183
+feed_item_id = 18680
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/urge5P3t.webp"
+source = "citybiz"
++++
+
+<p>ALKEME Insurance has been recognized on the 2025 Inc. 5000 list, securing the No. 730 spot among America's fastest-growing private companies. This achievement is a reflection of the company's remarkable 565% revenue growth over the past three years, highlighting its innovative strategies and dedication to customer service in the highly competitive insurance industry.</p><p>The Inc. 5000 list, a prestigious ranking by Inc. magazine, showcases the most dynamic and successful private companies in the United States. ALKEME's inclusion not only marks its rapid expansion but also its ability to challenge and disrupt traditional insurance models. Curtis Barton, CEO of ALKEME Insurance, credits this success to the team's hard work and the company's forward-looking approach to insurance distribution and enhancing client experiences.</p><p>Despite navigating through economic uncertainties and a fluctuating market, ALKEME has distinguished itself through resilience and ambition. The company's growth metrics are a testament to its unwavering commitment to excellence and innovation in client service. ALKEME's journey and strategic insights will be featured in the upcoming Fall issue of Inc. magazine, providing a deeper look into its path to success.</p><p>Further cementing its position in the industry, ALKEME has been ranked among the top 25 largest agencies in the U.S. by Insurance Journal and as the #3 fastest-growing broker by Business Insurance. Since its founding in 2020, ALKEME has significantly expanded its presence through more than 70 acquisitions, now operating in over 60 locations across 29 states. This expansion highlights ALKEME's transformative impact on the insurance landscape, propelled by a distinctive vision and effective operational strategies.</p><p>For additional details on ALKEME Insurance and its offerings, visit their official website at <a href='https://alkemeins.com' rel='nofollow' target='_blank'>https://alkemeins.com</a>. The full 2025 Inc. 5000 list is also accessible, featuring a wide array of companies that have demonstrated exceptional growth in the face of adversity.</p>

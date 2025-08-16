@@ -1,0 +1,15 @@
++++
+title = "Playboy Relocates Global Headquarters to RIVANI Miami Beach, Signaling a New Era for Corporate Environments"
+date = "2025-08-13T18:20:46Z"
+draft = false
+summary = "Playboy's move to RIVANI Miami Beach underscores a shift towards integrating luxury, wellness, and innovative design into corporate headquarters, potentially influencing future workplace standards."
+description = "Robert Rivani partners with Playboy to relocate its HQ to RIVANI Miami Beach, a $100M project redefining commercial spaces with luxury amenities."
+source_link = "https://www.citybiz.co/article/731296/playboy-to-relocate-global-headquarters-to-rivani-miami-beach/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/10208b405a105b75ef113c223a43b29f.png"
+article_id = 157179
+feed_item_id = 18699
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/yawnGbpj.webp"
+source = "citybiz"
++++
+
+<p>Playboy has announced its decision to relocate its global headquarters to RIVANI Miami Beach, a $100 million 'Class X' office redevelopment project by Robert Rivani. This strategic move not only marks a significant transition for Playboy but also aligns the brand with the luxurious and innovative ethos of RIVANI Miami Beach. The building, designed by the acclaimed Rockwell Group, aims to transform the traditional workplace by blending five-star hospitality, curated wellness, and cutting-edge design.</p><p>Robert Rivani, the visionary behind the project, shared his excitement about Playboy joining the RIVANI Miami Beach community. 'Having a globally recognized brand like Playboy choose RIVANI Miami Beach highlights the prestige and dynamic environment we are creating,' Rivani remarked. This announcement accompanies the rebranding of Rivani's company from Black Lion to RIVANI, symbolizing a dedication to pioneering spaces where hospitality, design, wellness, and service intersect.</p><p>RIVANI Miami Beach is envisioned as more than just an office space; it's a lifestyle destination offering a suite of premium amenities. These include a full-service concierge, valet, a world-class spa, fitness and wellness center, meditation room, Omakase restaurant, speakeasy, and private event venues. This development is a key part of Rivani's portfolio of high-profile South Florida properties, which also features Amara at Paraiso and the forthcoming GAIA. Rivani's influence in the hospitality and real estate sectors is further evidenced by recent transactions, such as the $28.2 million sale of Catch Miami Beach.</p><p>Playboy's relocation to RIVANI Miami Beach represents a forward-thinking approach to corporate environments, emphasizing wellness, luxury, and community. This decision may serve as a catalyst for other companies to reevaluate their office spaces, viewing them not merely as work locations but as reflections of their brand identity and values. For additional details on RIVANI Miami Beach, visit <a href='https://www.rivani.com' rel='nofollow' target='_blank'>https://www.rivani.com</a>.</p>

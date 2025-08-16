@@ -1,0 +1,15 @@
++++
+title = "Tropical Financial Credit Union Partners with Fort Lauderdale United FC to Promote Women's Sports and Financial Literacy"
+date = "2025-08-13T18:20:45Z"
+draft = false
+summary = "Tropical Financial Credit Union's partnership with Fort Lauderdale United FC underscores a shared commitment to community engagement, women's sports advancement, and financial education."
+description = "Tropical Financial Credit Union partners with Fort Lauderdale United FC, supporting women's soccer and community empowerment through financial education and engagement."
+source_link = "https://www.citybiz.co/article/731312/tropical-financial-credit-union-announces-partnership-with-fort-lauderdale-united-fcs-professional-womens-soccer-team/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/0c59c222a9d1bc92436b2270f2d29be7.jpg"
+article_id = 156988
+feed_item_id = 18697
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/dashAsXi.webp"
+source = "citybiz"
++++
+
+<p>Tropical Financial Credit Union (TFCU) has entered into a strategic partnership with Fort Lauderdale United FC (FTL UTD), marking a significant step towards supporting women's sports and financial literacy. This collaboration names TFCU as the 'Official Credit Union' of FTL UTD for the 2025/26 season, showcasing a joint dedication to community involvement and the growth of women's soccer.</p><p>The partnership is set to introduce a variety of fan engagement activities, including game-day events and community outreach programs, alongside specialized financial education initiatives for the team's players and staff. These programs are designed to strengthen the bond between TFCU and the soccer community while enhancing financial awareness among athletes. Additionally, TFCU will benefit from branding opportunities at Beyond Bancard Field, FTL UTD's home stadium located at Nova Southeastern University in Davie.</p><p>Rick Shaw, President and CEO of TFCU, highlighted the synergy between the credit union and FTL UTD, pointing to shared values of empowerment and collaboration. Tommy Smith, Chairman and Founder of FTL UTD, shared his excitement about the partnership, praising TFCU's deep-rooted commitment to the South Florida community and its emphasis on financial empowerment as pivotal to their alliance.</p><p>FTL UTD's debut season was notable for its achievements, including setting a league record for consecutive games with at least one goal and maintaining an impressive unbeaten run. This sponsorship marks TFCU's second venture into professional sports sponsorships, following its previous collaboration with the Florida Panthers. For further details on FTL UTD, visit <a href='https://www.ftlutd.com' rel='nofollow' target='_blank'>https://www.ftlutd.com</a>, and to explore TFCU's community efforts, visit <a href='https://www.tropicalfcu.com' rel='nofollow' target='_blank'>https://www.tropicalfcu.com</a>.</p>

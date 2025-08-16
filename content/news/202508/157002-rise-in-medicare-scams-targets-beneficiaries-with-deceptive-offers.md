@@ -1,0 +1,15 @@
++++
+title = "Rise in Medicare Scams Targets Beneficiaries with Deceptive Offers"
+date = "2025-08-13T16:30:43Z"
+draft = false
+summary = "Scammers are exploiting Medicare beneficiaries through fraudulent offers of free services, leading to unauthorized hospice care enrollments and billing fraud, highlighting the need for vigilance and awareness."
+description = "Seniors warned of Medicare scams offering free services. Learn how to protect your info and report fraud to safeguard your benefits and personal security."
+source_link = "https://www.citybiz.co/article/731142/public-service-announcement-watch-out-for-scammers-offering-free-services/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1863012b935967633f2b477932e58fe0.jpg"
+article_id = 157002
+feed_item_id = 18685
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/veilZh2T.webp"
+source = "citybiz"
++++
+
+<p>Scammers have intensified their efforts to defraud Medicare beneficiaries by luring them with offers of free services or gifts, a scheme aimed at fraudulently enrolling individuals in hospice care without their informed consent. These fraudulent activities are carried out through a variety of channels, including unsolicited texts, phone calls, emails, misleading advertisements, and even direct door-to-door solicitations. The scammers' promises often include free in-home services like cooking, cleaning, groceries, protein shakes, or medical equipment, in exchange for the beneficiary's Medicare number and signature.</p><p>This deceptive practice not only puts personal information at risk but also results in unauthorized enrollment in hospice care, enabling scammers to submit fraudulent claims to Medicare. The <a href="https://www.aaabroward.org" rel="nofollow" target="_blank">Area Agency on Aging of Broward County</a> has highlighted the critical need for beneficiaries to remain vigilant, advising against sharing Medicare details or signing any documents in exchange for free offers. It is essential for individuals to safeguard their Medicare card and number and to routinely check their Medicare statements for any unauthorized charges.</p><p>To effectively combat Medicare fraud, beneficiaries are urged to meticulously compare the services listed on their Medicare statements with their own records to verify accuracy. Gaining a clear understanding of how Medicare utilizes personal information and the specific coverage limitations of Medicare health and drug plans is also crucial. Suspected fraudulent activities can be reported by calling 1-800-MEDICARE (1-800-633-4227) or via the online reporting system. Additionally, those enrolled in a Medicare Advantage Plan or Medicare drug plan have the option to reach out to the Investigations Medicare Drug Integrity Contractor at 1-877-7SAFERX (1-877-772-3379).</p><p>The escalation in these scams underscores the imperative for heightened awareness and proactive measures to protect personal and Medicare information. By staying informed and exercising caution, individuals can significantly reduce their risk of becoming victims of these fraudulent schemes.</p>

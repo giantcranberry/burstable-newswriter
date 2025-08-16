@@ -1,0 +1,15 @@
++++
+title = "SSM Enhances Construction Safety at JFK's New Terminal One with Advanced Communication Towers"
+date = "2025-08-14T07:00:29Z"
+draft = false
+summary = "Safety Systems Management's installation of 25 mobile communications towers at JFK's New Terminal One revolutionizes construction site safety through advanced wireless emergency notification systems."
+description = "SSM installs advanced wireless emergency notification systems at JFK's New Terminal One, enhancing construction site safety with immediate alerts and mass messaging."
+source_link = "https://www.24-7pressrelease.com/press-release/525857/safety-systems-management-installs-advanced-emergency-notification-systems-at-the-new-terminal-one-at-jfk"
+enclosure = "https://cdn.newsramp.app/genai/images/258/14/71896988002b07284196b64aa74e0ace.png"
+article_id = 157156
+feed_item_id = 18739
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/14/takeltn2.webp"
+source = "24-7 Press Release"
++++
+
+<p>Safety Systems Management (SSM) has achieved a milestone in construction safety by installing 25 mobile communications towers at The New Terminal One at John F. Kennedy International Airport. This development is pivotal for the ongoing construction of the terminal's Phase A, which encompasses new arrivals and departures halls and the first 14 new gates, involving over 3,000 personnel. The towers facilitate seamless communication, a critical factor in maintaining safety and security on such a large-scale project.</p><p>The proprietary wireless emergency notification systems introduced by SSM represent a significant upgrade from traditional air horn alerts. These systems provide immediate audio/visual alerts and mass messaging capabilities, essential for responding to emergencies like fires, medical situations, and hazardous material spills, as well as disseminating daily safety messages. This innovation is the result of a collaboration between SSM and the Port Authority of New York and New Jersey, highlighting the role of advanced technology in enhancing worker safety in construction environments.</p><p>Central to this system is a base station located in the medical trailer, serving as the command center. It allows the site safety team to manage an LED sign board for real-time updates and utilize a dedicated emergency handset to broadcast urgent messages across all towers. Moreover, each tower features a pull pendant, enabling any worker to initiate an alert during emergencies, with safety personnel receiving instant notifications to evaluate and respond to the situation.</p><p>The New Terminal One at JFK is a key component of a $19-billion initiative to redefine airport terminals globally. The deployment of SSM's emergency notification systems is instrumental in this transformative project, ensuring adherence to the highest safety standards during construction. For further details on SSM's cutting-edge solutions, visit <a href='https://www.safetysystemsmanagement.com/' rel='nofollow' target='_blank'>https://www.safetysystemsmanagement.com/</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "FAVO Capital Expands Portfolio with $190 Million Acquisition of 1818 Park in Hollywood, Florida"
+date = "2025-08-13T15:50:26Z"
+draft = false
+summary = "FAVO Capital's acquisition of 1818 Park marks a strategic expansion into real estate, enhancing its financial stability and capacity to serve small and medium-sized businesses."
+description = "FAVO Capital completes $190M acquisition of 1818 Park, expanding into income-generating real estate and strengthening its financial portfolio for future growth."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-favo-capital-otc-favo-acquires-190-million-mixed-use-property-1818-park-in-all-stock-deal/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/13/0d98e84f2c488fb863f8e73ca7881d09.png"
+article_id = 157188
+feed_item_id = 18678
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/13/urgeIeSM.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>FAVO Capital (OTC: FAVO), a finance company specializing in alternative revenue-based funding for small and medium-sized businesses (SMBs), has made a significant leap into the real estate sector with the acquisition of 1818 Park, a Class-A mixed-use property in downtown Hollywood, Florida. The $190 million deal, structured as an all-stock transaction with the assumption of liabilities, not only diversifies FAVO's investment portfolio but also introduces a steady stream of income through the property's high-occupancy residential, office, and retail spaces, all secured by long-term leases.</p><p>This strategic acquisition is poised to strengthen FAVO Capital's balance sheet and expand its collateral base, enabling the company to support larger financing lines and further develop its private credit offerings. The move is in line with FAVO's long-term strategy of pursuing diversified investments to ensure sustainable growth and value creation for its shareholders. The transition of 1818 Park's former owners, led by GCF Development, into long-term equity partners is expected to ensure operational continuity and smooth integration into FAVO's portfolio.</p><p>1818 Park stands as a testament to FAVO Capital's commitment to enhancing its financial stability and expanding its ability to serve SMBs nationwide. Since its inception, FAVO has provided innovative funding solutions to over 10,000 businesses, and this acquisition further cements its market position. For more information on the acquisition, visit <a href='https://ibn.fm/vL8Yo' rel='nofollow' target='_blank'>https://ibn.fm/vL8Yo</a>.</p><p>The acquisition underscores FAVO Capital's dedication to financial transparency and sustainable growth. By incorporating income-producing real estate into its portfolio, FAVO not only bolsters its asset base but also lays a solid foundation for future expansion. With its headquarters in Fort Lauderdale, FL, and operations in New York and the Dominican Republic, FAVO is well-positioned to leverage this new asset and continue its path of growth and innovation in the financial sector.</p>

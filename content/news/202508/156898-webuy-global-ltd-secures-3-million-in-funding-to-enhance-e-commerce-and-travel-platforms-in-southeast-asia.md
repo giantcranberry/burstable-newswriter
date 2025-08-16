@@ -1,0 +1,15 @@
++++
+title = "WEBUY GLOBAL LTD Secures $3 Million in Funding to Enhance E-commerce and Travel Platforms in Southeast Asia"
+date = "2025-08-15T14:45:30Z"
+draft = false
+summary = "WEBUY GLOBAL LTD's recent financial boost aims to advance its technology-driven platforms, reinforcing its position in Southeast Asia's e-commerce and travel sectors through innovative AI solutions."
+description = "WEBUY GLOBAL raises $3M to revolutionize Southeast Asia's e-commerce and travel sectors with AI-driven solutions. Discover how this impacts the future of digital services."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-webuy-global-ltd-nasdaq-wbuy-closes-3-million-offering-of-shares-and-pre-funded-warrants/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/15/5f388e9ee875d1c3f8ace0b36e17e533.png"
+article_id = 156898
+feed_item_id = 18870
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/15/urgepgb6.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>WEBUY GLOBAL LTD (NASDAQ: WBUY), a leader in Southeast Asia's e-commerce and travel industries, has successfully closed a funding round, raising approximately $3 million. This capital was generated through the offering of 721,918 Class A ordinary shares and pre-funded warrants, with an option for an additional 100,000 Class A ordinary shares. The funds are designated for the enhancement of the company's technology platforms, which are pivotal in serving the community e-commerce and travel markets across Southeast Asia.</p><p>The transaction was facilitated by D. Boral Capital LLC as the exclusive placement agent, with legal counsel provided by Ortoli Rosenstadt LLP for WEBUY GLOBAL LTD, and Hunter Taubman Fischer & Li LLC representing the placement agent. This financial injection is set to support the company's unique group-buy model, which utilizes predictive AI and personalized recommendations to improve user engagement and satisfaction.</p><p>WEBUY GLOBAL LTD's innovative strategies include the development of a proprietary AI Travel Consultant, designed to offer travelers curated itineraries and real-time assistance. The company's dedication to providing affordable, high-quality products and services is aimed at enhancing the daily lives of millions in Southeast Asia. More information about WEBUY GLOBAL LTD's initiatives can be found at <a href='https://www.webuy.global/' rel='nofollow' target='_blank'>https://www.webuy.global/</a>.</p><p>This recent funding round highlights the increasing investor trust in WEBUY GLOBAL LTD's business model and its capacity to revolutionize community e-commerce and travel services in the region. By integrating technology with community-focused engagement, the company is establishing itself as a significant contributor to Southeast Asia's digital evolution.</p>

@@ -1,0 +1,15 @@
++++
+title = "Mission Critical Group Secures Spot on 2025 Inc. 5000 List with Remarkable Growth"
+date = "2025-08-14T17:45:46Z"
+draft = false
+summary = "Mission Critical Group's inclusion in the 2025 Inc. 5000 list highlights its rapid growth and significant impact on the critical power infrastructure sector, driven by strategic acquisitions and a focus on U.S.-based manufacturing."
+description = "Mission Critical Group secures No. 351 on 2025 Inc. 5000, showcasing 1,123% revenue growth and leadership in critical power infrastructure solutions."
+source_link = "https://www.citybiz.co/article/731841/mission-critical-group-named-to-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/437ee688bea6b2ed6ad1cbef4f71fa18.jpg"
+article_id = 157133
+feed_item_id = 18795
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/14/isleZtG0.webp"
+source = "citybiz"
++++
+
+<p>Mission Critical Group (MCG), a prominent player in the critical power infrastructure sector, has been recognized on the 2025 Inc. 5000 list, ranking No. 351 among America's fastest-growing private companies. This accolade follows an impressive 1,123% revenue growth over the past three years, showcasing MCG's rapid expansion and leadership in the industry. The company's growth trajectory is further emphasized by its expansion from fewer than 40 employees to over 1,000 and its manufacturing footprint exceeding one million square feet in the U.S.</p><p>Strategic acquisitions such as <a href="https://www.jts.com" rel="nofollow" target="_blank">JTS</a>, <a href="https://www.pointeightpower.com" rel="nofollow" target="_blank">Point Eight Power</a>, and <a href="https://www.dvmpower.com" rel="nofollow" target="_blank">DVM Power + Control</a> have been instrumental in MCG's success, positioning it as the 13th fastest-growing manufacturing company in the U.S. Jeff Drees, CEO of Mission Critical Group, credits this achievement to the team's dedication, customer trust, and the growing demand for resilient power infrastructure. Drees highlighted the company's strategy focusing on U.S.-based manufacturing and American-made solutions, alongside its commitment to employee ownership, as key factors in its growth.</p><p>The 2025 Inc. 5000 list not only recognizes companies for their exceptional growth but also their contribution to the U.S. economy, with the top 500 companies adding over 48,678 jobs. MCG's inclusion underscores its significant role in the power infrastructure sector and its impact on economic growth and innovation. Honorees, including MCG, will be celebrated at the <a href="https://www.inc.com/conference" rel="nofollow" target="_blank">2025 Inc. 5000 Conference & Gala</a> in Phoenix, Arizona, with the top 500 companies featured in the fall issue of Inc. Magazine. This recognition marks a pivotal moment in MCG's journey, reflecting its dedication to excellence and its vision for advancing critical power solutions.</p>

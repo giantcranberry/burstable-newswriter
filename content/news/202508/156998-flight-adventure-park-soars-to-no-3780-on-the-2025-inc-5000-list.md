@@ -1,0 +1,15 @@
++++
+title = "Flight Adventure Park Soars to No. 3,780 on the 2025 Inc. 5000 List"
+date = "2025-08-13T16:50:39Z"
+draft = false
+summary = "Flight Adventure Park's ranking on the 2025 Inc. 5000 list highlights its rapid growth and unique position in the family entertainment sector, signaling strong economic contributions and job creation."
+description = "Flight Adventure Park ranks No. 3,780 on the 2025 Inc. 5000 list, highlighting its growth and impact in the entertainment sector. Discover more about this achievement."
+source_link = "https://www.citybiz.co/article/731173/flight-adventure-park-ranks-no-3780-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/2b14fc0337213a0340a59d2e55d1ee94.jpg"
+article_id = 156998
+feed_item_id = 18687
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/mildtLJi.webp"
+source = "citybiz"
++++
+
+<p>Flight Adventure Park has achieved a notable milestone by securing the No. 3,780 spot on the 2025 Inc. 5000 list, a prestigious ranking that showcases America's fastest-growing private companies. This achievement not only reflects the company's impressive growth but also its distinctive status as the sole family entertainment center listed in the Travel & Hospitality category. Steven L. Yeffa, CEO of Flight Adventure Park, shared his pride in this recognition, crediting the team's hard work and the exceptional experiences provided to guests.</p><p>The Inc. 5000 list serves as a barometer for the resilience and innovation of private enterprises in the U.S., particularly in challenging economic times marked by inflation and labor market volatility. Flight Adventure Park's inclusion is a testament to its financial health and its role in bolstering the economy through job creation. The company is part of a select group of top 500 businesses on the list that have collectively contributed over 48,678 jobs to the U.S. economy in the last three years.</p><p>Specializing in space and aviation-themed indoor adventure parks, Flight Adventure Park offers a variety of activities including trampolines, lunar courses, and climbing structures. With a presence in eight U.S. states and five Canadian locations, the company is dedicated to delivering unforgettable experiences that blend adventure, fitness, and entertainment. More details about the Inc. 5000 list and Flight Adventure Park's accomplishments can be found at <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>https://www.inc.com/inc5000</a>.</p><p>The 2025 Inc. 5000 Conference & Gala, set to take place in Phoenix from October 22–24, will honor Flight Adventure Park and other list members. This event, alongside the Fall issue of Inc. magazine, aims to spotlight the successes of these rapidly expanding companies. Flight Adventure Park's recognition on the Inc. 5000 list underscores its achievements and future growth prospects in the competitive family entertainment industry.</p>

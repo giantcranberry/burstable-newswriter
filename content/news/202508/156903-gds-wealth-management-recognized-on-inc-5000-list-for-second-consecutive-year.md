@@ -1,0 +1,15 @@
++++
+title = "GDS Wealth Management Recognized on Inc. 5000 List for Second Consecutive Year"
+date = "2025-08-15T13:55:55Z"
+draft = false
+summary = "GDS Wealth Management's inclusion in the Inc. 5000 list for the second year highlights its growth and commitment to personalized financial advisory services."
+description = "GDS Wealth Management named to Inc. 5000 list for second year, highlighting its growth and commitment to excellence in financial advisory services."
+source_link = "https://www.citybiz.co/article/732343/gds-wealth-management-named-to-inc-5000-list-for-second-consecutive-year/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d084db76697f3a4501f5c2a9dce49a1f.jpg"
+article_id = 156903
+feed_item_id = 18867
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/15/dualDjNA.webp"
+source = "citybiz"
++++
+
+<p>GDS Wealth Management has achieved a notable milestone by being named to the Inc. 5000 list of the fastest-growing private companies in the U.S. for the second consecutive year. This recognition not only underscores the firm's dedication to excellence and client satisfaction but also highlights its ability to deliver tailored financial advisory services that meet the unique needs of individuals and families nationwide.</p><p>The Inc. 5000 list, a prestigious compilation by Inc. Magazine, serves as a benchmark for entrepreneurial success, celebrating companies that have shown remarkable growth and innovation. GDS Wealth Management's repeated inclusion on this list is a clear indicator of its sustained growth and the effectiveness of its comprehensive wealth management approach. This approach integrates investment strategy, estate planning, tax optimization, and legacy building, all tailored to align with each client's personal objectives and values.</p><p>Glen D. Smith, the founder, CEO, and CIO of GDS Wealth Management, highlighted the firm's mission to transform the 90,000 hours the average person works in their lifetime into outcomes that offer more than financial security. According to Smith, these hours should lead to fulfillment, freedom, and peace of mind. The firm's recognition on the Inc. 5000 list is a testament to the dedication and hard work of its team of advisers, who are committed to delivering personalized, goal-oriented guidance to their clients.</p><p>For those interested in exploring the Inc. 5000 ranking methodology or viewing the full list of honored companies, including detailed profiles, visit <a href='https://www.inc.com' rel='nofollow' target='_blank'>https://www.inc.com</a>. GDS Wealth Management's consistent growth and recognition on the Inc. 5000 list affirm its status as a premier financial advisory firm, dedicated to assisting clients in achieving their financial aspirations and enhancing their quality of life.</p>

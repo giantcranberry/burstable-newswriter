@@ -1,0 +1,15 @@
++++
+title = "Forian Inc. Reports Significant Growth in Q2 2025 Financial Results"
+date = "2025-08-13T20:20:09Z"
+draft = false
+summary = "Forian Inc. showcases remarkable financial growth in Q2 2025, with a 56% revenue increase and improved net income, highlighting its strategic advancements in the healthcare and life sciences sectors."
+description = "Forian Inc. announces a 56% revenue growth in Q2 2025, showcasing strong performance and strategic growth in healthcare analytics."
+source_link = "https://www.newmediawire.com/news/forian-inc-announces-second-quarter-2025-financial-results-7081901"
+enclosure = "https://cdn.newsramp.app/genai/images/258/13/250a014934601920983aa410135a80b2.png"
+article_id = 156982
+feed_item_id = 18710
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/13/ninal3_n.webp"
+source = "NewMediaWire"
++++
+
+<p>Forian Inc., a prominent player in data science-driven information and analytics solutions, has unveiled its financial outcomes for the second quarter of 2025, revealing notable growth and operational efficiency. The company's revenue soared to $7.5 million, a 56% jump from the $4.8 million reported in the corresponding quarter of the previous year. This surge is credited to strategic contract renewals, the onboarding of new clients, and the enhancement of core capabilities.</p><p>The financial health of Forian Inc. further improved with a net income of $0.2 million, or $0.01 per share, a significant turnaround from a net loss of $2.6 million, or $0.08 per share, in the prior year. Adjusted EBITDA also witnessed a remarkable rise to $0.6 million, up from $0.1 million the previous year, highlighting the company's increased profitability and margin expansion. With cash, cash equivalents, and marketable securities totaling $35.6 million as of June 30, 2025, Forian is well-positioned for future investments and expansion.</p><p>Max Wygod, CEO and Executive Chairman of Forian, reiterated the company's dedication to fostering organic growth and making strategic investments to bolster its platform and enhance value across the healthcare ecosystem. Forian has reaffirmed its full-year 2025 outlook, projecting revenues between $28 to $30 million and Adjusted EBITDA ranging from ($1.0) to $1.0 million.</p><p>The second quarter results of 2025 underscore Forian's adeptness at utilizing data science and analytics to propel operational and financial enhancements. By focusing on business development, capability expansion, and generating positive momentum in its markets, Forian has cemented its status as a pivotal entity in the healthcare and life sciences industries. For further details on Forian's financial results and to access the conference call discussing these outcomes, visit <a href='https://www.forian.com/investors' rel='nofollow' target='_blank'>https://www.forian.com/investors</a>.</p>

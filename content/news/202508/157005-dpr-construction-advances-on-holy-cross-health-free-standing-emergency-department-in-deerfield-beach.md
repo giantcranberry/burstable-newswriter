@@ -1,0 +1,15 @@
++++
+title = "DPR Construction Advances on Holy Cross Health Free-Standing Emergency Department in Deerfield Beach"
+date = "2025-08-13T16:10:45Z"
+draft = false
+summary = "DPR Construction's South Florida Business Unit is making significant progress on the Holy Cross Health Free-Standing Emergency Department in Deerfield Beach, overcoming structural challenges to stay on schedule for a spring opening next year."
+description = "DPR Construction completes exterior work on Holy Cross Health's new emergency department in Deerfield Beach, set to open next spring, offering 24/7 emergency services."
+source_link = "https://www.citybiz.co/article/731035/dpr-construction-begins-interior-work-of-holy-cross-emergency-department-in-deerfield-beach/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cf9148457d059aa8ee32e50d3747b9d2.jpg"
+article_id = 157005
+feed_item_id = 18682
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/yarnl8kz.webp"
+source = "citybiz"
++++
+
+<p>The South Florida Business Unit of DPR Construction is nearing completion of the Holy Cross Health Free-Standing Emergency Department (FSED) in Deerfield Beach, transitioning from exterior work to interior construction. The 25,000-square-foot facility, located at <a href='https://www.google.com/maps/place/340+S+Federal+Hwy,+Deerfield+Beach,+FL+33441' rel='nofollow' target='_blank'>340 S Federal Highway</a>, is set to open in the spring of next year. This milestone comes after overcoming significant structural challenges that necessitated the demolition of the former Orchard Supply Hardware building, with only a few steel columns and beams remaining.</p><p>Bala Purushothaman, DPR’s project manager, detailed the unforeseen structural issues, including tie beam problems and the absence of rebar in exterior walls, which led to the building's demolition. Despite these hurdles, the project remains on schedule and budget, a success Purushothaman attributes to the collaborative efforts of over 30 trade partners and an excellent safety record.</p><p>The Holy Cross FSED will offer comprehensive emergency services, featuring advanced diagnostic imaging such as X-rays, ultrasound, and CT scans, alongside a fully functional on-site laboratory. The facility will also include private treatment and exam rooms and a dedicated ambulance bay to ensure swift emergency responses. Taren O’Brien, MSN, R.N., Holy Cross Health Chief Nursing Officer, emphasized the FSED's goal to reduce patient wait times and provide 24/7 emergency services, improving healthcare accessibility for Deerfield Beach residents and nearby communities.</p><p>DPR Construction's commitment to enhancing South Florida's healthcare infrastructure is further evidenced by its work on two additional FSEDs for Memorial Healthcare Systems in Pembroke Pines and Miramar. These projects underscore DPR's role in ensuring communities have access to vital emergency services, marking a significant contribution to the region's healthcare landscape.</p>

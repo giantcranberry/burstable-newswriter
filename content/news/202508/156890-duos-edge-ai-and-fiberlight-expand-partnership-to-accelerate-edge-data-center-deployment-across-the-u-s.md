@@ -1,0 +1,15 @@
++++
+title = "Duos Edge AI and FiberLight Expand Partnership to Accelerate Edge Data Center Deployment Across the U.S."
+date = "2025-08-15T17:35:39Z"
+draft = false
+summary = "The expanded strategic partnership between Duos Edge AI and FiberLight aims to deploy modular, SOC 2 Type II compliant Edge Data Centers across underserved and high-growth markets in the U.S., enhancing access to next-generation infrastructure for various sectors."
+description = "Duos Edge AI and FiberLight expand partnership to deliver low-latency edge computing infrastructure, enhancing connectivity for education, healthcare, and enterprise applications."
+source_link = "https://www.citybiz.co/article/732494/duos-edge-ai-and-fiberlight-extend-strategic-partnership/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5389a2448cd5e5786a1df0c743b26af5.jpg"
+article_id = 156890
+feed_item_id = 18883
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/15/pondcX9j.webp"
+source = "citybiz"
++++
+
+<p>The strategic partnership between Duos Edge AI, a subsidiary of Duos Technologies Group, Inc., and FiberLight, LLC, has been expanded to accelerate the deployment of modular, SOC 2 Type II compliant Edge Data Centers (EDCs) across the United States. This collaboration is set to bring low-latency, localized compute infrastructure to underserved and high-growth markets, enhancing access to next-generation infrastructure for education, healthcare, enterprise, and AI-driven applications.</p><p>At the heart of this partnership is the combination of Duos Edge AI's rapidly deployable EDCs and FiberLight's expansive fiber network, which includes approximately 75 route miles of regional infrastructure in Corpus Christi and connects to more than 13,000 route miles across Texas. This network provides direct links to major markets such as San Antonio, Austin, Dallas, Houston, McAllen, Laredo, and El Paso, ensuring fast and reliable access to critical infrastructure.</p><p>The effectiveness of this partnership was recently demonstrated in Corpus Christi, where a collaborative effort led to the quick deployment of a new EDC just 30 feet from FiberLight's existing infrastructure. This project not only showcased the efficiency and cost-effectiveness of Duos Edge AI's solutions but also highlighted the potential for significant cost savings and minimized downtime for local customers.</p><p>With Duos Edge AI on track to contract 15 EDCs by the end of 2025, the expanded partnership with FiberLight is poised to play a pivotal role in joint planning around site selection, connectivity, and turnkey deployment in markets where infrastructure is most needed. This initiative represents a significant step forward in delivering scalable, high-performance solutions to communities across the U.S., driving innovation and economic development in both urban and rural areas. For more information on Duos Edge AI, visit <a href='https://www.duosedge.ai' rel='nofollow' target='_blank'>https://www.duosedge.ai</a>, and for details on FiberLight, visit <a href='https://www.fiberlight.com' rel='nofollow' target='_blank'>https://www.fiberlight.com</a>.</p>

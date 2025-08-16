@@ -1,0 +1,15 @@
++++
+title = "Twentytwo & Brand Secures Spot on Inc. 5000 List for Second Consecutive Year, Highlighting 298% Growth"
+date = "2025-08-13T14:30:44Z"
+draft = false
+summary = "Twentytwo & brand's recognition on the Inc. 5000 list for the second year in a row underscores its significant growth and leadership in cleantech marketing, offering insights into the burgeoning renewable energy sector."
+description = "Twentytwo & brand recognized on Inc. 5000 list for second year, showcasing 298% growth in cleantech marketing. Learn how they're shaping the future of renewable energy."
+source_link = "https://www.citybiz.co/article/731007/twentytwo-brand-named-to-inc-5000-for-second-straight-year-posting-298-growth-over-3-years/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1f5d42a6f3f0326ab82d125d1271b67a.jpg"
+article_id = 157018
+feed_item_id = 18664
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/smogKNKM.webp"
+source = "citybiz"
++++
+
+<p>Twentytwo & brand, a full-service cleantech marketing firm, has achieved a notable milestone by being named to the Inc. 5000 list of Fastest-Growing Companies for the second consecutive year, demonstrating a staggering 298% growth over three years. This accolade not only highlights the company's rapid expansion but also its influential role in the advertising, marketing, and PR industry, with a special focus on the cleantech and renewable energy sectors.</p><p>Ranked among the top 150 fastest-growing companies in Florida and within the advertising, marketing, and PR categories by Inc. Business Media, twentytwo & brand's success story is a testament to its strategic prowess. Nathan Rosenstein, Founder and CEO, shared his pride in the company's ability to adeptly navigate the clean energy sector's challenges, positioning itself as a crucial strategic partner for clients amidst policy changes and market dynamics.</p><p>Earlier this month, the firm was also celebrated as one of Orlando's 50 Fastest-Growing Private Companies of 2025 by the <a href='https://www.bizjournals.com/orlando/' rel='nofollow' target='_blank'>Orlando Business Journal</a>. With a portfolio that includes over 100 brands in cleantech and renewable energy, twentytwo & brand extends its expertise across various sectors, including smart grid, electric vehicles, zero-carbon chemicals, and biofuels.</p><p>Rosenstein elaborated on the agency's holistic marketing approach, which integrates PR, brand strategy, and creative services to elevate clients' market perception and brand equity. Further solidifying its commitment to the cleantech sector, twentytwo & brand is set to participate in RE+, North America's premier clean energy event, taking place this September in Las Vegas.</p><p>This back-to-back recognition on the Inc. 5000 list not only mirrors twentytwo & brand's sustained growth but also its substantial contributions to the cleantech industry, cementing its status as a premier marketing agency in the renewable energy domain.</p>

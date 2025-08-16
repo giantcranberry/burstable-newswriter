@@ -1,0 +1,15 @@
++++
+title = "Verdek Secures Spot on 2025 Inc. 5000 List, Highlighting Rapid Growth in EV Charging Infrastructure"
+date = "2025-08-15T02:05:50Z"
+draft = false
+summary = "Verdek's inclusion in the 2025 Inc. 5000 list underscores its rapid growth and significant contributions to the EV charging infrastructure sector, reflecting the company's impact on America's clean mobility future."
+description = "Verdek ranks No. 1,827 on the 2025 Inc. 5000 list, highlighting its rapid growth and leadership in EV charging infrastructure across the U.S."
+source_link = "https://www.citybiz.co/article/732274/verdek-ranks-no-1827-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/77f60c1ef2f76235e71b36244b268878.jpg"
+article_id = 156917
+feed_item_id = 18835
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/15/pink2Dpm.webp"
+source = "citybiz"
++++
+
+<p>Verdek, a leader in electric vehicle (EV) charging infrastructure and sustainable e-mobility solutions, has made its debut on the 2025 Inc. 5000 list, securing the 1,827th position. This prestigious ranking highlights Verdek as one of America's fastest-growing private companies, placing it among the top 2000 and ranking 22nd nationally in the EVSE Engineering category and 10th in Connecticut. The company's impressive 238% growth from 2021 to 2024 is a testament to its pivotal role in large-scale government and commercial projects aimed at transforming the nation's transportation infrastructure.</p><p>Key projects contributing to Verdek's growth include public charging deployments in New York City, a statewide procurement program for the California Department of General Services (DGS), and strategic initiatives for federal agencies such as NASA, IRS, US Army, US Navy, and US Customs and Border Protection. These endeavors not only showcase Verdek's technical expertise and commitment to future-ready solutions but also its ability to meet the critical infrastructure needs of the nation.</p><p>Guy Mannino, CEO of Verdek, shared his pride in the company's achievements, emphasizing the team's dedication and the company's resilience in navigating economic challenges like inflationary pressure and a fluctuating labor market. From its early days as an advocate for electric mobility in 2008 to becoming a turnkey EV infrastructure leader, Verdek has consistently demonstrated innovation and leadership. With over 12,000 chargers managed across the country, Verdek is at the forefront of powering America's clean mobility future.</p><p>For those interested in learning more about the Inc. 5000 list and the achievements of this year's honorees, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>www.inc.com/inc5000</a>. Verdek's story is a compelling example of how dedication and innovation can drive significant growth and contribute to the nation's infrastructure and environmental goals.</p>

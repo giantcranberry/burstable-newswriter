@@ -1,0 +1,15 @@
++++
+title = "Stout Management Company Expands Multifamily Portfolio in Las Vegas with Over 300 New Units"
+date = "2025-08-12T22:00:55Z"
+draft = false
+summary = "Stout Management Company enhances its presence in Southern Nevada by adding four properties to its multifamily management portfolio, emphasizing luxury and quality living experiences."
+description = "Stout Management Company expands its Las Vegas portfolio by over 300 units, managing luxury and community-focused apartments across four properties."
+source_link = "https://www.citybiz.co/article/730795/stout-management-company-tapped-to-manage-four-new-properties-in-nevada/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b5e3db2d73b7b59b3c9d97333c55c50c.jpg"
+article_id = 157210
+feed_item_id = 18625
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/knotn3FN.webp"
+source = "citybiz"
++++
+
+<p>Stout Management Company has recently expanded its multifamily management portfolio in Nevada by incorporating four new properties in Las Vegas, adding more than 300 units to its collection. This strategic move includes the Village of Santo Domingo, a 120-unit community located at <a href='https://www.stoutmanagement.com' rel='nofollow' target='_blank'>8530 W Sahara Ave</a>, and the Lennox Las Vegas, a 100-unit luxury apartment community at <a href='https://www.stoutmanagement.com' rel='nofollow' target='_blank'>430 E Cactus Ave</a>, among others. This expansion highlights Stout's dedication to offering superior living experiences in Southern Nevada.</p><p>The Village of Santo Domingo, developed from 1997 to 2000, provides a variety of one- and two-bedroom apartments, catering to a broad demographic. On the other hand, the Lennox Las Vegas, built in 2015, offers one-, two-, and three-bedroom units in the Silverado Ranch neighborhood, showcasing the company's focus on luxury and comfort. Taylor Verhaalen, President of Stout Management Company, pointed out the Lennox Las Vegas's role in enriching the company's portfolio of Vegas properties with its upscale offerings.</p><p>Further solidifying its footprint, Stout took over the management of Harlow in Las Vegas in April, a 98-unit community located at <a href='https://www.stoutmanagement.com' rel='nofollow' target='_blank'>10620 West Alexander Rd</a>. This property, established in 2003, covers nearly 5 acres and features one-, two-, and three-bedroom units across 13 buildings. Verhaalen noted the high demand for such properties and Stout's commitment to delivering outstanding living experiences to its residents.</p><p>This expansion is a testament to Stout Management Company's increasing influence in Nevada's multifamily housing market, supported by its family-owned and operated philosophy since 1978. Managing over 60 residential communities in Southern Nevada, Stout is broadening its portfolio to serve a diverse range of clients, from single-asset owners to international investors. Beyond property management, the company's expertise encompasses new construction, renovations, and affordable housing, further establishing its contribution to improving community living standards in Southern Nevada.</p>

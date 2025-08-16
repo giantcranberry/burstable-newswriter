@@ -1,0 +1,15 @@
++++
+title = "Thompson Thrift Recognized Among America's Fastest-Growing Private Companies for the 10th Time"
+date = "2025-08-13T15:40:36Z"
+draft = false
+summary = "Thompson Thrift's inclusion in the Inc. 5000 list for the tenth time underscores its sustained growth and significant impact on the multifamily housing sector across the U.S."
+description = "Thompson Thrift ranks on Inc. 5000 for the 10th time, showcasing its growth and impact in multifamily housing development across the U.S."
+source_link = "https://www.citybiz.co/article/731105/thompson-thrift-earns-a-spot-on-inc-5000-list-of-fastest-growing-private-companies-for-10th-time/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/2eb88baad50b3ae141c0f23cce21dbff.jpg"
+article_id = 157010
+feed_item_id = 18674
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/roamQoPc.webp"
+source = "citybiz"
++++
+
+<p>Thompson Thrift, a leading real estate company with a focus on multifamily developments, has once again been named to the Inc. 5000 list of America's fastest-growing private companies, marking its tenth appearance. This year, the company ranks No. 3,801 overall and No. 33 in Indiana, a testament to its enduring growth and strategic vision in the competitive real estate market.</p><p>Dan Sink, president and chief financial officer of Thompson Thrift, credits this achievement to the company's long-term vision and the unwavering dedication of its team. The Inc. 5000 list is renowned for spotlighting the most successful independent and entrepreneurial businesses across the nation, evaluating them based on revenue growth over a three-year span. Thompson Thrift's consistent recognition on this list highlights its resilience and commitment to delivering value to its partners and the communities it serves.</p><p>Since launching its multifamily business unit in 2008, Thompson Thrift has made significant strides in the sector, developing over 90 residential communities across 23 states. With a portfolio that exceeds $6.5 million in volume, the company's emphasis on construction efficiency and quality has not only garnered residents' approval but also earned it prestigious industry accolades, including the 2025 Top Apartment Developer and Top Builder titles from the National Multifamily Housing Council.</p><p>The economic footprint of Thompson Thrift extends beyond its real estate developments. Over the past nearly 40 years, the company has invested more than $6 billion into local communities, demonstrating its dedication to fostering economic growth and development. Its projects, spread across the Midwest, Southeast, and Southwest, reflect a steadfast commitment to creating high-quality, attractive multifamily and commercial properties.</p><p>For further details on Thompson Thrift's projects and achievements, visit <a href='https://www.thompsonthrift.com' rel='nofollow' target='_blank'>https://www.thompsonthrift.com</a>. To learn more about the Inc. 5000 list and its methodology, check out <a href='https://www.inc.com' rel='nofollow' target='_blank'>https://www.inc.com</a>.</p>

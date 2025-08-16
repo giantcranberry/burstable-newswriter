@@ -1,0 +1,15 @@
++++
+title = "UNFOLD Expands Culver City Presence with $11 Million Office Acquisition"
+date = "2025-08-14T18:05:56Z"
+draft = false
+summary = "UNFOLD's strategic acquisition of a 13,110-square-foot office building in Culver City marks a significant step in its growth, enhancing collaboration and innovation for its team and clients."
+description = "UNFOLD, represented by JLL, acquires a $11M office in Culver City to expand its creative campus, signaling growth in the creative industry's real estate investments."
+source_link = "https://www.citybiz.co/article/731885/digital-creative-agency-unfold-expands-in-culver-city-with-11m-office-acquisition-represented-by-jll/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/068c722cae297fc4e76358a1d43f933d.jpg"
+article_id = 157124
+feed_item_id = 18799
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/14/bakeyzYg.webp"
+source = "citybiz"
++++
+
+<p>UNFOLD, a renowned digital creative agency, has made a substantial investment in its future by acquiring a 13,110-square-foot office building at 11811 Teale Street in Culver City for $11 million. This purchase, facilitated by JLL, enables UNFOLD to create a campus-like setting by combining this new property with its existing adjacent location at 11801 Teale Street. The move is designed to bolster teamwork and creativity among its 150-plus employees, further solidifying UNFOLD's position as a leader in the digital creative space.</p><p>The newly acquired building, distinguished by its semi-circular Quonset hut architecture, boasts polished concrete floors, lofty ceilings, and cutting-edge recording studios. Once a manufacturing support site for the Hughes Aircraft Company, the structure was repurposed in 2018 into a creative office space, now poised to play a central role in UNFOLD's operational expansion. Daniel Weisinger, Co-President and Co-Cofounder of UNFOLD, views this acquisition as a milestone in the agency's journey. 'This expansion is the latest chapter in UNFOLD’s continued growth and evolution,' Weisinger stated, emphasizing the agency's dedication to innovation and superior client service.</p><p>Ben Silver, JLL Senior Vice President who orchestrated the deal for UNFOLD, commented on the shifting landscape of office space demand. 'Office is not dead, it’s just evolving,' Silver observed, highlighting a trend where businesses prioritize real estate investments that foster long-term development and corporate culture. This acquisition is a testament to UNFOLD's impressive growth since its inception in 2012, now offering comprehensive services in media, digital advertising, social media, website development, and production for leading global brands and entertainment entities. For further details on JLL's offerings, visit <a href='https://www.jll.com' rel='nofollow' target='_blank'>https://www.jll.com</a>.</p>

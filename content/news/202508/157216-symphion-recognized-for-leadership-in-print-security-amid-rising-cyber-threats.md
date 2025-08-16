@@ -1,0 +1,15 @@
++++
+title = "Symphion Recognized for Leadership in Print Security Amid Rising Cyber Threats"
+date = "2025-08-12T21:20:43Z"
+draft = false
+summary = "Symphion, Inc. has been highlighted in Quocirca’s Print Security Landscape 2025 report for its innovative approach to securing heterogeneous print environments against increasing cyber threats."
+description = "Symphion recognized in Quocirca’s 2025 Print Security Report for leading print fleet cyber security solutions, addressing critical enterprise security gaps."
+source_link = "https://www.citybiz.co/article/730734/symphion-recognized-as-a-key-player-in-quocircas-print-security-landscape-2025-report/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e81812669ec28bf3153edd5fc2d98b12.jpg"
+article_id = 157216
+feed_item_id = 18623
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/joiny4NI.webp"
+source = "citybiz"
++++
+
+<p>Symphion, Inc. has emerged as a standout in the realm of print security, according to Quocirca’s Print Security Landscape 2025 report. The company's Print Fleet Cyber Security as a Service is lauded for its comprehensive approach to protecting print environments through automation, continuous monitoring, and real-time compliance enforcement. This service not only sets Symphion apart but also underscores its role as a trusted ally in combating the escalating cyber threats targeting printer endpoints.</p><p>Jim LaRoe, CEO of Symphion, emphasized the critical nature of printer security in today's digital landscape, noting the increasing frequency of cyberattacks aimed at networked printers. This acknowledgment by Quocirca serves as a testament to Symphion's dedication to securing print fleets for enterprises that prioritize cybersecurity. The report's evaluation criteria, which include strategic vision and technical capabilities such as policy enforcement and regulatory compliance, highlight areas where Symphion particularly excels.</p><p>The report sheds light on a significant vulnerability in print security, with 56% of organizations surveyed reporting print-related data loss in the past year. Louella Fernandes, CEO of Quocirca, discussed the complexities involved in securing multi-vendor fleets and integrating older devices with contemporary security platforms. Symphion's service is designed to tackle these challenges head-on, facilitating policy enforcement on a large scale and ensuring audit readiness without imposing extra operational demands.</p><p>By integrating specialized technologies, professional expertise, and established processes, Symphion's strategy offers robust protection for printer endpoints. This approach is in harmony with zero-trust initiatives and risk management frameworks, providing a solid foundation for enterprises to safeguard their print environments. For further details on Symphion's solutions, visit <a href='https://www.symphion.com' rel='nofollow' target='_blank'>https://www.symphion.com</a>.</p>

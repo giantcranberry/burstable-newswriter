@@ -1,0 +1,15 @@
++++
+title = "United Capital Strengthens Leadership with Adam Lipkin as Managing Director of Capital Markets"
+date = "2025-08-13T14:10:44Z"
+draft = false
+summary = "United Capital appoints Adam Lipkin as Managing Director of Capital Markets to enhance its financing strategies and portfolio expansion in Florida's commercial real estate sector."
+description = "United Capital appoints Adam Lipkin as Managing Director of Capital Markets, enhancing its commercial real estate finance capabilities in Florida."
+source_link = "https://www.citybiz.co/article/730990/united-capital-welcomes-adam-lipkin-as-managing-director-of-capital-markets/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cc4d014ba1bbf59d428f0b2c3efd3458.jpg"
+article_id = 157199
+feed_item_id = 18657
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/keepbaaZ.webp"
+source = "citybiz"
++++
+
+<p>United Capital, a leading commercial real estate owner and operator in Florida, has announced the appointment of Adam Lipkin as the Managing Director of Capital Markets. This decision highlights the firm's dedication to enhancing its capital markets capabilities and exploring innovative financing avenues to grow its portfolio. Lipkin's vast experience in commercial real estate finance, especially in crafting unique capital solutions, marks him as a crucial figure in United Capital's expansion plans.</p><p>With more than 20 years in South Florida's commercial real estate industry, Lipkin has been instrumental in closing deals worth over $3.2 billion, spanning multifamily, hospitality, and commercial properties. Known as "The C-PACE Guy," his expertise in innovative financing mechanisms, including Commercial Property Assessed Clean Energy (C-PACE) programs, is well-recognized. His tenure at Greystone Capital Advisors and Counterpointe Sustainable Real Estate has endowed him with a distinctive mix of investment banking and structured finance skills, making him a significant addition to United Capital.</p><p>Adam J. Tiktin, managing principal of United Capital, remarked on the importance of Lipkin's role, noting, "Adam's profound capital markets knowledge and successful history across various asset classes render him an essential member of our leadership team." Lipkin's innovative approach to financing is anticipated to be key in United Capital's strategy to broaden its portfolio and improve its client services.</p><p>United Capital's diverse property portfolio encompasses single- and multi-tenant retail spaces, mixed-use developments, and medical office buildings across Florida. The integration of Lipkin's capital markets leadership with the firm's multidisciplinary team is expected to adeptly manage the intricacies of real estate investment and management through fluctuating market conditions. For further details on United Capital's offerings, visit <a href="https://unitedcapitalfl.com" rel="nofollow" target="_blank">https://unitedcapitalfl.com</a>.</p>

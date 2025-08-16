@@ -1,0 +1,15 @@
++++
+title = "Murray Jenkins Leads Ankrom Moisan with Vision for Sustainable Urban Development and AI Integration"
+date = "2025-08-12T21:11:07Z"
+draft = false
+summary = "Murray Jenkins, the new President & CEO of Ankrom Moisan, outlines his strategy for addressing urban development challenges, emphasizing sustainability, affordable housing, and the role of AI in architecture."
+description = "Murray Jenkins, President & CEO of Ankrom Moisan, discusses the firm's future, focusing on innovation, sustainability, and urban development challenges."
+source_link = "https://www.citybiz.co/article/730627/qa-with-murray-jenkins-ankrom-moisans-newly-appointed-president-ceo/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/7f844d23071466ed211660368eb1ae2e.png"
+article_id = 157219
+feed_item_id = 18622
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/wall0uBX.webp"
+source = "citybiz"
++++
+
+<p>Murray Jenkins has recently taken the helm as President & CEO of Ankrom Moisan, bringing with him 25 years of experience and a visionary approach to the architecture and design firm's future. His ascent from an Architectural Intern to the top leadership position highlights his unwavering dedication to the firm's core values and its mission to craft spaces that not only stand the test of time but also enhance community life.</p><p>Under Jenkins' guidance, Ankrom Moisan is set to address significant urban development challenges, particularly the housing crisis plaguing the West Coast. Jenkins points to the urgent need for more efficient entitlement and permitting processes to speed up the delivery of housing projects, both affordable and market-rate. He champions the idea that thoughtful design can lead to more cost-effective buildings without compromising on quality or livability, a principle that could revolutionize urban housing solutions.</p><p>Sustainability is another pillar of Jenkins' strategy, with a call to the industry to exceed regulatory standards and consider the wider impacts of design on health, wellness, and community. He advocates for designs that prioritize natural light, fresh air, and healthy materials, ensuring buildings are not only sustainable but also adaptable and resilient for future needs.</p><p>Looking forward, Jenkins sees artificial intelligence (AI) as a game-changer for the architecture field, offering unprecedented opportunities to boost creativity and efficiency. However, he cautions that technology should enhance, not replace, the human touch in design. Ankrom Moisan's focus on mentorship and leadership development, especially for young professionals in this evolving industry, mirrors Jenkins' commitment to fostering a culture that puts people first.</p><p>Jenkins encourages up-and-coming architects and designers to stay curious and flexible, viewing setbacks as opportunities for growth. His leadership embodies Ankrom Moisan's dedication to innovation, sustainability, and inclusivity, positioning the firm as a leader in tackling the architectural challenges of tomorrow.</p>

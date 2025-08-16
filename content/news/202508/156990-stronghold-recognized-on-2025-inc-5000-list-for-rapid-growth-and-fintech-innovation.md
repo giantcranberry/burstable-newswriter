@@ -1,0 +1,15 @@
++++
+title = "Stronghold Recognized on 2025 Inc. 5000 List for Rapid Growth and Fintech Innovation"
+date = "2025-08-13T18:20:45Z"
+draft = false
+summary = "Stronghold's inclusion in the 2025 Inc. 5000 list underscores its rapid growth and innovation in the fintech sector, highlighting the company's impact on modern financial infrastructure."
+description = "Stronghold ranks No. 4575 on the 2025 Inc. 5000 list, showcasing its rapid growth and innovation in fintech infrastructure. Discover how they're shaping the future of payments."
+source_link = "https://www.citybiz.co/article/731308/stronghold-recognized-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6f6ee496384dbd8d3cfacc2514135141.jpg"
+article_id = 156990
+feed_item_id = 18698
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/13/fineeNKR.webp"
+source = "citybiz"
++++
+
+<p>Stronghold, a fintech infrastructure company, has achieved a notable milestone by being ranked No. 4575 on the 2025 Inc. 5000 list, a prestigious ranking of America's fastest-growing private companies. This recognition by Inc. magazine underscores Stronghold's significant growth and its contribution to the fintech industry, amidst a backdrop of economic challenges including uncertainty and inflationary pressures.</p><p>The company's CEO & Co-Founder, Tammy Camp, credits this achievement to the team's hard work, the trust of their partners, and the innovative solutions provided through StrongholdNET. StrongholdNET is designed to scale access to modern financial infrastructure, offering developer-first APIs for fast, secure pay-by-bank and embedded payments. Additionally, the SHx token plays a pivotal role in enhancing merchant rewards, DeFi-based financing, and governance across the platform, demonstrating the practical applications of blockchain technology.</p><p>Stronghold's accomplishments extend beyond the Inc. 5000 list. The company has been named a <a href='https://www.forbes.com' rel='nofollow' target='_blank'>Forbes Fintech 50</a> company and won the Audience Favorite in the North America Visa Everywhere Competition. With a global community exceeding 215,000 members and the launch of a 60 billion SHx smart contract escrow in 2025, Stronghold is at the forefront of fintech innovation.</p><p>The Inc. 5000 list highlights the resilience and dynamism of independent businesses in the U.S. economy, with the top 500 companies achieving a median three-year revenue growth rate of 1,552 percent and adding over 48,678 jobs in the past three years. Stronghold's inclusion in this list not only reflects its rapid growth but also the evolving landscape of financial technology, where innovation and community engagement are paramount.</p><p>For more information on the Inc. 5000 list and the companies recognized, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>www.inc.com/inc5000</a>. The honorees will be celebrated at the 2025 Inc. 5000 Conference & Gala in Phoenix, with the top 500 companies featured in the Fall issue of Inc. magazine.</p>

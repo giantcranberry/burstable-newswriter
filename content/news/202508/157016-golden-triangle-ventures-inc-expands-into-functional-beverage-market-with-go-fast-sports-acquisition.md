@@ -1,0 +1,15 @@
++++
+title = "Golden Triangle Ventures Inc. Expands into Functional Beverage Market with Go Fast Sports Acquisition"
+date = "2025-08-13T15:00:53Z"
+draft = false
+summary = "Golden Triangle Ventures Inc. strategically acquires Go Fast Sports to enter the functional beverage market, leveraging the brand's global following and lifestyle appeal to drive growth in its new Beverages & Health division."
+description = "Golden Triangle Ventures acquires Go Fast Sports, marking a strategic entry into the energy beverage market. Learn how this impacts GTVH's growth and investor opportunities."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-golden-triangle-ventures-inc-otc-gtvh-acquires-go-fast-sports-brand-in-move-into-functional-beverage-market/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/13/7e424ad801e088dc7be76ccdc0d4a890.png"
+article_id = 157016
+feed_item_id = 18670
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/13/zerov0pk.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Golden Triangle Ventures Inc. (OTC: GTVH) has taken a strategic leap into the functional beverage industry by acquiring the Go Fast Sports brand from Labor Smart, Inc. (OTC: LTNC). This acquisition, notable for its execution without the issuance of GTVH stock or convertible notes, was made possible by incoming CEO Javier Leal's personal contribution of 720 million LTNC shares. Leal's gesture, framed as a gift to shareholders, highlights the transaction's significance for GTVH's expansion strategy.</p><p>Go Fast Sports, established in 1996, has carved a niche for itself as a lifestyle-oriented energy brand with a dedicated global following, particularly among extreme sports, motorsports, and athletic communities. This acquisition marks the foundation of GTVH's newly established Beverages & Health division, adding a dynamic layer to its existing Construction & Infrastructure and Manufacturing & Distribution segments. The move is a calculated effort by GTVH to tap into the burgeoning energy and functional beverage market.</p><p>The integration of Go Fast Sports into GTVH's portfolio is seen as a critical maneuver in the company's multi-industry growth blueprint. By harnessing the brand's robust market presence and loyal customer base, GTVH is poised to innovate and expand its footprint in the functional beverage sector. Further insights into the acquisition can be found <a href='https://ibn.fm/UgGRg' rel='nofollow' target='_blank'>here</a>.</p><p>Golden Triangle Ventures Inc. remains steadfast in its core business model, which revolves around acquisitions, assets, and holdings; services; and investments. The company is dedicated to fostering the development of its portfolio companies to effect positive change across industries. For ongoing updates and news regarding GTVH, visit <a href='https://ibn.fm/GTVH' rel='nofollow' target='_blank'>this link</a>.</p>

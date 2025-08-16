@@ -1,0 +1,15 @@
++++
+title = "RS Global Group Launches China Innovative Companies Fund Targeting Small to Mid-Cap Entrepreneurial Ventures"
+date = "2025-08-13T07:00:27Z"
+draft = false
+summary = "RS Global Group introduces the China Innovative Companies Fund, focusing on investments in China's small to mid-cap companies with innovative potential, aiming for long-term capital appreciation amidst the country's economic growth."
+description = "RS Global Group introduces China Innovative Companies Fund, targeting growth in China's entrepreneurial sectors with a focus on innovation and ESG factors."
+source_link = "https://www.24-7pressrelease.com/press-release/525779/rs-global-group-announce-new-china-innovative-companies-fund"
+enclosure = "https://cdn.newsramp.app/genai/images/258/13/662b1a0b3111bef30f64426e482da977.png"
+article_id = 157030
+feed_item_id = 18640
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/13/pint54Hv.webp"
+source = "24-7 Press Release"
++++
+
+<p>RS Global Group, a Taiwan-based wealth management firm, has unveiled the China Innovative Companies Fund, a new investment vehicle aimed at achieving long-term capital appreciation by investing in small to mid-cap entrepreneurial companies in China. This fund is strategically positioned to leverage the innovative capabilities of these companies, which operate in sectors expected to benefit significantly from China's expanding economy, driven by rising domestic consumer demand.</p><p>The fund's investment approach prioritizes companies that demonstrate innovative management practices, strong fundamentals, and a history of capital efficiency and resilience, especially in the face of recent economic challenges. With approximately 80% of its net assets dedicated to equities of innovative companies within the People's Republic of China, including Hong Kong and Taiwan, the fund also allocates the remainder of its assets to global investments, offering a diversified portfolio to its investors.</p><p>However, potential investors are cautioned about the risks involved in investing in international, emerging, and frontier market securities. These risks encompass social and political instability, market illiquidity, exchange-rate volatility, and the potential for high volatility stemming from regulatory changes and government interventions that could negatively impact performance. It's important to note that the China Innovative Companies Fund is available exclusively to institutional entities and accredited investors, underscoring its targeted approach towards sophisticated investment audiences.</p><p>For those interested in learning more about RS Global Group and its array of services, further details can be found by visiting <a href='https://rsglobalgroup.com' rel='nofollow' target='_blank'>https://rsglobalgroup.com</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "Mission Driven Bank Fund Secures $200 Million to Support Minority and Community Development Banks"
+date = "2025-08-15T07:05:31Z"
+draft = false
+summary = "The Mission Driven Bank Fund's successful $200 million fundraising close marks a significant step towards financial inclusivity and strengthening community-oriented banking institutions."
+description = "MDBF raises $200M to support minority and community banks, aiming for a more inclusive banking system with help from Microsoft and Truist."
+source_link = "https://www.24-7pressrelease.com/press-release/525895/mission-driven-bank-fund-reaches-200-million-with-final-close"
+enclosure = "https://cdn.newsramp.app/genai/images/258/15/64f96949182fe14bed2c6e86660e384a.png"
+article_id = 156914
+feed_item_id = 18845
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/15/each4eNS.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Mission Driven Bank Fund (MDBF) has achieved a significant milestone by closing its final fundraising round with $200 million in capital. This fund is dedicated to supporting FDIC-insured Minority Depository Institutions (MDIs) and Community Development Financial Institutions (CDFIs), aiming to foster a more inclusive and resilient banking system. With over a third of its capital already deployed, the MDBF is making strides in its mission to empower banks that serve underrepresented communities.</p><p>Paul Welch, the Fund's portfolio manager, credited the success to the pivotal support from anchor investors like Microsoft and Truist. The involvement of such prominent entities not only underscores the importance of the Fund's mission but also highlights the growing recognition of the need for financial inclusivity in the banking sector. The Fund's technical services program has seen active participation from its bank partners, furthering its objectives to enhance financial services for low to moderate income communities.</p><p>Anthony Weekly, Truist's Chief Community Reinvestment Act Officer, pointed out the dual benefits of MDBF's investments. These contributions not only strengthen the banking system but also pave the way for a more inclusive financial future. By focusing on banks that serve African American, Native American, Asian, Hispanic, and Pacific Islander communities, the MDBF is addressing the racial wealth gap head-on. For more details on the Fund's initiatives, visit <a href='https://missiondrivenbankfund.org' rel='nofollow' target='_blank'>https://missiondrivenbankfund.org</a>.</p><p>The MDBF's efforts represent a critical advancement in the fight against financial inequality. By channeling resources into mission-aligned banks, the Fund is not only enhancing the capacity of these institutions but also ensuring that underserved communities have access to essential financial services. This initiative is a testament to the power of strategic investment in creating a more equitable and inclusive banking ecosystem.</p>

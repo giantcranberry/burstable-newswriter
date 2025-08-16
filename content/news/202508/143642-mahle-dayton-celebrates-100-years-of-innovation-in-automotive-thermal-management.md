@@ -6,7 +6,6 @@ summary = "MAHLE Dayton marks its centenary with a legacy of pioneering sustaina
 description = "MAHLE Dayton celebrates 100 years of excellence in automotive thermal management, showcasing commitment to innovation and sustainable mobility solutions in North America."
 source_link = "https://www.citybiz.co/article/730063/mahle-dayton-celebrates-100-years-of-excellence-and-innovation/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6e533a35996739d322670ecc2d1c0373.jpg"
-featured = true
 article_id = 143642
 feed_item_id = 18528
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/riftjhWN.webp"

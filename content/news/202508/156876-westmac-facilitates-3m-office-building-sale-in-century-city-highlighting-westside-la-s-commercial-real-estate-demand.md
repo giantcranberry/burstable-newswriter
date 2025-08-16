@@ -1,0 +1,15 @@
++++
+title = "WESTMAC Facilitates $3M Office Building Sale in Century City, Highlighting Westside LA's Commercial Real Estate Demand"
+date = "2025-08-16T07:05:24Z"
+draft = false
+summary = "WESTMAC Commercial Brokerage Company's recent sale of a Century City office building for $3,000,000 underscores the strong demand for prime commercial real estate in Los Angeles' Westside market."
+description = "WESTMAC Commercial Brokerage sells 10513 Santa Monica Blvd for $3M, showcasing LA's vibrant Westside real estate market. Expert brokerage at work."
+source_link = "https://www.24-7pressrelease.com/press-release/525938/westmac-commercial-brokerage-company-arranges-3-million-sale-in-century-city"
+enclosure = "https://cdn.newsramp.app/genai/images/258/16/786b62a022e0a27f31d9e2ca6f27cf42.png"
+article_id = 156876
+feed_item_id = 18906
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/16/pinkREvr.webp"
+source = "24-7 Press Release"
++++
+
+<p>The recent sale of an office building at 10513 Santa Monica Boulevard in Century City, Los Angeles, for $3,000,000 by WESTMAC Commercial Brokerage Company highlights the enduring appeal and demand for strategically located commercial real estate in the city's Westside. The property, encompassing 2,666 square feet on a 4,730 square feet lot, was acquired by a real estate investment firm planning to utilize the space for its operations, signaling confidence in the area's business vitality and long-term value.</p><p>T.C. Macker of WESTMAC pointed out that the building's prime location offers unmatched visibility and accessibility, key factors contributing to its attractiveness to investors. This transaction not only reflects the vibrant commercial activity in Century City but also WESTMAC's prowess in navigating complex real estate deals. Represented by T.C. Macker, CCIM, and Woody Cook, the sale exemplifies the brokerage's commitment to delivering exceptional service to its clients, ranging from property owners to investors.</p><p>With a team of over 30 professionals, WESTMAC Commercial Brokerage Company has established itself as a leader in the commercial real estate sector, specializing in office, industrial, retail, and multi-family properties. Their expertise in facilitating significant transactions like this one underscores the firm's role in shaping Los Angeles' commercial landscape. For more details on their services, visit <a href='https://www.westmaccommercial.com' rel='nofollow' target='_blank'>https://www.westmaccommercial.com</a>.</p><p>This sale is a clear indicator of the robust demand for commercial spaces in Los Angeles' Westside, driven by the area's unique combination of community charm and business opportunities. It serves as a benchmark for future transactions in the region, highlighting the potential for investors and businesses alike to thrive in this dynamic market.</p>
