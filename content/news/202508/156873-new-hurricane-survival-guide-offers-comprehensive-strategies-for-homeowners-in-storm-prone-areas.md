@@ -6,7 +6,6 @@ summary = "Former Air Force Meteorologist Bill Combes releases a detailed guide 
 description = "Bill Combes releases a 175-page Hurricane Survival Guide, offering comprehensive strategies for preparation, safety, and recovery in hurricane-prone areas."
 source_link = "https://newsworthy.ai/news/202508161660/for-immediate-release-new-hurricane-survival-guide-by-former-air-force-meteorologist-offers-complete-preparation-recovery-plan-for-homeowners"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/89c623a5413eced2876ed4f306245626.png"
-featured = true
 article_id = 156873
 feed_item_id = 18911
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/16/pineWl_1.webp"
