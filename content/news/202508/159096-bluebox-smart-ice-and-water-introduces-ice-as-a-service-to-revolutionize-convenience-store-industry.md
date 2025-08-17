@@ -1,0 +1,15 @@
++++
+title = "Bluebox Smart Ice and Water Introduces Ice-as-a-Service to Revolutionize Convenience Store Industry"
+date = "2025-08-12T13:30:38Z"
+draft = false
+summary = "Bluebox Smart Ice and Water's new Ice-as-a-Service (IaaS) solution leverages Everest's VersaVendTM technology to offer a fully managed ice vending service, promising to transform the convenience store sector by addressing inefficiencies in the current packaged ice process."
+description = "Bluebox Smart Ice and Water introduces Ice-as-a-Service, transforming convenience store ice vending with Everest’s VersaVendTM technology for 24/7 access."
+source_link = "https://www.citybiz.co/article/730093/bluebox-launches-ice-as-a-service-solution-set-to-disrupt-the-packaged-ice-convenience-store-industry/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/dc58fb15a36b9ef5260e0e9651aeade5.png"
+article_id = 159096
+feed_item_id = 18536
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/openuczO.webp"
+source = "citybiz"
++++
+
+<p>Bluebox Smart Ice and Water has unveiled an innovative Ice-as-a-Service (IaaS) solution, setting the stage for a significant shift in the packaged ice convenience store industry. This groundbreaking platform utilizes Everest's VersaVendTM technology to provide a fully managed ice vending service, freeing store operators from the hassles of delivery, setup, maintenance, and repairs. With an impressive 99% uptime and the ability to produce two tons of ice daily, the system guarantees fresh ice availability at all times.</p><p>The convenience store sector, especially major national retailers, is eagerly anticipating the adoption of this solution in anticipation of the NACS Show in October. The IaaS model introduces a novel revenue-sharing opportunity, enabling stores to transform into profit centers without the financial strain of capital expenditures, equipment costs, or maintenance concerns. This innovative approach not only updates ice and water fulfillment but also addresses the inefficiencies currently undermining the packaged ice process, including delivery delays, stock shortages, and theft.</p><p>Ben Gaskill, CEO of Bluebox Smart Ice and Water, underscores the revolutionary impact of their solution. By targeting the major pain points of the traditional ice supply chain, Bluebox is poised to eradicate consumer dissatisfaction and operational inefficiencies. The existing system, often likened to a 19th-century supply chain, is riddled with challenges that the IaaS model aims to resolve.</p><p>Dan Doromal, President of Everest Ice and Water, highlights the disruptive potential of merging Everest's technology with Bluebox's pioneering IaaS solution. This collaboration is expected to overhaul the high-volume packaged ice industry by presenting a scalable, environmentally friendly, and labor-efficient alternative to the obsolete systems currently in use. For further information on Bluebox's innovative approach to ice vending, visit <a href='https://blueboxiceandwater.com' rel='nofollow' target='_blank'>https://blueboxiceandwater.com</a>.</p>

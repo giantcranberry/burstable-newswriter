@@ -1,0 +1,15 @@
++++
+title = "Akiak Technology Secures Elite Spot on 2025 Inc. 5000 List, Highlighting Growth in AI and Cybersecurity"
+date = "2025-08-12T19:20:37Z"
+draft = false
+summary = "Akiak Technology, LLC's recognition on the 2025 Inc. 5000 list underscores its rapid growth and innovation in AI-driven digital transformation and cybersecurity services, marking a significant achievement for the Alaskan Tribally owned company."
+description = "Akiak Technology ranks No. 106 on the 2025 Inc. 5000, showcasing its growth in AI and cybersecurity services as a leading Indigenous-owned company."
+source_link = "https://www.citybiz.co/article/730522/akiak-technology-ranked-106-in-the-inc-5000-2025-list-of-fastest-growing-companies-in-america/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/87c505c63b957595f60ed205ff60ebb7.jpg"
+article_id = 158490
+feed_item_id = 18607
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/tall3chj.webp"
+source = "citybiz"
++++
+
+<p>Akiak Technology, LLC has achieved a notable milestone by debuting at No. 106 on the 2025 Inc. 5000 list, a prestigious ranking that highlights the fastest-growing private companies across America. This accomplishment not only positions Akiak Technology among the elite Inc. 500 companies but also ranks it as the No. 4 fastest-growing company in the Government Services Sector. The Inc. 5000 list is celebrated for identifying companies that exhibit remarkable growth, innovation, and the ability to disrupt industries, with past honorees including industry titans such as Microsoft, Meta, and Under Armour.</p><p>The inclusion of Akiak Technology on this list reinforces its status as a frontrunner in providing AI-driven digital transformation and cybersecurity services. Kevin Hamer, CEO of Akiak Technology, highlighted the strategic approach behind this success, noting, 'Securing our spot in the top 500 showcases our blend of technological advancement, customer-centric approaches, and adaptive business models to propel us to the forefront of the GovCon industry.'</p><p>Significantly, Akiak Technology stands out as one of the first Alaskan Tribally owned companies to achieve this elite status, embodying the innovative and entrepreneurial spirit rooted in Yup’ik values and culture. The company's journey is marked by being the first Tribally owned company in western Alaska to receive 8(a) certification from the Small Business Administration. Akiak Technology and its team are committed to creating a prosperous economic future for the Indigenous community in Akiak, Alaska.</p><p>This recognition comes on the heels of Sharon Hamer, an Akiak enrolled Tribal member and cofounder of Akiak Technology, being honored as the 2024 Native Woman Business Owner of the Year and the 2023 SBA Small Businessperson of the Year for both Virginia and the Washington Area Metropolitan District Office. The achievements of Akiak Technology and its peers on the Inc. 500 list will be showcased in the September 2025 issue of Inc. magazine. For more details, visit <a href='https://www.AkiakTechnology.com' rel='nofollow' target='_blank'>https://www.AkiakTechnology.com</a>.</p>

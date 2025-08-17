@@ -1,0 +1,15 @@
++++
+title = "Nursa Secures Top Spot on 2025 Inc. 5000 List, Highlighting Rapid Growth in Healthcare Staffing"
+date = "2025-08-12T16:30:40Z"
+draft = false
+summary = "Nursa's recognition on the 2025 Inc. 5000 list underscores its rapid growth and innovative approach to solving healthcare staffing challenges, marking a significant achievement in the competitive healthcare technology sector."
+description = "Nursa ranks No. 1504 on Inc. 5000, showcasing rapid growth in healthcare staffing with innovative technology connecting nurses to facilities nationwide."
+source_link = "https://www.citybiz.co/article/730301/nursa-named-to-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/12ba475cd2b6389a2bb437ddbe2fdcd7.png"
+article_id = 159054
+feed_item_id = 18568
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/mildfudS.webp"
+source = "citybiz"
++++
+
+<p>Nursa, a pioneering platform based in Salt Lake City, has been recognized on the 2025 Inc. 5000 list of America's fastest-growing private companies, achieving a notable position at No. 1504. This accolade from Inc. magazine highlights Nursa's remarkable revenue growth between 2021 and 2024, a period marked by economic uncertainties including inflationary pressures and a volatile labor market. The Inc. 5000 list is a prestigious benchmark that celebrates the most successful independent and entrepreneurial businesses across the United States, making Nursa's inclusion a significant milestone.</p><p>The company's rapid ascent is attributed to its innovative technology platform that efficiently connects healthcare facilities with qualified nursing professionals for per diem shifts. With over 3,400 facilities and 400,000 nurses nationwide utilizing its platform, Nursa has not only revolutionized healthcare staffing but also earned accreditation from The Joint Commission, further solidifying its reputation in the industry. Curtis Anderson, CEO and founder of Nursa, credits the company's growth to its clear purpose and the strong partnerships it has cultivated within the healthcare community.</p><p>Mike Hofman, editor-in-chief of Inc., remarked on the significance of making the list in the current economic climate, noting that it reflects a company's resilience and visionary approach amidst rising costs and global shifts. Nursa's achievement is a testament to its impact on the healthcare staffing industry, offering solutions to the financial and operational challenges posed by traditional staffing methods. Since its founding in 2019, Nursa has emerged as a trusted name in healthcare staffing, with its inclusion in the Inc. 5000 list underscoring its potential for continued growth and innovation. For more information on Nursa's profile and the Inc. 5000 list, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>https://www.inc.com/inc5000</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "Crisp Ranks No. 52 on 2025 Inc. 5000 List, Leading Retail Data Innovation"
+date = "2025-08-12T17:30:33Z"
+draft = false
+summary = "Crisp's recognition on the 2025 Inc. 5000 list underscores its rapid growth and leadership in leveraging AI for retail data solutions, highlighting its impact on efficiency, sustainability, and the broader economy."
+description = "Crisp ranks No. 52 on Inc. 5000, leading in Arkansas and Business Services, showcasing AI's role in sustainable supply chain innovation."
+source_link = "https://www.citybiz.co/article/730343/crisp-ranks-no-52-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies-and-no-1-in-arkansas/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/751a3826816d50ac5d931a571b9e64de.jpg"
+article_id = 159477
+feed_item_id = 18581
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/fastfY2S.webp"
+source = "citybiz"
++++
+
+<p>Crisp has achieved a notable milestone by securing the No. 52 spot on the 2025 Inc. 5000 list, a prestigious ranking of America's fastest-growing private companies. This achievement not only places Crisp at the forefront of the retail data sector but also marks it as the No. 1 company in Arkansas and No. 2 in the Business Products & Services category. Such accolades underscore Crisp's innovative approach to utilizing artificial intelligence, aimed at enhancing operational efficiency, reducing waste, and fostering a sustainable supply chain.</p><p>Are Traasdahl, CEO and founder of Crisp, highlighted the company's dedication to a triple bottom line strategy that benefits customers, the environment, and the business itself. This strategy has been pivotal in navigating the challenges posed by economic uncertainty, inflationary pressures, and a volatile labor market, contributing to the company's remarkable growth and industry leadership.</p><p>The Inc. 5000 list is a barometer for the resilience and ingenuity of independent businesses across the United States, with the top 500 companies boasting a median three-year revenue growth rate of 1,552 percent. These enterprises have collectively generated over 48,678 jobs in the past three years, showcasing their significant role in the U.S. economy. For further insights into the list and its honorees, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>www.inc.com/inc5000</a>.</p><p>Mike Hofman, editor-in-chief of Inc., commended the listed companies for their ability to excel in challenging conditions, emphasizing their contribution to economic dynamism. The achievements of Crisp and its peers will be celebrated at the 2025 Inc. 5000 Conference & Gala in Phoenix, with the top 500 companies also featured in the Fall issue of Inc. magazine.</p><p>Crisp's inclusion in the Inc. 5000 list is a testament to its success in transforming retail data into a strategic asset for over 6,000 brands. By enabling seamless data integration and exchange, Crisp is redefining supply chain optimization, demonstrating the critical role of innovation and adaptability in today's competitive business landscape.</p>

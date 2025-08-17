@@ -1,0 +1,15 @@
++++
+title = "LRT Company Launches $20.55 Million Senior Housing Project in Coventry, Rhode Island"
+date = "2025-08-12T15:21:39Z"
+draft = false
+summary = "LRT Company's new $20.55 million senior housing project in Coventry, Rhode Island, aims to address the critical shortage of senior housing, including dedicated units for low-income seniors, marking a significant step in community-focused development."
+description = "LRT Company introduces a $20.55M senior housing project in Coventry, RI, targeting the urgent need for senior living spaces, including low-income options."
+source_link = "https://www.citybiz.co/article/730211/lrt-company-launches-20-55-million-all-cash-dst-offering-near-providence-r-i/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5e8c1cebf0fd424267897c12dbd8c610.jpg"
+article_id = 159074
+feed_item_id = 18552
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/yogakkBx.webp"
+source = "citybiz"
++++
+
+<p>LRT Company has announced a $20.55 million all-cash Delaware statutory trust (DST) offering for a senior housing project in Coventry, Rhode Island. This initiative underscores the company's dedication to tackling the acute shortage of senior housing in the region. The Tiffany Laurel Reserve project will offer 204 units across independent living, assisted living, and memory care categories, with a portion specifically allocated for low-income seniors, a first for LRT Company.</p><p>The 14-acre site, strategically located near Providence, is leased for 50 years on a triple net basis. The development is projected to cover 157,000 square feet and include 56 parking spaces. Lawrence LaBonte, founder and CEO of LRT Company, highlighted the project's prime location, which provides residents with a peaceful setting while ensuring easy access to major highways and urban conveniences. This project is a direct response to the Long Term Care Coordinating Council's 2023 report, which revealed that Rhode Island is home to over 200,000 adults aged 65 and older, with 38,000 living with disabilities.</p><p>Coventry's demographic and geographic benefits, including a median household income of $99,177 and its proximity to key transportation hubs such as I-95 and the Port of Providence, make it an optimal location for this development. LaBonte also pointed out the ground lease structure's advantages, including potential rent escalations and opportunities for future capital transactions, aligning with LRT's strategy of investing in markets with high barriers to entry and strong income potential.</p><p>This offering marks a significant milestone for LRT Company, reflecting its commitment to not only expanding senior housing options but also incorporating low-income units to meet a vital community need. For further details on LRT Company and its initiatives, visit <a href='https://www.lrtcompany.com' rel='nofollow' target='_blank'>https://www.lrtcompany.com</a>.</p>

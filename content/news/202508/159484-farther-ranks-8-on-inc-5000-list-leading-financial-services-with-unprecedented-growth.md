@@ -1,0 +1,15 @@
++++
+title = "Farther Ranks #8 on Inc. 5000 List, Leading Financial Services with Unprecedented Growth"
+date = "2025-08-12T17:10:36Z"
+draft = false
+summary = "Farther's recognition as the fastest-growing private company in the financial services sector on the 2025 Inc. 5000 list highlights its innovative approach to wealth management and significant industry impact."
+description = "Farther ranks #1 in financial services on the 2025 Inc. 5000, showcasing its rapid growth and innovative wealth management platform."
+source_link = "https://www.citybiz.co/article/730336/farther-named-1-fastest-growing-financial-services-firm-in-america-by-inc-magazine/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c81cd6eb7570b0931f6fab04c2ecce45.jpg"
+article_id = 159484
+feed_item_id = 18579
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/hushrO2G.webp"
+source = "citybiz"
++++
+
+<p>Farther, an intelligent wealth management firm, has achieved a remarkable milestone by being ranked #8 overall and #1 in financial services on the 2025 Inc. 5000 list. This prestigious ranking underscores Farther's position as the fastest-growing private company in America within its sector, boasting an extraordinary 11,968% revenue growth over three years. The firm's success is attributed to rapid client adoption, a substantial increase in assets under management, and the recruitment of top-tier financial advisors across the nation. Recently, Farther announced surpassing $13 billion in recruited assets, further cementing its leadership in the wealth management industry.</p><p>At the heart of Farther's achievements is its Intelligent Wealth Platform, a revolutionary solution designed to transform the financial management experience for both clients and advisors. Clients enjoy a comprehensive view of their financial situation through a single login, while advisors utilize advanced tools for crafting personalized, tax-optimized portfolios and simplifying operational tasks. This innovative approach not only enhances efficiency but also allows advisors to dedicate more time to building and nurturing client relationships, offering a more tailored and effective service.</p><p>Taylor Matthews, Co-Founder and CEO of Farther, shared his pride in this recognition, viewing it as a validation of the firm's mission to redefine wealth management through smarter, scalable solutions. Brad Genser, Co-Founder and CTO, highlighted the seamless integration of technology and advisor expertise as the cornerstone of delivering a modern wealth experience that aligns with clients' expectations for time, money, and confidence management.</p><p>Farther's inclusion in the Inc. 5000 list is the latest in a series of accolades, including a $72 million Series C funding round in 2024, multiple recognitions as one of Inc. Magazine's Best Workplaces, a top position on AdvisorHub's list of leading recruiters in wealth management, and the prestigious title of WealthTech of the Year at the 2024 U.S. FinTech Awards. For more information on the Inc. 5000 list, visit <a href='https://inc.com/inc5000' rel='nofollow' target='_blank'>https://inc.com/inc5000</a>.</p>

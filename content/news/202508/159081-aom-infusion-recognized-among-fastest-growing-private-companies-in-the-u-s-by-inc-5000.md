@@ -1,0 +1,15 @@
++++
+title = "AOM Infusion Recognized Among Fastest-Growing Private Companies in the U.S. by Inc. 5000"
+date = "2025-08-12T15:21:39Z"
+draft = false
+summary = "AOM Infusion's inclusion in the Inc. 5000 list highlights its rapid growth and innovation in specialty infusion and pharmacy services, signaling its significant impact on the healthcare industry."
+description = "AOM Infusion ranks on Inc. 5000 with 175% growth, expanding access to specialty infusion therapies across the U.S. Learn more about their impact."
+source_link = "https://www.citybiz.co/article/730199/aom-infusion-named-to-inc-5000-list-of-americas-fastest-growing-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cfcbe6109697e099c735e697b09c1bd9.jpg"
+article_id = 159081
+feed_item_id = 18554
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/12/wolf3_jP.webp"
+source = "citybiz"
++++
+
+<p>AOM Infusion, a national leader in specialty infusion and pharmacy services, has secured a prestigious spot on the Inc. 5000 list, ranking at No. 2,566 with a three-year revenue growth of 175 percent. This recognition underscores the company's rapid expansion and success in a highly competitive sector, driven by its commitment to clinical excellence, innovative care solutions, and a patient-centered approach.</p><p>Keyur Mehta, CEO of AOM Infusion, attributes the company's remarkable growth to its focus on quality and technology-forward care. The expansion includes new facilities in Brooklyn, NY, and Arlington, TX, alongside the extension of services across the Southwest, Pacific Northwest, and Midwest. These developments have significantly improved access to critical infusion therapies for patients nationwide.</p><p>John Vlahopoulos, Chief Clinical Officer, credits the collaborative effort between clinical teams, physicians, and patients as a key factor in AOM's success. This synergy has not only propelled the company's growth but also enabled it to adeptly navigate the challenges posed by economic uncertainty and a fluctuating labor market.</p><p>The Inc. 5000 list is a benchmark for entrepreneurial success, highlighting companies that exhibit resilience and innovation in challenging times. AOM Infusion's inclusion reflects its substantial contribution to the healthcare sector and its unwavering commitment to enhancing patient outcomes through specialized care. For more information on the Inc. 5000 list, visit <a href='https://www.inc.com/inc5000' rel='nofollow' target='_blank'>https://www.inc.com/inc5000</a>.</p><p>AOM Infusion's journey exemplifies the potential for growth and excellence in healthcare, fueled by a relentless pursuit of quality and innovation. To learn more about AOM Infusion and its services, visit <a href='https://aominfusionrx.com/' rel='nofollow' target='_blank'>https://aominfusionrx.com/</a>.</p>

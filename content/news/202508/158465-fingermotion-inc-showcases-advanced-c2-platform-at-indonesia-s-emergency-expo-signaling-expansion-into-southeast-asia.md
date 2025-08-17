@@ -1,0 +1,15 @@
++++
+title = "FingerMotion Inc. Showcases Advanced C2 Platform at Indonesia's Emergency Expo, Signaling Expansion into Southeast Asia"
+date = "2025-08-14T17:05:32Z"
+draft = false
+summary = "FingerMotion Inc. demonstrates its Advanced Mobile Integrated Command and Communication Platform at an international expo in Jakarta, highlighting its potential to enhance disaster resilience in Southeast Asia."
+description = "FingerMotion unveils its Advanced Mobile Integrated Command Platform in Indonesia, enhancing disaster response with cutting-edge technology. Explore how this innovation is shaping regional resilience."
+source_link = "https://rss.investorbrandnetwork.com/cw/chinesenewsbreaks-fingermotion-inc-nasdaq-fngr-showcases-emergency-command-platform-at-indonesia-disaster-expo/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/14/3beacaa5460774989707f9ebe34b2d60.png"
+article_id = 158465
+feed_item_id = 18781
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/14/cakeFwHo.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>FingerMotion Inc. (NASDAQ: FNGR) recently made headlines by presenting its Advanced Mobile Integrated Command and Communication Platform (C2 Platform) at the 2nd Indonesia International Emergency, Disaster Reduction and Rescue Expo in Jakarta. This event, which took place from August 13 to 15, 2025, provided FingerMotion with a unique opportunity to showcase the C2 Platform's innovative features, including satellite communications, high-definition video, intelligent conferencing, UAV capabilities, and multi-network connectivity. These features are designed to ensure uninterrupted command during crises, even in areas without public network access.</p><p>The C2 Platform, developed by FingerMotion's subsidiary, Shanghai JiuGe Information Technology Co., Ltd., has already seen deployment in emergency vehicles across several Chinese cities. Its demonstration at the expo has sparked interest from key Indonesian agencies, such as the National Disaster Management Agency and National Search and Rescue Agency. This interest underscores the platform's potential to significantly contribute to disaster resilience in Southeast Asia, a region frequently challenged by natural disasters.</p><p>This development represents a strategic move by FingerMotion to expand its technological solutions beyond China. By targeting Southeast Asia, the company aims to play a pivotal role in enhancing emergency response efforts in the region. For more details on FingerMotion Inc. and its innovative solutions, visit <a href='https://ibn.fm/FNGR' rel='nofollow' target='_blank'>https://ibn.fm/FNGR</a>. The company's participation in the expo not only highlights its commitment to leveraging technology for disaster management but also positions it as a key contributor to global efforts in improving disaster resilience.</p>
