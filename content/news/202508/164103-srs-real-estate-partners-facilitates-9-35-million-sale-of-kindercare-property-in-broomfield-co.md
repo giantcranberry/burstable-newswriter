@@ -1,0 +1,15 @@
++++
+title = "SRS Real Estate Partners Facilitates $9.35 Million Sale of KinderCare Property in Broomfield, CO"
+date = "2025-08-18T15:55:42Z"
+draft = false
+summary = "The sale of a newly developed KinderCare property in Broomfield, CO, for $9.35 million highlights the growing investment appeal of child care facilities in expanding communities."
+description = "SRS Real Estate Partners completes a $9.35M sale of a KinderCare property in Broomfield, CO, showcasing the city's growth and the value of strategic commercial real estate investments."
+source_link = "https://www.citybiz.co/article/732794/srs-real-estate-partners-announces-9-35-million-sale-of-a-newly-developed-kindercare-property-in-broomfield-co/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1c575101cadf467db02fdd9b59667c1b.jpg"
+article_id = 164103
+feed_item_id = 18955
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/18/lineQs2X.webp"
+source = "citybiz"
++++
+
+<p>The recent $9.35 million sale of a newly developed KinderCare property at 1101 Spring Place in Broomfield, CO, by SRS Real Estate Partners marks a significant transaction in the commercial real estate sector, particularly in the child care facility segment. This sale not only underscores the increasing investment appeal of child care facilities in rapidly expanding communities but also highlights the stability and minimal management responsibilities offered by corporate-guaranteed, triple net leases.</p><p>Spanning nearly 12,000 square feet on 1.42 acres, the property was completed in early 2025 and comes with a 15-year corporate-guaranteed, triple net lease. Ryan Tomkins, Vice President at SRS Capital Markets, who represented the seller, a Denver-based private developer, emphasized the strategic location of the property within the Baseline community, near the new Center St development, as a key factor in its long-term value proposition. The buyer, a Kansas City-based private investor, engaged in a 1031 exchange, further illustrating the property's investment appeal.</p><p>KinderCare, the nation's largest private provider of child care with more than 2,400 locations across 40 states, continues to expand its footprint in high-growth areas like Broomfield. This city, located approximately 18 miles north of Denver, is recognized as one of the fastest-growing in Colorado and the United States, making it an attractive market for investors seeking opportunities in the child care sector.</p><p>The transaction, facilitated by SRS Real Estate Partners, which has completed over $1.2 billion in deal volume this year alone, reflects the robust demand for child care services in growing communities. It also demonstrates the confidence investors have in properties with long-term, corporate-guaranteed leases. With SRS Real Estate Partners' expertise in the commercial real estate market, transactions like this are expected to continue shaping the landscape of child care facility investments across the nation.</p><p>For more information on SRS Real Estate Partners and their transactions, visit <a href='https://www.srsre.com' rel='nofollow' target='_blank'>https://www.srsre.com</a>.</p>

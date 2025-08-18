@@ -1,0 +1,15 @@
++++
+title = "DanceOne and Custom Ink Forge Strategic Partnership to Transform Dance Studio Merchandising"
+date = "2025-08-18T14:35:40Z"
+draft = false
+summary = "DanceOne's partnership with Custom Ink offers dance studios exclusive access to customizable merchandise solutions, enhancing brand visibility and community engagement."
+description = "DanceOne and Custom Ink join forces to offer custom apparel solutions to dance studios, enhancing brand identity and community support in the dance industry."
+source_link = "https://www.citybiz.co/article/732722/danceone-selects-custom-ink-as-licensing-partner-for-custom-apparel-and-merchandise-designs/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/2f0180a11c050336ce1b35133e130da8.png"
+article_id = 163662
+feed_item_id = 18951
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/18/keepEDuV.webp"
+source = "citybiz"
++++
+
+<p>DanceOne, a leader in organizing educational and competitive dance events, has announced a strategic licensing partnership with Custom Ink, a pioneer in custom apparel and promotional products. This collaboration is poised to transform how dance studios affiliated with DanceOne's Loyalty program merchandise their brands, granting them exclusive access to Custom Ink's customizable product solutions.</p><p>The partnership allows participating studios to create their online stores with Custom Ink, leveraging promotional and creative support designed specifically for the dance community. Ryan Massimo, Chief Revenue Officer of Custom Ink, highlighted the synergy between both organizations' dedication to excellence and their shared goal of empowering the dance community through bespoke merchandise.</p><p>Dan Galpern, CEO of DanceOne, views this partnership as a critical move to augment the value offered to the dance community, signaling the start of various initiatives aimed at bolstering the success of studio owners and dancers. Innovative Partnerships Group played a key role in facilitating this collaboration, with Zoë Stanley pointing out how it celebrates individuality and personal expression through custom design.</p><p>In addition to merchandise, Custom Ink's sponsorship will feature prominently at DanceOne's flagship events, such as The Dance Awards in Las Vegas and Orlando, the Dance Teacher Summit, and the newly renamed Custom Ink A.C.E. Awards in 2025. This comprehensive partnership reflects both companies' commitment to enriching the dance experience with innovative branding solutions. For further details on Custom Ink's offerings, visit <a href='https://www.customink.com' rel='nofollow' target='_blank'>https://www.customink.com</a>.</p><p>This alliance not only marks a significant advancement in dance merchandise but also establishes a new benchmark for community involvement and support in the dance industry.</p>

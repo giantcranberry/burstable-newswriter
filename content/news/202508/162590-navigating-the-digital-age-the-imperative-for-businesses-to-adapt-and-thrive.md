@@ -6,7 +6,6 @@ summary = "Rocky Romanella's insights on e-commerce and leadership underscore th
 description = "Rocky Romanella shares insights on e-commerce and leadership, offering strategies for businesses to adapt and thrive in the digital age. Learn more about his vision."
 source_link = "https://www.24-7pressrelease.com/press-release/525956/are-you-preparing-and-anticipating-the-changes-in-global-commerce-asks-top-motivational-speaker-and-bestselling-author-rocky-romanella"
 enclosure = "https://cdn.newsramp.app/genai/images/258/18/7a35b101da6b9dcafa274299bc48c2d4.png"
-featured = true
 article_id = 162590
 feed_item_id = 18936
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/18/clubTyI8.webp"

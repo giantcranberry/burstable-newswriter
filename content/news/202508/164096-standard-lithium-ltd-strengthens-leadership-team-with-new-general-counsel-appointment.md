@@ -1,0 +1,16 @@
++++
+title = "Standard Lithium Ltd. Strengthens Leadership Team with New General Counsel Appointment"
+date = "2025-08-18T16:35:23Z"
+draft = false
+summary = "Standard Lithium Ltd. appoints Michael Lutgring as General Counsel to enhance its legal framework and support its transition to commercial-scale lithium production, underscoring its commitment to sustainability and innovation in the lithium market."
+description = "Standard Lithium Ltd. appoints Michael Lutgring as General Counsel, bolstering its leadership for sustainable lithium production. BillionDollarClub enhances corporate communications."
+source_link = "https://rss.investorbrandnetwork.com/bdc/billiondollarbreaks-standard-lithium-ltd-nyse-american-sli-appoints-michael-lutgring-as-general-counsel/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/18/c8b796ff1bffc810485c67433aba657e.png"
+featured = true
+article_id = 164096
+feed_item_id = 18959
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/18/ninovSMF.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Standard Lithium Ltd. (NYSE American: SLI), a company on the verge of commercial lithium production, has announced the appointment of Michael Lutgring as its new General Counsel, effective August 18, 2025. This move is seen as a strategic step to strengthen the company's legal infrastructure as it progresses towards large-scale lithium production. CEO David Park has voiced his confidence in Lutgring's extensive legal expertise, which is anticipated to play a crucial role in the company's growth and its operations as a public entity.</p><p>Focusing on sustainable lithium development, Standard Lithium is dedicated to exploiting high-grade lithium-brine properties in the United States, with a particular emphasis on the Smackover Formation that stretches across Arkansas and Texas. The company employs a pioneering Direct Lithium Extraction and purification process, designed to be scalable and fully integrated, to address the surging global demand for lithium. Lithium is a vital element in the manufacturing of electric vehicle batteries and renewable energy storage systems, positioning Standard Lithium at the heart of the clean energy transition.</p><p>In partnership with Equinor ASA, a global energy powerhouse, Standard Lithium is advancing its South West Arkansas project, a greenfield endeavor, and is also investigating lithium brine opportunities in East Texas. These initiatives are integral to the company's strategy to develop a sustainable and efficient lithium supply chain, which is critical for the shift towards cleaner energy sources. For those interested in tracking the company's progress, updates can be found in the company's newsroom at <a href='https://ibn.fm/SLI' rel='nofollow' target='_blank'>https://ibn.fm/SLI</a>.</p><p>The appointment of Michael Lutgring as General Counsel is a significant milestone for Standard Lithium Ltd. as it aims to cement its position as a leading figure in the global lithium market. This development reflects the company's unwavering dedication to innovation, sustainability, and achieving corporate excellence in the rapidly evolving energy sector.</p>

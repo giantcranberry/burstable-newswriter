@@ -1,0 +1,15 @@
++++
+title = "Beachwalk Shoppes Sale Highlights Robust Retail Investment Climate in Jacksonville"
+date = "2025-08-18T15:55:42Z"
+draft = false
+summary = "The $5.62 million sale of Beachwalk Shoppes in St. Johns, FL, underscores the thriving retail investment opportunities in the Jacksonville submarket, driven by strategic location and regional growth."
+description = "SRS Real Estate Partners sells Beachwalk Shoppes for $5.62M, showcasing retail investment growth in St. Johns, FL. Learn more about this significant transaction."
+source_link = "https://www.citybiz.co/article/732779/srs-real-estate-partners-announces-5-62-million-sale-of-beachwalk-shoppes-in-jacksonville-fl-submarket/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c993c2db12c07798d6cf54b6134b2d75.jpg"
+article_id = 164108
+feed_item_id = 18956
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/18/markHPLC.webp"
+source = "citybiz"
++++
+
+<p>The recent $5.62 million transaction of Beachwalk Shoppes, a newly constructed multi-tenant retail strip center in St. Johns, FL, highlights the vibrant retail investment climate in the Jacksonville submarket. Represented by SRS Capital Markets Senior Managing Principal Patrick Nutt and Executive Vice President & Principal William Wamble, the deal involved a national development and investment firm selling to an Atlanta-based private investor, who utilized a 1031 exchange. The property, completed in 2024 and situated on 1.42 acres, is fully occupied by five tenants on triple net leases, including notable names such as Bagels R Us and Playa Bowls.</p><p>William Wamble emphasized the strategic advantage of Beachwalk Shoppes' location in a dense retail corridor, part of a larger development featuring national brands like Panda Express and Chipotle. This positioning, combined with St. Johns County's ranking as the tenth fastest-growing county in the U.S., with a projected growth rate of 9.51% from 2023 to 2028, signals a bright future for retail investments in the area. The sale closed at a cap rate of 6.4%, reflecting strong demand for commercial real estate in the retail sector.</p><p>SRS Capital Markets has been a key player in this bustling market, completing over $1.2 billion in deal volume this year across more than 350 transactions nationwide. With a portfolio of over 845 properties on the market, valued at more than $3.7 billion, SRS Real Estate Partners continues to lead the commercial real estate industry. For further details on their services, visit <a href='https://www.srsre.com' rel='nofollow' target='_blank'>https://www.srsre.com</a>.</p><p>This transaction not only showcases the attractiveness of the Jacksonville submarket for retail investments but also underscores the broader trends of growth and opportunity in commercial real estate, particularly in areas with strong demographic and economic fundamentals.</p>
