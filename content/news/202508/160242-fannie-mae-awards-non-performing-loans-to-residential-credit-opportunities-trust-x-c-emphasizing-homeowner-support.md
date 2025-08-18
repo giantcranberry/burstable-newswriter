@@ -6,7 +6,6 @@ summary = "Fannie Mae's latest Community Impact Pool transaction underscores its
 description = "Fannie Mae awards its 27th Community Impact Pool of non-performing loans to Residential Credit Opportunities Trust X-C, focusing on Florida with strict borrower protections."
 source_link = "https://www.citybiz.co/article/732558/fannie-mae-announces-winner-of-twenty-seventh-community-impact-pool-of-non-performing-loans/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/8a630a048570bd6f6d7df0d71782f602.jpg"
-featured = true
 article_id = 160242
 feed_item_id = 18922
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/17/meanVdTn.webp"
