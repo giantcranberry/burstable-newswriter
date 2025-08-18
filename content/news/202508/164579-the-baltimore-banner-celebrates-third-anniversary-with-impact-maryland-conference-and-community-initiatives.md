@@ -1,0 +1,15 @@
++++
+title = "The Baltimore Banner Celebrates Third Anniversary with Impact Maryland Conference and Community Initiatives"
+date = "2025-08-18T17:15:46Z"
+draft = false
+summary = "The Baltimore Banner marks its third anniversary by highlighting the success of its Impact Maryland conference and community engagement efforts, showcasing its growth and influence in the state."
+description = "Sharon Nevins leads The Baltimore Banner and Impact Maryland, driving nonprofit news success and fostering business leadership in Maryland. Learn about their impact."
+source_link = "https://www.citybiz.co/article/729766/interview-with-sharon-nevins-chief-revenue-officer-for-the-baltimore-banner-and-executive-director-of-the-banners-impact-maryland/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/09235f5b7464e4d25a4da560fef8f40c.png"
+article_id = 164579
+feed_item_id = 18968
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/18/davenHos.webp"
+source = "citybiz"
++++
+
+<p>The Baltimore Banner, a nonprofit news organization, has celebrated its third anniversary by achieving significant milestones, including becoming the largest newsroom in Maryland and earning a Pulitzer Prize. Under the leadership of Sharon Nevins, Chief Revenue Officer and Executive Director of The Banner’s Impact Maryland, the organization has seen remarkable growth in brand strategy and revenue generation.</p><p>One of the key initiatives led by Nevins is the Impact Maryland thought leadership conference, now in its third year. Scheduled for October 14th, the event aims to unite generational leaders and top voices to discuss critical policies and issues facing Maryland. Previous conferences have featured high-profile speakers like Governor Wes Moore and former U.S. Transportation Secretary Pete Buttigieg, setting a precedent for impactful discussions and networking.</p><p>This year's Impact Maryland conference is expected to uphold its reputation for excellence, with a diverse lineup of speakers and panelists. The event will focus on innovative solutions and ideas for Maryland's future, offering attendees valuable networking opportunities, including a lunch and cocktail celebration. Recognized as the premier annual business event in Baltimore, Impact Maryland has been awarded the best event by the MDDC Press Association for two consecutive years. For more details and ticket purchases, visit <a href='https://www.thebaltimorebanner.com' rel='nofollow' target='_blank'>https://www.thebaltimorebanner.com</a>.</p><p>Beyond the conference, The Baltimore Banner has introduced the Banner Book Club, a free monthly initiative aimed at fostering community engagement and dialogue. This effort underscores The Banner's dedication to serving as an independent, nonprofit news source that enriches the cultural and intellectual landscape of Maryland.</p>

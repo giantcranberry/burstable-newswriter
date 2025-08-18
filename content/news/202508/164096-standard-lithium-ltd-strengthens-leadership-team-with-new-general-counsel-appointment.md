@@ -6,7 +6,6 @@ summary = "Standard Lithium Ltd. appoints Michael Lutgring as General Counsel to
 description = "Standard Lithium Ltd. appoints Michael Lutgring as General Counsel, bolstering its leadership for sustainable lithium production. BillionDollarClub enhances corporate communications."
 source_link = "https://rss.investorbrandnetwork.com/bdc/billiondollarbreaks-standard-lithium-ltd-nyse-american-sli-appoints-michael-lutgring-as-general-counsel/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/18/c8b796ff1bffc810485c67433aba657e.png"
-featured = true
 article_id = 164096
 feed_item_id = 18959
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/18/ninovSMF.webp"
