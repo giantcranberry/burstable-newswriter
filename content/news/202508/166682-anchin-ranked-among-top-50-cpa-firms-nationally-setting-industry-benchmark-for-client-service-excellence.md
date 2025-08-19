@@ -6,7 +6,6 @@ summary = "Anchin's recognition as a top 50 CPA firm by INSIDE Public Accounting
 description = "Anchin, a top accounting firm, is recognized among the Top 50 CPA firms by INSIDE Public Accounting. Learn about their tax, advisory services, and client success stories."
 source_link = "https://www.citybiz.co/article/733256/anchin-recognized-among-top-50-cpa-firms-in-inside-public-accountings-annual-rankings/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1f7da5c2876dc727e876605272932aa9.png"
-featured = true
 article_id = 166682
 feed_item_id = 19013
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/19/chip2z9p.webp"
