@@ -6,7 +6,6 @@ summary = "Safe Pro Group secures international patent protections for its Spotl
 description = "Safe Pro Group's AI technology detects 31,600+ explosives in Ukraine, expanding global patents and participating in U.S. Army experiments, marking a leap in security tech."
 source_link = "https://rss.investorbrandnetwork.com/iw/a-decade-of-delivering-precious-water-sustain-socals-water-solutions-event-10th-year/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/18/74ef4edd01b4c4256d9b46713aa5664a.png"
-featured = true
 article_id = 164567
 feed_item_id = 18974
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/18/bosshgeb.webp"

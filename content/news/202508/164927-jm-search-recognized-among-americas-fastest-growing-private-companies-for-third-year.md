@@ -1,0 +1,15 @@
++++
+title = "JM Search Recognized Among America’s Fastest-Growing Private Companies for Third Year"
+date = "2025-08-18T11:35:57Z"
+draft = false
+summary = "JM Search's inclusion in the Inc. 5000 list for the third consecutive year underscores its significant growth and leadership in the executive search industry, particularly in private equity and high-growth sectors."
+description = "JM Search ranks among America's fastest-growing private companies for the third consecutive year, showcasing its leadership in executive search for private equity and growth-oriented firms."
+source_link = "https://www.citybiz.co/article/732678/jm-search-ranks-in-inc-5000s-fastest-growing-private-companies-in-america/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/473428ac4e45bb8b824271b4c661e774.webp"
+article_id = 164927
+feed_item_id = 18939
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/18/quip32EH.webp"
+source = "citybiz"
++++
+
+<p>JM Search has once again been ranked by Inc. 5000 as one of America’s Fastest-Growing Private Companies, marking its third consecutive year on the prestigious list. This recognition highlights the firm's sustained organic growth and its leadership in the executive search industry, particularly in serving private equity and other growth-oriented organizations. With a remarkable 181% expansion over the past five years, JM Search has completed over 1,000 successful executive searches, with C-level placements in private equity-backed companies being a significant driver of its success.</p><p>The firm attributes its achievements to its Partner-led model, ensuring that each search is conducted by recruiters with deep industry insight and functional expertise. This year, JM Search has further strengthened its team by welcoming eight new Partners, each bringing top-tier search professionalism and extensive networks to the firm. This strategic expansion is designed to enhance JM Search's capability to assist clients in navigating the complexities of today's market and securing leadership that fosters long-term value creation.</p><p>John Marshall, CEO of JM Search, expressed pride in the firm's achievements and its reputation as a trusted advisor within the private equity ecosystem. The firm's commitment to investing in specialized recruiting professionals and adhering to its core values has been pivotal in its growth and recognition. In 2025, JM Search's excellence was further acknowledged through its inclusion in the <a href='https://www.forbes.com' rel='nofollow' target='_blank'>Forbes 2025 America’s Best Executive Recruiting Firms</a> and the <a href='https://www.ft.com' rel='nofollow' target='_blank'>Financial Times list of The Americas’ Fastest Growing Companies</a>, alongside consistent rankings in the top 15 of the Top 50 Recruiters by Hunt Scanlon Media.</p><p>JM Search's continued recognition on prestigious lists like the Inc. 5000 not only highlights its growth but also its pivotal role in shaping the leadership of private equity-backed and high-growth companies. For more information, visit <a href='https://www.jmsearch.com' rel='nofollow' target='_blank'>www.jmsearch.com</a>.</p>

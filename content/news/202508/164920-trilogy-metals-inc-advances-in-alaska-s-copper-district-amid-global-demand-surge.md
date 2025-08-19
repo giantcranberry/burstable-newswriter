@@ -1,0 +1,15 @@
++++
+title = "Trilogy Metals Inc. Advances in Alaska's Copper District Amid Global Demand Surge"
+date = "2025-08-18T19:15:28Z"
+draft = false
+summary = "Trilogy Metals Inc. is strategically developing the Upper Kobuk Mineral Projects in Alaska, positioning itself as a key player in meeting the global copper demand driven by renewable energy and electrification trends."
+description = "Trilogy Metals and Ambler Metals LLC are developing Alaska's Upper Kobuk Mineral Projects to meet rising copper demand for renewable energy and EVs."
+source_link = "https://rss.investorbrandnetwork.com/rns/trilogy-metals-inc-nyse-american-tmq-tsx-tmq-advancing-a-premier-north-american-copper-district/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/18/47550e18cb4d142868faab24be812b4d.png"
+article_id = 164920
+feed_item_id = 18976
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/18/even08ze.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) is making significant strides in the development of the Upper Kobuk Mineral Projects (UKMP) in Alaska, a region heralded as one of North America's most promising copper districts. Through its 50% joint venture interest in Ambler Metals, Trilogy is at the heart of efforts to address the anticipated global surge in copper demand, a trend fueled by the worldwide shift towards renewable energy and electrification.</p><p>The International Energy Agency forecasts that the demand for copper from clean energy technologies will more than double by 2040. This projection is rooted in the rapid expansion of electric vehicles, the scaling up of renewable energy capacity, and the modernization of grid infrastructure. Trilogy's projects within the Ambler Mining District, renowned for their high-grade copper deposits, are thus of paramount strategic importance in this evolving landscape.</p><p>Financially, Trilogy Metals is well-positioned to advance its initiatives, reporting $24.6 million in cash as of May 31, 2025, alongside a Base Shelf Prospectus and a $25 million ATM Program. These resources provide the company with the necessary flexibility to pursue ongoing and future projects. Focused on the Arctic and Bornite deposits, Trilogy's development efforts are bolstered by collaborative exploration agreements with local Alaska Native Corporations, reflecting a commitment to responsible and inclusive resource development.</p><p>The Ambler Mining District's rich copper-dominant deposits underscore its critical role in the global copper supply chain. As the world increasingly turns to copper to power clean energy technologies, Trilogy Metals' progress in Alaska is timely. For further details on Trilogy Metals and its projects, visit <a href='https://RocksAndStocks.news' rel='nofollow' target='_blank'>https://RocksAndStocks.news</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "Safe Pro Group Inc. Secures International Patent Protections for AI-Powered Explosives Detection Technology"
+date = "2025-08-18T19:15:28Z"
+draft = false
+summary = "Safe Pro Group Inc. advances its global patent protections for SpotlightAI™, enhancing its role in defense and humanitarian demining with significant implications for security and market positioning."
+description = "Safe Pro Group's AI technology detects over 31,600 explosives in Ukraine, with patent protections expanding globally, marking a leap in defense and humanitarian efforts."
+source_link = "https://rss.investorbrandnetwork.com/tmw/safe-pro-group-inc-nasdaq-spai-advanced-ai-patent-protections-with-notification-publications-in-australia-israel-and-the-european-region/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/18/ed7cac019ef6b368b37c9e804677a53b.png"
+article_id = 164921
+feed_item_id = 18977
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/18/pendycax.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Safe Pro Group Inc. (NASDAQ: SPAI) has achieved a significant milestone by securing international patent protections for its AI-powered explosives detection technology, SpotlightAI™. Recent publication notices in Australia, Israel, and the European region mark a pivotal step in the company's strategy to protect its innovations and solidify its presence in the global defense and humanitarian demining sectors. This technology has already proven its effectiveness by analyzing over 1.78 million drone images in Ukraine, identifying more than 31,600 explosive threats, showcasing its vital role in contemporary security and demining efforts.</p><p>The timing of these patent expansions is critical, as the global landmine crisis continues to escalate. Safe Pro's technology emerges as a crucial tool for regions plagued by these hazards. With its U.S. patent secured until 2043 and now extended to 47 jurisdictions through national phase filings, the company is poised for long-term growth. Dan Erdberg, Chairman and CEO of Safe Pro Group Inc., views this as a strategic enhancement to shareholder value. Additionally, the technology's inclusion in the U.S. Army’s 2026 Concept Focused Warfighter Experiment (CFWE) underscores its potential to transform military operations.</p><p>In a related development, the U.S. Senate has proposed an additional $617 million in funding for small unmanned aircraft systems, a category that encompasses Safe Pro's innovative solutions. This proposed funding increase highlights the escalating importance of AI-powered threat detection systems in bolstering both national and global security. Safe Pro's endeavors to broaden its patent portfolio and gain military endorsement are anticipated to have a profound impact on its market standing, offering insights into the future trajectory of defense technology and humanitarian initiatives worldwide. For further details on Safe Pro Group Inc.'s advancements and patent approach, visit <a href='https://ibn.fm/HjwrB' rel='nofollow' target='_blank'>https://ibn.fm/HjwrB</a>.</p>
