@@ -6,7 +6,6 @@ summary = "Winwood Family Dental unveils a new website designed to improve patie
 description = "Winwood Family Dental rebrands and launches a new website, offering comprehensive dental services in Lebanon, TN, with a focus on patient-centered care and modern convenience."
 source_link = "https://www.24-7pressrelease.com/press-release/525963/winwood-family-dental-in-lebanon-tn-launches-new-website-to-better-serve-patients"
 enclosure = "https://cdn.newsramp.app/genai/images/258/19/7f8c6f0bc8996acb194da8a7dd8eef4a.png"
-featured = true
 article_id = 165872
 feed_item_id = 18997
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/19/quizTiku.webp"
