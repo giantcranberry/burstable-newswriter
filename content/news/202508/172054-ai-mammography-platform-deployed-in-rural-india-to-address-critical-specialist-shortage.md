@@ -1,0 +1,15 @@
++++
+title = "AI Mammography Platform Deployed in Rural India to Address Critical Specialist Shortage"
+date = "2025-08-21T15:30:30Z"
+draft = false
+summary = "MedCognetics and AKARUI Solutions have partnered to deploy AI-powered mammography screening in mobile vans across rural India, addressing the severe shortage of breast imaging specialists and providing real-time cancer detection capabilities in remote regions."
+description = "MedCognetics and AKARUI deploy AI mammography in rural India, using mobile vans with real-time cancer detection to address radiologist shortages and improve healthcare access."
+source_link = "https://newsworthy.ai/news/202508211604/akarui-solutions-deploys-medcognetics-ai-imaging-platform-to-expand-breast-cancer-screening-access-in-rural-india"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/76ca905df405a651dc089abc668f20c6.png"
+article_id = 172054
+feed_item_id = 19193
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/21/zealGbtL.webp"
+source = "Newsworthy.ai"
++++
+
+<p>The deployment of MedCognetics' AI mammography platform in mobile screening vans across rural India addresses the country's critical shortage of breast imaging specialists. With fewer than 500 specialists serving a population of over 1.35 billion, this collaboration enables instant analysis of mammogram images in areas where no radiologists are present.</p><p>The initiative utilizes MedCognetics' CogNet AI-MT® software, which is FDA-cleared for triage of mammogram images and specifically designed to reduce bias in cancer detection by incorporating imaging data representative of diverse patient populations. Debasish Nag, CEO of MedCognetics, stated that the technology was created to positively impact lives globally, with this partnership serving as a real-world testament to bringing critical early detection capabilities to regions historically lacking specialized care.</p><p>AKARUI's software integration optimizes medical imaging processes, ensuring high-quality care and efficient operation in portable deployments. Suhas Pokale, CEO of AKARUI Solutions, emphasized that integrating MedCognetics' AI platform allows them to deliver enterprise-grade diagnostic power to even the most remote parts of India. The technology is engineered for real-time use in portable deployments without compromising performance or accuracy.</p><p>Key benefits include on-device cancer detection that eliminates the need for cloud connectivity, faster results through streamlined triaging and imaging processes, workforce extension that bridges diagnostic gaps in regions with few specialists, and scalable infrastructure designed for cost-effective deployments. This deployment supports MedCognetics' broader strategy to globalize equitable access to diagnostic imaging using AI as a force multiplier in regions with limited radiology resources. For additional information about the companies involved, visit <a href="https://www.akaruisolutions.com" rel="nofollow" target="_blank">https://www.akaruisolutions.com</a> and <a href="https://www.medcognetics.com" rel="nofollow" target="_blank">https://www.medcognetics.com</a>.</p>

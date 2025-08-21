@@ -6,7 +6,6 @@ summary = "A new study reveals that inconsistent government policy support is hi
 description = "Ember study reveals government inaction on renewable energy targets is inhibiting investors, slowing green energy transition and climate progress. Private sector needs policy support."
 source_link = "https://rss.investorbrandnetwork.com/ges/governmental-inaction-on-renewable-energy-targets-is-inhibiting-investors/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/21/3811f572f9d59086c2aaed8c4a00aeca.png"
-featured = true
 article_id = 171209
 feed_item_id = 19175
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/21/quayU_7W.webp"

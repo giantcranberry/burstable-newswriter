@@ -1,0 +1,15 @@
++++
+title = "Greenwave Technology Solutions Announces 1-for-110 Reverse Stock Split to Maintain Nasdaq Listing"
+date = "2025-08-21T14:00:21Z"
+draft = false
+summary = "Greenwave Technology Solutions implements a reverse stock split to regain Nasdaq compliance while positioning for growth in the metal recycling industry."
+description = "Greenwave Technology Solutions implements 1-for-110 reverse stock split to boost share price and maintain Nasdaq listing compliance. Metal recycling company expands operations."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-greenwave-technology-solutions-inc-nasdaq-gwav-announces-1-for-110-reverse-stock-split-effective-august-22-2025/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/21/d0a26d560a7a83e7f7401ab181913a0d.png"
+article_id = 172067
+feed_item_id = 19177
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/21/noraU9rs.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Greenwave Technology Solutions Inc. will implement a 1-for-110 reverse stock split of its common stock effective August 22, 2025. The metal recycling facility operator, which runs 13 locations across Virginia, North Carolina, and Ohio, announced the move to increase its per-share trading price and regain compliance with Nasdaq's minimum bid price requirement.</p><p>The reverse split will reduce the company's outstanding common shares from 62,794,283 to approximately 570,858 shares. Proportional adjustments will be applied to outstanding options and warrants, with fractional shares being rounded up to the nearest whole share. Trading on a reverse split-adjusted basis will begin when markets open on August 25, 2025, under the existing GWAV symbol but with a new CUSIP number 57630J 502.</p><p>This corporate action represents a strategic effort to maintain the company's listing on the Nasdaq Capital Market. Companies facing delisting due to sub-dollar stock prices often employ reverse splits to meet exchange requirements. The timing coincides with Greenwave's expansion plans through its subsidiary Empire Services, Inc., which operates metal recycling facilities that process both ferrous and nonferrous scrap metals.</p><p>The company utilizes several technologies to enhance metal processing volumes and operating efficiencies, including a downstream recovery system and cloud-based ERP system. As noted in their corporate information available at <a href="https://www.GWAV.com" rel="nofollow" target="_blank">https://www.GWAV.com</a>, steel recycling provides significant environmental benefits over virgin metals, including reduced energy consumption, lower CO2 emissions, decreased waste, and conservation of natural resources.</p><p>For investors seeking additional information, the company maintains a newsroom at <a href="https://ibn.fm/GWAV" rel="nofollow" target="_blank">https://ibn.fm/GWAV</a> where updates and announcements are regularly posted. The reverse stock split decision reflects management's commitment to preserving shareholder value while positioning the company for future growth in the competitive metal recycling industry.</p>
