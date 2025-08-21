@@ -6,7 +6,6 @@ summary = "The integration between Escrow.com's Shopify tool and Marketplace.Liv
 description = "Escrow.com integrates with Marketplace.Live to provide secure payment protection for high-value transactions. Buyers and sellers gain fraud protection and escrow services for collectibles and electronics."
 source_link = "https://www.24-7pressrelease.com/press-release/526071/new-partnership-demonstrates-incredible-potential-of-escrowcoms-shopify-tool"
 enclosure = "https://cdn.newsramp.app/genai/images/258/21/41c24c609ae5c296c4f93ee4366a6efb.png"
-featured = true
 article_id = 170115
 feed_item_id = 19160
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/21/quip0wM1.webp"

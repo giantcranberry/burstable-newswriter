@@ -1,0 +1,15 @@
++++
+title = "FAVO Capital President Shaun Quin Joins Forbes Business Council to Amplify Alternative Financing Dialogue"
+date = "2025-08-21T12:50:26Z"
+draft = false
+summary = "Shaun Quin's acceptance into the Forbes Business Council brings critical visibility to alternative financing solutions for small businesses amid constrained traditional lending, potentially influencing industry practices and policy."
+description = "FAVO Capital President Shaun Quin joins Forbes Business Council, bringing expertise in alternative funding for small businesses and expanding access to flexible financing solutions nationwide."
+source_link = "https://www.citybiz.co/article/734645/favo-capital-president-shaun-quin-joins-forbes-business-council/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/4e4db0a63c5d7975c53d18f246a42484.jpg"
+article_id = 171220
+feed_item_id = 19166
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/21/healiIeL.webp"
+source = "citybiz"
++++
+
+<p>FAVO Capital President Shaun Quin has been accepted into the Forbes Business Council, an invitation-only organization for accomplished business executives and thought leaders. The selection recognizes Quin's more than two decades of experience in capital markets, alternative finance, and organizational transformation, along with his proven record of leadership and strategic innovation.</p><p>This development brings greater visibility to alternative financing solutions for small and medium-sized businesses at a time when traditional lending remains constrained for many entrepreneurs. Quin's platform through the <a href="https://Forbes.com" rel="nofollow" target="_blank">Forbes Business Council</a> will amplify discussions about flexible funding options for underserved businesses, potentially influencing industry practices and policy considerations.</p><p>As a council member, Quin gains access to a curated network of peers and experts, with opportunities to contribute thought leadership articles and participate in exclusive panels and events. His first article, addressing why small businesses turn to private credit and what owners should consider, was published on August 19, 2025.</p><p>The recognition aligns with FAVO Capital's mission to expand access to alternative revenue-based funding solutions. The company has supported more than 10,000 businesses through the purchase of future receipts while maintaining strategic investments in income-producing real estate. Quin's elevated profile through this prestigious council membership may enhance FAVO Capital's credibility and reach within the small business financing sector.</p><p>Forbes Councils are invitation-only communities created in partnership with Forbes and the team behind Young Entrepreneur Council, with members selected based on professional accomplishments and ability to contribute to a community of business leaders. Quin's acceptance into this exclusive group signals growing recognition of alternative finance leaders and their role in supporting small business growth across the United States.</p>
