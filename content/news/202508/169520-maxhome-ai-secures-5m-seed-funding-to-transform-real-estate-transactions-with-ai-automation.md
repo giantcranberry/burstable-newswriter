@@ -1,0 +1,15 @@
++++
+title = "MaxHome.AI Secures $5M Seed Funding to Transform Real Estate Transactions with AI Automation"
+date = "2025-08-20T13:05:34Z"
+draft = false
+summary = "MaxHome.AI's $5 million seed funding enables AI-driven automation of real estate document processing and workflows, addressing critical industry challenges while creating faster, more efficient homebuying experiences."
+description = "MaxHome.AI raises $5M seed funding to automate real estate transactions with AI. Led by Fika Ventures, the platform streamlines homebuying workflows for brokerages."
+source_link = "https://www.citybiz.co/article/734001/maxhome-ai-raises-5m-seed-round-led-by-fika-ventures/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/fcf0d632da25005b5b883317471a336d.jpg"
+article_id = 169520
+feed_item_id = 19094
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/20/jinxbn_v.webp"
+source = "citybiz"
++++
+
+<p>MaxHome.AI has secured $5 million in seed funding led by Fika Ventures, with participation from BBG Ventures, 1Sharpe Ventures, and Four Acres Capital, bringing the company's total funding to $7 million. This investment addresses critical operational challenges in the real estate industry as brokerages face increased economic pressure from shifts in buyer agent commission structures.</p><p>The AI-native operating system automates document processing and back-office workflows for brokerages, reducing manual effort and errors while creating a faster, smoother homebuying experience. CEO and Founder Divya Aathresh emphasized that by building an AI-native system tailored to real estate complexities, the company is creating the infrastructure modern brokerages will rely on to compete in a rapidly evolving market.</p><p>The platform specifically targets the chaos that begins when a buyer is ready to make an offer, including chasing documents, tracking signatures, ensuring compliance, and coordinating across agents, lenders, and title companies. Early customer adoption demonstrates the platform's value, with MaxHome.AI currently working with leading independent brokerages as well as franchise affiliates of Berkshire Hathaway and Coldwell Banker.</p><p>John Chen, General Partner at Fika Ventures, noted that MaxHome.AI is building foundational infrastructure for modern brokerages, citing deep domain expertise and undeniable founder-market fit. The company's founder previously led real estate partnerships and in-house brokerage operations at Better.com, where she scaled the agent network to more than 15,000 agents.</p><p>Wendi Iglesias, Chief Information Officer at The Keyes Company, reported immediate operational impact, stating that MaxHome has eliminated friction in their transaction process that they didn't realize was solvable. The new funding will enable MaxHome.AI to deepen its technology capabilities and accelerate its product roadmap in response to growing market demand, including solutions that reimagine core transaction touchpoints. For more information, visit <a href="https://maxhome.ai" rel="nofollow" target="_blank">https://maxhome.ai</a>.</p>

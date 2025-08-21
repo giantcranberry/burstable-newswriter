@@ -1,0 +1,15 @@
++++
+title = "Will Ferguson & Associates Renews Sponsorship of New Mexico United and Youth Soccer Programs for 2025"
+date = "2025-08-21T07:00:18Z"
+draft = false
+summary = "Albuquerque law firm Will Ferguson & Associates continues its dual sponsorship of professional USL Championship team New Mexico United and local high school soccer, reinforcing community engagement and youth development through sports."
+description = "Will Ferguson & Associates renews sponsorship of NM United and Eldorado High School soccer for 2025 season, supporting professional and youth athletics in New Mexico."
+source_link = "https://www.24-7pressrelease.com/press-release/526069/will-ferguson-associates-renews-new-mexico-united-sponsorship-continues-support-for-eldorado-high-school-boys-soccer"
+enclosure = "https://cdn.newsramp.app/genai/images/258/21/dfdebbb5433927ab5892c294835c10ef.png"
+article_id = 170117
+feed_item_id = 19157
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/21/barnUwRP.webp"
+source = "24-7 Press Release"
++++
+
+<p>Will Ferguson & Associates has confirmed its continued sponsorship of New Mexico United for the 2025 season, maintaining support for both professional and youth soccer programs throughout New Mexico. The Albuquerque-based law firm will sponsor match elements including the yellow card, red card, and halftime highlights throughout the season, while also presenting halftime T-shirt tosses during five home matches scheduled for September and October at Rio Grande Credit Union Field at Isotopes Park.</p><p>Concurrently, the firm is extending its Gold Sponsorship of the Eldorado High School boys soccer program for a second consecutive year, demonstrating sustained investment in local athletics and youth development initiatives. This dual sponsorship approach reflects the organization's commitment to fostering teamwork, perseverance, and community pride across different levels of athletic competition.</p><p>New Mexico United competes in the USL Championship, representing the second tier of professional soccer in the United States and serving as a significant focal point for soccer enthusiasts throughout the state. Team schedule and performance details are available at https://www.newmexicoutd.com.</p><p>Will Ferguson, managing partner of Will Ferguson & Associates, emphasized soccer's unifying power within the community, noting how the sport brings people together from professional venues to high school fields. The sponsorship renewal represents more than financial support, signifying an ongoing commitment to fostering athletic excellence and community engagement through soccer at multiple levels.</p><p>The continued partnership benefits both the professional team and local youth athletes, creating opportunities for skill development and community connection through shared passion for soccer that transcends age and competition level. This approach demonstrates how corporate sponsorship can effectively support both elite athletic programs and grassroots development, creating a sustainable ecosystem for sports growth within local communities.</p>

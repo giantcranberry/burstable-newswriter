@@ -6,7 +6,6 @@ summary = "Ford Motor Company's $5 billion investment in electric vehicles demon
 description = "Ford announces $5 billion EV investment despite political opposition. Learn how this impacts the automotive industry, Massimo Group, and the future of electric vehicles in America."
 source_link = "https://rss.investorbrandnetwork.com/gcs/why-ford-may-be-ramping-up-its-ev-investments/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/19/4da645e5f061fd3ab3c5ff5dba9d470b.png"
-featured = true
 article_id = 167552
 feed_item_id = 19043
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/19/fernXTOJ.webp"

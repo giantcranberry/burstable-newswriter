@@ -1,0 +1,15 @@
++++
+title = "Banesco USA Doubles in Size Under CEO Calixto Garcia-Velez's Leadership"
+date = "2025-08-20T15:55:29Z"
+draft = false
+summary = "Banesco USA has doubled its assets to over $5 billion since 2021 through personalized banking solutions and digital innovation, positioning itself as a key financial partner for South Florida's business community."
+description = "Banesco USA CEO Calixto Garcia-Velez featured in Negocios Magazine as bank doubles in size to $5B assets, expanding financial services across South Florida."
+source_link = "https://www.noticiasnewswire.com/calixto-cali-garcia-velez/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/20/a7727d0da56754fd13c56853c7d4b5cc.png"
+article_id = 169714
+feed_item_id = 19115
+qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/258/20/fastcC1i.webp"
+source = "Noticias Newswire"
++++
+
+<p>Calixto 'Cali' Garcia-Velez, President and CEO of Banesco USA, has led the financial institution to double in size since 2021, growing its assets to more than $5 billion. With over three decades of banking experience, Garcia-Velez has expanded the bank's operations to six offices in South Florida and Puerto Rico, plus a loan and deposit production office in Palm Beach.</p><p>Banesco USA distinguishes itself by offering personalized solutions beyond traditional banking, including business lines of credit, commercial mortgages, corporate accounts, and advanced digital and cash management tools. The bank's client portfolio comprises real estate developers, professionals, investors, and established businesses, playing a fundamental role in financing commercial projects that generate employment and boost the local economy.</p><p>The bank's commitment to innovation and customer experience is evident through comprehensive digital banking accessible via <a href="https://www.negociosmagazine.com" rel="nofollow" target="_blank">digital platforms</a>, mobile access, electronic payment systems, online banking, and personalized in-person or virtual assistance. This customer-centric approach ensures users have access to multiple channels and expert advice for financial strategies aligned with their goals.</p><p>Garcia-Velez emphasized the bank's focus on strengthening its presence as a leading community bank in South Florida, with plans for organic growth through customer relationships, strategic branch openings, and continued technology investment. The feature highlighting this growth was published in both print and digital formats by Negocios Magazine, which is also available on <a href="https://issuu.com" rel="nofollow" target="_blank">digital publishing platforms</a>.</p><p>For business leaders and investors, Banesco USA's expansion signals the growing importance of specialized financial institutions that combine personalized service with technological innovation. The bank's success demonstrates how community-focused banks can drive economic development by supporting local businesses and commercial projects, while its digital transformation highlights the increasing convergence of traditional banking with advanced technological solutions in the financial sector.</p>
