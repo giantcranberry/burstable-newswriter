@@ -1,0 +1,15 @@
++++
+title = "Solowin Holdings Partners with CITIC to Develop Digital Infrastructure in Saudi Arabia"
+date = "2025-08-21T16:10:29Z"
+draft = false
+summary = "Solowin Holdings and CITIC Contracting Company have formed a strategic partnership to develop digital infrastructure projects in Saudi Arabia, addressing growing demand for real-world asset tokenization and supporting the region's economic diversification efforts."
+description = "Solowin Holdings partners with CITIC Contracting for Saudi digital infrastructure projects focusing on data science, real estate tokenization, and logistics parks development."
+source_link = "https://rss.investorbrandnetwork.com/bdc/billiondollarbreaks-solowin-holdings-nasdaq-swin-signs-mou-with-citic-to-develop-digital-infrastructure-in-saudi-arabia/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/21/bba102bd7ea91963f0222be5f13d42d7.png"
+article_id = 173724
+feed_item_id = 19198
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/21/ninamvm9.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Solowin Holdings (NASDAQ: SWIN), a financial services firm specializing in traditional and digital assets, has announced a significant memorandum of understanding with CITIC Contracting Company to jointly develop digital infrastructure projects in Saudi Arabia. The three-year agreement involves Solowin's US dollar-denominated fund Solomon Capital SP and targets key sectors including data science, commercial real estate, and logistics parks.</p><p>The collaboration represents a strategic move to bridge private real estate with investor demand for yield-generating alternatives in the rapidly evolving Middle Eastern market. Solowin's technology-driven platform will integrate with CITIC's extensive real estate expertise to create comprehensive solutions for the region's growing digital infrastructure needs. This partnership specifically addresses the rising demand for real-world asset tokenization across Middle Eastern markets.</p><p>The memorandum of understanding signals a commitment to developing sophisticated digital infrastructure that can support the region's economic diversification efforts. By combining Solowin's financial technology capabilities with CITIC's contracting experience, the partnership aims to create innovative solutions that meet the specific requirements of Saudi Arabia's digital transformation initiatives. Additional information about the company's developments can be found at <a href="https://ibn.fm/SWIN" rel="nofollow" target="_blank">https://ibn.fm/SWIN</a>.</p><p>This agreement positions both companies to capitalize on the increasing investor interest in digital infrastructure and tokenized real-world assets. The focus on data science infrastructure, commercial real estate development, and logistics parks aligns with Saudi Arabia's broader economic vision and digital transformation goals. The partnership leverages Solowin's established presence in both traditional and digital finance sectors to create meaningful infrastructure development in the region.</p>

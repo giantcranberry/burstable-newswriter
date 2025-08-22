@@ -6,7 +6,6 @@ summary = "Onar Holding Corporation demonstrates strong financial performance an
 description = "Onar (OTCQB: ONAR) reports 28% revenue growth in Q2 2025, expands AI capabilities through Retina.ai acquisition and strategic partnerships for mid-market marketing solutions."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-onar-holding-corporation-otcqb-onar-reports-q2-2025-results-advances-ai-strategy-and-acquisition-pipeline/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/21/914c98f3c2cb5855cbcbe454317d3830.png"
-featured = true
 article_id = 172041
 feed_item_id = 19207
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/21/dive0uD0.webp"

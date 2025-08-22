@@ -1,0 +1,15 @@
++++
+title = "Silvercorp Metals Reports Strong Q1 FY2026 Results with Record Operating Cash Flow"
+date = "2025-08-21T19:00:28Z"
+draft = false
+summary = "Silvercorp Metals achieved a 13% revenue increase and record $48.3 million operating cash flow in Q1 FY2026, demonstrating strong operational performance and financial stability in the mining sector."
+description = "Silvercorp Metals reports 13% revenue growth to $81.3M in Q1 FY2026, with record operating cash flow and strong production of silver and gold from Chinese mines."
+source_link = "https://rss.investorbrandnetwork.com/mnw/silvercorp-metals-inc-nyse-a-tsx-svm-reports-solid-production-and-revenue-in-q1-fy2026/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/21/a757923945288b47ac7c4440a789b97e.png"
+article_id = 172874
+feed_item_id = 19222
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/21/eachqu5y.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Silvercorp Metals Inc. reported robust financial results for the first quarter of fiscal year 2026, with revenue climbing 13% year-over-year to $81.3 million. The Canadian mining company produced 2.0 million ounces of silver equivalent during the quarter, comprising 1.8 million ounces of silver and 2,050 ounces of gold alongside lead and zinc by-products.</p><p>The company's adjusted net income reached $21.0 million, or $0.10 per share, while operating cash flow set a quarterly record at $48.3 million, representing a 21% increase from the same period last year. Silvercorp maintained a strong balance sheet with $377.1 million in cash and short-term investments, providing financial stability for ongoing and future projects.</p><p>Capital expenditures during the quarter focused on underground mine optimization at the Ying mining district and construction activities at the El Domo and Kuanping projects. These strategic investments aim to enhance production efficiency and expand the company's operational footprint. Higher gold output and sales contributed significantly to the revenue growth, reflecting the company's diversified metal production strategy.</p><p>The financial performance demonstrates Silvercorp's ability to maintain profitability while advancing its growth initiatives. The company's operations in China continue to deliver consistent results, with the quarterly release showing sustained production volumes and improved financial metrics. For additional details on the company's operations and financial results, investors can review the comprehensive <a href="https://www.silvercorpmetals.com/investors/financial-reports" rel="nofollow" target="_blank">quarterly report</a> available through the company's investor relations portal.</p><p>Silvercorp's strong quarterly performance comes amid ongoing developments in the global mining sector, where efficient operations and strategic capital allocation remain critical for sustained growth. The company's focus on both operational optimization and project development positions it to capitalize on potential market opportunities while maintaining financial discipline.</p>
