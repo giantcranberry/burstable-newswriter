@@ -6,7 +6,6 @@ summary = "Hidden Brains celebrates 22 years of innovation, transitioning to a '
 description = "Hidden Brains celebrates 22 years as a software development company, highlighting AI innovation, 6000+ projects, and global expansion with human+machine approach."
 source_link = "https://www.24-7pressrelease.com/press-release/526087/hidden-brains-turns-22-celebrating-convergence-of-innovation-people-and-possibilities"
 enclosure = "https://cdn.newsramp.app/genai/images/258/22/ac20fae9940b92eb6bf0767313658000.png"
-featured = true
 article_id = 173449
 feed_item_id = 19256
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/22/lushKDzS.webp"
