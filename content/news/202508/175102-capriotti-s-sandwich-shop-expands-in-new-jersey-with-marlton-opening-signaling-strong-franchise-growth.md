@@ -1,0 +1,15 @@
++++
+title = "Capriotti's Sandwich Shop Expands in New Jersey with Marlton Opening, Signaling Strong Franchise Growth"
+date = "2025-08-22T14:30:38Z"
+draft = false
+summary = "Capriotti's Sandwich Shop opens a new location in Marlton, New Jersey, part of an aggressive expansion plan that highlights the brand's growth trajectory and local economic impact."
+description = "Capriotti's Sandwich Shop opens new Marlton location August 26, featuring award-winning sandwiches like The Bobbie and expansion plans for 8 more NJ stores."
+source_link = "https://www.citybiz.co/article/735498/capriottis-sandwich-shop-opens-in-marlton-on-august-26th/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d81784b037092c9dd372018c4a75290c.jpg"
+article_id = 175102
+feed_item_id = 19278
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/22/daveju4n.webp"
+source = "citybiz"
++++
+
+<p>Capriotti's Sandwich Shop celebrated the grand opening of its newest location in Marlton on August 26, marking the second venture for local franchise owners Jimit Dharia and Urvi Jatania who also operate the Princeton location. The new shop at 1041 NJ-73, Unit H1 represents significant local investment and job creation for the South Jersey community.</p><p>The husband-and-wife franchise owners bring extensive entrepreneurial experience from their background in restaurants and construction. After discovering Capriotti's during a visit to a Pennsylvania location, they committed to the brand and plan to open eight additional locations across New Jersey, demonstrating confidence in the regional market and the chain's growth potential.</p><p>Capriotti's is renowned for its signature sandwiches including The Bobbie, voted "The Greatest Sandwich in America" by AOL.com readers, which features slow-roasted, hand-pulled turkey with cranberry sauce and stuffing. The menu also includes the Capastrami with pastrami and Russian dressing, along with various cheesesteak options made with premium ingredients including American Wagyu from <a href="https://www.snakeriverfarms.com" rel="nofollow" target="_blank">Snake River Farms</a> and plant-based alternatives.</p><p>The Marlton location offers modern convenience features including online ordering through <a href="https://www.capriottis.com" rel="nofollow" target="_blank">capriottis.com</a>, third-party delivery services, and comprehensive catering options for events. Customers can join the rewards program by visiting <a href="https://www.capriottis.com/freesub" rel="nofollow" target="_blank">capriottis.com/freesub</a> or downloading the mobile app available on App Store and Google Play platforms.</p><p>Founded in 1976, Capriotti's maintains its tradition of slow-roasting whole turkeys daily and operates over 175 locations nationwide with plans to expand to 750 locations by 2032. The chain has been recognized on Fast Casual's Top Movers & Shakers List for five consecutive years (2020-2024), indicating strong industry performance and growth trajectory. For franchise information, prospective investors can visit <a href="https://www.ownacapriottis.com" rel="nofollow" target="_blank">www.ownacapriottis.com</a>.</p>

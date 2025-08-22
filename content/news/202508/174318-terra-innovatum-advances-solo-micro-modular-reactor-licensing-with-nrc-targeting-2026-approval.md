@@ -6,7 +6,6 @@ summary = "Terra Innovatum and GSR III Acquisition Corp. are progressing through
 description = "Terra Innovatum advances NRC licensing for SOLO micro-modular nuclear reactor, achieving key regulatory milestones for clean energy deployment by 2026."
 source_link = "https://www.citybiz.co/article/735463/terra-innovatum-advances-usnrc-licensing-process-for-solo-micro-modular-nuclear-reactor-moving-one-step-closer-to-commercialization/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cc6c111844b84e860595e7c2b95320b2.jpg"
-featured = true
 article_id = 174318
 feed_item_id = 19275
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/22/dash9v8_.webp"

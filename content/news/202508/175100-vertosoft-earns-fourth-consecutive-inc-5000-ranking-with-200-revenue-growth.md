@@ -1,0 +1,15 @@
++++
+title = "Vertosoft Earns Fourth Consecutive Inc. 5000 Ranking with 200% Revenue Growth"
+date = "2025-08-22T14:30:38Z"
+draft = false
+summary = "Vertosoft's fourth straight appearance on the Inc. 5000 list highlights its 200% revenue growth and role in accelerating public sector technology transformation amid economic challenges."
+description = "Vertosoft ranks No. 2086 on Inc. 5000 list for fourth consecutive year, achieving 200% growth as a leading public sector technology solutions distributor."
+source_link = "https://www.citybiz.co/article/735491/vertosoft-ranks-no-2086-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/23d844f4e9d5a3533a306c85d9a94e8b.png"
+article_id = 175100
+feed_item_id = 19277
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/22/leansdpX.webp"
+source = "citybiz"
++++
+
+<p>Vertosoft has secured the 2,086th position on the 2025 Inc. 5000 list, marking its fourth consecutive year of recognition among America's fastest-growing private companies. The ranking reflects a three-year revenue growth exceeding 200%, achieved during a period of economic uncertainty, inflationary pressures, and labor market fluctuations. This sustained performance demonstrates the company's resilience and strategic positioning in the government technology sector.</p><p>Hannah Xiu, CFO of Vertosoft, emphasized that this achievement validates the company's consistent execution and mission-driven approach. The company specializes in providing technology solutions to federal, state, local, and higher education government sectors, focusing on accelerating public sector transformation through emerging technologies. Vertosoft's growth strategy centers on delivering innovative solutions and deepening strategic partnerships with technology providers serving government markets.</p><p>Mike Hofman, editor-in-chief of Inc., noted that earning a spot on this year's list underscores a company's tenacity and vision. These businesses have thrived amid rising costs and shifting global dynamics, serving as a powerful reminder that the entrepreneurial spirit remains the engine of the U.S. economy. For technology leaders and government stakeholders, Vertosoft's continued growth signals the increasing importance of specialized distributors in facilitating public sector digital transformation.</p><p>The company's role as a trusted distributor in the public sector market highlights its impact on modernizing government operations and driving software innovation. This recognition reinforces Vertosoft's commitment to empowering government agencies to address challenges with agility and confidence, contributing to broader economic resilience and technological advancement in public services. The achievement matters because it demonstrates how specialized technology firms can achieve substantial growth while supporting critical government functions during economically challenging periods.</p>
