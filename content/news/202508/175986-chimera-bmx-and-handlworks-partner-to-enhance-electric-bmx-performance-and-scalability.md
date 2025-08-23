@@ -1,0 +1,16 @@
++++
+title = "Chimera BMX and Handlworks Partner to Enhance Electric BMX Performance and Scalability"
+date = "2025-08-23T07:00:23Z"
+draft = false
+summary = "Chimera BMX partners with Handlworks to leverage OEM-level production of high-performance BAC855 controllers, enhancing durability and scalability for its electric BMX bikes while maintaining quality standards."
+description = "Chimera BMX partners with Handlworks to enhance electric BMX performance through custom BAC855 controllers. Learn how this collaboration improves durability and innovation in ebikes."
+source_link = "https://www.24-7pressrelease.com/press-release/526126/chimera-bmx-taps-handlworks-for-next-gen-electric-bmx-controllers"
+enclosure = "https://cdn.newsramp.app/genai/images/258/23/ceec29b4da4139a525c20cd5ab3c44f9.png"
+featured = true
+article_id = 175986
+feed_item_id = 19321
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/23/zeroh1Fu.webp"
+source = "24-7 Press Release"
++++
+
+<p>Chimera BMX and Handlworks have announced a partnership that combines OEM-level supply with a dominant vehicle platform, marking a significant step in the evolution of high-performance electric bicycles. The collaboration will see Handlworks's production line used to build potted BAC855 controllers to Chimera's design specifications, promising enhanced durability and long-term performance for the Chimera Electric BMX.</p><p>Austin Duggan, Founder of Chimera BMX, emphasized the strategic importance of this move, stating that while the company has been proficient in tuning and wiring its own BAC855 controllers since its 2022 launch, the process is labor-intensive. Handlworks brings a more sophisticated approach to testing and tuning, with excellent quality control throughout the process, ensuring a better plug-and-play solution as Chimera scales its operations.</p><p>Harrison Lu, Founder of Handlworks, highlighted the natural progression of businesses as they grow, noting that OEMs need trusted industry partners to maintain quality standards and design direction. Handlworks, an ebike speedshop offering performance-enhancing components like customized controllers, batteries, and motors, is positioned to support Chimera's expansion in the high-performance segment. The partnership leverages Handlworks's in-house engineering and dyno testing capabilities, which are detailed further at <a href="https://handlworks.com" rel="nofollow" target="_blank">https://handlworks.com</a>.</p><p>Chimera BMX, known for its lightweight electric BMX bikes that weigh as little as 38lbs and reach speeds up to 40mph with 3HP at the wheel due to its proprietary High-Drive motorization system, began shipping its first Handlworks-equipped bikes this week. Duggan added that the ebike community is eager for innovation, and such partnerships are crucial to delivering it. This collaboration not only streamlines production but also enhances the overall rider experience, reinforcing Chimera's commitment to performance and reliability in the competitive electric bicycle market.</p>

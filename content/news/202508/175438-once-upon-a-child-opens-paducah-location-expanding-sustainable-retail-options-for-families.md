@@ -1,0 +1,15 @@
++++
+title = "Once Upon A Child Opens Paducah Location, Expanding Sustainable Retail Options for Families"
+date = "2025-08-22T16:00:35Z"
+draft = false
+summary = "The new Once Upon A Child store in Paducah provides families with affordable, sustainable shopping alternatives while offering immediate cash payments for gently used children's items, supporting both environmental sustainability and local economic activity."
+description = "Once Upon A Child opens sustainable kids resale store in Paducah, offering affordable children's clothing and paying cash for gently used items. Local family ownership."
+source_link = "https://www.citybiz.co/article/735553/once-upon-a-child-brings-sustainable-kids-resale-to-paducah/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/79e3bf6f95e61de19446ad1e6eddd307.jpg"
+article_id = 175438
+feed_item_id = 19292
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/22/plumTVNY.webp"
+source = "citybiz"
++++
+
+<p>The opening of a new Once Upon A Child location at 3050 New Holt Rd in Paducah offers local families a sustainable shopping alternative for children's clothing, toys, and equipment. The store, which opened June 5, provides parents with both affordable purchasing options and immediate cash payments for gently used items they sell to the business.</p><p>The Paducah location is owned by David and Amberly Craig, who previously opened Plato's Closet in 2015. David Craig explained their motivation, stating that with three children of their own, they understand the limited shopping options for baby and children's clothing in Paducah. The couple aims to offer families an affordable, sustainable option while putting money back into the hands of local parents.</p><p>Unlike traditional consignment stores, Once Upon A Child operates without appointment requirements and provides immediate payment for accepted items. This model allows clothing, toys, and accessories to be reused rather than ending up in landfills, addressing both environmental concerns and budget constraints for families. The store's approach aligns with growing consumer interest in sustainable shopping practices while supporting local economic activity.</p><p>Safety remains a priority for the resale retailer, with staff members maintaining current knowledge of product recalls and immediately removing any recalled items from shelves. All merchandise undergoes safety checks to ensure compliance with mandatory and voluntary safety standards before being offered for sale. This commitment to safety distinguishes the resale operation from informal secondhand markets.</p><p>Once Upon A Child is part of Winmark – the Resale Company, which franchises multiple resale concepts including Plato's Closet, Play It Again Sports, Style Encore, and Music Go Round. With over 435 franchised locations across the United States and Canada, the company represents a significant movement toward sustainable retail models that benefit both consumers and the environment. Additional information about the brand and its locations can be found at <a href="https://onceuponachild.com" rel="nofollow" target="_blank">https://onceuponachild.com</a>.</p>

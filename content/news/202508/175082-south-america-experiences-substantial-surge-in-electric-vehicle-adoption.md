@@ -6,7 +6,6 @@ summary = "South American markets are showing accelerated growth in electric veh
 description = "South America experiences electric vehicle surge after years of lagging behind global markets. PowerBank Corporation positioned to benefit from emerging EV adoption trends across the region."
 source_link = "https://rss.investorbrandnetwork.com/gcs/ev-uptake-is-now-surging-in-south-america/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/22/d654c07afc0c160adf68e79bf33fdafb.png"
-featured = true
 article_id = 175082
 feed_item_id = 19302
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/22/pavexPPt.webp"
