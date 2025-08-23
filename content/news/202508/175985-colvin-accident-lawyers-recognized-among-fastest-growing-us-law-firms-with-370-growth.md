@@ -6,6 +6,7 @@ summary = "Colvin Accident Lawyers achieved 370% growth over three years, earnin
 description = "Colvin Accident Lawyers recognized by Law Firm 500 as one of America's fastest-growing law firms with 370% growth, specializing in personal injury cases in California."
 source_link = "https://www.24-7pressrelease.com/press-release/526132/colvin-accident-lawyers-honored-as-one-of-the-fastest-growing-law-firms-in-the-us-for-2024"
 enclosure = "https://cdn.newsramp.app/genai/images/258/23/25278086cd6bcfb73e5a6bf6489d0f13.png"
+featured = true
 article_id = 175985
 feed_item_id = 19320
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/23/markA5R6.webp"

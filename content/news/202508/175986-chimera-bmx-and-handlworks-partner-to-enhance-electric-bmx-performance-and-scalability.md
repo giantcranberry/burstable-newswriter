@@ -6,7 +6,6 @@ summary = "Chimera BMX partners with Handlworks to leverage OEM-level production
 description = "Chimera BMX partners with Handlworks to enhance electric BMX performance through custom BAC855 controllers. Learn how this collaboration improves durability and innovation in ebikes."
 source_link = "https://www.24-7pressrelease.com/press-release/526126/chimera-bmx-taps-handlworks-for-next-gen-electric-bmx-controllers"
 enclosure = "https://cdn.newsramp.app/genai/images/258/23/ceec29b4da4139a525c20cd5ab3c44f9.png"
-featured = true
 article_id = 175986
 feed_item_id = 19321
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/23/zeroh1Fu.webp"
