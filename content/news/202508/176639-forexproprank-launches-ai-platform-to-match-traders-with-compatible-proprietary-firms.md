@@ -6,7 +6,6 @@ summary = "ForexPropRank.com's new AI-powered platform analyzes traders' perform
 description = "ForexPropRank.com launches AI-powered platform matching traders with compatible prop firms using verified data. Higher success rates, no wasted fees. Get funded faster."
 source_link = "https://newsworthy.ai/news/202508231691/forexproprank-com-launches-ai-platform-to-help-traders-match-with-the-right-prop-firms-and-stop-failing-challenges"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/57da9f1c963e522de2e69e9b9b364d64.png"
-featured = true
 article_id = 176639
 feed_item_id = 19323
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/258/23/mintDCLf.webp"
