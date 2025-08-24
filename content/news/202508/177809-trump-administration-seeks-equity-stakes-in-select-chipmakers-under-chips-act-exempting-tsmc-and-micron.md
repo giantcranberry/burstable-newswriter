@@ -1,0 +1,16 @@
++++
+title = "Trump Administration Seeks Equity Stakes in Select Chipmakers Under CHIPS Act, Exempting TSMC and Micron"
+date = "2025-08-24T15:11:06Z"
+draft = false
+summary = "The Trump administration's new policy of seeking up to 10% equity stakes in certain semiconductor companies receiving CHIPS Act funding creates uneven financial conditions for recipients while exempting major players like TSMC and Micron, potentially reshaping future investment decisions in the domestic chip industry."
+description = "Trump administration seeks equity stakes in Intel through CHIPS Act funding while sparing TSMC and Micron. Commerce Secretary pushes for taxpayer returns on semiconductor investments."
+source_link = "https://www.citybiz.co/article/735694/white-house-backs-away-from-equity-stakes-in-tsmc-micron/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b5b03533e9307e433ebbc9f8f6d567d7.jpg"
+featured = true
+article_id = 177809
+feed_item_id = 19330
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/24/navyfBea.webp"
+source = "citybiz"
++++
+
+<p>The Trump administration is pursuing equity stakes in certain U.S. chipmakers receiving federal funding under the CHIPS Act but will exempt Taiwan Semiconductor Manufacturing Co. and Micron Technology Inc. from such demands, according to White House officials. Commerce Secretary Howard Lutnick confirmed the administration may seek up to a 10% stake in Intel Corp., arguing that taxpayers deserve financial returns from companies benefiting from government support.</p><p>This policy shift marks a significant departure from the Biden administration's approach, which limited subsidies to direct grants without equity requirements. The selective application of equity demands creates different financial conditions for companies receiving similar federal support under the $52.7 billion program designed to boost domestic semiconductor production.</p><p>TSMC, a critical supplier to major technology companies including Apple and Nvidia, has committed to substantial U.S. investments, pledging $100 billion in new funding this spring in addition to $65 billion already allocated to its Arizona fabrication facilities. The Commerce Department awarded TSMC $6.6 billion in subsidies last year to support domestic chip production. According to people familiar with the matter, TSMC executives have privately discussed returning subsidies if forced to relinquish equity stakes.</p><p>Micron Technology, which received $6.2 billion in CHIPS Act funding, expanded its U.S. manufacturing plans in June. Samsung Electronics Co. also received substantial support with $4.75 billion in federal awards. Market reactions reflected the policy announcement, with TSMC shares rising 1.3% to $142.68, Micron slipping 0.4% to $97.45, and Intel adding 0.9% to $40.82 following the news.</p><p>The differential treatment raises questions about how the administration determines which companies should provide equity returns to taxpayers and which should receive grants without strings attached. With much of the CHIPS Act funding remaining unspent, this policy approach could influence future investment decisions by semiconductor companies considering U.S. expansion projects.</p>

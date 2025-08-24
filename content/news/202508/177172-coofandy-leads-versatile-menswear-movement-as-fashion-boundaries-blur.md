@@ -6,7 +6,6 @@ summary = "COOFANDY's versatile clothing collection addresses the growing demand
 description = "COOFANDY transforms men's fashion with versatile clothing that transitions from office to weekend. Discover affordable, high-quality pieces that simplify your wardrobe."
 source_link = "https://www.24-7pressrelease.com/press-release/526137/the-rise-of-versatile-mens-clothes-coofandy-leads-the-way"
 enclosure = "https://cdn.newsramp.app/genai/images/258/24/0d172947716c21d25ceeefdefcc97ba5.png"
-featured = true
 article_id = 177172
 feed_item_id = 19325
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/24/loftGtMw.webp"
