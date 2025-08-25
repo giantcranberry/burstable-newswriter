@@ -6,7 +6,6 @@ summary = "Arizona-based Poodini Pet Waste Removal has evolved from a local serv
 description = "Arizona's Poodini pet waste service raises $5000+ for dog rescues through their Poodini Gives Back campaign, combining poop cleanup with community support."
 source_link = "https://www.24-7pressrelease.com/press-release/526147/turning-waste-into-worth-poodini-pet-waste-removal-celebrates-nearly-a-decade-of-giving-back-to-the-rescue-community"
 enclosure = "https://cdn.newsramp.app/genai/images/258/25/bfcde1e2dd14551bc5e6f8a2eef0bcdf.png"
-featured = true
 article_id = 178420
 feed_item_id = 19342
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/25/wolfW60i.webp"
