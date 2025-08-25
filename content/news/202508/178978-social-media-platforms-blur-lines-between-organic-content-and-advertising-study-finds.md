@@ -6,7 +6,6 @@ summary = "Social media platforms are implementing sophisticated advertising for
 description = "Instagram and social media platforms are making ads harder to detect as they blend into regular feeds. Learn how this affects users and businesses in the evolving digital advertising landscape."
 source_link = "https://rss.investorbrandnetwork.com/tmw/study-finds-social-media-ads-are-getting-harder-for-users-to-detect/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/25/e57420a86028f50d3e236c4aadf01109.png"
-featured = true
 article_id = 178978
 feed_item_id = 19354
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/25/nukesZZP.webp"
