@@ -6,7 +6,6 @@ summary = "The Trump administration's new policy of seeking up to 10% equity sta
 description = "Trump administration seeks equity stakes in Intel through CHIPS Act funding while sparing TSMC and Micron. Commerce Secretary pushes for taxpayer returns on semiconductor investments."
 source_link = "https://www.citybiz.co/article/735694/white-house-backs-away-from-equity-stakes-in-tsmc-micron/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b5b03533e9307e433ebbc9f8f6d567d7.jpg"
-featured = true
 article_id = 177809
 feed_item_id = 19330
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/24/navyfBea.webp"
