@@ -1,0 +1,15 @@
++++
+title = "Metavesco Proposes Blockchain Framework to Tokenize OTC Equities for Enhanced Transparency and Liquidity"
+date = "2025-08-26T14:50:09Z"
+draft = false
+summary = "Metavesco's position paper outlines a blockchain-based framework to tokenize over-the-counter equities, aiming to address systemic barriers and transform market transparency, liquidity, and capital access for small public companies."
+description = "Metavesco releases white paper proposing blockchain tokenization to transform OTC markets, addressing liquidity and transparency issues for small public companies and investors."
+source_link = "https://www.newmediawire.com/news/metavesco-publishes-tokenization-white-paper-to-advance-otc-market-transparency-and-liquidity-7082177"
+enclosure = "https://cdn.newsramp.app/genai/images/258/26/475ace840fb112cf98cd61986f8bfeb6.png"
+article_id = 181787
+feed_item_id = 19421
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/26/deep0dka.webp"
+source = "NewMediaWire"
++++
+
+<p>Metavesco, Inc. has released a position paper outlining a framework to bring over-the-counter equities on-chain through tokenization, aiming to transform market transparency and liquidity for small public companies. The document, titled <a href="https://metavesco.io/tokenizing-the-otc" rel="nofollow" target="_blank">Tokenizing the OTC: A Vision for Transparency, Liquidity, and Growth</a>, identifies systemic barriers such as limited trading volume, predatory financing practices, and lack of analyst coverage that hinder OTC issuers.</p><p>The proposed solution leverages blockchain technology to enable global liquidity by allowing tokenized shares to trade across borders, reducing dependence on U.S. broker-dealers. On-chain transparency would make every trade and issuance visible, potentially eliminating practices like naked shorting and hidden dilution. Additionally, tokenization could lower costs for issuers distributing dividends and open new fundraising tools such as smart contracts and on-chain raises.</p><p>Metavesco, which maintains a Bitcoin and Ethereum treasury and operates mining infrastructure, positions itself as a champion for this initiative. The company's vision includes creating a marketplace where small public companies have fair access to capital, and its mission involves collaborating with regulators and investors to develop responsible frameworks. On September 4, 2025, Metavesco will participate in an SEC roundtable with Commissioner Hester Peirce to discuss regulatory opportunities and barriers in the digital asset space, focusing on advocacy for tokenization.</p><p>The implications of this proposal are significant for the OTC markets, often criticized as opaque and inefficient. By harnessing blockchain, tokenization could provide real-time visibility into transactions, reduce manipulative schemes, and engage a global investor base. This shift may lower the cost of capital for small companies and offer investors greater fairness and opportunity, potentially revitalizing a segment of the market long overlooked by traditional finance.</p>

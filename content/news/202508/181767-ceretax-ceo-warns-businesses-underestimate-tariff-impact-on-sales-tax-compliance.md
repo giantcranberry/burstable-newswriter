@@ -1,0 +1,15 @@
++++
+title = "CereTax CEO Warns Businesses Underestimate Tariff Impact on Sales Tax Compliance"
+date = "2025-08-26T17:22:00Z"
+draft = false
+summary = "CereTax CEO Mike Sanders cautions that tariff changes create significant sales tax compliance risks requiring immediate system updates and advanced technology solutions to avoid financial penalties."
+description = "CereTax CEO Mike Sanders discusses AI-powered sales tax automation platform addressing tariff compliance challenges for complex industries with modern technology solutions."
+source_link = "https://www.citybiz.co/article/736594/qa-with-mike-sanders-ceo-and-co-founder-of-ceretax/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/0a7a5de710dda78fa9eea46b9852da9e.png"
+article_id = 181767
+feed_item_id = 19451
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/herbPz6v.webp"
+source = "citybiz"
++++
+
+<p>Businesses frequently underestimate how tariff changes impact sales tax compliance, creating significant financial and operational risks according to Mike Sanders, CEO and co-founder of CereTax. With over 30 years of tax technology experience, Sanders emphasizes that tariffs are not just a customs concern but directly affect sales tax calculations by increasing selling prices and altering taxability logic in various jurisdictions.</p><p>One major misconception among businesses is that tariffs can be passed directly to customers without reconsidering tax calculations. Sanders explains that how tariffs are itemized or bundled can impact sales tax outcomes, meaning companies must update their systems immediately when tariff policies change. Rapid tariff adjustments can create mismatches between customs data and sales tax records, leading to undercharged taxes or incorrect collections that trigger audits and penalties.</p><p>Technology plays a critical role in managing these complexities. Sanders emphasizes that legacy tax systems often struggle to keep pace with rapid changes, while modern platforms like <a href="https://www.cere-tax.com" rel="nofollow" target="_blank">CereTax</a> use artificial intelligence and automation to provide real-time updates and accurate calculations. This approach gives businesses full audit visibility and the agility needed to adapt when tariffs shift unexpectedly.</p><p>Looking ahead, Sanders identifies several global trade trends that will test sales tax systems over the next 3-5 years, including greener trade policies, emerging tariffs, and digital trade agreements. States may also revise taxable categories in response to global trade shifts, adding another layer of complexity for businesses operating across multiple jurisdictions.</p><p>For CFOs, Sanders offers straightforward advice: treat tariffs as trigger events for reviewing sales tax automation systems. The real return on investment in compliance comes from achieving control, clarity, and confidence rather than simply avoiding fines. Companies that stay ahead invest in infrastructure capable of modeling tariff impacts, adjusting taxability rules instantly, and executing with precision when trade policies change.</p>

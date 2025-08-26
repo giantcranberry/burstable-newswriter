@@ -6,7 +6,6 @@ summary = "Code Ninjas has launched a new Queen Anne learning center that uses v
 description = "Code Ninjas opens a new Seattle location teaching kids coding through video games. Learn about programs, camps, and franchising opportunities for STEM education."
 source_link = "https://www.citybiz.co/article/736482/building-video-games-and-learning-code-ninjas-debuts-new-queen-anne-location-to-teach-kids-coding-in-a-cool-way/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d95ad6d4f0fd8c13328c7e07f6ef6956.png"
-featured = true
 article_id = 180921
 feed_item_id = 19419
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/roamYA2A.webp"

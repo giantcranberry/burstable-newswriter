@@ -1,0 +1,15 @@
++++
+title = "APR Energy to Address Data Center Power Challenges at Datacloud USA 2025"
+date = "2025-08-26T16:01:48Z"
+draft = false
+summary = "APR Energy's participation in the Datacloud USA 2025 panel highlights the critical need for rapid, reliable power solutions to support growing AI workloads and digital infrastructure demands."
+description = "APR Energy's David Dorman joins industry leaders at Datacloud USA 2025 to address data center energy challenges. Learn about solving the energy trilemma of availability, affordability, and stability."
+source_link = "https://www.citybiz.co/article/736576/apr-energys-david-dorman-to-address-energy-trilemma-solutions-at-datacloud-usa-2025/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/467ac70d5ad407c34fe4f09db1fbc0f5.jpg"
+article_id = 181781
+feed_item_id = 19434
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/lily_F8k.webp"
+source = "citybiz"
++++
+
+<p>APR Energy will participate in Datacloud USA 2025, where Director of Commercial Operations David Dorman will join industry experts to address critical energy challenges facing data centers. The conference, taking place September 16-17, 2025 in Dallas, Texas, serves as the leading event for data center, cloud and digital infrastructure leaders.</p><p>Dorman will participate in the panel "Solving the energy trilemma: availability, affordability, stability," which will examine how data centers can secure reliable, cost-effective power amid rising energy demands. The discussion will focus on balancing these three critical factors to support digital infrastructure growth and enable new AI-driven workloads that require substantial power resources.</p><p>The panel will feature multiple industry leaders including Bob Kinscherf of Constellation, John Chesser of Quantica Infrastructure, Ihab Chaaban of GE Vernova, and Thomas Seeber of INNIO Jenbacher. Meghan Griffiths of Jackson Walker will serve as chairperson for the session scheduled for Tuesday, September 16, 2025, from 2:30 to 3:15 p.m. CT at the Austin Marriott Downtown.</p><p>APR Energy provides rapidly deployable mobile power solutions to utility and data center operators, offering emergency, bridging, and permanent energy options. The company has partnered with customers worldwide for more than 20 years, delivering fast, reliable power using mobile gas turbines. Their ability to execute large-scale projects in weeks or months—significantly faster than the 2–5 years typically required for permanent infrastructure—creates unique value for industries facing urgent power needs.</p><p>For additional information about APR Energy's services and solutions, visit <a href="https://www.aprenergy.com" rel="nofollow" target="_blank">https://www.aprenergy.com</a>. Details about the Datacloud USA conference can be found at <a href="https://www.datacloud-usa.com" rel="nofollow" target="_blank">https://www.datacloud-usa.com</a>.</p>
