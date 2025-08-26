@@ -1,0 +1,15 @@
++++
+title = "NIBA Investment Conference to Connect Emerging Growth Companies with Capital Sources"
+date = "2025-08-25T19:01:35Z"
+draft = false
+summary = "The National Investment Banking Association's 151st Investment Conference in Ft. Lauderdale serves as a critical platform for micro-cap and small-cap companies to secure funding and establish partnerships, addressing challenges in accessing investment and market recognition."
+description = "NIBA hosts 151st Investment Conference Sept 16-17 in Ft. Lauderdale, connecting emerging companies with investors. Event has facilitated $100B+ in capital raises and 90% of sub-$20M IPOs."
+source_link = "https://rss.investorbrandnetwork.com/iw/the-national-investment-banking-association-presents-its-151st-investment-conference/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/25/54665645e19325b3405094f569b6141e.png"
+article_id = 179923
+feed_item_id = 19380
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/25/rainMuiX.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>The National Investment Banking Association (NIBA) will host its 151st Investment Conference on September 16-17 in Ft. Lauderdale, Florida, bringing together emerging growth companies with investors, fund managers, and industry leaders. The conference serves as a vital networking and fundraising platform for the micro-cap and small-cap investment community, with NIBA having historically facilitated more than $100 billion in capital raises and 90% of all IPOs under $20 million.</p><p>The event provides innovative businesses with opportunities to gain visibility, secure funding, and establish lasting partnerships within the investment community. As a not-for-profit association dedicated to supporting smaller companies, NIBA's conference represents one of the most significant gatherings for emerging growth enterprises seeking investment and market exposure. The conference's importance lies in its proven track record of connecting promising companies with capital sources at a critical stage in their development.</p><p>The gathering addresses the specific challenges faced by micro-cap and small-cap companies in accessing investment and market recognition, making it an essential event for both emerging businesses and investors seeking early-stage opportunities. For more information about the event, visit <a href="https://ibn.fm/LFdrS" rel="nofollow" target="_blank">https://ibn.fm/LFdrS</a>.</p><p>By creating a high-impact environment where innovative companies can showcase their potential, NIBA continues to play a crucial role in fostering economic growth and supporting the development of new enterprises. The conference structure facilitates meaningful connections that often lead to substantial financial backing and strategic partnerships, contributing to the overall health and diversity of the investment landscape.</p>

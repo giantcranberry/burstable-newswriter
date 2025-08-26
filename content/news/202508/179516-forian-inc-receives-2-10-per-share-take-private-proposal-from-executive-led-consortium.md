@@ -6,7 +6,6 @@ summary = "Forian Inc.'s leadership consortium proposes taking the company priva
 description = "Forian Inc. receives unsolicited proposal from CEO Max Wygod to take company private at $2.10/share, a 19% premium, pending board evaluation and financing."
 source_link = "https://www.newmediawire.com/news/forian-receives-unsolicited-proposal-from-ceo-to-be-taken-private-7082169"
 enclosure = "https://cdn.newsramp.app/genai/images/258/25/b7921dd70797adfb8e1d00810ad48409.png"
-featured = true
 article_id = 179516
 feed_item_id = 19370
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/258/25/zeroiHPl.webp"
