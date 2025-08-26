@@ -6,7 +6,6 @@ summary = "Prophesee's new GenX320 Starter Kit brings event-based neuromorphic v
 description = "Prophesee launches GenX320 Starter Kit for Raspberry Pi 5, bringing event-based neuromorphic vision to developers for drones, robotics & industrial applications with ultra-low power."
 source_link = "https://prophesee-1.reportablenews.com/pr/prophesee-brings-event-based-vision-to-raspberry-pi-5-with-genx320-starter-kit"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/941189ece5aec399fd7901bb97b81018.png"
-featured = true
 article_id = 180286
 feed_item_id = 19395
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/258/26/markEUp7.webp"
