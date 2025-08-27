@@ -1,0 +1,15 @@
++++
+title = "Just-Ti Earrings Marks Five Years of Hypoallergenic Innovation with Medical-Grade Titanium Technology"
+date = "2025-08-27T07:02:36Z"
+draft = false
+summary = "Montreal-based Just-Ti Earrings celebrates five years of providing hypoallergenic titanium earrings through its patented Ti-Go system, enabling thousands with metal allergies to wear earrings safely."
+description = "Just-Ti celebrates 5 years providing hypoallergenic titanium earrings for metal allergy sufferers. Discover their patented Ti-Go interchangeable system and medical-grade jewelry solutions."
+source_link = "https://www.24-7pressrelease.com/press-release/526233/5-years-of-making-ears-happy"
+enclosure = "https://cdn.newsramp.app/24-7PressRelease/og-image.png"
+article_id = 182824
+feed_item_id = 19488
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/27/ellag3q7.webp"
+source = "24-7 Press Release"
++++
+
+<p>Canadian jewelry company Just-Ti Earrings is celebrating five years of providing hypoallergenic titanium earrings to customers who suffer from metal allergies. The Montreal-based company has helped thousands of people rediscover the joy of wearing earrings through its innovative approach to jewelry design and materials.</p><p>Founded by Chantal Beriault after three decades of personal struggle with metal sensitivities, Just-Ti emerged from a quest to wear earrings without pain. Beriault leveraged her husband's quality control expertise from competitive industries to source the highest quality titanium and create truly hypoallergenic earrings. The company's patented Ti-Go interchangeable system represents a significant advancement in jewelry technology, featuring medical-grade titanium studs with powerful neodymium magnets that allow wearers to switch between over 100 different earring styles.</p><p>The titanium base studs can be worn safely for up to a month at a time, combining the convenience of clip-on earrings with the security of pierced earrings. This year, the company expanded its offerings with a new flat back collection, building on its existing range of traditional dangle earrings, hoops, and studs. Every Just-Ti earring is crafted from medical-grade titanium, the same biocompatible metal used in surgical and dental implants, and all jewelry is inspected with XRF technology to guarantee purity.</p><p>Customer testimonials highlight the transformative impact of these products. Many customers report being able to wear earrings for the first time in years or even decades without allergic reactions. The company maintains a near-perfect review score with thousands of satisfied customers worldwide. Just-Ti continues to expand its collections while staying true to its founding motto: Just Wear Earrings Again. Customers can explore the complete collection and learn about the patent-pending Ti-Go system at <a href="https://www.justti.ca" rel="nofollow" target="_blank">https://www.justti.ca</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "TravelNet Solutions Earns Prestigious Inc. 5000 Recognition Amid Economic Challenges"
+date = "2025-08-26T23:11:46Z"
+draft = false
+summary = "TravelNet Solutions has been named to the 2025 Inc. 5000 list, highlighting its exceptional growth and the increasing importance of technology solutions in the hospitality sector during challenging economic times."
+description = "TravelNet Solutions makes 2025 Inc. 5000 list of fastest-growing US companies. Hospitality tech firm recognized for exceptional growth and innovation in vacation rental software solutions."
+source_link = "https://www.citybiz.co/article/736925/travelnet-solutions-makes-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/3dfab17fd65f423f625690e5d414f874.jpg"
+article_id = 182524
+feed_item_id = 19479
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/noontBZp.webp"
+source = "citybiz"
++++
+
+<p>TravelNet Solutions (TNS) has secured a position on the 2025 Inc. 5000 list, joining the ranks of America's fastest-growing private companies. This prestigious annual ranking has historically included industry leaders such as Microsoft, Meta, and Oracle, placing TNS among elite company in the business landscape.</p><p>The achievement is particularly noteworthy given the current economic environment characterized by uncertainty, inflationary pressures, and labor market fluctuations. According to Inc., this year's honorees have demonstrated remarkable resilience, with the top 500 companies achieving a median three-year revenue growth rate of 1,552 percent. These companies have collectively contributed significantly to the U.S. economy by adding more than 48,678 jobs over the past three years.</p><p>Boogie Wittenburg, CEO of TNS, credited the company's success to team dedication and customer-centric approach. The recognition reflects the company's ability to combine deep hospitality expertise with advanced technology solutions, positioning it as a key player in the evolving hospitality technology landscape.</p><p>Mike Hofman, editor-in-chief of Inc., emphasized the significance of this achievement in the current economic climate, noting that earning a spot on this year's list demonstrates exceptional tenacity and strategic vision. The recognition underscores the growing demand for integrated technology platforms in the hospitality sector, particularly as vacation rental companies seek comprehensive operational management solutions.</p><p>For additional information about the complete list and company rankings, readers can visit <a href="https://www.inc.com/inc5000" rel="nofollow" target="_blank">https://www.inc.com/inc5000</a>. The Inc. 5000 Conference & Gala in Phoenix this October will celebrate this year's honorees, with the top 500 companies featured in the Fall issue of Inc. magazine.</p>

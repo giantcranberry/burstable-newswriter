@@ -1,0 +1,15 @@
++++
+title = "Newton Golf Surpasses 50 Tour Professionals Using Its Shafts, Signaling Growing Elite Adoption"
+date = "2025-08-26T19:41:55Z"
+draft = false
+summary = "Newton Golf Company Inc. achieves a significant milestone with over 50 PGA TOUR Champions and LPGA Tour professionals now using its precision-engineered shafts in competition, demonstrating increased trust among elite players and highlighting the company's impact on golf equipment performance through physics-based innovation."
+description = "Newton Golf Company achieves milestone with 50+ PGA and LPGA pros using their physics-inspired shafts. Ken Duke's endorsement highlights performance gains in accuracy and distance."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-trusted-by-the-games-elite-newton-golf-company-inc-nasdaq-nwtg-reaches-new-milestone/"
+enclosure = "https://cdn.newsramp.app/ibn/og-image.png"
+article_id = 182145
+feed_item_id = 19469
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/26/fastLSpm.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Newton Golf Company Inc. (NASDAQ: NWTG) has reached a significant milestone with more than 50 professionals across the PGA TOUR Champions and LPGA Tour now using its shafts in competition, reflecting increasing trust from elite players who prioritize precision and innovation. This growth marks a substantial leap from earlier in the season, underscoring the company's impact on golf equipment performance.</p><p>A key endorsement came from professional golfer Ken Duke, who became the first to officially sign with Newton Golf, integrating the Newton Motion shaft into his bag for the 2024 season. Duke's performance, including ranking number one in driving accuracy at the Constellation FURYK & FRIENDS event, highlighted the shaft's consistency and power. He remarked on the product's ability to shape shots and gain significant yardage, stating, 'It's unbelievable how I can shape it. Not only that, but I've gained 6–15 yards with it.'</p><p>Formerly known as Sacks Parente, Newton Golf harnesses physics principles to revolutionize golf equipment design, applying Newtonian concepts to create precision-engineered clubs that offer stability, control, and enhanced performance. The company's rebranding emphasizes its commitment to innovation inspired by Sir Isaac Newton, aiming to empower golfers with scientifically advanced tools that maximize consistency and accuracy.</p><p>For additional details, readers can view the full article at <a href="https://ibn.fm/FnwXo" rel="nofollow" target="_blank">https://ibn.fm/FnwXo</a>, and more information about the company is available on its website at <a href="https://www.NewtonGolfIR.com" rel="nofollow" target="_blank">https://www.NewtonGolfIR.com</a>. Updates related to NWTG are accessible in the company's newsroom at <a href="https://ibn.fm/NWTG" rel="nofollow" target="_blank">https://ibn.fm/NWTG</a>.</p>

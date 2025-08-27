@@ -1,0 +1,15 @@
++++
+title = "Zachary's Jewelers Marks 20-Year Resilience with Small Business Grant Launch"
+date = "2025-08-26T14:51:55Z"
+draft = false
+summary = "Zachary's Jewelers celebrates two decades of community-supported recovery from a devastating fire by launching a Small Business Grant program, awarding $5,000 to ABF Coaching to support women in leadership roles."
+description = "Zachary's Jewelers celebrates 20 years in Annapolis with Fire & Ice event, small business grant to ABF Coaching, and community donations. Family-owned jeweler honors resilience."
+source_link = "https://www.citybiz.co/article/736498/zacharys-jewelers-celebrates-20-years-at-100-main-street-with-fire-ice-event/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/433ead1e5f893d2cedb19c6294c7e9fb.jpg"
+article_id = 182355
+feed_item_id = 19424
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/deepW1uS.webp"
+source = "citybiz"
++++
+
+<p>Zachary's Jewelers commemorated 20 years at its flagship 100 Main Street location with a Fire & Ice event on August 23, highlighting both its anniversary and the community support that facilitated its recovery from a catastrophic 2005 fire. The family-owned jeweler utilized this milestone to introduce its Small Business Grant program, presenting $5,000 to ABF Coaching while also donating to The Friends of the Eastport Volunteer Fire Company.</p><p>Owner Steve Samaras reflected on the business's challenging journey, recalling how a five-alarm fire on November 25, 2005, destroyed the original storefront and two adjacent buildings shortly after he lost his father. The community response was immediate and substantial—competitors offered temporary space, a local bank provided secure vault storage, and the landlord closed his souvenir shop to accommodate the jeweler, the same location Zachary's occupies today. The business reopened just one week later with a holiday party attracting over 400 guests, launching one of its most successful holiday seasons despite the adversity.</p><p>The Fire & Ice theme symbolized this resilience, while the grant program extends Zachary's Year of Gratitude initiative, which honors businesses that integrate humanity into retail operations. Nearly 50 local businesses applied for the award, which recognizes investments in people, community service, and empathetic business practices. Recipient Amanda Fisher of ABF Coaching focuses on helping women in mission-driven roles lead with purpose and impact, addressing significant underrepresentation in leadership despite women comprising nearly 75% of the social impact workforce.</p><p>Fisher emphasized that the grant provides essential breathing room to create opportunities for female leaders and contribute meaningfully to the community. Zachary's continues its mission of humanizing retail by investing in local traditions, supporting small businesses, and creating meaningful customer experiences, bolstered by longstanding team members like Evangeline Ross, Errol Daly, Doug Mixer, and Erica Cureton who supported the business during the fire.</p>

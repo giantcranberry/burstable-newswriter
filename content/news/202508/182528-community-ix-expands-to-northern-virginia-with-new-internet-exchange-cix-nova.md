@@ -1,0 +1,15 @@
++++
+title = "Community IX Expands to Northern Virginia with New Internet Exchange CIX-NoVA"
+date = "2025-08-26T17:02:03Z"
+draft = false
+summary = "Community IX has launched its new CIX-NoVA internet exchange in Northern Virginia, expanding interconnection capabilities in the world's largest data center market and offering free first-year 10G/100G port connections to enhance network resilience and performance."
+description = "Community IX launches CIX-NoVA Internet Exchange in Northern Virginia, expanding connectivity in world's largest data center market with free first-year port promotions."
+source_link = "https://www.citybiz.co/article/736618/community-ix-launches-new-internet-exchange-in-northern-virginia/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d96d64736655fd305b83b0ac6ab5829c.png"
+article_id = 182528
+feed_item_id = 19444
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/keepHKXY.webp"
+source = "citybiz"
++++
+
+<p>Community IX, operator of the FL-IX and CIX-ATL Internet Exchanges, has launched its newest internet exchange in Northern Virginia named CIX-NoVA. Service will initially be offered through data centers in Ashburn and Reston, marking the organization's first presence in the Northern Virginia market, with additional locations under review.</p><p>Driven by customer demand, CIX-NoVA will expand interconnection capabilities in the world's largest data center and connectivity market. With more than 30Tbps of port capacity already installed across its existing IX locations, Community IX has secured strong interest and committed participants to anchor the new exchange. The expansion represents a significant development for network infrastructure in a region known as a critical hub for global internet traffic.</p><p>Randy Epstein, co-founder and Executive Director of Community IX, stated that Northern Virginia has consistently emerged in conversations about expansion markets since the organization began operations in 2015. Community IX has focused on providing cost-effective, community-driven service to its membership and has experienced tremendous growth in Florida and later in the Atlanta Metro market.</p><p>CIX-NoVA enables ISPs, content providers, and enterprises to exchange IP traffic quickly, cost-effectively, and seamlessly across multiple sites in Northern Virginia. The exchange is currently open to participants with networks in Ashburn and Reston, VA. New 10G and 100G port connections are being offered free for the first year with a two-year agreement. Specific locations and details are available at <a href="https://www.communityix.org" rel="nofollow" target="_blank">https://www.communityix.org</a>. 400G port speeds are also available, though not included in the promotion.</p><p>The launch strengthens internet infrastructure in a region that serves as a critical connectivity hub for numerous industries. By providing additional interconnection options, CIX-NoVA contributes to network resilience and performance improvements throughout the Northern Virginia area, which hosts one of the highest concentrations of data centers globally.</p>

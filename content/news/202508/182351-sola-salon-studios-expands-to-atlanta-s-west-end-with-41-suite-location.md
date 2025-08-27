@@ -1,0 +1,15 @@
++++
+title = "Sola Salon Studios Expands to Atlanta's West End with 41-Suite Location"
+date = "2025-08-26T18:31:50Z"
+draft = false
+summary = "Sola Salon Studios' new Atlanta location supports beauty professionals with private studios and business resources while contributing to the West End's ongoing revitalization as a mixed-use destination."
+description = "Sola Salon Studios leases 7,952 sq ft at Atlanta's 1200 White Street adaptive reuse development, bringing 41 salon suites to West End with early 2026 opening target."
+source_link = "https://www.citybiz.co/article/736742/sola-salon-studios-joins-lineup-at-1200-white-street/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e61dc8f88a1cadf66320e3c0b244b105.jpg"
+article_id = 182351
+feed_item_id = 19455
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/loftYbHt.webp"
+source = "citybiz"
++++
+
+<p>Sola Salon Studios, a leading salon studio franchise with over 700 locations nationwide, has leased 7,952 square feet at 1200 White Street, an adaptive reuse mixed-use development in Atlanta's West End. The salon studio is targeting an early 2026 opening in the development owned by Atlanta-based Ackerman & Co. and Belgium-based Baltisse.</p><p>The location will feature 41 customized salon suites for various health and beauty specialties, providing professionals with fully-equipped private studios along with business support, educational resources, and technology solutions. Kelley Morrissey, franchise owner of the Sola Salon location, emphasized the significance of being part of the neighborhood transformation, stating the development offers beauty professionals not only business space but also the opportunity to benefit from the area's revitalization.</p><p>The project represents continued growth in the West End area, where Lee + White, another Ackerman & Co. development, has become an entertainment and business hub. Leo Wiener, President of Ackerman Retail, noted that Sola Salon Studios' addition helps build a dynamic mixed-use destination that brings together diverse businesses while creating career growth opportunities for beauty professionals.</p><p>Sola Salon's lease follows the recent opening of Dill Dinkers, a 35,891-square-foot pickleball facility that marked the growing franchise's Atlanta market entry. The 1200 White Street development, a 211,585-square-foot warehouse building undergoing adaptive reuse transformation, offers various space options for retail, restaurants, creative office, experiential concepts, and industrial uses.</p><p>The development's convenient access to the Atlanta Westside BeltLine provides additional advantages for businesses and professionals operating in the location. For more information about the company, visit <a href="https://www.ackermanco.com" rel="nofollow" target="_blank">https://www.ackermanco.com</a>.</p>

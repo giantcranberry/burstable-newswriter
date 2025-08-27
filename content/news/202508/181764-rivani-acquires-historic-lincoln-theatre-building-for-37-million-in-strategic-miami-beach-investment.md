@@ -6,7 +6,6 @@ summary = "Robert Rivani's $37 million acquisition of the historic Lincoln Theat
 description = "Robert Rivani acquires historic Lincoln Theatre building in Miami Beach for $37 million, solidifying his real estate footprint and revitalizing Lincoln Road's commercial landscape with premier tenants."
 source_link = "https://www.citybiz.co/article/736454/rivani-acquires-historic-lincoln-theatre-building-in-miami-beach-for-37-million/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f61cb6efdd8b56ad51626a2f73cf46f2.png"
-featured = true
 article_id = 181764
 feed_item_id = 19452
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/26/loss19nj.webp"
