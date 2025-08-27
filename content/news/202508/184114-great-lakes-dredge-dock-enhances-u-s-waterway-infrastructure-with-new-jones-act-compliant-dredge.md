@@ -1,0 +1,15 @@
++++
+title = "Great Lakes Dredge & Dock Enhances U.S. Waterway Infrastructure with New Jones Act-Compliant Dredge"
+date = "2025-08-27T16:21:42Z"
+draft = false
+summary = "Great Lakes Dredge & Dock Corporation has commissioned the Amelia Island, a state-of-the-art hopper dredge that strengthens national infrastructure capabilities and supports climate resilience through advanced, efficient operations."
+description = "Great Lakes Dredge & Dock unveils new Amelia Island dredge vessel, completing its advanced hopper fleet. Largest U.S. dredging company expands capabilities for waterway projects through 2026."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-great-lakes-dredge-dock-corporation-nasdaq-gldd-takes-delivery-of-new-hopper-dredge-amelia-island/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/27/f728997e9303a672e97b50fc015acb0e.png"
+article_id = 184114
+feed_item_id = 19525
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/27/irisYGKy.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Great Lakes Dredge & Dock Corporation has taken delivery of the Amelia Island, its newest Jones Act-compliant hopper dredge from Conrad Shipyard in Louisiana. The 346-foot vessel features 16,500 total horsepower, advanced automation systems, low-emission Tier IV engines, and a 6,330-cubic-yard hopper capacity designed for efficient operations in shallow and narrow U.S. waterways.</p><p>CEO Lasse Petterson emphasized that the addition of Amelia Island completes the company's newbuild program, creating what he described as the largest and most advanced hopper fleet in the nation. The vessel is immediately scheduled to begin projects through 2026, positioning the company to address growing demand for dredging services across critical infrastructure and environmental projects. The company's commitment to safety is demonstrated through its Incident-and Injury-Free safety management program integrated into all operations.</p><p>The acquisition strengthens Great Lakes' position in maintaining and improving the nation's waterways, ports, and coastal areas. The company's expanded fleet capabilities come at a time when infrastructure development and climate resilience projects require advanced dredging technology. For more information about the company's services and capabilities, visit <a href="https://gldd.com/" rel="nofollow" target="_blank">https://gldd.com/</a>.</p><p>The delivery of Amelia Island represents a significant investment in modernizing the country's dredging infrastructure, ensuring that vital water transportation routes remain navigable for commercial shipping, national security purposes, and environmental restoration efforts. The vessel's advanced features align with industry trends toward greater efficiency and reduced environmental impact in marine operations.</p>

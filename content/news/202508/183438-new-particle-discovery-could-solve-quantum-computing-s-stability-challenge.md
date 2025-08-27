@@ -6,7 +6,6 @@ summary = "Researchers have identified a previously overlooked particle that may
 description = "Quantum computing breakthrough solves qubit fragility problem. D-Wave Quantum Inc. monitors development that could unlock reliable quantum machines and transform technology industries worldwide."
 source_link = "https://rss.investorbrandnetwork.com/tmw/overlooked-particle-could-unlock-quantum-computing-study-finds/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/27/be4cb5fb08cffaf46b95f35006a99bf7.png"
-featured = true
 article_id = 183438
 feed_item_id = 19509
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/27/duneSKlR.webp"
