@@ -1,0 +1,15 @@
++++
+title = "Axxes Capital and Greywolf Launch Opportunistic Credit Fund for Wealth Advisors"
+date = "2025-08-27T18:21:56Z"
+draft = false
+summary = "Axxes Capital partners with Greywolf Capital Management to launch an SEC-registered interval fund providing wealth advisors and their clients access to institutional-grade opportunistic credit strategies with simplified structures and lower investment minimums."
+description = "Axxes Capital partners with Greywolf Capital to launch SEC-registered opportunistic credit fund for wealth advisors, offering institutional strategies to retail investors."
+source_link = "https://www.citybiz.co/article/737312/axxes-capital-partners-with-greywolf-capital-to-launch-the-axxes-opportunistic-credit-fund/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/696353b20851764571b0dd6c0c19a9a7.jpg"
+article_id = 184545
+feed_item_id = 19542
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/27/roamSMgh.webp"
+source = "citybiz"
++++
+
+<p>Axxes Capital has partnered with Greywolf Capital Management to launch the Axxes Opportunistic Credit Fund, an SEC-registered interval fund designed to provide wealth advisors and their clients access to opportunistic credit strategies typically reserved for institutional investors. The fund offers exposure to stressed and distressed credit, special situations, structured credit, and hard assets through a structure that eliminates many complexities of traditional private funds.</p><p>The partnership brings together Axxes Capital's focus on making private markets accessible with Greywolf's $3.3 billion credit expertise and two-decade track record in navigating complex markets. Joseph DaGrosa, Jr., Founder, Chairman, and CEO of Axxes Capital, stated that the fund addresses accelerating demand for differentiated income strategies while providing an efficient, transparent solution for wealth advisors.</p><p>The fund structure features low investment minimums of $25,000, no capital calls, simplified 1099 tax reporting, and quarterly redemptions of 5% of the fund's NAV. Jon Savitz, CEO of Greywolf Capital Management, emphasized that current market conditions present compelling dislocated and event-driven credit opportunities.</p><p>The fund's flexible investment mandate allows capital allocation across various opportunistic credit sectors, positioning it to adapt to evolving market conditions. Investors can access detailed information through the fund prospectus available at <a href="https://axxesfundsolutions.com" rel="nofollow" target="_blank">https://axxesfundsolutions.com</a>.</p><p>The launch represents a significant development in democratizing access to sophisticated credit strategies that have historically required substantial capital commitments and complex fund structures. By combining institutional expertise with retail-friendly features, the fund aims to deliver risk-adjusted returns while mitigating downside risk through active management and disciplined risk management approaches developed over Greywolf's twenty-year history in credit markets.</p>

@@ -6,7 +6,6 @@ summary = "Now Optics is expanding its technology-driven vision care model throu
 description = "Daniel Stanton leads Now Optics with 300+ locations, pioneering telehealth eye exams and making vision care accessible. Learn how technology transforms optical industry."
 source_link = "https://www.citybiz.co/article/737194/qa-with-daniel-stanton-founder-and-chief-executive-officer-of-now-optics/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9b9d05c510264d37219e4c6567eba953.png"
-featured = true
 article_id = 184109
 feed_item_id = 19529
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/27/poemnV2p.webp"

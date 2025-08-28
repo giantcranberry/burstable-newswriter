@@ -1,0 +1,15 @@
++++
+title = "Qualys Government Platform Achieves FedRAMP High Authorization for Federal Cybersecurity"
+date = "2025-08-27T19:31:49Z"
+draft = false
+summary = "Qualys has secured FedRAMP High Authorization for its government platform, enabling federal agencies to manage cybersecurity risks for sensitive systems through a unified solution that meets the highest security standards."
+description = "Qualys achieves FedRAMP High Authorization for its government cybersecurity platform, offering comprehensive risk management solutions for federal agencies' most sensitive systems and data protection needs."
+source_link = "https://www.citybiz.co/article/737403/qualys-secures-fedramp-high-authorization-for-its-comprehensive-risk-management-platform/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/98fc729676aeb08f13d4e015d156e049.png"
+article_id = 184355
+feed_item_id = 19546
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/27/dualAWHF.webp"
+source = "citybiz"
++++
+
+<p>Qualys, Inc. has announced that its Qualys Government Platform has achieved FedRAMP High Authorization, sponsored by the U.S. Drug Enforcement Agency. This authorization places Qualys among a select group of cybersecurity vendors authorized to support the federal government's most sensitive systems and mission-critical workloads.</p><p>The FedRAMP High designation represents the most rigorous authorization level within the Federal Risk and Authorization Management Program, aligning with NIST 800-53 High Impact controls. This level is reserved for cloud services handling the government's most sensitive unclassified data, addressing the challenges many federal agencies face with limited staff and fragmented security tools that complicate cyber risk assessment and management.</p><p>The Qualys Government Platform provides a unified cyber risk management solution offering vulnerability management, compliance, endpoint detection and response, asset inventory, policy enforcement, web application security, and upcoming cloud-native application protection capabilities. The platform delivers broad visibility and control across the entire risk surface through a single, scalable solution designed to meet the highest federal security standards.</p><p>Sumedh Thakar, president and CEO of Qualys, stated that achieving FedRAMP High Authorization demonstrates the company's significant investment in best-in-class security and reaffirms its commitment as a trusted partner in advancing the U.S. Federal Government's cybersecurity mission. The platform enables organizations to efficiently reduce risk and safeguard critical assets across both public and private sectors through unified visibility and scalable automation.</p><p>Qualys Government Cloud is now available on the <a href="https://qualys.com/fedramp-marketplace" rel="nofollow" target="_blank">FedRAMP marketplace</a>. This development represents a significant advancement in federal cybersecurity infrastructure, providing government agencies with a comprehensive solution that consolidates multiple security functions into a single platform while meeting the most stringent compliance requirements.</p>
