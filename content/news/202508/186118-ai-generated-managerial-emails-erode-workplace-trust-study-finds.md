@@ -1,0 +1,15 @@
++++
+title = "AI-Generated Managerial Emails Erode Workplace Trust, Study Finds"
+date = "2025-08-28T14:20:45Z"
+draft = false
+summary = "Research reveals that using AI for personal workplace communications significantly damages trust, forcing organizations to balance technological efficiency with authentic human connection."
+description = "Study reveals AI-written emails damage employee trust. Learn how companies like Thumzup Media are helping businesses balance AI efficiency with authentic communication."
+source_link = "https://rss.investorbrandnetwork.com/ainw/ai-written-emails-should-be-used-judiciously-by-managers-to-limit-erosion-of-trust/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/28/8f3ba996803449f343db844615f53bb3.png"
+article_id = 186118
+feed_item_id = 19580
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/28/seekT_zi.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Heavy reliance on artificial intelligence for writing emails that are meant to feel personal or sincere can significantly weaken trust within organizations, according to recent research published in the International Journal of Business Communication. The study found that many employees react negatively when managers use AI-generated content for communications that should convey authenticity and human connection.</p><p>The research indicates that the erosion of trust occurs more substantially than most organizations anticipate, creating potential challenges for workplace relationships and organizational culture. This finding comes at a time when many companies are increasingly adopting AI tools for various communication purposes, including email correspondence between managers and their teams.</p><p>Companies such as <a href="https://www.thumzup.com" rel="nofollow" target="_blank">Thumzup Media Corp. (NASDAQ: TZUP)</a> are emerging to help businesses navigate the delicate balance between effective AI implementation and maintaining genuine human connections in workplace communications. The study's implications extend beyond email communication, suggesting that organizations must carefully consider how AI integration affects interpersonal dynamics and trust-building within teams.</p><p>The research underscores the importance of judicious AI use in managerial communications, particularly for messages that require personal touch or emotional intelligence. As organizations continue to adopt AI technologies for efficiency gains, this study serves as a crucial reminder that technological advancement must be balanced with human relationship considerations. The findings suggest that while AI can enhance productivity, its application in sensitive interpersonal communications requires careful strategy and implementation to avoid unintended consequences on workplace trust and cohesion.</p>

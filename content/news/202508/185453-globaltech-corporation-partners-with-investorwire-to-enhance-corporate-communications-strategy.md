@@ -6,7 +6,6 @@ summary = "GlobalTech Corporation has engaged InvestorWire to lead its corporate
 description = "GlobalTech Corporation selects InvestorBrandNetwork to lead corporate communications strategy, enhancing AI and big data market presence through strategic partnerships and advanced syndication services."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-globaltech-corp-otc-gltk-engages-ibn-to-lead-corporate-communications/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/28/fab4f54e9d7b4fe7d80ab6d8b31a90cc.png"
-featured = true
 article_id = 185453
 feed_item_id = 19579
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/28/noteMqtz.webp"

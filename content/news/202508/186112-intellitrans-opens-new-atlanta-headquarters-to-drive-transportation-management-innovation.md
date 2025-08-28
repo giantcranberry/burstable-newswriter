@@ -1,0 +1,15 @@
++++
+title = "IntelliTrans Opens New Atlanta Headquarters to Drive Transportation Management Innovation"
+date = "2025-08-28T15:11:24Z"
+draft = false
+summary = "IntelliTrans has established a new corporate headquarters in Dunwoody, Georgia, enhancing its capacity to develop advanced transportation management solutions for bulk and breakbulk shippers navigating supply chain challenges."
+description = "IntelliTrans opens new Atlanta headquarters to enhance transportation management solutions. Strategic move strengthens supply chain innovation and TMS capabilities for global logistics operations."
+source_link = "https://www.citybiz.co/article/737628/intellitrans-opens-new-atlanta-headquarters/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/56b838c33d9195d5414d07022d306dd6.jpg"
+article_id = 186112
+feed_item_id = 19588
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/28/knot1WYQ.webp"
+source = "citybiz"
++++
+
+<p>IntelliTrans, a global multimodal transportation management software provider, has officially opened its new corporate headquarters in Dunwoody, Georgia, reinforcing its position within Atlanta's logistics ecosystem. The state-of-the-art facility supports hybrid work arrangements and ongoing product development as demand increases for the company's transportation management system (TMS).</p><p>CEO Chad Raube emphasized that the relocation addresses the need for better visibility and smarter tools among bulk and breakbulk shippers facing ongoing supply chain disruption and pressure to optimize freight operations. The new headquarters, combined with the company's operations hub in Conway, Arkansas, provides the space necessary to accelerate product innovation and scale the infrastructure customers depend on. Raube stated that the facility is designed to empower teams to deliver their best work while serving customers effectively.</p><p>The move represents a transformative growth period for IntelliTrans, which has recently expanded operations and leadership while advancing its TMS offerings. Replacing the former Midtown Atlanta office, the new headquarters brings executive leadership, product, marketing, and technical teams together under one roof to foster collaboration and align around the company's next phase of growth.</p><p>Chief Technology Officer Jim Bell highlighted the strategic advantage of being headquartered in Atlanta, noting the city's strong logistics and tech talent market. The company is building teams that understand freight complexity and possess the technical depth needed to develop scalable solutions for current supply chain challenges. For more information about the company's transportation management system for rail and trucking, visit <a href="https://www.intellitrans.com/" rel="nofollow" target="_blank">https://www.intellitrans.com/</a>.</p>
