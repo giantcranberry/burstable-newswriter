@@ -6,7 +6,6 @@ summary = "Hunan Fengsu Drill Bit Co., Ltd has developed specialized PDC drill b
 description = "Hunan Fengsu Drill Bit Co. launches innovative PDC drill bits for water well drilling, coal mining, and oil & gas operations with certified quality and custom solutions."
 source_link = "https://www.24-7pressrelease.com/press-release/526237/hunan-fengsu-drill-bit-co-ltd-precision-pdc-drill-bits-for-wells-and-mines"
 enclosure = "https://cdn.newsramp.app/genai/images/258/28/c47057750c5858b207a9fc18ca368ba4.png"
-featured = true
 article_id = 184954
 feed_item_id = 19566
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/28/lineovr2.webp"

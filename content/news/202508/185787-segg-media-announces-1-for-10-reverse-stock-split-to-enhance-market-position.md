@@ -1,0 +1,15 @@
++++
+title = "SEGG Media Announces 1-for-10 Reverse Stock Split to Enhance Market Position"
+date = "2025-08-28T13:41:41Z"
+draft = false
+summary = "SEGG Media Corporation's approved reverse stock split aims to attract institutional investors and improve market stability, reflecting strategic moves in digital entertainment and gaming."
+description = "SEGG Media announces 1-for-10 reverse stock split effective August 2025 to attract institutional investors and improve market structure for its sports and gaming platforms."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-segg-media-corporation-nasdaq-segg-ltryw-board-approves-1-for-10-reverse-stock-split/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/28/80c20abf0e6bc5145f2969981184b146.png"
+article_id = 185787
+feed_item_id = 19573
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/28/taroD6pt.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SEGG Media Corporation (NASDAQ: SEGG, LTRYW) has announced that its Board of Directors approved a 1-for-10 reverse stock split of its issued and outstanding common stock, effective at the opening of trading on Aug. 29, 2025, pending final coordination with NASDAQ, FINRA, and the company's transfer agent. This decision, following shareholder approval at the annual meeting on Feb. 20, 2025, is designed to support strategic objectives such as attracting institutional investors, improving market structure through tighter spreads and steadier trading volumes, and limiting market manipulation.</p><p>The reverse stock split is a significant step for SEGG Media, a global sports, entertainment, and gaming group that operates digital assets including Sports.com, Concerts.com, and Lottery.com. By consolidating shares, the company aims to enhance its appeal to larger investors, which could lead to increased liquidity and reduced volatility in its stock performance. This move is particularly important in the current economic climate, where market stability and investor confidence are crucial for growth and sustainability.</p><p>For investors and market observers, this announcement underscores SEGG Media's commitment to refining its market presence and aligning with broader industry trends. The company's focus on immersive fan engagement, ethical gaming, and AI-driven live experiences positions it at the forefront of digital entertainment evolution. Additional details and updates can be found in the company's <a href="https://ibn.fm/SEGG" rel="nofollow" target="_blank">newsroom</a>, providing ongoing insights into its strategic initiatives.</p><p>The implications of this reverse stock split extend beyond immediate financial adjustments; it reflects a proactive approach to corporate governance and market adaptation. By aiming to deter market manipulation and foster a more robust trading environment, SEGG Media is not only safeguarding shareholder value but also paving the way for future innovations and expansions in its portfolio of digital platforms.</p>
