@@ -1,0 +1,15 @@
++++
+title = "Propanc Biopharma Secures $4 Million Funding to Advance Cancer Stem Cell Research"
+date = "2025-08-29T14:00:44Z"
+draft = false
+summary = "Propanc Biopharma's successful $4 million public offering accelerates development of pancreatic proenzyme therapy targeting cancer recurrence and metastasis in solid tumors."
+description = "Propanc Biopharma closes $4M public offering to fund cancer stem cell treatment research targeting pancreatic, ovarian & colorectal cancers through novel proenzyme therapy."
+source_link = "https://rss.investorbrandnetwork.com/bmw/biomednewsbreaks-propanc-biopharma-inc-nasdaq-ppcb-closes-4-million-public-offering/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/29/e7ba52205052bf30de353e3c590e910d.png"
+article_id = 187403
+feed_item_id = 19649
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/29/diveCHHM.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Propanc Biopharma, Inc. has completed a $4 million underwritten public offering, selling 1,000,000 shares of common stock at $4.00 per share. This capital infusion provides critical funding for the company's innovative cancer research program focused on preventing recurrence and metastasis of solid tumors through pancreatic proenzyme therapy. The offering, which traded on the Nasdaq Capital Market from August 15 to August 18, 2025, included an additional 45-day option for the underwriter to purchase up to 150,000 extra shares.</p><p>The funding represents a significant advancement in cancer treatment research, particularly for patients with pancreatic, ovarian, and colorectal cancers. Propanc's approach specifically targets cancer stem cells, which are widely recognized as the primary drivers of tumor recurrence and metastasis—two of the most challenging aspects of cancer treatment. Conventional therapies often fail to eliminate these resilient cells, leading to disease progression despite initial treatment success.</p><p>The scientific foundation of Propanc's therapy leverages the biological activity of pancreatic enzymes, which the company identifies as the body's primary defense mechanism against cancer development. By harnessing these natural enzymes, the research aims to develop a novel treatment approach that could complement existing cancer therapies and improve long-term patient outcomes. For additional information about the company's research and development efforts, visit <a href="https://www.propanc.com" rel="nofollow" target="_blank">https://www.propanc.com</a>.</p><p>The successful completion of this offering demonstrates substantial investor confidence in Propanc's scientific approach and provides the necessary resources to advance their clinical development program. This financial backing enables continued research into a treatment modality that addresses the fundamental challenge of cancer recurrence, potentially offering new therapeutic options for patients with aggressive solid tumors that frequently resist conventional treatments. The involvement of D. Boral Capital LLC and Craft Capital Management LLC as book running managers ensured the successful execution of this financial initiative.</p>

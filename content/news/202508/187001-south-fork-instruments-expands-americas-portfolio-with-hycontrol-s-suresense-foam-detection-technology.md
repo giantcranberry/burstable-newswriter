@@ -6,7 +6,6 @@ summary = "South Fork Instruments has integrated Hycontrol's SureSense+ foam det
 description = "South Fork Instruments introduces Hycontrol's SureSense+ foam detection system for food processing, featuring IMA technology for accurate foam control and reduced chemical usage across Americas."
 source_link = "https://www.24-7pressrelease.com/press-release/526290/south-fork-instruments-expands-portfolio-with-hycontrol-suresense-for-food-processing-plants"
 enclosure = "https://cdn.newsramp.app/genai/images/258/29/0ce1586dd4d5a1d96b09d87a7e0c6ff9.png"
-featured = true
 article_id = 187001
 feed_item_id = 19641
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/29/noteGKjQ.webp"
