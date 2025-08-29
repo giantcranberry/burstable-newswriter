@@ -6,7 +6,6 @@ summary = "ESGold Corp. has formed a joint venture with Planta Magdalena S.A.S. 
 description = "ESGold Corp invests $1.5M in Colombian gold joint venture with Planta Magdalena, unlocking legacy mine waste through modern technology and sustainable mining practices."
 source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-esgold-corp-cse-esau-otcqb-esauf-featured-in-networknewsaudio-release-on-colombia-joint-venture/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/29/982a608d8a1a39b9a278f2c149ddea42.png"
-featured = true
 article_id = 187402
 feed_item_id = 19651
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/29/jokeL7pg.webp"
