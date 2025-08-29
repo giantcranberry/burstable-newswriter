@@ -1,0 +1,15 @@
++++
+title = "Lantern Pharma Launches AI Module to Predict Cancer Treatment Efficacy"
+date = "2025-08-28T19:20:44Z"
+draft = false
+summary = "Lantern Pharma has developed an artificial intelligence module that predicts the effectiveness of cancer drug combinations, potentially transforming oncology drug development by reducing costs and timelines while improving treatment personalization."
+description = "Lantern Pharma launches AI module predicting cancer treatment effectiveness. New technology integrated into RADR platform accelerates drug development and personalizes oncology care."
+source_link = "https://rss.investorbrandnetwork.com/mir/missionirnewsbreaks-lantern-pharma-inc-nasdaq-ltrn-advances-predictive-power-in-cancer-drug-development/"
+enclosure = "https://cdn.newsramp.app/genai/images/258/28/4e7d5939fc1230b290399bdbf1672549.png"
+article_id = 186435
+feed_item_id = 19621
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/28/tall0Ip0.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lantern Pharma Inc. has introduced a new artificial intelligence module designed to predict the effectiveness of cancer treatment combinations involving DNA-damaging agents and DNA damage response inhibitors. The technology integrates into the company's RADR® platform, which supports AI-guided drug development, positioning Lantern Pharma as a developer of data-driven approaches to oncology drug development.</p><p>The module enhances clinical success probabilities while aligning with industry efforts to personalize cancer treatments based on molecular and genetic profiles. This advancement represents a significant step in transforming the cost, pace, and timeline of oncology drug discovery and development through artificial intelligence and machine learning technologies.</p><p>Lantern Pharma's proprietary RADR® platform leverages over 200 billion oncology-focused data points and a library of more than 200 advanced machine learning algorithms to address real-world problems in cancer drug development. The company has accelerated its growing pipeline of therapies spanning multiple cancer indications, including both solid tumors and blood cancers, through this AI-powered approach.</p><p>The company's drug programs have demonstrated remarkable efficiency, advancing from initial AI insights to first-in-human clinical trials in just 2-3 years at approximately $2.5 million per program. This represents a substantial reduction in both time and cost compared to traditional drug development methods. Additional information about the company's developments is available in their <a href="https://ibn.fm/LTRN" rel="nofollow" target="_blank">newsroom</a>.</p><p>The integration of this predictive AI module into Lantern Pharma's existing platform underscores the growing importance of artificial intelligence in modern pharmaceutical research. By combining extensive data analysis with advanced algorithms, the company aims to improve treatment outcomes while reducing the financial and temporal burdens typically associated with cancer drug development.</p>

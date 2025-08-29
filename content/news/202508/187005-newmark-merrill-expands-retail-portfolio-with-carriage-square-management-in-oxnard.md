@@ -1,0 +1,15 @@
++++
+title = "NewMark Merrill Expands Retail Portfolio with Carriage Square Management in Oxnard"
+date = "2025-08-28T21:02:12Z"
+draft = false
+summary = "NewMark Merrill Companies has been appointed property manager for the fully leased 205,565-square-foot Carriage Square retail center in Oxnard, California, strengthening its position in the Ventura County market and demonstrating continued retail real estate demand."
+description = "NewMark Merrill Companies appointed property manager of Carriage Square retail center in Oxnard, California. The fully leased center features Lowe's, KFC, and other major tenants serving Ventura County."
+source_link = "https://www.citybiz.co/article/737904/newmark-merrill-companies-named-property-management-firm-of-fully-leased-retail-center-in-oxnard-california/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5b7e508fdcccf4a1d9a213a6c43a8c66.jpg"
+article_id = 187005
+feed_item_id = 19629
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/28/apexUinG.webp"
+source = "citybiz"
++++
+
+<p>NewMark Merrill Companies, Inc. has been named property management firm for Carriage Square, a 205,565-square-foot retail center in Oxnard, California. The Calabasas-based company will oversee operations at the fully leased property located at 301 W. Gonzales Road, expanding its management portfolio to 110 shopping centers across California, Colorado, and Illinois.</p><p>The shopping center, originally developed in the 1960s and substantially redeveloped in 2011, features Lowe's as its anchor tenant occupying a 171,069-square-foot retail pad. Other tenants include KFC, IHOP, O'Reilly Auto Parts, 7 Eleven Convenience Market, Masters Donuts, and Pacific Oaks Credit Union. The property's complete occupancy reflects strong retail demand in the Ventura County market.</p><p>NewMark Merrill will provide comprehensive property management services including operations support, leasing, accounting, construction and development, and marketing. According to Sandy Sigal, President and Chief Executive Officer of NewMark Merrill Companies, Carriage Square is integral to the Oxnard and Ventura County area with Lowe's serving as a catalyst for growth with other tenants supporting the region's daily needs.</p><p>The center's strategic location minutes from the US 101 Freeway provides exposure to thousands of daily vehicles traveling through Ventura County and from Central and Southern California. This transportation access enhances the property's value and supports tenant businesses through high visibility and convenient customer access.</p><p>The management appointment demonstrates NewMark Merrill's continued expansion in California's retail real estate market. The company's portfolio now represents over 2,000 tenants and 13 million square feet of retail space. Additional information about the company's operations and portfolio can be found at <a href="https://NewMarkMerrill.com" rel="nofollow" target="_blank">https://NewMarkMerrill.com</a>.</p>

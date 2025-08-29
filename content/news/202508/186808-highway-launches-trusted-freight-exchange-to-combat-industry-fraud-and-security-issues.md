@@ -1,0 +1,15 @@
++++
+title = "Highway Launches Trusted Freight Exchange to Combat Industry Fraud and Security Issues"
+date = "2025-08-28T21:12:28Z"
+draft = false
+summary = "Highway's new Trusted Freight Exchange platform addresses critical security and fraud challenges in freight transportation through verified identity systems and integrated payment solutions, potentially transforming industry standards."
+description = "Highway launches Trusted Freight Exchange, the first secure digital platform for verified carriers and brokers, eliminating fraud and ensuring payment security in freight transactions."
+source_link = "https://www.citybiz.co/article/737911/highway-launches-the-trusted-freight-exchange-powered-by-the-triumph-network/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/582eba41ccf7bc6309971adf5ba372bd.png"
+article_id = 186808
+feed_item_id = 19630
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/28/archo1Pc.webp"
+source = "citybiz"
++++
+
+<p>Highway has officially launched the Trusted Freight Exchange (TFX), described as the industry's first secure digital freight exchange designed exclusively for verified carriers and vetted brokers. This platform represents a significant advancement in addressing long-standing security and fraud issues that have plagued the freight transportation industry for decades.</p><p>The TFX platform integrates Highway's identity engine with Triumph's market rating, intelligence, payment, and credit capabilities, creating a comprehensive solution that embeds identity verification, compliance, pricing, and payments within a single platform. Unlike traditional load boards that often create noise, inefficiency, and exposure to fraud, TFX establishes a purpose-built ecosystem where brokers gain direct access to identity-verified, ELD-connected carriers while carriers access legitimate freight from trusted brokers without spam, uncertainty, or hidden fees.</p><p>Jordan Graft, Founder and CEO of Highway, stated that from the beginning, their goal was to build a secure, transparent platform to move freight. The TFX delivers on this promise through verified identity, assured payment, and a trusted network. Every transaction on the platform is backed by real-time fraud checks, verified rate intelligence, broker credit assurance, and secure financial settlement.</p><p>The platform specifically addresses the industry's most pressing challenges including impersonation, double brokering, fraud, non-payment, and poor visibility. By eliminating the fraud and fragmentation characteristic of traditional load boards, TFX creates a digital freight exchange defined by trust and reliability. This development marks a milestone for the freight industry by introducing a new standard of identity-first infrastructure for moving freight with confidence. For more information about the platform, visit <a href="https://highway.com/products/trusted-freight-exchange" rel="nofollow" target="_blank">https://highway.com/products/trusted-freight-exchange</a>.</p>

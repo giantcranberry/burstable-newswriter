@@ -6,7 +6,6 @@ summary = "Tropic Air Charters Inc. has established the Bahamas' only fully cert
 description = "Anthony Marinello launches Tropic Air Rescue, the Bahamas' first certified helicopter rescue service, offering membership-based emergency evacuations and enhancing regional safety."
 source_link = "https://www.citybiz.co/article/737697/qa-with-anthony-marinello-president-and-owner-of-tropic-air-charters/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/a4d3f8a0eee3fd34fc6bd46c6c2a5039.jpg"
-featured = true
 article_id = 186103
 feed_item_id = 19604
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/258/28/ninadRFC.webp"
