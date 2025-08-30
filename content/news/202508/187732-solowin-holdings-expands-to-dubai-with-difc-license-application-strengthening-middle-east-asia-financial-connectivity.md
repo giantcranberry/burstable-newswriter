@@ -6,7 +6,6 @@ summary = "Solowin Holdings launches Dubai operations and applies for DIFC asset
 description = "Solowin Holdings launches Dubai Operations Center and applies for DIFC asset management license, expanding digital financial services between Middle East and Asia markets."
 source_link = "https://rss.investorbrandnetwork.com/cw/chinesenewsbreaks-solowin-holdings-nasdaq-swin-launches-dubai-operations-center-applies-for-difc-asset-management-license/"
 enclosure = "https://cdn.newsramp.app/genai/images/258/29/59877298f23b346691fd98e66a0ed509.png"
-featured = true
 article_id = 187732
 feed_item_id = 19657
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/258/29/neonDtmI.webp"
