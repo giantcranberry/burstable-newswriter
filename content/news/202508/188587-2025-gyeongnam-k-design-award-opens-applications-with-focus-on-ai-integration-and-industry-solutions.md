@@ -6,7 +6,6 @@ summary = "The 2025 Gyeongnam K-Design Award has launched its application period
 description = "2025 Gyeongnam K-Design Award opens applications with 29M KRW prizes. Global design competition hosted by Gyeongsangnam-do Province for emerging designers worldwide."
 source_link = "https://www.24-7pressrelease.com/press-release/526345/global-creative-talent-invited-to-compete-in-2025-gyeongnam-k-design-award"
 enclosure = "https://cdn.newsramp.app/genai/images/258/30/38ae58c61c447caba96ee4e656271b97.png"
-featured = true
 article_id = 188587
 feed_item_id = 19689
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/30/noteSKVI.webp"
