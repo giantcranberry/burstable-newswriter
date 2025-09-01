@@ -6,7 +6,6 @@ summary = "CD BioGlyco's new custom glycoconjugate synthesis service enables res
 description = "CD BioGlyco offers custom glycoconjugate synthesis using their Glyco™ Platform, enabling advanced biomedical research on cell recognition and immune responses through tailored carbohydrate molecules."
 source_link = "https://www.24-7pressrelease.com/press-release/526358/cd-bioglyco-expands-service-offering-with-custom-glycoconjugate-synthesis"
 enclosure = "https://cdn.newsramp.app/genai/images/258/31/5dd23de9b91fe4673cc2763d9c47a06e.png"
-featured = true
 article_id = 189576
 feed_item_id = 19692
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/258/31/rainhnPv.webp"
