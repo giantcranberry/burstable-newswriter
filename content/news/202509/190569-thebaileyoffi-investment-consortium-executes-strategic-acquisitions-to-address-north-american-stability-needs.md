@@ -6,7 +6,6 @@ summary = "Canadian executive Illya Bailey's investment consortium is deploying 
 description = "Illya Bailey's THEBAILEYOFFI Investment Consortium drives cross-border stability amid US-Canada energy tensions and climate crises, deploying emergency response and reliable capital infrastructure."
 source_link = "https://www.24-7pressrelease.com/press-release/526156/illya-bailey-steers-risk-aligned-capital-through-thebaileyoffi-investment-consortium-in-uscanada-partnership"
 enclosure = "https://cdn.newsramp.app/genai/images/259/1/17b65965bd066a1e0733b1be98088e22.png"
-featured = true
 article_id = 190569
 feed_item_id = 19702
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/1/airyI_8H.webp"
