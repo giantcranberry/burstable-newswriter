@@ -6,7 +6,6 @@ summary = "Thailand's new AI-driven short-form news platform delivers every stor
 description = "BangkokScoop launches Thailand's first AI-powered short-form news platform delivering 50-word stories. Mobile-first design addresses information overload with fast, reliable news consumption."
 source_link = "https://www.24-7pressrelease.com/press-release/526367/bangkokscoop-launches-ai-powered-short-form-news-platform-in-thailand"
 enclosure = "https://cdn.newsramp.app/genai/images/259/2/c71025e45ff248dffda4ba8c1fde925d.png"
-featured = true
 article_id = 191352
 feed_item_id = 19714
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/2/vastUuDb.webp"
