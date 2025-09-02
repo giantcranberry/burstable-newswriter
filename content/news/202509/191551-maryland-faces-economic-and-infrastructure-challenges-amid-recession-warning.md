@@ -6,7 +6,6 @@ summary = "Maryland confronts multiple economic pressures including a high reces
 description = "Maryland faces recession risk, Medicare plan changes, and political tensions. Economic warnings, healthcare uncertainties, and environmental concerns impact residents statewide."
 source_link = "https://www.citybiz.co/article/738168/state-roundup-state-at-high-risk-for-recession-economist-says-medicare-plans-in-jeopardy-port-channel-reopens/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1b95700754e61afd20152ae210d88fa6.jpg"
-featured = true
 article_id = 191551
 feed_item_id = 19718
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/2/mildpGe0.webp"

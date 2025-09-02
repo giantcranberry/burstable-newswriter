@@ -1,0 +1,15 @@
++++
+title = "Strawberry Fields REIT Expands Healthcare Portfolio with $5.3 Million Missouri Acquisition"
+date = "2025-09-02T17:20:54Z"
+draft = false
+summary = "Strawberry Fields REIT's strategic acquisition of a Missouri healthcare facility adds 124 beds to its portfolio, demonstrating the company's focus on expanding its healthcare property holdings in resilient markets with built-in revenue growth mechanisms."
+description = "Strawberry Fields REIT acquires Missouri healthcare facility for $5.3M, adding 124 beds to portfolio. Strategic expansion boosts annual rents by $530,000 with 3% escalators."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-strawberry-fields-reit-inc-nyse-american-strw-completes-5-3-million-acquisition-in-missouri/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/2/443683b25b3f4d0cf716e25942503fbb.png"
+article_id = 192233
+feed_item_id = 19760
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/2/chefNqHn.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Strawberry Fields REIT, Inc. has completed a $5.3 million acquisition of a healthcare facility in Poplar Bluff, Missouri, adding 108 skilled nursing beds and 16 assisted living beds to its expanding portfolio. The transaction represents the company's 18th facility in Missouri and has been incorporated into an existing master lease with Reliant Care Group L.L.C., generating an additional $530,000 in annual rents with 3% annual escalators.</p><p>The acquisition demonstrates Strawberry Fields REIT's strategic focus on expanding its healthcare property holdings in key markets. The company, which operates as a self-administered real estate investment trust, specializes in the ownership, acquisition, development, and leasing of skilled nursing and healthcare-related properties. This latest purchase contributes to the company's growing presence in the healthcare real estate sector, which has shown resilience and growth potential amid changing demographic trends.</p><p>Strawberry Fields REIT's portfolio now comprises 142 healthcare facilities with over 15,500 beds across ten states, including Arkansas, Illinois, Indiana, Kansas, Kentucky, Missouri, Ohio, Oklahoma, Tennessee, and Texas. The portfolio includes 130 skilled nursing facilities, 10 assisted living facilities, and two long-term acute care hospitals, positioning the company as a significant player in the healthcare real estate market. For more information about the company's operations and portfolio, visit <a href="https://www.strawberryfieldsreit.com/" rel="nofollow" target="_blank">https://www.strawberryfieldsreit.com/</a>.</p><p>The transaction's financial implications extend beyond the immediate rental income increase, as the 3% annual escalators provide built-in revenue growth that helps protect against inflation and market fluctuations. This acquisition strategy aligns with the company's broader objective of building a diversified and sustainable healthcare property portfolio that can generate stable returns for investors while serving the growing healthcare needs of aging populations across multiple states.</p>

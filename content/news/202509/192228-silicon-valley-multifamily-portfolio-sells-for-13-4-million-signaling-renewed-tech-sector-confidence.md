@@ -1,0 +1,16 @@
++++
+title = "Silicon Valley Multifamily Portfolio Sells for $13.4 Million, Signaling Renewed Tech Sector Confidence"
+date = "2025-09-02T17:31:57Z"
+draft = false
+summary = "A 33-unit multifamily portfolio across Menlo Park, Santa Clara, and Sunnyvale sold for over $13.4 million, reflecting renewed investor confidence in Silicon Valley's rental market driven by the region's continued technology and AI dominance."
+description = "Levin Johnston of Marcus & Millichap completes $13.4M sale of three Silicon Valley multifamily properties totaling 33 units in Menlo Park, Santa Clara, and Sunnyvale."
+source_link = "https://www.citybiz.co/article/738389/levin-johnston-of-marcus-millichap-completes-sale-of-three-property-silicon-valley-multifamily-portfolio/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cb5220a5b3a4af0fc4901bdac74271bd.jpg"
+featured = true
+article_id = 192228
+feed_item_id = 19765
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/2/pinkobrL.webp"
+source = "citybiz"
++++
+
+<p>The Levin Johnston team at Marcus & Millichap has completed the sale of a three-property multifamily portfolio totaling 33 units across Menlo Park, Santa Clara, and Sunnyvale for over $13.4 million. This transaction highlights renewed investor interest in Silicon Valley's rental market, driven by the region's continued dominance in technology and artificial intelligence sectors.</p><p>According to research from the <a href="https://www.brookings.edu" rel="nofollow" target="_blank">Brookings Institution</a>, the Bay Area maintains its position as a leading hub for tech innovation despite some geographical diversification. This revitalized interest follows pandemic-driven population outflows and aligns with shifting workplace patterns and return-to-office mandates. The portfolio's diverse locations within established tech submarkets attracted buyers seeking upside potential in communities with strong employment fundamentals and low vacancy rates.</p><p>The properties include 700 & 710 Coleman Avenue in Menlo Park (15 units), 3331 Princeton Way in Santa Clara (8 units), and 119 Crescent Avenue in Sunnyvale (10 units). These vintage assets, largely in original condition, offer proximity to major employers including Meta, Intel, Google, LinkedIn, and numerous technology companies. The strategic locations provide residents access to high-quality urban and suburban living options near significant employment centers.</p><p>Market dynamics continue to support multifamily demand in Silicon Valley, where high barriers to home ownership create sustained rental housing needs. According to <a href="https://www.compass.com" rel="nofollow" target="_blank">Compass</a> data, median home prices in certain Bay Area submarkets exceed $3.5 million, reinforcing the rental market's stability. The seller, a private investor, is consolidating into larger, more stabilized assets while taking advantage of tax benefits including accelerated depreciation schedules.</p><p>This transaction occurs amid increasing commercial real estate activity, with the Levin Johnston team completing 52 transactions totaling over $286 million in 2025. Deal volume in the second quarter increased 60% over the first quarter, reflecting broader market trends and economic conditions driving transaction growth across multifamily and other property types.</p>
