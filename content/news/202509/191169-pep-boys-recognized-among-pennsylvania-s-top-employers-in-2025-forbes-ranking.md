@@ -1,0 +1,15 @@
++++
+title = "Pep Boys Recognized Among Pennsylvania's Top Employers in 2025 Forbes Ranking"
+date = "2025-09-02T00:51:51Z"
+draft = false
+summary = "Pep Boys earned the 83rd position on Forbes' America's Best-In-State Employers 2025 list, highlighting its employee satisfaction initiatives and their impact on service quality in the competitive automotive service sector."
+description = "Pep Boys earns Forbes Best-In-State Employers 2025 recognition, ranking #83 in Pennsylvania for employee satisfaction and workplace culture excellence in automotive services."
+source_link = "https://www.citybiz.co/article/738059/pep-boys-named-to-forbes-list-of-americas-best-in-state-employers-2025-in-pennsylvania/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/6e8011fc1eacaa82ae70737a274cd03f.jpg"
+article_id = 191169
+feed_item_id = 19705
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/2/wamcIgMk.webp"
+source = "citybiz"
++++
+
+<p>Pep Boys, a prominent automotive service provider, has earned recognition on the <a href="https://www.forbes.com/lists/best-in-state-employers/" rel="nofollow" target="_blank">Forbes list of America's Best-In-State Employers 2025</a>, securing the 83rd position in Pennsylvania. This annual ranking, developed in collaboration with Statista, identifies organizations excelling in employee satisfaction and workplace environment.</p><p>The selection process involved an independent survey of over 160,000 U.S. employees from companies with at least 500 workers. The evaluation incorporated more than 2 million employer assessments, with feedback sourced directly from employees and the general public. This methodology ensures the rankings reflect genuine employee perspectives on workplace quality.</p><p>Joe Auriemma, CEO of Pep Boys, stated that the recognition underscores the dedication of the company's team members and their commitment to customer service. He emphasized that fostering a workplace where employees can develop professionally, feel appreciated, and succeed remains fundamental to the company's identity.</p><p>Founded in Philadelphia in 1921, Pep Boys has maintained its headquarters in the city for over a century. The company continues to invest in its workforce through career advancement opportunities, competitive benefits packages, and a collaborative team culture. These initiatives support its operations across Pennsylvania and nationwide, reinforcing its longstanding presence in the automotive service sector.</p><p>The acknowledgment by Forbes highlights the importance of employee-centric policies in retaining talent and maintaining service quality in industries requiring skilled labor. For Pep Boys, this recognition not only enhances its employer brand but also aligns with its historical commitment to community and service excellence, dating back to its founding by Navy veterans Manny, Moe, and Jack.</p>

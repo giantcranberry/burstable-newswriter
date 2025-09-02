@@ -1,0 +1,15 @@
++++
+title = "iuvo Recognized Among World's Most Innovative Managed Service Providers in 2025 Next Generation Rankings"
+date = "2025-09-02T07:01:48Z"
+draft = false
+summary = "Boston-based iuvo has been selected for the prestigious 2025 Next Generation rankings, highlighting its innovative AI-powered solutions and exceptional growth in the managed services industry."
+description = "Boston's iuvo named among world's most innovative managed service providers in 2025 Next Generation rankings for AI integration and exceptional customer satisfaction scores."
+source_link = "https://www.24-7pressrelease.com/press-release/526282/iuvo-ranked-among-elite-managed-service-providers-on-2025-next-generation-msp-list"
+enclosure = "https://cdn.newsramp.app/genai/images/259/2/e4ace09c88b2de7d68916801eb9f3f2a.png"
+article_id = 191354
+feed_item_id = 19710
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/2/lamb1iGR.webp"
+source = "24-7 Press Release"
++++
+
+<p>iuvo has been selected as one of the world's most innovative managed service providers on the prestigious 2025 Next Generation rankings produced by the publisher of the <a href="https://www.msp501.com" rel="nofollow" target="_blank">MSP 501 awards</a>. The recognition places the Boston-based company among elite technology service providers driving new waves of growth and innovation in the technology services channel.</p><p>According to Bryon Beilman, President & CEO of iuvo, the company's success stems from its innovative approach to IT partnerships. The company has achieved customer satisfaction scores more than twice the industry average while embracing AI through first-principles thinking to engineer real solutions that deliver value.</p><p>The selection process for this year's winners utilized a proprietary methodology that measured MSP innovation based on factors including above-average revenue growth from managed services, partnerships with leading industry vendors, and delivery of AI-powered solutions to customers. Next Generation MSPs represent the future of the technology channel and IT industry due to their growth, drive, and innovation, with many generating recurring revenue from cloud, security, unified communications, and other solutions for clients across various sectors.</p><p>Robert DeMarzo, V.P. of content for Informa's channel events, emphasized the significance of this year's winners. What truly sets this year's winners apart is their commitment to AI integration across their entire service spectrum—from cybersecurity and cloud services to data analytics and network optimization. The winners will be recognized during this year's MSP Summit and the MSP 501 Gala on September 17 in Orlando.</p><p>Dave Raffo, manager of the MSP 501 and Next Generation programs at Informa, explained the selection criteria, noting that the program recognizes the most innovative MSPs poised to skyrocket in the industry. The 2025 lists are based on data collected online from February to June 2025, recognizing top managed service providers based on metrics including recurring revenue, profit margin, and other performance factors.</p>

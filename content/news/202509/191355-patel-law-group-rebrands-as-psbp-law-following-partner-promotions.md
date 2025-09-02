@@ -1,0 +1,15 @@
++++
+title = "Patel Law Group Rebrands as PSBP Law Following Partner Promotions"
+date = "2025-09-02T07:01:48Z"
+draft = false
+summary = "Texas-based Patel Law Group has rebranded to PSBP Law after promoting two partners to equity status, signaling strategic growth and expanded service capabilities in immigration, corporate, and securities law."
+description = "Patel Law Group rebrands as PSBP Law after promoting Chris Prescott and Chris Barsness to equity partners. Texas firm expands immigration and corporate services."
+source_link = "https://www.24-7pressrelease.com/press-release/526347/patel-law-group-changes-name-to-patel-soni-barsness-prescott-with-the-promotion-of-two-equity-partners"
+enclosure = "https://cdn.newsramp.app/genai/images/259/2/c6440912b1bcc2f78999541a0324435a.png"
+article_id = 191355
+feed_item_id = 19711
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/2/rift9x9P.webp"
+source = "24-7 Press Release"
++++
+
+<p>Patel Law Group, a Texas-based boutique law firm, has announced its rebranding to PSBP Law, also known as Patel, Soni, Barsness, & Prescott, following the promotion of two partners to equity status. Chris Prescott, who leads the immigration department, and Chris Barsness, head of the corporate and securities department, have joined existing equity partners Rakesh Patel, Anish Patel, and Shameer Soni. The firm will transition to the new name over the coming months.</p><p>Chris Prescott, originally a solicitor in the U.K., brings over 15 years of immigration experience to his practice. He represents clients across the U.S. in employment-based matters such as H-1B, L-1, and E-2 visas, as well as family-based cases including spousal petitions and naturalization. With over 24 years of experience, Chris Barsness focuses on business transactions, complex financings, investment funds, M&A, and securities matters. He relocated from California to join the firm four years ago.</p><p>Partner Rakesh Patel, who leads the EB-5 investment visa immigration practice, stated that the change reflects the firm's dedication to expanding its client base and exceeding expectations in areas such as asset protection, estate planning, immigration, securities, mergers and acquisitions, real estate transactions, and investment funds. Existing clients will continue to receive the same level of service under the new name, with the firm emphasizing its commitment to excellence and growth.</p><p>The rebranding underscores the firm's strategic focus on strengthening its leadership team and enhancing its service offerings. PSBP Law, formerly known as Patel Law Group, PLLC, provides efficient, results-driven legal services to local, regional, and international clients, leveraging broad experience and extensive relationships to deliver outcomes nationwide. The firm partners with individuals, start-ups, and established companies to achieve objectives in immigration, real estate, estate planning, and corporate law, embodying its motto of "Experience. Relationships. Results."</p>

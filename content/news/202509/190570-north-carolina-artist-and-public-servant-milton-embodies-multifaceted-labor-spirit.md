@@ -6,7 +6,6 @@ summary = "Milton's journey as a public servant, artist, and single father demon
 description = "NC author Milton Wayne Hanks Jr. shares his Labor Day journey from U.S. Census Bureau service to artistry and single parenthood. Discover his inspiring story and work on Amazon."
 source_link = "https://www.24-7pressrelease.com/press-release/526361/milton-shares-his-story-of-work-resilience-and-creativity-this-labor-day"
 enclosure = "https://cdn.newsramp.app/genai/images/259/1/a83e4aef6b2e4c7c53e2931855f715b6.png"
-featured = true
 article_id = 190570
 feed_item_id = 19703
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/1/icy2dm6.webp"
