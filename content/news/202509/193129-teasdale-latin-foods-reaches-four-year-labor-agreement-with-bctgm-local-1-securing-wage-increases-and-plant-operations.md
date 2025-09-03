@@ -1,0 +1,15 @@
++++
+title = "Teasdale Latin Foods Reaches Four-Year Labor Agreement with BCTGM Local 1, Securing Wage Increases and Plant Operations"
+date = "2025-09-03T06:21:56Z"
+draft = false
+summary = "Teasdale Latin Foods has finalized a comprehensive four-year labor agreement with BCTGM Local 1, providing substantial wage increases and enhanced benefits while ensuring operational continuity at its Hoopeston facility."
+description = "Teasdale Latin Foods reaches 4-year labor agreement with Grain Millers Union, featuring 17% wage increases and improved benefits for Hoopeston facility employees."
+source_link = "https://www.citybiz.co/article/738934/teasdale-latin-foods-reaches-agreement-with-grain-millers-union/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/8526cdf18ce37ca03cb2a3c5818234e4.jpg"
+article_id = 193129
+feed_item_id = 19786
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/3/zealXQ8m.webp"
+source = "citybiz"
++++
+
+<p>Teasdale Latin Foods has reached a comprehensive four-year agreement with BCTGM Local 1 (Grain Millers Union) that includes substantial wage increases and enhanced benefits for workers at its Hoopeston, Illinois facility. The agreement, finalized on August 29th, represents a significant resolution to labor negotiations and ensures the plant's continued operation with its full workforce.</p><p>The new contract provides employees with an immediate 5% wage increase and a cumulative 17% increase over the four-year term. Additionally, workers will receive 40 incremental hours of paid time off annually, marking substantial improvements in compensation and work-life balance. The company has begun welcoming back union employees and anticipates returning to full production capacity with the entire team reunited.</p><p>Tim O'Connor, Chief Executive Officer, stated that the agreement reflects the company's commitment to fairness and collaboration. The settlement ensures the long-term viability of the Hoopeston plant while supporting community resilience and upholding the company's values of transparency and integrity. The resolution demonstrates how labor-management cooperation can achieve mutually beneficial outcomes that support both workforce stability and operational continuity.</p><p>During the work stoppage, Teasdale maintained operations with temporary workers, many of whom will remain as valued team members. The company also acknowledged the critical support from its sister plant in Atwater, California, whose employees helped ensure continuity of operations. This cross-facility collaboration highlights the strength of Teasdale's operational network and its ability to maintain customer service levels during challenging circumstances.</p><p>The company expressed appreciation for customer patience and trust throughout the negotiation process. Teasdale is committed to fully returning to normal operations within the next 60 days while maintaining industry-leading service standards. The agreement represents a positive outcome for all stakeholders, including employees, the company, and the local community that depends on the facility's economic contribution.</p>

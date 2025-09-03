@@ -1,0 +1,15 @@
++++
+title = "PowerBank Corporation Advances 2.8 MW Community Solar Project in New York"
+date = "2025-09-02T13:30:52Z"
+draft = false
+summary = "PowerBank Corporation's Day Hollow solar project progresses to interconnection phase, supporting New York's renewable energy goals through community solar accessibility."
+description = "PowerBank advances 2.8 MW Day Hollow solar project in NY, enabling community solar access and supporting state climate goals with estimated $0.0971/kWh rates."
+source_link = "https://rss.investorbrandnetwork.com/ges/greenenergybreaks-powerbank-corporation-nasdaq-suun-cboe-ca-sunn-fse-103-secures-site-control-for-2-8-mw-day-hollow-solar-project-in-new-york/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/2/3c1373291e517d48fa468422bfb55d1c.png"
+article_id = 192517
+feed_item_id = 19725
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/2/coolx4pS.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>PowerBank Corporation has announced that its 2.8 MW Day Hollow ground-mount solar project in upstate New York has secured site control, enabling the project to progress to the interconnection study phase. This development represents a significant advancement for renewable energy infrastructure in the region and supports New York's ambitious climate objectives under the Climate Leadership and Community Protection Act.</p><p>The Day Hollow project is expected to qualify under New York's Value of Distributed Energy Resources program at an estimated first-year average rate of US$0.0971/kWh. Designed as a community solar initiative, the project enables renters, businesses, and homeowners to subscribe and receive bill credits without requiring on-site equipment installation. This approach significantly expands solar energy accessibility to demographics previously excluded from renewable energy benefits due to property constraints or financial barriers.</p><p>The project directly contributes to New York's target of achieving 6 GW of solar capacity by 2025. By developing distributed energy resources like the Day Hollow project, PowerBank Corporation is helping the state progress toward its renewable energy objectives while delivering economic benefits to local communities through reduced electricity costs and job creation during construction and maintenance phases. Additional information about the company's operations and development pipeline can be found at <a href="https://www.powerbankcorp.com" rel="nofollow" target="_blank">https://www.powerbankcorp.com</a>.</p><p>The advancement of community solar initiatives in New York has become increasingly critical as the state works to decarbonize its energy grid and provide equitable access to renewable energy benefits. The project's progression through the development pipeline demonstrates the continued expansion of the distributed energy sector and its essential role in meeting regional climate targets while creating new business models for energy distribution and consumption.</p>

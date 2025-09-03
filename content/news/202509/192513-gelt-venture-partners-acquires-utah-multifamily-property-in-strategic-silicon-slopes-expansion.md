@@ -1,0 +1,15 @@
++++
+title = "Gelt Venture Partners Acquires Utah Multifamily Property in Strategic Silicon Slopes Expansion"
+date = "2025-09-02T18:41:56Z"
+draft = false
+summary = "Gelt Venture Partners' acquisition of Alvera at the Meadows demonstrates strategic investment in Utah's booming Silicon Slopes region, leveraging strong market fundamentals and technology-driven growth."
+description = "Gelt Venture Partners acquires 142-unit Alvera at Meadows in Utah's Silicon Slopes. Class A multifamily property with premium amenities in booming tech hub market."
+source_link = "https://www.citybiz.co/article/738481/gelt-venture-partners-acquires-a-142-unit-multifamily-property-in-american-fork-utah/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c8dd6108d4258c8ff357a4af236c14df.jpg"
+article_id = 192513
+feed_item_id = 19769
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/2/pendFc9V.webp"
+source = "citybiz"
++++
+
+<p>Gelt Venture Partners, LLC has acquired Alvera at the Meadows, a 142-unit Class A multifamily property located at 688 W Nicholes Lane in American Fork, Utah. The property, built in 2021 and situated on 4.07 acres, features a mix of one-, two-, and three-bedroom floorplans averaging 956 square feet with premium finishes including granite countertops, wood-style flooring, and smart home technology.</p><p>Keith Wasserman, a Partner with GVP, stated that the property was acquired with approximately 95% stabilized occupancy at closing. Alvera presents us with an opportunity to bolster operations of this high-quality asset in a strong market which align with GVP's expertise and specialty for adding value to multifamily assets, Wasserman said. The acquisition marks GVP's strategic reentry into Utah, supported by the firm's proven track record in Salt Lake City where they have successfully acquired and operated over 1,000 units.</p><p>GVP Partner and Chief Investment Officer Josh Satin outlined the company's value-enhancement plans, stating that in addition to implementing improved management and operations, GVP will execute common area enhancements including better signage, enhanced interior hallways, and increased landscaping. Revenue augmentations will include optimization of the <a href="https://www.epa.gov/greenbuilding/green-building-basics" rel="nofollow" target="_blank">RUBS (Ratio Utility Billing System)</a> recovery rate among other strategies.</p><p>The North Utah County region has emerged as a major destination for technology firms and skilled professionals nationwide, with employers such as Adobe, Oracle, Microsoft, Intel, EA Sports, Qualtrics, and Ancestry.com operating in the area known as Silicon Slopes. The region has experienced remarkable population growth of 17.4% over the past five years along with consistent rental growth, creating strong market fundamentals for multifamily assets.</p><p>This transaction represents GVP's second multifamily acquisition in less than 30 days, following last month's purchase of The Commodore, a 92-unit apartment property in National City, California. Brock Zylstra and Daniel Shin from IPA represented both the buyer and seller in the American Fork transaction.</p>

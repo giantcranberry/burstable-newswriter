@@ -6,7 +6,6 @@ summary = "A 33-unit multifamily portfolio across Menlo Park, Santa Clara, and S
 description = "Levin Johnston of Marcus & Millichap completes $13.4M sale of three Silicon Valley multifamily properties totaling 33 units in Menlo Park, Santa Clara, and Sunnyvale."
 source_link = "https://www.citybiz.co/article/738389/levin-johnston-of-marcus-millichap-completes-sale-of-three-property-silicon-valley-multifamily-portfolio/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cb5220a5b3a4af0fc4901bdac74271bd.jpg"
-featured = true
 article_id = 192228
 feed_item_id = 19765
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/2/pinkobrL.webp"

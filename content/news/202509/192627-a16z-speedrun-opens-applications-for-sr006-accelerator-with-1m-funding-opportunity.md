@@ -1,0 +1,15 @@
++++
+title = "a16z Speedrun Opens Applications for SR006 Accelerator with $1M Funding Opportunity"
+date = "2025-09-02T16:31:57Z"
+draft = false
+summary = "Andreessen Horowitz's Speedrun accelerator program SR006 offers global startups up to $1 million in funding, intensive mentorship, and access to elite networks, continuing its rapid growth since 2023 with over $180 million deployed to 150+ companies."
+description = "a16z Speedrun opens SR006 applications offering $1M funding for startups. 12-week accelerator program in San Francisco with mentorship and global network access for early-stage founders."
+source_link = "https://www.citybiz.co/article/738335/a16z-speedrun-opens-applications-for-sr006-offering-up-to-1-million-for-new-startups-globally/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e2b68b784974244ab271c687da601a91.jpg"
+article_id = 192627
+feed_item_id = 19755
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/2/healuvRg.webp"
+source = "citybiz"
++++
+
+<p>a16z Speedrun has opened applications for SR006, the latest iteration of its startup accelerator program that provides up to $1 million in funding to selected companies globally. The 12-week program will commence in late January 2026 in San Francisco, culminating in a Demo Day in April 2026, offering hands-on mentorship, strategic guidance, and access to an elite network to help startups scale rapidly.</p><p>Josh Lu, Principal at a16z, stated that the program continues to be inspired by bold ideas and fresh approaches from founders worldwide. The accelerator has demonstrated significant growth since its 2023 launch, having deployed more than $180 million to fund over 150 startups through its intensive program.</p><p>SR005 marked a major milestone as the accelerator's largest and most diverse cohort to date, with more than 60 companies selected from over 14,000 applications, resulting in an acceptance rate below 0.5%. Founders represented an expanding global footprint including Canada, Spain, France, Turkey, the UK, Israel, and numerous other countries.</p><p>Participants gain access to a16z Speedrun's network of peers and alumni, along with workshops and coaching sessions led by visionaries across technology, venture capital, and entertainment. Applications for SR006 are currently open and will close on September 28, 2025, with interested founders encouraged to apply through <a href="https://speedrun.a16z.com/apply" rel="nofollow" target="_blank">https://speedrun.a16z.com/apply</a>.</p><p>For additional program information, past speakers, and frequently asked questions, visit <a href="https://speedrun.a16z.com" rel="nofollow" target="_blank">https://speedrun.a16z.com</a>. The program emphasizes that the information provided should not be construed as investment advice, with other important disclosures available at <a href="https://a16z.com/disclosures" rel="nofollow" target="_blank">https://a16z.com/disclosures</a>.</p>
