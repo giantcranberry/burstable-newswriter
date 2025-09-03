@@ -6,7 +6,6 @@ summary = "US Wind confirms its $400 million Sparrows Point steel manufacturing 
 description = "US Wind moves forward with $400M Maryland steel facility despite $47.4M federal grant withdrawal, creating hundreds of manufacturing jobs for offshore wind and shipbuilding industries."
 source_link = "https://www.citybiz.co/article/739011/us-wind-says-baltimore-steel-facility-will-move-ahead-despite-feds-pulling-back-47-4-million/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/78716fd38399ac4c422c6d531f632316.jpg"
-featured = true
 article_id = 193516
 feed_item_id = 19820
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/3/navysYTO.webp"

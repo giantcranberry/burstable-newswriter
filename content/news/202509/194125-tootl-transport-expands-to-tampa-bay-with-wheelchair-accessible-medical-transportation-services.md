@@ -1,0 +1,15 @@
++++
+title = "Tootl Transport Expands to Tampa Bay with Wheelchair Accessible Medical Transportation Services"
+date = "2025-09-03T15:41:47Z"
+draft = false
+summary = "Tootl Transport has launched its first Florida location in Tampa Bay, providing critical non-emergency medical transportation services for seniors and individuals with mobility challenges, addressing transportation barriers and supporting independent living in the region."
+description = "Tootl Transport launches Tampa Bay operations providing wheelchair accessible rides for seniors & mobility-challenged individuals. 24/7 service, no medical authorization required."
+source_link = "https://www.citybiz.co/article/739165/tootl-transport-rolls-into-tampa-bay-providing-safe-and-dependable-rides-for-those-with-mobility-cognitive-challenges/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/7994f5d6d031a33d23cd65d4cf2949e2.jpg"
+article_id = 194125
+feed_item_id = 19843
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/3/loftApy9.webp"
+source = "citybiz"
++++
+
+<p>Tootl Transport, a non-emergency medical transportation service specializing in wheelchair accessible rides, has established its first Florida location in Tampa Bay, serving Hillsborough, Pinellas, and Pasco counties. The service addresses transportation barriers for seniors, wheelchair users, and individuals with mobility and cognitive challenges requiring specially equipped vehicles and trained drivers.</p><p>Founded in 2012 and previously operating in the Chicago area, Tootl Transport initiated franchising in 2024 to expand its mission-driven services nationally. The company emphasizes core values of trust, respect, empathy, and kindness, aiming to provide dignified and reliable transportation for medical appointments, rehabilitation, family gatherings, and other essential trips. Founder Michelle Dacy identified Tampa Bay's growing and diverse community as ideal for their services, noting the region's significant senior population and need for inclusive transportation solutions.</p><p>The expansion into Florida represents a strategic step in Tootl Transport's national growth, with existing locations in Illinois, Wisconsin, Texas, and Colorado. The service operates 24/7 without requiring medical authorization, application processes, or waiting periods, offering same-day rides, advance reservations, and recurring service options. For more details about their Tampa Bay operations, visit <a href="https://www.ridetootl.com/tampabay/" rel="nofollow" target="_blank">https://www.ridetootl.com/tampabay/</a>.</p><p>This development enhances mobility access for vulnerable populations in a major metropolitan area, reducing transportation disparities and supporting independent living. The service's model prioritizes customer safety and convenience, potentially influencing broader adoption of inclusive transportation solutions in other regions and setting new standards for accessibility in the transportation industry.</p>
