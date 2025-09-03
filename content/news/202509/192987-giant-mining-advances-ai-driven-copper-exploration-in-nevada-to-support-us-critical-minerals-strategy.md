@@ -6,7 +6,6 @@ summary = "Giant Mining Corp. has launched its 2025 Phase 2 Exploration Program 
 description = "Giant Mining Corp launches AI-driven Phase 2 exploration at Nevada's Majuba Hill copper-silver-gold project, building on successful drilling results and targeting domestic critical mineral supply."
 source_link = "https://www.newmediawire.com/news/giant-mining-expands-new-copper-discovery-at-majuba-hill-copper-silver-gold-project-nevada-with-ai-driven-drill-program-as-phase-2-exploration-begins-7082326"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/8eafb47e619d8da43fdf41bfd4a81e46None"
-featured = true
 article_id = 192987
 feed_item_id = 19802
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/3/joke7k14.webp"

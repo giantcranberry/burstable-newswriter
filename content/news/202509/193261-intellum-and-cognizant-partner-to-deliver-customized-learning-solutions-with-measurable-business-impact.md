@@ -1,0 +1,15 @@
++++
+title = "Intellum and Cognizant Partner to Deliver Customized Learning Solutions with Measurable Business Impact"
+date = "2025-09-03T11:01:51Z"
+draft = false
+summary = "Intellum and Cognizant have formed a strategic partnership combining enterprise learning technology with digital transformation consulting to help organizations scale engaging learning experiences that deliver measurable business outcomes."
+description = "Intellum and Cognizant partner to deliver AI-powered learning solutions that drive measurable business outcomes through customized corporate training and digital transformation services."
+source_link = "https://newsworthy.ai/news/202509031593/intellum-and-cognizant-partner-to-deliver-scalable-outcome-driven-learning-solutions"
+enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/44f06ef5ef11093eb3003f5e1d7d49cb.png"
+article_id = 193261
+feed_item_id = 19804
+qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/259/3/lunab_zd.webp"
+source = "Newsworthy.ai"
++++
+
+<p>Intellum, a leading enterprise learning management solution provider, has announced a strategic partnership with global professional services company Cognizant to deliver customized learning experiences that drive measurable business outcomes across various industries. The collaboration combines Cognizant's decades of experience in enterprise process, technology, and transformation consulting with Intellum's robust learning platform.</p><p>Cognizant brings expertise in digital transformation, artificial intelligence, and data analytics that complements Intellum's learning capabilities, enabling organizations to scale engaging learning experiences across diverse audiences. Dan Hynes, VP of Partnerships at Intellum, stated that the partnership offers clients a powerful combination of strategic consulting and scalable learning technology, ensuring that learning initiatives not only engage but also deliver measurable business impact.</p><p>Through this partnership, clients can leverage Cognizant's strategic consulting services alongside Intellum's comprehensive learning platform, which includes personalized learning paths, advanced analytics, and seamless integrations. This synergy ensures that learning programs are tailored to the unique needs of each organization while being delivered efficiently and effectively at scale. The partnership addresses the growing need for organizations to transform their learning and development strategies to keep pace with rapid technological changes and evolving workforce requirements.</p><p>The collaboration represents a significant development in the enterprise learning space, where organizations increasingly seek solutions that not only provide educational content but also demonstrate clear return on investment and business impact. By combining consulting expertise with technological capabilities, the partnership aims to help companies reimagine their operations and turn strategic visions into practical, implementable learning solutions that drive tangible results across customer, partner, and employee education initiatives.</p>
