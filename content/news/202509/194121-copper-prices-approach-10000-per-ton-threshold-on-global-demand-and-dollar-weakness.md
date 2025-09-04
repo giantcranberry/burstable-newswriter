@@ -6,7 +6,6 @@ summary = "Copper prices are nearing the critical $10,000 per ton level on susta
 description = "Copper prices approach $10,000 per ton amid weak USD and strong demand. Torr Metals Inc. and mining sector watch rally. Rocks & Stocks provides market insights."
 source_link = "https://rss.investorbrandnetwork.com/rns/copper-moves-closer-to-10000-mark-as-it-consolidates-its-gains/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/3/b4fc021d288e56fba771295ddb15df1e.png"
-featured = true
 article_id = 194121
 feed_item_id = 19855
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/3/noon17GD.webp"

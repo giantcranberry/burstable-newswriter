@@ -1,0 +1,15 @@
++++
+title = "Ucore Rare Metals Completes $1.1 Million Debt Conversion, Strengthening Balance Sheet for Rare Earth Projects"
+date = "2025-09-03T19:10:29Z"
+draft = false
+summary = "Ucore Rare Metals Inc. has successfully converted its remaining $1.1 million in convertible debentures into equity, enhancing financial flexibility for its strategic rare earth element projects aimed at reducing North American dependence on Chinese supply chains."
+description = "Ucore Rare Metals converts $1.1M debentures to equity, strengthening its position in rare earth supply chain innovation and North American critical minerals development."
+source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-ucore-rare-metals-inc-tsxv-ucu-otcqx-uuraf-completes-automatic-conversion-of-remaining-1-1m-convertible-debentures/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/3/a10655ebf5910e39c49d27c6dc9ad464.png"
+article_id = 194476
+feed_item_id = 19900
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/3/mielsByl.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Ucore Rare Metals Inc. has completed the automatic conversion of its remaining $1.1 million in convertible debentures into equity, marking a significant milestone in the company's financial restructuring. The conversion was triggered after Ucore's shares closed at $2.20 or higher on the TSX Venture Exchange for 20 consecutive trading days, reaching this threshold on September 2, 2025.</p><p>Under the conversion terms, Ucore issued 1,222,219 common shares and 611,108 warrants, effectively eliminating all outstanding debenture obligations. The original debentures were issued in May 2020 at $1,000 each with 7.5% annual interest, with terms later amended in 2024 to mature on January 31, 2026, and a conversion price of $0.90 per unit. This financial development is particularly significant given that certain debentures were held by related parties, including Chairman and CEO Pat Ryan, though the transaction is exempt from MI 61-101 minority approval requirements.</p><p>The conversion represents a strategic strengthening of Ucore's balance sheet as the company continues its focus on rare and critical metal resources, extraction, and separation technologies. Ucore's vision includes disrupting China's control of the North American rare earth element supply chain through the development of processing facilities in strategic locations. The company's near-term plans include establishing a heavy and light rare-earth processing facility in Louisiana, with subsequent strategic metal complexes planned for Canada and Alaska.</p><p>The latest news and updates relating to UURAF are available in the company's newsroom at <a href="https://ibn.fm/UURAF" rel="nofollow" target="_blank">https://ibn.fm/UURAF</a>. The completion of this debt conversion positions Ucore with enhanced financial flexibility as it advances its long-term development projects, including the Bokan-Dotson Ridge Rare Heavy REE Project on Prince of Wales Island in Southeast Alaska.</p>

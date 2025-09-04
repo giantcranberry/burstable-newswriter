@@ -1,0 +1,15 @@
++++
+title = "DC BLOX to Address AI Infrastructure Collaboration at Datacloud USA 2025"
+date = "2025-09-03T14:31:49Z"
+draft = false
+summary = "DC BLOX's participation in Datacloud USA 2025 highlights the critical collaboration between fiber providers and data center operators needed to support America's AI growth through enhanced connectivity infrastructure."
+description = "DC BLOX CRO Chris Gatch joins Datacloud USA 2025 panel on fiber and data center collaboration to enhance America's AI leadership and infrastructure development."
+source_link = "https://www.citybiz.co/article/739067/dc-blox-cro-chris-gatch-to-participate-in-datacloud-usa-panel/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/57b978b9591f475bc7c5971fde92844c.webp"
+article_id = 194486
+feed_item_id = 19837
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/3/zest4iIv.webp"
+source = "citybiz"
++++
+
+<p>DC BLOX, a provider of connected data centers and fiber network solutions across the Southeastern United States, will participate in Datacloud USA 2025 scheduled for September 16–17, 2025, in Austin, Texas. The company is sponsoring the event, with Chief Revenue Officer Chris Gatch joining industry experts for a panel discussion on advancing the country's AI growth through collaboration between fiber providers and data center operators.</p><p>Datacloud USA, co-located with Metro Connect Fall, brings together leaders in the data center, fiber, and energy markets to address key themes, challenges, and opportunities shaping digital infrastructure's future. Gatch will speak during a panel titled "Fiber and data centers: collaborating to enhance America's AI leadership" on the event's first day. Participants will examine how surging demand from AI and cloud computing drives the need for robust fiber infrastructure to support data center expansion.</p><p>Gatch is expected to offer insights into how regional connectivity strategies and new fiber investments can create opportunities for data centers in underserved growth markets. The session will also cover how operators and fiber providers can work together to deliver scalable, low-latency connectivity solutions essential for AI applications. The discussion takes on increased significance as AI workloads require massive data transfer capabilities and minimal latency, making fiber infrastructure critical to national competitiveness in artificial intelligence.</p><p>The panel will feature additional industry leaders including Colby Cox of DC Byte, Srikanth Manthena of Singtel, Brad Alexander of DartPoints, and Doug Recker of Duos Edge AI, with James Grice of Akerman LLP serving as chairperson. For registration information, visit <a href="https://www.datacloud-usa.com/registration-ygps" rel="nofollow" target="_blank">https://www.datacloud-usa.com/registration-ygps</a>. Additional company information is available at <a href="https://www.dcblox.com" rel="nofollow" target="_blank">https://www.dcblox.com</a>.</p>

@@ -1,0 +1,15 @@
++++
+title = "RapidFire Safety & Security Appoints Jessica Rotge as Southern California Area Manager to Strengthen Regional Operations"
+date = "2025-09-03T16:02:07Z"
+draft = false
+summary = "RapidFire Safety & Security's appointment of Jessica Rotge as Area Manager for Southern California enhances the company's operational capabilities and supports its strategic expansion in fire and life safety services across key US regions."
+description = "RapidFire Safety & Security appoints Jessica Rotge as Southern California Area Manager to enhance fire and life safety operations across the region."
+source_link = "https://newsroom.prkarma.com/rapidfire/news_release/1682"
+enclosure = "https://cdn.newsramp.app/pr-karma/newsimage/6ca8bc9ea35119c733d93036ed78cfe4.jpg"
+article_id = 194484
+feed_item_id = 19844
+qrcode = "https://cdn.newsramp.app/pr-karma/qrcode/259/3/swimFWcm.webp"
+source = "PR Karma"
++++
+
+<p>RapidFire Safety & Security announced the appointment of Jessica Rotge as Area Manager for Southern California, reinforcing the company's commitment to delivering high-quality fire and life safety services in the region. Rotge brings extensive leadership experience in the fire and life safety industry, with a proven history of managing large service operations, guiding technical deployments, and leading teams that deliver mission-critical protection for clients and their communities.</p><p>In her new role, Rotge will focus on strengthening RapidFire's service operations across Southern California, ensuring that businesses and communities continue to benefit from industry-leading fire and life safety solutions. Her expertise in overseeing 24/7 monitoring and incident response teams, driving operational improvements through automation and process enhancements, and leading enterprise-scale projects will be instrumental in advancing the company's mission to safeguard people, property, and critical infrastructure with uncompromising reliability.</p><p>Rotge is widely recognized for her ability to build high-performing teams, foster cross-functional collaboration, and maintain clarity under pressure. This appointment aligns with RapidFire's multi-regional Buy & Build strategy, which aims to develop a world-class platform throughout the Midwest, Southwest, and Western United States. The strategy is supported by <a href="https://www.ficcep.com" rel="nofollow" target="_blank">Concentric Equity Partners</a>, a private investment firm that provides capital and strategic advisory to accelerate long-term value creation.</p><p>The addition of Rotge to the leadership team underscores RapidFire's focus on expanding its operational excellence and community impact. Her role will be critical in enhancing service delivery and ensuring that Southern California clients receive reliable, cutting-edge safety solutions. This move is part of RapidFire's broader effort to partner with entrepreneurs and owners in the fire, life safety, and security industries to extend their legacy and community impact through people-focused leadership.</p>
