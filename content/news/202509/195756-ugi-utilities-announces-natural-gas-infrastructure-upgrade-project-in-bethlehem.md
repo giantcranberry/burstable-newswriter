@@ -6,7 +6,6 @@ summary = "UGI Utilities will begin a natural gas main replacement project in Be
 description = "UGI Utilities begins natural gas main replacement in Bethlehem on Sept 8, 2025, offering conversion opportunities. Project affects Brodhead Avenue areas with temporary disruptions."
 source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-in-bethlehem-could-provide-opportunities-to-convert-to-natural-gas"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/3c04a4e841e376c925bcefe41b151d4c.jpg"
-featured = true
 article_id = 195756
 feed_item_id = 19945
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/259/4/oxenEK7O.webp"

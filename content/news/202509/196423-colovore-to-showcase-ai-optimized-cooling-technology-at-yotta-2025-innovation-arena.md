@@ -1,0 +1,15 @@
++++
+title = "Colovore to Showcase AI-Optimized Cooling Technology at Yotta 2025 Innovation Arena"
+date = "2025-09-04T15:31:14Z"
+draft = false
+summary = "Colovore will present its advanced liquid-cooling data center technology at Yotta 2025, addressing critical cooling challenges for AI and high-performance computing workloads that could significantly impact enterprise AI deployment efficiency."
+description = "Colovore presents advanced liquid-cooled data center solutions at Yotta 2025 Innovate Arena, showcasing AI infrastructure innovation for high-density computing workloads and enterprise AI deployment."
+source_link = "https://www.citybiz.co/article/740061/colovore-to-share-high-density-cooling-solutions-at-yotta-2025-innovate-arena/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ee5b305544e304acaf7ec22b5df29330.jpg"
+article_id = 196423
+feed_item_id = 19961
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/4/bendN1ib.webp"
+source = "citybiz"
++++
+
+<p>Colovore, a provider of high-density colocation data centers for AI, HPC, and enterprise workloads, will present its cooling innovations at the Innovate Arena during Yotta 2025 in Las Vegas. The company's participation in the Cool IT category focuses on redefining data center performance through advanced platforms that unlock the full potential of AI innovation.</p><p>Tomek Mackowiak, Vice President of Product & Business Development at Colovore, will deliver a rapid-fire pitch highlighting how the company's technology addresses the intense cooling requirements of modern computing workloads. The presentation, titled "Building the Backbone of AI: Colovore's Platform for Unstoppable Innovation," will occur on Monday, September 8, 2025, at 4:55 PM PDT at The MGM Grand.</p><p>The Innovate Arena program models itself after Shark Tank, featuring 20 companies across four technology categories. Each presentation will face challenging questions from expert judges and be scored across multiple criteria, with audience voting determining awards including Best in Show and Audience Choice. Colovore's pitch emphasizes its decade of experience in ultra-dense, liquid-cooled data centers specifically engineered for next-generation chips.</p><p>Colovore's data centers deliver power densities ranging from 17kW to over 350kW per cabinet through advanced liquid-cooling technology, positioning the company at the forefront of the enterprise AI revolution. This capability has made Colovore the data center partner of choice for Fortune 500 companies and fast-growing technology firms deploying AI workloads. The company maintains operations in Silicon Valley and is expanding into additional Tier I markets to meet increasing demand for high-performance computing infrastructure.</p><p>For more information about Colovore's services, visit <a href="https://www.colovore.com" rel="nofollow" target="_blank">https://www.colovore.com</a>. The company's technology enables clients to optimize IT footprints, reduce total cost of ownership, and ensure long-term scalability in the AI era through its purpose-built infrastructure and operational excellence.</p>
