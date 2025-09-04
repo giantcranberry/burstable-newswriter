@@ -6,7 +6,6 @@ summary = "Onlive Server's new UK Dedicated Server Hosting provides enterprises 
 description = "Onlive Server launches UK Dedicated Server Hosting with advanced performance, security, and customization for enterprise applications. Ideal for banking and e-commerce."
 source_link = "https://www.24-7pressrelease.com/press-release/526401/onlive-server-uk-dedicated-servers-with-intel-amd-unlimited-traffic-ssdnvme"
 enclosure = "https://cdn.newsramp.app/genai/images/259/4/5b1c08bc90bba6276c3d95d3a3e1f58a.png"
-featured = true
 article_id = 195304
 feed_item_id = 19933
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/4/limeBNHi.webp"

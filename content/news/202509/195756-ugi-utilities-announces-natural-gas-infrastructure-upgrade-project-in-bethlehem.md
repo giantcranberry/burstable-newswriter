@@ -1,0 +1,16 @@
++++
+title = "UGI Utilities Announces Natural Gas Infrastructure Upgrade Project in Bethlehem"
+date = "2025-09-04T14:01:48Z"
+draft = false
+summary = "UGI Utilities will begin a natural gas main replacement project in Bethlehem on September 8, 2025, offering conversion opportunities that could provide cost savings and environmental benefits while enhancing service reliability."
+description = "UGI Utilities begins natural gas main replacement in Bethlehem on Sept 8, 2025, offering conversion opportunities. Project affects Brodhead Avenue areas with temporary disruptions."
+source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-in-bethlehem-could-provide-opportunities-to-convert-to-natural-gas"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/3c04a4e841e376c925bcefe41b151d4c.jpg"
+featured = true
+article_id = 195756
+feed_item_id = 19945
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/259/4/oxenEK7O.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities, Inc. will commence a natural gas main replacement project in Bethlehem on September 8, 2025, as part of the company's ongoing commitment to maintaining safe and reliable energy service. The infrastructure upgrades present a significant opportunity for homes and businesses located along the project route to convert to natural gas service, potentially offering cost savings and environmental benefits compared to other energy sources.</p><p>The underground construction work will focus on two key areas: the Second Street Ramp onto Brodhead Avenue and Brodhead Avenue between West Third Street and Broadway. Scheduled for completion by the end of September, weather permitting, the project will operate Monday through Friday from 7:00am to 5:00pm. Residents and commuters should anticipate temporary road closures, detours, and parking restrictions during construction hours.</p><p>The system upgrades represent UGI's continued investment in modern energy infrastructure, which serves more than 760,000 customers across its service territory. Additional information about UGI Utilities, Inc. is available at <a href="https://www.ugi.com" rel="nofollow" target="_blank">https://www.ugi.com</a>. The company emphasizes that these infrastructure improvements are designed to enhance service reliability and safety while reducing maintenance needs for the aging pipeline system.</p><p>During the construction period, some customers may experience temporary interruptions to natural gas service. UGI technicians will require property access to inspect and relight equipment following service restoration. The project's completion timeline remains subject to weather conditions and unforeseen construction challenges, with final paving and restoration work scheduled to occur after the main installation is finished.</p><p>This infrastructure project highlights the ongoing transition toward cleaner energy sources in residential and commercial sectors. Natural gas conversion opportunities provided through such system upgrades can lead to reduced energy costs for property owners while contributing to lower emissions compared to traditional heating oil or other fossil fuels. The timing coincides with growing consumer interest in energy efficiency and sustainable living practices across Pennsylvania communities.</p>
