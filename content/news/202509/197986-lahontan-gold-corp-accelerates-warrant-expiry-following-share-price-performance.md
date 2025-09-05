@@ -1,0 +1,16 @@
++++
+title = "Lahontan Gold Corp. Accelerates Warrant Expiry Following Share Price Performance"
+date = "2025-09-05T17:12:04Z"
+draft = false
+summary = "Lahontan Gold Corp. has triggered an acceleration clause requiring warrant holders to exercise their options by October 21, 2025, potentially bringing additional capital to fund development of its Santa Fe Mine project in Nevada."
+description = "Lahontan Gold Corp. accelerates warrant expiry after shares hit VWAP target. Learn about its Santa Fe Mine project and 2025 plans in Nevada. Key for investors."
+source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-lahontan-gold-corp-tsxv-lg-otcqb-lgcxf-accelerates-expiry-of-warrants/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/5/3c59cb137b988f8f7e1bf8829e3a0902.png"
+featured = true
+article_id = 197986
+feed_item_id = 20050
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/5/lushKtYK.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lahontan Gold Corp. has announced the acceleration of expiry for common share purchase warrants originally issued on April 30, 2025, as part of a non-brokered private placement. This decision follows the company's shares trading at or above a volume-weighted average price of C$0.12 for ten consecutive trading days ending September 4, 2025, triggering the acceleration clause in the warrant terms.</p><p>The warrants must now be exercised by 5 p.m. Toronto time on October 21, 2025, or they will expire worthless. Warrant holders can exercise their rights by submitting their warrant certificate, exercise form, and payment to Irwin Lowy LLP in Toronto. This acceleration could potentially bring additional capital into the company if warrant holders choose to exercise their options before the new deadline.</p><p>The acceleration of warrant expiry comes as the company continues to advance its Santa Fe Mine project toward production. According to the company's technical reports available at <a href="https://www.lahontangoldcorp.com" rel="nofollow" target="_blank">https://www.lahontangoldcorp.com</a>, the Santa Fe Mine contains an indicated mineral resource of 1,539,000 gold equivalent ounces and an inferred resource of 411,000 gold equivalent ounces.</p><p>Lahontan plans to update the Santa Fe Preliminary Economic Assessment and conduct drill testing at its satellite West Santa Fe project during 2025. The technical content of the company's disclosures has been reviewed and approved by Michael Lindholm, CPG, an independent consulting geologist and Qualified Person as defined in National Instrument 43-101.</p><p>The warrant acceleration represents a significant corporate action that could impact the company's capital structure and funding for its ongoing exploration and development activities in Nevada's mining district. For investors and industry observers, this development signals potential near-term capital infusion that could accelerate the company's path to production at its Nevada gold and silver properties.</p>

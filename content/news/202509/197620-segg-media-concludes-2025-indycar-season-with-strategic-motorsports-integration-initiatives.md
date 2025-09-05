@@ -6,7 +6,6 @@ summary = "SEGG Media Corporation's successful conclusion of the 2025 INDYCAR se
 description = "SEGG Media concludes successful 2025 INDYCAR season, launches Elite Driver Program for 2026. Sports, entertainment & gaming conglomerate expands motorsports presence."
 source_link = "https://rss.investorbrandnetwork.com/tg/tinygemsbreaks-segg-media-corporation-nasdaq-segg-ltryw-closed-out-indycar-season-in-nashville-advanced-elite-driver-program/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/5/7377d2f1ff4f15117fbb8e7f4d2410ef.png"
-featured = true
 article_id = 197620
 feed_item_id = 20039
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/5/roambWyc.webp"
