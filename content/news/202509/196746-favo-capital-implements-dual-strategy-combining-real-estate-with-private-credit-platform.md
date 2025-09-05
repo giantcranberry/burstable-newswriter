@@ -1,0 +1,15 @@
++++
+title = "FAVO Capital Implements Dual Strategy Combining Real Estate with Private Credit Platform"
+date = "2025-09-04T19:50:12Z"
+draft = false
+summary = "FAVO Capital's acquisition of 1818 Park demonstrates how alternative finance companies are diversifying revenue streams through real estate investments to strengthen balance sheets and maintain lending capacity during economic fluctuations."
+description = "FAVO Capital acquires 1818 Park in all-stock deal, combining real estate cash flows with private credit lending to strengthen balance sheet and expand capacity."
+source_link = "https://rss.investorbrandnetwork.com/mir/missionirnewsbreaks-favo-capital-inc-favo-building-balanced-portfolio-to-perform-across-market-cycles/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/4/0dd00dbcf8881306030c09050ce661f0.png"
+article_id = 196746
+feed_item_id = 20000
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/4/fernAayE.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>FAVO Capital Inc. is implementing a dual-purpose strategy that combines diversified, cash-flowing real estate with its established private credit platform. This approach strengthens the balance sheet, expands lending capacity, and creates sustainable advantages not typically available to pure-play lenders, according to company statements.</p><p>The recent acquisition of 1818 Park, a Class-A mixed-use property, brings stabilized cash flows from high-occupancy residential, office, and retail components secured under long-term leases. By structuring the deal as an all-stock transaction, FAVO added income-generating assets without reducing cash reserves earmarked for lending operations. This strategic move represents the company's broader vision for creating a resilient financial structure.</p><p>Chief Strategy Officer Glen Steward emphasized the importance of this approach, stating that combining predictable cash flows of high-quality real estate with the dynamic growth of the private credit business creates a balanced portfolio designed to perform across market cycles. The company's strategy aims to provide stability during economic fluctuations while maintaining growth potential through its lending operations.</p><p>The acquisition strategy demonstrates how alternative finance companies are adapting to market conditions by diversifying revenue streams beyond traditional lending activities. This approach potentially offers investors more stable returns while allowing the company to maintain its core lending operations without compromising financial resources. Additional information about the company's developments is available through their <a href="https://ibn.fm/FAVO" rel="nofollow" target="_blank">newsroom</a>.</p><p>For business leaders and investors, this hybrid model represents an emerging trend in alternative finance where companies leverage real estate assets to create financial stability while continuing to pursue growth through lending operations. The strategy could influence how other financial services firms approach portfolio diversification and risk management in uncertain economic environments.</p>

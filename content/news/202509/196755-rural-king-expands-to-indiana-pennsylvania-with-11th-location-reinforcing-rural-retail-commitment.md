@@ -1,0 +1,15 @@
++++
+title = "Rural King Expands to Indiana, Pennsylvania with 11th Location, Reinforcing Rural Retail Commitment"
+date = "2025-09-04T15:51:54Z"
+draft = false
+summary = "Rural King opens its 11th Pennsylvania store in Indiana, enhancing access to essential goods for rural communities while maintaining competitive pricing and community support through partnerships with organizations like 4-H and the Gary Sinise Foundation."
+description = "Rural King opens 11th Pennsylvania store in Indiana, PA, offering farm essentials, competitive prices, and community support through August grand opening events."
+source_link = "https://www.citybiz.co/article/740074/rural-king-opens-11th-store-in-pennsylvania-expanding-access-to-farm-and-home-essentials/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/07e6fafe804fcf18deb34bb114b52969.jpg"
+article_id = 196755
+feed_item_id = 19967
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/4/goldP_jH.webp"
+source = "citybiz"
++++
+
+<p>Rural King has opened its 11th Pennsylvania location in Indiana, continuing the family-owned retailer's expansion strategy while reinforcing its commitment to serving rural communities. The new store at 2334 Oakland Ave., Suite 3 features modern shopping amenities including mobile and self-checkout options while maintaining the personalized customer service that has defined the company for over six decades.</p><p>The grand opening celebration from August 15-17 will feature special promotions, competitive pricing, and opportunities for RK Rewards loyalty members to earn double points on qualifying purchases and enter to win gift cards. Customers visiting during the opening weekend will receive complimentary Rural King water bottles as part of the welcoming festivities.</p><p>CEO Steve Barbarick emphasized the company's dedication to local communities, stating their goal is to provide neighbors with the best products at the lowest prices while delivering friendly, knowledgeable service. The store's product selection caters to diverse rural needs, featuring brands such as Carhartt, Blackstone, and Henry Rifles, alongside essentials for livestock, pets, automotive needs, and seasonal items.</p><p>Beyond retail operations, Rural King demonstrates community commitment through support for youth organizations including 4-H and FFA, as well as partnerships with veteran and first responder organizations like the <a href="https://www.garysinisefoundation.org" rel="nofollow" target="_blank">Gary Sinise Foundation</a>. The company's expansion into Indiana represents not only business growth but also increased access to essential goods for rural families and farmers throughout the region.</p><p>With more than 140 stores across fourteen states, Rural King maintains its founding principles of offering competitive pricing on farm and home necessities while fostering community connections. The Indiana location continues the company's tradition of providing free popcorn and coffee to customers, embodying the welcoming atmosphere that has characterized the retailer since its 1960 founding in Mattoon, Illinois.</p>

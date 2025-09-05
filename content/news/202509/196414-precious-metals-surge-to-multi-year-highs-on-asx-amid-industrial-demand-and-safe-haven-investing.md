@@ -6,7 +6,6 @@ summary = "Silver, gold, and platinum are reaching significant price milestones 
 description = "Silver hits 14-year highs as precious metals surge on ASX. Learn trading strategies with Wealth Within's courses to capitalize on gold, silver & platinum rallies while managing risks effectively."
 source_link = "https://newsworthy.ai/news/202509041718/silver-gold-platinum-exploding-on-the-asx-are-you-positioned-to-profit"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/6b4ad6ed43b34c9e11de9cf5a1663e88.png"
-featured = true
 article_id = 196414
 feed_item_id = 19976
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/259/4/lilyMwg3.webp"

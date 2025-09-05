@@ -1,0 +1,15 @@
++++
+title = "Vision Marine Technologies Announces Strategic Inventory Auction to Fund Expansion Initiatives"
+date = "2025-09-04T17:30:16Z"
+draft = false
+summary = "Vision Marine Technologies is liquidating surplus inventory through a strategic auction to generate $1.3-1.8 million in non-dilutive capital while repurposing warehouse space for expanded electric boat integration and retail operations."
+description = "Vision Marine Technologies to auction $1.8M inventory, funding expansion of electric boat integration center and retail network through strategic partnership with Stampler Auctions."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-vision-marine-technologies-inc-nasdaq-vmar-launches-inventory-auction-to-support-operational-optimization-and-integration-expansion/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/4/ad16342465e56a9beeefafbc89bcbcfe.png"
+article_id = 197295
+feed_item_id = 19978
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/4/glueZxqO.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Vision Marine Technologies Inc. announced a strategic inventory auction scheduled for September 16-18, 2025, in partnership with Stampler Auctions. The auction will liquidate discontinued, overstocked, and clearance parts from the company's Florida operations, with projected proceeds between $1.3 million and $1.8 million.</p><p>The initiative serves dual purposes: generating non-dilutive capital while repurposing 5,000 square feet of warehouse space at Vision Marine's Fort Lauderdale marina. This space will be transformed into an integration center and sales office with direct water access, supporting the company's expansion of service, financing, and electric integration programs.</p><p>This move aligns with Vision Marine's post-acquisition integration strategy following its purchase of Nautical Ventures. The company operates a multi-brand boat retail and service platform through this division, offering both electric and internal combustion engine boats. The auction supports the company's vertically integrated model that spans technology, retail, and service operations.</p><p>For investors seeking additional information, the company maintains its newsroom at <a href="https://ibn.fm/VMAR" rel="nofollow" target="_blank">https://ibn.fm/VMAR</a>. The auction represents a strategic optimization of Vision Marine's operational assets while positioning its retail network for scalable growth in the evolving marine technology market.</p><p>The strategic inventory liquidation demonstrates how technology companies can optimize asset utilization while funding growth initiatives without shareholder dilution. This approach provides a model for other marine technology firms seeking to balance operational efficiency with expansion capital requirements in the rapidly evolving electric marine propulsion sector.</p>
