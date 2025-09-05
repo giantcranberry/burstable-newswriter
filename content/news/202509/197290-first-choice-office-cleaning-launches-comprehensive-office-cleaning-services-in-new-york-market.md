@@ -6,7 +6,6 @@ summary = "First Choice Office Cleaning has officially launched its operations, 
 description = "First Choice Office Cleaning expands NYC office carpet cleaning and upholstery services with flexible scheduling and competitive pricing for businesses."
 source_link = "https://www.24-7pressrelease.com/press-release/526470/first-choice-office-cleaning-opens-its-door-and-offers-the-best-in-office-cleaning"
 enclosure = "https://cdn.newsramp.app/genai/images/259/5/6a2ca51923680c63a5461cb9014c917d.png"
-featured = true
 article_id = 197290
 feed_item_id = 20026
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/5/ellekkjH.webp"
