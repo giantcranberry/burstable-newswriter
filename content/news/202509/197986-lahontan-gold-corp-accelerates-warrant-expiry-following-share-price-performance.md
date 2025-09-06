@@ -6,7 +6,6 @@ summary = "Lahontan Gold Corp. has triggered an acceleration clause requiring wa
 description = "Lahontan Gold Corp. accelerates warrant expiry after shares hit VWAP target. Learn about its Santa Fe Mine project and 2025 plans in Nevada. Key for investors."
 source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-lahontan-gold-corp-tsxv-lg-otcqb-lgcxf-accelerates-expiry-of-warrants/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/5/3c59cb137b988f8f7e1bf8829e3a0902.png"
-featured = true
 article_id = 197986
 feed_item_id = 20050
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/5/lushKtYK.webp"

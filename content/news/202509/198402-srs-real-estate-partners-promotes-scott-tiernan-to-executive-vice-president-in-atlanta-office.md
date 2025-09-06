@@ -1,0 +1,15 @@
++++
+title = "SRS Real Estate Partners Promotes Scott Tiernan to Executive Vice President in Atlanta Office"
+date = "2025-09-05T17:41:10Z"
+draft = false
+summary = "SRS Real Estate Partners has elevated Scott Tiernan to Executive Vice President and Managing Principal, reinforcing its leadership in commercial real estate with his extensive experience in national retail accounts and development transactions."
+description = "SRS Real Estate Partners promotes Scott Tiernan to Executive VP in Atlanta. Learn about his 15+ years experience with Fortune 500 retailers and market leadership."
+source_link = "https://www.citybiz.co/article/740898/srs-real-estate-partners-promotes-scott-tiernan-to-executive-vice-president-and-managing-principal/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ddf5eda6602b35a1d7696ba514423c24.png"
+article_id = 198402
+feed_item_id = 20051
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/5/divebqbN.webp"
+source = "citybiz"
++++
+
+<p>SRS Real Estate Partners has promoted Scott Tiernan to Executive Vice President and Managing Principal in the firm's Atlanta office. Tiernan, who previously served as Senior Vice President and Managing Principal, will continue to lead alongside Henry Poer in overseeing the day-to-day leadership, management, and business development of the Atlanta market.</p><p>Garrett Colburn, President of SRS Real Estate Partners, stated that Tiernan is a dynamic leader and trusted advisor to clients. His depth of experience, consistent results, and passion for developing talent make him an invaluable asset to both the Atlanta office and the broader SRS platform.</p><p>Tiernan brings more than 15 years of experience in commercial real estate, specializing in national accounts, tenant representation, landlord representation, and development opportunities. His career highlights include leading national new store and disposition services for Fortune 500 retailers, institutional REITs, and high-growth private companies. He has played a key role in market rollouts for major tenants such as Walmart, Raising Cane's, Lowe's, and EōS Fitness across the Southeast.</p><p>Over the course of his career, Tiernan has completed more than 700 landlord representation transactions, with a strong focus on land transactions and new developments. He has been consistently recognized as a top producer by SRS, CoStar and Connect CRE and has earned the designation of Atlanta Commercial Board of Realtors Life Member and Top Producer. Tiernan is also a Certified Commercial Investment Member (CCIM) and holds bachelor's degrees in business administration and economics from the University of North Carolina at Chapel Hill.</p><p>Founded in 1986, SRS Real Estate Partners is building upon its retail foundation to provide extensive commercial real estate solutions to tenants, owners, and investors. Headquartered in Dallas with 29 offices in the U.S., SRS has grown into one of the industry's most influential and respected leaders. For more information, please visit <a href="https://srsre.com" rel="nofollow" target="_blank">https://srsre.com</a>.</p>

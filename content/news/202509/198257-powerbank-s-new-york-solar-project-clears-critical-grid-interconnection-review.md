@@ -1,0 +1,15 @@
++++
+title = "PowerBank's New York Solar Project Clears Critical Grid Interconnection Review"
+date = "2025-09-05T19:01:34Z"
+draft = false
+summary = "PowerBank Corporation's 5.7 MW community solar project in upstate New York has successfully completed its grid interconnection study, enabling advancement toward development and contributing to the state's renewable energy goals."
+description = "PowerBank's 5.7 MW NY solar project clears interconnection review, advancing renewable energy goals. It will power 670 homes and support state climate targets."
+source_link = "https://rss.investorbrandnetwork.com/tg/powerbank-corporations-nasdaq-suun-cboe-ca-sunn-fse-gy2-5-7-mw-north-main-st-project-clears-interconnection-study-moves-toward-permitting/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/5/9e6577c52ac3b73e8337f7e60c515de7.png"
+article_id = 198257
+feed_item_id = 20063
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/5/bestUPAe.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>PowerBank Corporation's 5.7 MW North Main St solar project in upstate New York has successfully completed its Coordinated Electric System Interconnection Review, marking a significant technical milestone that enables the project to advance toward permitting and development. The interconnection study, detailed at <a href="https://ibn.fm/MqTpK" rel="nofollow" target="_blank">https://ibn.fm/MqTpK</a>, confirms that the planned solar installation can safely connect to the local electric grid without causing adverse impacts, a crucial requirement for renewable energy projects seeking grid integration.</p><p>The project is expected to qualify under New York's Value of Distributed Energy Resources compensation mechanism, with a projected first-year average rate of $0.0971 per kilowatt-hour. Once operational, the community solar facility will generate enough electricity to power the equivalent of 670 homes, contributing to New York's ambitious renewable energy targets. The state remains a central market for solar development, targeting 6 GW of solar capacity by 2025 under its Climate Leadership and Community Protection Act.</p><p>This development represents another step forward for PowerBank, which has built more than 100 MW of renewable energy projects and maintains a development pipeline exceeding 1 GW. The company's progress in New York demonstrates the ongoing expansion of distributed solar generation in key markets where supportive policies and interconnection processes enable project advancement. The successful completion of the interconnection review process highlights the importance of thorough technical assessments for renewable energy integration into existing grid infrastructure.</p><p>Investors can access additional information about PowerBank Corporation through the company's newsroom at <a href="https://ibn.fm/SUUN" rel="nofollow" target="_blank">https://ibn.fm/SUUN</a>. The advancement of the North Main St project reflects the growing momentum behind community solar initiatives that provide clean energy alternatives while supporting local grid reliability and meeting state renewable energy mandates.</p>

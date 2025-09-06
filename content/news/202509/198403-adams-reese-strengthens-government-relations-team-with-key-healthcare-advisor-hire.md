@@ -1,0 +1,15 @@
++++
+title = "Adams & Reese Strengthens Government Relations Team with Key Healthcare Advisor Hire"
+date = "2025-09-05T16:11:18Z"
+draft = false
+summary = "Adams & Reese has appointed Holt Whitt, a former Tennessee Department of Health official with extensive government experience, to enhance their healthcare sector capabilities and government relations expertise."
+description = "Adams & Reese hires Holt Whitt, former Tennessee Health Department official, to strengthen government relations team in Nashville as healthcare industry grows."
+source_link = "https://www.citybiz.co/article/740771/adams-reese-hires-tennessee-legislative-leader-holt-whitt-to-bolster-government-relations-team/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/86aec6dbc1100c0c5e97328903ef13ad.png"
+article_id = 198403
+feed_item_id = 20042
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/5/eachAe4_.webp"
+source = "citybiz"
++++
+
+<p>Adams & Reese has appointed Holt Whitt as a Government Relations Advisor in its Nashville office, bringing over 15 years of state government experience to the firm's Intersection of Business & Government Practice Group. Whitt most recently served as Assistant Commissioner for Legislative Affairs at the Tennessee Department of Health, where he played a key role in developing the department's legislative agenda and securing passage of Governor Lee's health initiatives.</p><p>The hiring strengthens Adams & Reese's government relations team, which includes more than 75 attorneys and advisors nationwide with backgrounds in state legislative leadership, Congress, economic development, and diplomatic service. Brad Lampley, the firm's IBG Practice Group Leader, described Whitt as a home run hire who brings strong relationships and a reputation as a trusted advisor in both executive and legislative branches.</p><p>Whitt's expertise is particularly significant given Tennessee's rapidly expanding healthcare industry, with Nashville emerging as a major hub for healthcare innovation. His understanding of the state's healthcare infrastructure positions Adams & Reese to better serve clients in this growing sector. During his tenure at the health department, Whitt worked directly with members of the Tennessee General Assembly to advance the governor's health-related priorities.</p><p>Prior to his role at the health department, Whitt served as Senior Policy Advisor at the Tennessee Department of Human Resources and held several leadership positions within the Tennessee General Assembly, including Interim Chief of Staff and Director of Legislation for the Speaker of the House. His background includes extensive experience in legislative strategy, stakeholder engagement, and bill evaluation.</p><p>Whitt expressed enthusiasm about his new role, stating that he looks forward to helping clients connect with state and local government, grow their businesses, and contribute to economic growth across Tennessee. The appointment reflects Adams & Reese's continued investment in building a team with professionals who have established reputations and can effectively navigate government processes for clients.</p>

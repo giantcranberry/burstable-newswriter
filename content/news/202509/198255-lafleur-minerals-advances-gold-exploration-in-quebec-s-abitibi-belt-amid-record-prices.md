@@ -1,0 +1,15 @@
++++
+title = "LaFleur Minerals Advances Gold Exploration in Québec's Abitibi Belt Amid Record Prices"
+date = "2025-09-05T19:01:35Z"
+draft = false
+summary = "LaFleur Minerals is progressing with its 5,000-meter drilling program at the Swanson Gold Project and preparing to restart operations at its Beacon Gold Mill, positioning the company to capitalize on record-high gold prices and Québec's established mining infrastructure."
+description = "LaFleur Minerals advances gold exploration in Quebec's Abitibi Belt with drilling program and mill restart plans amid record gold prices and bullish market forecasts."
+source_link = "https://rss.investorbrandnetwork.com/rns/lafleur-minerals-inc-cse-lflr-otcqb-lflrf-advances-exploration-at-quebec-site-while-boosting-capitalization/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/5/fef1568c97707aca53e8f69cca39067d.png"
+article_id = 198255
+feed_item_id = 20066
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/5/ableQlr3.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>LaFleur Minerals Inc. is advancing exploration at its Swanson Gold Project in Québec's Abitibi Greenstone Belt near Val-d'Or, a globally renowned gold district. The company has completed seven diamond drill holes totaling 1,764 meters as part of an ongoing 5,000-meter program, with three holes already sampled, sawn, and sent to the assay laboratory for analysis of geological, geophysical, and geochemical targets up to 3 km from the Swanson Gold Deposit.</p><p>The 18,304-hectare property represents significant gold potential in a region known for its mineral wealth. LaFleur has undertaken funding initiatives to raise capital for operations and has filed an updated NI 43-101 Technical Report for the Swanson Gold Project. The company is also working to restart operations at its fully permitted and refurbished Beacon Gold Mill, which could eventually generate revenue from processing nearby mine production as well as potential mineralized material from Swanson.</p><p>These developments come as gold prices have reached record highs, with some analysts predicting prices may continue to rise over $4,000 per ounce in the coming year. The company's progress can be tracked through its <a href="https://ibn.fm/LFLRF" rel="nofollow" target="_blank">newsroom available here</a>. All scientific and technical information has been reviewed and approved by Louis Martin, P.Geo., OGQ, Exploration Manager and Technical Advisor of the company, who is considered a Qualified Person for the purposes of NI 43-101.</p><p>The exploration advancements and capitalization efforts position LaFleur Minerals to potentially benefit from both the favorable gold market conditions and the strategic location of its projects within one of Canada's most productive gold districts. The combination of active drilling programs, mill refurbishment, and strengthened financial positioning suggests the company is building momentum toward becoming a near-term gold producer in Québec's established mining region.</p>
