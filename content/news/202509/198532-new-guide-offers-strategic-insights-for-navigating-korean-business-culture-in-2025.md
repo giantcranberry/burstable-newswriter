@@ -6,7 +6,6 @@ summary = "Business strategist Don Southerton's new book provides 25 practical w
 description = "Don Southerton's new book offers 25 practical tips for navigating Korean business culture in 2025. Essential for professionals working with Korean teams and partners."
 source_link = "https://www.24-7pressrelease.com/press-release/526528/new-book-release-korean-business-challenges-and-solutions-by-don-southerton"
 enclosure = "https://cdn.newsramp.app/genai/images/259/6/fe2cd3015b43a0b3305b6d0efd48eebb.png"
-featured = true
 article_id = 198532
 feed_item_id = 20084
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/6/isleFlyz.webp"
