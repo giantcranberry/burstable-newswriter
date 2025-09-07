@@ -6,7 +6,6 @@ summary = "Portable saunas are making comprehensive health benefits including st
 description = "Terra Wellness portable saunas make sauna therapy affordable & accessible. Enjoy stress reduction, detoxification, cardiovascular benefits & muscle recovery at home. Buy a sauna today for transformative wellness."
 source_link = "https://mediawiretoday.com/revolutionize-your-health-routine-with-portable-saunas-384403"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/0cd7b873e9b6f18b33baabb911d757e4.jpg"
-featured = true
 article_id = 198874
 feed_item_id = 20088
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/259/6/rift7Cgw.webp"
