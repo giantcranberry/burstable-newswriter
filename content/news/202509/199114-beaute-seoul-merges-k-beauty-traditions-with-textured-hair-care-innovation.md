@@ -6,7 +6,6 @@ summary = "Korean clean beauty brand BEAUTÉ SEOUL is transforming textured hair
 description = "BEAUTÉ SEOUL transforms K-beauty for curly hair with innovative solid shampoo bars, bonnet dryer attachments, and inclusive products available on Amazon and Instagram."
 source_link = "https://www.24-7pressrelease.com/press-release/526512/beaute-seoul-bonnet-dryer-curl-centered-k-beauty-at-home-hair-care"
 enclosure = "https://cdn.newsramp.app/genai/images/259/7/8a341eace08335495c80fe31161922c4.png"
-featured = true
 article_id = 199114
 feed_item_id = 20097
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/7/camcteq_.webp"
