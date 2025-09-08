@@ -1,0 +1,15 @@
++++
+title = "Royalty Management Holding Corporation Achieves Debt-Free Status Through Note Conversion"
+date = "2025-09-08T13:56:13Z"
+draft = false
+summary = "Royalty Management Holding Corporation has eliminated all corporate debt by converting approximately $150,000 in remaining notes payable to common stock, strengthening its financial position for strategic investments in critical minerals and alternative currencies."
+description = "Royalty Management Holding Corp eliminates all debt, converts $150K notes to equity. Debt-free status enhances growth potential in critical minerals and emerging tech investments."
+source_link = "https://www.newmediawire.com/news/royalty-management-holding-corporation-fully-redeems-all-remaining-company-notes-payable-7082487"
+enclosure = "https://cdn.newsramp.app/newmediawire/og-image.png"
+article_id = 200128
+feed_item_id = 20133
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/8/rend2jHE.webp"
+source = "NewMediaWire"
++++
+
+<p>Royalty Management Holding Corporation (Nasdaq: RMCO) has completed the full repayment of all company notes payable through the conversion of remaining debt to common stock. The remaining notes, totaling approximately $150,000, were converted to company shares at current market prices in agreement with note holders, effectively eliminating all corporate debt beyond normal vendor payables.</p><p>This financial milestone follows last week's initial debt conversions and represents a significant strengthening of the company's balance sheet. The debt-free status enables Royalty Management to better utilize operational cash flow for strategic investments in critical minerals, alternative currencies, and other royalty opportunities that drive shareholder value creation.</p><p>Chief Executive Officer Thomas Sauve commented that this action demonstrates shareholder confidence in the company's position and growth potential. The conversion agreement with note holders reflects their belief in the company's future prospects and aligns their interests with other equity stakeholders.</p><p>The company maintains its commitment to building shareholder value through its royalty acquisition and development model. Royalty Management focuses on acquiring and structuring cash flow streams around high-value assets that can support communities while generating transitional cash flow for future growth. More information about the company's operations and strategy is available at <a href="https://www.royaltymgmtcorp.com" rel="nofollow" target="_blank">https://www.royaltymgmtcorp.com</a>.</p><p>This debt elimination positions Royalty Management with greater financial flexibility to pursue growth opportunities without the burden of debt servicing obligations. The company intends to maintain its debt-free balance sheet as it continues to execute its strategy of identifying and developing valuable assets across resource-driven and emerging technology industries.</p>

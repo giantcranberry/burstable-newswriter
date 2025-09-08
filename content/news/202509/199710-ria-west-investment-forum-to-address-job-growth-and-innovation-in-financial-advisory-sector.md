@@ -6,7 +6,6 @@ summary = "The RIA West Investment Forum brings together top investment advisors
 description = "CEO Kevin Pellegrini of West Pine 43 LLC to speak at RIA West Investment Forum on job growth, innovation, and opportunity in the U.S. financial sector."
 source_link = "https://www.24-7pressrelease.com/press-release/526535/ceo-kevin-pellegrini-speaker-at-ria-west-investment-forum-on-job-growth-innovation-and-opportunity-in-the-united-states"
 enclosure = "https://cdn.newsramp.app/24-7PressRelease/og-image.png"
-featured = true
 article_id = 199710
 feed_item_id = 20116
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/8/barn7SmQ.webp"
