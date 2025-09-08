@@ -6,7 +6,6 @@ summary = "Preliminary research presented at the American Heart Association's Hy
 description = "AI voice agents help older adults accurately report blood pressure readings, improving hypertension management and reducing healthcare costs by 88.7% in new study."
 source_link = "https://www.newmediawire.com/news/ai-helped-older-adults-report-accurate-blood-pressure-readings-at-home-7082455"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/849699e37510fb95d491060dac101a1aNone"
-featured = true
 article_id = 199248
 feed_item_id = 20098
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/7/echop0OD.webp"
