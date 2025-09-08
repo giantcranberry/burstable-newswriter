@@ -1,0 +1,15 @@
++++
+title = "SolaREIT Secures $200 Million Debt Commitment from SLC Management to Expand Renewable Energy Land Financing"
+date = "2025-09-08T16:46:09Z"
+draft = false
+summary = "SolaREIT has obtained a $200 million debt facility from SLC Management to accelerate land financing solutions for solar and battery storage projects, addressing critical capital needs in the renewable energy sector during a challenging financing environment."
+description = "SolaREIT secures $200M debt facility from SLC Management to expand solar and battery storage land financing solutions for developers nationwide, accelerating renewable energy projects."
+source_link = "https://www.citybiz.co/article/741362/solareit-secures-200m-from-slc-management-to-expand-solar-battery-financing/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/575f829213bf8a1ec0f35d01af62496a.png"
+article_id = 200775
+feed_item_id = 20170
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/8/maskKRVq.webp"
+source = "citybiz"
++++
+
+<p>SolaREIT, a solar and battery storage real estate investment company, has secured a $200 million debt commitment from SLC Management, the institutional asset management business of Sun Life Financial Inc. This long-term debt facility will support the expansion of SolaREIT's land financing solutions for solar and battery energy storage system developers across the United States.</p><p>The capital will be deployed through SolaREIT's core offerings, including solar and storage land purchases, lease purchases, and land loans. Laura Pagliarulo, CEO of SolaREIT, stated that this partnership strengthens the company's ability to deliver fast, flexible capital to developers during a challenging financing environment. The facility is structured to support future issuances, providing a scalable platform to meet growing developer demand.</p><p>This financing comes at a critical time as energy storage and solar projects face increasing capital requirements and evolving federal policies. SolaREIT's tailored land financing solutions offer developers practical, proven tools designed for maximum flexibility, accommodating each partner's development timeline, financial strategy, and long-term vision. Since its founding in 2020, SolaREIT has financed real estate for solar and energy storage projects valued at over $3 billion nationwide.</p><p>The company expanded into energy storage services last year and has since closed more than $125 million in battery energy storage system transactions. This new funding from SLC Management reflects growing institutional confidence in SolaREIT's business model and provides access to low-cost capital essential for accelerating renewable energy infrastructure development. For additional information about SolaREIT's services, visit <a href="https://www.solareit.com" rel="nofollow" target="_blank">https://www.solareit.com</a>.</p>
