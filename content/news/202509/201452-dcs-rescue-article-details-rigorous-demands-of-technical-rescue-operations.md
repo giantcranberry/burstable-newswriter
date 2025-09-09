@@ -6,7 +6,6 @@ summary = "DCS Rescue's comprehensive analysis reveals the extreme physical, tec
 description = "DCS Rescue explores technical rescue team requirements: physical endurance, technical skills & mental fortitude needed for complex emergency response operations."
 source_link = "https://www.24-7pressrelease.com/press-release/526576/dcs-rescue-sheds-light-on-the-specialized-world-of-technical-rescue"
 enclosure = "https://cdn.newsramp.app/genai/images/259/9/4c1149a21eb87209c4a9baabd1d28040.png"
-featured = true
 article_id = 201452
 feed_item_id = 20209
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/9/lushX6wa.webp"

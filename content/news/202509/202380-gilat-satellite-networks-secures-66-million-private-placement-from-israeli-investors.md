@@ -1,0 +1,15 @@
++++
+title = "Gilat Satellite Networks Secures $66 Million Private Placement from Israeli Investors"
+date = "2025-09-09T13:36:09Z"
+draft = false
+summary = "Gilat Satellite Networks has raised $66 million through a private placement, strengthening its financial position to advance satellite connectivity solutions amid growing global demand."
+description = "Gilat Satellite Networks raises $65M in private placement from Israeli investors to fund satellite technology expansion and global connectivity solutions for defense and commercial markets."
+source_link = "https://www.citybiz.co/article/741853/gilat-secures-66-million-in-private-placement-from-institutional-and-accredited-investors/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/18120abb29c4d8d9a9dbbdc6242f4af3.png"
+article_id = 202380
+feed_item_id = 20228
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/9/yawnfWX1.webp"
+source = "citybiz"
++++
+
+<p>Gilat Satellite Networks Ltd. has secured commitments for a $66 million private placement from Israeli institutional and accredited investors, representing a significant financial milestone for the satellite technology company. The transaction involves the issuance of 7,058,820 ordinary shares at $9.35 per share, constituting an 11% stake in the company at a 6.3% discount to the recent seven-day volume weighted average price.</p><p>The funding, expected to close in September 2025 subject to customary conditions, will provide approximately $65 million in net proceeds after offering expenses. According to the company's announcement, these funds will be allocated for general corporate purposes, providing financial flexibility for ongoing operations and strategic initiatives. The private placement is structured under Regulation S of the U.S. Securities Act, limiting the offering to non-U.S. investors and imposing specific transfer restrictions on the newly issued shares.</p><p>This capital infusion arrives during a period of rapid technological evolution and increasing global demand for satellite connectivity solutions. The investment demonstrates sustained confidence from institutional investors in Gilat's market position, particularly given the company's extensive portfolio of satellite technology solutions serving both commercial and defense markets worldwide. The transaction's significance extends beyond immediate financial reinforcement, positioning Gilat to potentially accelerate development of next-generation satellite connectivity solutions.</p><p>The company's forward-looking statements acknowledge various risk factors, including geopolitical tensions in the Middle East that could impact operations, but the successful fundraising indicates investor belief in the company's long-term prospects and strategic direction within the evolving satellite communications landscape. This development underscores the growing importance of satellite technology in addressing global connectivity needs and highlights continued investor appetite for companies driving innovation in this critical sector.</p>

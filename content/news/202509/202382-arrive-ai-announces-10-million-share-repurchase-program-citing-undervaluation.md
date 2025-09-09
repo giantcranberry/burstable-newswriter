@@ -1,0 +1,15 @@
++++
+title = "Arrive AI Announces $10 Million Share Repurchase Program Citing Undervaluation"
+date = "2025-09-09T13:36:08Z"
+draft = false
+summary = "Arrive AI's board has authorized a $10 million stock buyback program through 2026, signaling confidence in the company's undervalued position and long-term growth potential in the autonomous delivery sector."
+description = "Arrive AI announces $10M stock buyback program through 2026, citing undervaluation of shares. CEO Dan O'Toole highlights autonomous delivery growth opportunities."
+source_link = "https://www.citybiz.co/article/741861/arrive-ai-launches-10-million-stock-buyback-program/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e9cea578271270869b3e8e2d2f1e8084.png"
+article_id = 202382
+feed_item_id = 20227
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/9/ulnaEQTu.webp"
+source = "citybiz"
++++
+
+<p>Arrive AI (Nasdaq:ARAI) has announced that its Board of Directors authorized a share repurchase program of up to $10 million of the company's common stock through March 31, 2026. The authorization reflects the board's view that the current share price represents an attractive investment relative to Arrive AI's long-term opportunities in the autonomous delivery sector.</p><p>The repurchases may be made from time to time in the open market, through privately negotiated transactions, or under Rule 10b5-1 trading plans, in accordance with Rule 10b-18 under the Securities Exchange Act of 1934. The program remains subject to market conditions and other factors, including customary blackout periods, and may be modified, suspended, or terminated at any time at the company's discretion.</p><p>Dan O'Toole, Founder and CEO of Arrive AI, stated that the company believes ARAI is materially undervalued given its momentum and the scale of the opportunity in autonomous, secure delivery. The authorization provides flexibility to be opportunistic when conditions are favorable while continuing to execute and build long-term shareholder value at what the company describes as "the last inch of the last-mile."</p><p>Arrive AI's patented Autonomous Last Mile (ALM) platform enables secure, efficient delivery to and from smart, AI-powered Arrive Points, whether by drone, ground robot, or human courier. The platform provides real-time tracking, smart logistics alerts, and advanced chain of custody controls to support shippers, delivery services, and autonomous networks. More information about the company's technology can be found at <a href="https://www.arriveai.com" rel="nofollow" target="_blank">https://www.arriveai.com</a>.</p><p>The timing and actual number of shares repurchased will depend on various factors, including price, liquidity, and alternative uses of capital. The company notes that forward-looking statements regarding the share repurchase program involve risks and uncertainties that could cause actual results to differ materially from expectations, with factors including market conditions, trading price and liquidity of the common stock, financial performance, and available capital.</p>
