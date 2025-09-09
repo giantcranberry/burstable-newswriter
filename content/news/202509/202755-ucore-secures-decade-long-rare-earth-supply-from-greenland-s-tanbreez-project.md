@@ -1,0 +1,15 @@
++++
+title = "Ucore Secures Decade-Long Rare Earth Supply from Greenland's Tanbreez Project"
+date = "2025-09-09T17:16:34Z"
+draft = false
+summary = "Ucore Rare Metals Inc. has signed a letter of intent with Critical Metals Corp. for a 10-year supply of heavy rare earth concentrate from Greenland, advancing North American independence in critical minerals essential for clean energy and defense technologies."
+description = "Ucore Rare Metals signs 10-year LOI with Critical Metals for Greenland rare earth supply to Louisiana processing plant, boosting North American mineral independence and clean energy future."
+source_link = "https://rss.investorbrandnetwork.com/mnw/ucore-rare-metals-inc-tsx-v-ucu-otcqx-uuraf-powers-north-american-rare-earth-independence-with-decade-long-greenland-supply-deal/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/9/85cc9758db0ceab3c66016f154c28898.png"
+article_id = 202755
+feed_item_id = 20270
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/9/zestTaK1.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Ucore Rare Metals Inc. has signed a letter of intent with Critical Metals Corp. to secure a decade-long supply of heavy rare earth concentrate from Greenland's Tanbreez project, marking a significant step toward North American rare earth independence. The agreement provides for up to 10,000 metric tons annually starting in 2027, which will serve as feedstock for Ucore's Department of Defense-supported Louisiana processing facility https://ibn.fm/Ufn3x.</p><p>The timing of this agreement is particularly significant given the surging global demand for rare earth elements, which are critical components for clean energy technologies, electric vehicles, and defense applications. Greenland's Tanbreez Project is recognized as one of the world's largest undeveloped rare earth resources, containing massive deposits of eudialyte rich in heavy rare earth elements that are essential for modern technologies.</p><p>The Louisiana facility is being designed as a first-of-its-kind rare earth separation plant capable of processing both light and heavy rare earths at commercial scale. This strategic positioning of Louisiana as an industrial gateway, combined with Greenland's vast mineral resources, underscores Ucore's mission to build a fully integrated North American supply chain that reduces dependence on foreign sources of critical minerals.</p><p>This development comes at a crucial time when nations are seeking to secure reliable supplies of rare earth elements for both economic and national security purposes. The nonbinding LOI sets the stage for what could become a transformative partnership in the critical minerals sector, potentially shifting the balance of rare earth production and processing capabilities toward North American control.</p>

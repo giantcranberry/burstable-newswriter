@@ -6,7 +6,6 @@ summary = "Nightfood Holdings Inc. is leading the robotics revolution in hospita
 description = "Nightfood Holdings leads hospitality robotics revolution with AI-powered hotel automation, transforming guest experiences and operational efficiency in the rapidly evolving hotel industry."
 source_link = "https://rss.investorbrandnetwork.com/nnw/automation-and-ai-unlock-new-value-across-global-service-industries/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/9/1b0c88908ff0179fbf2f40cf0bb8e20c.png"
-featured = true
 article_id = 201992
 feed_item_id = 20237
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/9/knot12Qn.webp"

@@ -1,0 +1,15 @@
++++
+title = "Beamr's Compression Technology Addresses Critical Data Management Challenges in Autonomous Vehicle Industry"
+date = "2025-09-09T16:06:13Z"
+draft = false
+summary = "Beamr's content-adaptive video compression technology reduces storage and networking costs by 20%-50% for autonomous vehicle companies while preserving critical visual data essential for machine learning safety."
+description = "Beamr's Emmy-winning video compression tech solves autonomous vehicle data challenges, reducing storage needs by 50% while maintaining AI model accuracy for safer self-driving cars."
+source_link = "https://www.newmediawire.com/news/navigating-the-data-deluge-how-beamr-is-addressing-autonomous-vehicles-video-challenge-7082509"
+enclosure = "https://cdn.newsramp.app/genai/images/259/9/3104692339e3bdd2c0ac0fbf762be2b9.png"
+article_id = 202766
+feed_item_id = 20255
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/9/mailt9BW.webp"
+source = "NewMediaWire"
++++
+
+<p>The autonomous vehicle industry is confronting massive data management challenges as individual vehicles generate terabytes of video data daily, with training models requiring hundreds of petabytes of content, creating substantial infrastructure strain. Beamr (NASDAQ: BMR) is tackling these critical issues with technology that demonstrates 20%-50% storage and networking savings over existing machine learning workflows without compromising model accuracy.</p><p>The company utilizes its Emmy Award-winning Content-Adaptive Bitrate (CABR) technology, supported by 53 patents and trusted by leading media companies, to optimize video compression on a frame-by-frame basis according to perceptual relevance. Originally developed for human visual perception, the technology has been adapted to support machine learning perception, ensuring essential visual cues including lane markings, traffic signs, and road textures are preserved during compression.</p><p>Sharon Carmel, founder and CEO of Beamr, indicated that the company is encouraged by the progress made with their autonomous vehicle offering, highlighting the technology's applicability to rapidly expanding markets like autonomous vehicles. The company collaborates with over 80 autonomous vehicle companies that have test vehicles on the road, delivering customized solutions that integrate with existing machine learning workflows.</p><p>Beamr's technology provides operational efficiency and acceleration, enabling customers to meet performance and investment objectives while maintaining the visual fidelity crucial for machine learning safety. The company's flexible deployment options include on-premises, private or public cloud environments, with availability for <a href="https://aws.amazon.com" rel="nofollow" target="_blank">Amazon Web Services</a> and <a href="https://www.oracle.com/cloud" rel="nofollow" target="_blank">Oracle Cloud Infrastructure</a> customers.</p>
