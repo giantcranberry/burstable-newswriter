@@ -1,0 +1,15 @@
++++
+title = "HeartBeam Study Shows Near-Equivalent Accuracy to Standard ECGs in Cardiac Monitoring"
+date = "2025-09-08T14:16:32Z"
+draft = false
+summary = "HeartBeam's portable 3D ECG system demonstrated 94.5% accuracy in detecting cardiac rhythms, nearly matching standard 12-lead ECGs, potentially expanding advanced cardiac monitoring to non-clinical settings."
+description = "HeartBeam study shows AI-powered 3D ECG matches standard 12-lead accuracy for detecting atrial fibrillation and cardiac rhythms, revolutionizing portable cardiac monitoring."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-heartbeam-inc-nasdaq-beat-reports-study-showing-comparable-accuracy-between-heartbeam-system-and-standard-12-lead-ecg-in-detecting-arrhythmias/"
+enclosure = "https://cdn.newsramp.app/banners/technology-3.jpg"
+article_id = 201012
+feed_item_id = 20138
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/8/glowsfqV.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>HeartBeam Inc. (NASDAQ: BEAT) announced study results showing no significant differences in detecting atrial fibrillation, atrial flutter and sinus rhythm when its deep learning algorithms were applied to the HeartBeam System versus standard 12-lead ECGs. Data from 201 patients, presented at HRX Live 2025 in Atlanta by Dr. Joshua Lampert of Mount Sinai Heart, demonstrated high accuracy rates in both groups, with 94.5% accuracy for the HeartBeam system compared to 95.5% for standard 12-lead ECGs.</p><p>The findings highlight the potential of HeartBeam's compact, 3D device to expand advanced cardiac monitoring to settings where full 12-lead ECGs may be impractical. CEO Rob Eno stated that these results will support future FDA submissions for the company's technology. The HeartBeam system represents a significant advancement in portable cardiac monitoring, as it is the first-ever cable-free device capable of collecting ECG signals in 3D from three non-coplanar directions and synthesizing the signals into a 12-lead ECG.</p><p>This technology platform is designed for portable devices that can be used wherever the patient is located, delivering actionable heart intelligence outside of traditional medical facilities. Physicians will be able to identify cardiac health trends and acute conditions and direct patients to appropriate care using this innovative approach. The company's 3D ECG technology received FDA clearance for arrhythmia assessment in December 2024, while the 12-Lead ECG synthesis software remains under FDA review.</p><p>HeartBeam holds over 20 issued patents related to technology enablement, positioning the company at the forefront of cardiac care innovation. The study results validate the company's approach to transforming cardiac detection and monitoring through portable, advanced technology that maintains clinical-grade accuracy. This development could significantly impact how cardiac conditions are monitored and managed in various healthcare settings, potentially improving access to advanced cardiac care for patients in remote or non-clinical environments.</p>

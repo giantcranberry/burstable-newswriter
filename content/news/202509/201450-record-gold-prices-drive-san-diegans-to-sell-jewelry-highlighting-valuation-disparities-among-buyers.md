@@ -1,0 +1,15 @@
++++
+title = "Record Gold Prices Drive San Diegans to Sell Jewelry, Highlighting Valuation Disparities Among Buyers"
+date = "2025-09-09T07:06:07Z"
+draft = false
+summary = "Soaring gold prices near $3,555 per ounce are prompting San Diegans to sell unwanted jewelry, with significant financial implications depending on whether sellers choose pawn shops, online buyers, or experienced estate jewelers who pay premiums for craftsmanship and brand value."
+description = "Gold prices hit record highs in 2025, reaching $3,555/oz. San Diego's C. Blackburn Jewelers offers premium rates for gold jewelry, paying 80-85% of value with free evaluations."
+source_link = "https://www.24-7pressrelease.com/press-release/526491/as-gold-surges-la-jolla-jeweler-offers-guidance-to-san-diegans"
+enclosure = "https://cdn.newsramp.app/genai/images/259/9/9e9b912ccbf3f623dcb23b8d1dae5369.png"
+article_id = 201450
+feed_item_id = 20207
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/9/envycZSf.webp"
+source = "24-7 Press Release"
++++
+
+<p>Gold prices have reached near record highs in 2025, currently hovering around $3,555 per ounce, creating substantial opportunities for San Diegans to convert unwanted gold jewelry, coins, and heirlooms into significant cash. This represents a dramatic increase from approximately $2,692 per ounce one year ago and $2,129 two years ago, making even modest gold pieces substantially more valuable than in recent years.</p><p>The choice of buyer significantly impacts financial returns, with differences potentially amounting to hundreds or thousands of dollars. Many buyers in San Diego focus strictly on gold weight, paying as little as 55% of daily market value. In contrast, experienced estate jewelers like Carl Blackburn of C. Blackburn Jewelers typically pay 80-85% of gold's value and offer additional premiums for estate jewelry, vintage designs, and pieces from luxury brands.</p><p>Blackburn emphasizes that antique or designer pieces represent not just precious metal but history, artistry, and desirability, warranting valuations well above melt value. His careful evaluation process, which considers quality, craftsmanship, and sentimental value, distinguishes his approach from weight-based assessments common among other buyers. Clients appreciate this comprehensive approach to valuation.</p><p>With gold prices at unprecedented levels, many families are converting long-forgotten jewelry into cash for education expenses, travel, or reinvestment. Blackburn encourages potential sellers to educate themselves by checking daily gold prices using online resources at https://www.goldprice.org, understanding karat values, considering gemstone and brand value, and selecting reputable buyers with established reputations and transparent practices.</p><p>C. Blackburn Jewelers offers free evaluations with no obligation to sell, allowing clients to understand their items' full value, including both melt value and potential resale and collectible value. The boutique maintains an A rating with the Better Business Bureau, providing confidence to sellers navigating the current high-value gold market.</p>

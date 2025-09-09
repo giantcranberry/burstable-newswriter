@@ -6,7 +6,6 @@ summary = "Critical Infrastructure Technologies Ltd. has introduced new mobile c
 description = "CiTech launches NX-20 & NX-24 mobile comms towers with 24m height & 18.4km range for defense, mining & emergency services. Enhanced network reliability."
 source_link = "https://www.newmediawire.com/news/critical-infrastructure-technologies-ltd-product-development-update-7082491"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/1e910076299217914a7598af0264eacdNone"
-featured = true
 article_id = 200773
 feed_item_id = 20173
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/8/fastovNz.webp"
