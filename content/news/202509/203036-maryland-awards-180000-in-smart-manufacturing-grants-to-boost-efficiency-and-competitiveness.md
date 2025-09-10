@@ -1,0 +1,15 @@
++++
+title = "Maryland Awards $180,000 in Smart Manufacturing Grants to Boost Efficiency and Competitiveness"
+date = "2025-09-09T14:16:12Z"
+draft = false
+summary = "Maryland's MADE grant program provides funding to 12 manufacturers for adopting energy-efficient technologies, reducing operational costs and environmental impact while enhancing competitiveness."
+description = "Maryland awards $180K in smart manufacturing grants to 12 companies for energy efficiency and innovation. Learn about the funded projects and application details."
+source_link = "https://www.citybiz.co/article/741912/governor-moore-announces-state-grant-awards-to-support-smart-manufacturing-efforts/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/8181f0a3d6c0321c1f43486c02c4c56b.jpg"
+article_id = 203036
+feed_item_id = 20240
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/9/navyX7Z0.webp"
+source = "citybiz"
++++
+
+<p>The Maryland Department of Commerce has awarded $180,000 in grants to 12 local manufacturers through the Maryland MADE grant program to implement smart manufacturing initiatives. Governor Wes Moore announced that this funding supports small manufacturers in adopting technologies that improve energy efficiency, reduce emissions, and enhance operational performance.</p><p>Maryland manufacturing represents a critical sector of the state's economy, and these grants help businesses integrate innovations such as 3D printing, smart equipment controls, and energy-efficient machinery. Specific projects include a St. Mary's County electronics manufacturer advancing services through 3D printing, a Kent County fiber solutions company reducing power consumption, and a Cecil County food ingredient manufacturer incorporating smart controls.</p><p>According to Maryland Department of Commerce Secretary Harry Coker, Jr., adopting smart technologies is essential for maintaining competitiveness and achieving cost savings. The funding originates from a <a href="https://www.energy.gov" rel="nofollow" target="_blank">U.S. Department of Energy</a> grant of $1.3 million, part of the larger <a href="https://www.energy.gov/eere/amo/state-manufacturing-leadership-program" rel="nofollow" target="_blank">State Manufacturing Leadership Program</a>, a $31 million federal initiative supporting state-run programs nationwide.</p><p>The U.S. Department of Energy notes that manufacturing accounts for approximately 26 percent of all end-use energy in the country, representing 5 to 10 percent of a manufacturer's total costs. Investments in energy efficiency can lead to higher profits and reduced environmental impact, making this initiative crucial for both economic and sustainability goals.</p><p>Applications for the next round of Maryland MADE grants open on November 3, with an informational webinar scheduled for October 6. Additional details are available at <a href="https://commerce.maryland.gov" rel="nofollow" target="_blank">commerce.maryland.gov</a>.</p>

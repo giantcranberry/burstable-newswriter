@@ -6,7 +6,6 @@ summary = "Vision Marine Technologies has established a dedicated electric vehic
 description = "Vision Marine Technologies launches EV division with Nautical Ventures, featuring Seabob electric water toys. Partnership creates comprehensive electric marine ecosystem with full support and maintenance services."
 source_link = "https://rss.investorbrandnetwork.com/ges/vision-marine-technologies-inc-nasdaq-vmar-strengthens-electric-watercraft-position-with-seabob-partnership/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/9/12f165816df10f9aa0a2bb7b752bc681.png"
-featured = true
 article_id = 202753
 feed_item_id = 20272
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/9/duneUiip.webp"

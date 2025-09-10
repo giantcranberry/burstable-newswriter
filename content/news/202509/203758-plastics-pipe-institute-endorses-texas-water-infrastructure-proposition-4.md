@@ -1,0 +1,15 @@
++++
+title = "Plastics Pipe Institute Endorses Texas Water Infrastructure Proposition 4"
+date = "2025-09-10T07:06:26Z"
+draft = false
+summary = "The Plastics Pipe Institute has endorsed Texas Proposition 4, advocating for plastic piping systems as a durable, sustainable solution to address the state's critical water infrastructure challenges through the November 2025 ballot measure."
+description = "PPI endorses Texas Proposition 4 for water infrastructure funding, promoting plastic pipe solutions that reduce water loss and use recycled materials. Vote YES November 2025."
+source_link = "https://www.24-7pressrelease.com/press-release/526592/international-trade-association-announces-support-of-texas-proposition-4"
+enclosure = "https://cdn.newsramp.app/genai/images/259/10/870e88abb34a37ef8af9d21dd584f68e.png"
+article_id = 203758
+feed_item_id = 20311
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/10/calmgRAQ.webp"
+source = "24-7 Press Release"
++++
+
+<p>The Plastics Pipe Institute, Inc. (PPI), the major trade association representing all segments of the plastic pipe industry, has endorsed Proposition 4, the November 2025 ballot measure that will provide long-term, dedicated funding for Texas water infrastructure. The not-for-profit group urges Texans to vote YES on Proposition 4 to strengthen the state's water systems and prepare for the future.</p><p>David M. Fink, president of PPI, stated that Texas leaders took the proper first step by passing legislation to address the state's growing water challenges. By advancing Proposition 4 to voters, the Legislature and Governor Abbott have shown foresight and responsibility in ensuring Texas is prepared for both population growth and recurring drought. Fink noted that in the association's 75-year history, they have never seen such a dire situation.</p><p>Plastic piping represents a proven solution to help Texas achieve Proposition 4's goals, according to Fink. These systems reduce water loss, particularly in seismically sensitive areas, resist corrosion, and last longer than traditional materials—resulting in less taxpayer money spent on repairs and more water delivered where needed. Additional environmental benefits include the use of millions of pounds of recycled materials in manufacturing large diameter corrugated stormwater drainage pipe.</p><p>PPI members are committed to sustainability and innovation, with many already leading in recycling, material recovery, and product design to support circularity. More information about these initiatives can be found at <a href="https://www.plasticpipe.org" rel="nofollow" target="_blank">https://www.plasticpipe.org</a>. The institute and its members stand ready to help expand this proven technology in Texas, ensuring that every dollar invested through Proposition 4 builds infrastructure that is durable, efficient, and sustainable for decades to come.</p>

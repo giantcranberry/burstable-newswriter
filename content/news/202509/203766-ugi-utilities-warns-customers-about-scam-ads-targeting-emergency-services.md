@@ -1,0 +1,15 @@
++++
+title = "UGI Utilities Warns Customers About Scam Ads Targeting Emergency Services"
+date = "2025-09-09T16:30:19Z"
+draft = false
+summary = "UGI Utilities alerts customers about fraudulent sponsored advertisements that redirect emergency calls to scam numbers, posing serious safety risks during gas leak situations."
+description = "UGI Utilities warns of sponsored ad scams using fake numbers for gas leak reports. Only call 800-276-2722 for emergencies—service is always free. Stay safe."
+source_link = "https://ugi.reportablenews.com/pr/ugi-warns-customers-about-calling-phone-numbers-that-may-appear-in-online-searches"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/ed3c9937c4fb3b898bee86f57f5ebd7a.jpg"
+article_id = 203766
+feed_item_id = 20261
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/259/9/meanU__R.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities, Inc. has issued an urgent warning to customers regarding sponsored online advertisements created by scammers that appear in search results and direct people to fraudulent phone numbers. The utility company confirmed that these deceptive ads have misled customers into calling incorrect numbers when seeking assistance, including during potential gas leak emergencies where timely response is critical.</p><p>In multiple documented instances, customers who detected the smell of natural gas called the scam phone numbers listed in these advertisements and were falsely informed they needed to pay for leak investigation services. UGI emphasizes that the company never charges customers for investigating potential gas leaks, making any request for payment an immediate red flag. The proper emergency procedure when smelling natural gas requires immediate evacuation, moving at least the length of a football field away from the area, and then calling UGI at their official number 800-276-2722 or contacting 911 directly.</p><p>The fraudulent advertisements have also targeted customers seeking routine account assistance, creating confusion and potential financial risks. UGI confirms that there is only one legitimate phone number for customer service and account inquiries: 800-276-2722. The company, which serves more than 760,000 natural gas and electric customers, provides additional verified information through their official website at https://www.ugi.com.</p><p>This warning aligns with ongoing alerts from the Federal Trade Commission regarding scammers creating sponsored ads that appear in online searches and social media platforms containing fraudulent contact information. The practice represents a significant public safety concern, particularly when customers experiencing gas emergencies might delay contacting proper authorities while attempting to reach scam numbers. UGI reiterates that customers should exclusively use the official company number for all communications and immediately report any suspicious advertisements to appropriate authorities to prevent further incidents.</p>
