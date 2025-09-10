@@ -1,0 +1,15 @@
++++
+title = "Harford Community Action Agency Doubles Budget Under PJ Craig's Leadership to Address Growing Regional Needs"
+date = "2025-09-10T14:06:07Z"
+draft = false
+summary = "The Harford Community Action Agency has expanded its budget from $2.7 million to over $6 million under CEO Pamela J. Craig's leadership, demonstrating the increasing demand for comprehensive support services and effective scaling of community assistance programs."
+description = "Pamela Craig leads Harford Community Action Agency's growth to $6M budget, while David Nevins brings 30+ years PR expertise. Learn how community and communications leaders collaborate."
+source_link = "https://www.citybiz.co/article/741065/david-nevins-interviews-pamela-craig-ceo-harford-community-action-agency/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/4c6bf7f57151c91336e56ae9e03ac2cb.jpg"
+article_id = 204087
+feed_item_id = 20342
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/10/isleKqSt.webp"
+source = "citybiz"
++++
+
+<p>The Harford Community Action Agency has experienced significant growth under the leadership of President and CEO Pamela J. Craig, expanding its budget from $2.7 million to over $6 million during her tenure. This expansion reflects the increasing need for comprehensive support services in Harford County and the organization's ability to effectively scale its operations to meet growing community demands.</p><p>Craig leads a team of 21 employees across four departments and 10 programs specifically designed to assist individuals and families experiencing housing, food, and utility burdens. The agency maintains partnerships with 112 local agencies, creating a robust network of support services that addresses multiple aspects of poverty and economic instability simultaneously. This holistic approach has proven effective in helping families achieve greater stability and self-sufficiency.</p><p>The agency's work addresses fundamental challenges facing many residents, including housing stability, food security, and utility assistance, making its growth and sustainability crucial for the community's overall wellbeing. The expansion of services and budget reflects broader trends in community support organizations adapting to meet growing needs while maintaining strong local partnerships.</p><p>Craig's career has been dedicated to connecting Harford County residents to greater opportunities through the agency's various assistance programs, which have become increasingly vital as economic challenges persist for many families. The organization's growth demonstrates not only the rising demand for such services but also the effectiveness of Craig's leadership approach in scaling operations to meet community needs.</p><p>The agency's comprehensive support services contribute significantly to the overall health of Harford County's social fabric and economic resilience. By addressing multiple aspects of economic instability through its expanded programs and partnerships, the Harford Community Action Agency plays a critical role in supporting vulnerable populations and strengthening the community's ability to withstand economic challenges.</p>

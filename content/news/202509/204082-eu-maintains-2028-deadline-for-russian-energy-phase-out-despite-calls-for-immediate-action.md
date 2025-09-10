@@ -1,0 +1,15 @@
++++
+title = "EU Maintains 2028 Deadline for Russian Energy Phase-Out Despite Calls for Immediate Action"
+date = "2025-09-10T14:16:31Z"
+draft = false
+summary = "The European Union is sticking to its 2028 timeline to eliminate Russian energy imports, balancing economic pressure on Russia with the need for stable energy supplies while creating opportunities for alternative energy producers."
+description = "EU confirms 2028 deadline to exit Russian oil despite US pressure. GEMXX Corp explores new energy sources to fill supply gaps. Global energy markets face restructuring."
+source_link = "https://rss.investorbrandnetwork.com/tg/eu-chief-says-the-bloc-plans-to-exit-russian-oil-by-2028/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/10/707f0874b55136ae6de9f08e0e27f3cd.png"
+article_id = 204082
+feed_item_id = 20353
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/10/gainXMsZ.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>The European Union has reaffirmed its commitment to the 2028 deadline for eliminating energy imports from Russia, maintaining a phased approach despite calls from the Trump administration for immediate action to undermine Russia's war effort in Ukraine. EU Energy Commissioner Dan Jorgensen confirmed that Brussels will continue its strategy to wean the regional bloc off Russian oil and gas imports by January 2028, prioritizing energy security and market stability during the transition period.</p><p>The extended timeline allows EU member states to gradually transition away from Russian energy while securing alternative supplies to prevent market disruptions. Russia has historically been a major supplier of oil and gas to European markets, making this transition particularly complex and requiring careful planning to maintain energy security throughout the shift. The measured approach reflects the delicate balancing act between applying economic pressure on Russia and ensuring stable energy supplies for European consumers and industries.</p><p>The planned phase-out creates significant supply gaps that must be filled by alternative producers and exploration companies. Many energy firms are actively exploring for new oil and gas resources to help compensate for the reduced Russian supplies. Companies such as <a href="https://gemxx.com" rel="nofollow" target="_blank">GEMXX Corp.</a> are among those positioning themselves to address the emerging supply needs resulting from the EU's strategic energy shift. The 2028 deadline provides sufficient time for infrastructure adjustments, investment in alternative energy sources, and the development of new supply relationships with reliable partners.</p><p>Market participants and investors can access detailed updates and company information through specialized financial communications channels that cover emerging energy sector developments. Additional information about companies involved in addressing the energy supply gap is available through various financial news platforms, providing stakeholders with critical insights into the evolving energy landscape and investment opportunities arising from this significant geopolitical shift.</p>

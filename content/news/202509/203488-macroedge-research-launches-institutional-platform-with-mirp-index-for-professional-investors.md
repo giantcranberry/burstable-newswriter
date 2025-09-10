@@ -6,7 +6,6 @@ summary = "MacroEdge Research has introduced its institutional-grade research pl
 description = "MacroEdge Research launches institutional-grade MIRP Performance Index and research platform for professional investors, offering macroeconomic insights and actionable intelligence starting October 2025."
 source_link = "https://www.24-7pressrelease.com/press-release/526620/macroedge-announces-first-access-trial-accounts-for-macroedge-institutional-research-mirp-index-performance-tracking-launching-october-1"
 enclosure = "https://cdn.newsramp.app/genai/images/259/10/151bc6aa3a6c6d205795f03ab920b817.png"
-featured = true
 article_id = 203488
 feed_item_id = 20326
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/10/quaykB0F.webp"

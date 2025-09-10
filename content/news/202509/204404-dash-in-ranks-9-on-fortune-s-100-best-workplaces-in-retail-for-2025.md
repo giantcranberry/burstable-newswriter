@@ -1,0 +1,15 @@
++++
+title = "Dash In Ranks #9 on Fortune's 100 Best Workplaces in Retail for 2025"
+date = "2025-09-10T14:06:11Z"
+draft = false
+summary = "Dash In's third consecutive recognition on Fortune's prestigious retail workplace list highlights its exceptional employee-focused culture and commitment to professional development, setting industry standards for workplace excellence."
+description = "Dash In ranks #9 on Fortune's 100 Best Workplaces in Retail 2025, marking their third consecutive year on the prestigious list highlighting exceptional employee culture."
+source_link = "https://www.citybiz.co/article/742805/dash-in-named-among-fortunes-100-best-workplaces-in-retail-for-2025/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/9446ac4adbd0fa22f17f3e46dc135de2.webp"
+article_id = 204404
+feed_item_id = 20343
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/10/jinxJxQz.webp"
+source = "citybiz"
++++
+
+<p>Dash In has secured the #9 position on Fortune's 100 Best Workplaces in Retail for 2025, marking the third consecutive year the convenience store chain has earned this prestigious recognition. This achievement solidifies Dash In's standing among retail organizations dedicated to creating exceptional workplace environments that prioritize team member satisfaction and professional growth.</p><p>The recognition process, conducted by Fortune in partnership with Great Place to Work®, utilizes comprehensive employee surveys through their Trust Index to evaluate key factors contributing to outstanding workplace environments. Dash In's consistent placement on this list underscores the company's focus on building trust in management, fostering a strong company culture, and providing substantial professional development opportunities for employees.</p><p>Blackie Wills, President and Chief Executive Officer of Wills Group, Dash In's parent company, emphasized that this achievement demonstrates the everyday dedication of their team members and the company's foundational commitment to creating environments where employees can thrive. Earlier this year, Dash In and Wills Group earned their fourth consecutive Great Place to Work Certification, with 85% of employees reporting Dash In as a great place to work—significantly above industry averages.</p><p>The Fortune recognition highlights several differentiating factors for Dash In, including its people-first approach, continuous investment in professional development programs, and strong commitment to community engagement and supporting local communities. Additional information about the company's workplace initiatives is available at https://willsgroup.com/careers.</p><p>Operating more than 57 locations throughout Delaware, Maryland, and Virginia, Dash In maintains its focus on quality, innovation, cleanliness, and community involvement as part of its mission to redefine convenience retail experiences. This recognition serves as a benchmark for other retail organizations seeking to improve workplace culture and employee satisfaction in an industry known for high turnover rates and challenging work environments.</p>
