@@ -1,0 +1,15 @@
++++
+title = "Angkor Resources Expands Cambodian Oil and Gas License with Mussel Basin Addition"
+date = "2025-09-10T12:56:13Z"
+draft = false
+summary = "Angkor Resources Corp. has secured approval to incorporate the 220-square-kilometer Mussel Basin into its Block VIII license in Cambodia, enhancing exploration potential through identified seismic anomalies and surface oil seeps."
+description = "Angkor Resources expands Cambodian oil & gas Block VIII by 220 sq km with Mussel Basin addition. New seismic operations target September 2025 completion for exploration."
+source_link = "https://www.newmediawire.com/news/angkor-resources-receives-approval-to-incorporate-mussel-basin-into-block-viii-oil-and-gas-license-cambodia-7082539"
+enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/50fa27a620b653f0cb12c13ae3401239None"
+article_id = 204692
+feed_item_id = 20336
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/10/quaywbZs.webp"
+source = "NewMediaWire"
++++
+
+<p>Angkor Resources Corp. has received approval from Cambodia's Ministry of Mines and Energy to incorporate the Mussel Basin, an additional 220 square kilometers, into its Block VIII oil and gas license. This expansion brings the total license area to 4,277 square kilometers, following the company's voluntary removal of all parks and protected areas from development in March 2025.</p><p>Mike Weeks, President of EnerCam Resources Co. Ltd., Angkor's Cambodian energy subsidiary, stated that the Mussel Basin represents a significant area with strong indications as an added sub-basin for exploration and development. The inclusion of this basin allows for comprehensive evaluation through new 2-D seismic lines acquired during current field operations.</p><p>Justin Snelling, senior geologist and reservoir specialist for EnerCam, described the Mussel Basin as a self-contained Cenozoic age sedimentary basin. A review of vintage 2008 Accelerated Weight Drop (AWD) 2-D seismic lines has identified potential stratigraphic trapping anomalies. These anomalies, combined with known legacy surface oil seeps documented in the area, make the basin a prospective target for early exploratory drilling.</p><p>The next steps involve incorporating seismic lines from the Mussel Basin into the ongoing seismic program, with processing and interpretation targeted for completion by September 20, 2025. This expansion strengthens Angkor's position as a resource optimizer in Cambodia, working towards mineral and energy solutions across both Canada and Cambodia. The company maintains a long-term commitment to environmental and social projects, including its carbon capture and gas conservation project in Saskatchewan, Canada.</p><p>Angkor Resources Corp. is listed on the TSX Venture Exchange under the symbol ANK. The company's Cambodian energy subsidiary, EnerCam Resources, was originally granted an onshore oil and gas license of 7,300 square kilometers in southwest Cambodia, now reduced to 4,277 square kilometers after the removal of protected areas. View the original release on <a href="https://www.newmediawire.com" rel="nofollow" target="_blank">www.newmediawire.com</a>.</p>

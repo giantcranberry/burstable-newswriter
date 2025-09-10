@@ -6,7 +6,6 @@ summary = "Nightfood Holdings is transforming hotel operations through AI-powere
 description = "Nightfood Holdings revolutionizes hospitality with AI robotics, acquiring hotels for live deployment. Pivoting to robotics-first strategy to enhance guest experiences and streamline operations in growing $170B market."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nightfood-holdings-inc-otcqb-ngtf-featured-in-networknewswire-editorial-on-ai-and-robotics-in-hospitality/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/10/d4f3f543b323980f90ab3d8d9c783420.png"
-featured = true
 article_id = 204078
 feed_item_id = 20351
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/10/boss6bvJ.webp"
