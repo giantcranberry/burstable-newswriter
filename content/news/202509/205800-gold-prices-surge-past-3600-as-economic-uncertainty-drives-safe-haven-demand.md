@@ -6,7 +6,6 @@ summary = "Gold prices reached $3,621 per ounce amid US dollar weakness and poor
 description = "Gold prices exceed $3,600 amid dollar weakness and weak US jobs growth. Aston Bay Holdings benefits as MiningNewsWire covers the surge and its market impact."
 source_link = "https://rss.investorbrandnetwork.com/mnw/gold-exceeds-3600-as-the-usd-weakens-further/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/11/547be353b9a5faf4cfcceed117579d87.png"
-featured = true
 article_id = 205800
 feed_item_id = 20437
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/11/herbU8er.webp"
