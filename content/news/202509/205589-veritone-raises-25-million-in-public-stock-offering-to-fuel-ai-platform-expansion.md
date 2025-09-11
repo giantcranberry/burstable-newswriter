@@ -1,0 +1,15 @@
++++
+title = "Veritone Raises $25 Million in Public Stock Offering to Fuel AI Platform Expansion"
+date = "2025-09-11T10:55:07Z"
+draft = false
+summary = "Veritone's $25 million public stock offering provides critical capital to strengthen its enterprise AI platform and compete in the rapidly growing artificial intelligence market."
+description = "Veritone announces $25M public stock offering at $2.63/share to fund AI growth. Offering managed by Needham, closes Sept 2025. Proceeds for working capital & debt repayment."
+source_link = "https://www.citybiz.co/article/743512/veritone-announces-pricing-of-25-million-public-offering/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d793da90208e0ebadc47759ad1d40ac8.jpg"
+article_id = 205589
+feed_item_id = 20416
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/11/neonjNZv.webp"
+source = "citybiz"
++++
+
+<p>Veritone has priced a public offering of 9,505,705 shares of common stock at $2.63 per share, generating approximately $25 million in gross proceeds before underwriting costs. The capital infusion represents a strategic financial move for the enterprise AI solutions provider as it seeks to expand its market position in the competitive artificial intelligence sector.</p><p>The company intends to allocate net proceeds toward working capital and general corporate purposes, including debt service and repayment of indebtedness. This financial strategy supports Veritone's ongoing expansion of its human-centered AI platform, aiWARE, which orchestrates machine learning models to transform data into actionable intelligence for major brands across media, entertainment, public sector, and talent acquisition industries.</p><p>The offering structure includes a 30-day option for underwriters to purchase an additional 1,425,855 shares at the public offering price, providing potential for increased capital raising beyond the initial $25 million. Needham and Company served as sole bookrunning manager for the transaction scheduled to close on September 12, 2025.</p><p>The securities are being offered through a shelf registration statement previously filed with and declared effective by the Securities and Exchange Commission, with detailed prospectus information available through the SEC's website at <a href="https://www.sec.gov" rel="nofollow" target="_blank">https://www.sec.gov</a>. This regulatory framework ensures transparency and compliance with securities regulations while facilitating efficient capital market access.</p><p>This capital raise occurs amid intensifying competition in the enterprise AI sector, where companies require substantial investment to develop and scale advanced machine learning capabilities. The $25 million offering positions Veritone to strengthen its financial position while continuing to develop AI solutions that help organizations improve efficiency, accelerate decision-making, and increase profitability through blended human and artificial intelligence approaches. The funding enables Veritone to maintain technological competitiveness and expand its aiWARE platform's capabilities across multiple industry verticals.</p>

@@ -6,7 +6,6 @@ summary = "The Hero Awards has introduced an innovative program that leverages s
 description = "Hero Awards launches AI-powered program recognizing citizen activists for UN sustainability goals. Uses 7 AI platforms to develop actionable solutions while building cognitive skills."
 source_link = "https://www.24-7pressrelease.com/press-release/526685/hero-awards-commemorates-novel-solutions-to-un-goals-effected-by-7-sequenced-ais"
 enclosure = "https://cdn.newsramp.app/genai/images/259/11/1242f0a49320d97a3cc5b14b659d407f.png"
-featured = true
 article_id = 205335
 feed_item_id = 20413
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/11/mail0tLo.webp"
