@@ -6,7 +6,6 @@ summary = "Beeline Holdings has achieved a debt-free position while advancing it
 description = "Beeline Holdings eliminates $7M debt, expands AI mortgage platform, targets 2026 profitability. NASDAQ: BLNE shares break $2.20 technical target with $4.50 price outlook."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-beeline-holdings-inc-nasdaq-blne-featured-in-streetwise-reports-for-clearing-debt-and-expanding-ai-platform/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/10/3ccfa4517c127f213235f1de76b640ac.png"
-featured = true
 article_id = 204676
 feed_item_id = 20373
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/10/fineLM4N.webp"

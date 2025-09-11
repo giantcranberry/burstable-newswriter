@@ -1,0 +1,15 @@
++++
+title = "Baltimore Museum of Industry Launches Second Season of Industry Social Club Networking Series"
+date = "2025-09-10T20:46:07Z"
+draft = false
+summary = "The Baltimore Museum of Industry's Industry Social Club returns for its second season with free networking events connecting professionals across technology, finance, retail, and other sectors to foster innovation and community growth."
+description = "Baltimore Museum of Industry & PNC launch Season 2 of Industry Social Club networking events. Free after-hours panels on tech, finance, retail & more starting Sept 2025."
+source_link = "https://www.citybiz.co/article/743280/industry-social-club-returns-to-baltimore-museum-of-industry-after-hours-networking-event-launches-season-2/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/251854d94c6df2abb8a98dd9ea18b57e.jpg"
+article_id = 205138
+feed_item_id = 20392
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/10/frogome3.webp"
+source = "citybiz"
++++
+
+<p>The Baltimore Museum of Industry has announced the return of the Industry Social Club for its second season, presenting a series of free after-hours networking events designed to connect local professionals, creatives, and influencers. The program, presented by PNC Bank, aims to foster success for individuals and the broader community through industry-focused discussions and networking opportunities.</p><p>The second season kicks off on Wednesday, September 17, 2025, with a technology-focused panel exploring how tech is shaping Baltimore's future. The event will feature local professionals driving innovation and solving real-world problems within the city's tech landscape. Each event in the series will run from 5:30 to 8 PM and include music, a cash bar, and food, creating a relaxed atmosphere for professional connections.</p><p>The full 2025-2026 schedule includes events focused on finance (October 22, 2025), retail (November 19, 2025), sports (March 18, 2026), construction (April 15, 2026), and sustainability (May 20, 2026). The series is designed to spark new ideas and connections through networking, panel discussions, and workshops focused on practical skill-building across various industries.</p><p>Esteemed moderator and programming partner Alanah Nichole Davis will lead each event. Davis emphasized that the Industry Social Club serves as a safe space for creatives, entrepreneurs, and professionals navigating today's ever-changing business world across all sectors. The conversations are designed to be raw and real, focusing on what people are truly experiencing in their professional lives.</p><p>For more information and updates about the Industry Social Club series, interested professionals can visit <a href="https://www.thebmi.org/events" rel="nofollow" target="_blank">the museum's dedicated event page</a>. The Baltimore Museum of Industry, located at 1415 Key Highway, provides free parking for attendees and continues its mission of preserving and interpreting Maryland's industrial heritage through such community-focused programming.</p>

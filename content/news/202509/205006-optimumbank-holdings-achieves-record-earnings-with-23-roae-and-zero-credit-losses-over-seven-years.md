@@ -1,0 +1,15 @@
++++
+title = "OptimumBank Holdings Achieves Record Earnings with 23% ROAE and Zero Credit Losses Over Seven Years"
+date = "2025-09-10T18:16:32Z"
+draft = false
+summary = "OptimumBank Holdings Inc. reports exceptional 2024 financial performance with $13.1 million net income and 23% core ROAE, demonstrating strong growth trajectory and superior risk management while trading at a discount to peers."
+description = "OptimumBank Holdings reports record $13.1M 2024 net income, targets $1.6B assets by 2026 with zero credit losses for 7 years. Strong growth and SBA lending expansion."
+source_link = "https://rss.investorbrandnetwork.com/iw/optimumbank-holdings-inc-nyse-american-ophc-is-one-to-watch/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/10/6dd5666a388a2f1359e92fa38ee15dce.png"
+article_id = 205006
+feed_item_id = 20376
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/10/hushKXyo.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>OptimumBank Holdings Inc. (NYSE American: OPHC) has demonstrated remarkable financial performance, achieving record earnings and profitability in 2024 with net income of $13.1 million and Core Return on Average Equity exceeding 23 percent. This exceptional performance is particularly notable given the bank's seven consecutive years without any credit losses, underscoring its disciplined underwriting practices and strong risk management framework.</p><p>The company's growth trajectory remains robust, with expectations to surpass $1.2 billion in assets by the end of 2025 and project continued expansion to $1.5 to $1.6 billion by year-end 2026. This growth is supported by a clean balance sheet that includes no exposure to long-dated, low-yield bonds, providing financial stability and flexibility in a challenging interest rate environment. More information about the company's performance is available through their <a href="https://ibn.fm/OPHC" rel="nofollow" target="_blank">newsroom</a>.</p><p>OptimumBank's operational achievements include attaining SBA Preferred Lender status in just over two years and building its SBA lending program from zero, demonstrating both rapid execution capabilities and strong small business demand for its services. The bank has made strategic investments in a new digital core platform that is expected to enhance scalability and improve user experience for both local and international clients.</p><p>The company maintains a strong capital position with Tier 1 capital well above regulatory minimums, providing a solid foundation for future growth. Institutional ownership includes a notable position held by Alliance Bernstein, reflecting confidence in the bank's strategy and performance. Despite stronger growth metrics, superior credit quality, and higher returns compared to peers, OPHC trades at a significant discount, creating what the company describes as an attractive entry point for investors seeking exposure to a high-performing community banking institution.</p>

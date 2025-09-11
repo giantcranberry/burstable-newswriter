@@ -1,0 +1,15 @@
++++
+title = "Newton Golf Signs Top Junior Golfer Addison Kloch in Strategic Athlete Partnership"
+date = "2025-09-10T16:36:34Z"
+draft = false
+summary = "Newton Golf Company's partnership with elite junior golfer Addison Kloch validates their physics-based equipment technology and demonstrates their strategic approach to building brand credibility through high-performing athlete affiliations."
+description = "Newton Golf Company signs top junior golfer Addison Kloch as affiliated athlete. NASDAQ: NWTG announces partnership with physics-engineered golf equipment endorsement."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton-golf-company-inc-nasdaq-nwtg-signs-junior-golf-standout-addison-kloch-as-affiliated-athlete/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/10/9c8a8c484d500b859cbfa29beda7b1a3.png"
+article_id = 205008
+feed_item_id = 20367
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/10/epicWxa_.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Newton Golf Company Inc. (NASDAQ: NWTG) has signed Addison Kloch, one of Southern California's top junior golfers, as an affiliated athlete, marking a significant step in the company's athlete partnership strategy. Kloch, a Class of 2026 golfer from Agoura Hills, California, recently announced her verbal commitment to play Division I golf at California State University, Fullerton, bringing substantial credibility to Newton Golf's performance claims.</p><p>The partnership holds importance for Newton Golf's market positioning, as Kloch has publicly credited Newton Motion shafts for adding stability and consistency to her game. Her impressive achievements include three-time Marmonte League First Team honors, 2024 All-Ventura County First Team selection, recognition as California Junior Player of the Year in the Championship Girls Division, and an AJGA Top-300 national ranking. These accomplishments validate the company's technology-driven approach to golf equipment design.</p><p>Newton Golf, formerly known as Sacks Parente, has rebranded to reflect its commitment to innovation inspired by Sir Isaac Newton, applying Newtonian principles to create precision-engineered golf clubs that deliver stability, control, and performance. The company's mission to empower golfers with scientifically advanced equipment aligns with Kloch's rapid ascent in the sport, providing tangible evidence of their technology's effectiveness.</p><p>For investors and the golf industry, this affiliation represents Newton Golf's strategic approach to building brand recognition through elite athlete partnerships. The company maintains its newsroom at <a href="https://ibn.fm/NWTG" rel="nofollow" target="_blank">https://ibn.fm/NWTG</a> for ongoing updates, while the full press release detailing this partnership is available through their communications platform. This move signals Newton Golf's commitment to establishing itself as a technology-forward company in the competitive golf equipment market, leveraging high-performing junior athletes to demonstrate the real-world application of their physics-based engineering approach.</p>
