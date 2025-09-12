@@ -6,7 +6,6 @@ summary = "Easy Environmental Solutions Inc. is deploying its EasyFEN waste-to-f
 description = "Easy Environmental Solutions CEO reveals waste-to-fertilizer technology for African hunger crisis. NanoVoid water treatment and EasyFEN system transforming sustainability. 150 chars"
 source_link = "https://www.newmediawire.com/news/easy-environmental-solutions-ceo-talks-about-how-african-countries-are-excited-about-easyfen-its-waste-to-fertilizer-system-7082611"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/d6fb19e467b4cbf7e6e20e7c0e03f6efNone"
-featured = true
 article_id = 207246
 feed_item_id = 20501
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/12/mailUV7o.webp"
