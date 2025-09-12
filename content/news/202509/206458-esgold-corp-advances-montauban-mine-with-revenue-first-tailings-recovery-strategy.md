@@ -1,0 +1,15 @@
++++
+title = "ESGold Corp. Advances Montauban Mine with Revenue-First Tailings Recovery Strategy"
+date = "2025-09-11T19:55:25Z"
+draft = false
+summary = "ESGold Corp. is implementing an innovative mining approach that prioritizes near-term revenue generation through tailings recovery before major exploration, potentially setting a new industry standard for sustainable and economically viable mining operations."
+description = "ESGold Corp launches sustainable mining revolution with tailings recovery operations starting 2026, generating revenue while cleaning abandoned sites and extracting gold, silver."
+source_link = "https://rss.investorbrandnetwork.com/mnw/miningnewsbreaks-esgold-corp-s-cse-esau-otcqb-esauf-fse-z7d-revenue-focused-approach-featured-in-mining-podcast/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/11/e2de641a94895a9d39b0a4dcb0e4593e.png"
+article_id = 206458
+feed_item_id = 20469
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/11/gluescZh.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>ESGold Corp. is advancing its Montauban Mine project with a strategy centered on generating revenue before undertaking significant exploration activities. The company plans to profitably extract residual minerals from tailings, with operations scheduled to commence in 2026. This approach distinguishes ESGold from traditional exploration companies by prioritizing near-term cash flow.</p><p>The tailings recovery operation is expected to yield residual gold and silver, as well as mica that will be processed for use in construction and road work projects. According to information available in the company's <a href="https://www.esgold.ca/newsroom" rel="nofollow" target="_blank">newsroom</a>, this initiative will provide environmental benefits to the abandoned site and surrounding communities while creating economic value. CEO Gordon Robb emphasized the company's unique position during an interview, stating that ESGold is not following the traditional exploration-first path that most companies pursue.</p><p>Robb noted that ESGold is fully permitted and close to production, with an onsite mill and tailings piles ready for processing. The company aims to become cash-flow positive quickly, using generated revenues to fund future exploration efforts. This revenue-generation plan reduces reliance on external financing and aligns with sustainable mining practices.</p><p>The Montauban property, located 80 kilometers west of Quebec City, represents a model for responsible mining by combining near-term production with long-term exploration potential. ESGold's focus on tailings recovery not only addresses environmental concerns but also leverages existing resources to build financial stability. This strategy could set a precedent for other mining companies seeking to balance economic and ecological objectives, potentially transforming how the industry approaches resource development and environmental stewardship.</p>

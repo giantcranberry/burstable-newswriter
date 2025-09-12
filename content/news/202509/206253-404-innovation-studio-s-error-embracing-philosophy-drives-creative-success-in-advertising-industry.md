@@ -6,7 +6,6 @@ summary = "404 Innovation Studio's second anniversary marks the validation of it
 description = "404 Innovation Studio celebrates 2nd anniversary, recognized at Cannes Lions 2024 & Clio Entertainment. Brazil-based creative company redefines agency model with design-first innovation approach."
 source_link = "https://www.citybiz.co/article/743745/404-innovation-studio-celebrates-two-year-anniversary/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/da8ba5af80f82ba19197153c6131a565.png"
-featured = true
 article_id = 206253
 feed_item_id = 20453
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/11/zealGrCE.webp"

@@ -1,0 +1,15 @@
++++
+title = "Trumark Homes Launches 573-Home Francis Ranch Community in Dublin to Address Bay Area Housing Demand"
+date = "2025-09-11T19:45:07Z"
+draft = false
+summary = "Trumark Homes has opened the Francis Ranch master-planned community in Dublin, California, offering 573 homes across six neighborhoods with prices from the upper $1 millions to high $2 millions, addressing critical housing needs in the Tri-Valley region while providing modern amenities and strategic connectivity to major employment centers."
+description = "Trumark Homes opens Francis Ranch, a 573-home master-planned community in Dublin with diverse housing options, parks, and access to Silicon Valley. Prices from $1M+."
+source_link = "https://www.citybiz.co/article/743881/trumark-homes-opens-highly-anticipated-francis-ranch-master-planned-community-in-dublin-california/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/5eae170f9b0cbca8554763f5a46adb44.jpg"
+article_id = 206459
+feed_item_id = 20468
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/11/notewwmR.webp"
+source = "citybiz"
++++
+
+<p>Trumark Homes has opened its Francis Ranch master-planned community in Dublin, California, featuring 573 homes across six distinct neighborhoods designed to blend modern Bay Area living with the area's ranching heritage. The development addresses the ongoing demand for housing in the Tri-Valley region with prices starting from the upper $1 millions to high $2 millions for single-family homes and townhomes.</p><p>The community includes four neighborhoods built by Trumark Homes: Marigold with 98 motor court homes ranging from 2,470 to 2,629 square feet, Azure featuring 98 homes from 3,650 to 3,941 square feet, Orchid with 101 homes spanning 4,398 to 4,845 square feet, and Jasmine offering 100 townhomes from 1,921 to 2,072 square feet. The development will also feature two neighborhood parks and access to nearby trail networks for outdoor recreation.</p><p>Located in East Dublin near the <a href="https://www.bart.gov/stations/plsa" rel="nofollow" target="_blank">Dublin/Pleasanton BART Station</a> and Interstate 580, Francis Ranch provides convenient access to Silicon Valley, San Francisco, and the greater East Bay. This strategic positioning offers significant implications for commuters and businesses seeking housing solutions within reasonable distance of major employment centers.</p><p>Residents will have proximity to shopping destinations including Stoneridge Shopping Center and San Francisco Premium Outlets, as well as access to the highly rated Dublin Unified School District. The community's variety of housing options and modern amenities make it significant for addressing the Bay Area's persistent housing shortage while maintaining quality of life standards.</p><p>For additional details about the community, visit <a href="https://trumarkhomes.com/new-homes/ca/dublin/francis-ranch/" rel="nofollow" target="_blank">https://trumarkhomes.com/new-homes/ca/dublin/francis-ranch/</a>. Model homes for Azure and Orchid neighborhoods are currently available for viewing at the Welcome Center located at 1800 Humphreys Way in Dublin.</p>

@@ -1,0 +1,15 @@
++++
+title = "SuperCom Expands U.S. Electronic Monitoring Presence with 30 Contracts Across 11 States"
+date = "2025-09-11T19:15:32Z"
+draft = false
+summary = "SuperCom Ltd. has secured over 30 electronic monitoring contracts across 11 U.S. states in one year, positioning the company to capitalize on growing demand for cost-effective alternatives to incarceration that can reduce recidivism by approximately 50%."
+description = "SuperCom expands electronic monitoring with PureSecurity platform, securing 30+ US contracts and showing 50% recidivism reduction. Strong H1 2025 financial performance."
+source_link = "https://rss.investorbrandnetwork.com/tmw/supercom-ltd-nasdaq-spcb-u-s-expansion-positions-company-as-strong-investment-opportunity-in-expanding-electronic-monitoring-em-market/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/11/15b008452566865ab97e5b0e59da5dd4.png"
+article_id = 206584
+feed_item_id = 20461
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/11/seeknG6J.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SuperCom Ltd. (NASDAQ: SPCB) has rapidly expanded its presence in the United States electronic monitoring market, securing more than 30 contracts across 11 states within a single year. This expansion positions the company to capitalize on the growing demand for cost-effective public safety solutions as governments seek alternatives to incarceration and tools for reducing recidivism.</p><p>The electronic monitoring market is emerging as one of the fastest-growing segments in corrections and public safety, driven by pressure to reduce incarceration costs, manage overcrowded prisons, and provide rehabilitative options. Research across multiple jurisdictions has shown that electronic monitoring programs can reduce reoffending by approximately 50%, highlighting both their effectiveness and long-term relevance to public safety systems.</p><p>SuperCom's PureSecurity platform supports multiple applications, including probation monitoring and domestic violence prevention, integrating GPS, RFID, and cloud-based monitoring capabilities into a modular system. The company's international diversification, including national contracts in Israel and Europe, provides important stability alongside its U.S. growth initiatives. Strong financial performance in the first half of 2025 shows improved profitability, margins, and balance sheet strength for the global provider of secured e-Government, IoT, and cybersecurity solutions.</p><p>The latest news and updates relating to SuperCom are available in the company's newsroom at <a href="https://ibn.fm/SPCB" rel="nofollow" target="_blank">https://ibn.fm/SPCB</a>. For more information about TechMediaWire, please visit <a href="https://www.TechMediaWire.com" rel="nofollow" target="_blank">https://www.TechMediaWire.com</a>. Full terms of use and disclaimers applicable to all content provided by TechMediaWire are available at <a href="https://www.TechMediaWire.com/Disclaimer" rel="nofollow" target="_blank">https://www.TechMediaWire.com/Disclaimer</a>.</p>
