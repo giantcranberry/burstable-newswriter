@@ -6,7 +6,6 @@ summary = "Capsquery Private Limited has developed an automated system that conn
 description = "Capsquery launches smart email-to-CRM automation solution that eliminates manual data entry, saving businesses hours daily while reducing errors in critical business data management processes."
 source_link = "https://www.24-7pressrelease.com/press-release/526694/capsquery-private-limited-automates-email-to-crm-workflow-for-clients"
 enclosure = "https://cdn.newsramp.app/genai/images/259/12/ca9f2e2e7ad256f7b5d7c8d0b3c9691b.png"
-featured = true
 article_id = 206935
 feed_item_id = 20492
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/12/vibeicpZ.webp"
