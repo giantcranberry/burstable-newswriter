@@ -1,0 +1,15 @@
++++
+title = "Bluebox Expands Ice-as-a-Service to Multi-Unit Franchisees with Zero Capital Model"
+date = "2025-09-18T14:31:09Z"
+draft = false
+summary = "Bluebox Smart Ice and Water's expansion of its capital-free Ice-as-a-Service solution addresses chronic industry inefficiencies by transforming ice vending from a cost center to a profit generator for convenience and grocery franchises."
+description = "Bluebox launches Ice-as-a-Service for franchisees with zero upfront costs. Eliminates capital expenditure while increasing ice revenue 100-200%. Transformative solution for convenience stores."
+source_link = "https://www.citybiz.co/article/747051/bluebox-launches-ice-as-a-service-enterprise-solution-for-qualified-multi-unit-convenience-and-grocery-franchisees/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b668c49085cd6af0e5676e968687ad4e.jpg"
+article_id = 212551
+feed_item_id = 20878
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/18/notevHMO.webp"
+source = "citybiz"
++++
+
+<p>Bluebox Smart Ice and Water has expanded its Ice-as-a-Service solution to qualified multi-unit franchisees in convenience and grocery sectors, offering a capital-free approach to ice vending that addresses longstanding industry inefficiencies. The enterprise-focused model utilizes <a href="https://everesticeandwater.com" rel="nofollow" target="_blank">Everest Ice and Water Systems</a>' VersaVend proprietary equipment through an exclusive licensing agreement, eliminating traditional packaged ice machine costs and operational challenges while creating sustainable revenue streams.</p><p>The solution transforms ice vending from a cost center to profit generator by addressing inventory shortages, labor waste, customer complaints, after-hours sales restrictions, and environmental impact through continuous machine operation. According to Bluebox CEO Ben Gaskill, the company's mission is to convert a historically flawed supply chain into a profitable asset for qualified multi-unit operators by providing zero capital expenditure, no maintenance costs, and guaranteed uptime.</p><p>Early results from pilot programs demonstrate significant financial impact, with multi-unit franchisee partner Matt Webb reporting 100-200% increases in ice revenue alongside improved customer satisfaction and operational consistency at Circle K locations. The Zero Requirements Agreement covers all equipment, maintenance, and storage needs, positioning franchisees to maximize profitability without upfront investment through Bluebox's revenue share model.</p><p>The partnership with Everest Ice and Water Systems enables Bluebox to leverage patented single-moving-part dispensing technology that creates a scalable, self-serve, space-neutral solution requiring virtually no labor while operating 24/7. This modernization of the ice and water fulfillment ecosystem represents a strategic shift for convenience and grocery franchises seeking to eliminate the costs and burdens associated with traditional ice delivery and equipment management.</p>

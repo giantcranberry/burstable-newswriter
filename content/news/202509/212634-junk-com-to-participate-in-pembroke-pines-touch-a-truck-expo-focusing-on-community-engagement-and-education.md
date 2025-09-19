@@ -1,0 +1,15 @@
++++
+title = "Junk.com to Participate in Pembroke Pines Touch-A-Truck Expo, Focusing on Community Engagement and Education"
+date = "2025-09-17T15:11:09Z"
+draft = false
+summary = "Junk.com's involvement in the Touch-A-Truck event highlights its commitment to community outreach and educating children about waste management operations."
+description = "Junk.com participates in Pembroke Pines Touch-A-Truck Expo on Sept 20, 2025. Kids can sit in trucks, get free toys, and meet community heroes. Family event with giveaways."
+source_link = "https://www.citybiz.co/article/746243/get-in-the-drivers-seat-of-the-junk-com-truck-at-the-pembroke-pines-touch-a-truck-vehicle-expo/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/36e46e2088490c53a0491c4aa8787081.jpg"
+article_id = 212634
+feed_item_id = 20797
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/17/urgeXrx8.webp"
+source = "citybiz"
++++
+
+<p>Junk.com, a growing junk removal service, will participate in the City of Pembroke Pines Touch-A-Truck Vehicle Expo on September 20, 2025, from 10:00 a.m. to 12:00 p.m. at 601 City Center Way. The family-friendly event allows children to explore various trucks and emergency response vehicles while meeting the operators who use them daily.</p><p>Children visiting the Junk.com truck will have the opportunity to sit in the driver's seat, take photographs, and learn about the vehicle's operations. The company will distribute squishy Junk.com truck toys as souvenirs for attendees. Nicole Turturici, CEO of Junk.com, stated that their trucks usually help families clear out clutter, but at Touch-A-Truck, they get to bring smiles, spark curiosity, and give kids a hands-on experience they will never forget.</p><p>The City of Pembroke Pines will offer additional promotions for early arrivals, including free T-shirts for the first 100 children, Hot Wheels cars for the first 300, and hard hats for the first 500. Junk.com's participation demonstrates the company's commitment to community engagement and educational outreach, providing children with insights into waste management and vehicle operations.</p><p>For business and technology leaders, this initiative underscores the importance of corporate social responsibility in building brand loyalty and public trust. By engaging with younger generations through educational events, companies like Junk.com not only enhance their community presence but also foster early interest in industries critical to urban infrastructure and sustainability.</p><p>Such outreach efforts can have broader implications for the waste management and logistics sectors, potentially addressing workforce shortages by inspiring future professionals. Events like these also align with growing consumer expectations for businesses to contribute positively to their communities, which can influence purchasing decisions and corporate reputation. For more information about Junk.com's services, visit <a href="https://www.Junk.com" rel="nofollow" target="_blank">https://www.Junk.com</a>.</p>

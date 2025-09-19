@@ -1,0 +1,15 @@
++++
+title = "CSIS Proposes Policy Framework for U.S.-Brazil Copper Supply Chain Partnership"
+date = "2025-09-17T15:01:50Z"
+draft = false
+summary = "The Center for Strategic & International Studies has developed policy recommendations to help the United States secure copper supplies from Brazil through 'friendshoring' strategies, addressing growing strategic importance of the metal for technology and renewable energy sectors."
+description = "CSIS recommends US-Brazil copper partnership to secure critical mineral supplies. Policy focuses on friendshoring strategies with Torr Metals exploration potential in friendly nations."
+source_link = "https://rss.investorbrandnetwork.com/rns/policy-recommendations-the-us-can-leverage-to-source-copper-from-brazil/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/17/ca28e15c4555b85ee724185cdbda7f3e.png"
+article_id = 212637
+feed_item_id = 20796
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/17/silkQ8TM.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>The Center for Strategic & International Studies (CSIS) has developed policy recommendations to help the United States secure copper supplies from Brazil as the strategic importance of the metal continues to grow globally. The recommendations focus on establishing mutually beneficial relationships that would enable the U.S. to access Brazil's substantial copper resources through what is described as "friendshoring" international supply chains.</p><p>These policy measures are designed to create sustainable copper supply arrangements that could benefit both nations for decades to come. While specifically targeting Brazil, the CSIS framework could be applied to other countries considered friendly to U.S. interests, potentially including Canada where companies like Torr Metals Inc. are actively exploring resources.</p><p>The recommendations come at a critical time when copper's strategic value is increasing across multiple industries, particularly in technology and renewable energy sectors. By establishing reliable supply chains with Brazil, the U.S. could reduce dependence on less stable or adversarial sources while supporting economic cooperation with a key South American partner.</p><p>The full scope of policy recommendations addresses both immediate and long-term supply chain security concerns, positioning copper as a critical mineral for national security and economic stability. This approach represents a strategic shift in how the U.S. might secure essential mineral resources through diplomatic and economic partnerships rather than relying solely on market mechanisms or less reliable trading partners.</p><p>For business leaders and technology executives, this development signals a potential stabilization of copper supply chains critical for electronics manufacturing, electric vehicle production, and renewable energy infrastructure. The shift toward friendshoring strategies could provide more predictable pricing and availability for a metal that serves as the backbone of modern technological advancement and clean energy transition.</p>

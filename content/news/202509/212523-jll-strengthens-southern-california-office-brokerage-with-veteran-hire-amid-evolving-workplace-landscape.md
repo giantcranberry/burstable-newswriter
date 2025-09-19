@@ -1,0 +1,15 @@
++++
+title = "JLL Strengthens Southern California Office Brokerage with Veteran Hire Amid Evolving Workplace Landscape"
+date = "2025-09-18T17:41:09Z"
+draft = false
+summary = "JLL expands its Southern California office brokerage by hiring experienced professional Blake Olson to help companies navigate complex office market transformations and evolving workplace requirements."
+description = "JLL hires Blake Olson as Senior VP to expand LA office brokerage, strengthening tenant representation services in Southern California's evolving commercial real estate market."
+source_link = "https://www.citybiz.co/article/747273/jll-expands-office-brokerage-team-in-los-angeles-with-addition-of-blake-olson-as-senior-vice-president/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/cac10a2345b0fd52185e29839c9df7d8.jpg"
+article_id = 212523
+feed_item_id = 20911
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/18/nukepYOY.webp"
+source = "citybiz"
++++
+
+<p>JLL has expanded its Southern California office brokerage business with the hiring of 10-year Los Angeles commercial real estate veteran Blake Olson as Senior Vice President. The move comes as companies increasingly require expert guidance in navigating the evolving workplace landscape and office market complexities.</p><p>Olson will specialize in assisting office tenants with their leasing requirements throughout Southern California, with particular focus on the West Los Angeles market. His appointment reflects JLL's strategic initiative to grow its Los Angeles brokerage operations by adding experienced professionals who bring innovative and forward-thinking approaches to real estate solutions.</p><p>Charlie Smith, JLL Senior Managing Director, emphasized the importance of experienced professionals in today's market environment. As the workplace continues to evolve, companies need experienced professionals to help them navigate the office market, creating a strong foundation and culture for the business. Smith stated that Olson represents the ideal candidate to strengthen JLL's Los Angeles office tenant representation team given his extensive experience working with companies on their real estate strategies.</p><p>Olson brings nearly a decade of office brokerage experience in the Los Angeles market to his new role. Most recently, he served as principal for a global commercial real estate firm where he advised companies both in Los Angeles and nationally on various complex transactions. His expertise in handling sophisticated real estate deals positions him to effectively address the changing needs of office tenants in Southern California.</p><p>The expansion of JLL's brokerage team signals the ongoing transformation in how companies approach office space requirements following shifts in workplace dynamics. This strategic hire demonstrates the growing demand for specialized expertise as businesses adapt to hybrid work models, changing office configurations, and evolving corporate real estate strategies. For more information about JLL's comprehensive services, visit <a href="https://www.jll.com" rel="nofollow" target="_blank">https://www.jll.com</a>.</p>

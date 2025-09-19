@@ -1,0 +1,15 @@
++++
+title = "PowerBank Corporation Advances Three Community Solar Projects in Nova Scotia"
+date = "2025-09-17T14:21:32Z"
+draft = false
+summary = "PowerBank Corporation's development of three community solar projects in Nova Scotia represents a significant step toward regional renewable energy goals, offering substantial economic and environmental benefits."
+description = "PowerBank advances three Nova Scotia solar projects generating $6.95M in community savings, supporting renewable energy goals and local economic benefits through clean power development."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-powerbank-corporation-nasdaq-suun-cboe-ca-sunn-fse-103-advances-three-nova-scotia-community-solar-projects/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/17/1ea0287f58b1583fafb66cda8dfab783.png"
+article_id = 212645
+feed_item_id = 20788
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/17/riceVG5T.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>PowerBank Corporation has announced significant progress on three community solar projects located in Sydney, Brooklyn, and West Petpeswick, Nova Scotia. The projects are expected to receive interconnection results within the next 30 days, with construction targeted to begin in spring 2026 pending positive results and secured financing.</p><p>Developed in partnership with Trimac Engineering and owned by AI Renewable Flow-through Fund, these projects represent a substantial investment in Nova Scotia's renewable energy infrastructure. The solar installations are projected to generate up to $6.95 million in lifetime electricity savings for local communities while creating employment opportunities, enhancing grid reliability, and reducing carbon emissions.</p><p>The three projects will contribute 12.4 MW DC toward Nova Scotia's renewable energy objectives, positioning PowerBank as a key player in Canada's emerging clean energy market. This development underscores the company's expertise in delivering community solar solutions across North America and demonstrates the growing importance of distributed energy resources in meeting regional sustainability targets.</p><p>PowerBank Corporation focuses on developing solar and Battery Energy Storage System projects that sell electricity to utilities, commercial, industrial, municipal, and residential off-takers. The company maintains a diverse portfolio across multiple North American markets, including projects with utilities, host off-takers, community solar, and virtual net metering projects. Additional information about the company's forward-looking statements can be found at <a href="https://ibn.fm/m1Rpy" rel="nofollow" target="_blank">https://ibn.fm/m1Rpy</a>.</p><p>The advancement of these projects comes at a critical time as Nova Scotia continues to expand its renewable energy capacity. Community solar projects like these provide local residents and businesses with access to clean energy while supporting regional economic development through job creation and long-term energy cost savings.</p>

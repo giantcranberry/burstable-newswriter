@@ -1,0 +1,15 @@
++++
+title = "Lantern Pharma Advances AI-Driven Cancer Drug LP-184 After Successful Phase 1a Trial"
+date = "2025-09-16T17:56:30Z"
+draft = false
+summary = "Lantern Pharma's LP-184 demonstrates promising efficacy and safety in Phase 1a trials for advanced solid tumors, leveraging AI to accelerate oncology drug development and target DNA damage response-deficient cancers."
+description = "Lantern Pharma's AI-driven LP-184 Phase 1a trial shows promising results in cancer treatment, with disease control in 48% of patients and no dose-limiting toxicities."
+source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-lantern-pharma-nasdaq-ltrn-completes-phase-1a-trial-of-lp-184-with-favorable-safety-pk-profile-and-early-antitumor-activity/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/16/2dee7cb7641a85e3a5c56553c2449fbb.png"
+article_id = 212699
+feed_item_id = 20714
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/16/roamqZRn.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Lantern Pharma has successfully completed its Phase 1a clinical trial for LP-184, meeting all primary endpoints with a favorable safety profile and early signs of antitumor activity. The open-label study, conducted in 63 patients with advanced relapsed or refractory solid tumors including glioblastoma, demonstrated disease control in 48% of evaluable patients at therapeutic dose levels.</p><p>The trial results showed notable responses in DNA damage response-deficient cancers such as non-small cell lung cancer, colon cancer, thymic carcinoma, and gastrointestinal stromal tumors. No dose-limiting toxicities were observed during the study, with adverse events being predominantly mild in nature, indicating a well-tolerated treatment profile.</p><p>Based on these promising results, Lantern Pharma plans to advance LP-184 into Phase 1b and Phase 2 clinical studies targeting triple-negative breast cancer, NSCLC, and other DDR-deficient cancers. The company will leverage its proprietary <a href="https://ibn.fm/LTRN" rel="nofollow" target="_blank">RADR AI platform</a> to optimize patient selection and trial design, potentially accelerating the drug development timeline.</p><p>The successful completion of this Phase 1a trial represents a significant milestone in the application of artificial intelligence to oncology drug development. By utilizing machine learning algorithms and extensive oncology data, Lantern Pharma aims to transform the cost, pace, and efficiency of bringing new cancer therapies to market.</p><p>This advancement in AI-driven drug development could have substantial implications for cancer treatment, particularly for patients with difficult-to-treat solid tumors who have limited therapeutic options. The ability to identify and target specific cancer subtypes with precision medicine approaches may lead to more effective treatments with reduced side effects, potentially setting new standards for personalized oncology care.</p>

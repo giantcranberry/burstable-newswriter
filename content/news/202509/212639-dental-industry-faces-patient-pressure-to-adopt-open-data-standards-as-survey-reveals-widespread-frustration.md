@@ -1,0 +1,15 @@
++++
+title = "Dental Industry Faces Patient Pressure to Adopt Open Data Standards as Survey Reveals Widespread Frustration"
+date = "2025-09-17T15:01:07Z"
+draft = false
+summary = "A Vyne Dental survey shows 82% of dental patients prioritize easy record sharing between providers, highlighting systemic inefficiencies and the urgent need for interoperability in dental care."
+description = "Survey by Vyne Dental shows 82% of patients want easy dental record-sharing, with 50% repeating tests due to poor interoperability. Learn about open data solutions."
+source_link = "https://www.citybiz.co/article/746240/patients-want-easy-access-to-dental-records-survey-finds/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/e91927419bdc5154ec8842331da16841.png"
+article_id = 212639
+feed_item_id = 20795
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/17/larkFyLs.webp"
+source = "citybiz"
++++
+
+<p>A recent survey conducted by <a href="https://vyne.com" rel="nofollow" target="_blank">Vyne Dental</a> reveals that 82.34% of dental patients consider easy sharing of their records and x-rays between providers important or very important. The study, which surveyed 300 patients in September, underscores growing patient frustration with the dental industry's lag in adopting open data standards compared to the medical field.</p><p>Half of respondents (50.3%) reported having to repeat dental tests or x-rays because their new dentist lacked access to previous records. This finding points to significant inefficiencies and unnecessary costs within the dental care system. Nick Rodich of Vyne Dental emphasized that open data benefits both patients and providers by informing treatment decisions and preventing redundant procedures.</p><p>The survey also found that 79% of patients value portable dental records that enable seamless transitions between dentists without information loss. However, 43.7% of patients described accessing their dental information as difficult or very difficult, indicating substantial barriers to patient-centered care.</p><p>Despite strong preferences for data accessibility, 64.3% of patients were unfamiliar with the term "interoperability," suggesting a need for better patient education about health information exchange concepts. The dental industry's slow progress toward interoperability contrasts with medical industry advances, where frameworks support seamless data exchange across providers and electronic health records.</p><p>These findings come as pressure mounts for the dental industry to embrace open data principles that allow free access, use, and sharing of information across platforms without restrictive barriers. The survey results demonstrate that patient expectations are evolving toward greater transparency and control over personal health information, creating urgency for dental practices to modernize their data sharing capabilities.</p>

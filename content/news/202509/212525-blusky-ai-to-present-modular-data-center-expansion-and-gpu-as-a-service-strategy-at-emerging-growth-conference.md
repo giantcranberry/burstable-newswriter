@@ -1,0 +1,15 @@
++++
+title = "BluSky AI to Present Modular Data Center Expansion and GPU-as-a-Service Strategy at Emerging Growth Conference"
+date = "2025-09-18T17:31:27Z"
+draft = false
+summary = "BluSky AI Inc. will showcase its rapidly deployable SkyMod data centers and GPU-as-a-Service offerings at the September 2025 Emerging Growth Conference, highlighting how its ESG-aligned infrastructure addresses critical AI computational demands while promoting sustainability."
+description = "BluSky AI announces presentation at Emerging Growth Conference on GPU-as-a-Service and modular data centers for AI infrastructure. CEO to discuss expansion and ESG initiatives."
+source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-blusky-ai-inc-otcid-bsai-to-present-at-emerging-growth-conference-on-sept-24/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/18/a214b5bf4c7cd036b524cdee6b430876.png"
+article_id = 212525
+feed_item_id = 20910
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/18/lossvedu.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>BluSky AI Inc. (OTC ID: BSAI), a Neocloud company specializing in rapidly deployable SkyMod data centers that provide GPU-as-a-Service, announced it will present at the Emerging Growth Conference on September 24, 2025. CEO Trent D'Ambrosio will deliver a presentation at 11:25 a.m. Eastern Time titled "Accelerating Access to Intelligent Infrastructure," highlighting the company's modular data center expansion, GPU-as-a-Service deployments and ESG-aligned infrastructure initiatives.</p><p>The presentation will be followed by a live Q&A session with investors, advisors and analysts, providing stakeholders with direct access to company leadership. BluSky AI delivers modular, rapidly deployable data center infrastructure purpose-built for artificial intelligence, offering next generation scalable AI Factories that provide speed-to-market and energy optimization for entities requiring high-performance infrastructure to support machine learning workloads.</p><p>The company's technology empowers small, mid-sized, enterprise, and academic partners from start-up to scale-up to drive innovation without compromise. The latest news and updates relating to BSAI are available in the company's newsroom at <a href="http://ibn.fm/BSAI" rel="nofollow" target="_blank">http://ibn.fm/BSAI</a>. The Emerging Growth Conference presentation represents an opportunity for the company to showcase its progress in addressing the growing demand for accessible AI infrastructure solutions.</p><p>Headquartered in Salt Lake City, Utah, BluSky AI's focus on ESG-aligned infrastructure initiatives reflects the increasing importance of sustainable technology development in the AI sector. The company's modular approach to data centers addresses both the computational needs of AI applications and environmental considerations through energy optimization strategies, positioning it to capture market share in the rapidly expanding AI infrastructure market where sustainability concerns are becoming increasingly critical for enterprise adoption.</p>

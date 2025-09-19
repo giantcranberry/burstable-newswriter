@@ -1,0 +1,15 @@
++++
+title = "Electric Vehicle Sales Growth Slows to 15% in August, Marking Weakest Performance Since January"
+date = "2025-09-17T14:21:32Z"
+draft = false
+summary = "Global electric and plug-in hybrid vehicle sales growth slowed to 15% in August, the weakest monthly performance since January, as smaller companies challenge established manufacturers and create new market dynamics."
+description = "Global EV sales growth slowed to 15% in August, the weakest since January. Rho Motion research shows market deceleration as smaller companies challenge established automakers."
+source_link = "https://rss.investorbrandnetwork.com/tmw/research-shows-ev-sales-registered-15-sales-growth-globally-in-august/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/17/06fe2ed9e074143e6df924f351b448e8.png"
+article_id = 212646
+feed_item_id = 20789
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/17/smogO9aX.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Global electric and plug-in hybrid vehicle sales experienced a sharp slowdown in August, with growth dropping to just 15% compared to the same month last year, according to new research by Rho Motion. This represents the weakest monthly growth performance since January and marks a significant decline from July's 21% growth rate.</p><p>The slowdown comes as smaller companies continue to chip away at the market share traditionally held by larger automotive manufacturers. This competitive pressure is creating opportunities for emerging players in the EV market to gain traction. Companies can work to capitalize on this shifting landscape as consumer preferences and market dynamics evolve.</p><p>The research findings highlight the ongoing challenges facing the electric vehicle industry despite continued global adoption. The August figures suggest potential headwinds for the sector, which has been experiencing robust growth in recent years. The data provides crucial insights for investors, manufacturers, and policymakers monitoring the transition to electric transportation.</p><p>For more information about the research methodology and detailed findings, visit <a href="https://www.TechMediaWire.com" rel="nofollow" target="_blank">https://www.TechMediaWire.com</a>. Additional disclaimers and terms of use regarding the research content can be found at <a href="https://www.TechMediaWire.com/Disclaimer" rel="nofollow" target="_blank">https://www.TechMediaWire.com/Disclaimer</a>.</p><p>The slowing growth rate raises questions about the sustainability of the electric vehicle market's expansion and whether current growth patterns can be maintained. Industry analysts will be closely watching September data to determine if August's performance represents a temporary setback or the beginning of a broader trend in the electric vehicle market.</p>

@@ -1,0 +1,15 @@
++++
+title = "Avant Capital Provides $19.5 Million Bridge Financing for Central Florida Multifamily Properties"
+date = "2025-09-17T12:11:14Z"
+draft = false
+summary = "Avant Capital's $19.5 million bridge loan for two Central Florida multifamily properties highlights the region's strong market fundamentals and signals continued lender confidence in Florida's real estate sector despite broader economic uncertainties."
+description = "Avant Capital provides a $19.49M bridge loan for multifamily properties in Central Florida, supporting growth in high-demand markets with strong economic trends and job opportunities."
+source_link = "https://www.newmediawire.com/news/avant-capital-originates-19-49-million-bridge-loan-on-multifamily-portfolio-in-winter-springs-and-winter-haven-florida-7082733"
+enclosure = "https://cdn.newsramp.app/genai/images/259/17/374161f064e11600aa9d1d59b84010d2.png"
+article_id = 212662
+feed_item_id = 20771
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/17/boldYtG6.webp"
+source = "NewMediaWire"
++++
+
+<p>Avant Capital, a Connecticut-based commercial real estate bridge lender, has originated a $19,490,000 bridge loan secured by two multifamily properties in Central Florida. The financing supports Terra Villa Park, a 41-unit residential and 3-unit commercial mixed-use property in Winter Springs, and Terra Hill Apartments, a 76-unit multifamily community in Winter Haven.</p><p>The transaction underscores the strength of Central Florida's multifamily market, which continues to benefit from robust demographic and economic trends including strong job growth, population in-migration, and sustained housing demand. Winter Springs offers residents a walkable, town center environment in a high-income Orlando suburb, while the Winter Haven property is positioned within a fast-growing market supported by major employers such as Publix, Walmart, and Lakeland Regional Health.</p><p>Adam Luysterborghs, Managing Principal of Avant, stated that this financing exemplifies the company's core focus on providing flexible capital to experienced multifamily sponsors. Both properties are well-occupied with recent capital improvements and additional upside potential from ongoing renovations, making them attractive investments in growth markets.</p><p>In 2025, Avant is targeting similar projects ranging from $1 million to $75 million nationwide with a focus on multifamily and industrial assets across high-growth markets including Florida, Texas, North Carolina, Georgia, and Colorado. The company also acquires non-performing loans secured by commercial real estate. For more information about Avant Capital's lending activities, visit <a href="https://www.avant-capital.com" rel="nofollow" target="_blank">https://www.avant-capital.com</a>.</p><p>The loan origination demonstrates continued lender confidence in Florida's multifamily sector despite broader economic uncertainties, highlighting the state's persistent appeal to both residents and investors seeking stable returns in well-located properties with strong fundamentals.</p>

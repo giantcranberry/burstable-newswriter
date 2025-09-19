@@ -1,0 +1,15 @@
++++
+title = "AMAG Austria Metall Extends Chief Sales Officer Contract Through 2029 Amid Industry Challenges"
+date = "2025-09-17T22:01:16Z"
+draft = false
+summary = "AMAG Austria Metall AG has extended Chief Sales Officer Victor Breguncci's contract until May 2029, reinforcing sales leadership stability during a difficult period for the European aluminum industry."
+description = "AMAG Austria Metall extends CSO Victor Breguncci's contract to 2029, reinforcing sales leadership and strategic focus amid industry challenges for aluminum solutions."
+source_link = "https://www.newmediawire.com/news/amag-austria-metall-ag-management-board-mandate-of-cso-victor-breguncci-extended-7082769"
+enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/46abcbfe7d3cee0aa9946577032f9ec9.jpg"
+article_id = 212597
+feed_item_id = 20831
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/17/note_ar2.webp"
+source = "NewMediaWire"
++++
+
+<p>The Supervisory Board of AMAG Austria Metall AG has extended the contract of Chief Sales Officer Victor Breguncci until May 31, 2029, signaling continued emphasis on sales leadership during a challenging period for the European aluminum industry. The decision, made at the September 17, 2025 meeting, provides stability in corporate leadership and underscores the strategic importance of customer-focused initiatives.</p><p>Supervisory Board Chairman Alessandro Dazza stated that the extension demonstrates AMAG's commitment to supporting sales efforts and maintaining continuity. Breguncci has played a key role in strengthening customer focus and commercial excellence while shaping the future sales organization during his tenure since June 2019. His responsibilities include Sales, Strategic Sales Development, Supply Chain Management, and Market Monitoring and Development.</p><p>Breguncci expressed gratitude for the trust placed in him, particularly given current industry challenges. He emphasized his commitment to working with his team and fellow board members to position AMAG as a reliable partner for high-quality aluminum solutions. The current Management Board consists of CEO and COO Dr. Helmut Kaufmann, CFO Claudia Trampitsch, and Breguncci as CSO since January 1, 2024.</p><p>The contract extension highlights AMAG's strategic prioritization of sales functions, ensuring customer-focused topics remain addressed at the highest decision-making level through independent sales representation on the Management Board. This move comes as the aluminum industry faces significant challenges across European markets, making experienced leadership in commercial operations particularly valuable for maintaining competitive positioning and customer relationships.</p><p>Additional information about AMAG's operations and market position is available through their official website at <a href="https://www.amag.at" rel="nofollow" target="_blank">https://www.amag.at</a>. The original announcement detailing the contract extension can be found at <a href="https://www.newmediawire.com" rel="nofollow" target="_blank">https://www.newmediawire.com</a>.</p>

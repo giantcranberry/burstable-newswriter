@@ -1,0 +1,15 @@
++++
+title = "Cvent Wins 2025 Digiday Technology Award for Best Event Platform"
+date = "2025-09-16T17:56:08Z"
+draft = false
+summary = "Cvent's recognition in the Best Event Platform category highlights the growing strategic importance of AI-powered event technology in delivering measurable marketing ROI and personalized experiences at scale."
+description = "Cvent wins Best Event Platform at 2025 Digiday Technology Awards for its AI-driven event marketing solutions that enhance attendee engagement and deliver measurable ROI for marketers."
+source_link = "https://www.citybiz.co/article/745609/cvent-named-best-event-platform-in-2025-digiday-technology-awards/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/d5bcb8ada2328e74a442f177e066e65a.jpg"
+article_id = 212701
+feed_item_id = 20711
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/16/nukeczhV.webp"
+source = "citybiz"
++++
+
+<p>Cvent has been named the winner in the Best Event Platform category in the 2025 Digiday Technology Awards, recognizing the company's role in advancing marketing performance through its innovative event marketing and management platform. The prestigious endorsement celebrates technology companies using AI and automation to deliver personalized experiences, precise targeting, and measurable marketing performance across channels.</p><p>The expansion of this year's awards program to include the Best Event Platform category underscores the growing importance of event technology to modern marketing tech stacks. As organizations prioritize face-to-face experiences to connect with target audiences, they increasingly rely on technology platforms that elevate attendee engagement, enable smarter targeting to improve event ROI, and advance marketing goals.</p><p>Cvent's nomination was anchored in a compelling <a href="https://www.cvent.com/en/case-studies/university-of-southern-california" rel="nofollow" target="_blank">case study</a> featuring work with the University of Southern California that illustrates how strategic event technology can foster global engagement and measurable outcomes. The company's robust AI-driven attendee engagement tools, analytics solutions, and deep industry intelligence enable marketing teams to derive greater value from their event programs.</p><p>Kate Hammitt, Vice President of Marketing at Cvent, stated that the recognition reflects the company's commitment to helping organizations embrace data-driven, AI-powered event-led-growth strategies that prioritize impact over impression. The results demonstrate the strategic value of live events as a channel for building community, enhancing ROI, and delivering tailored experiences at scale in today's rapidly changing marketing landscape.</p><p>This year, Cvent joined global brands including The Walt Disney Company, Grammarly, and Intuit Mailchimp as winners of these coveted awards. In an era where marketing excellence is directly tied to data, insights, and actions gleaned from each meeting or event, this accolade reflects Cvent's best-in-class approach to bringing event and marketing technology together to drive measurable results for organizations worldwide.</p>

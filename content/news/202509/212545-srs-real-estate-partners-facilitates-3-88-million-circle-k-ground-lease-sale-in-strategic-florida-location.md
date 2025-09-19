@@ -1,0 +1,15 @@
++++
+title = "SRS Real Estate Partners Facilitates $3.88 Million Circle K Ground Lease Sale in Strategic Florida Location"
+date = "2025-09-18T14:50:23Z"
+draft = false
+summary = "SRS Real Estate Partners completed a $3.88 million ground lease sale of a Circle K property in Odessa, Florida, highlighting the continued investor demand for corporate-guaranteed retail assets in growing markets."
+description = "SRS Real Estate Partners completes $3.88M ground lease sale of Circle K property in Odessa, FL. Investment features 15-year corporate lease in growing retail development."
+source_link = "https://www.citybiz.co/article/747067/srs-real-estate-partners-announces-3-88-million-ground-lease-sale-of-a-newly-developed-circle-k-property-in-odessa-fl/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/4684b49bce2f5f7908d6741c26f16b29.jpg"
+article_id = 212545
+feed_item_id = 20884
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/18/mailxutP.webp"
+source = "citybiz"
++++
+
+<p>SRS Real Estate Partners has completed the $3.88 million ground lease sale of a Circle K property located at the northwest corner of SR-54 and Asturian Parkway in Odessa, Florida. The 5,200-square-foot property sits on 1.7 acres and features a new, 15-year, corporate-guaranteed lease. SRS Capital Markets Senior Managing Principal Patrick Nutt and Executive Vice President & Principal William Wamble represented the seller, a Florida-based private developer.</p><p>The buyer was a private investment entity controlled by family members residing in California and Florida. The purchase was executed to complete a <a href="https://www.irs.gov/" rel="nofollow" target="_blank">1031 tax-deferred exchange</a>, a strategy that allows investors to defer capital gains taxes by reinvesting proceeds from the sale of one property into another similar property. The Circle K is part of a larger retail development that will include Ford’s Garage, a three-tenant retail property, planned multi-family units, office space, and additional commercial offerings.</p><p>Patrick Nutt emphasized the appeal of ground-leased Circle K assets, stating they are seen as a gold standard for investors seeking cash-flowing assets with no landlord responsibilities and scheduled rental increases. Nutt noted that the SRS team has been highly active with the Circle K brand, having sold more than half of the new construction Circle K properties nationally since 2023. This transaction is part of SRS Capital Markets' broader activity, which has completed more than $1.5 billion in deal volume across more than 400 transactions nationwide this year.</p><p>SRS currently has over 845 properties actively on the market with a total market value exceeding $3.7 billion. The firm's expertise in retail real estate and its extensive transaction volume underscore its significant role in the commercial real estate market. For more information about SRS Real Estate Partners, visit <a href="https://srsre.com" rel="nofollow" target="_blank">https://srsre.com</a>.</p>
