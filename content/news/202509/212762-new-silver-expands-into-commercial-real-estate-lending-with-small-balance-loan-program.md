@@ -1,0 +1,15 @@
++++
+title = "New Silver Expands into Commercial Real Estate Lending with Small-Balance Loan Program"
+date = "2025-09-15T18:25:28Z"
+draft = false
+summary = "New Silver's new commercial real estate loan program addresses a critical market gap by providing $2-15 million financing options for experienced investors, potentially boosting investment in smaller commercial properties nationwide."
+description = "New Silver launches $2M-$15M commercial real estate loan program for experienced investors. Short-term financing for multifamily, retail & industrial properties with fast approvals."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-new-silver-launches-small-balance-commercial-real-estate-loan-program/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/15/5171a142ccd0d06bb86820c7be959dd1.png"
+article_id = 212762
+feed_item_id = 20634
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/15/beanUBj2.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>New Silver, a lending platform for real estate investors, has launched a small-balance commercial real estate loan program designed to provide experienced investors with short-term financing options. The program targets multifamily, mixed-use, retail, and industrial properties, offering loans ranging from $2 million to $15 million with terms of 12 to 24 months.</p><p>The initiative represents a significant expansion of New Silver's offerings beyond residential real estate, positioning the company as a nationwide capital partner for seasoned investors. The program features up to 70% loan-to-after-repair-value (LTARV) and up to 80% loan-to-cost (LTC) ratios, targeting property purchases, purchases with rehabilitation, and refinancing scenarios.</p><p>Eligibility requirements include at least two years of real estate investment experience and completion of five projects, ensuring the program serves established investors. This strategic move addresses a gap in the market for smaller commercial real estate loans that traditional lenders often overlook. The program's structure allows investors to access capital quickly while maintaining the flexibility needed for various property types and investment strategies.</p><p>New Silver's approach combines data and technology with high-touch customer service, aiming to provide fast approvals and execution certainty. The company's expansion into commercial lending reflects the growing demand for alternative financing solutions in the real estate investment sector. For additional details about the program, investors can visit <a href="https://ibn.fm/RRwJx" rel="nofollow" target="_blank">https://ibn.fm/RRwJx</a>.</p><p>The launch demonstrates how fintech companies are increasingly filling financing voids in commercial real estate, particularly for mid-sized projects that may not qualify for traditional bank financing. This development could potentially increase investment activity in smaller commercial properties across various markets, supporting local economic development through property improvements and revitalization projects.</p>

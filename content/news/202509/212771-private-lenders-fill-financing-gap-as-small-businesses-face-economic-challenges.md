@@ -1,0 +1,15 @@
++++
+title = "Private Lenders Fill Financing Gap as Small Businesses Face Economic Challenges"
+date = "2025-09-15T17:35:06Z"
+draft = false
+summary = "Small and midsize businesses are increasingly relying on private lenders like VOX Funding for flexible financing solutions as traditional banks retreat from serving their needs amid economic volatility."
+description = "Adam Benowitz, CEO of VOX Funding, discusses revolutionizing small business financing through innovative fintech solutions and industry-specific lending products in exclusive interview."
+source_link = "https://www.citybiz.co/article/744749/qa-with-adam-benowitz-ceo-of-vox-funding/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1a2f84c448b0f4b0aaeb8e137e8fa5e1.png"
+article_id = 212771
+feed_item_id = 20631
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/15/ella2n6b.webp"
+source = "citybiz"
++++
+
+<p>Small and midsize businesses are increasingly turning to private lenders like <a href="https://voxfunding.com" rel="nofollow" target="_blank">VOX Funding</a> due to traditional banks stepping back from serving their needs, according to CEO Adam Benowitz. Non-bank lending has become more normalized, with businesses seeking fast, flexible, and creative financing solutions tailored to specific industries.</p><p>Benowitz explained that VOX Funding's approach combines customer focus with advanced technology and data science to expand capabilities and responsiveness. The company has retained its commitment to the small business community while increasingly utilizing technology and data science to expand its reach. This evolution allows the company to scale while meeting client needs more efficiently, though Benowitz cautioned that technology alone is not a differentiator as it becomes commoditized.</p><p>The current economic landscape, marked by interest rate spikes and supply chain disruptions, has made financing particularly challenging for small businesses. These conditions exacerbate existing difficulties, but private credit institutions are stepping in to fill the gap. Benowitz expressed excitement about the rise of private credit and innovation in financial products, noting tremendous creativity in how people are solving financial challenges today.</p><p>Looking ahead, Benowitz predicts that the alternative lending space will continue to grow, with industry-specific solutions prevailing over generalist approaches. VOX Funding is innovating with offerings such as an interest-only credit facility for small businesses. This focus on product innovation and data analytics, rather than solely technology, is key to staying competitive in a crowded market.</p><p>As small businesses navigate economic volatility, Benowitz's insights underscore the critical role of adaptable, customer-centric private lenders in sustaining growth and accessibility to capital. The shift toward private lending represents a significant transformation in how small and midsize businesses secure funding, with implications for business sustainability, economic resilience, and financial innovation across industries.</p>

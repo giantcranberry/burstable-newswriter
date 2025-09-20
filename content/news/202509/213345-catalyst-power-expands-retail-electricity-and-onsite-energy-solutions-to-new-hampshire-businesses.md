@@ -1,0 +1,15 @@
++++
+title = "Catalyst Power Expands Retail Electricity and Onsite Energy Solutions to New Hampshire Businesses"
+date = "2025-09-17T20:21:08Z"
+draft = false
+summary = "Catalyst Power Holdings LLC has launched integrated retail electricity and onsite energy solutions for New Hampshire commercial and industrial customers, offering cost management and resilience without upfront investment amid rising energy prices and grid pressures."
+description = "Catalyst Power launches retail electricity services in New Hampshire for commercial businesses, offering integrated energy solutions with zero capital expenditure requirements for improved efficiency."
+source_link = "https://www.citybiz.co/article/746728/catalyst-power-launches-energy-services-for-new-hampshire-commercial-and-industrial-businesses/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/792970c3e17fac1a282c630bcc3df80d.png"
+article_id = 213345
+feed_item_id = 20827
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/17/hushJxqZ.webp"
+source = "citybiz"
++++
+
+<p>Catalyst Power Holdings LLC, an independent provider of retail energy and complementary energy solutions, has launched its retail electricity services for commercial and industrial customers in New Hampshire. The company integrates retail electricity with onsite energy solutions including cogeneration, solar, and energy storage to help businesses improve efficiency and resilience without requiring upfront investment.</p><p>Gabriel Phillips, CEO of Catalyst Power Holdings, stated that with energy prices climbing and the grid under pressure from growing demand, New Hampshire businesses need tailored solutions. Catalyst Power helps commercial and industrial customers manage costs and diversify their energy strategies through retail electricity, onsite generation like cogeneration and batteries, and other turnkey solutions. Phillips emphasized that flexibility is a competitive advantage in the current energy environment.</p><p>The company leverages a proprietary technology platform to analyze customer data, identify opportunities, and underwrite and fund customized energy solutions. By operating and maintaining on-site assets, Catalyst Power delivers reliable, low-risk energy savings and improved outcomes for its retail energy clients. More information about their services can be found at <a href="https://catalystpower.com" rel="nofollow" target="_blank">https://catalystpower.com</a>.</p><p>Catalyst Power's suite of solutions includes customized Connected Microgrid solutions, solar, energy storage, and CHP (combined heat and power), specializing in serving middle-market commercial and industrial end-use customers. The expansion into New Hampshire represents a significant development for businesses seeking to enhance their energy resilience while controlling costs in a challenging energy market.</p>

@@ -1,0 +1,15 @@
++++
+title = "UGI Utilities Announces Natural Gas Infrastructure Upgrade Project in Easton with January 2025 Completion"
+date = "2025-09-15T19:55:45Z"
+draft = false
+summary = "UGI Utilities will undertake a significant natural gas main replacement project in Easton starting September 2025, offering conversion opportunities for local properties while ensuring continued service reliability."
+description = "UGI Utilities begins natural gas main replacement in Easton on Sept 17, offering conversion opportunities. Project includes road work on multiple streets through January 2026."
+source_link = "https://ugi.reportablenews.com/pr/ugi-upgrades-set-to-begin-in-easton-and-could-provide-opportunities-to-convert-to-natural-gas"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/0245978b7d6f094ce77f1a0a7acc0f4f.jpg"
+article_id = 213744
+feed_item_id = 20642
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/259/15/quitGsD_.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities, Inc. will commence a natural gas main replacement project in Easton on September 17, 2025, following a rescheduling from the originally planned August start date. The infrastructure upgrades demonstrate the company's commitment to delivering safe and reliable natural gas service to its extensive customer base of over 760,000 customers across its service territory.</p><p>The project encompasses underground work on multiple critical streets: South 15th Street between Northampton Street and Liberty Street, Northampton Street between South 15th Street and North 7th Street, North 7th Street between Northampton Street and Church Street, and South 12th Street between Northampton Street and Ferry Street. Construction operations will occur Monday through Friday from 7:00am to 5:00pm, with completion of the new natural gas main installation anticipated by early January, though weather and working conditions may affect this timeline.</p><p>This infrastructure improvement presents a substantial opportunity for homes and businesses located along the construction route to convert to natural gas service. The system upgrades facilitate easier access to natural gas infrastructure, potentially lowering conversion costs and barriers for property owners considering the switch from other energy sources. The modernization effort underscores the utility's ongoing investment in upgrading energy infrastructure to meet evolving community needs while maintaining service reliability and safety standards.</p><p>Residents and business operators should prepare for temporary disruptions including road closures, detours, and parking restrictions during construction hours. Natural gas service interruptions will occur periodically, requiring UGI technicians to access properties for equipment inspection and relighting procedures. Final paving and restoration work will follow the main installation phase. Additional information about the company's operations and services is available at <a href="https://www.ugi.com" rel="nofollow" target="_blank">https://www.ugi.com</a>.</p>

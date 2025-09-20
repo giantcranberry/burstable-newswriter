@@ -1,0 +1,15 @@
++++
+title = "Southern California Teamsters Demand Fair Contract from Ralphs as September Deadline Approaches"
+date = "2025-09-19T17:21:25Z"
+draft = false
+summary = "Teamsters Joint Council 42 is negotiating critical contract terms with Ralphs Grocery Company, focusing on wage increases, job security against automation, and benefits protection for nearly 250,000 workers as the September 2025 expiration deadline looms."
+description = "Southern California Teamsters push Kroger's Ralphs for fair contract before Sept 21 deadline. Key issues: automation safety, wages, healthcare benefits. 250K members ready to act."
+source_link = "https://www.24-7pressrelease.com/press-release/526976/teamsters-demand-fair-deal-at-ralphs"
+enclosure = "https://cdn.newsramp.app/genai/images/259/19/cb15465815f62ece07b74d52719aa63e.png"
+article_id = 213719
+feed_item_id = 20966
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/19/seekq0LX.webp"
+source = "24-7 Press Release"
++++
+
+<p>Southern California Teamsters are pressing Ralphs Grocery Company to negotiate a fair contract that acknowledges the essential role of workers in maintaining store operations and community welfare. With the current contract set to expire on September 21, 2025, negotiations have reached a critical juncture after more than two months of bargaining. Teamsters Joint Council 42, which represents 22 local unions and nearly 250,000 active and retired members across Southern California, Southern Nevada, Hawaii, and Guam, is advocating for wages that align with the region's high cost of living, robust health and retirement benefits, and protections against corporate automation initiatives.</p><p>The union highlights that Kroger, Ralphs' parent company and the largest supermarket chain in the United States, generates substantial profits, making it unjust to undercompensate the workforce responsible for these earnings. Key demands include opposing the deployment of autonomous semi-trucks without qualified commercial drivers, citing significant public safety risks. Additionally, the Teamsters are fighting for fair pay reflective of Southern California's escalating living expenses, maintained and enhanced healthcare coverage for members and their families, and strengthened pension plans to ensure financial security after years of service.</p><p>Lou Villalvazo, grocery chairman of Teamsters Joint Council 42, emphasized that members form the backbone of Ralphs' supply chain and warrant appropriate compensation. Chris Griswold, president of the council, stated that the negotiations extend beyond protecting union jobs to safeguarding community safety and the future of working families throughout Southern California. If a fair agreement is not reached by the expiration date, union members are prepared to take action, potentially impacting grocery supply chains and local economies. This situation underscores broader industry tensions between labor rights and corporate automation trends, with implications for workforce stability and consumer safety in the retail sector.</p>

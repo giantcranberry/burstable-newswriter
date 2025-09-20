@@ -1,0 +1,15 @@
++++
+title = "K9 Resorts Expands to Brooklyn with First Urban Luxury Pet Hotel Location"
+date = "2025-09-16T16:56:08Z"
+draft = false
+summary = "K9 Resorts Luxury Pet Hotel is partnering with The Dhillon Group to open its first urban location in Brooklyn in early 2026, addressing growing concerns among pet owners about premium animal care services in major metropolitan areas."
+description = "K9 Resorts partners with The Dhillon Group to open a luxury pet hotel in Brooklyn, NY, in 2026, offering premium boarding and daycare for dog owners."
+source_link = "https://www.citybiz.co/article/745509/k9-resorts-to-debut-in-the-big-apple-expands-ny-presence-with-seasoned-hospitality-group/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/f7c32c0ccb97cc8c2e1f6cc7de8894e2.jpg"
+article_id = 213740
+feed_item_id = 20703
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/16/limerPYr.webp"
+source = "citybiz"
++++
+
+<p>K9 Resorts Luxury Pet Hotel is expanding to New York City with its first urban location in Brooklyn, partnering with experienced hospitality operator The Dhillon Group to open at 295 Front Street in the Dumbo neighborhood in early 2026. This marks a significant expansion for the multi-award-winning pet boarding and daycare brand into one of the nation's largest pet markets.</p><p>The Dhillon Group, led by Harry Sandhu, has signed on for 10 total K9 Resorts locations, with the Brooklyn facility serving as the brand's inaugural urban operation. Sandhu stated that K9 Resorts has built a reputation as the premier luxury brand in pet hospitality and is uniquely positioned to thrive in New York City where excellence is expected.</p><p>The expansion addresses growing concerns among pet owners about their animals' care when they're away. According to a <a href="https://www.talker.news" rel="nofollow" target="_blank">survey conducted by Talker</a>, 40% of dog owners worry about their dog's needs more than their own, with 34% expressing concern their dogs won't get the love they deserve when they aren't around. The Brooklyn location will feature an outdoor play area, making it one of the few facilities in the area with such amenities.</p><p>Jason Parker, Co-Founder and CEO of K9 Resorts, emphasized the strategic importance of the partnership, noting that partnering with the Dhillon Group comes at a pivotal time for the brand as they enter the vibrant Brooklyn market. The move capitalizes on the increasing demand for pet services, with over 64 million U.S. households now owning dogs.</p><p>The Brooklyn location represents K9 Resorts' continued expansion strategy in major metropolitan areas where pet owners prioritize premium care services. The brand's approach includes hospital-grade ventilation systems, antimicrobial flooring, and cage-free luxury boarding facilities designed to meet the expectations of discerning New York pet owners.</p>

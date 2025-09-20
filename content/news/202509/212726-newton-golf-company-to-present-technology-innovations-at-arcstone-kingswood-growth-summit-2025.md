@@ -1,0 +1,15 @@
++++
+title = "Newton Golf Company to Present Technology Innovations at ArcStone-Kingswood Growth Summit 2025"
+date = "2025-09-16T13:26:28Z"
+draft = false
+summary = "Newton Golf Company will showcase its physics-based golf shaft technology and financial performance at the upcoming growth summit, highlighting its innovative approach in the traditionally conservative golf equipment industry."
+description = "Newton Golf Company presents at Growth Summit 2025, showcasing innovative Motion shafts and strong financial results. Learn about their physics-based golf technology and growth outlook."
+source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-newton-golf-company-inc-nasdaq-nwtg-to-present-at-arcstone-kingswood-growth-summit-2025-in-toronto/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/16/613b15579fd2c450a9d2ebf77e7d8a88.png"
+article_id = 212726
+feed_item_id = 20681
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/16/kissnWvX.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Newton Golf Company Inc. (NASDAQ: NWTG) announced that its management team will present at the ArcStone-Kingswood Growth Summit 2025 on September 18 at The St. Regis Toronto. Chairman and CEO Greg Campbell and CFO Jeff Clayborne will participate in the Digital Transformation & Frontier Tech track, where they will discuss the company's year-to-date financial results and growth outlook.</p><p>The presentation will focus on the accelerating adoption of Newton's Motion and Fast Motion shafts on professional tours worldwide. These performance-driven golf shafts utilize physics-based engineering to deliver measurable improvements in stability, control, and consistency for golfers at all skill levels. The company's technology-forward approach represents a significant shift in golf equipment design, moving beyond traditional materials and manufacturing methods.</p><p>Newton Golf Company maintains its corporate newsroom at <a href="https://nnw.fm/NWTG" rel="nofollow" target="_blank">https://nnw.fm/NWTG</a> where investors can access the latest updates and announcements. The company's presence at the growth summit underscores its commitment to transparency and investor communication while showcasing its innovative products to the financial community.</p><p>The ArcStone-Kingswood Growth Summit brings together emerging growth companies and institutional investors, providing a platform for Newton to highlight its unique position in the golf technology sector. The company's focus on U.S.-based innovation and precision design has positioned it as a pioneering force in an industry traditionally dominated by established equipment manufacturers.</p><p>Newton's participation in the summit comes at a time when technology integration in sports equipment continues to gain importance among professional athletes and recreational players alike. The company's physics-based engineering approach represents the next evolution in golf shaft technology, offering performance benefits that are increasingly being recognized at the highest levels of competition.</p>

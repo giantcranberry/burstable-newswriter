@@ -1,0 +1,15 @@
++++
+title = "Naples Soap Company Appoints Former Estée Lauder Executive as New CFO to Drive Clean Beauty Expansion"
+date = "2025-09-17T20:01:29Z"
+draft = false
+summary = "Naples Soap Company has appointed Carolyn Thielman, a CPA with extensive financial leadership experience from Estée Lauder, as its new fractional Chief Financial Officer to oversee financial strategy and support expansion in the competitive clean beauty market."
+description = "Naples Soap Company appoints Carolyn Thielman, former Estée Lauder executive, as new CFO to drive growth in clean beauty market. OTCQB: NASO expands leadership team."
+source_link = "https://rss.investorbrandnetwork.com/nnw/networknewsbreaks-naples-soap-company-inc-otcqb-naso-appoints-carolyn-thielman-as-fractional-cfo/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/17/c18af7892012201ba9e55c9e107dd6f3.png"
+article_id = 213346
+feed_item_id = 20826
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/17/loftZxR8.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Naples Soap Company, Inc. has appointed Carolyn Thielman, CPA, as fractional Chief Financial Officer, bringing significant financial leadership experience from her tenure at Estée Lauder and expertise in scaling beauty and wellness brands. Thielman will oversee financial planning, capital allocation and cash flow management while guiding growth initiatives across the company's retail, wholesale and e-commerce channels.</p><p>The appointment comes as Thielman succeeds longtime CFO Jim Milner, CPA, who is retiring after 12 years of service but will continue to serve on the Company's Board of Directors. Thielman's more than 15 years of financial leadership experience positions her to support Naples Soap Company's expansion efforts in the competitive clean beauty market.</p><p>Naples Soap Company specializes in more than 600 premium skin and hair care products made without harsh chemical additives, focusing on natural, nourishing ingredients. The company operates 13 retail locations in Florida and sells products online through its website at <a href="https://www.naplessoap.com" rel="nofollow" target="_blank">https://www.naplessoap.com</a>. Additionally, products are distributed through over 400 boutiques, spas, and retail stores throughout the United States via the company's wholesale division.</p><p>The company has built a loyal customer base that values its commitment to sustainability, wellness, and a wide range of trusted bath and body products. The appointment of Thielman represents a strategic move to strengthen financial leadership during a period of potential expansion and market growth in the clean beauty sector.</p><p>For business leaders and investors tracking the clean beauty industry, this executive appointment signals Naples Soap Company's preparation for accelerated growth and market expansion. Thielman's background with major beauty corporations suggests the company is positioning itself for increased market share and potentially more sophisticated financial operations as consumer demand for natural, sustainable products continues to grow globally.</p>

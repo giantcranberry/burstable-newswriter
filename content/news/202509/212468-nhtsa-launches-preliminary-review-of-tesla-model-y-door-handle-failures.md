@@ -6,7 +6,6 @@ summary = "The U.S. National Highway Traffic Safety Administration has initiated
 description = "NHTSA investigates Tesla over door handle failures trapping children in Model Y vehicles. Regulatory probe examines safety concerns in electric vehicles from industry leader."
 source_link = "https://rss.investorbrandnetwork.com/gcs/tesla-comes-under-regulatory-scrutiny-over-jammed-doors-trapping-kids/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/19/3528fe736c77d6f37c6e095c80a4894a.png"
-featured = true
 article_id = 212468
 feed_item_id = 20978
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/19/eveny9B9.webp"

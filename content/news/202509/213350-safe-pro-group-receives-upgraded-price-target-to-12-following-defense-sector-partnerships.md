@@ -1,0 +1,15 @@
++++
+title = "Safe Pro Group Receives Upgraded Price Target to $12 Following Defense Sector Partnerships"
+date = "2025-09-17T16:11:27Z"
+draft = false
+summary = "Litchfield Hills Research increased Safe Pro Group's price target from $8 to $12, citing reduced risk from recent defense partnerships including AI explosive detection integration with Red Cat's drones."
+description = "Safe Pro Group Inc. receives upgraded $12 price target as AI defense technology gains traction with major partnerships and explosive detection drone integration."
+source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-safe-pro-group-inc-nasdaq-spai-price-target-raised-to-12-in-updated-litchfield-hills-research-report/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/17/99880e87751d96993aad3926315192d0.png"
+article_id = 213350
+feed_item_id = 20803
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/17/zeroAnMG.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Safe Pro Group Inc. (NASDAQ: SPAI) received an upgraded price target from $8 to $12 in an updated research report from Litchfield Hills Research, which maintained its Buy rating on the AI-powered defense and security solutions provider. The upward revision reflects reduced perceived risk following the company's recent collaborations with defense sector partners including Ondas, Unusual Machines, and Red Cat Holdings.</p><p>The most significant development driving the improved valuation is Safe Pro Group's deal to integrate its AI-driven explosive detection technology into Red Cat's Black Widow drones. This partnership demonstrates the practical application of Safe Pro's technology in critical defense scenarios, providing a safer and more efficient alternative to traditional human-based analysis methods for identifying explosives threats.</p><p>Litchfield Hills Research analysts lowered their discount rate based on this growing traction with defense partners, increasing confidence in future earnings potential. The company's scalable platform, built on a cloud-based ecosystem powered by Amazon Web Services (AWS), targets multiple markets including commercial, government, law enforcement, and humanitarian sectors.</p><p>Safe Pro Group's technology portfolio includes the SPOTD platform, which provides advanced situational awareness tools, along with Safe Pro AI software, Safe-Pro USA protective gear, and Airborne Response drone-based services. The company specializes in drone imagery processing using proprietary machine learning and computer vision technology that leverages commercially available off-the-shelf drones.</p><p>The full research report detailing the analysis behind the price target increase is available at <a href="https://ibn.fm/dkd9I" rel="nofollow" target="_blank">https://ibn.fm/dkd9I</a>. This upgraded valuation comes as defense technology companies continue to gain attention for their role in enhancing national security and operational efficiency through artificial intelligence applications.</p>

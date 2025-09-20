@@ -1,0 +1,15 @@
++++
+title = "Lifetime Value Company Earns Triple Recognition on Fortune's 2025 Best Workplaces Lists"
+date = "2025-09-18T16:51:09Z"
+draft = false
+summary = "The Lifetime Value Company's repeated recognition on three Fortune Best Workplaces lists demonstrates how prioritizing employee experience correlates with better business performance and sustainable operations."
+description = "LTVCo. named to Fortune Best Workplaces in NY, Medium Workplaces & Technology lists by Great Place To Work. Recognized for 4th & 3rd times across categories."
+source_link = "https://www.citybiz.co/article/747168/fortune-media-and-great-place-to-work-name-the-lifetime-value-company-to-2025-fortune-best-workplaces-in-new-york-best-medium-workplaces-and-best-workplaces-in-technology/"
+enclosure = "https://cdn.newsramp.app/citybiz/newsimage/b2680ccdfec07597105c04f221160a78.jpg"
+article_id = 213725
+feed_item_id = 20900
+qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/18/wait5OdC.webp"
+source = "citybiz"
++++
+
+<p>The Lifetime Value Company has achieved significant workplace recognition, earning positions on three prestigious Fortune lists for 2025. The company secured its fourth consecutive appearance on the Best Workplaces in New York list, ranking 10th, while also making its third appearance on both the Best Medium Workplaces list at 81st and the Best Workplaces in Technology list at 27th position.</p><p>These accolades result from comprehensive employee surveys conducted by Great Place To Work, which collected nearly 145,000 confidential responses from New York-based employees for the regional list. For the medium workplaces category, the organization analyzed over 228,000 survey responses from certified companies with 100-999 U.S. employees. The technology workplace recognition involved examining feedback from more than 157,000 employees across the tech industry.</p><p>Josh Levy, CEO and co-founder of LTVCo., expressed pride in the achievement, stating that creating a collaborative and engaged culture has been a priority for the organization. The repeated recognition demonstrates the company's commitment to maintaining high workplace standards across multiple years.</p><p>Michael C. Bush, CEO at Great Place To Work, emphasized that companies like The Lifetime Value Company demonstrate how prioritizing employee experience correlates with better business performance. The recognition process involves rigorous evaluation through Great Place To Work's proprietary platform and model, which assesses employee experiences across certified organizations.</p><p>The Fortune Best Workplaces lists have become industry benchmarks for corporate culture excellence, with Fortune maintaining its legacy of measuring corporate performance through rigorous standards. The recognition highlights organizations that invest in their workforce and create environments where employees thrive, ultimately contributing to more sustainable and profitable business operations.</p>

@@ -1,0 +1,15 @@
++++
+title = "FAVO Capital Appoints Governance Expert Zachary Graeve to Board Amid Uplisting Preparation"
+date = "2025-09-16T13:46:29Z"
+draft = false
+summary = "FAVO Capital strengthens its governance framework with the appointment of experienced board advisor Zachary Graeve, signaling strategic positioning for national exchange listing and growth in financial services and real estate segments."
+description = "FAVO Capital appoints Zachary Graeve to board, strengthening governance ahead of national exchange uplisting. Diversified financial company enhances leadership for growth strategy."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-favo-capital-otc-favo-appoints-zachary-graeve-as-independent-director-and-governance-chair/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/16/6d7de294ede7e926dee9f82fe81d4506.png"
+article_id = 212723
+feed_item_id = 20682
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/16/yawn9GqW.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>FAVO Capital has appointed Zachary Graeve to its board of directors as an independent director and chair of the Nominating and Corporate Governance Committee. Graeve brings more than 20 years of experience in investor relations and board advisory, having guided executive teams through IPOs, acquisitions, and market transitions as an IRC-credentialed governance advisor.</p><p>This appointment strengthens FAVO's governance framework and capital markets strategy at a critical juncture as the company advances plans for an uplisting to a national exchange. The move signals FAVO's commitment to enhanced corporate oversight and transparency as it positions itself for growth in both its financial services and real estate segments.</p><p>FAVO Capital operates as a diversified financial company with two primary business segments: financial services and income-producing real estate. Through its financial services division, the company provides alternative, revenue-based funding solutions to small and mid-sized businesses across the United States, having supported more than 10,000 businesses since inception through the purchase of future receipts.</p><p>Complementing its lending platform, FAVO is building a portfolio of stabilized, cash-flowing real estate assets that strengthen its balance sheet and broaden its collateral base. The company maintains operations in Florida, New York, and the Dominican Republic, with headquarters located in Fort Lauderdale, Florida.</p><p>Investors can access the latest news and updates relating to FAVO through the company's newsroom available at <a href="https://ibn.fm/FAVO" rel="nofollow" target="_blank">https://ibn.fm/FAVO</a>. The appointment of Graeve represents a strategic move to bolster corporate governance as FAVO continues its trajectory toward national exchange listing and expanded market presence.</p>

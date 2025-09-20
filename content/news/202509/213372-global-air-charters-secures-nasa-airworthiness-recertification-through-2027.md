@@ -1,0 +1,15 @@
++++
+title = "Global Air Charters Secures NASA Airworthiness Recertification Through 2027"
+date = "2025-09-16T07:06:27Z"
+draft = false
+summary = "Global Air Charters has received NASA airworthiness recertification validating its operational capabilities and safety protocols for space agency missions through May 2027."
+description = "Global Air Charters receives NASA airworthiness recertification through 2027, confirming compliance with rigorous space mission standards and operational excellence."
+source_link = "https://www.24-7pressrelease.com/press-release/526807/global-air-charters-receives-nasa-airworthiness-certification-for-mission-operations"
+enclosure = "https://cdn.newsramp.app/genai/images/259/16/dc426a1a31a73c984b159a27ec0f9448.png"
+article_id = 213372
+feed_item_id = 20655
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/16/warpWPjt.webp"
+source = "24-7 Press Release"
++++
+
+<p>Global Air Charters has achieved recertification as airworthy for NASA mission operations following a comprehensive inspection by NASA Johnson Space Center's Flight Operations Directorate. The certification authorizes the company to execute contracted NASA missions through May 31, 2027, confirming compliance with the stringent requirements of NASA Standard 7919.1 for aircraft operations supporting space agency missions.</p><p>The airworthiness notice represents a significant validation of the company's operational capabilities and safety protocols. Michael Vanacore-Netz, CEO of Global Air Charters, emphasized that this recertification reinforces the company's commitment to maintaining the highest standards of aviation excellence and reflects their unwavering dedication to safety, operational precision, and exceptional service delivery.</p><p>The certification mandates that Global Air Charters utilize only aircrews meeting NASA's Primary Aircrew Qualification and Requirements across multiple operational categories. This ensures all personnel involved in NASA operations maintain the highest levels of training and expertise, critical for supporting the complex requirements of space agency missions. The official notice was signed by Robert T. Hines, Acting Chief of NASA's Aircraft Operations Division, and Aldora M. Louw, Division Associate Chief.</p><p>This recertification positions Global Air Charters as a trusted partner for NASA's ongoing mission requirements, demonstrating the company's capability to perform specialized aviation services that meet the exacting standards required for space agency support. The company's commitment to operational excellence ensures continued collaboration with NASA through 2027, maintaining the rigorous safety and performance standards essential for mission success. For additional information about the company's services, visit <a href="https://GlobalAirCharters.com" rel="nofollow" target="_blank">GlobalAirCharters.com</a>.</p>

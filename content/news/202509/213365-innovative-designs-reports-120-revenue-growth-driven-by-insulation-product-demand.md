@@ -1,0 +1,15 @@
++++
+title = "Innovative Designs Reports 120% Revenue Growth Driven by Insulation Product Demand"
+date = "2025-09-16T15:16:18Z"
+draft = false
+summary = "Innovative Designs achieved record profitability and revenue growth fueled by increased demand for its patented insulation technology amid new government building codes and favorable market conditions."
+description = "Innovative Designs reports 120% revenue growth with patented Insultex House Wrap® insulation. Federal rate cuts expected to boost homebuilding demand for energy-efficient solutions."
+source_link = "https://www.newmediawire.com/news/innovative-designs-inc-ivdn-reports-120-increase-in-fiscal-q3-sales-vs-previous-year-with-4th-consecutive-quarter-of-profitability-7082725"
+enclosure = "https://cdn.newsramp.app/genai/images/259/16/f1ebe7b4f73aefd2463dab6be4ef7947.png"
+article_id = 213365
+feed_item_id = 20692
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/16/mildAwkc.webp"
+source = "NewMediaWire"
++++
+
+<p>Innovative Designs, Inc. reported a 120% increase in fiscal third-quarter revenues, reaching $612,636 for the quarter ending July 31, 2025, compared to the same period last year. The company achieved profitability for the fourth consecutive trailing quarter and surpassed $2 million in total revenue for the fiscal year in August, marking the first time in company history.</p><p>The growth is primarily attributed to rising demand for the company's patented Insultex House Wrap®, which features vacuum cell insulation technology. The product is gaining recognition in homebuilding and remodeling markets due to its advantages over competitive insulation products, including providing an R-6 moisture barrier membrane without requiring additional insulation boards. For product specifications and details, visit <a href="http://www.insultexhousewrap.com" rel="nofollow" target="_blank">http://www.insultexhousewrap.com</a>.</p><p>CEO Joseph A. Riccelli Jr. stated that the company anticipates further sales growth with the expected Federal Reserve interest rate cutting cycle, which should spur increased activity in the homebuilding industry. The company is pursuing new product certifications to expand the applicability of Insultex House Wrap® to a wider range of users and projects.</p><p>Demand is being driven by new government building codes that specify continuous insulation and exterior R-Value requirements. The company's Michigan-based distributor, Built Link Solutions, LLC, has been instrumental in driving sales growth by educating homebuilding market customers across the US about the product's benefits. Randy Kimbler, Director of Business Development at Built Link Solutions, reported extremely positive customer response and special offers that have performed well.</p><p>Innovative Designs has improved its cash reserves to over $532,000, partly due to improved accounts receivable collection rates shortened to 39.8 days. The company is increasing production capacity from multiple locations to meet rising demand and improve delivery times, positioning itself for continued growth in the evolving construction materials market.</p>

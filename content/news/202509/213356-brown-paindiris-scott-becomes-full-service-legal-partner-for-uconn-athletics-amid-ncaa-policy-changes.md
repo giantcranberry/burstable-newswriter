@@ -1,0 +1,15 @@
++++
+title = "Brown Paindiris & Scott Becomes Full-Service Legal Partner for UConn Athletics Amid NCAA Policy Changes"
+date = "2025-09-17T07:01:41Z"
+draft = false
+summary = "Brown Paindiris & Scott has partnered with UConn Athletics to provide comprehensive legal services, addressing the complexities introduced by recent NCAA policy changes on athlete transfers and NIL rights."
+description = "BPS Lawyers partners with UConn Athletics as full-service legal counsel, addressing NCAA reforms including transfer policies and NIL regulations while creating pre-law pathways for student-athletes."
+source_link = "https://www.24-7pressrelease.com/press-release/526863/bps-lawyers-announces-partnership-with-uconn-athletics"
+enclosure = "https://cdn.newsramp.app/genai/images/259/17/8de560a16adc56a3c96d4781c5b73d79.png"
+article_id = 213356
+feed_item_id = 20761
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/17/frogVkq8.webp"
+source = "24-7 Press Release"
++++
+
+<p>Brown Paindiris & Scott (BPS Lawyers), a Glastonbury-based law firm, has announced its new partnership as the full-service legal partner for UConn Athletics. The collaboration comes at a critical time when recent NCAA policy changes have created both opportunities and complexities for student-athletes and athletic programs nationwide.</p><p>The firm will provide comprehensive legal services including compliance support, contract reviews, and general counsel services to UConn's athletics programs. This partnership addresses the evolving landscape of college sports, particularly following the NCAA's 2024 elimination of transfer restrictions for academically eligible student-athletes. Athletes can now transfer multiple times without losing eligibility, provided they maintain good academic standing and meet progress-toward-degree requirements at their new institution.</p><p>Additionally, recent NCAA reforms have granted student-athletes greater autonomy over their Name, Image, and Likeness (NIL), allowing them to engage in commercial activities without jeopardizing their eligibility. These changes, while offering greater flexibility, introduce complications regarding credit transfer, eligibility verification, and academic progression that require specialized legal expertise.</p><p>Firm Partner Nick Paindiris, a UConn graduate, stated that the partnership will allow the firm to make a meaningful impact by helping the program navigate legal matters and establish protections for future generations of student-athletes. The collaboration may also create opportunities for student-athletes to explore pre-law pathways, scholarships, and mentorship programs through the university's nationally recognized UConn School of Law.</p><p>Ian Butler, another Partner at the firm, emphasized the potential for inspiring student-athletes to consider legal careers, noting that the focus and discipline that athletes need to be successful in their sport translates pretty well to the legal field. The partnership represents a significant commitment to supporting both athletic excellence and academic development within the university community.</p>
