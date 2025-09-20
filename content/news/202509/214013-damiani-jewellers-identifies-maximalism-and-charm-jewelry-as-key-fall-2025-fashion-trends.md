@@ -6,7 +6,6 @@ summary = "Damiani Jewellers forecasts maximalist jewelry and sentimental charm 
 description = "Damiani Jewellers reveals autumn 2025 fine jewellery trends, featuring maximalist designs and nostalgic charms. Explore bold earrings, bracelets, and necklaces for stylish self-expression."
 source_link = "https://www.24-7pressrelease.com/press-release/526982/jewellery-trends-to-stay-stylish-this-fall-with-damiani-jewellers"
 enclosure = "https://cdn.newsramp.app/genai/images/259/20/243b9ebb9f7b3da6cecf843ebab2c181.png"
-featured = true
 article_id = 214013
 feed_item_id = 21004
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/20/quayF1Up.webp"
