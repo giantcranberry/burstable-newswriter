@@ -6,7 +6,6 @@ summary = "The establishment of the Alicia Kali Institute for Neuroscience & Bio
 description = "Alicia Kali establishes world's first Neuroscience & BioQuantum Research Institute, pioneering unified intelligence framework connecting human cognition, regenerative health & AI development."
 source_link = "https://www.24-7pressrelease.com/press-release/526925/alicia-kali-launches-worlds-first-institute-for-neuroscience-bioquantum-engineering-unlocking-the-future-of-human-health-and-ai-performance"
 enclosure = "https://cdn.newsramp.app/genai/images/259/21/802cc9d3f21604e83da16e8ffd5dfaef.png"
-featured = true
 article_id = 215388
 feed_item_id = 21011
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/21/raingtoG.webp"
