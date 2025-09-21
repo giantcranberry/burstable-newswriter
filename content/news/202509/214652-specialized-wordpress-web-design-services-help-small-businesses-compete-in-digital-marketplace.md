@@ -6,7 +6,6 @@ summary = "SO Web Designs offers tailored WordPress website solutions that addre
 description = "SO Web Designs offers professional WordPress website design services for small businesses, focusing on custom solutions, SEO optimization, and responsive design to enhance online visibility and attract customers."
 source_link = "https://mediawiretoday.com/transform-your-business-with-expert-wordpress-web-design-386830"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/f8ed6326a2f2b1c2d25223007c0ca9dc.jpg"
-featured = true
 article_id = 214652
 feed_item_id = 21008
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/259/20/tarotY0q.webp"
