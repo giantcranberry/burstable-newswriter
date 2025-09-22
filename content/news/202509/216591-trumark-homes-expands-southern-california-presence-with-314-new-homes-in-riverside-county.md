@@ -6,7 +6,6 @@ summary = "Trumark Homes' strategic land acquisition for two new residential com
 description = "Trumark Homes expands in Riverside County with 314 new homes across Solara and Florita communities. Strategic land deals address Southern California housing demand with diverse options."
 source_link = "https://www.citybiz.co/article/748130/trumark-homes-set-to-expand-with-two-land-deals-in-riverside-county/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1b26c1d89d3413de8afc830adf2fd25e.jpg"
-featured = true
 article_id = 216591
 feed_item_id = 21057
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/22/bold1GhV.webp"
