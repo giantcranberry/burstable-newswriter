@@ -6,7 +6,6 @@ summary = "Long Island businesses are transitioning from traditional security sy
 description = "Long Island companies upgrade to AI cloud-managed security cameras with real-time analytics, mobile access, and smart search capabilities for enhanced business protection and operational efficiency."
 source_link = "https://mediawiretoday.com/long-island-businesses-go-smart-ai-security-cameras-lead-the-way-385379"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/bdb2c179a71bb2e4cffa2a0ec0f9f0cb.png"
-featured = true
 article_id = 216150
 feed_item_id = 21025
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/259/22/cakeY_OE.webp"
