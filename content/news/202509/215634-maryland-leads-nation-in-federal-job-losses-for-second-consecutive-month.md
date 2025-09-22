@@ -6,7 +6,6 @@ summary = "Maryland has lost 15,100 federal jobs since January 2025, representin
 description = "Maryland loses 15,100 federal jobs since January 2025, leading nation in government workforce reductions. State unemployment rises to 3.6% as Trump administration cuts continue."
 source_link = "https://www.citybiz.co/article/747907/marylands-federal-job-losses-climb-to-15100-the-most-in-the-nation/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c927f254a81749e07462d3d063708fd1.jpg"
-featured = true
 article_id = 215634
 feed_item_id = 21013
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/21/pondesDY.webp"
