@@ -6,7 +6,6 @@ summary = "Pugh & Tiller's recognition on prestigious industry lists and signifi
 description = "Pugh & Tiller earns PRNEWS 2026 Agency Elite Top 120 recognition and Maryland Daily Record awards for Best PR Agency and Best Web Design Firm, showcasing expanded capabilities."
 source_link = "https://www.citybiz.co/article/748270/pugh-tiller-recognized-in-prnews-2026-agency-elite-top-120-and-earns-two-daily-record-reader-rankings-awards/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/a992b97d26e7853f48df1a8fced8aa84.png"
-featured = true
 article_id = 217101
 feed_item_id = 21071
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/22/veilv2DE.webp"
