@@ -6,7 +6,6 @@ summary = "Huawei's strategic automotive partnership with GAC Group to establish
 description = "Huawei and GAC Group unveil Qijing, a new premium electric vehicle brand challenging luxury automakers. Learn about this strategic partnership reshaping China's EV market and global competition."
 source_link = "https://rss.investorbrandnetwork.com/gcs/huawei-gac-partnership-unveils-new-ev-brand/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/23/939fd40ff903a028971e2dc44891499c.png"
-featured = true
 article_id = 218034
 feed_item_id = 21131
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/23/envyXrUE.webp"
