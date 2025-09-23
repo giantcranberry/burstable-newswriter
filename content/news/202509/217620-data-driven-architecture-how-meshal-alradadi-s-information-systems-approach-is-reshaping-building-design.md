@@ -6,7 +6,6 @@ summary = "Architectural designer Meshal Alradadi's award-winning work and resea
 description = "NY architect Meshal Alradadi wins international recognition for merging architecture with data-driven Building Information Systems, revolutionizing design efficiency and construction processes."
 source_link = "https://www.24-7pressrelease.com/press-release/526997/meshal-alradadi-gains-international-recognition-for-architectural-innovation"
 enclosure = "https://cdn.newsramp.app/genai/images/259/23/e84efa5b9ec61a2a32ff9b7625ea81d9.png"
-featured = true
 article_id = 217620
 feed_item_id = 21106
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/23/kiteWRst.webp"
