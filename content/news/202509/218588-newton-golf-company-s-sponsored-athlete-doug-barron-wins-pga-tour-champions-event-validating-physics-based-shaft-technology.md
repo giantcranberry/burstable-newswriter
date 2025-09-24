@@ -6,7 +6,6 @@ summary = "Doug Barron's victory at the Pure Insurance Championship using Newton
 description = "Newton Golf Company celebrates Doug Barron's PGA TOUR Champions victory, showcasing their physics-based golf shaft technology. Barron's dramatic win validates Newton's performance-driven engineering approach."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton-golf-company-inc-nasdaq-nwtg-congratulates-doug-barron-on-pga-tour-champions-victory-at-pebble-beach/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/23/345fc669044ba97462acdf75042a8dcb.png"
-featured = true
 article_id = 218588
 feed_item_id = 21150
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/23/chipeWUe.webp"
