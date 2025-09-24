@@ -6,7 +6,6 @@ summary = "Sell My House Fast Maryland has launched an innovative home buying se
 description = "Sell My House Fast Maryland offers cash home buying with 7-day closings for properties in any condition. No commissions, fees, or repairs required. Get a fair offer today."
 source_link = "https://www.24-7pressrelease.com/press-release/527094/sell-my-house-fast-maryland-revolutionizes-md-home-sales-with-lightning-fast-cash-offers"
 enclosure = "https://cdn.newsramp.app/genai/images/259/24/0069328b493d4073f012d75345086302.png"
-featured = true
 article_id = 219193
 feed_item_id = 21211
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/24/hike7epL.webp"
