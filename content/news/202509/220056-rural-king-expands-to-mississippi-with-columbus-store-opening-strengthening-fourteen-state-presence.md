@@ -6,7 +6,6 @@ summary = "Rural King's expansion into Mississippi with its Columbus location de
 description = "Rural King opens first Mississippi store in Columbus, expanding to 14 states. Grand opening Sept 26-28 features specials, RK Rewards benefits & community partnerships."
 source_link = "https://www.citybiz.co/article/749541/rural-king-opens-first-store-in-mississippi-strengthening-commitment-to-rural-communities/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/7a6c45d09705d61162919d0784cd6d61.png"
-featured = true
 article_id = 220056
 feed_item_id = 21253
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/24/hushEsnD.webp"
