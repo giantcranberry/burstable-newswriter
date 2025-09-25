@@ -6,7 +6,6 @@ summary = "Calay Ip's appointment as Chief Operating Officer at Element Care PAC
 description = "Calay Ip, new COO of Element Care PACE, discusses senior care innovation, PACE model expansion, and technology-driven solutions for aging population needs and value-based care transformation."
 source_link = "https://www.citybiz.co/article/749781/qa-with-calay-ip-chief-operating-officer-of-element-care/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/78ce560a9aef03fc4d864b9a0e646d6a.png"
-featured = true
 article_id = 220701
 feed_item_id = 21273
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/24/echokjdZ.webp"
