@@ -6,7 +6,6 @@ summary = "NeoPangea's strategic hiring of Jen Wallace from National Geographic 
 description = "NeoPangea appoints National Geographic veteran Jen Wallace as VP of Marketing & Client Strategy, bringing decades of digital storytelling expertise to drive experiential design innovation."
 source_link = "https://www.citybiz.co/article/750092/neopangea-appoints-national-geographic-veteran-jen-wallace-as-vp-of-marketing-client-strategy/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/1d84a9775f09e8376925bcb6ceb999fd.jpg"
-featured = true
 article_id = 221464
 feed_item_id = 21299
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/259/25/knobekX3.webp"
