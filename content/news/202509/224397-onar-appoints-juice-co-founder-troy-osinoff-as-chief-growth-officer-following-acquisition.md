@@ -6,7 +6,6 @@ summary = "ONAR Holding Corporation has appointed JUICE Co-Founder Troy Osinoff 
 description = "ONAR appoints JUICE co-founder Troy Osinoff as Chief Growth Officer following acquisition. Former BuzzFeed executive to drive enterprise growth strategy leveraging major brand partnerships."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-onar-holding-corporation-otcqb-onar-appoints-juice-co-founder-troy-osinoff-as-chief-growth-officer/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/26/9034976f915b89206af8256fc1283a78.png"
-featured = true
 article_id = 224397
 feed_item_id = 21407
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/26/flaxrRKI.webp"
