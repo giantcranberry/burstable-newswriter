@@ -6,7 +6,6 @@ summary = "The DFW Car & Toy Museum's acquisition of the world's first productio
 description = "DFW Car & Toy Museum adds historic 1979 Mercedes-Benz 300SD, the world's first turbo diesel luxury sedan, to Ron Sturgeon Collection. Free admission museum showcases automotive innovation."
 source_link = "https://www.24-7pressrelease.com/press-release/523892/turbocharged-luxury-1979-mercedes-benz-300sd-in-astral-silver-joins-the-ron-sturgeon-collection"
 enclosure = "https://cdn.newsramp.app/genai/images/259/26/80321e5289efca1e78b44010d3607c9c.png"
-featured = true
 article_id = 224115
 feed_item_id = 21390
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/26/evenEssz.webp"
