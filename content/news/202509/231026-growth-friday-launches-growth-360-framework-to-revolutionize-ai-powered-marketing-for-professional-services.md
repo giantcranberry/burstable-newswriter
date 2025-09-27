@@ -6,7 +6,6 @@ summary = "Growth Friday's new Growth 360 marketing framework helps professional
 description = "Growth Friday launches AI-powered Growth 360 marketing framework helping professional service firms triple leads. New approach combines AI SEO, content marketing & paid media for sustainable growth."
 source_link = "https://www.24-7pressrelease.com/press-release/527199/growth-friday-introduces-a-smarter-approach-to-ai-seo"
 enclosure = "https://cdn.newsramp.app/genai/images/259/27/55987f693ecb460466c09501cc831294.png"
-featured = true
 article_id = 231026
 feed_item_id = 21453
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/27/fineU93U.webp"
