@@ -6,7 +6,6 @@ summary = "Datavault AI's $150 million Bitcoin investment from Scilex Holding Co
 description = "Datavault AI receives $150M Bitcoin investment from Scilex to fund supercomputing infrastructure and data exchange platforms. NASDAQ: DVLT strengthens balance sheet for Web 3.0 expansion."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-datavault-ai-inc-nasdaq-dvlt-secures-150-million-strategic-investment-from-scilex-holding-company/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/26/26250ce32248df22c0359fb0a5d4476c.png"
-featured = true
 article_id = 225672
 feed_item_id = 21422
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/26/gainzXyV.webp"
