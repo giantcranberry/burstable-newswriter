@@ -6,7 +6,6 @@ summary = "Go to Guy Home Services has established itself as Atlanta's premier f
 description = "Go to Guy Home Services celebrates legacy as Atlanta's premier fence & deck contractor with 300+ projects, 4.9/5 reviews, and comprehensive outdoor living solutions."
 source_link = "https://mediawiretoday.com/go-to-guy-home-services-named-atlantas-leading-fence-deck-contractor-387977"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/350448da45dd99d4c597b79f2f2a2a12.png"
-featured = true
 article_id = 232448
 feed_item_id = 21456
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/259/27/echoTrbN.webp"
