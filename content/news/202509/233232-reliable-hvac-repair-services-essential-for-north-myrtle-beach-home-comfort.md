@@ -6,7 +6,6 @@ summary = "Montgomery's Coastal Cool provides comprehensive air conditioning and
 description = "Montgomery's Coastal Cool provides expert AC and heat pump repair services in North Myrtle Beach, ensuring quick, reliable solutions for homeowners facing HVAC issues."
 source_link = "https://mediawiretoday.com/reliable-ac-and-heat-pump-repair-in-north-myrtle-beach-388156"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/1d2ba434f5cad1960289ecddee94c2cf.jpg"
-featured = true
 article_id = 233232
 feed_item_id = 21469
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/259/27/yarnx9cs.webp"
