@@ -6,7 +6,6 @@ summary = "The Jason McDonald Consulting Agency's comprehensive digital marketin
 description = "Jason McDonald's Stanford digital marketing course returns in Jan 2026 after successful summer launch. Learn SEO, social media, content marketing & AI tools from industry expert."
 source_link = "https://www.24-7pressrelease.com/press-release/527211/jason-mcdonald-consulting-announces-successful-completion-of-online-digital-marketing-course"
 enclosure = "https://cdn.newsramp.app/genai/images/259/28/c96867bea399f6ec773e9796eed928fa.png"
-featured = true
 article_id = 234981
 feed_item_id = 21477
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/28/dualjWqi.webp"
