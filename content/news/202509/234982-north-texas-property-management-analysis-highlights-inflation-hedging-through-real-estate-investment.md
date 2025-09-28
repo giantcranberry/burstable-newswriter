@@ -6,7 +6,6 @@ summary = "North Texas Property Management's analysis reveals how professional m
 description = "North Texas Property Management releases new content on inflation's impact on property investments. Learn how to hedge against inflation with professional property management services in Plano and surrounding areas."
 source_link = "https://www.24-7pressrelease.com/press-release/527213/north-texas-property-management-announces-updated-content-on-the-value-of-a-property-management-service-in-plano-during-inflation"
 enclosure = "https://cdn.newsramp.app/genai/images/259/28/e82b0b34f27cbe25e4e6b494d86aae8f.png"
-featured = true
 article_id = 234982
 feed_item_id = 21478
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/28/maillo6d.webp"
