@@ -6,7 +6,6 @@ summary = "Ron Gordon Watch Repair's technical analysis of Rolex's 2025 releases
 description = "Ron Gordon Watch Repair analyzes Rolex's 2025 releases including Daytona, GMT-Master II & Sky-Dweller. Expert watchmaker perspective on technical specs & design innovations."
 source_link = "https://www.24-7pressrelease.com/press-release/527214/ron-gordon-watch-repair-of-new-york-ny-announces-blog-post-featuring-rolexs-striking-new-models-for-2025"
 enclosure = "https://cdn.newsramp.app/genai/images/259/29/827c198977c1f2ac4625c7d0a4fd6514.png"
-featured = true
 article_id = 236698
 feed_item_id = 21490
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/29/nukeyksd.webp"
