@@ -1,0 +1,15 @@
++++
+title = "UGI Utilities Launches Natural Gas Infrastructure Modernization Project in South Abington Township"
+date = "2025-09-29T17:00:26Z"
+draft = false
+summary = "UGI Utilities is undertaking a significant natural gas main replacement project in South Abington Township, representing infrastructure modernization that will enhance service reliability while creating conversion opportunities for properties along the construction route."
+description = "UGI Utilities begins natural gas main replacement project in South Abington Township starting October 1, 2025. Project includes system upgrades and gas conversion opportunities for local residents and businesses."
+source_link = "https://ugi.reportablenews.com/pr/ugi-upgrade-project-set-to-begin-this-week-in-south-abington-township"
+enclosure = "https://cdn.newsramp.app/reportable/newsimage/376783b82e758b091918986c8d8e5102.jpg"
+article_id = 238056
+feed_item_id = 21539
+qrcode = "https://cdn.newsramp.app/reportable/qrcode/259/29/palexKGT.webp"
+source = "Reportable"
++++
+
+<p>UGI Utilities, Inc. will begin a natural gas main replacement project in South Abington Township starting October 1, continuing the company's commitment to maintaining safe and reliable service infrastructure. The project constitutes a substantial infrastructure investment that will modernize aging pipeline systems while offering conversion opportunities for properties located along the construction path.</p><p>The underground construction work will concentrate on Bailey Street between Shady Lane Road and Leach Street, along with Grandview Street and Leach Street. Construction operations are scheduled Monday through Friday from 7:00am to 5:00pm, with completion of the new natural gas main installation expected by mid-November, though weather conditions and working circumstances may influence this timeline.</p><p>Residents and business owners should anticipate significant disruptions throughout the construction period. The project will involve road closures, detours, and parking restrictions that will affect local traffic patterns. Additionally, there will be intermittent interruptions to natural gas service requiring UGI technicians to access properties for equipment inspection and relighting procedures.</p><p>Beyond infrastructure enhancements, this initiative provides an opportunity for homes and businesses along the construction route to convert to natural gas service. The system upgrades establish new connection possibilities for properties currently utilizing alternative energy sources. Final paving and restoration work will follow the main installation phase.</p><p>UGI Utilities, Inc. serves more than 760,000 customers across its service territory and maintains comprehensive information about its operations and services available at <a href="https://www.ugi.com" rel="nofollow" target="_blank">https://www.ugi.com</a>. The South Abington Township project demonstrates the utility's systematic approach to infrastructure modernization, balancing service improvements with minimal community disruption through careful planning and coordination.</p>

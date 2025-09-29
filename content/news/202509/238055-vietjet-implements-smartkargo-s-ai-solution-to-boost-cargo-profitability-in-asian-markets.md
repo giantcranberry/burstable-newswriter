@@ -1,0 +1,16 @@
++++
+title = "VietJet Implements SmartKargo's AI Solution to Boost Cargo Profitability in Asian Markets"
+date = "2025-09-29T17:06:30Z"
+draft = false
+summary = "VietJet's adoption of SmartKargo's AIRCAM AI system enables real-time cargo capacity optimization and revenue maximization, positioning the airline to capitalize on Asia's growing e-commerce and air freight opportunities."
+description = "VietJet implements SmartKargo's AI-powered AIRCAM solution to optimize cargo revenue and capacity management, enhancing profitability in Asia's growing e-commerce markets."
+source_link = "https://www.noticiasnewswire.com/vietjet-selects-smartkargo/"
+enclosure = "https://cdn.newsramp.app/genai/images/259/29/5a70fb244552b1f9fbd7d52df33b96e6.png"
+featured = true
+article_id = 238055
+feed_item_id = 21540
+qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/259/29/ovaltt8w.webp"
+source = "Noticias Newswire"
++++
+
+<p>VietJet has selected SmartKargo's AI-powered AIRCAM solution to drive cargo profitability and optimize network capacity, positioning the airline to capitalize on growth opportunities in Asia's expanding e-commerce and air cargo sectors. The Revenue and Capacity Management system integrates fully with the SmartKargo Cargo Management Platform, providing VietJet with a unified system for real-time capacity forecasting, space optimization, demand prediction, and revenue maximization.</p><p>Nelson Wu Di, Managing Director at VietJet Cargo, emphasized that air cargo has become a critical growth engine for the airline. The AIRCAM implementation brings AI-driven forecasting and real-time revenue optimization to VietJet's operations, enabling cargo teams to respond faster to market conditions, optimize capacity utilization, and grow profitability across their network while maintaining reliable customer service. The solution dynamically balances demand, pricing, and available belly capacity to improve yields and reduce waste.</p><p>SmartKargo Chief Revenue Officer Olivier Houri noted that VietJet's adoption of AIRCAM reflects the airline's vision to transform cargo into a strategic profit center. The AI-powered solution empowers airlines to make data-driven decisions by combining advanced forecasting with real-time revenue and capacity optimization. This partnership supports VietJet's efforts to accelerate cargo growth and unlock new revenue opportunities across Asian markets.</p><p>The AIRCAM system enables VietJet to quickly adapt to seasonal demand surges, passenger load fluctuations, and changing cost dynamics. By continuously evaluating demand and pricing patterns, the solution empowers commercial and operations teams to make proactive, profit-focused decisions that strengthen overall network performance. This technological advancement represents a significant step in VietJet's digital transformation journey and highlights the airline's commitment to efficiency and profitable growth in the competitive air cargo industry. For additional information about SmartKargo's solutions, visit <a href="https://www.smartkargo.com" rel="nofollow" target="_blank">https://www.smartkargo.com</a>, while details about VietJet's cargo operations can be found at <a href="https://vietjetaircargo.com/" rel="nofollow" target="_blank">https://vietjetaircargo.com/</a>.</p>

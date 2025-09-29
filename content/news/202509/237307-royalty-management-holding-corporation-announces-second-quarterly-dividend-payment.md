@@ -6,7 +6,6 @@ summary = "Royalty Management Holding Corporation continues its quarterly cash d
 description = "Royalty Management Holding Corp (RMCO) announces Q3 2025 cash dividend of $0.0025 per share with September 30 record date. Learn about the company's shareholder return strategy."
 source_link = "https://www.newmediawire.com/news/royalty-management-holding-corporation-reminds-shareholders-of-upcoming-q3-quarterly-cash-dividend-7083024"
 enclosure = "https://cdn.newsramp.app/genai/images/259/29/48596f6e79a64527bcd89fe4981822ab.png"
-featured = true
 article_id = 237307
 feed_item_id = 21511
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/259/29/odorwAdY.webp"
