@@ -6,7 +6,6 @@ summary = "The AlphaWhisperers organization convened global executives and cultu
 description = "ALPHAWHISPERERS™ launches global leadership movement at UN event, gathering executives & innovators to humanize decision-making & activate exponential leaders for systemic change."
 source_link = "https://newsworthy.ai/news/202509281781/alphawhispererstm-house-launches-at-the-united-nations-during-unga80-activating-a-new-breed-of-global-leaders"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/014966b716d6317495cc3b8961d2d930.png"
-featured = true
 article_id = 235764
 feed_item_id = 21479
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/259/28/arch5Yff.webp"
