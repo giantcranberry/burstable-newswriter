@@ -6,7 +6,6 @@ summary = "VietJet's adoption of SmartKargo's AIRCAM AI system enables real-time
 description = "VietJet implements SmartKargo's AI-powered AIRCAM solution to optimize cargo revenue and capacity management, enhancing profitability in Asia's growing e-commerce markets."
 source_link = "https://www.noticiasnewswire.com/vietjet-selects-smartkargo/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/29/5a70fb244552b1f9fbd7d52df33b96e6.png"
-featured = true
 article_id = 238055
 feed_item_id = 21540
 qrcode = "https://cdn.newsramp.app/noticias-newswire/qrcode/259/29/ovaltt8w.webp"
