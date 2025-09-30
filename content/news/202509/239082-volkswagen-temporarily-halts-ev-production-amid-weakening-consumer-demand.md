@@ -6,7 +6,6 @@ summary = "Volkswagen is suspending operations at two German electric vehicle pl
 description = "Volkswagen halts EV production at German plants due to weak demand, signaling broader challenges in electric vehicle market adoption and manufacturing strategies."
 source_link = "https://rss.investorbrandnetwork.com/gcs/weak-demand-leads-vw-to-temporarily-halt-production-at-ev-plants/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/30/93c53b8b0512e8dd8252822fb204ee52.png"
-featured = true
 article_id = 239082
 feed_item_id = 21592
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/30/loftfC3a.webp"
