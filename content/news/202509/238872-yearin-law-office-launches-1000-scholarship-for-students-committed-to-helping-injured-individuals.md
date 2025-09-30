@@ -6,7 +6,6 @@ summary = "The Yearin Law Office has established the Helping the Injured Scholar
 description = "Yearin Law Office launches $1,000 Helping the Injured Scholarship for students committed to serving injured communities. Open to college and university students nationwide."
 source_link = "https://www.24-7pressrelease.com/press-release/527264/yearin-law-office-accepting-applications-for-the-helping-the-injured-scholarship"
 enclosure = "https://cdn.newsramp.app/genai/images/259/30/d479eada1682cba4f41ea45f99a25479.png"
-featured = true
 article_id = 238872
 feed_item_id = 21582
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/259/30/goldpFoc.webp"
