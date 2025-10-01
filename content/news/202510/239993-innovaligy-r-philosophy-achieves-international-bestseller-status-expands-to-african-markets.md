@@ -6,7 +6,6 @@ summary = "Dr. Krystylle Richardson's INNOVALIGY® framework has reached interna
 description = "INNOVALIGY® by Dr. Krystylle Richardson becomes international bestseller, offering 10 innovation precepts for entrepreneurs, leaders & students. Available on Amazon Kindle, paperback & hardcover."
 source_link = "https://www.24-7pressrelease.com/press-release/527302/dr-krystylle-richardsons-innovaligy-a-global-philosophy-of-innovation-leadership-and-entrepreneurship-from-the-usa-and-europe-to-its-landmark-africa-debut-in-nairobi"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/1/c189c2acfec429a55d99740411aa76b8.png"
-featured = true
 article_id = 239993
 feed_item_id = 21649
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/1/gluequbm.webp"
