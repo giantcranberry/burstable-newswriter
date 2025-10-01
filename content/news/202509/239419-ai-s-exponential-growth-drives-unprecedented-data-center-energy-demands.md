@@ -6,7 +6,6 @@ summary = "The rapid expansion of artificial intelligence is creating massive en
 description = "AI data centers face massive power demands but can expand sustainably through renewable energy solutions from companies like PowerBank Corporation and Schneider Electric."
 source_link = "https://rss.investorbrandnetwork.com/ges/how-ai-data-centers-can-grow-while-limiting-their-emissions/"
 enclosure = "https://cdn.newsramp.app/genai/images/259/30/91ce5c3d64267766b6976551c7a1d1b5.png"
-featured = true
 article_id = 239419
 feed_item_id = 21609
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/259/30/ulnaDsMo.webp"
