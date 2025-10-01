@@ -6,7 +6,6 @@ summary = "Australia's emerging market for repurposed electric vehicle batteries
 description = "Australia's secondhand EV battery market is booming, creating new industry opportunities. Bollinger Innovations and others see added value in repurposed lithium batteries for solar storage and other applications."
 source_link = "https://rss.investorbrandnetwork.com/tmw/demand-soars-for-used-ev-batteries/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/1/df84ef5671b8c99386a7ae03465b844b.png"
-featured = true
 article_id = 240430
 feed_item_id = 21669
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/1/pintgYvM.webp"
