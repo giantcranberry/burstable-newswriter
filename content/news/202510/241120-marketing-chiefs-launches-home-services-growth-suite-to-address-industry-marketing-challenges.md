@@ -6,7 +6,6 @@ summary = "Marketing Chiefs has introduced a comprehensive Home Services Growth 
 description = "Marketing Chiefs launches Home Services Growth Suite for contractors, plumbers & HVAC companies. Get unbiased marketing audits, vendor selection & ROI tracking to reduce waste & scale profitably."
 source_link = "https://www.24-7pressrelease.com/press-release/527327/marketing-chiefs-launches-home-services-growth-suite-to-drive-roi-for-contractors-plumbers-roofers-hvac-providers-nationwide"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/2/6cb3c38bfd0bf3548854fe8844246e3d.png"
-featured = true
 article_id = 241120
 feed_item_id = 21702
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/2/gainzuwS.webp"
