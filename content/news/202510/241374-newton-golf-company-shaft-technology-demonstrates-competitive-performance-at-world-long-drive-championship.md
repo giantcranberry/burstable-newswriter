@@ -6,7 +6,6 @@ summary = "Newton Golf Company's shaft technology delivered significant competit
 description = "Newton Golf Company's shafts powered championship wins at 2025 World Long Drive, including 396-yard drives. Learn how this NASDAQ: NWTG technology delivers elite performance."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-newton-golf-company-inc-nasdaq-nwtg-athletes-shine-at-2025-world-long-drive-championship/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/2/23a20d4ba0bf9cce74cb04bd9920ebec.png"
-featured = true
 article_id = 241374
 feed_item_id = 21715
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/2/irisCdE4.webp"
