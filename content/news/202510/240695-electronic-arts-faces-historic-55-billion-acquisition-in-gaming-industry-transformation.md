@@ -6,7 +6,6 @@ summary = "Electronic Arts is being acquired for $55 billion in what would be th
 description = "Electronic Arts faces $55B buyout by Silver Lake, Saudi PIF & Kushner's Affinity in largest leveraged deal ever. EA goes private amid gaming industry consolidation."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-electronic-arts-inc-nasdaq-ea-55-billion-buyout-marks-largest-gaming-deal-in-history-channelchek-reports/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/1/c4f42a695bfc2ed44de53b7678d9b091.png"
-featured = true
 article_id = 240695
 feed_item_id = 21677
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/1/meanq_rr.webp"
