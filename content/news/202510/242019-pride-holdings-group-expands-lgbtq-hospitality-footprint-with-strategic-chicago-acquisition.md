@@ -1,0 +1,15 @@
++++
+title = "Pride Holdings Group Expands LGBTQ+ Hospitality Footprint with Strategic Chicago Acquisition"
+date = "2025-10-02T16:01:12Z"
+draft = false
+summary = "Pride Holdings Group's acquisition and conversion of Lips Chicago into its successful Divas DDD brand represents a strategic expansion that could generate significant revenue growth while reinforcing the company's leadership in LGBTQ+ hospitality."
+description = "Pride Holdings Group acquires Lips Chicago, converting it to Divas DDD brand with projected 25% revenue growth. LGBTQ+ hospitality leader expands portfolio and strengthens market position."
+source_link = "https://www.newmediawire.com/news/pride-holdings-group-formerly-parliament-house-enterprises-inc-announces-strategic-acquisition-of-lips-chicago-projecting-strong-financial-growth-for-2026-7083126"
+enclosure = "https://cdn.newsramp.app/genai/images/2510/2/919907f2bc09e1f5363ef0fcc79e6cd4.png"
+article_id = 242019
+feed_item_id = 21726
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2510/2/pinkSDL8.webp"
+source = "NewMediaWire"
++++
+
+<p>Pride Holdings Group has announced the strategic acquisition of Lips Chicago, marking a significant expansion move for the LGBTQ+ hospitality company. The Chicago venue will be converted under Pride's successful Divas DDD brand, building on the established Fort Lauderdale model that has demonstrated strong market performance. This calculated growth strategy positions the Chicago location to generate a 25% year-over-year revenue lift following rebranding and operational enhancements, underscoring the company's confidence in replicating its successful concept in new markets.</p><p>CEO Mike Barrett characterized the acquisition as a pivotal moment for both the company and its shareholders, emphasizing that the conversion expands both geographic reach and revenue base. The strategic move reinforces Pride's leadership position in LGBTQ+ hospitality while delivering tangible financial results. The company's expansion strategy focuses on scaling with purpose, profit, and pride, positioning itself as the premier LGBTQ+ hospitality and cultural rollup. Additional growth drivers include launching tech-enabled membership platforms and creating new revenue channels through agency services.</p><p>This acquisition represents the latest in a series of strategic moves by Pride Holdings Group to strengthen its market position and financial performance. The successful conversion of Lips Chicago to the Divas DDD brand could serve as a template for future expansion opportunities as the company continues to execute its growth strategy in the competitive hospitality sector. The company's approach aims to set global standards for inclusive hospitality while delivering sustainable growth to shareholders through carefully planned expansion initiatives. Complete details about this strategic acquisition are available on <a href="https://www.newmediawire.com" rel="nofollow" target="_blank">www.newmediawire.com</a>.</p>

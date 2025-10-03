@@ -6,7 +6,6 @@ summary = "The upcoming MoneyShow Orlando 2025 conference will bring together ov
 description = "MoneyShow announces 2025 Orlando financial conference featuring 80+ top economists & market experts. Learn investment strategies from Peter Schiff, Charles Payne & more."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-moneyshow-orlando-2025-to-feature-80-speakers-oct-16-18-at-omni-orlando-resort/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/2/eeea4ccc850f2c4f9148a22df18dc3e3.png"
-featured = true
 article_id = 241756
 feed_item_id = 21735
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/2/ideaqCQd.webp"
