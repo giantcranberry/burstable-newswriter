@@ -6,7 +6,6 @@ summary = "Dynamic Global Events has announced a hands-on Medical Affairs AI Imm
 description = "Dynamic Global Events launches Medical Affairs AI Immersion Lab Oct 16-17. Hands-on AI training for pharma professionals to build business cases and leverage AI technology in medical affairs functions."
 source_link = "https://rss.investorbrandnetwork.com/iw/dge-presents-the-medical-affairs-ai-immersion-lab/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/3/11be15c6699fac160af5f9dcc4563913.png"
-featured = true
 article_id = 242422
 feed_item_id = 21775
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/3/keepa0Ft.webp"
