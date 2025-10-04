@@ -6,7 +6,6 @@ summary = "CI Web Group's new Cortex AI platform and Webflow website strategy de
 description = "CI Web Group launches Cortex AI marketing platform & Webflow website strategy, delivering Page 1 Google rankings in 30 days for home service businesses using AI-driven SEO."
 source_link = "https://mediawiretoday.com/ci-web-groups-ai-innovations-set-new-marketing-standards-389074"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/4aa007af8b3f6cd36953c98d7c566b39.jpg"
-featured = true
 article_id = 242763
 feed_item_id = 21787
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/3/tintDuxK.webp"
