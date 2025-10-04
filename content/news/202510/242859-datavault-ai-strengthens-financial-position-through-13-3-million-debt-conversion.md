@@ -6,7 +6,6 @@ summary = "Datavault AI has completed the conversion of $13.3 million in long-te
 description = "Datavault AI converts $13.3M notes, strengthens balance sheet for Web 3.0 expansion. Partnership with IBM advances supercomputing capabilities and IDE development across multiple industries."
 source_link = "https://www.newmediawire.com/news/datavault-ai-dvlt-strengthens-balance-sheet-with-full-conversion-of-13-3m-notes-7083177"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/7b34f7772438c783f01d1f8854c65d48None"
-featured = true
 article_id = 242859
 feed_item_id = 21796
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2510/3/ruby668r.webp"
