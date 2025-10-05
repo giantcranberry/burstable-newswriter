@@ -6,7 +6,6 @@ summary = "Optimalize Consulting, founded by Kenneth Perry in Fontana, Californi
 description = "Optimalize Consulting launches innovative time and project management solutions for small businesses. Founded by Kenneth Perry to eliminate operational inefficiencies and enhance performance."
 source_link = "https://www.24-7pressrelease.com/press-release/527421/optimalize-consulting-is-revolutionizing-the-landscape-of-time-management-and-project-management-strategies-for-its-diverse-clientele"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/5/6c4ffa9f945fb8527a0cad6c56b63112.png"
-featured = true
 article_id = 243168
 feed_item_id = 21812
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/5/icyYdyR.webp"
