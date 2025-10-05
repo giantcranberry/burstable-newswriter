@@ -6,7 +6,6 @@ summary = "Sunfinity Power is helping Massachusetts homeowners capitalize on exp
 description = "Sunfinity Power helps MA homeowners maximize solar savings before 2026 federal incentives expire. Learn about tax credits, state rebates & flexible financing options for clean energy."
 source_link = "https://mediawiretoday.com/take-advantage-of-ma-solar-incentives-with-sunfinity-power-389229"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/28ec8f26369d524ac57a26e24d0d7ab1.jpg"
-featured = true
 article_id = 243035
 feed_item_id = 21807
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/4/tall0XKR.webp"
