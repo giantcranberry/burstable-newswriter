@@ -6,7 +6,6 @@ summary = "Garcia Orthodontics is transforming orthodontic care through advanced
 description = "Garcia Orthodontics in Miami offers Invisalign and traditional braces using advanced technology. Expert care, personalized treatment plans, and flexible financing available."
 source_link = "https://mediawiretoday.com/expert-orthodontic-care-in-miami-with-invisalign-and-braces-389389"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/61e925e19ce05b51b9a8342b6420cb57.jpg"
-featured = true
 article_id = 243218
 feed_item_id = 21814
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/5/nukekwSS.webp"
