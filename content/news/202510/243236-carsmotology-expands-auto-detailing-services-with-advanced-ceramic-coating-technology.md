@@ -6,7 +6,6 @@ summary = "Carsmotology's introduction of expert ceramic coating applications re
 description = "Carsmotology in Boerne launches expert ceramic coating services for vehicle protection. Professional paint correction & detailing with 20+ years experience. Serving San Antonio & Hill Country areas."
 source_link = "https://mediawiretoday.com/carsmotology-launches-expert-ceramic-coating-services-in-boerne-389466"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/ac468ca17ac239ba0c9ca99bb289ba2c.jpg"
-featured = true
 article_id = 243236
 feed_item_id = 21815
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/5/herbucyi.webp"
