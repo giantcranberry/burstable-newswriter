@@ -6,7 +6,6 @@ summary = "Scarpignato Plumbing & Heating has launched a comprehensive website p
 description = "Scarpignato Plumbing launches new website to help Delaware County homeowners prevent plumbing emergencies with educational resources and reliable service information for Wallingford area."
 source_link = "https://www.24-7pressrelease.com/press-release/527407/local-plumber-launches-new-website-to-help-homeowners-avoid-plumbing-nightmares"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/6/742313ae2b56638d52d02052c0ec3b6e.png"
-featured = true
 article_id = 243560
 feed_item_id = 21833
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/6/maskp9Ir.webp"
