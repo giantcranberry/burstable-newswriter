@@ -6,7 +6,6 @@ summary = "Gold prices have surged to unprecedented levels above $3,700 per ounc
 description = "Gold hits record highs above $3,700 as dollar weakens and Fed cuts loom. Mining stocks like ESGold Corp offer leverage to precious metals surge. Central banks accelerate gold buying amid de-dollarization trend."
 source_link = "https://rss.investorbrandnetwork.com/nnw/when-the-dollar-blinks-real-assets-take-center-stage/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/6/7dc22bb9d207ec74953012c07e0b029d.png"
-featured = true
 article_id = 243781
 feed_item_id = 21844
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/6/bendAHGY.webp"
