@@ -6,7 +6,6 @@ summary = "A comprehensive digital marketing program launching November 5, 2023 
 description = "Digital Success Strategies Inc. launches digital marketing initiative to help businesses boost online visibility through SEO, social media, and content strategies. Workshops begin November 2023."
 source_link = "https://mediawiretoday.com/effective-strategies-for-businesses-to-enhance-visibility-389710"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/3d145b8009e7f87fbaa6c87c1422308a.jpg"
-featured = true
 article_id = 244033
 feed_item_id = 21857
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/6/meanuMNc.webp"
