@@ -6,7 +6,6 @@ summary = "SBC Medical Group Holdings is strategically targeting male customers 
 description = "SBC Medical, Japan's largest beauty clinic chain, targets $9.5B market growth by expanding to males and women 30-40. With 259 clinics and $152M cash for acquisitions."
 source_link = "https://www.newmediawire.com/news/japan-s-largest-beauty-clinic-chain-operator-sbc-medical-targets-males-women-between-30-40-for-next-leg-of-growth-cites-market-underpenetration-7083236"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/dad2e811b45940071b66f2c0e5b1c42bNone"
-featured = true
 article_id = 245061
 feed_item_id = 21918
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2510/7/voltghqE.webp"

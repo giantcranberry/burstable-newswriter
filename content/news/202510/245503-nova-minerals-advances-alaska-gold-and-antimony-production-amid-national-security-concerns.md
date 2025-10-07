@@ -1,0 +1,15 @@
++++
+title = "Nova Minerals Advances Alaska Gold and Antimony Production Amid National Security Concerns"
+date = "2025-10-07T14:35:15Z"
+draft = false
+summary = "Nova Minerals Ltd. is progressing toward production at its Estelle Project in Alaska, which contains significant gold resources and critical antimony deposits that could reduce U.S. dependence on foreign suppliers amid geopolitical tensions."
+description = "Nova Minerals CEO discusses Estelle Project's 10M oz gold potential & DoD-backed antimony production. Critical minerals for US security & cleantech."
+source_link = "https://www.newmediawire.com/news/striking-it-rich-with-gold-and-antimony-nova-minerals-ceo-talks-to-benzinga-about-getting-closer-to-mining-and-refining-key-minerals-7083237"
+enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/609fd0b5ec8b995bc7a6235f9df1b835None"
+article_id = 245503
+feed_item_id = 21919
+qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2510/7/warpbIRm.webp"
+source = "NewMediaWire"
++++
+
+<p>Nova Minerals Ltd. is advancing development of its Estelle Project in Alaska, a 514 km2 mining claim area containing multiple mining complexes across a 35 km mineralized corridor. The company has defined nearly 10 million ounces of gold and is working on a feasibility study with plans to bring gold to market next year, according to CEO Christopher Gerteisen.</p><p>The Estelle Project contains over 20 advanced gold and antimony prospects, including two already defined multi-million ounce resources and several drill-ready antimony prospects. Beyond the two main gold projects, Gerteisen noted twenty other prospects at the site showing gold, copper, silver, and antimony mineralization.</p><p>Antimony represents a significant opportunity for Nova Minerals, particularly given heightened interest from the Department of Defense. The mineral is used in cleantech, greentech, hightech applications and munitions, but is not produced anywhere in the United States. Russia and China currently dominate global antimony production and have been restricting U.S. access, creating national security concerns.</p><p>Gerteisen stated the company is in advanced stages of securing a non-dilutive grant from the Department of Defense to fast-track antimony production. The strategic importance of domestic antimony production cannot be overstated given current geopolitical tensions and U.S. dependence on foreign suppliers for this critical mineral.</p><p>As the Defense Department seeks to secure domestic supply chains for essential materials, projects like Nova Minerals' Estelle represent crucial steps toward reducing foreign reliance while developing Alaska's mineral resources. The full interview discussing these developments is available at <a href="https://www.youtube.com/watch?v=EmeGVGPSJ_8&feature=youtu.be" rel="nofollow" target="_blank">https://www.youtube.com/watch?v=EmeGVGPSJ_8&feature=youtu.be</a>.</p>
