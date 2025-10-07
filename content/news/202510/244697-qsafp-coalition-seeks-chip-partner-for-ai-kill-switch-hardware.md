@@ -6,7 +6,6 @@ summary = "The Quantum-Secured AI Fail-Safe Protocol coalition is pursuing silic
 description = "BWRCI launches Quantum-Secured AI Fail-Safe Protocol (QSAFP) with human validator network to embed ethical governance in silicon chips, preventing AI bias."
 source_link = "https://www.24-7pressrelease.com/press_release/527472/open-letter-humanitys-veto-etched-in-silicon-qsafp-coalition-opens-founding-seat-for-the-first-chip-partner-to-define-the-ethical-default"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/7/a460e76b5902a55e54cda7f7df842d2f.png"
-featured = true
 article_id = 244697
 feed_item_id = 21901
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/7/plumOvnj.webp"
