@@ -6,7 +6,6 @@ summary = "LaFleur Minerals is progressing its gold exploration in Quebec's Abit
 description = "LaFleur Minerals advances gold exploration in Quebec's Abitibi Belt, restarting Beacon Gold Mill for revenue and completing 24 drill holes with promising assays. PEA expected by October."
 source_link = "https://rss.investorbrandnetwork.com/rns/lafleur-minerals-inc-cse-lflr-otcqb-lflrf-pursues-pea-for-drilling-milling-project-to-advance-gold-operation/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/7/e1cd06f521fc45a96bb63c8adf0f2cac.png"
-featured = true
 article_id = 245497
 feed_item_id = 21934
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/7/boss4REX.webp"
