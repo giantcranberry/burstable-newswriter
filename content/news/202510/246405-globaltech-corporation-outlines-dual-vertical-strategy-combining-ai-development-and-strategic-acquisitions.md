@@ -6,7 +6,6 @@ summary = "GlobalTech Corporation President Frank R. Parrish III detailed the co
 description = "GlobalTech President Frank Parrish discusses AI strategy and global expansion in TechMediaWire Podcast. Learn about the company's dual-vertical approach combining proprietary development with acquisitions."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-globaltech-corp-otc-gltk-president-frank-r-parrish-iii-featured-on-ibns-techmediawire-podcast/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/8/7628b536f30d3d23cd60b6fd72ac8f00.png"
-featured = true
 article_id = 246405
 feed_item_id = 21989
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/8/voltk9LI.webp"
