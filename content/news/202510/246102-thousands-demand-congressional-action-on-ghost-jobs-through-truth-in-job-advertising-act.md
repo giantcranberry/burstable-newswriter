@@ -6,7 +6,6 @@ summary = "Over 4,000 Americans have signed a petition supporting the Truth in J
 description = "Over 4,000 Americans support the Truth in Job Advertising Act to combat ghost jobs. Bipartisan congressional meetings signal growing support for hiring transparency reform."
 source_link = "https://newsworthy.ai/news/202510081809/4000-americans-unite-behind-the-truth-in-job-advertising-act-as-congress-begins-engaging-on-ghost-job-crisis"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/64474db6cb73ceeec813449ecb10779b.png"
-featured = true
 article_id = 246102
 feed_item_id = 21971
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/2510/8/jolt8K7Y.webp"
