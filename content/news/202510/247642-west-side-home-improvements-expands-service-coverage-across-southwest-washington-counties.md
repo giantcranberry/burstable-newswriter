@@ -6,7 +6,6 @@ summary = "West Side Home Improvements has expanded its comprehensive home impro
 description = "West Side Home Improvements expands service across Cowlitz & Lewis Counties, WA. Get roofing, siding, gutters & remodeling from trusted local contractors."
 source_link = "https://www.24-7pressrelease.com/press-release/527546/west-side-home-improvements-expands-full-service-remodeling-and-roofing-solutions-across-cowlitz-and-lewis-counties-washington"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/9/2022863e3b40139066d0885b458a6914.png"
-featured = true
 article_id = 247642
 feed_item_id = 22053
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/9/ninoWser.webp"
