@@ -6,7 +6,6 @@ summary = "PowerBank Corporation's strategic partnership with Intellistake Techn
 description = "PowerBank partners with Intellistake as beta tester for IntelliScope AI suite, combining renewable energy expertise with artificial intelligence to advance clean energy technology solutions."
 source_link = "https://www.newmediawire.com/news/powerbank-suun-collaborates-with-intellistake-technologies-corp-as-closed-beta-partner-to-test-intelliscope-ai-agents-7083252"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/7ef6b6d3d5154119fdbf25130ffda898None"
-featured = true
 article_id = 246906
 feed_item_id = 22009
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2510/8/lilyB8gY.webp"

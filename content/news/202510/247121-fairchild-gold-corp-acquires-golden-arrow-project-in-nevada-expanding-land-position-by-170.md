@@ -1,0 +1,15 @@
++++
+title = "Fairchild Gold Corp. Acquires Golden Arrow Project in Nevada, Expanding Land Position by 170%"
+date = "2025-10-08T18:40:24Z"
+draft = false
+summary = "Fairchild Gold Corp. has strategically expanded its Nevada mining portfolio through the acquisition of the Golden Arrow Project, adding 420,000 ounces of gold resources and appointing veteran mining engineer Guy Lauzier to accelerate development."
+description = "Fairchild Gold acquires Golden Arrow Project in Nevada for US$5M, expanding land position by 170%. Historic resource of 420,000 gold ounces with extensive drilling history included in the deal."
+source_link = "https://rss.investorbrandnetwork.com/rns/rockbreaks-fairchild-gold-corp-tsx-v-fair-to-acquire-golden-arrow-project-in-nevada-for-us5-million/"
+enclosure = "https://cdn.newsramp.app/genai/images/2510/8/60c5926adaf574e3a7889117994aeb83.png"
+article_id = 247121
+feed_item_id = 22014
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/8/loftWy8j.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Fairchild Gold Corp. (TSX-V: FAIR) has signed a Memorandum of Understanding to acquire a 100% interest in the Golden Arrow Project, an advanced-stage gold property located along Nevada's Walker Lane Shear Zone. The US$5 million transaction—valued at roughly US$12 per ounce of gold in the ground—will expand Fairchild's total land position by 170% to 64.5 km² through the addition of Golden Arrow and the Nevada Titan Project.</p><p>The Golden Arrow Project hosts a historic resource of 420,000 ounces of gold at an average grade of 0.75 g/t and has undergone extensive exploration totaling more than 61,000 meters of drilling. As reported in an article by Ryan D. Long, the acquisition represents a strategic expansion for Fairchild in one of North America's most productive mining regions. Under the proposed terms, Fairchild will issue 12.5 million shares, a US$3.5 million secured note, and a 0.5% NSR royalty to Emergent Metals Corp. upon completion of the deal.</p><p>As part of the transaction, Fairchild will appoint veteran mining engineer Guy Lauzier—formerly with Barrick, Newmont, and Agnico Eagle—as Technical Director to advance development of the project. This appointment brings significant industry expertise to the company's leadership team, potentially accelerating the development timeline for the newly acquired asset. The transaction positions Fairchild with a substantially larger portfolio of mineral properties in mining-friendly jurisdictions.</p><p>The expanded land position provides Fairchild with multiple exploration targets across different geological settings within Nevada. The company's enhanced portfolio now includes both the Golden Arrow Project and its flagship Nevada Titan Project in the historic Goodsprings mining district. For more information about the company, visit <a href="https://www.fairchildgold.com/" rel="nofollow" target="_blank">https://www.fairchildgold.com/</a>. Additional details about the acquisition can be found at <a href="https://ibn.fm/2cZYB" rel="nofollow" target="_blank">https://ibn.fm/2cZYB</a>.</p>
