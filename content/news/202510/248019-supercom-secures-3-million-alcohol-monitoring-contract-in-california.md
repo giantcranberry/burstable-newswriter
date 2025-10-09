@@ -6,7 +6,6 @@ summary = "SuperCom Ltd. has secured a significant three-year contract valued at
 description = "SuperCom secures $3M California alcohol monitoring contract through subsidiary LCA, expanding U.S. market presence with electronic monitoring technology for criminal justice system."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-supercom-ltd-nasdaq-spcb-secures-second-electronic-monitoring-contract-in-virginia-expanding-u-s-footprint/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/9/6786fa5e4fc621d6448aaf533741a03c.png"
-featured = true
 article_id = 248019
 feed_item_id = 22078
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/9/yawni_XV.webp"
