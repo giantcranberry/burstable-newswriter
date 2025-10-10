@@ -6,7 +6,6 @@ summary = "ESGold Corp's innovative tailings recovery approach at its Montauban 
 description = "ESGold Corp's mining strategy gains attention as investors shift to real assets amid inflation concerns. The company's Quebec project offers low-capex, high-margin model in strengthening metals market."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-esgold-corp-cse-esau-otcqb-esauf-featured-in-networknewsaudio-segment-when-the-dollar-blinks-real-assets-take-center-stage/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/10/f7e3efc13a52d4d03b2a3238b85d0059.png"
-featured = true
 article_id = 249224
 feed_item_id = 22140
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/10/hushMW2G.webp"
