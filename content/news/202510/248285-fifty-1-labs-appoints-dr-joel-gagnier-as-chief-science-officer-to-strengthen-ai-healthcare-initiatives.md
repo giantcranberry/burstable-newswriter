@@ -6,7 +6,6 @@ summary = "Fifty 1 Labs has appointed Dr. Joel Gagnier as Chief Science Officer,
 description = "Fifty1 AI Labs appoints Dr. Joel Gagnier as Chief Science Officer to advance AI-driven drug discovery in musculoskeletal health and personalized wellness using proven medicines."
 source_link = "https://rss.investorbrandnetwork.com/ainw/ainewsbreaks-fifty-1-labs-inc-otc-fity-appoints-dr-joel-gagnier-as-chief-science-officer-to-advance-ai-driven-health-research/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/9/07688d970705973b7f15e908a052728d.png"
-featured = true
 article_id = 248285
 feed_item_id = 22080
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/9/glueKIN4.webp"
