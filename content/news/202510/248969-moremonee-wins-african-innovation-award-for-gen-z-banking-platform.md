@@ -6,7 +6,6 @@ summary = "Nigerian fintech Moremonee has been recognized as Innovative Firm of 
 description = "Nigerian fintech Moremonee wins Innovative Firm of the Year at African Industrial & Development Awards 2025 for its Gen Z-focused banking platform with daily interest & security features."
 source_link = "https://www.24-7pressrelease.com/press-release/527567/moremonee-earns-top-honors-at-aidca-2025-redefining-banking-for-africas-gen-z-with-innovation-security-and-customer-first-solutions"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/10/346e19eeff974db1c7ffa51cbdea286f.png"
-featured = true
 article_id = 248969
 feed_item_id = 22118
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/10/yawnLF6v.webp"
