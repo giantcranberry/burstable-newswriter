@@ -6,7 +6,6 @@ summary = "Adlers Jewelers is hosting a two-day Verragio Trunk Show providing co
 description = "Adlers Jewelers hosts exclusive Verragio trunk show Oct 24-25 in Westfield, NJ. Explore 500+ engagement rings & wedding bands with expert guidance & special savings."
 source_link = "https://www.24-7pressrelease.com/press-release/527607/adlers-jewelers-hosts-exclusive-verragio-bridal-event"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/11/2f48ea6a3dba1006186d0e6bc69ff99e.png"
-featured = true
 article_id = 249831
 feed_item_id = 22169
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/11/ellaMfny.webp"
