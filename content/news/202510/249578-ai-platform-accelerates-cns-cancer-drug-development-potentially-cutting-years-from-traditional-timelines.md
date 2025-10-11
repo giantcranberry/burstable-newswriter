@@ -6,7 +6,6 @@ summary = "Lantern Pharma's RADR AI platform is transforming central nervous sys
 description = "Lantern Pharma leverages AI platform RADR® to accelerate cancer drug development, reduce costs, and improve patient access to precision oncology treatments like STAR-001 for CNS cancers."
 source_link = "https://rss.investorbrandnetwork.com/ainw/lantern-pharma-inc-nasdaq-ltrn-ceo-panna-sharma-and-new-board-member-dr-lee-schalop-discuss-how-ai-can-reshape-cns-oncology-drug-development/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/10/1befb0b0902d16ad39570e2f43f85559.png"
-featured = true
 article_id = 249578
 feed_item_id = 22155
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/10/veil4WRE.webp"
