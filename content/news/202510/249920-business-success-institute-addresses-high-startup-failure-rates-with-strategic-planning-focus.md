@@ -6,7 +6,6 @@ summary = "The Business Success Institute's recent seminar provided critical str
 description = "Business Success Institute seminar reveals essential entrepreneurship strategies with expert insights on market research, financial management, and customer engagement for business success."
 source_link = "https://mediawiretoday.com/unlocking-success-essential-strategies-for-building-a-flourishing-business-390692"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/0d2d15f2b935fec46369eecf4fa2da90.jpg"
-featured = true
 article_id = 249920
 feed_item_id = 22175
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/11/kissz9Qi.webp"
