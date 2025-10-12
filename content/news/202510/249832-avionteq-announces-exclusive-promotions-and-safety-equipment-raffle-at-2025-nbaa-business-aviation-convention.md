@@ -6,7 +6,6 @@ summary = "AvionTEq will showcase limited-time promotions on aviation testing eq
 description = "AvionTEq announces exclusive promotions at NBAA-BACE 2025, including FDS HHMPI kits, CCX T-RX RP+ test sets, and UTS100 ULB Tester raffle. Limited-time deals with free iPads and discounts on aviation test equipment."
 source_link = "https://www.24-7pressrelease.com/press-release/527608/avionteq-brings-exclusive-nbaa-bace-2025-offers-and-win-a-uts100-ulb-tester-at-booth-3528"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/11/fd0edd7bcb0bd5a3258c9f599ac68105.png"
-featured = true
 article_id = 249832
 feed_item_id = 22170
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/11/lilyc2xH.webp"
