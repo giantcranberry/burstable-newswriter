@@ -6,7 +6,6 @@ summary = "Retirement Red Flags is hosting specialized workshops to help Iowa re
 description = "Retirement Red Flags hosts 2025 workshop for Iowa retirees facing 2026 tax changes. Learn strategies to protect income, Social Security & estate plans. Limited seats available."
 source_link = "https://www.24-7pressrelease.com/press-release/527623/retirement-red-flags-hosts-2025-retiree-update-workshop-in-west-des-moines"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/13/30c2d2a850d32951ee1721f33ec18721.png"
-featured = true
 article_id = 250074
 feed_item_id = 22188
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/13/seeksH3Z.webp"
