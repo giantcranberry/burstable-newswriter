@@ -6,7 +6,6 @@ summary = "Nightfood Holdings' TechForce Robotics is scaling its robotic service
 description = "Nightfood Holdings expands robotic pilot programs beyond hospitality to casinos, malls, stadiums & schools. TechForce Robotics demonstrates real-world automation ahead of 2026 commercial rollout."
 source_link = "https://rss.investorbrandnetwork.com/tmw/techmediabreaks-nightfood-holdings-inc-otcqb-ngtf-expands-techforce-robotics-live-pilots-across-multiple-high-traffic-industries/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/13/d2ad8e2fd3a9d97345c82fd862edd565.png"
-featured = true
 article_id = 250318
 feed_item_id = 22200
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/13/camciblk.webp"
