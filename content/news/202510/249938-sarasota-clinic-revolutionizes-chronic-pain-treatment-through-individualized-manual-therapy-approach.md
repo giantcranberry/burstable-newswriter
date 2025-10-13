@@ -6,7 +6,6 @@ summary = "Manual Physical Therapy & Concierge Services has established itself a
 description = "Manual Physical Therapy & Concierge Services leads Sarasota FL with personalized manual therapy for chronic pain. Expert care since 2016 with tailored treatment plans."
 source_link = "https://mediawiretoday.com/top-choice-for-physical-therapy-in-sarasota-fl-390530"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/25221ba4ac5498280ba2e1334fb79158.jpg"
-featured = true
 article_id = 249938
 feed_item_id = 22176
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/12/camc7Wz8.webp"
