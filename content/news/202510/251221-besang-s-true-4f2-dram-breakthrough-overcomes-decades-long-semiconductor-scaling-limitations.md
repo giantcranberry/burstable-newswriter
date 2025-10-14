@@ -6,7 +6,6 @@ summary = "BeSang has achieved a semiconductor industry milestone with TRUE 4F2 
 description = "BeSang announces TRUE 4F2 DRAM breakthrough, overcoming 6F2 scaling limits. New technology enables higher density, efficiency & cost savings for AI and computing applications."
 source_link = "https://www.24-7pressrelease.com/press-release/527658/besang-announces-breakthrough-true-4f2-dram-technologies"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/14/b9473aab816549f5bb98a038a96b96f4.png"
-featured = true
 article_id = 251221
 feed_item_id = 22250
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/14/healW9Ud.webp"
