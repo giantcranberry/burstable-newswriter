@@ -6,7 +6,6 @@ summary = "The joint venture between Standard Lithium and Equinor has filed a de
 description = "Standard Lithium & Equinor joint venture files Definitive Feasibility Study for South West Arkansas project, targeting 22,500 tonnes annual lithium production via Direct Lithium Extraction technology."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-standard-lithium-ltd-nyse-american-sli-joint-venture-files-definitive-feasibility-study-for-south-west-arkansas-lithium-project/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/14/a61941f6db7e6cb6d694593ec45ad7c0.png"
-featured = true
 article_id = 251689
 feed_item_id = 22280
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/14/dashy2Df.webp"
