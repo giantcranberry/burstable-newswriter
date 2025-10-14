@@ -6,7 +6,6 @@ summary = "UGI Utilities has initiated a significant natural gas main replacemen
 description = "UGI Utilities begins natural gas main replacement on Route 249 near Middlebury Center, affecting traffic and service through November 2025. Project details and impacts explained."
 source_link = "https://ugi.reportablenews.com/pr/ugi-system-upgrades-underway-along-route-249-in-tioga-county"
 enclosure = "https://cdn.newsramp.app/reportable/newsimage/2bcb2674282f5f73c862e5b8982a5456.jpg"
-featured = true
 article_id = 250601
 feed_item_id = 22206
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/2510/13/kiwiw5pd.webp"
