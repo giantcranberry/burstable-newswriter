@@ -6,7 +6,6 @@ summary = "Wind and solar power generation exceeded coal-fired electricity produ
 description = "Wind and solar generated more electricity than coal globally in H1 2025, marking a historic energy transition milestone. Climate research shows renewables outpacing demand growth."
 source_link = "https://rss.investorbrandnetwork.com/ges/global-clean-energy-generation-now-exceeds-coal-energy/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/14/69d1a73e07b077756339509e2da97d4f.png"
-featured = true
 article_id = 252106
 feed_item_id = 22292
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/14/pintM1yH.webp"
