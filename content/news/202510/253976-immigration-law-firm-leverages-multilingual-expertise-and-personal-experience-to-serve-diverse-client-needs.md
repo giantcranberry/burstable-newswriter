@@ -6,7 +6,6 @@ summary = "The Law Office of Tatiane M. Silva, P.A. provides comprehensive immig
 description = "The Law Office of Tatiane M. Silva provides nationwide immigration legal services in multiple languages. Experienced attorney helps with family petitions, deportation defense, asylum, and citizenship."
 source_link = "https://www.24-7pressrelease.com/press-release/527752/miami-immigration-attorney-tatiane-m-silva-helps-families-achieve-the-american-dream"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/16/c870839cbffcf6264270a57e52516e3e.png"
-featured = true
 article_id = 253976
 feed_item_id = 22419
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/16/silk7DVU.webp"
