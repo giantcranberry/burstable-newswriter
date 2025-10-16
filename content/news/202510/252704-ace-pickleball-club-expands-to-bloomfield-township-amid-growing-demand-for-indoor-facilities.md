@@ -6,7 +6,6 @@ summary = "Ace Pickleball Club's new Bloomfield Township location addresses the 
 description = "Ace Pickleball Club opens new Bloomfield Twp. location Oct. 25 with first month free offer. SOLU Enterprises brings indoor pickleball facility with professional courts for all skill levels."
 source_link = "https://www.citybiz.co/article/758711/ace-pickleball-club-serves-up-its-new-bloomfield-twp-location-ushering-in-a-new-era-of-social-fitness/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/62d3d86aee7a42d87bfcf560182aa026.png"
-featured = true
 article_id = 252704
 feed_item_id = 22331
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/2510/15/noonL_oQ.webp"
