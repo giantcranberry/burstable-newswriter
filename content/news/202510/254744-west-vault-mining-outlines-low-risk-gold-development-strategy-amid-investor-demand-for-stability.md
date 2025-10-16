@@ -6,7 +6,6 @@ summary = "West Vault Mining CEO Sandy McVey details the company's disciplined, 
 description = "West Vault Mining CEO Sandy McVey discusses the company's low-risk gold development strategy on The MiningNewsWire Podcast. Learn about their cash-conservative approach to maximizing shareholder value."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-west-vault-mining-inc-tsxv-wvm-otcqx-wvmdf-ceo-featured-on-latest-episode-of-the-miningnewswire-podcast/"
 enclosure = "https://cdn.newsramp.app/genai/images/2510/16/8562fcceb353e9dbf9c2a16ebfabfb03.png"
-featured = true
 article_id = 254744
 feed_item_id = 22443
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/16/mossVRIk.webp"
