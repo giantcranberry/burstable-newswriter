@@ -6,7 +6,6 @@ summary = "Junk.com transformed its signature junk removal truck into an interac
 description = "Junk.com participates in Ridez N Rodz Car Show, supporting Family Worship Center's children's programs. CEO Nicole Turturici highlights community impact."
 source_link = "https://www.citybiz.co/article/759895/junk-com-trades-junk-for-joy-at-ridez-n-rodz-car-show/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/30da8569df0c2bc5c932c3f3c739e353.jpg"
-featured = true
 article_id = 255446
 feed_item_id = 22468
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/2510/16/hikebPOo.webp"

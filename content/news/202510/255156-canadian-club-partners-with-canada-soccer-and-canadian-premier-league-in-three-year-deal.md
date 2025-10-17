@@ -5,6 +5,7 @@ draft = false
 summary = "Canadian Club has secured a three-year partnership as the exclusive whisky and whisky-based RTD beverage partner for Canada Soccer and the Canadian Premier League, positioning the heritage brand at the center of Canada's rapidly growing soccer ecosystem through 2027."
 description = "Canadian Club becomes exclusive whisky partner of Canada Soccer & Canadian Premier League in 3-year deal. Brand activation includes stadium signage, fan experiences & major event sponsorship through 2027."
 source_link = "https://canadian-club.reportablenews.com/pr/canadian-club-signs-on-as-official-partner-of-canada-soccer-and-canadian-premier-league"
+enclosure = "https://cdn.newsramp.app/banners/sports-4.jpg"
 article_id = 255156
 feed_item_id = 22437
 qrcode = "https://cdn.newsramp.app/reportable/qrcode/2510/16/milddfKc.webp"
