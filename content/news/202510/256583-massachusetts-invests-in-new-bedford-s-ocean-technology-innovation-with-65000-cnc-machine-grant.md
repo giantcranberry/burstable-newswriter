@@ -6,7 +6,6 @@ summary = "New Bedford Research & Robotics received state funding to acquire adv
 description = "New Bedford Research & Robotics receives $65,000 MassCEC grant for CNC equipment to advance ocean technology innovation and workforce training in Massachusetts' blue economy."
 source_link = "https://www.citybiz.co/article/760283/new-bedford-research-robotics-awarded-grant-from-massachusetts-clean-energy-center-to-advance-ocean-innovation/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/c4b66de43df73dc108659e73aa52c4ea.jpg"
-featured = true
 article_id = 256583
 feed_item_id = 22533
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/2510/17/riftwNfZ.webp"
