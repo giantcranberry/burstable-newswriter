@@ -6,7 +6,6 @@ summary = "Swiss Watch Gallery has introduced comprehensive on-site jewelry repa
 description = "Swiss Watch Gallery introduces on-site jewelry repair and custom design services at Brea Mall. Master jeweler available for repairs, redesign, and bespoke creations."
 source_link = "https://www.24-7pressrelease.com/press-release/527775/jewelry-services-in-brea-available-at-swiss-watch-gallery-and-fine-jewelry"
 enclosure = "https://cdn.newsramp.app/banners/retail-6.jpg"
-featured = true
 article_id = 256185
 feed_item_id = 22511
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/17/mean5LFa.webp"
