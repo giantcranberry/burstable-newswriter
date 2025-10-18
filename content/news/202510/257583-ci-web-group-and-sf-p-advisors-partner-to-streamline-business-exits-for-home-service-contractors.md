@@ -6,7 +6,6 @@ summary = "A strategic partnership between CI Web Group and SF&P Advisors provid
 description = "CI Web Group partners with SF&P Advisors to provide home service contractors with integrated digital growth and exit strategy services for successful business sales."
 source_link = "https://mediawiretoday.com/ci-web-group-and-sfp-advisors-collaborate-for-contractor-growth-391407"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/10ddd560bed54478ddd3ac3c892993a8.jpg"
-featured = true
 article_id = 257583
 feed_item_id = 22582
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/18/tileg6bI.webp"
