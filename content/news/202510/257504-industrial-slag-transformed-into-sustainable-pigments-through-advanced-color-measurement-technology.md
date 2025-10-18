@@ -6,7 +6,6 @@ summary = "New research demonstrates how industrial slag can be converted into v
 description = "Threenh Technology transforms industrial slag into eco-friendly pigments using advanced color measurement. Breakthrough research turns waste into valuable colorants for sustainable manufacturing."
 source_link = "https://www.24-7pressrelease.com/press-release/527796/colorimetercom-cr8-applied-to-slag-color-measurement-major-scientific-research"
 enclosure = "https://cdn.newsramp.app/banners/science-1.jpg"
-featured = true
 article_id = 257504
 feed_item_id = 22580
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/18/daveNSVq.webp"
