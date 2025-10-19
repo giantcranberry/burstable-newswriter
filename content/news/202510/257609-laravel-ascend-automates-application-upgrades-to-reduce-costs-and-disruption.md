@@ -6,7 +6,6 @@ summary = "Golden Path Digital's new automated tool streamlines Laravel applicat
 description = "Golden Path Digital launches Laravel Ascend, an automated tool that revolutionizes Laravel framework upgrades by reducing timelines from months to days while preventing breaking changes."
 source_link = "https://mediawiretoday.com/streamline-your-laravel-upgrade-with-laravel-ascend-391509"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/4f0dfc9e4c210d421acf0578d1db0426.jpg"
-featured = true
 article_id = 257609
 feed_item_id = 22583
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/18/joltVbej.webp"
