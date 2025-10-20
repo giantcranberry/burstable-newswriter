@@ -6,7 +6,6 @@ summary = "The new Search Atlas WordPress Plugin provides agencies and brands wi
 description = "Search Atlas launches new WordPress SEO plugin with real-time auditing and content assistance tools. Enhance your website's search visibility with this comprehensive solution for agencies and brands."
 source_link = "https://mediawiretoday.com/unlock-seo-success-with-the-new-search-atlas-wordpress-plugin-391552"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/33692930940883538f7d0ed6e17f5705.jpg"
-featured = true
 article_id = 257623
 feed_item_id = 22584
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/18/wamckgKf.webp"
