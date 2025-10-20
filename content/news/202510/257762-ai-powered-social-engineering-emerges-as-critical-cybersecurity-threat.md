@@ -6,7 +6,6 @@ summary = "Artificial intelligence is revolutionizing social engineering attacks
 description = "Windes analysis reveals how AI-powered social engineering and deepfake technology are revolutionizing cybercrime, creating unprecedented threats that bypass traditional security defenses."
 source_link = "https://www.24-7pressrelease.com/press-release/527825/ai-integration-marks-critical-escalation-in-cyber-threats"
 enclosure = "https://cdn.newsramp.app/banners/frontier-tech-6.jpg"
-featured = true
 article_id = 257762
 feed_item_id = 22593
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/20/harpeEPQ.webp"
