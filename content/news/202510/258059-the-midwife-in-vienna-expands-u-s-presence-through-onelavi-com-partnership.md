@@ -6,7 +6,6 @@ summary = "European wellness brand The Midwife in Vienna has launched its organi
 description = "Midwife in Vienna's organic maternity & baby products now available on OneLavi.com. Certified organic, sustainable European wellness brand expands US access."
 source_link = "https://newsworthy.ai/news/202510201836/the-midwife-in-vienna-expands-u-s-presence-with-launch-on-onelavi-com"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/5c97c26e9a417de28b0c94380ec0deb1.png"
-featured = true
 article_id = 258059
 feed_item_id = 22608
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/2510/20/pavez0qC.webp"
