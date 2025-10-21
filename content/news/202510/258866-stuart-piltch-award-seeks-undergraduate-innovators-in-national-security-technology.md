@@ -6,7 +6,6 @@ summary = "The Stuart Piltch Award for National Security is inviting undergradua
 description = "The Stuart Piltch Award for National Security invites undergraduate students to submit essays on emerging technology's impact on national defense. Apply by Nov 15, 2025."
 source_link = "https://www.24-7pressrelease.com/press-release/527867/stuart-piltch-launches-award-for-national-security-to-inspire-future-leaders-in-technology-and-defense"
 enclosure = "https://cdn.newsramp.app/banners/awards-1.jpg"
-featured = true
 article_id = 258866
 feed_item_id = 22662
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/21/icyi1Nk.webp"
