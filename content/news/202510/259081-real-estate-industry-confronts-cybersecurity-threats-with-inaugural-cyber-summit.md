@@ -1,0 +1,15 @@
++++
+title = "Real Estate Industry Confronts Cybersecurity Threats with Inaugural Cyber Summit"
+date = "2025-10-21T07:00:34Z"
+draft = false
+summary = "The real estate industry is addressing escalating cybersecurity threats to smart buildings and critical infrastructure through the inaugural Real Estate Cyber Summit, bringing together security professionals to develop protection strategies."
+description = "Realcomm launches inaugural Real Estate Cyber Summit on Nov 6 in DC metro area to address cybersecurity threats facing smart buildings and critical infrastructure."
+source_link = "https://www.24-7pressrelease.com/press-release/527882/real-estate-cyber-summit-your-must-attend-event-on-cybersecurity-in-the-built-environment"
+enclosure = "https://cdn.newsramp.app/banners/events-6.jpg"
+article_id = 259081
+feed_item_id = 22645
+qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/21/ableQvVj.webp"
+source = "24-7 Press Release"
++++
+
+<p>The real estate industry faces escalating cybersecurity threats that place critical infrastructure and smart building systems at risk, prompting the creation of the inaugural Real Estate Cyber Summit scheduled for November 6. Organized by Realcomm Conference Group, the event will take place at a SCIF hosted by COPT Defense Properties in the Washington, D.C. metro area, targeting security-minded professionals navigating the intersection of real estate and cyber risk.</p><p>This one-day summit will focus on growing cyber challenges affecting smart buildings, facilities, critical infrastructure, and enterprise automation. The comprehensive program addresses cybersecurity in the built environment, including IT processes, smart building operations, and critical infrastructure protection. Expert-led panels will feature leaders from real estate, cybersecurity, defense, and technology sectors who will unpack risks associated with IT and OT system integration.</p><p>Attendees will examine real-world case studies highlighting recent threats, IT and OT breaches, and lessons learned across various building systems. The summit includes hands-on technical sessions exploring IT/OT integration, operational risks, and system vulnerabilities specific to real estate environments. Participants will also benefit from strategic networking opportunities with cybersecurity-conscious professionals at the secure facility near Washington, D.C.</p><p>Jim Young, co-founder and CEO of Realcomm, emphasized the event's significance, stating that it brings together leading minds in real estate and cybersecurity to share strategies that could prevent major breaches. The summit represents a critical gathering for professionals seeking to protect assets and organizations from evolving cyber threats in the built environment. Registration and additional information are available at <a href="https://realcommevents.com/cybersummit/" rel="nofollow" target="_blank">https://realcommevents.com/cybersummit/</a>.</p>
