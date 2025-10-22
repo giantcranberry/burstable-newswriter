@@ -6,7 +6,6 @@ summary = "Families attempting estate administration without legal guidance face
 description = "PA law firm warns DIY estate administration risks costly errors, delays & family disputes. Learn why professional probate guidance protects assets & prevents liability issues."
 source_link = "https://www.24-7pressrelease.com/press-release/527918/carosella-associates-warns-families-about-the-financial-risks-of-diy-estate-administration"
 enclosure = "https://cdn.newsramp.app/banners/legal-7.jpg"
-featured = true
 article_id = 260349
 feed_item_id = 22737
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/22/nuke4LSM.webp"
