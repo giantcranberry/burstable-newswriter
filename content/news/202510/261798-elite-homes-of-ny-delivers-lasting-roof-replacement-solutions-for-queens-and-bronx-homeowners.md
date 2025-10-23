@@ -6,7 +6,6 @@ summary = "Elite Homes of NY provides comprehensive roof replacement services th
 description = "Elite Homes of NY provides premium roof replacement services in Queens & Bronx with certified installation, quality materials, and lifetime protection guarantees for homeowners."
 source_link = "https://mediawiretoday.com/hard-working-roofers-for-hard-working-homes-in-queens-the-bronx-391999"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/6dadb736b7c2b595972f0e33fa8fe150.png"
-featured = true
 article_id = 261798
 feed_item_id = 22807
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/23/waitIXOc.webp"
