@@ -6,7 +6,6 @@ summary = "LALICIOUS has appointed Carla Restaino as Social Media Manager for a 
 description = "LALICIOUS appoints Carla Restaino as Social Media Manager for multi-year Holiday Collections initiative 2025-2028, featuring integrated digital campaigns across Instagram, TikTok & Meta partnerships."
 source_link = "https://www.24-7pressrelease.com/press-release/528014/lalicious-appoints-carla-restaino-to-lead-multi-year-holiday-collections-campaign-20252028"
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-6.jpg"
-featured = true
 article_id = 263286
 feed_item_id = 22891
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/24/fineqr_9.webp"

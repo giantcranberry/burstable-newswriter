@@ -1,0 +1,15 @@
++++
+title = "SEGG Media Launches Second Season of Máximo Fútbol Amid Growing Latin American Sports Engagement"
+date = "2025-10-24T13:25:22Z"
+draft = false
+summary = "SEGG Media Corporation is expanding its successful Máximo Fútbol series with a second season featuring enhanced production and expanded storylines, capitalizing on growing global football interest ahead of the 2026 FIFA World Cup."
+description = "SEGG Media announces Season 2 of 'Máximo Fútbol' after record Mexico debut. New season features expanded storylines ahead of FIFA World Cup with Q1 2026 filming."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-segg-media-corporation-nasdaq-segg-ltryw-expands-global-sports-footprint-with-season-two-of-maximo-futbol/"
+enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-8.jpg"
+article_id = 264042
+feed_item_id = 22908
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/24/elle6iJT.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>SEGG Media Corporation has announced the launch of the second season of Máximo Fútbol through its Sports.com Studios LATAM division, following the series' record-breaking debut in Mexico. The global sports, entertainment, and gaming conglomerate is expanding its international sports programming as audience engagement continues to grow across Latin American and international markets.</p><p>Season Two of the popular football series will feature expanded storylines, new teams, and enhanced production quality designed to capture the growing influence of Latin American football. The timing coincides with increasing global interest in the sport leading up to the FIFA World Cup. Filming for the new season is scheduled to begin in the first quarter of 2026, with a planned premiere in April of that year.</p><p>Company executives Tim Scoffham and Matthew McGahan stated that the series' success underscores SEGG Media's strategic approach of combining local relevance with global reach. Producer Miguel Sanchez emphasized that Máximo Fútbol has become a celebration of Mexico's passion and community, reflecting the cultural significance of football in the region.</p><p>The LATAM expansion follows SEGG Media's accelerating momentum across its global platform. The company recently reported more than 10 million views from the Kerala Super League within its integrated, revenue-generating global platform. Additional information about the company's developments is available in their newsroom at <a href="https://ibn.fm/SEGG" rel="nofollow" target="_blank">https://ibn.fm/SEGG</a>.</p><p>SEGG Media operates a portfolio of digital assets including Sports.com, Concerts.com and Lottery.com, focusing on immersive fan engagement, ethical gaming and AI-driven live experiences. The company's latest announcement demonstrates its continued commitment to redefining how global audiences interact with sports content. The full press release detailing the Máximo Fútbol expansion can be viewed at <a href="https://ibn.fm/7cwAu" rel="nofollow" target="_blank">https://ibn.fm/7cwAu</a>.</p>
