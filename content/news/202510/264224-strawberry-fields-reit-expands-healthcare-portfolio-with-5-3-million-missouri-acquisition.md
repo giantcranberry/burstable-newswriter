@@ -1,0 +1,15 @@
++++
+title = "Strawberry Fields REIT Expands Healthcare Portfolio with $5.3 Million Missouri Acquisition"
+date = "2025-10-24T17:05:20Z"
+draft = false
+summary = "Strawberry Fields REIT strengthens its healthcare property network with the strategic acquisition of an 18th facility in Missouri, positioning the company to capitalize on growing demographic demand for elder care services."
+description = "Strawberry Fields REIT acquires 18th Missouri facility for $5.3M, adding 124 beds to healthcare portfolio. Expansion addresses aging population needs across 10 states."
+source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-strawberry-fields-reit-inc-nyse-american-strw-expands-portfolio-to-meet-rising-demand/"
+enclosure = "https://cdn.newsramp.app/banners/real-estate-6.jpg"
+article_id = 264224
+feed_item_id = 22925
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/24/eachWsgi.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>Strawberry Fields REIT Inc. (NYSE AMERICAN: STRW) has strengthened its healthcare property portfolio with the acquisition of an 18th facility in Missouri for $5.3 million, adding 108 skilled nursing beds and 16 assisted living beds to its growing network. This strategic expansion brings the company's total portfolio to 142 facilities across 10 states, representing over 15,500 beds dedicated to healthcare services.</p><p>The newly acquired facility is projected to generate approximately $530,000 in additional annual rental income, reinforcing the REIT's financial position while addressing critical healthcare infrastructure needs. This expansion comes at a pivotal time as demographic trends indicate substantial growth in demand for elder care services. Industry projections suggest the population of Americans aged 70 and older will double by 2030, creating unprecedented demand for skilled nursing and assisted living facilities.</p><p>Strawberry Fields REIT's portfolio now includes 130 skilled nursing facilities, 10 assisted living facilities, and two long-term acute care hospitals spread across Arkansas, Illinois, Indiana, Kansas, Kentucky, Missouri, Ohio, Oklahoma, Tennessee, and Texas. The company's focus on medium-sized and independent-living-focused facilities aligns with market trends showing strong growth in the assisted living sector. Investors can access the latest news and updates relating to STRW through the company's dedicated newsroom at <a href="https://ibn.fm/STRW" rel="nofollow" target="_blank">https://ibn.fm/STRW</a>.</p><p>The acquisition demonstrates the REIT's commitment to capitalizing on demographic shifts while maintaining a diversified geographic presence. As the healthcare real estate sector continues to evolve, companies like Strawberry Fields REIT are positioning themselves to meet the complex needs of an aging population through strategic investments in specialized facilities. The full details of this expansion and other corporate developments are available for review at <a href="https://ibn.fm/XxtNL" rel="nofollow" target="_blank">https://ibn.fm/XxtNL</a>, providing comprehensive insight into the company's growth trajectory and market positioning.</p>
