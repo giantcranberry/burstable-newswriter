@@ -6,7 +6,6 @@ summary = "Dr. Alyce Su of PIMCO Partner Family Office presented a tactical thre
 description = "PIMCO's Dr. Alyce Su outlines 3-part investment strategy at wealth forum following Fed rate cut. Learn about bond yields, equity allocations & alternatives for current markets."
 source_link = "https://www.24-7pressrelease.com/press-release/528055/elite-cio-forum-in-beverly-hills-dr-alyce-su-ex-pimco-on-investment-strategies"
 enclosure = "https://cdn.newsramp.app/banners/finance-6.jpg"
-featured = true
 article_id = 264664
 feed_item_id = 22959
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/25/poemofsy.webp"

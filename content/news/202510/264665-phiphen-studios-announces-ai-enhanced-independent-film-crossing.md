@@ -6,6 +6,7 @@ summary = "Phiphen Studios is developing the AI-enhanced short film 'Crossing,' 
 description = "Phiphen Studios announces AI-powered short film 'Crossing' with producer Ryan McCormick. Independent studio integrates emerging technologies while maintaining filmmaking fundamentals."
 source_link = "https://www.24-7pressrelease.com/press-release/528067/phiphen-studios-announces-crossing-a-new-short-film-balancing-innovation-and-tradition-using-ai"
 enclosure = "https://cdn.newsramp.app/banners/arts-entertainment-8.jpg"
+featured = true
 article_id = 264665
 feed_item_id = 22960
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/25/divevDmq.webp"
