@@ -6,6 +6,7 @@ summary = "Australian pet food company Gourmet Delight has introduced a natural,
 description = "Gourmet Delight launches premium grain-free pet food in Australia featuring natural ingredients, real meat recipes, and no artificial additives for healthier cats and dogs."
 source_link = "https://mediawiretoday.com/gourmet-delight-launches-premium-grain-free-pet-food-in-australia-392850"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/3f2d4f9f6723f985f007a35fbcfd06a3.jpg"
+featured = true
 article_id = 265061
 feed_item_id = 22979
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/26/mildqYr2.webp"
