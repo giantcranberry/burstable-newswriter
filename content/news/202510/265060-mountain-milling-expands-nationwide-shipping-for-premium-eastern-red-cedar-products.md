@@ -6,6 +6,7 @@ summary = "Mountain Milling Company now offers nationwide delivery of its premiu
 description = "Mountain Milling Company now offers nationwide shipping for premium eastern red cedar tongue and groove lumber. Access durable, sustainable cedar products for construction and DIY projects across the US."
 source_link = "https://mediawiretoday.com/mountain-milling-co-expands-nationwide-shipping-for-cedar-lumber-392833"
 enclosure = "https://cdn.newsramp.app/press-services/newsimage/3c663e573594f9b7f9167121c8721054.jpg"
+featured = true
 article_id = 265060
 feed_item_id = 22978
 qrcode = "https://cdn.newsramp.app/press-services/qrcode/2510/26/tarobhDi.webp"
