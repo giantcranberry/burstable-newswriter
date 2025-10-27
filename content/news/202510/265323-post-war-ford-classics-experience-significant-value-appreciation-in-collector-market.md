@@ -6,7 +6,6 @@ summary = "Classic Ford vehicles from the post-World War II era are commanding p
 description = "Dusty Cars announces acquisition of 1947 Ford Super Deluxe Coupe, expanding classic car valuation services to include American automotive icons alongside European luxury brands."
 source_link = "https://www.24-7pressrelease.com/press-release/528086/dusty-cars-professional-classic-car-appraisers-and-buyers-updates-info-on-classic-ford-valuation-services"
 enclosure = "https://cdn.newsramp.app/banners/business-corporate-9.jpg"
-featured = true
 article_id = 265323
 feed_item_id = 22994
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/27/glueKlIG.webp"
