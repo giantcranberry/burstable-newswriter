@@ -6,7 +6,6 @@ summary = "Platinum group metals are demonstrating sustained price appreciation 
 description = "Platinum prices surge while gold rally fades, sparking investor interest in platinum group metals. Learn about the market shift and companies like Platinum Group Metals Ltd. benefiting."
 source_link = "https://rss.investorbrandnetwork.com/rns/investor-interest-piqued-as-the-price-of-platinum-surges/"
 enclosure = "https://cdn.newsramp.app/banners/finance-4.jpg"
-featured = true
 article_id = 265625
 feed_item_id = 23008
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/27/yarnsrWt.webp"
