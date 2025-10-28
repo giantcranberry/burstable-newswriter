@@ -6,7 +6,6 @@ summary = "CMN Funding secured $3.25 million across two commercial real estate t
 description = "CMN Funding announces October 2025 deals: $3.1M DC apartment refinance and $148K NY property acquisition. Learn about their commercial financing services."
 source_link = "https://www.24-7pressrelease.com/press-release/528117/cmn-funding-announces-two-closed-transactions"
 enclosure = "https://cdn.newsramp.app/banners/real-estate-7.jpg"
-featured = true
 article_id = 266708
 feed_item_id = 23075
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/28/coolsSzR.webp"
