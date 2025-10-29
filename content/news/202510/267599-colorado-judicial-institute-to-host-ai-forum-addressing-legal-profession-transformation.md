@@ -6,7 +6,6 @@ summary = "The Colorado Judicial Institute is organizing a November 2025 forum b
 description = "Colorado Judicial Institute hosts AI forum for legal professionals on November 6, 2025. Judges and experts discuss AI ethics, courtroom impacts, and responsible adoption in legal practice with CLE credits available."
 source_link = "https://newsworthy.ai/news/202510281866/colorado-judicial-institute-addresses-the-influence-of-ai-on-the-legal-community"
 enclosure = "https://cdn.newsramp.app/newsworthy/newsimage/508ec16ffcdb553cd37b07bb23e996ca.png"
-featured = true
 article_id = 267599
 feed_item_id = 23110
 qrcode = "https://cdn.newsramp.app/newsworthy/qrcode/2510/28/envyD_tZ.webp"
