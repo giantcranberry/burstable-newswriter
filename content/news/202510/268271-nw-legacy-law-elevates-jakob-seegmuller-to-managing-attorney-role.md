@@ -6,7 +6,6 @@ summary = "NW Legacy Law has promoted Jakob Seegmuller to managing attorney, sig
 description = "NW Legacy Law announces Jake's promotion to leadership role, strengthening estate planning services in WA & OR. Trusted attorneys guide families through complex legal matters."
 source_link = "https://www.24-7pressrelease.com/press-release/528149/nw-legacy-law-announces-promotion-of-jakob-seegmuller-to-managing-attorney"
 enclosure = "https://cdn.newsramp.app/banners/legal-7.jpg"
-featured = true
 article_id = 268271
 feed_item_id = 23157
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/29/mailbQtA.webp"
