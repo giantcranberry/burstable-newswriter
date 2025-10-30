@@ -1,0 +1,15 @@
++++
+title = "Gold Prices Drop Below $4,000 as US-China Trade Progress Reduces Safe-Haven Demand"
+date = "2025-10-30T14:20:47Z"
+draft = false
+summary = "Gold prices fell over 3% to $3,980 per ounce as easing trade tensions between the United States and China shifted investor sentiment away from safe-haven assets toward riskier investments."
+description = "Gold prices drop below $4,000 as US-China trade tensions ease, triggering 3% selloff. Platinum Group Metals Ltd. and mining companies watch market movements closely."
+source_link = "https://rss.investorbrandnetwork.com/mnw/trade-war-truce-between-china-the-us-triggers-gold-selloff/"
+enclosure = "https://cdn.newsramp.app/banners/finance-9.jpg"
+article_id = 270423
+feed_item_id = 23252
+qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/30/davecexN.webp"
+source = "InvestorBrandNetwork (IBN)"
++++
+
+<p>The price of gold dropped below $4,000 an ounce as easing trade tensions between China and the United States triggered a significant selloff in precious metals markets. Spot gold slipped by over 3% to reach $3,980 per ounce, marking one of the largest single-day declines in recent months as diplomatic progress between the world's two largest economies reduced investor demand for safe-haven assets.</p><p>Diplomats from both countries are preparing a series of achievements for Chinese leader Xi Jinping and President Donald Trump to announce at their upcoming summit this week. The anticipated diplomatic breakthrough has shifted market sentiment away from defensive investments like gold toward riskier assets that stand to benefit from improved trade relations. Companies involved in gold production, including Platinum Group Metals Ltd., will be watching market developments keenly as the price movement could significantly impact their operations and profitability.</p><p>The market reaction underscores how geopolitical developments between major economic powers can rapidly influence commodity prices and investment flows. The gold selloff represents a broader shift in investor confidence as markets anticipate reduced trade barriers and improved economic cooperation between the US and China. For more information about market developments in the mining sector, visit <a href="https://www.MiningNewsWire.com" rel="nofollow" target="_blank">https://www.MiningNewsWire.com</a>.</p><p>This price movement comes amid ongoing volatility in precious metals markets, with gold having reached record highs earlier this year amid escalating trade tensions. The reversal suggests that investors are pricing in reduced economic uncertainty and potential progress in resolving longstanding trade disputes that have weighed on global growth prospects. The upcoming summit between Xi and Trump represents a critical juncture in US-China relations, with outcomes likely to have lasting implications for global trade patterns and commodity markets.</p>

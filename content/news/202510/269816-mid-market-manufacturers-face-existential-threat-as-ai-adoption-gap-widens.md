@@ -6,7 +6,6 @@ summary = "Research reveals fewer than 20% of manufacturers have deployed AI sol
 description = "Mid-market manufacturers risk falling behind as AI adoption lags. SYSPRO research shows under 20% use AI despite pandemic proving manual tracking unsustainable. Asset intelligence delivers ROI."
 source_link = "https://www.citybiz.co/article/765388/from-barcode-scans-to-asset-intelligence-why-mid-market-manufacturers-cant-afford-to-wait-on-ai/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/ac2f3eb5dd26b5ff256388259b34b11a.png"
-featured = true
 article_id = 269816
 feed_item_id = 23248
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/2510/30/jokekuUv.webp"
