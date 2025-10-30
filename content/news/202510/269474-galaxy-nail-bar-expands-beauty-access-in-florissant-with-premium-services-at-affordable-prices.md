@@ -6,7 +6,6 @@ summary = "Galaxy Nail Bar's comprehensive approach to luxury beauty services at
 description = "Galaxy Nail Bar in Florissant offers premium manicures, pedicures, eyelash extensions & beauty services with 40+ technicians. Open 7 days with affordable luxury treatments."
 source_link = "https://www.24-7pressrelease.com/press-release/528188/galaxy-nail-bar-in-florissant-mo-offers-luxurious-nail-and-beauty-services-at-affordable-prices"
 enclosure = "https://cdn.newsramp.app/banners/consumer-lifestyle-9.jpg"
-featured = true
 article_id = 269474
 feed_item_id = 23229
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/30/dualM_e4.webp"
