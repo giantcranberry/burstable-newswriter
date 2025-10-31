@@ -6,7 +6,6 @@ summary = "The rapid expansion of artificial intelligence infrastructure is crea
 description = "MAX Power Mining leads North America's natural hydrogen revolution to solve AI's growing power crisis. Discover how this clean energy breakthrough could transform computing infrastructure."
 source_link = "https://rss.investorbrandnetwork.com/iw/investornewsbreaks-max-power-mining-cse-maxx-otc-maxxf-frankfurt-89n-featured-in-networknewsaudio-on-natural-hydrogen-as-a-clean-energy-solution-for-ai-growth/"
 enclosure = "https://cdn.newsramp.app/banners/environment-energy-7.jpg"
-featured = true
 article_id = 271401
 feed_item_id = 23346
 qrcode = "https://cdn.newsramp.app/ibn/qrcode/2510/31/calmeRAh.webp"
