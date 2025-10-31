@@ -6,7 +6,6 @@ summary = "Scrofano Law PC has strengthened its Maryland criminal defense practi
 description = "Scrofano Law PC welcomes veteran criminal defense attorney Paolo Gnocchi to their Maryland team. The trilingual lawyer brings 20+ years experience in DUI, drug, and felony cases."
 source_link = "https://www.24-7pressrelease.com/press-release/528294/paolo-gnocchi-joins-scrofano-law-pc-after-two-decades-defending-clients-in-maryland-and-dc"
 enclosure = "https://cdn.newsramp.app/banners/legal-7.jpg"
-featured = true
 article_id = 271013
 feed_item_id = 23326
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2510/31/urgeTHNW.webp"
