@@ -6,7 +6,6 @@ summary = "The new Play It Again Sports store in Saline provides families with a
 description = "Play It Again Sports opens new Saline location November 6 at 551 E Michigan Ave. Local owners Jen & Rick Karcher bring affordable sports equipment & community partnerships."
 source_link = "https://www.citybiz.co/article/765865/play-it-again-sports-celebrates-grand-opening-in-saline/"
 enclosure = "https://cdn.newsramp.app/citybiz/newsimage/58de0c5d0cac7b053515b6318cedcbfa.jpg"
-featured = true
 article_id = 270411
 feed_item_id = 23281
 qrcode = "https://cdn.newsramp.app/citybiz/qrcode/2510/30/lilyxgOn.webp"
