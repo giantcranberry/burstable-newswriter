@@ -6,6 +6,7 @@ summary = "Goldsmith Gallery Jewelers is hosting a series of November events fea
 description = "Goldsmith Gallery Jewelers launches November holiday events featuring Robert Procop and Roberto Coin showcases, plus Black Friday specials. Shop exclusive designer jewelry in Billings, MT."
 source_link = "https://www.24-7pressrelease.com/press-release/528330/get-ready-to-shine-this-season-exciting-november-events-at-goldsmith-gallery-jewelers"
 enclosure = "https://cdn.newsramp.app/banners/events-4.jpg"
+featured = true
 article_id = 272366
 feed_item_id = 23400
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2511/1/deepjTdQ.webp"

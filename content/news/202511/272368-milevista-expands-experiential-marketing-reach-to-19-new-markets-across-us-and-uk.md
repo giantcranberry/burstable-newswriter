@@ -6,7 +6,6 @@ summary = "Milevista's expansion into 19 additional markets enables brands to sc
 description = "Milevista expands experiential marketing to 19 new US and UK markets, combining live brand experiences with data-driven measurement for scalable, measurable consumer connections."
 source_link = "https://www.24-7pressrelease.com/press-release/528325/milevista-culver-city-expands-to-19-markets-across-the-us-and-uk-bringing-real-world-marketing-to-new-communities"
 enclosure = "https://cdn.newsramp.app/banners/marketing-advertising-pr-7.jpg"
-featured = true
 article_id = 272368
 feed_item_id = 23402
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2511/1/keepJ76_.webp"
