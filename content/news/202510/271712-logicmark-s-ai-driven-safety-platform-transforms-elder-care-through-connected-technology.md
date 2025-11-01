@@ -6,7 +6,6 @@ summary = "LogicMark Inc. is revolutionizing personal safety for aging adults by
 description = "LogicMark Inc. launches AI-driven SaaS platform for elderly safety monitoring, targeting $147B market by 2037. Real-time fall detection & location tracking empowers caregivers."
 source_link = "https://www.newmediawire.com/news/logicmark-s-holistic-approach-leveraging-artificial-intelligence-and-saas-to-protect-aging-loved-ones-7083792"
 enclosure = "https://cdn.newsramp.app/newmediawire/newsimage/9a224bde9862c9e3b9d532b9239c4ee2None"
-featured = true
 article_id = 271712
 feed_item_id = 23361
 qrcode = "https://cdn.newsramp.app/newmediawire/qrcode/2510/31/fineCGw5.webp"
