@@ -6,7 +6,6 @@ summary = "Omni Insurance Services has expanded into Pennsylvania and Georgia wi
 description = "OMNI Insurance launches shop-the-market approach in PA & GA with InsuranceRx, multi-carrier access & rate management tools. Get free coverage assessment via IBU partnership."
 source_link = "https://www.24-7pressrelease.com/press-release/528335/omni-insurance-services-llc-launches-in-pennsylvania-and-georgia"
 enclosure = "https://cdn.newsramp.app/banners/insurance-5.jpg"
-featured = true
 article_id = 272452
 feed_item_id = 23404
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2511/2/jazzE_WL.webp"

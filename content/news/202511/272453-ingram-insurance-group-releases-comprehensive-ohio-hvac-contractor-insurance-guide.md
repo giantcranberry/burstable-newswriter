@@ -6,6 +6,7 @@ summary = "Ingram Insurance Group has published a specialized resource addressin
 description = "Ingram Insurance Group releases Ohio HVAC insurance guide covering contractor risks, coverage types, cost-saving strategies, and compliance requirements for heating and cooling professionals statewide."
 source_link = "https://www.24-7pressrelease.com/press-release/528338/dayton-insurance-agency-releases-comprehensive-guide-to-hvac-contractor-coverage-in-ohio"
 enclosure = "https://cdn.newsramp.app/banners/insurance-8.jpg"
+featured = true
 article_id = 272453
 feed_item_id = 23405
 qrcode = "https://cdn.newsramp.app/24-7PressRelease/qrcode/2511/2/envydEhn.webp"
